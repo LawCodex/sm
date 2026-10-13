@@ -1,0 +1,7 @@
+requests
+lxml
+beautifulsoup4
+markdownify
+html2text
+pyyaml
+pypdf

@@ -1,0 +1,12641 @@
+---
+title: "Testo Coordinato in materia di Codice Ambientale (aggiornato al 7 agosto 2017)"
+identifier: "documento17093908"
+type: consolidated_text
+jurisdiction: sm
+language: it
+last_amended: 2017-08-07
+status: in_force
+category: "2 - Normativa in materia di tutela ambientale"
+note: "Testo coordinato con valore ricognitivo (art. 82 Legge 22 dicembre 2015 n.189); non costituisce fonte normativa."
+source: "https://www.consigliograndeegenerale.sm/on-line/documento17093908.html"
+retrieved: 2026-10-13
+---
+
+# Testo Coordinato in materia di Codice Ambientale (aggiornato al 7 agosto 2017)
+
+DECRETO DELEGATO 27 aprile 2012 n.44 CODICE AMBIENTALE
+
+TESTO COORDINATO con le modifiche derivanti dal Decreto Delegato 10 giugno 2014 n. 88, dalla Legge 22 dicembre 2015 n. 189, dal Decreto Delegato 31 gennaio 2017 n. 16 e dalla Legge 7 agosto 2017 n. 94 ATTI NORMATIVI CITATI NEL TESTO COORDINATO
+
+Legge 21 settembre 2009 n. 131 Decreto Delegato 27 aprile 2012 n. 44 Decreto Delegato 25 luglio 2013 n. 97 Decreto Delegato 10 giugno 2014 n. 88 Decreto Delegato 26 gennaio 2015 n. 5 Regolamento 2 dicembre 2015 n. 16 Errata corrige al Regolamento 2 dicembre 2015 n. 16 Legge 22 dicembre 2015 n. 189 Decreto Delegato 12 ottobre 2016 n. 134 Decreto Delegato 18 gennaio 2017 n. 12 Decreto Delegato 31 gennaio 2017 n. 16 Legge 7 agosto 2017 n. 94
+
+Avvertenza.
+
+I testi coordinati non hanno valenza normativa ma sono esclusivamente finalizzati a consentire agli utenti la fruizione di testi sistematici ed aggiornati. Per il valore legale dei testi di legge si rimanda ai singoli provvedimenti normativi così come gli stessi sono stati approvati dal Consiglio Grande e Generale e pubblicati nel Bollettino Ufficiale: durante il processo di trasposizione delle singole norme e degli allegati, nel testo coordinato, eventuali errori possono essere possibili.
+
+I provvedimenti normativi riportati nella parte “ALTRE NORME” non sono riprodotti nella loro interezza: vi sono, infatti, unicamente evidenziati articoli contenenti disposizioni formulate senza apportare modifiche dirette al testo ma comunque pertinenti.
+
+DECRETO DELEGATO 27 aprile 2012 n.44 CODICE AMBIENTALE TESTO COORDINATO con le modifiche derivanti dal Decreto Delegato 10 giugno 2014 n. 88, dalla Legge 22 dicembre 2015 n. 189, dal Decreto Delegato 31 gennaio 2017 n. 16 e dalla Legge 7 agosto 2017 n. 94 (aggiornato al 7 agosto 2017)
+
+### TITOLO I
+
+DISPOSIZIONI COMUNI E PRINCIPI GENERALI DEL CODICE
+
+#### CAPO I
+
+FINALITÀ E AMBITO DI APPLICAZIONE
+
+###### Art. 1
+
+(Finalità)
+
+1.
+
+Il presente Codice ha come obiettivo primario la promozione dei livelli di qualità della vita umana, da realizzare attraverso la salvaguardia ed il miglioramento delle condizioni dell’ambiente e l’utilizzazione accorta e razionale delle risorse naturali.
+
+2.
+
+Per le finalità di cui al comma 1, il presente Codice provvede al riordino, al coordinamento e all’integrazione delle disposizioni legislative nelle materie di cui all’articolo 1, in conformità ai principi e criteri direttivi di cui alla Legge 21 settembre 2009 n. 131 e nel rispetto degli obblighi internazionali e dell’ordinamento comunitario.
+
+###### Art. 2
+
+(Ambito di applicazione)
+
+1.
+
+Il presente Codice disciplina, in attuazione della Legge 21 settembre 2009 n. 131 “Legge delega per il riordino e l’aggiornamento della normativa in materia ambientale”, le materie seguenti:
+
+a) nel titolo primo, le finalità e l’ambito di applicazione del Codice, gli organi, gli uffici e gli Enti operanti nella tutela dell’ambiente;
+
+b) nel titolo secondo, la gestione dei rifiuti;
+
+c) nel titolo terzo, la tutela della salute dal rischio amianto;
+
+d) nel titolo quarto, la difesa delle acque e la gestione delle risorse idriche;
+
+e) nel titolo quinto, la tutela dell’aria e la riduzione delle emissioni in atmosfera;
+
+f) nel titolo sesto, la tutela del territorio dall’inquinamento acustico;
+
+g) nel titolo settimo, la protezione dalle esposizioni a campi elettrici, magnetici ed elettromagnetici;
+
+h) nel titolo ottavo, il diritto alle informazioni in materia ambientale e la tutela risarcitoria contro i danni all’ambiente;
+
+i) nel titolo nono, la valutazione dell’impatto ambientale;
+
+l) nel titolo decimo, la disciplina dei procedimenti amministrativi relativi al controllo ed alla vigilanza, le norme procedurali relative all’azione penale e le norme finali.
+
+#### CAPO II
+
+ORGANI, UFFICI ED ENTI PUBBLICI PREPOSTI ALLA TUTELA DELL’AMBIENTE E RISPETTIVE COMPETENZE
+
+###### Art. 3
+
+(Commissione per la Tutela Ambientale)
+
+1\. La Commissione per la Tutela Ambientale (di seguito in breve CTA) è l‘organo con funzioni di indirizzo, promozione e coordinamento generale delle attività pubbliche e private connesse con l‘applicazione delle disposizioni di cui al presente Codice inerenti la tutela dell‘ambiente e, in particolare, la gestione dei rifiuti, la tutela delle acque e dell‘aria, l‘inquinamento acustico, la protezione dalle esposizioni a campi elettrici, magnetici ed elettromagnetici.
+
+2\. La CTA è composta dal Segretario di Stato per il Territorio e l‘Ambiente, che la presiede, dal Segretario di Stato per l‘Industria, l‘Artigianato e il Commercio, dal Segretario di Stato per la Sanità e la Sicurezza Sociale, dal Segretario di Stato per i Rapporti con l‘Azienda Autonoma di Stato per i Servizi Pubblici e da quattro esperti nei settori di competenza, nominati dal Consiglio Grande e Generale per un periodo triennale con possibilità di un‘unica rielezione.
+
+3\. Per la validità delle deliberazioni è necessaria la presenza di almeno tre quarti dei componenti predetti di cui almeno tre esperti. Le deliberazioni della CTA vengono pubblicate sul sito della Segreteria di Stato per il Territorio entro 30 giorni.
+
+4\. Il Presidente può chiamare a far parte della Commissione, con voto consultivo, altri membri del Congresso di Stato, il Dirigente del Dipartimento Prevenzione, il Dirigente dell‘Ufficio Prevenzione Ambiente, altri funzionari dello Stato e rappresentanti delle categorie interessate. Può chiedere agli stessi, nonché a tecnici specialisti esterni qualora vi siano specifiche esigenze, relazioni e pareri.
+
+5\. Alla CTA, in particolare, competono:
+
+a) l‘approvazione del Piano di gestione dei rifiuti di cui all‘articolo 23;
+
+b) l‘approvazione dei Piani di bonifica dei siti contaminati di cui all‘articolo 37;
+
+c) l‘eventuale individuazione delle aree di salvaguardia assoluta e di rispetto di cui all‘articolo 68;
+
+d) l‘approvazione del Piano di gestione e tutela delle acque di cui all‘articolo 94;
+
+e) l‘approvazione del Piano di risanamento per la qualità dell‘aria di cui all‘articolo 121;
+
+f) l‘approvazione della zonizzazione acustica del territorio di cui all‘articolo 125;
+
+g) l‘approvazione dei piani di sviluppo tecnologico di cui all‘articolo 144-bis ed esame dei ricorsi avverso alle ordinanze dell‘UPA emesse nell‘ambito dell‘attività di vigilanza e controllo sul rispetto delle disposizioni del Titolo VII;
+
+h) la indicazione dei criteri generali per un corretto e razionale uso dell‘ambiente nei riguardi dell‘immissione di sostanze inquinanti e dall‘approvvigionamento delle acque, dell‘occupazione del suolo, del conseguimento degli obiettivi di qualità dell‘aria, nei riguardi altresì delle fonti di rumore e dell‘inquinamento acustico e magnetico;
+
+i) l‘adozione dei Regolamenti attuativi previsti dal presente Codice;
+
+l) l‘adozione di delibere e circolari interpretative ed applicative del presente Codice e dei Regolamenti attuativi;
+
+m) la formulazione di proposte al Congresso di Stato in tema di attuazione ed aggiornamento della normativa;
+
+n) l‘approvazione del Piano di risanamento acustico generale di cui all‘articolo 128;
+
+o) l‘approvazione del Piano di gestione dal rischio alluvioni di cui all‘articolo 94-bis;
+
+p) l‘approvazione del Piano di Azione Ambientale di cui all‘articolo 9-ter;
+
+6\. I piani di cui alle lettere a), b), d), e), f), g), n), o) e p) sono adottati dal Congresso di Stato.
+
+7\. La CTA adotta entro il 31 dicembre 2017 i seguenti Regolamenti attuativi:
+
+a) regolamento per il reimpiego dei reflui zoo-agricoli;
+
+b) regolamento per il reimpiego di materiali biodegradabili;
+
+c) regolamento per la predisposizione delle garanzie finanziarie di cui all‘articolo 29, comma 7 così come introdotto dall‘articolo 18 del Decreto Delegato 12 luglio 2016 n.84;
+
+d) regolamento per gli interventi di bonifica di siti contaminati di cui all‘articolo 37;
+
+e) regolamento per la prevenzione dei rischi idraulici di cui all‘articolo 77. 1 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 3
+
+(Commissione per la Tutela Ambientale)
+
+1.
+
+La Commissione per la Tutela Ambientale (di seguito in breve CTA) è l’organo con funzioni di indirizzo, promozione e coordinamento generale delle attività pubbliche e private connesse con l’applicazione delle disposizioni di cui al presente Codice inerenti la tutela dell’ambiente e, in particolare, la gestione dei rifiuti, la tutela delle acque e dell’aria, l’inquinamento acustico, la protezione dalle esposizioni a campi elettrici, magnetici ed elettromagnetici.
+
+2.
+
+La CTA è composta dal Segretario di Stato per il Territorio e l’Ambiente, che la presiede, dal Segretario di Stato per l’Industria, l’Artigianato e il Commercio, dal Segretario di Stato per la Sanità e la Sicurezza Sociale, dal Segretario di Stato per i Rapporti con l’Azienda Autonoma di Stato per i Servizi Pubblici e da quattro esperti nei settori di competenza, nominati dal Consiglio Grande e Generale per un periodo triennale con possibilità di un’unica rielezione.
+
+3.
+
+Per la validità delle deliberazioni è necessaria la presenza di almeno tre quarti dei componenti predetti di cui almeno tre esperti.
+
+4.
+
+Il Presidente può chiamare a far parte della Commissione, con voto consultivo, altri membri del Congresso di Stato, il Dirigente del Dipartimento Prevenzione, il Dirigente dell’Ufficio Prevenzione Ambiente, altri funzionari dello Stato e rappresentanti delle categorie interessate. Può chiedere agli stessi relazioni e pareri.
+
+5.
+
+Alla CTA, in particolare, competono:
+
+a) l’elaborazione del Piano di gestione dei rifiuti di cui all’articolo 23;
+
+b) l’elaborazione dei Piani di bonifica dei siti contaminati di cui all’articolo 37;
+
+c) l’eventuale individuazione delle aree di salvaguardia assoluta e di rispetto di cui all’articolo 68;
+
+d) l’approvazione e adozione del Piano di gestione e tutela delle acque di cui all’articolo 94;
+
+e) l’approvazione e adozione del Piano di risanamento per la qualità dell’aria di cui all’articolo 121;
+
+f) l’approvazione e l’adozione della zonizzazione acustica del territorio di cui all’articolo 125;
+
+g) il rilascio dell’autorizzazione per l’installazione di nuove sorgenti di campi elettrici, magnetici ed elettromagnetici di cui all’articolo 145, comma 4 ed esame dei ricorsi avverso alle ordinanze dell’UPA emesse nell’ambito dell’attività di vigilanza e controllo sul rispetto delle disposizioni del Titolo VII;
+
+h) la indicazione dei criteri generali per un corretto e razionale uso dell’ambiente nei riguardi dell’immissione di sostanze inquinanti e dall’approvvigionamento delle acque, dell’occupazione del suolo, del conseguimento di obiettivi di qualità dell’aria, nei riguardi altresì delle fonti di rumore e dell’inquinamento acustico e magnetico;
+
+i) l’adozione dei Regolamenti attuativi previsti dal presente Codice;
+
+l) l’adozione di delibere e circolari interpretative ed applicative del presente Codice e dei Regolamenti attuativi;
+
+m) la formulazione di proposte al Congresso di Stato in tema di attuazione ed aggiornamento della normativa.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 2:
+
+L‘articolo 3 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ― Art. 3 (Commissione per la Tutela Ambientale)
+
+1\. La Commissione per la Tutela Ambientale (di seguito in breve CTA) è l‘organo con funzioni di indirizzo, promozione e coordinamento generale delle attività pubbliche e private connesse con l‘applicazione delle disposizioni di cui al presente Codice inerenti la tutela dell‘ambiente e, in particolare, la gestione dei rifiuti, la tutela delle acque e dell‘aria, l‘inquinamento acustico, la protezione dalle esposizioni a campi elettrici, magnetici ed elettromagnetici.
+
+2\. La CTA è composta dal Segretario di Stato per il Territorio e l‘Ambiente, che la presiede, dal Segretario di Stato per l‘Industria, l‘Artigianato e il Commercio, dal Segretario di Stato per la Sanità e la Sicurezza Sociale, dal Segretario di Stato per i Rapporti con l‘Azienda Autonoma di Stato per i Servizi Pubblici e da quattro esperti nei settori di competenza, nominati dal Consiglio Grande e Generale per un periodo triennale con possibilità di un‘unica rielezione.
+
+3\. Per la validità delle deliberazioni è necessaria la presenza di almeno tre quarti dei componenti predetti di cui almeno tre esperti. Le deliberazioni della CTA vengono pubblicate sul sito della Segreteria di Stato per il Territorio entro 30 giorni.
+
+4\. Il Presidente può chiamare a far parte della Commissione, con voto consultivo, altri membri del Congresso di Stato, il Dirigente del Dipartimento Prevenzione, il Dirigente dell‘Ufficio Prevenzione Ambiente, altri funzionari dello Stato e rappresentanti delle categorie interessate. Può chiedere agli stessi, nonché a tecnici specialisti esterni qualora vi siano specifiche esigenze, relazioni e pareri.
+
+5\. Alla CTA, in particolare, competono:
+
+a) l‘approvazione del Piano di gestione dei rifiuti di cui all‘articolo 23;
+
+b) l‘approvazione dei Piani di bonifica dei siti contaminati di cui all‘articolo 37;
+
+c) l‘eventuale individuazione delle aree di salvaguardia assoluta e di rispetto di cui all‘articolo 68;
+
+d) l‘approvazione del Piano di gestione e tutela delle acque di cui all‘articolo 94;
+
+e) l‘approvazione del Piano di risanamento per la qualità dell‘aria di cui all‘articolo 121;
+
+###### Art. 4
+
+(Collegio Tecnico)
+
+1\. Il Collegio Tecnico (di seguito in breve CT) è l‘organo tecnico formato dai quattro esperti di cui al comma 2 dell‘articolo 3, che nomina al proprio interno annualmente un coordinatore, cui compete il rilascio delle seguenti autorizzazioni:
+
+a) autorizzazioni per la gestione dei rifiuti con esclusione di quelle rilasciate dall‘UPA ai sensi dell‘articolo 6;
+
+b) autorizzazione per lo scarico di acque reflue domestiche, industriali e urbane;
+
+c) autorizzazione per stabilimento con emissioni in atmosfera;
+
+d) autorizzazioni per l‘installazione di nuove sorgenti di campi elettrici, magnetici ed elettromagnetici di cui all‘articolo 145, comma 1;
+
+e) autorizzazione al reimpiego per reflui zoo-agricoli da rilasciarsi previa presentazione di domanda redatta secondo la modulistica approvata dal CT medesimo;
+
+f) autorizzazione al reimpiego di materiali biodegradabili, da rilasciarsi previa presentazione di domanda redatta secondo la modulistica approvata dal CT medesimo;
+
+g) autorizzazione per l‘apertura di captazioni di cui all‘articolo 86, da utilizzarsi nell‘ambito di attività di impresa;
+
+h) autorizzazione all‘iscrizione all‘Albo delle ditte abilitate alla bonifica dell‘amianto di cui all‘articolo 45 comma 2;
+
+i) autorizzazione alla restituibilità degli ambienti oggetto di bonifica da materiali contenenti amianto;
+
+l) approvazione del piano di risanamento, previo parere dell‘UPA, delle sorgenti di campi elettrici, magnetici ed elettromagnetici esistenti di cui all‘articolo 145, comma 2;
+
+m) autorizzazioni per le sorgenti di campi elettrici, magnetici ed elettromagnetici esistenti, di potenza compresa tra 5 e 15 Watt, di cui all‘articolo 145, comma 6.
+
+2\. Il CT ha, inoltre, facoltà di adottare delibere e circolari interpretative ed applicative del presente Codice dei Regolamenti attuativi.
+
+3\. Il CT è il referente tecnico dell‘Ufficio Prevenzione e Ambiente.
+
+4\. Al CT possono essere inoltrati i ricorsi di cui all‘articolo 184.
+
+5\. Nell‘esercizio della loro funzione i membri del CT assumono le stesse responsabilità e doveri stabiliti per i pubblici dipendenti.
+
+f) l‘approvazione della zonizzazione acustica del territorio di cui all‘articolo 125;
+
+g) l‘approvazione dei piani di sviluppo tecnologico di cui all‘articolo 144-bis ed esame dei ricorsi avverso alle ordinanze dell‘UPA emesse nell‘ambito dell‘attività di vigilanza e controllo sul rispetto delle disposizioni del Titolo VII;
+
+h) la indicazione dei criteri generali per un corretto e razionale uso dell‘ambiente nei riguardi dell‘immissione di sostanze inquinanti e dall‘approvvigionamento delle acque, dell‘occupazione del suolo, del conseguimento degli obiettivi di qualità dell‘aria, nei riguardi altresì delle fonti di rumore e dell‘inquinamento acustico e magnetico;
+
+i) l‘adozione dei Regolamenti attuativi previsti dal presente Codice;
+
+l) l‘adozione di delibere e circolari interpretative ed applicative del presente Codice e dei Regolamenti attuativi;
+
+m) la formulazione di proposte al Congresso di Stato in tema di attuazione ed aggiornamento della normativa;
+
+n) l‘approvazione del Piano di risanamento acustico generale di cui all‘articolo 128;
+
+o) l‘approvazione del Piano di gestione dal rischio alluvioni di cui all‘articolo 94-bis;
+
+p) l‘approvazione del Piano di Azione Ambientale di cui all‘articolo 9-ter;
+
+6\. I piani di cui alle lettere a), b), d), e), f), g), n), o) e p) sono adottati dal Congresso di Stato.
+
+7\. La CTA adotta entro il 31 dicembre 2017 i seguenti Regolamenti attuativi:
+
+a) regolamento per il reimpiego dei reflui zoo-agricoli;
+
+b) regolamento per il reimpiego di materiali biodegradabili;
+
+c) regolamento per la predisposizione delle garanzie finanziarie di cui all‘articolo 29, comma 7 così come introdotto dall‘articolo 18 del Decreto Delegato 12 luglio 2016 n.84;
+
+d) regolamento per gli interventi di bonifica di siti contaminati di cui all‘articolo 37;
+
+e) regolamento per la prevenzione dei rischi idraulici di cui all‘articolo 77.
+
+5-bis. Le deliberazioni del CT vengono pubblicate entro 30 giorni sul sito della Segreteria di Stato per il Territorio.2
+
+###### Art. 5
+
+(Azienda Autonoma di Stato per i Servizi Pubblici)
+
+1\. In materia di rifiuti, l’Azienda Autonoma di Stato per i Servizi Pubblici (di seguito in breve AASS), svolge le seguenti attività e servizi:
+
+a) gestione dei rifiuti urbani;
+
+b) gestione dei rifiuti speciali, limitatamente alle capacità del Servizio e con le modalità di cui al Regolamento indicato al comma 5, lettera a);
+
+c) gestione della raccolta differenziata;
+
+d) attività di sensibilizzazione a beneficio degli utenti, finalizzate alla prevenzione, alla riduzione dei rifiuti e ad una corretta raccolta differenziata.
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 4
+
+(Collegio Tecnico)
+
+1\. Il Collegio Tecnico (di seguito in breve CT) è l’organo tecnico formato dai quattro esperti di cui al comma 2 dell’articolo 3, che nomina al proprio interno annualmente un coordinatore, cui compete il rilascio delle seguenti autorizzazioni: a) autorizzazioni per la gestione dei rifiuti; b) autorizzazione per lo scarico di acque reflue domestiche, industriali e urbane; c) autorizzazione per stabilimento con emissioni in atmosfera; d) autorizzazioni per la modifica di sorgenti di campi elettrici, magnetici ed elettromagnetici esistenti di cui all’articolo 145, comma 4; e) autorizzazione al reimpiego per reflui zooagricoli da rilasciarsi previa presentazione di domanda redatta secondo la modulistica approvata dal CT medesimo; f) autorizzazione al reimpiego di materiali biodegradabili da rilasciarsi previa presentazione di domanda redatta secondo la modulistica approvata dal CT medesimo.
+
+2\. Il CT ha, inoltre, facoltà di adottare delibere e circolari interpretative ed applicative del presente Codice e dei Regolamenti attuativi.
+
+3\. Il CT è il referente tecnico dell’Ufficio Prevenzione e Ambiente.
+
+4\. Al CT possono essere inoltrati i ricorsi di cui all’articolo 184.
+
+5\. Nell’esercizio della loro funzione i membri del CT assumono le stesse responsabilità e doveri stabiliti per i pubblici dipendenti.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 3:
+
+L‘articolo 4 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 4 (Collegio Tecnico)
+
+1\. Il Collegio Tecnico (di seguito in breve CT) è l‘organo tecnico formato dai quattro esperti di cui al comma 2 dell‘articolo 3, che nomina al proprio interno annualmente un coordinatore, cui compete il rilascio delle seguenti autorizzazioni:
+
+a) autorizzazioni per la gestione dei rifiuti con esclusione di quelle rilasciate dall‘UPA ai sensi dell‘articolo 6;
+
+b) autorizzazione per lo scarico di acque reflue domestiche, industriali e urbane;
+
+c) autorizzazione per stabilimento con emissioni in atmosfera;
+
+d) autorizzazioni per l‘installazione di nuove sorgenti di campi elettrici, magnetici ed elettromagnetici di cui all‘articolo 145, comma 1;
+
+e) autorizzazione al reimpiego per reflui zoo-agricoli da rilasciarsi previa presentazione di domanda redatta secondo la modulistica approvata dal CT medesimo;
+
+f) autorizzazione al reimpiego di materiali biodegradabili, da rilasciarsi previa presentazione di domanda redatta secondo la modulistica approvata dal CT medesimo;
+
+g) autorizzazione per l‘apertura di captazioni di cui all‘articolo 86, da utilizzarsi nell‘ambito di attività di impresa;
+
+h) autorizzazione all‘iscrizione all‘Albo delle ditte abilitate alla bonifica dell‘amianto di cui all‘articolo 45 comma 2;
+
+i) autorizzazione alla restituibilità degli ambienti oggetto di bonifica da materiali contenenti amianto;
+
+l) approvazione del piano di risanamento, previo parere dell‘UPA, delle sorgenti di campi elettrici, magnetici ed elettromagnetici esistenti di cui all‘articolo 145, comma 2;
+
+m) autorizzazioni per le sorgenti di campi elettrici, magnetici ed elettromagnetici esistenti, di potenza compresa tra 5 e 15 Watt, di cui all‘articolo 145, comma 6.
+
+2\. Il CT ha, inoltre, facoltà di adottare delibere e circolari interpretative ed applicative del presente Codice dei Regolamenti attuativi.
+
+3\. Il CT è il referente tecnico dell‘Ufficio Prevenzione e Ambiente.
+
+4\. Al CT possono essere inoltrati i ricorsi di cui all‘articolo 184.
+
+5\. Nell‘esercizio della loro funzione i membri del CT assumono le stesse responsabilità e doveri stabiliti per i pubblici dipendenti. 5-bis. Le deliberazioni del CT vengono pubblicate entro 30 giorni sul sito della Segreteria di Stato per il Territorio.
+
+2\. Per la gestione dei rifiuti la AASS potrà avvalersi anche di soggetti privati, autorizzati ai sensi dell’articolo 29 del presente Codice.
+
+3\. L’AASS è tenuta, inoltre, a predisporre un piano in cui individua le aree del territorio potenzialmente idonee ad essere utilizzate quali siti per la gestione dei rifiuti.
+
+Tale piano è approvato dal Congresso di Stato, fatte salve le autorizzazioni dei competenti organi.
+
+4\. In materia di ciclo integrato delle acque l’AASS è il Gestore del servizio idrico integrato e svolge le seguenti attività e servizi:
+
+a) settore idrico: captazione di acque grezze, stoccaggio, trattamento di potabilizzazione, trasporto, distribuzione, rapporti di interscambio con Enti esterni, controlli di laboratorio, esercizio e costruzione di reti e impianti;
+
+b) settore fognature: collettamento, trasporto reflui, conferimento alla depurazione, controlli di laboratorio, esercizio e costruzione di reti e impianti;
+
+c) effettua i controlli gestionali degli impianti e delle strutture impiegate per la captazione, trattamento e distribuzione delle acque. A tal fine, i produttori del refluo sono obbligati a garantire il libero accesso ai dipendenti dell’AASS o di imprese incaricate al fine di verificare lo stato dell’impiantistica di collegamento con il pubblico collettore e per lo svolgimento dei campionamenti previsti dal Titolo IV.
+
+5\. L’AASS adotta i seguenti regolamenti di gestione entro le sotto indicate scadenze:
+
+a) entro tre mesi dalla entrata in vigore del presente Codice, Regolamento di gestione dei rifiuti in cui sono definiti:
+
+1) i criteri quantitativi e qualitativi per l’assimilazione, ai fini della raccolta, recupero e dello smaltimento, dei rifiuti speciali ai rifiuti urbani;
+
+2) le procedure, i criteri e le modalità di gestione di particolari categorie di rifiuti prodotti nel territorio della Repubblica di San Marino;
+
+3) i servizi per la gestione dei rifiuti da effettuarsi a pagamento.
+
+b) entro sei mesi dalla data di entrata in vigore del presente Codice, Regolamento di gestione del servizio idrico integrato, in cui sono definite:
+
+1) le norme tecniche di fognatura;
+
+2) le norme tecniche di forniture idriche;
+
+3) le norme tecniche per le captazioni diverse dal Pubblico Acquedotto di cui all’articolo 86;
+
+4) le caratteristiche del misuratore di portata allo scarico;
+
+5) le modalità di effettuazione dell’attività di campionamento ed analisi;
+
+6) le modalità di riscossione della tariffa di cui all’articolo 95, interessi moratori da applicarsi in caso di ritardato pagamento e conseguenze del mancato pagamento. 5-bis. Il Regolamento di cui alla lettera a) del comma 5 è aggiornato dall‘AASS in collaborazione con l’UPA, mentre il Regolamento di cui alla lettera b) del comma 5 è predisposto dall‘AASS in collaborazione con l’UPA entro il 31 dicembre 2017. Tali regolamenti sono adottati dal Congresso di Stato ai sensi dell'articolo 2, comma 2, lettera h) della Legge Costituzionale 15 dicembre 2005 n.183.3 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 5
+
+(Azienda Autonoma di Stato per i Servizi Pubblici)
+
+1\. In materia di rifiuti, l’Azienda Autonoma di Stato per i Servizi Pubblici (di seguito in breve AASS), svolge le seguenti attività e servizi:
+
+a) gestione dei rifiuti urbani;
+
+b) gestione dei rifiuti speciali, limitatamente alle capacità del Servizio e con le modalità di cui al Regolamento indicato al comma 5, lettera a);
+
+c) gestione della raccolta differenziata;
+
+d) attività di sensibilizzazione a beneficio degli utenti, finalizzate alla prevenzione, alla riduzione dei rifiuti e ad una corretta raccolta differenziata.
+
+2\. Per la gestione dei rifiuti la AASS potrà avvalersi anche di soggetti privati, autorizzati ai sensi dell’articolo 29 del presente Codice.
+
+3\. L’AASS è tenuta, inoltre, a predisporre un piano in cui individua le aree del territorio potenzialmente idonee ad
+
+###### Art. 6
+
+(Ufficio Prevenzione e Ambiente)
+
+1\. L’Ufficio Prevenzione e Ambiente (di seguito in breve UPA) svolge le funzioni indicate all’articolo 35 dell’Allegato A alla Legge 5 dicembre 2011 n.188. In particolare, l’UPA è deputato all’espletamento dei seguenti compiti:
+
+a) in materia di gestione dei rifiuti:
+
+1) accettare la dichiarazione di cui all’articolo 24, comma 1;
+
+2) gestire il Catasto dei rifiuti di cui all’articolo 27;
+
+3) svolgere la funzione di autorità competente di cui all‘articolo 31, comma 2;
+
+4) eseguire funzioni connesse alla registrazione delle spedizioni transfrontaliere di rifiuti speciali in relazione agli impegni assunti negli accordi e intese con la Repubblica Italiana o di altri Stati europei;
+
+5) curare la tenuta dell’Albo delle ditte abilitate alla bonifica dell‘amianto di cui all‘articolo 45, comma 2;
+
+6) curare la tenuta del Registro dell’Amianto di cui all’articolo 45, comma 3;
+
+7) rilasciare le autorizzazioni per la raccolta e il trasporto rifiuti;
+
+8) rilasciare le autorizzazioni all‘intermediazione dei rifiuti;
+
+9) programmare ed effettuare le ispezioni, ai sensi dell’articolo 31, comma 12 così come introdotto dall’articolo 20 del Decreto Delegato 12 luglio 2016 n.84.
+
+b) in materia di difesa delle acque e gestione delle risorse idriche:
+
+1) gestire un archivio digitale delle autorizzazioni e delle analisi periodiche dei produttori di acque reflue. Tale archivio è liberamente consultabile dal Gestore del servizio idrico integrato; essere utilizzate quali siti per la gestione dei rifiuti. Tale piano è approvato dal Congresso di Stato, fatte salve le autorizzazioni dei competenti organi.
+
+4\. In materia di ciclo integrato delle acque l’AASS è il Gestore del servizio idrico integrato e svolge le seguenti attività e servizi:
+
+a) settore idrico: captazione di acque grezze, stoccaggio, trattamento di potabilizzazione, trasporto, distribuzione, rapporti di interscambio con Enti esterni, controlli di laboratorio, esercizio e costruzione di reti e impianti;
+
+b) settore fognature: collettamento, trasporto reflui, conferimento alla depurazione, controlli di laboratorio, esercizio e costruzione di reti e impianti;
+
+c) effettua i controlli gestionali degli impianti e delle strutture impiegate per la captazione, trattamento e distribuzione delle acque. A tal fine, i produttori del refluo sono obbligati a garantire il libero accesso ai dipendenti dell’AASS o di imprese incaricate al fine di verificare lo stato dell’impiantistica di collegamento con il pubblico collettore e per lo svolgimento dei campionamenti previsti dal Titolo IV.
+
+5\. L’AASS adotta i seguenti regolamenti di gestione entro le sotto indicate scadenze:
+
+a) entro tre mesi dalla entrata in vigore del presente Codice, Regolamento di gestione dei rifiuti in cui sono definiti:
+
+1) i criteri quantitativi e qualitativi per l’assimilazione, ai fini della raccolta, recupero e dello smaltimento, dei rifiuti speciali ai rifiuti urbani;
+
+2) le procedure, i criteri e le modalità di gestione di particolari categorie di rifiuti prodotti nel territorio della Repubblica di San Marino;
+
+3) i servizi per la gestione dei rifiuti da effettuarsi a pagamento.
+
+b) entro sei mesi dalla data di entrata in vigore del presente Codice, Regolamento di gestione del servizio idrico integrato, in cui sono definite:
+
+1) le norme tecniche di fognatura;
+
+2) le norme tecniche di forniture idriche;
+
+3) le norme tecniche per le captazioni diverse dal Pubblico Acquedotto di cui all’articolo 86;
+
+4) le caratteristiche del misuratore di portata allo scarico;
+
+5) le modalità di effettuazione dell’attività di campionamento ed analisi;
+
+6) le modalità di riscossione della tariffa di cui all’articolo 95, interessi moratori da applicarsi in caso di ritardato pagamento e conseguenze del mancato pagamento.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 4:
+
+All‘articolo 5 del Decreto Delegato 27 aprile 2012 n. 44 è aggiunto il seguente comma: ―5-bis. Il Regolamento di cui alla lettera a) del comma 5 è aggiornato dall‘AASS in collaborazione con l‘UPA, mentre il Regolamento di cui alla lettera b) del comma 5 è predisposto dall‘AASS in collaborazione con l‘UPA entro il 31 dicembre 2017. Tali regolamenti sono adottati dal Congresso di Stato ai sensi dell'articolo 2, comma 2, lettera h) della Legge Costituzionale 15 dicembre 2005 n.183.
+
+2) rilasciare le autorizzazioni per l’apertura di captazioni di cui all’articolo 86, commi 1 e 2;
+
+c) in materia di tutela dell’aria:
+
+1) gestire un archivio digitale delle autorizzazioni e delle analisi periodiche sulle emissioni autorizzate;
+
+2) gestire il Catasto degli stabilimenti autorizzati ai sensi del Capo II del Titolo V;
+
+3) curare la tenuta del Registro dei soggetti abilitati alla conduzione degli impianti termici di cui all’articolo 111;
+
+d) in materia di tutela del territorio dall’inquinamento acustico:
+
+1) curare la tenuta e l’aggiornamento dell’Elenco dei tecnici competenti in acustica di cui all’articolo 137;
+
+2) valutare la conformità del Piano di risanamento delle imprese di cui all’articolo 129;
+
+e) in materia di protezione dalle esposizioni a campi elettrici, magnetici ed elettromagnetici:
+
+1) gestire il Catasto delle sorgenti dei campi elettrici, magnetici ed elettromagnetici di cui all’articolo 143;
+
+2) autorizzare la modifica delle sorgenti di campi elettrici, magnetici ed elettromagnetici esistenti ai sensi dell’articolo 145, comma 1.
+
+2\. L’UPA effettua attività di supporto al CT ed alla CTA e, in particolare, compie le istruttorie delle richieste di autorizzazione di competenza dei predetti organi.
+
+3\. Fatta salva la specifica competenza del Dipartimento di Prevenzione di cui all‘articolo 7, l’UPA esegue, altresì, l’attività di vigilanza e controllo sul rispetto delle disposizioni di cui al Titolo II, di cui all‘articolo 44, comma 3 e di cui ai Titoli IV, V, VI e VII, comminando le sanzioni pecuniarie amministrative e denunciando all‘autorità giudiziaria le condotte passibili di sanzioni penali.
+
+4\. L’attività di vigilanza e controllo è effettuata tenendo conto delle indicazioni espresse dalla CTA e dal CT.
+
+5\. Per l’espletamento delle funzioni di cui al presente articolo l’UPA può, qualora lo ritenga opportuno, richiedere una valutazione anche alla CTA e/o al CT.
+
+6\. All’UPA, in relazione a quanto previsto dal Titolo VIII, competono le seguenti funzioni:
+
+a) informare il Capo del Servizio Protezione Civile (SPC) ai fini dell’attivazione del Coordinamento per la Protezione Civile, in applicazione del principio di precauzione di cui all’articolo 160;
+
+b) comminare le sanzioni pecuniarie amministrative di cui all’articolo 162, comma 3.4 5 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 6
+
+(Ufficio Prevenzione e Ambiente)
+
+1\. L’Ufficio Prevenzione e Ambiente (di seguito in breve UPA) svolge le funzioni indicate all’articolo 35 dell’Allegato A alla Legge 5 dicembre 2011 n.188. In particolare, l’UPA è deputato all’espletamento dei seguenti compiti:
+
+a) in materia di gestione dei rifiuti:
+
+1) accettare la dichiarazione di cui all’articolo 24, comma 1;
+
+2) gestire il Catasto dei rifiuti di cui all’articolo 27;
+
+3) svolgere la funzione di autorità competente di cui all’articolo 31, comma 2;
+
+4) eseguire funzioni connesse alla registrazione delle spedizioni transfrontaliere di rifiuti speciali in relazione agli impegni assunti negli accordi e intese con la Repubblica Italiana o di altri Stati europei;
+
+5) curare la tenuta dell’Albo delle ditte abilitate alla bonifica dell’amianto di cui all’articolo 45, comma 2;
+
+6) curare la tenuta del Registro dell’Amianto di cui all’articolo 45, comma 3;
+
+b) in materia di difesa delle acque e gestione delle risorse idriche:
+
+1) gestire un archivio digitale delle autorizzazioni e delle analisi periodiche dei produttori di acque reflue. Tale archivio è liberamente consultabile dal Gestore del servizio idrico integrato;
+
+c) in materia di tutela dell’aria:
+
+1) gestire un archivio digitale delle autorizzazioni e delle analisi periodiche sulle emissioni autorizzate;
+
+2) gestire il Catasto degli stabilimenti autorizzati ai sensi del Capo II del Titolo V;
+
+3) curare la tenuta del Registro dei soggetti abilitati alla conduzione degli impianti termici di cui all’articolo 111;
+
+d) in materia di tutela del territorio dall’inquinamento acustico:
+
+1) cura la tenuta e l’aggiornamento dell’Elenco dei tecnici competenti in acustica di cui all’articolo 137;
+
+###### Art.7
+
+(Dipartimento di Prevenzione)
+
+e) in materia di protezione dalle esposizioni a campi elettrici, magnetici ed elettromagnetici:
+
+1) gestire il Catasto delle sorgenti dei campi elettrici, magnetici ed elettromagnetici di cui all’articolo 143;
+
+2\. L’UPA effettua attività di supporto al CT ed alla CTA e, in particolare, compie le istruttorie delle richieste di autorizzazione di competenza dei predetti organi.
+
+3\. Fatta salva la specifica competenza del Dipartimento di Prevenzione di cui al successivo articolo 7, l’UPA esegue, altresì, l’attività di vigilanza e controllo sul rispetto delle disposizioni di cui al Titolo II, di cui all’articolo 44, comma 3 e di cui ai Titoli IV, V, VI e VII comminando le sanzioni pecuniarie amministrative e denunciando all’autorità giudiziaria le condotte passibili di sanzioni penali.
+
+4\. L’attività di vigilanza e controllo è effettuata tenendo conto delle indicazioni espresse dalla CTA e dal CT.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 5:
+
+L‘articolo 6 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 6 (Ufficio Prevenzione e Ambiente)
+
+1\. L‘Ufficio Prevenzione e Ambiente (di seguito in breve UPA) svolge le funzioni indicate all‘articolo 35 dell‘Allegato A alla Legge 5 dicembre 2011 n.188. In particolare, l‘UPA è deputato all‘espletamento dei seguenti compiti:
+
+a) in materia di gestione dei rifiuti:
+
+1) accettare la dichiarazione di cui all‘articolo 24, comma 1;
+
+2) gestire il Catasto dei rifiuti di cui all‘articolo 27;
+
+3) svolgere la funzione di autorità competente di cui all‘articolo 31, comma 2;
+
+4) eseguire funzioni connesse alla registrazione delle spedizioni transfrontaliere di rifiuti speciali in relazione agli impegni assunti negli accordi e intese con la Repubblica Italiana o di altri Stati europei;
+
+5) curare la tenuta dell‘Albo delle ditte abilitate alla bonifica dell‘amianto di cui all‘articolo 45, comma 2;
+
+6) curare la tenuta del Registro dell‘Amianto di cui all‘articolo 45, comma 3;
+
+7) rilasciare le autorizzazioni per la raccolta e il trasporto rifiuti;
+
+8) rilasciare le autorizzazioni all‘intermediazione dei rifiuti;
+
+9) programmare ed effettuare le ispezioni, ai sensi dell‘articolo 31, comma 12 così come introdotto dall‘articolo 20 del Decreto Delegato 12 luglio 2016 n.84.
+
+b) in materia di difesa delle acque e gestione delle risorse idriche:
+
+1) gestire un archivio digitale delle autorizzazioni e delle analisi periodiche dei produttori di acque reflue. Tale archivio è liberamente consultabile dal Gestore del servizio idrico integrato;
+
+2) rilasciare le autorizzazioni per l‘apertura di captazioni di cui all‘articolo 86, commi 1 e 2;
+
+c) in materia di tutela dell‘aria:
+
+1) gestire un archivio digitale delle autorizzazioni e delle analisi periodiche sulle emissioni autorizzate;
+
+2) gestire il Catasto degli stabilimenti autorizzati ai sensi del Capo II del Titolo V;
+
+3) curare la tenuta del Registro dei soggetti abilitati alla conduzione degli impianti termici di cui all‘articolo 111;
+
+d) in materia di tutela del territorio dall‘inquinamento acustico:
+
+1) curare la tenuta e l‘aggiornamento dell‘Elenco dei tecnici competenti in acustica di cui all‘articolo 137;
+
+2) valutare la conformità del Piano di risanamento delle imprese di cui all‘articolo 129;
+
+e) in materia di protezione dalle esposizioni a campi elettrici, magnetici ed elettromagnetici:
+
+1) gestire il Catasto delle sorgenti dei campi elettrici, magnetici ed elettromagnetici di cui all‘articolo 143;
+
+2) autorizzare la modifica delle sorgenti di campi elettrici, magnetici ed elettromagnetici esistenti ai sensi dell‘articolo 145, comma 1.
+
+2\. L‘UPA effettua attività di supporto al CT ed alla CTA e, in particolare, compie le istruttorie delle richieste di autorizzazione di competenza dei predetti organi.
+
+3\. Fatta salva la specifica competenza del Dipartimento di Prevenzione di cui all‘articolo 7, l‘UPA esegue, altresì, l‘attività di vigilanza e controllo sul rispetto delle disposizioni di cui al Titolo II, di cui all‘articolo 44, comma 3 e di cui ai Titoli IV, V, VI e VII, comminando le sanzioni pecuniarie amministrative e denunciando all‘autorità giudiziaria le condotte passibili di sanzioni penali.
+
+4\. L‘attività di vigilanza e controllo è effettuata tenendo conto delle indicazioni espresse dalla CTA e dal CT.
+
+5\. Per l‘espletamento delle funzioni di cui al presente articolo l‘UPA può, qualora lo ritenga opportuno, richiedere una valutazione anche alla CTA e/o al CT.
+
+6\. All'UPA, in relazione a quanto previsto dal Titolo VIII, competono le seguenti funzioni:
+
+a) informare il Capo del Servizio Protezione Civile (SPC) ai fini dell‘attivazione del Coordinamento per la Protezione Civile, in applicazione del principio di precauzione di cui all‘articolo 160;
+
+b) comminare le sanzioni pecuniarie amministrative di cui all‘articolo 162, comma 3.
+
+Decreto Delegato 31 gennaio 2017 n. 16, Art. 75-bis:
+
+Sino alla piena operatività dell‘Unità Organizzativa UPA, i compiti, le attività e le funzioni di cui all‘articolo 6 del Decreto Delegato 27 aprile 2012 n.44 come sostituito dall‘articolo 5 del presente decreto sono così assegnati:
+
+a) all‘Unità Operativa Gestione Ambientale (UOGA) i compiti di cui al comma 1, lettera a), punti 2, 3, 4 e 9 e l‘attività di supporto di cui al comma 1, lettera a), punti 7 e 8 e di cui al comma 2 del citato articolo 6;
+
+b) al Dipartimento Prevenzione (DP) i compiti di cui al comma 1, lettera a), punti 1, 5 e 6, 7 e 8, al comma 1, lettera b), punti 1 e 2, al comma 1, lettera c) punti 1, 2 e 3, al comma 1, lettera d), punti 1 e 2, al comma 1, lettera e), punti 1 e 2, l‘attività istruttoria di cui al comma 2, l‘attività di vigilanza e controllo di cui al comma 3 e le funzioni di cui al comma 6 del citato articolo 6.
+
+1\. Al Dipartimento di Prevenzione (di seguito in breve DP) dell’Istituto per la Sicurezza Sociale competono, in relazione a quanto previsto dal presente Codice, le seguenti funzioni:
+
+a) in materia di difesa delle acque e gestione delle risorse idriche:
+
+1) effettuare la classificazione delle acque dolci superficiali e delle acque sotterranee destinate alla produzione di acqua potabile ai sensi dell’articolo 65;
+
+2) effettuare il monitoraggio mediante controlli sanitari per il giudizio di qualità e di idoneità d’uso sulle acque destinate al consumo umano ai sensi dell’articolo 66 ivi compreso il rilascio delle autorizzazioni di captazione sulle acque destinate al consumo umano; 2-bis) effettuare i controlli esterni di cui all‘articolo 66-bis al fine di verificare la qualità dell‘acqua destinata al consumo umano.
+
+b) in materia di tutela della salute dal rischio amianto, le funzioni di controllo e di vigilanza sul rispetto delle disposizioni di cui al Titolo III e delle Linee Guida adottate dalla CTA ai sensi dell’articolo 45, comma 1 ad eccezione del controllo e vigilanza sul rispetto dei limiti di cui all’articolo 44, comma 3 che compete all’UPA.
+
+2\. L’attività di vigilanza e controllo è effettuata tenendo conto delle indicazioni espresse dalla CTA e dal CT. 6
+
+###### Art. 8
+
+(Coordinamento per la Protezione Civile)
+
+1\. Al Coordinamento per la Protezione Civile di cui alla Legge 27 gennaio 2006 n.21 e successive modificazioni competono, in relazione a quanto previsto dal Titolo VIII, le seguenti funzioni:
+
+a) accertare i fatti e le cause del danno o della minaccia imminente di danno;
+
+b) individuare i trasgressori;
+
+c) valutare la gravità del danno o della minaccia;
+
+d) determinare le misure di prevenzione e riparazione da prendere a norma dell‘articolo 162, comma 4, lettera b) e dell‘articolo 163, comma 2, lettere b) e c);
+
+e) adottare le misure di prevenzione e riparazione nei casi di cui all‘articolo 162, comma 4, lettera c) e comma 5 e di cui all‘articolo 163, comma 2, lettere b) e d) e comma 3;
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art.7
+
+(Dipartimento di Prevenzione)
+
+1\. Al Dipartimento di Prevenzione (di seguito in breve DP) dell’Istituto per la Sicurezza Sociale competono, in relazione a quanto previsto dal presente Codice, le seguenti funzioni:
+
+a) in materia di difesa delle acque e gestione delle risorse idriche:
+
+1) effettuare la classificazione delle acque dolci superficiali e delle acque sotterranee destinate alla produzione di acqua potabile ai sensi dell’articolo 65;
+
+2) effettuare il monitoraggio mediante controlli sanitari per il giudizio di qualità e di idoneità d’uso sulle acque destinate al consumo umano ai sensi dell’articolo 66 ivi compreso il rilascio delle autorizzazioni di captazione sulle acque destinate al consumo umano;
+
+b) in materia di tutela della salute dal rischio amianto, le funzioni di controllo e di vigilanza sul rispetto delle disposizioni di cui al Titolo III e delle Linee Guida adottate dalla CTA ai sensi dell’articolo 45, comma 1 ad eccezione del controllo e vigilanza sul rispetto dei limiti di cui all’articolo 44, comma 3 che compete all’UPA.
+
+2\. L’attività di vigilanza e controllo è effettuata tenendo conto delle indicazioni espresse dalla CTA e dal CT.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 6:
+
+All‘articolo 7, comma 1, lettera a) del Decreto Delegato 27 aprile 2012 n. 44, dopo il punto 2) è aggiunto il seguente punto: ―2-bis) effettuare i controlli esterni di cui all‘articolo 66-bis al fine di verificare la qualità dell‘acqua destinata al consumo umano.
+
+f) attivare il procedimento di recupero dei costi dell‘attività di prevenzione e riparazione di cui all‘articolo 165;
+
+g) comminare le sanzioni pecuniarie amministrative;
+
+h) adottare le ordinanze di cui all‘articolo 162, comma 6, all‘articolo 163, comma 5 e all‘articolo 166;
+
+i) attivare l‘autorità giudiziaria e collaborare con la stessa nell‘accertamento dei reati;
+
+l) diffondere le informazioni in caso di calamità naturale o evento dannoso ai sensi dell'articolo 157.
+
+2\. Il Coordinamento per la Protezione Civile procede di propria iniziativa ovvero su segnalazione di ogni altra autorità pubblica o di associazioni di categoria o di soggetti interessati o di organizzazioni che promuovono la protezione dell‘ambiente. La segnalazione è corredata di tutti i dati e le informazioni pertinenti al danno ambientale in questione; a tal fine, il Coordinamento per la Protezione Civile tiene conto delle segnalazioni che mostrino con verosimiglianza l‘esistenza di un caso di danno ambientale.
+
+3\. Ai fini dell‘espletamento delle competenze di cui al comma 1, il Coordinamento per la Protezione Civile si avvale, oltre che delle strutture operative della Protezione Civile di cui all‘articolo 7 della Legge n.21/2006, della collaborazione dell‘Avvocatura dello Stato e di qualsiasi altro soggetto pubblico dotato di competenza adeguata nonché di consulenze di liberi professionisti.
+
+4\. Al fine dello svolgimento delle funzioni di cui al comma 1, lettere a) e b), il Coordinamento per la Protezione Civile si avvale dell‘UGRAA nonché dell‘UPA e del DP i quali ultimi esercitano i poteri di accertamento ed ispezione di cui all‘articolo 183.7 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art.8
+
+(Organi della Protezione Civile)
+
+1\. Al Capo del Servizio Protezione Civile ed al Coordinamento per la Protezione Civile di cui alla Legge 27 gennaio 2006 n.21 e successive modificazioni competono in relazione a quanto previsto dal Titolo VIII, le seguenti funzioni:
+
+a) accertare i fatti e le cause del danno o della minaccia imminente di danno;
+
+b) individuare i trasgressori;
+
+c) valutare la gravità del danno o della minaccia;
+
+d) determinare, sentito l’UPA, il DP e l’UGRAA, le misure di prevenzione e riparazione da prendere a norma dell’articolo 162, comma 4, lettera b) e dell’articolo 163, comma 2, lettere b) e c);
+
+e) adottare, sentito l’UPA, il DP e l’UGRAA, le misure di prevenzione e riparazione nei casi di cui all’articolo 162, comma 4, lettera c) e comma 5 e di cui all’articolo 163, comma 2, lettere b) e d) e comma 3;
+
+f) attivare, il procedimento di recupero dei costi dell’attività di prevenzione e riparazione di cui all’articolo 165;
+
+g) comminare le sanzioni pecuniarie amministrative;
+
+h) adottare le ordinanze di cui all’articolo 162, comma 6, all’articolo 163, comma 5 e all’articolo 166;
+
+i) attivare l’autorità giudiziaria e collaborare con la stessa nell’accertamento dei reati.
+
+2\. Gli organi della Protezione Civile procedono di propria iniziativa ovvero su segnalazione di ogni altra autorità pubblica o di associazioni di categoria o di soggetti interessati o di organizzazioni che promuovono la protezione dell’ambiente. La segnalazione è corredata di tutti i dati e le informazioni pertinenti al danno ambientale in questione; a tal fine, gli organi della Protezione Civile tengono conto delle segnalazioni che mostrino con verosimiglianza l’esistenza di un caso di danno ambientale.
+
+3\. Ai fini dell’espletamento delle competenze di cui al comma 1, gli organi della Protezione Civile si avvalgono, oltre che delle strutture operative della Protezione Civile di cui all’articolo 7 della Legge n.21/2006, della collaborazione dell’Avvocatura dello Stato e di qualsiasi altro soggetto pubblico dotato di competenza adeguata nonché di consulenze di liberi professionisti.
+
+4\. Al fine dello svolgimento delle funzioni di cui al comma 1, lettere a) e b), gli organi della Protezione Civile si avvalgono dell’UGRAA nonché dell’UPA e del DP i quali ultimi esercitano i poteri di accertamento ed ispezione di cui all’articolo 183, commi 3, 4 e 5.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 7:
+
+L‘articolo 8 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 8 (Coordinamento per la Protezione Civile)
+
+1\. Al Coordinamento per la Protezione Civile di cui alla Legge 27 gennaio 2006 n.21 e successive modificazioni competono, in relazione a quanto previsto dal Titolo VIII, le seguenti funzioni:
+
+a) accertare i fatti e le cause del danno o della minaccia imminente di danno;
+
+b) individuare i trasgressori;
+
+c) valutare la gravità del danno o della minaccia;
+
+d) determinare le misure di prevenzione e riparazione da prendere a norma dell‘articolo 162, comma 4, lettera b) e dell‘articolo 163, comma 2, lettere b) e c);
+
+###### Art. 8-bis
+
+(Capo del Servizio di Protezione Civile)
+
+1\. Al Capo del Servizio Protezione Civile (di seguito in breve SPC), di cui alla Legge 27 gennaio 2006 n.21 e successive modificazioni, competono, in relazione a quanto previsto dal Titolo VIII, le seguenti funzioni:
+
+a) attivare il Coordinamento per la Protezione Civile, in applicazione del principio di precauzione di cui all‘articolo 160, in caso di azione di prevenzione di cui all‘articolo 162 e di azioni di riparazione di cui all‘articolo 163.8
+
+###### Art.9
+
+(Comitato Tecnico Scientifico e Ufficio Gestione Risorse Ambientali ed Agricole)
+
+1\. Al Comitato Tecnico Scientifico di cui all‘articolo 19 e 20 della Legge n.126/1995 (di seguito in breve CTS) ed all‘Ufficio Gestione Risorse Ambientali ed Agricole (di seguito in breve UGRAA) competono, in relazione a quanto previsto dal Titolo IX e dal Titolo IX-bis, le funzioni indicate ai successivi commi.
+
+2\. Il CTS effettua la valutazione dell‘impatto ambientale (di seguito in breve VIA) e la valutazione ambientale strategica (di seguito in breve VAS), in conformità rispettivamente a quanto previsto dalle “Linee Guida per la Valutazione dell‘Impatto Ambientale” di cui al Capo II del Titolo IX e dalle “Linee Guida per la Valutazione Ambientale Strategica” di cui al Capo II del Titolo IX-bis, sulla base delle seguenti modalità:
+
+a) avvalendosi, se del caso, di consulenze tecniche in ambiti specifici;
+
+b) richiedendo pareri agli uffici competenti;
+
+c) richiedendo al proponente ulteriori elementi informativi e valutativi;
+
+d) promuovendo, nei casi di particolare rilevanza, incontri pubblici.
+
+e) adottare le misure di prevenzione e riparazione nei casi di cui all‘articolo 162, comma 4, lettera c) e comma 5 e di cui all‘articolo 163, comma 2, lettere b) e d) e comma 3;
+
+f) attivare il procedimento di recupero dei costi dell‘attività di prevenzione e riparazione di cui all‘articolo 165;
+
+g) comminare le sanzioni pecuniarie amministrative;
+
+h) adottare le ordinanze di cui all‘articolo 162, comma 6, all‘articolo 163, comma 5 e all‘articolo 166;
+
+i) attivare l‘autorità giudiziaria e collaborare con la stessa nell‘accertamento dei reati;
+
+l) diffondere le informazioni in caso di calamità naturale o evento dannoso ai sensi dell'articolo 157.
+
+2\. Il Coordinamento per la Protezione Civile procede di propria iniziativa ovvero su segnalazione di ogni altra autorità pubblica o di associazioni di categoria o di soggetti interessati o di organizzazioni che promuovono la protezione dell‘ambiente. La segnalazione è corredata di tutti i dati e le informazioni pertinenti al danno ambientale in questione; a tal fine, il Coordinamento per la Protezione Civile tiene conto delle segnalazioni che mostrino con verosimiglianza l‘esistenza di un caso di danno ambientale.
+
+3\. Ai fini dell‘espletamento delle competenze di cui al comma 1, il Coordinamento per la Protezione Civile si avvale, oltre che delle strutture operative della Protezione Civile di cui all‘articolo 7 della Legge n.21/2006, della collaborazione dell‘Avvocatura dello Stato e di qualsiasi altro soggetto pubblico dotato di competenza adeguata nonché di consulenze di liberi professionisti.
+
+4\. Al fine dello svolgimento delle funzioni di cui al comma 1, lettere a) e b), il Coordinamento per la Protezione Civile si avvale dell‘UGRAA nonché dell‘UPA e del DP i quali ultimi esercitano i poteri di accertamento ed ispezione di cui all‘articolo 183.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 8:
+
+Dopo l‘articolo 8 del Decreto Delegato 27 aprile 2012 n. 44 è introdotto il seguente articolo: ―Art. 8-bis (Capo del Servizio di Protezione Civile)
+
+1\. Al Capo del Servizio Protezione Civile (di seguito in breve SPC), di cui alla Legge 27 gennaio 2006 n.21 e successive modificazioni, competono, in relazione a quanto previsto dal Titolo VIII, le seguenti funzioni:
+
+a) attivare il Coordinamento per la Protezione Civile, in applicazione del principio di precauzione di cui all‘articolo 160, in caso di azione di prevenzione di cui all‘articolo 162 e di azioni di riparazione di cui all‘articolo 163.
+
+3\. Il CTS ha, inoltre, facoltà di adottare delibere e circolari interpretative ed applicative delle disposizioni di cui al Titolo IX e al Titolo IX-bis e dei Regolamenti attuativi del presente Codice.
+
+4\. Nell‘ambito del procedimento della VIA, l‘UGRAA espleta le seguenti funzioni:
+
+a) acquisisce ed istruisce gli screening e gli studi di impatto ambientale;
+
+b) inoltra ai promotori del procedimento le eventuali richieste di integrazione documentale;
+
+c) supporta a livello tecnico ed amministrativo il CTS nell‘effettuazione della VIA;
+
+d) verifica la rispondenza del progetto legale agli elaborati sottoposti alla VIA ed alle prescrizioni del CTS;
+
+e) gestisce i contratti autonomi di garanzia di cui all‘articolo 180.
+
+5\. L‘UGRAA è, inoltre, competente ad accertare gli illeciti ed a comminare le sanzioni pecuniarie amministrative nei casi di violazioni che comportino danno ambientale di cui agli articoli 43, 44 e 45 della Legge 16 novembre 1995 n.126.
+
+6\. Nell‘ambito del procedimento della VAS, l‘UGRAA espleta le seguenti funzioni:
+
+a) acquisisce ed istruisce i rapporti ambientali;
+
+b) dà pubblicità ai piani e ai relativi rapporti ambientali proposti ai fini della consultazione mediante pubblicazione in internet;
+
+c) inoltra ai proponenti del procedimento le eventuali richieste di integrazione documentale;
+
+d) supporta a livello tecnico ed amministrativo il CTS nel procedimento della VAS;
+
+e) verifica il recepimento delle prescrizioni del CTS nel piano e relativo rapporto ambientale;
+
+f) trasmette il piano medesimo all‘organo competente all‘approvazione del piano;
+
+g) pubblica in internet il piano adottato unitamente al rapporto ambientale e le misure relative al monitoraggio.
+
+7\. Entro il 31 dicembre 2016 il CTS adotta il Regolamento per gli interventi edilizi di nuova costruzione, ampliamento e demolizione e ricostruzione totale o parziale in zona agricola ai sensi dell‘articolo 172, comma 1, punto 12).
+
+8\. Per l‘espletamento delle funzioni di cui ai commi che precedono il CTS ha la facoltà di avvalersi dei seguenti funzionari:
+
+\- il Dirigente dell‘Ufficio Prevenzione e Ambiente;
+
+\- il Dirigente del Dipartimento Prevenzione;
+
+\- il Capo del Servizio Protezione Civile.
+
+Qualora vi siano specifiche esigenze sono chiamati a partecipare al CTS altri funzionari dello Stato e/o tecnici specialisti esterni, ai quali possono essere richiesti altresì relazioni e pareri.9 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art.9
+
+(Comitato Tecnico Scientifico e Ufficio Gestione Risorse Ambientali ed Agricole)
+
+1\. Al Comitato Tecnico Scientifico di cui all’articolo 19 e 20 della Legge n.126 (di seguito in breve CTS) ed all’Ufficio Gestione Risorse Ambientali ed Agricole (di seguito in breve UGRAA) competono in relazione a quanto previsto dal
+
+### Titolo IX, le funzioni di seguito indicate.
+
+2\. Il CTS effettua la valutazione dell’impatto ambientale (di seguito in breve VIA) in conformità a quanto previsto dalle “Linee Guida per la Valutazione dell’Impatto Ambientale” di cui al Capo II del Titolo IX sulla base delle seguenti modalità:
+
+a) avvalendosi, se del caso, di consulenze tecniche in ambiti specifici;
+
+b) richiedendo pareri agli uffici competenti;
+
+c) richiedendo al proponente ulteriori elementi informativi e valutativi;
+
+d) promuovendo, nei casi di particolare rilevanza, incontri pubblici;
+
+3\. Il CTS ha, inoltre, facoltà di adottare delibere e circolari interpretative ed applicative delle disposizioni di cui al Titolo IX e dei Regolamenti attuativi del presente Codice.
+
+4\. Nell’ambito del procedimento della VIA, l’UGRAA espleta le seguenti funzioni:
+
+a) acquisisce ed istruisce gli screening e gli studi di impatto ambientale;
+
+b) inoltra ai promotori del procedimento le eventuali richieste di integrazione documentale;
+
+c) supporta a livello tecnico ed amministrativo il CTS nell’effettuazione della VIA;
+
+d) verifica la rispondenza del progetto legale agli elaborati sottoposti alla VIA ed alle prescrizioni del CTS;
+
+e) gestisce i contratti autonomi di garanzia di cui all’articolo 180.
+
+###### Art. 9-bis
+
+(Forum di Agenda 21)
+
+1\. E‘ istituito il Forum di Agenda 21 a San Marino.
+
+2\. Il Forum di Agenda 21 è il centro propulsore di un programma di sviluppo partecipato da tutti i soggetti rilevanti a livello territoriale, finalizzato ad orientare il processo di elaborazione di Agenda 21 (Documento di Indirizzo delle Nazioni Unite per lo sviluppo sostenibile nel XXI secolo) con funzioni consultive, propositive e di verifica del Piano di Azione Ambientale di cui all‘articolo 9-ter.
+
+3\. Il Forum di Agenda 21 è così composto:
+
+\- due Capitani di Castello o membri di Giunta delegati, di cui uno nominato Presidente dal Forum stesso;
+
+\- un rappresentante dell‘Università;
+
+\- un rappresentante delle associazioni ambientalistiche;
+
+\- un rappresentante dalle associazioni degli agricoltori;
+
+\- un rappresentante delle associazioni di categoria;
+
+5\. L’UGRAA è, inoltre, competente ad accertare gli illeciti ed a comminare le sanzioni pecuniarie amministrative nei casi di violazioni che comportino danno ambientale di cui agli articoli 43, 44 e 45 della Legge 16 novembre 1995 n.126.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 9:
+
+L‘articolo 9 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art.9 (Comitato Tecnico Scientifico e Ufficio Gestione Risorse Ambientali ed Agricole)
+
+1\. Al Comitato Tecnico Scientifico di cui all‘articolo 19 e 20 della Legge n.126/1995 (di seguito in breve CTS) ed all‘Ufficio Gestione Risorse Ambientali ed Agricole (di seguito in breve UGRAA) competono, in relazione a quanto previsto dal Titolo IX e dal Titolo IX-bis, le funzioni indicate ai successivi commi.
+
+2\. Il CTS effettua la valutazione dell‘impatto ambientale (di seguito in breve VIA) e la valutazione ambientale strategica (di seguito in breve VAS), in conformità rispettivamente a quanto previsto dalle “Linee Guida per la Valutazione dell‘Impatto Ambientale” di cui al Capo II del Titolo IX e dalle “Linee Guida per la Valutazione Ambientale Strategica” di cui al Capo II del Titolo IX-bis, sulla base delle seguenti modalità:
+
+a) avvalendosi, se del caso, di consulenze tecniche in ambiti specifici;
+
+b) richiedendo pareri agli uffici competenti;
+
+c) richiedendo al proponente ulteriori elementi informativi e valutativi;
+
+d) promuovendo, nei casi di particolare rilevanza, incontri pubblici.
+
+3\. Il CTS ha, inoltre, facoltà di adottare delibere e circolari interpretative ed applicative delle disposizioni di cui al Titolo IX e al Titolo IX-bis e dei Regolamenti attuativi del presente Codice.
+
+4\. Nell‘ambito del procedimento della VIA, l‘UGRAA espleta le seguenti funzioni:
+
+a) acquisisce ed istruisce gli screening e gli studi di impatto ambientale;
+
+b) inoltra ai promotori del procedimento le eventuali richieste di integrazione documentale;
+
+c) supporta a livello tecnico ed amministrativo il CTS nell‘effettuazione della VIA;
+
+d) verifica la rispondenza del progetto legale agli elaborati sottoposti alla VIA ed alle prescrizioni del CTS;
+
+e) gestisce i contratti autonomi di garanzia di cui all‘articolo 180.
+
+5\. L‘UGRAA è, inoltre, competente ad accertare gli illeciti ed a comminare le sanzioni pecuniarie amministrative nei casi di violazioni che comportino danno ambientale di cui agli articoli 43, 44 e 45 della Legge 16 novembre 1995 n.126.
+
+6\. Nell‘ambito del procedimento della VAS, l‘UGRAA espleta le seguenti funzioni:
+
+a) acquisisce ed istruisce i rapporti ambientali;
+
+b) dà pubblicità ai piani e ai relativi rapporti ambientali proposti ai fini della consultazione mediante pubblicazione in internet;
+
+c) inoltra ai proponenti del procedimento le eventuali richieste di integrazione documentale;
+
+d) supporta a livello tecnico ed amministrativo il CTS nel procedimento della VAS;
+
+e) verifica il recepimento delle prescrizioni del CTS nel piano e relativo rapporto ambientale;
+
+f) trasmette il piano medesimo all‘organo competente all‘approvazione del piano;
+
+g) pubblica in internet il piano adottato unitamente al rapporto ambientale e le misure relative al monitoraggio.
+
+7\. Entro il 31 dicembre 2016 il CTS adotta il Regolamento per gli interventi edilizi di nuova costruzione, ampliamento e demolizione e ricostruzione totale o parziale in zona agricola ai sensi dell‘articolo 172, comma 1, punto 12).
+
+8\. Per l‘espletamento delle funzioni di cui ai commi che precedono il CTS ha la facoltà di avvalersi dei seguenti funzionari:
+
+\- il Dirigente dell‘Ufficio Prevenzione e Ambiente;
+
+\- il Dirigente del Dipartimento Prevenzione;
+
+\- il Capo del Servizio Protezione Civile.
+
+Qualora vi siano specifiche esigenze sono chiamati a partecipare al CTS altri funzionari dello Stato e/o tecnici specialisti esterni, ai quali possono essere richiesti altresì relazioni e pareri.
+
+\- un rappresentante delle associazioni sindacali.
+
+Il Presidente del Forum può invitare a partecipare ai lavori del Forum anche rappresentanti di altri gruppi di interesse.
+
+4\. Il Forum di Agenda 21 è un organismo autonomo e di carattere consultivo a supporto delle istituzioni sammarinesi, con le quali collabora nella definizione di una visione di sviluppo sostenibile e dei suoi obiettivi, nell'implementazione ed attuazione di strategie ed azioni condivise realizzate anche mediante il contributo volontario e responsabile della popolazione. I lavori del Forum si svolgono secondo la metodologia e le modalità previste nella Guida Europea all'Agenda 21 Locale, il suo funzionamento è regolamentato da un apposito Statuto.
+
+5\. Il Forum di Agenda 21 ha i seguenti compiti:
+
+a) produrre un Rapporto sullo Stato dell'Ambiente entro 12 mesi dall‘insediamento;
+
+b) individuare, entro ventiquattro mesi dall‘insediamento, gli obiettivi ambientali da proporre alla CTA ai fini dell‘approvazione di un Piano di Azione Ambientale;
+
+c) monitorare l'attuazione del Piano di Azione Ambientale e verificare il raggiungimento degli obiettivi prefissati;
+
+d) valutare periodicamente l‘aggiornamento del Piano di Azione Ambientale;
+
+e) fungere da organo consultivo e propositivo per il Governo e l'Amministrazione nel valutare la sostenibilità ambientale dei provvedimenti in programma prima della loro approvazione.
+
+6\. L‘Amministrazione assolve le seguenti funzioni:
+
+a) svolgere un servizio di segreteria per agevolare il funzionamento del Forum attraverso l‘Ufficio Prevenzione e Ambiente;
+
+b) mettere a disposizione i dati degli uffici preposti alla gestione e tutela dell'ambiente, in modo tale da contribuire al buon esito dei lavori del Forum;
+
+c) valutare annualmente, sulla base di un programma di lavoro predisposto dal Forum, lo stanziamento di un fondo spese necessario allo svolgimento delle sue attività;
+
+d) valutare gli obiettivi e le azioni proposte dal Forum ai fini della redazione, attuazione e monitoraggio del Piano di Azione Ambientale.
+
+7\. Con apposito regolamento il Congresso di Stato può integrare i compiti del Forum.10 Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 10:
+
+Dopo l‘articolo 9 del Decreto Delegato 27 aprile 2012 n. 44 sono inseriti gli articoli 9-bis e 9-ter: ―Art. 9-bis (Forum di Agenda 21)
+
+1\. E‘ istituito il Forum di Agenda 21 a San Marino.
+
+2\. Il Forum di Agenda 21 è il centro propulsore di un programma di sviluppo partecipato da tutti i soggetti rilevanti a livello territoriale, finalizzato ad orientare il processo di elaborazione di Agenda 21 (Documento di Indirizzo delle Nazioni Unite per lo sviluppo sostenibile nel XXI secolo) con funzioni consultive, propositive e di verifica del Piano di Azione Ambientale di cui all‘articolo 9-ter.
+
+3\. Il Forum di Agenda 21 è così composto:
+
+\- due Capitani di Castello o membri di Giunta delegati, di cui uno nominato Presidente dal Forum stesso;
+
+\- un rappresentante dell‘Università;
+
+\- un rappresentante delle associazioni ambientalistiche;
+
+\- un rappresentante dalle associazioni degli agricoltori;
+
+\- un rappresentante delle associazioni di categoria;
+
+\- un rappresentante delle associazioni sindacali.
+
+Il Presidente del Forum può invitare a partecipare ai lavori del Forum anche rappresentanti di altri gruppi di interesse.
+
+4\. Il Forum di Agenda 21 è un organismo autonomo e di carattere consultivo a supporto delle istituzioni sammarinesi, con le quali collabora nella definizione di una visione di sviluppo sostenibile e dei suoi obiettivi, nell'implementazione ed attuazione di strategie ed azioni condivise realizzate anche mediante il contributo volontario e responsabile della popolazione. I lavori del Forum si svolgono secondo la metodologia e le modalità previste nella Guida Europea all'Agenda 21 Locale, il suo funzionamento è regolamentato da un apposito Statuto.
+
+5\. Il Forum di Agenda 21 ha i seguenti compiti:
+
+a) produrre un Rapporto sullo Stato dell'Ambiente entro 12 mesi dall‘insediamento;
+
+b) individuare, entro ventiquattro mesi dall‘insediamento, gli obiettivi ambientali da proporre alla CTA ai fini dell‘approvazione di un Piano di Azione Ambientale;
+
+c) monitorare l'attuazione del Piano di Azione Ambientale e verificare il raggiungimento degli obiettivi prefissati;
+
+###### Art. 9-ter
+
+(Piano di Azione Ambientale)
+
+1\. Il Piano di Azione Ambientale viene approvato dalla CTA su indicazione degli obbiettivi proposti dal Forum di cui all‘articolo 9-bis ed è volto a migliorare le condizioni di sostenibilità ambientale e la qualità della vita dei cittadini.
+
+2\. Il Piano di Azione Ambientale comprende un‘analisi del Rapporto sullo stato dell‘ambiente, di cui alla lettera a) del comma 5 dell‘articolo 9-bis, e le azioni concrete e necessarie per raggiungere gli obiettivi prefissati, definendo gli attori responsabili della sua attuazione e gli strumenti necessari.
+
+3\. Il Piano di Azione Ambientale deve contenere i seguenti elementi:
+
+a) analisi dei problemi e delle opportunità individuati dal Forum di cui all‘articolo 9-bis;
+
+b) individuazione degli obiettivi (target) a breve e lungo termine con indicazione delle priorità di intervento;
+
+c) verifica dello stato di attuazione e sviluppo di azioni correttive;
+
+d) promozione di un confronto con i portatori di interesse per la verifica dell‘efficacia del Piano di Azione Ambientale;
+
+e) valutazione della sintonia di tale Piano con altri piani e programmi di pianificazione e/o gestione ambientale e territoriale;
+
+f) valutazione dei risultati ed eventuale revisione del Piano di Azione Ambientale. 11
+
+d) valutare periodicamente l‘aggiornamento del Piano di Azione Ambientale;
+
+e) fungere da organo consultivo e propositivo per il Governo e l'Amministrazione nel valutare la sostenibilità ambientale dei provvedimenti in programma prima della loro approvazione.
+
+6\. L‘Amministrazione assolve le seguenti funzioni:
+
+a) svolgere un servizio di segreteria per agevolare il funzionamento del Forum attraverso l‘Ufficio Prevenzione e Ambiente;
+
+b) mettere a disposizione i dati degli uffici preposti alla gestione e tutela dell'ambiente, in modo tale da contribuire al buon esito dei lavori del Forum;
+
+c) valutare annualmente, sulla base di un programma di lavoro predisposto dal Forum, lo stanziamento di un fondo spese necessario allo svolgimento delle sue attività;
+
+d) valutare gli obiettivi e le azioni proposte dal Forum ai fini della redazione, attuazione e monitoraggio del Piano di Azione Ambientale.
+
+7\. Con apposito regolamento il Congresso di Stato può integrare i compiti del Forum.
+
+###### Art. 9-ter
+
+(Piano di Azione Ambientale)
+
+1\. Il Piano di Azione Ambientale viene approvato dalla CTA su indicazione degli obbiettivi proposti dal Forum di cui all‘articolo 9-bis ed è volto a migliorare le condizioni di sostenibilità ambientale e la qualità della vita dei cittadini.
+
+2\. Il Piano di Azione Ambientale comprende un‘analisi del Rapporto sullo stato dell‘ambiente, di cui alla lettera a) del comma 5 dell‘articolo 9-bis, e le azioni concrete e necessarie per raggiungere gli obiettivi prefissati, definendo gli attori responsabili della sua attuazione e gli strumenti necessari.
+
+3\. Il Piano di Azione Ambientale deve contenere i seguenti elementi:
+
+a) analisi dei problemi e delle opportunità individuati dal Forum di cui all‘articolo 9-bis;
+
+b) individuazione degli obiettivi (target) a breve e lungo termine con indicazione delle priorità di intervento;
+
+c) verifica dello stato di attuazione e sviluppo di azioni correttive;
+
+d) promozione di un confronto con i portatori di interesse per la verifica dell‘efficacia del Piano di Azione Ambientale;
+
+e) valutazione della sintonia di tale Piano con altri piani e programmi di pianificazione e/o gestione ambientale e territoriale;
+
+f) valutazione dei risultati ed eventuale revisione del Piano di Azione Ambientale.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 10: Vedasi nota 9.
+
+### TITOLO II 12
+
+NORME PER LA GESTIONE DEI RIFIUTI
+
+#### CAPO I
+
+DISPOSIZIONI GENERALI
+
+###### Art.10
+
+(Campo di applicazione)
+
+1.
+
+Il presente Titolo disciplina la gestione dei rifiuti.
+
+2.
+
+La gestione dei rifiuti avviene anche mediante l’attuazione delle direttive internazionali sui rifiuti, sui rifiuti pericolosi, sugli oli usati, sulle batterie esauste, sui rifiuti di imballaggio, sui policlorobifenili (PCB), sulle discariche, sugli inceneritori, sui rifiuti elettrici ed elettronici, sui veicoli fuori uso, sui rifiuti sanitari e sui rifiuti contenenti amianto.
+
+###### Art. 11
+
+(Finalità)
+
+1.
+
+La gestione dei rifiuti costituisce attività di pubblico interesse ed è disciplinata al fine di assicurare un’elevata protezione dell’ambiente e controlli efficaci, tenendo conto della specificità dei rifiuti pericolosi nonché al fine di preservare le risorse naturali.
+
+2.
+
+I rifiuti sono recuperati o smaltiti senza pericolo per la salute dell’uomo e senza usare procedimenti o metodi che potrebbero recare pregiudizio all’ambiente e, in particolare:
+
+a) senza determinare rischi per l’acqua, l’aria, il suolo, nonché per la fauna e la flora;
+
+b) senza causare inconvenienti da rumori o odori;
+
+c) senza danneggiare il paesaggio e i siti di particolare interesse, tutelati in base alla normativa vigente;
+
+d) ogni fase della gestione dei rifiuti, deposito temporaneo, stoccaggio, trattamento, riciclaggio e smaltimento dei rifiuti deve essere condotta in modo da non causare inquinamento delle acque, del suolo, del sottosuolo e dell’aria, sia direttamente che in conseguenza di fenomeni naturali, precipitazioni, vento, e simili.
+
+3.
+
+La gestione dei rifiuti è effettuata conformemente ai principi di precauzione, di prevenzione, di proporzionalità, di responsabilizzazione e di cooperazione di tutti i soggetti coinvolti nella produzione, nella distribuzione, nell’utilizzo e nel consumo di beni da cui originano i rifiuti, nel rispetto dei principi dell’ordinamento sammarinese, con particolare riferimento al principio "chi inquina paga". A tal fine, la gestione dei rifiuti è effettuata secondo criteri di efficacia, efficienza, economicità e trasparenza.
+
+4.
+
+Per conseguire le finalità e gli obiettivi di cui al presente ed ai successivi articoli, il Congresso di Stato esercita i poteri e le funzioni di rispettiva competenza in materia di gestione dei rifiuti in conformità alle disposizioni del presente Titolo, adottando ogni Decreto Delegato 31 gennaio 2017 n. 16, Articolo 70:
+
+Il Regolamento (CE) n.1013/2006 richiamato al Titolo II del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni.
+
+La Direttiva 2000/60/CE e la Direttiva 1998/83/CE richiamate al Titolo IV del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, devono intendersi rispettivamente Direttiva 2000/60/CE e successive modifiche ed integrazioni e Direttiva 1998/83/CE e successive modifiche ed integrazioni.
+
+La Direttiva 2008/50/CE richiamata al Titolo V del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Direttiva 2008/60/CE e successive modifiche ed integrazioni.
+
+La Direttiva 2004/35/CE richiamata al Titolo VIII del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Direttiva 2004/35/CE e successive modifiche ed integrazioni.
+
+opportuna azione ed avvalendosi, ove opportuno, mediante accordi, contratti di programma o protocolli d’intesa anche sperimentali, di soggetti pubblici o privati.
+
+5\. Il presente Titolo persegue, inoltre, le seguenti finalità:
+
+a) classificare i rifiuti prodotti nel territorio sammarinese in modo corrispondente al Catalogo Europeo dei Rifiuti (CER) istituito dalla decisione della Commissione n.2000/532/CE e successive modifiche ed integrazioni adottandone i relativi codici;
+
+b) disciplinare aspetti concernenti la gestione ed il trasporto dei rifiuti all‘interno del territorio della Repubblica di San Marino;
+
+c) regolamentare le spedizioni transfrontaliere di rifiuti tra la Repubblica di San Marino e altri Stati, Regioni e/o Enti locali, secondo gli accordi tra il Governo della Repubblica di San Marino ed i Governi, le Regioni e/o gli Enti locali di tali Stati. 5-bis. ABROGATO13
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 11
+
+(Finalità)
+
+1.
+
+La gestione dei rifiuti costituisce attività di pubblico interesse ed è disciplinata al fine di assicurare un’elevata protezione dell’ambiente e controlli efficaci, tenendo conto della specificità dei rifiuti pericolosi nonché al fine di preservare le risorse naturali.
+
+2.
+
+I rifiuti sono recuperati o smaltiti senza pericolo per la salute dell’uomo e senza usare procedimenti o metodi che potrebbero recare pregiudizio all’ambiente e, in particolare:
+
+a) senza determinare rischi per l’acqua, l’aria, il suolo, nonché per la fauna e la flora;
+
+b) senza causare inconvenienti da rumori o odori;
+
+c) senza danneggiare il paesaggio e i siti di particolare interesse, tutelati in base alla normativa vigente;
+
+d) ogni fase della gestione dei rifiuti, deposito temporaneo, stoccaggio, trattamento, riciclaggio e smaltimento dei rifiuti deve essere condotta in modo da non causare inquinamento delle acque, del suolo, del sottosuolo e dell’aria, sia direttamente che in conseguenza di fenomeni naturali, precipitazioni, vento, e simili.
+
+3.
+
+La gestione dei rifiuti è effettuata conformemente ai principi di precauzione, di prevenzione, di proporzionalità, di responsabilizzazione e di cooperazione di tutti i soggetti coinvolti nella produzione, nella distribuzione, nell’utilizzo e nel consumo di beni da cui originano i rifiuti, nel rispetto dei principi dell’ordinamento sammarinese, con particolare riferimento al principio "chi inquina paga". A tal fine, la gestione dei rifiuti è effettuata secondo criteri di efficacia, efficienza, economicità e trasparenza.
+
+4.
+
+Per conseguire le finalità e gli obiettivi di cui al presente ed ai successivi articoli, il Congresso di Stato esercita i poteri e le funzioni di rispettiva competenza in materia di gestione dei rifiuti in conformità alle disposizioni del presente Titolo, adottando ogni opportuna azione ed avvalendosi, ove opportuno, mediante accordi, contratti di programma o protocolli d’intesa anche sperimentali, di soggetti pubblici o privati.
+
+5.
+
+Il presente Titolo persegue, inoltre, le seguenti finalità:
+
+a) classificare i rifiuti prodotti nel territorio sammarinese in modo corrispondente al Catalogo Europeo dei Rifiuti (CER) istituito dalla decisione della Commissione n.2000/532/CE e successive modificazioni adottandone i relativi codici;
+
+b) disciplinare aspetti concernenti la gestione ed il trasporto dei rifiuti all’interno del territorio della Repubblica di San Marino;
+
+c) regolamentare la spedizione dei rifiuti tra il territorio della Repubblica di San Marino e destinazioni site nel territorio della Repubblica Italiana, secondo gli accordi tra il Governo della Repubblica di San Marino ed i Governi e gli Enti locali dei paesi di destinazione.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 11:
+
+1\. Il comma 5 dell‘articolo 11 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―5. Il presente Titolo persegue, inoltre, le seguenti finalità:
+
+a) classificare i rifiuti prodotti nel territorio sammarinese in modo corrispondente al Catalogo Europeo dei Rifiuti (CER) istituito dalla decisione della Commissione n.2000/532/CE e successive modifiche ed integrazioni adottandone i relativi codici;
+
+b) disciplinare aspetti concernenti la gestione ed il trasporto dei rifiuti all‘interno del territorio della Repubblica di San Marino;
+
+c) regolamentare le spedizioni transfrontaliere di rifiuti tra la Repubblica di San Marino e altri Stati, Regioni e/o Enti locali, secondo gli accordi tra il Governo della Repubblica di San Marino ed i Governi, le Regioni e/o gli Enti locali di tali Stati.
+
+2\. All‘articolo 11 del Decreto Delegato 27 aprile 2012 n. 44 è aggiunto il seguente comma 5-bis: ―5-bis. Resta salvo il divieto di importare rifiuti nel territorio della Repubblica.
+
+Legge 7 agosto 2017 n. 94, Articolo 58
+
+1\. Sono abrogati:
+
+a) l’articolo 2, primo comma, della Legge 30 ottobre 1989 n.109;
+
+b) la Legge 31 ottobre 1994 n.89;
+
+c) l'articolo 1 della Legge 25 novembre 1997 n.137;
+
+d) gli articoli 18 e 19 della Legge 26 luglio 2010 n.130;
+
+e) gli articoli 8, 10, 11, 13 della Legge 5 Dicembre 2011 n.190;
+
+f) la Legge 20 luglio 2004 n.102;
+
+###### Art. 12
+
+(Definizioni)
+
+1\. Ai fini del presente Titolo si intende per:
+
+a) «rifiuto» qualsiasi sostanza od oggetto di cui il detentore si disfi o abbia l’intenzione o l’obbligo di disfarsi;
+
+b) «oli usati» qualsiasi olio industriale o lubrificante, minerale o sintetico, divenuto improprio all’uso cui era inizialmente destinato, quali gli oli usati dei motori a combustione e dei sistemi di trasmissione, nonché gli oli lubrificanti e gli oli per turbine e comandi idraulici;
+
+c) «rifiuto organico» rifiuti biodegradabili di giardini e parchi, rifiuti alimentari e di cucina prodotti da nuclei domestici, ristoranti, servizi di ristorazione e punti vendita al dettaglio e rifiuti simili prodotti dagli impianti dell’industria alimentare;
+
+d) «produttore di rifiuti» la persona la cui attività produce rifiuti (produttore iniziale di rifiuti) o chiunque effettui operazioni di pretrattamento, miscelazione o altre operazioni che hanno modificato la natura o la composizione di detti rifiuti;
+
+e) «detentore di rifiuti» il produttore dei rifiuti o la persona fisica o giuridica che ne è in possesso;
+
+f) «commerciante» qualsiasi impresa che agisce in qualità di committente al fine di acquistare e successivamente vendere rifiuti, compresi i commercianti che non prendono materialmente possesso dei rifiuti;
+
+g) «intermediario» qualsiasi impresa che dispone il recupero o lo smaltimento dei rifiuti per conto di altri, compresi gli intermediari che non prendono materialmente possesso dei rifiuti;
+
+h) «gestione dei rifiuti» la raccolta, lo stoccaggio, il trasporto, il recupero e lo smaltimento dei rifiuti, compresi la supervisione di tali operazioni e gli interventi successivi alla chiusura dei siti di smaltimento nonché le operazioni effettuate in qualità di commercianti o intermediari;
+
+i) «raccolta» il prelievo dei rifiuti, compresi la cernita preliminare e il deposito preliminare, ai fini del loro trasporto in un impianto di trattamento;
+
+l) «raccolta differenziata»: la raccolta in cui un flusso di rifiuti è tenuto separato in base al tipo e alla natura dei rifiuti al fine di facilitarne il trattamento specifico;
+
+m) «prevenzione» misure, prese prima che una sostanza, un materiale o un prodotto sia diventato un rifiuto, che riducono:
+
+1) la quantità dei rifiuti, anche attraverso il riutilizzo dei prodotti o l’estensione del loro ciclo di vita;
+
+2) gli impatti negativi dei rifiuti prodotti sull’ambiente e la salute umana;
+
+3) il contenuto di sostanze pericolose in materiali e prodotti;
+
+n) «riutilizzo» qualsiasi operazione attraverso la quale prodotti o componenti che non sono rifiuti sono reimpiegati per la stessa finalità per la quale erano stati concepiti;
+
+o) «trattamento» operazioni di recupero o smaltimento, inclusa la preparazione prima del recupero o dello smaltimento;
+
+g) l’articolo 2 del Decreto Delegato 21 gennaio 2016 n.3.
+
+h) il comma 5 bis dell’articolo 11 del Decreto Delegato 27 aprile 2012 n.44 come aggiunto dal comma 2 dell’articolo 11 del Decreto Delegato 31 gennaio 2017 n.16.
+
+2\. E’ soppressa l’espressione “nonché i loro prezzi di vendita” di cui all’articolo 17 della Legge 10 marzo 1989 n.23.
+
+p)
+
+«smaltimento» qualsiasi operazione diversa dal recupero anche quando l’operazione ha come conseguenza secondaria il recupero di sostanze o di energia.
+
+L’Allegato A del presente Codice riporta l’elenco delle operazioni di smaltimento;
+
+q) «recupero» qualsiasi operazione il cui principale risultato sia di permettere ai rifiuti di svolgere un ruolo utile sostituendo altri materiali che sarebbero stati altrimenti utilizzati per assolvere una particolare funzione o di prepararli ad assolvere tale funzione, all’interno dell’impianto o nell’economia in generale. L’Allegato B del presente Codice riporta l’elenco delle operazioni di recupero;
+
+r) «preparazione per il riutilizzo» le operazioni di controllo, pulizia e riparazione attraverso cui prodotti o componenti di prodotti diventati rifiuti sono preparati in modo da poter essere reimpiegati senza altro pretrattamento;
+
+s) «riciclaggio» qualsiasi operazione di recupero attraverso cui i materiali di rifiuto sono ritrattati per ottenere prodotti, materiali o sostanze da utilizzare per la loro funzione originaria o per altri fini. Include il ritrattamento di materiale organico ma non il recupero di energia né il ritrattamento per ottenere materiali da utilizzare quali combustibili o in operazioni di riempimento;
+
+t) «rigenerazione di oli usati» qualsiasi operazione di riciclaggio che permetta di produrre oli di base mediante una raffinazione degli oli usati, che comporti in particolare la separazione dei contaminanti, dei prodotti di ossidazione e degli additivi contenuti in tali oli;
+
+u) «compost da rifiuti»: prodotto ottenuto dal compostaggio della frazione organica dei rifiuti urbani nel rispetto di apposite norme tecniche finalizzate a definirne contenuti e usi compatibili con la tutela ambientale e sanitaria e, in particolare, a definirne i gradi di qualità;
+
+v) «gestione integrata dei rifiuti»: il complesso delle attività volte ad ottimizzare la gestione dei rifiuti, come definita alla superiore lettera h) ivi compresa l’attività di spazzamento delle strade;
+
+z) «centro di raccolta»: area presidiata ed allestita, senza ulteriori oneri a carico della finanza pubblica, per l’attività di raccolta mediante raggruppamento differenziato dei rifiuti per frazioni omogenee conferiti dai detentori per il trasporto agli impianti di recupero e trattamento;
+
+aa) «stoccaggio»: le attività di smaltimento consistenti nelle operazioni di deposito preliminare di rifiuti di cui al punto D15 dell’Allegato A del presente Codice, nonché le attività di recupero consistenti nelle operazioni di messa in riserva di materiali di cui al punto R13 dell’Allegato B del presente Codice;
+
+bb) «deposito temporaneo»: il raggruppamento dei rifiuti effettuato, prima della raccolta, nel luogo in cui gli stessi sono prodotti, alle seguenti condizioni:
+
+1) i rifiuti depositati non devono contenere policlorodibenzodiossine, policlorodibenzofurani, policlorodibenzofenoli in quantità superiore a 2,5 parti per milione (ppm), né policlorobifenile e policlorotrifenili in quantità superiore a 25 parti per milione (ppm);
+
+2) i rifiuti devono essere raccolti ed avviati alle operazioni di recupero o di smaltimento secondo una delle seguenti modalità alternative, a scelta del produttore:
+
+2.1) con cadenza almeno trimestrale, indipendentemente dalle quantità in deposito;
+
+2.2) quando il quantitativo di rifiuti in deposito raggiunga complessivamente i 30 metri cubi di cui al massimo 10 metri cubi di pericolosi. In questo caso il deposito temporaneo non può avere, comunque, durata superiore ad un anno;
+
+3) il «deposito temporaneo» deve essere effettuato per categorie omogenee di rifiuti e nel rispetto delle relative norme tecniche, nonché, per i rifiuti pericolosi,
+
+nel rispetto delle norme che disciplinano il deposito delle sostanze pericolose in essi contenute;
+
+4) devono essere rispettate le norme che disciplinano l’imballaggio e l’etichettatura delle sostanze pericolose;
+
+5) per alcune categorie di rifiuto possono essere fissate da parte della CTA, le modalità di gestione del deposito temporaneo;
+
+cc) «spazzamento» delle strade: modalità di raccolta dei rifiuti su strada; cc-bis) «ispezione»: le azioni intraprese da parte delle autorità coinvolte al fine di verificare se uno stabilimento, un‘impresa, intermediari e commercianti, una spedizione transfrontaliera di rifiuti e il relativo recupero o smaltimento siano conformi agli obblighi pertinenti di cui all‘articolo 31.
+
+2\. Ai fini del presente Titolo si intendono altresì, integralmente recepite le classificazioni di cui al Catalogo Europeo dei Rifiuti “CER” istituito dalla decisione della Commissione n.2000/532/CE e successive modifiche.
+
+3\. Ai sensi dell’articolo 2, paragrafo 1, numero 15, lettera b) del Regolamento (CE) n.1013/2006 è “notificatore” una persona fisica residente in Repubblica o una persona giuridica di diritto sammarinese tra quelle sotto elencate:
+
+a) il “produttore iniziale”;
+
+b) il “nuovo produttore” che effettua operazioni prima della spedizione da un’unica località notificata;
+
+c) il “raccoglitore” che ha formato, riunendo vari piccoli quantitativi di rifiuti dello stesso tipo e provenienti da fonti diverse, la spedizione in partenza da un’unica località notificata;
+
+d) un “intermediario” autorizzato per iscritto dal produttore iniziale, dal nuovo produttore o dal raccoglitore di cui rispettivamente alle lettere a), b), c), ad agire per suo conto in qualità di “notificatore”;
+
+e) il detentore da intendersi quale il produttore dei rifiuti o la persona fisica o giuridica che li detiene;
+
+f) qualora tutti i soggetti di cui alle lettere a), b), c), d), se applicabili, siano sconosciuti insolventi, il detentore del rifiuto al momento della spedizione.14 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 12
+
+(Definizioni)
+
+1\. Ai fini del presente Titolo si intende per:
+
+a) «rifiuto» qualsiasi sostanza od oggetto di cui il detentore si disfi o abbia l’intenzione o l’obbligo di disfarsi;
+
+b) «oli usati» qualsiasi olio industriale o lubrificante, minerale o sintetico, divenuto improprio all’uso cui era inizialmente destinato, quali gli oli usati dei motori a combustione e dei sistemi di trasmissione, nonché gli oli lubrificanti e gli oli per turbine e comandi idraulici;
+
+c) «rifiuto organico» rifiuti biodegradabili di giardini e parchi, rifiuti alimentari e di cucina prodotti da nuclei domestici, ristoranti, servizi di ristorazione e punti vendita al dettaglio e rifiuti simili prodotti dagli impianti dell’industria alimentare;
+
+d) «produttore di rifiuti» la persona la cui attività produce rifiuti (produttore iniziale di rifiuti) o chiunque effettui operazioni di pretrattamento, miscelazione o altre operazioni che hanno modificato la natura o la composizione di detti rifiuti;
+
+e) «detentore di rifiuti» il produttore dei rifiuti o la persona fisica o giuridica che ne è in possesso;
+
+f) «commerciante» qualsiasi impresa che agisce in qualità di committente al fine di acquistare e successivamente vendere rifiuti, compresi i commercianti che non prendono materialmente possesso dei rifiuti;
+
+g) «intermediario» qualsiasi impresa che dispone il recupero o lo smaltimento dei rifiuti per conto di altri, compresi gli intermediari che non prendono materialmente possesso dei rifiuti;
+
+h) «gestione dei rifiuti» la raccolta, il trasporto, il recupero e lo smaltimento dei rifiuti, compresi la supervisione di tali operazioni e gli interventi successivi alla chiusura dei siti di smaltimento nonché le operazioni effettuate in qualità di commercianti o intermediari;
+
+i) «raccolta» il prelievo dei rifiuti, compresi la cernita preliminare e il deposito preliminare, ai fini del loro trasporto in un impianto di trattamento;
+
+l) «raccolta differenziata»: la raccolta in cui un flusso di rifiuti è tenuto separato in base al tipo e alla natura dei rifiuti al fine di facilitarne il trattamento specifico;
+
+m) «prevenzione» misure, prese prima che una sostanza, un materiale o un prodotto sia diventato un rifiuto, che riducono:
+
+1) la quantità dei rifiuti, anche attraverso il riutilizzo dei prodotti o l’estensione del loro ciclo di vita;
+
+2) gli impatti negativi dei rifiuti prodotti sull’ambiente e la salute umana;
+
+3) il contenuto di sostanze pericolose in materiali e prodotti;
+
+n) «riutilizzo» qualsiasi operazione attraverso la quale prodotti o componenti che non sono rifiuti sono reimpiegati per la stessa finalità per la quale erano stati concepiti;
+
+o) «trattamento» operazioni di recupero o smaltimento, inclusa la preparazione prima del recupero o dello smaltimento;
+
+p) «smaltimento» qualsiasi operazione diversa dal recupero anche quando l’operazione ha come conseguenza secondaria il recupero di sostanze o di energia. L’Allegato A del presente Codice riporta l’elenco delle operazioni di smaltimento;
+
+q) «recupero» qualsiasi operazione il cui principale risultato sia di permettere ai rifiuti di svolgere un ruolo utile sostituendo altri materiali che sarebbero stati altrimenti utilizzati per assolvere una particolare funzione o di prepararli ad assolvere tale funzione, all’interno dell’impianto o nell’economia in generale. L’Allegato B del presente Codice riporta l’elenco delle operazioni di recupero;
+
+r) «preparazione per il riutilizzo» le operazioni di controllo, pulizia e riparazione attraverso cui prodotti o componenti di prodotti diventati rifiuti sono preparati in modo da poter essere reimpiegati senza altro pretrattamento;
+
+s) «riciclaggio» qualsiasi operazione di recupero attraverso cui i materiali di rifiuto sono ritrattati per ottenere prodotti, materiali o sostanze da utilizzare per la loro funzione originaria o per altri fini. Include il ritrattamento di materiale organico ma non il recupero di energia né il ritrattamento per ottenere materiali da utilizzare quali combustibili o in operazioni di riempimento;
+
+t) «rigenerazione di oli usati» qualsiasi operazione di riciclaggio che permetta di produrre oli di base mediante una raffinazione degli oli usati, che comporti in particolare la separazione dei contaminanti, dei prodotti di ossidazione e degli additivi contenuti in tali oli;
+
+u) «compost da rifiuti»: prodotto ottenuto dal compostaggio della frazione organica dei rifiuti urbani nel rispetto di apposite norme tecniche finalizzate a definirne contenuti e usi compatibili con la tutela ambientale e sanitaria e, in particolare, a definirne i gradi di qualità;
+
+v) «gestione integrata dei rifiuti»: il complesso delle attività volte ad ottimizzare la gestione dei rifiuti, come definita alla superiore lettera h) ivi compresa l’attività di spazzamento delle strade;
+
+z) «centro di raccolta»: area presidiata ed allestita, senza ulteriori oneri a carico della finanza pubblica, per l’attività di raccolta mediante raggruppamento differenziato dei rifiuti per frazioni omogenee conferiti dai detentori per il trasporto agli impianti di recupero e trattamento;
+
+aa)
+
+«stoccaggio»: le attività di smaltimento consistenti nelle operazioni di deposito preliminare di rifiuti di cui al punto D15 dell’Allegato A del presente Codice, nonché le attività di recupero consistenti nelle operazioni di messa in riserva di materiali di cui al punto R13 dell’Allegato B del presente Codice;
+
+bb) «deposito temporaneo»: il raggruppamento dei rifiuti effettuato, prima della raccolta, nel luogo in cui gli stessi sono prodotti, alle seguenti condizioni:
+
+1) i rifiuti depositati non devono contenere policlorodibenzodiossine, policlorodibenzofurani, policlorodibenzofenoli in quantità superiore a 2,5 parti per milione (ppm), né policlorobifenile e policlorotrifenili in quantità superiore a 25 parti per milione (ppm);
+
+2) i rifiuti devono essere raccolti ed avviati alle operazioni di recupero o di smaltimento secondo una delle seguenti modalità alternative, a scelta del produttore:
+
+2.1) con cadenza almeno trimestrale, indipendentemente dalle quantità in deposito;
+
+2.2) quando il quantitativo di rifiuti in deposito raggiunga complessivamente i 30 metri cubi di cui al massimo 10 metri cubi di pericolosi. In questo caso il deposito temporaneo non può avere, comunque, durata superiore ad un anno;
+
+3) il «deposito temporaneo» deve essere effettuato per categorie omogenee di rifiuti e nel rispetto delle relative norme tecniche, nonché, per i rifiuti pericolosi, nel rispetto delle norme che disciplinano il deposito delle sostanze pericolose in essi contenute;
+
+4) devono essere rispettate le norme che disciplinano l’imballaggio e l’etichettatura delle sostanze pericolose;
+
+5) per alcune categorie di rifiuto possono essere fissate da parte della CTA, le modalità di gestione del deposito temporaneo;
+
+cc) «spazzamento» delle strade: modalità di raccolta dei rifiuti su strada.
+
+2\. Ai fini del presente Titolo si intendono altresì, integralmente recepite le classificazioni di cui al Catalogo Europeo dei Rifiuti “CER” istituito dalla decisione della Commissione n.2000/532/CE e successive modifiche.
+
+3\. Ai sensi dell’articolo 2, paragrafo 1, numero 15, lettera b) del Regolamento (CE) n.1013/2006 è “notificatore” una persona fisica residente in Repubblica o una persona giuridica di diritto sammarinese tra quelle sotto elencate:
+
+a) il “produttore iniziale”;
+
+b) il “nuovo produttore” che effettua operazioni prima della spedizione da un’unica località notificata;
+
+c) il “raccoglitore” che ha formato, riunendo vari piccoli quantitativi di rifiuti dello stesso tipo e provenienti da fonti diverse, la spedizione in partenza da un’unica località notificata;
+
+d) un “intermediario” autorizzato per iscritto dal produttore iniziale, dal nuovo produttore o dal raccoglitore di cui rispettivamente alle lettere a), b), c), ad agire per suo conto in qualità di “notificatore”;
+
+e) il detentore da intendersi quale il produttore dei rifiuti o la persona fisica o giuridica che li detiene;
+
+f) qualora tutti i soggetti di cui alle lettere a), b), c), d), se applicabili, siano sconosciuti o insolventi, il detentore del rifiuto al momento della spedizione.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 12:
+
+L‘articolo 12 del Decreto Delegato 27 aprile 2012 n. 44 è modificato come segue:
+
+a) al comma 1, la lettera h) è sostituita dalla seguente: ―h) «gestione dei rifiuti» la raccolta, lo stoccaggio, il trasporto, il recupero e lo smaltimento dei rifiuti, compresi la supervisione di tali operazioni e gli interventi successivi alla chiusura dei siti di smaltimento nonché le operazioni effettuate in qualità di commercianti o intermediari;
+
+b) al comma 1, dopo la lettera cc) è aggiunta la seguente lettera:
+
+###### Art.13
+
+(Criteri di priorità nella gestione dei rifiuti)
+
+1\. La Repubblica di San Marino persegue iniziative dirette a favorire prioritariamente la prevenzione e la riduzione della produzione e della nocività dei rifiuti, in particolare mediante:
+
+a) lo sviluppo di tecnologie pulite, che permettano un uso più razionale e un maggiore risparmio di risorse naturali;
+
+b) la messa a punto tecnica e l’immissione sul mercato di prodotti concepiti in modo da non contribuire o da contribuire il meno possibile, per la loro fabbricazione, il loro uso o il loro smaltimento, ad incrementare la quantità o la nocività dei rifiuti e i rischi di inquinamento;
+
+c) lo sviluppo di tecniche appropriate per l’eliminazione di sostanze pericolose contenute nei rifiuti al fine di favorirne il recupero.
+
+2\. Nel rispetto delle misure prioritarie di cui al comma 1, le misure dirette al recupero dei rifiuti mediante riutilizzo e riciclo sono adottate con priorità rispetto all’uso dei rifiuti come fonte di energia.
+
+###### Art. 14
+
+(Prevenzione della produzione di rifiuti)
+
+1\. Al fine di promuovere in via prioritaria la prevenzione e la riduzione della produzione e della nocività dei rifiuti, le iniziative di cui all’articolo 13 riguardano in particolare:
+
+a) la promozione di strumenti economici, eco-bilanci, sistemi di certificazione ambientale, analisi del ciclo di vita dei prodotti, azioni di informazione e di sensibilizzazione dei consumatori, l’uso di sistemi di qualità, nonché lo sviluppo del sistema di marchio ecologico ai fini della corretta valutazione dell’impatto di uno specifico prodotto sull’ambiente durante l’intero ciclo di vita del prodotto medesimo;
+
+b) la previsione di clausole di gare d’appalto che valorizzino le capacità e le competenze tecniche in materia di prevenzione della produzione di rifiuti;
+
+c) la promozione di accordi e contratti di programma o protocolli d’intesa anche sperimentali finalizzati, con effetti migliorativi, alla prevenzione ed alla riduzione della quantità e della pericolosità dei rifiuti.
+
+###### Art. 15
+
+(Recupero dei rifiuti)
+
+1\. Ai fini di una corretta gestione dei rifiuti gli uffici competenti favoriscono la riduzione dello smaltimento finale degli stessi, attraverso:
+
+a) il riutilizzo, il riciclo o le altre forme di recupero;
+
+b) l’adozione di misure economiche e la determinazione di condizioni di appalto che prevedano l’impiego dei materiali recuperati dai rifiuti al fine di favorire il mercato dei materiali medesimi;
+
+c) l’utilizzazione dei rifiuti come combustibile o come altro mezzo per produrre energia.
+
+2\. Al fine di favorire ed incrementare le attività di riutilizzo, riciclo e recupero gli uffici competenti ed i produttori promuovono analisi dei cicli di vita dei prodotti, ecobilanci, ―cc-bis) «ispezione»: le azioni intraprese da parte delle autorità coinvolte al fine di verificare se uno stabilimento, un‘impresa, intermediari e commercianti, una spedizione transfrontaliera di rifiuti e il relativo recupero o smaltimento siano conformi agli obblighi pertinenti di cui all‘articolo 31.
+
+informazioni e tutte le altre iniziative utili.
+
+3\. La disciplina in materia di gestione dei rifiuti si applica fino al completamento delle operazioni di recupero. 15
+
+###### Art. 16
+
+(Sottoprodotti)
+
+1\. Una sostanza od oggetto derivante da un processo di produzione il cui scopo primario non è la produzione di tale articolo, può non essere considerato rifiuto ai sensi dell’articolo 12, comma 1, lettera a), bensì sottoprodotto soltanto se sono soddisfatte le seguenti condizioni:
+
+a) siano originati da un processo non direttamente destinato alla loro produzione;
+
+b) il loro impiego sia certo, sin dalla fase della produzione, integrale e avvenga direttamente nel corso del processo di produzione o di utilizzazione preventivamente individuato e definito;
+
+c) soddisfino requisiti merceologici e di qualità ambientale idonei a garantire che il loro impiego non dia luogo ad emissioni e ad impatti ambientali qualitativamente e quantitativamente diversi da quelli autorizzati per l’impianto dove sono destinati ad essere utilizzati;
+
+d) non debbano essere sottoposti a trattamenti preventivi o a trasformazioni preliminari per soddisfare i requisiti merceologici e di qualità ambientale di cui al punto c), ma posseggano tali requisiti sin dalla fase della produzione;
+
+e) abbiano un valore economico di mercato.
+
+2\. Sulla base delle condizioni previste al comma 1, possono essere adottate dalla CTA, misure per stabilire i criteri da soddisfare affinché sostanze o oggetti specifici siano considerati sottoprodotti e non rifiuti.
+
+###### Art. 17
+
+(Cessazione della qualifica del rifiuto)
+
+1\. Un rifiuto cessa di essere tale ai sensi dell‘articolo 12, comma 1, lettera a) quando sia sottoposto a un‘operazione di recupero, incluso il riciclaggio, e soddisfi i criteri specifici da elaborare conformemente alle seguenti condizioni:
+
+a) sia prodotto da un‘operazione di riutilizzo, di riciclo o di recupero di rifiuti;
+
+b) la sostanza o l‘oggetto è comunemente utilizzata/o per scopi specifici;
+
+c) esiste un mercato o una domanda per tale sostanza od oggetto;
+
+d) la sostanza o l‘oggetto soddisfa i requisiti tecnici per gli scopi specifici e rispetta la normativa e gli standard esistenti applicabili ai prodotti;
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 15
+
+(Recupero dei rifiuti)
+
+1\. Ai fini di una corretta gestione dei rifiuti gli uffici competenti favoriscono la riduzione dello smaltimento finale degli stessi, attraverso:
+
+a) il riutilizzo, il riciclo o le altre forme di recupero;
+
+b) l’adozione di misure economiche e la determinazione di condizioni di appalto che prevedano l’impiego dei materiali recuperati dai rifiuti al fine di favorire il mercato dei materiali medesimi;
+
+c) l’utilizzazione dei rifiuti come combustibile o come altro mezzo per produrre energia.
+
+2\. Al fine di favorire ed incrementare le attività di riutilizzo, riciclo e recupero gli uffici competenti ed i produttori promuovono analisi dei cicli di vita dei prodotti, ecobilanci, informazioni e tutte le altre iniziative utili.
+
+3\. La disciplina in materia di gestione dei rifiuti si applica fino al completamento delle operazioni di recupero.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 12-bis:
+
+All‘articolo 15, comma 1, del Decreto Delegato 27 aprile 2012 n.44 è soppressa la lettera c).
+
+e) l‘utilizzo della sostanza o dell‘oggetto non porterà a impatti complessivi negativi sull‘ambiente o sulla salute umana.
+
+2\. Sulla base dei criteri, requisiti e condizioni previsti al comma 1, la CTA definisce le caratteristiche dei materiali ottenuti da operazioni di recupero dei rifiuti utilizzati per ottenere materie, le sostanze e i prodotti secondari.
+
+3\. I criteri includono valori limite per le sostanze inquinanti e tengono conto di tutti i possibili effetti negativi sull‘ambiente e sulla salute. Tali valori limite sono definiti dalla CTA. 16
+
+###### Art. 18
+
+(Smaltimento dei rifiuti)
+
+1\. Lo smaltimento dei rifiuti è effettuato in condizioni di sicurezza e costituisce la fase residuale della gestione dei rifiuti, previa verifica della impossibilità tecnica ed economica di esperire le operazioni di recupero di cui all‘articolo 15. A tal fine, la predetta verifica concerne la disponibilità di tecniche sviluppate su una scala che ne consenta l‘applicazione in condizioni economicamente e tecnicamente valide nell‘ambito del pertinente comparto industriale, prendendo in considerazione i costi e i vantaggi.
+
+2\. I rifiuti da avviare allo smaltimento finale devono essere il più possibile ridotti sia in massa che in volume, potenziando la prevenzione e le attività di riutilizzo, di riciclaggio e di recupero.
+
+3\. Le attività di raggruppamento e abbruciamento in piccoli cumuli e in quantità giornaliere non superiori a tre metri steri per ettaro dei materiali vegetali di cui all‘articolo 20, comma 1, lettera e), effettuate nel luogo di produzione, costituiscono normali pratiche agricole consentite per il reimpiego dei materiali come sostanze concimanti o ammendanti e non attività di gestione dei rifiuti. E‘ sempre obbligatorio comunicare tali operazioni alla Polizia Civile. Dall‘ 1 maggio al 30 settembre la combustione di residui vegetali agricoli e forestali deve essere preventivamente Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 17
+
+(Materie, sostanze e prodotti secondari)
+
+1\. Non rientrano nella definizione di cui dell’articolo 12, comma 1, lettera a) le materie, le sostanze e i prodotti secondari che rispettino i seguenti criteri, requisiti e condizioni:
+
+a) siano prodotti da un’operazione di riutilizzo, di riciclo o di recupero di rifiuti;
+
+b) la sostanza o l’oggetto è comunemente utilizzata/o per scopi specifici;
+
+c) esiste un mercato o una domanda per tale sostanza od oggetto;
+
+d) la sostanza o l’oggetto soddisfa i requisiti tecnici per gli scopi specifici e rispetta la normativa e gli standard esistenti applicabili ai prodotti;
+
+e) l’utilizzo della sostanza o dell’oggetto non porterà a impatti complessivi negativi sull’ambiente o sulla salute umana.
+
+2\. Sulla base dei criteri, requisiti e condizioni previsti al comma 1, la CTA definisce le caratteristiche dei materiali ottenuti da operazioni di recupero dei rifiuti utilizzati per ottenere materie, le sostanze e i prodotti secondari.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 13:
+
+L‘articolo 17 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 17 (Cessazione della qualifica del rifiuto)
+
+1\. Un rifiuto cessa di essere tale ai sensi dell‘articolo 12, comma 1, lettera a) quando sia sottoposto a un‘operazione di recupero, incluso il riciclaggio, e soddisfi i criteri specifici da elaborare conformemente alle seguenti condizioni:
+
+a) sia prodotto da un‘operazione di riutilizzo, di riciclo o di recupero di rifiuti;
+
+b) la sostanza o l‘oggetto è comunemente utilizzata/o per scopi specifici;
+
+c) esiste un mercato o una domanda per tale sostanza od oggetto;
+
+d) la sostanza o l‘oggetto soddisfa i requisiti tecnici per gli scopi specifici e rispetta la normativa e gli standard esistenti applicabili ai prodotti;
+
+e) l‘utilizzo della sostanza o dell‘oggetto non porterà a impatti complessivi negativi sull‘ambiente o sulla salute umana.
+
+2\. Sulla base dei criteri, requisiti e condizioni previsti al comma 1, la CTA definisce le caratteristiche dei materiali ottenuti da operazioni di recupero dei rifiuti utilizzati per ottenere materie, le sostanze e i prodotti secondari.
+
+3\. I criteri includono valori limite per le sostanze inquinanti e tengono conto di tutti i possibili effetti negativi sull‘ambiente e sulla salute. Tali valori limite sono definiti dalla CTA.
+
+autorizzata dalla Polizia Civile. La Protezione Civile congiuntamente alla Sezione Antincendio della Polizia Civile e le altre amministrazioni competenti in materia ambientale (UPA e UGRAA) hanno la facoltà di sospendere, differire o vietare la combustione del materiale di cui al presente comma all‘aperto in tutti i casi in cui sussistono condizioni meteorologiche, climatiche o ambientali sfavorevoli e in tutti i casi in cui da tale attività possano derivare rischi per la pubblica e privata incolumità e per la salute umana, con particolare riferimento al rispetto dei livelli annuali delle polveri sottili (PM10).17
+
+###### Art. 19
+
+(Classificazione)
+
+1.
+
+I rifiuti sono classificati, secondo l’origine, in rifiuti urbani e rifiuti speciali e, secondo le caratteristiche di pericolosità, in rifiuti pericolosi e rifiuti non pericolosi.
+
+2.
+
+Sono rifiuti urbani:
+
+a) i rifiuti domestici, anche ingombranti, provenienti da locali e luoghi adibiti ad uso di civile abitazione;
+
+b) i rifiuti non pericolosi provenienti da locali e luoghi adibiti ad usi diversi da quelli di cui alla lettera a), assimilati ai rifiuti urbani per qualità e quantità;
+
+c) i rifiuti provenienti dallo spazzamento delle strade;
+
+d) i rifiuti di qualunque natura o provenienza, giacenti sulle strade ed aree pubbliche o sulle strade ed aree private comunque soggette ad uso pubblico o sulle spiagge lacuali e sulle rive dei corsi d’acqua;
+
+e) i rifiuti vegetali provenienti da aree verdi, quali giardini, parchi e aree cimiteriali;
+
+f) i rifiuti provenienti da esumazioni ed estumulazioni, nonché gli altri rifiuti Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 18
+
+(Smaltimento dei rifiuti)
+
+1\. Lo smaltimento dei rifiuti è effettuato in condizioni di sicurezza e costituisce la fase residuale della gestione dei rifiuti, previa verifica, della impossibilità tecnica ed economica di esperire le operazioni di recupero di cui all’articolo 15.
+
+A tal fine, la predetta verifica concerne la disponibilità di tecniche sviluppate su una scala che ne consenta l’applicazione in condizioni economicamente e tecnicamente valide nell’ambito del pertinente comparto industriale, prendendo in considerazione i costi e i vantaggi.
+
+2\. I rifiuti da avviare allo smaltimento finale devono essere il più possibile ridotti sia in massa che in volume, potenziando la prevenzione e le attività di riutilizzo, di riciclaggio e di recupero.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Articolo 14:
+
+L‘articolo 18 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 18 (Smaltimento dei rifiuti)
+
+1\. Lo smaltimento dei rifiuti è effettuato in condizioni di sicurezza e costituisce la fase residuale della gestione dei rifiuti, previa verifica della impossibilità tecnica ed economica di esperire le operazioni di recupero di cui all‘articolo 15.
+
+A tal fine, la predetta verifica concerne la disponibilità di tecniche sviluppate su una scala che ne consenta l‘applicazione in condizioni economicamente e tecnicamente valide nell‘ambito del pertinente comparto industriale, prendendo in considerazione i costi e i vantaggi.
+
+2\. I rifiuti da avviare allo smaltimento finale devono essere il più possibile ridotti sia in massa che in volume, potenziando la prevenzione e le attività di riutilizzo, di riciclaggio e di recupero.
+
+3\. Le attività di raggruppamento e abbruciamento in piccoli cumuli e in quantità giornaliere non superiori a tre metri steri per ettaro dei materiali vegetali di cui all‘articolo 20, comma 1, lettera e), effettuate nel luogo di produzione, costituiscono normali pratiche agricole consentite per il reimpiego dei materiali come sostanze concimanti o ammendanti e non attività di gestione dei rifiuti. E‘ sempre obbligatorio comunicare tali operazioni alla Polizia Civile.
+
+Dall‘ 1 maggio al 30 settembre la combustione di residui vegetali agricoli e forestali deve essere preventivamente autorizzata dalla Polizia Civile. La Protezione Civile congiuntamente alla Sezione Antincendio della Polizia Civile e le altre amministrazioni competenti in materia ambientale (UPA e UGRAA) hanno la facoltà di sospendere, differire o vietare la combustione del materiale di cui al presente comma all‘aperto in tutti i casi in cui sussistono condizioni meteorologiche, climatiche o ambientali sfavorevoli e in tutti i casi in cui da tale attività possano derivare rischi per la pubblica e privata incolumità e per la salute umana, con particolare riferimento al rispetto dei livelli annuali delle polveri sottili (PM10).
+
+provenienti da attività cimiteriale diversi da quelli di cui alle lettere b), c) ed e) del presente comma.
+
+3\. Sono rifiuti speciali:
+
+a) i rifiuti da attività agricole e agro-industriali;
+
+b) i rifiuti derivanti dalle attività di demolizione, costruzione, nonché i rifiuti che derivano dalle attività di scavo, fermo restando quanto disposto dagli articoli 20 e 21;
+
+c) i rifiuti da lavorazioni industriali;
+
+d) i rifiuti da lavorazioni artigianali;
+
+e) i rifiuti da attività commerciali;
+
+f) i rifiuti da attività di servizio;
+
+g) i rifiuti derivanti dalla attività di recupero e smaltimento di rifiuti, i fanghi prodotti dalla potabilizzazione e da altri trattamenti delle acquee dalla depurazione delle acque reflue e da abbattimento di fumi;
+
+h) i rifiuti derivanti da attività sanitarie;
+
+i) i macchinari e le apparecchiature deteriorati ed obsoleti;
+
+l) i veicoli a motore, rimorchi e simili fuori uso e loro parti;
+
+m) il combustibile derivato da rifiuti.
+
+4\. Sono rifiuti urbani non domestici i rifiuti di cui al comma 2, lettere b), c), d), e), f).
+
+5\. Sono pericolosi i rifiuti indicati espressamente come tali, con apposito asterisco, nel “CER”, di cui all’articolo 12, comma 2.
+
+###### Art. 20
+
+(Esclusioni dall’ambito di applicazione)
+
+1\. Sono esclusi dall’ambito di applicazione del presente Titolo:
+
+a) gli effluenti gassosi emessi in atmosfera;
+
+b) il suolo non contaminato e altro materiale allo stato naturale escavato nel corso di attività di costruzione, ove sia certo che il materiale sarà utilizzato a fini di costruzione allo stato naturale. i residui provenienti dall’estrazione di pietre e dell’attività di lavorazione di pietre e marmi, derivanti da attività nelle quali non vengono usati agenti o reagenti non naturali. In particolare, per tali materiali deve essere certo che:
+
+1) l’utilizzo integrale della parte destinata a riutilizzo sia tecnicamente possibile e soddisfi i requisiti merceologici e di qualità ambientale idonei a garantire che il loro impiego non dia luogo ad emissioni e, più in generale, ad impatti ambientali qualitativamente e quantitativamente diversi da quelli ordinariamente consentiti ed autorizzati per il sito dove sono destinate ad essere utilizzate;
+
+2) sia garantito un elevato livello di tutela ambientale;
+
+3) sia accertato che non provengono da siti contaminati o sottoposti ad interventi di bonifica.
+
+c) i rifiuti radioattivi;
+
+d) i materiali esplosivi in disuso;
+
+e) materie fecali, se non contemplate all’articolo 19, comma 2, lettera b), paglia e altro materiale agricolo o forestale naturale non pericoloso utilizzati nell’attività agricola, nella selvicoltura o per la produzione di energia da tale biomassa mediante processi o metodi che non danneggiano l’ambiente né mettono in pericolo la salute umana;
+
+f) in quanto regolati da altre disposizioni normative che assicurano tutela ambientale e sanitaria:
+
+1) le acque di scarico, eccettuati i rifiuti allo stato liquido;
+
+2) gli scarti di origine animale, eccetto quelli destinati all’incenerimento, allo smaltimento in discarica o all’utilizzo in un impianto di produzione di biogas o di compostaggio;
+
+3) le carcasse di animali morti per cause diverse dalla macellazione, compresi gli animali abbattuti per eradicare epizoozie;
+
+4) i materiali risultanti dalla prospezione, dall’estrazione, dal trattamento e dall’ammasso di risorse minerali o dallo sfruttamento delle cave;
+
+5) i rifiuti cimiteriali propriamente detti, quali i resti di qualsiasi genere provenienti da esumazione.
+
+###### Art.21
+
+(Rifiuti derivanti da attività di demolizione, costruzione e scavo)
+
+1\. Fermo restando il rispetto di quanto disposto all’articolo 30 ed esclusivamente qualora non presentino caratteristiche di pericolosità, possono essere smaltiti, all’interno del territorio sammarinese, anche come materiale di riempimento o di costruzione di piazzali, strade o manufatti simili o, previa autorizzazione ai sensi dell’articolo 29, come materiale di riempimento e bonifica calanchiva i seguenti rifiuti derivanti dalle attività di demolizione, costruzione e scavo effettuate all’interno del territorio sammarinese:
+
+a) i materiali provenienti da demolizioni e scavi esenti da amianto;
+
+b) gli sfridi di materiali da costruzione;
+
+c) i materiali ceramici rotti;
+
+d) i vetri di tutti i tipi;
+
+e) i materiali litoidi.
+
+###### Art. 22
+
+(Divieto di miscelazione di rifiuti pericolosi)
+
+1\. È vietato miscelare categorie diverse di rifiuti pericolosi ovvero rifiuti pericolosi con rifiuti non pericolosi.
+
+2\. In deroga al divieto di cui al comma 1, la miscelazione di rifiuti pericolosi tra loro o con altri rifiuti, sostanze o materiali può essere autorizzata qualora siano rispettate le condizioni di cui all’articolo 11, comma 2, e al fine di rendere più sicuro il recupero e lo smaltimento dei rifiuti.
+
+3\. Fatta salva l’applicazione delle sanzioni specifiche, chiunque viola il divieto di cui al comma 1 è tenuto a procedere a proprie spese alla separazione dei rifiuti miscelati qualora sia tecnicamente ed economicamente possibile e per soddisfare le condizioni di cui all’articolo 11, comma 2.
+
+###### Art. 23
+
+(Piano di gestione dei rifiuti)
+
+1\. Il piano di gestione dei rifiuti viene approvato dalla CTA ed è volto a fissare precisi obiettivi di riduzione dei rifiuti e di aumento dei quantitativi di rifiuti destinabili ad effettivo recupero.
+
+2\. Il piano di gestione dei rifiuti di cui al comma 1 ha di norma validità quinquennale, ma può essere soggetto a revisione anticipata al fine di fissare nuovi obiettivi. Tale piano copre l‘intero territorio della Repubblica di San Marino.
+
+3\. Il piano di gestione dei rifiuti comprende un’analisi della situazione della gestione dei rifiuti urbani e speciali, sulla base dei dati del Catasto dei rifiuti di cui all’articolo 27 nonché le misure, corrette dal punto vista ambientale, da adottare per il riutilizzo, il
+
+riciclaggio, il recupero e lo smaltimento dei rifiuti.
+
+4\. Il piano di gestione dei rifiuti contiene almeno i seguenti elementi:
+
+a) tipo, quantità e fonte dei rifiuti prodotti all’interno del territorio, rifiuti che saranno prevedibilmente spediti da o verso il territorio nazionale e valutazione dell’evoluzione futura dei flussi di rifiuti;
+
+b) sistemi di raccolta dei rifiuti e impianti di smaltimento e recupero esistenti, inclusi eventuali sistemi speciali per oli usati, rifiuti pericolosi o flussi di rifiuti disciplinati da una normativa specifica;
+
+c) politiche generali di gestione dei rifiuti, incluse tecnologie e metodi di gestione pianificata dei rifiuti, o altre politiche per i rifiuti che pongono problemi particolari di gestione;
+
+d) valutazione di dati pervenuti dalle categorie economiche, degli operatori e dei portatori di interesse.
+
+5\. Il piano di gestione dei rifiuti può contenere i seguenti elementi:
+
+a) aspetti organizzativi connessi alla gestione dei rifiuti, inclusa una descrizione della ripartizione delle competenze tra i soggetti pubblici e privati che provvedono alla gestione dei rifiuti;
+
+b) valutazione dell’utilità e dell’idoneità del ricorso a strumenti economici e di altro tipo per la soluzione di vari problemi riguardanti i rifiuti, tenuto conto della necessità di continuare ad assicurare il buon funzionamento del mercato interno;
+
+c) campagne di sensibilizzazione e diffusione di informazioni destinate al pubblico in generale o a specifiche categorie di consumatori;
+
+d) censimento dei siti contaminati e misure per la loro bonifica. 18
+
+#### CAPO II
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 23
+
+(Piano di gestione dei rifiuti)
+
+1\. Il piano di gestione dei rifiuti viene elaborato dalla CTA ed è volto a fissare precisi obiettivi di riduzione dei rifiuti e di aumento dei quantitativi di rifiuti destinabili ad effettivo recupero.
+
+2\. Il piano di gestione dei rifiuti di cui al comma 1 è, di norma, soggetto a revisione biennale. Tale piano copre l’intero territorio della Repubblica di San Marino.
+
+3\. Il piano di gestione dei rifiuti comprende un’analisi della situazione della gestione dei rifiuti urbani e speciali, sulla base dei dati del Catasto dei rifiuti di cui all’articolo 27 nonché le misure, corrette dal punto vista ambientale, da adottare per il riutilizzo, il riciclaggio, il recupero e lo smaltimento dei rifiuti.
+
+4\. Il piano di gestione dei rifiuti contiene almeno i seguenti elementi:
+
+a) tipo, quantità e fonte dei rifiuti prodotti all’interno del territorio, rifiuti che saranno prevedibilmente spediti da o verso il territorio nazionale e valutazione dell’evoluzione futura dei flussi di rifiuti;
+
+b) sistemi di raccolta dei rifiuti e impianti di smaltimento e recupero esistenti, inclusi eventuali sistemi speciali per oli usati, rifiuti pericolosi o flussi di rifiuti disciplinati da una normativa specifica;
+
+c) politiche generali di gestione dei rifiuti, incluse tecnologie e metodi di gestione pianificata dei rifiuti, o altre politiche per i rifiuti che pongono problemi particolari di gestione;
+
+d) valutazione di dati pervenuti dalle categorie economiche, degli operatori e dei portatori di interesse.
+
+5\. Il piano di gestione dei rifiuti può contenere i seguenti elementi:
+
+a) aspetti organizzativi connessi alla gestione dei rifiuti, inclusa una descrizione della ripartizione delle competenze tra i soggetti pubblici e privati che provvedono alla gestione dei rifiuti;
+
+b) valutazione dell’utilità e dell’idoneità del ricorso a strumenti economici e di altro tipo per la soluzione di vari problemi riguardanti i rifiuti, tenuto conto della necessità di continuare ad assicurare il buon funzionamento del mercato interno;
+
+c) campagne di sensibilizzazione e diffusione di informazioni destinate al pubblico in generale o a specifiche categorie di consumatori;
+
+d) censimento dei siti contaminati e misure per la loro bonifica.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 15 I commi 1 e 2 dell‘articolo 23 del Decreto Delegato 27 aprile 2012 n. 44 sono sostituiti dai seguenti: ―1. Il piano di gestione dei rifiuti viene approvato dalla CTA ed è volto a fissare precisi obiettivi di riduzione dei rifiuti e di aumento dei quantitativi di rifiuti destinabili ad effettivo recupero.
+
+2\. Il piano di gestione dei rifiuti di cui al comma 1 ha di norma validità quinquennale, ma può essere soggetto a revisione anticipata al fine di fissare nuovi obiettivi. Tale piano copre l‘intero territorio della Repubblica di San Marino.
+
+GESTIONE DEI RIFIUTI SPECIALI
+
+###### Art. 24
+
+(Oneri dei produttori e dei detentori)
+
+1.
+
+I rifiuti prodotti da operatori economici sammarinesi sono dichiarati dagli stessi produttori in conformità alla modulistica approvata dal CT, nel caso di nuovi insediamenti, ristrutturazioni o cambi di produzione, prima dell’inizio dell’attività.
+
+2.
+
+Gli operatori economici sammarinesi a proprie spese dovranno classificare i rifiuti da un punto di vista chimico, fisico e biologico e gli eventuali referti analitici dovranno essere allegati alla predetta dichiarazione. La dichiarazione è aggiornata dall’operatore economico nel caso in cui si determinino cambiamenti del ciclo produttivo o altre modifiche che comportino una variazione della qualità e quantità del rifiuto prodotto.
+
+3.
+
+Gli oneri relativi alle attività di smaltimento sono a carico del produttore o detentore che consegna i rifiuti ad un soggetto che effettua la gestione dei rifiuti, nonché dei precedenti detentori o del produttore dei rifiuti.
+
+4.
+
+Il produttore o detentore dei rifiuti speciali assolve i propri obblighi con il seguente ordine di priorità:
+
+a) autosmaltimento dei rifiuti non pericolosi, previa autorizzazione del CT;
+
+b) conferimento dei rifiuti a terzi autorizzati, privati o pubblici, ai sensi delle disposizioni vigenti;
+
+c) esportazione dei rifiuti con le modalità previste dall’articolo 31.
+
+5.
+
+La responsabilità del produttore o detentore per il corretto recupero o smaltimento dei rifiuti è esclusa in caso di conferimento dei rifiuti a soggetti autorizzati, pubblici o privati, alle attività di recupero o di smaltimento, a condizione che il detentore abbia ricevuto il formulario di cui all’articolo 30 controfirmato e datato in arrivo dal destinatario, soggetto autorizzato di cui sopra, entro trenta giorni dalla data di conferimento dei rifiuti al trasportatore, ovvero alla scadenza del predetto termine abbia provveduto a dare comunicazione all’UPA della mancata ricezione del formulario controfirmato. Per le spedizioni transfrontaliere di rifiuti si applica quanto stabilito dall’articolo 31.
+
+6.
+
+Nel caso di conferimento di rifiuti a soggetti autorizzati alle operazioni di raggruppamento, ricondizionamento e deposito preliminare, indicate rispettivamente ai punti D13, D14, D15 dell’Allegato A del presente Codice, la responsabilità dei produttori o detentori dei rifiuti per il corretto smaltimento è esclusa a condizione che questi ultimi, oltre ad avere assolto quanto previsto al comma 5, abbiano ricevuto il certificato di avvenuto smaltimento rilasciato dal titolare dell’impianto. Per le spedizioni transfrontaliere di rifiuti si applica quanto stabilito dall’articolo 31.
+
+###### Art. 25
+
+(Responsabilità estesa del produttore)
+
+1\. Al fine di rafforzare la prevenzione e facilitare l’utilizzo efficiente delle risorse durante l’intero ciclo di vita, comprese le fasi di riutilizzo, riciclaggio e recupero dei rifiuti, evitando di compromettere la libera circolazione delle merci sul mercato, la CTA ha la facoltà di adottare, previa consultazione delle parti interessate, regolamenti specifici che disciplinano le modalità e i criteri di introduzione della responsabilità estesa del produttore del prodotto.
+
+2\. Ai fini del comma precedente, per produttore di rifiuto si intende qualsiasi persona fisica o giuridica che professionalmente sviluppi, fabbrichi, trasformi, tratti, venda o importi prodotti nell’organizzazione del sistema di gestione dei rifiuti, e nell’accettazione dei prodotti restituiti e dei rifiuti che restano dopo il loro utilizzo.
+
+3\. Ai medesimi fini possono essere adottati regolamenti da parte della CTA, che disciplinano le modalità e i criteri relativi ai seguenti ambiti:
+
+a) gestione dei rifiuti e della relativa responsabilità finanziaria dei produttori del prodotto;
+
+b) pubblicizzazione delle informazioni relative alla misura in cui il prodotto è riutilizzabile e riciclabile;
+
+c) progettazione dei prodotti volta a ridurre i loro impatti ambientali;
+
+d) progettazione dei prodotti volta a diminuire o eliminare i rifiuti durante la produzione e il successivo utilizzo dei prodotti, assicurando che il recupero e lo smaltimento dei prodotti che sono diventati rifiuti avvengano in conformità ai criteri di cui agli articoli 11 e 12;
+
+e) promozione dello sviluppo, la produzione e la commercializzazione di prodotti adatti all’uso multiplo, tecnicamente durevoli, e che, dopo essere diventati rifiuti, sono adatti ad un recupero adeguato e sicuro e a uno smaltimento compatibile con l’ambiente.
+
+4\. La responsabilità estesa del produttore del prodotto è applicabile fatta salva la responsabilità della gestione dei rifiuti di cui all’articolo 24 e fatta salva la legislazione esistente concernente flussi di rifiuti e prodotti specifici.
+
+5\. I regolamenti di cui ai commi 1 e 3 possono prevedere, altresì, che i costi della gestione dei rifiuti siano sostenuti parzialmente o interamente dal produttore del prodotto causa dei rifiuti. Nel caso il produttore del prodotto partecipi parzialmente, il distributore del prodotto concorre per la differenza fino all’intera copertura di tali costi.
+
+6\. Dall’attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
+
+###### Art. 25-bis
+
+(Controllo tracciabilità del rifiuto)
+
+1\. Al fine di garantire la tracciabilità dei rifiuti dalla produzione alla destinazione finale, la gestione dei rifiuti deve avvenire previa autorizzazione di cui all‘articolo 29 nel rispetto:
+
+a) degli obblighi relativi alla tenuta dei registri di carico e scarico di cui all‘articolo 26 e del formulario di identificazione di cui all‘articolo 30;
+
+b) degli obblighi relativi al Catasto dei rifiuti di cui all‘articolo 27;
+
+c) degli obblighi per le spedizioni transfrontaliere di cui all‘articolo 31. 19
+
+###### Art. 26
+
+(Registri di carico e scarico)
+
+1\. I soggetti di cui all’articolo 27, comma 3, hanno l’obbligo di tenere un registro di carico e scarico su cui devono annotare le informazioni sulle caratteristiche qualitative e quantitative dei rifiuti, da utilizzare anche ai fini della comunicazione annuale al Catasto dei rifiuti. 19
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 16:
+
+Dopo l‘articolo 25 del Decreto Delegato 27 aprile 2012 n. 44 è introdotto il seguente articolo: ―Art. 25-bis (Controllo tracciabilità del rifiuto)
+
+1\. Al fine di garantire la tracciabilità dei rifiuti dalla produzione alla destinazione finale, la gestione dei rifiuti deve avvenire previa autorizzazione di cui all‘articolo 29 nel rispetto:
+
+a) degli obblighi relativi alla tenuta dei registri di carico e scarico di cui all‘articolo 26 e del formulario di identificazione di cui all‘articolo 30;
+
+b) degli obblighi relativi al Catasto dei rifiuti di cui all‘articolo 27;
+
+c) degli obblighi per le spedizioni transfrontaliere di cui all‘articolo 31.
+
+2\. Le annotazioni devono essere effettuate:
+
+a) per i produttori, almeno entro dieci giorni lavorativi dalla produzione del rifiuto e dallo scarico del medesimo;
+
+b) per i soggetti che effettuano la raccolta e il trasporto, almeno entro dieci giorni lavorativi dalla effettuazione del trasporto;
+
+c) per i commercianti e gli intermediari, almeno entro dieci giorni lavorativi dalla effettuazione della transazione relativa;
+
+d) per i soggetti che effettuano le operazioni di recupero e di smaltimento, entro due giorni lavorativi dalla presa in carico dei rifiuti.
+
+3\. Il registro tenuto dagli stabilimenti e dalle imprese che svolgono attività di gestione di rifiuti deve, inoltre, contenere:
+
+a) l’origine, la quantità, le caratteristiche e la destinazione specifica dei rifiuti;
+
+b) la data del carico e dello scarico dei rifiuti ed il mezzo di trasporto utilizzato;
+
+c) il metodo di trattamento impiegato.
+
+4\. I registri sono tenuti presso ogni impianto di produzione, di stoccaggio, di recupero e di smaltimento di rifiuti, presso la sede delle imprese che effettuano attività di raccolta e trasporto, nonché presso la sede dei commercianti e degli intermediari. I registri, integrati con i formulari di cui all’articolo 30, comma 1 o con i documenti previsti all’articolo 31, commi 3 e 7, sono conservati per cinque anni dalla data dell’ultima registrazione. I registri relativi alle operazioni di smaltimento dei rifiuti in discariche site in territorio, devono essere conservati a tempo indeterminato ed al termine dell’attività devono essere consegnati all’autorità che ha rilasciato l’autorizzazione.
+
+5\. Il registro di carico e scarico è predisposto in conformità al modello di cui all’Allegato D al presente Codice.
+
+6\. Le disposizioni di cui al comma 1 non si applicano:
+
+a) al soggetto non sammarinese che effettui l’attività di trasporto dei rifiuti e che disponga di registri conformi a quanto disposto dal presente articolo e vidimati dalle competenti autorità del paese di appartenenza;
+
+b) all’attività di gestione del rifiuto solido urbano effettuata direttamente dall’AASS e dalle imprese appaltatrici per conto di AASS, con particolare riferimento all’attività di trasporto dai punti di raccolta fissi e mobili alla sede operativa del Servizio Igiene Urbana dell’AASS o ad altri impianti di stoccaggio, recupero e trattamento in territorio;
+
+c) le imprese e gli enti produttori iniziali di rifiuti non pericolosi di cui all’articolo 19, comma 3, lettere c), d), g), con meno di venti dipendenti.
+
+7\. Le informazioni contenute nel registro sono rese disponibili in qualunque momento all’autorità di controllo che ne faccia richiesta.
+
+8\. I registri sono numerati e vidimati dall’Ufficio del Registro.
+
+###### Art. 27
+
+(Catasto dei rifiuti)
+
+1\. E’ istituito presso l’UPA il Catasto dei rifiuti.
+
+2\. Il Catasto dei rifiuti assicura un quadro conoscitivo completo e costantemente aggiornato, anche ai fini della pianificazione delle attività di gestione dei rifiuti, utilizzando la classificazione di cui all’articolo 11, comma 5, lettera a).
+
+3\. E‘ tenuto a comunicare annualmente all‘UPA le quantità e le caratteristiche qualitative dei rifiuti, ai fini dell‘elaborazione dei dati, chiunque effettui a titolo professionale le seguenti attività:
+
+a) attività di raccolta e trasporto di rifiuti;
+
+b) i commercianti e gli intermediari di rifiuti senza detenzione;
+
+c) le imprese e gli enti che effettuano operazioni di recupero e di smaltimento di rifiuti;
+
+d) le imprese e gli enti produttori iniziali di rifiuti pericolosi;
+
+e) le imprese e gli enti produttori iniziali di rifiuti non pericolosi di cui all‘articolo 19, comma 3, lettere c), d), g).
+
+4\. Sono esonerati dall’obbligo di comunicazione di cui al comma 3:
+
+a) gli imprenditori agricoli, limitatamente ai rifiuti non pericolosi;
+
+b) le imprese che raccolgono e trasportano i propri rifiuti pericolosi e non pericolosi di cui all’articolo 29, comma 4.
+
+c) le imprese e gli enti produttori iniziali di rifiuti non pericolosi di cui all’articolo 19, comma 3, lettere c), d), g), con meno di venti dipendenti.
+
+5\. L’AASS comunica annualmente all’UPA le seguenti informazioni, relative all’anno precedente:
+
+a) la quantità dei rifiuti urbani raccolti nel proprio territorio;
+
+b) la quantità e la tipologia dei rifiuti speciali raccolti nel proprio territorio a seguito di apposita convenzione con soggetti pubblici o privati;
+
+c) i dati relativi alla raccolta differenziata;
+
+d) i soggetti, i quantitativi e le tipologie di rifiuto, a cui vengono conferiti i rifiuti urbani, assimilati, differenziati e indifferenziati.
+
+6\. Le comunicazioni di cui ai commi 3 e 5 sono inviate all’UPA con procedura che sarà stabilita dalla CTA mediante proprio regolamento. 20
+
+###### Art. 28
+
+(Divieto di abbandono)
+
+1\. Sono vietati:
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 27
+
+(Catasto dei rifiuti)
+
+1\. E’ istituito presso l’UPA il Catasto dei rifiuti.
+
+2\. Il Catasto dei rifiuti assicura un quadro conoscitivo completo e costantemente aggiornato, anche ai fini della pianificazione delle attività di gestione dei rifiuti, utilizzando la classificazione di cui all’articolo 11, comma 5, lettera a).
+
+3\. Chiunque effettui a titolo professionale attività di raccolta e trasporto di rifiuti, i commercianti e gli intermediari di rifiuti senza detenzione, le imprese e gli enti che effettuano operazioni di recupero e di smaltimento di rifiuti nonché le imprese e gli enti produttori iniziali di rifiuti pericolosi e le imprese e gli enti produttori iniziali di rifiuti non pericolosi di cui all’articolo 19, comma 3, lettere c), d), g), comunicano annualmente all’UPA, le quantità e le caratteristiche qualitative dei rifiuti oggetto delle predette attività che provvede all’elaborazione dei dati.
+
+4\. Sono esonerati dall’obbligo di comunicazione di cui al comma 3:
+
+a) gli imprenditori agricoli, limitatamente ai rifiuti non pericolosi;
+
+b) le imprese che raccolgono e trasportano i propri rifiuti pericolosi e non pericolosi di cui all’articolo 29, comma 4.
+
+c) le imprese e gli enti produttori iniziali di rifiuti non pericolosi di cui all’articolo 19, comma 3, lettere c), d), g), con meno di venti dipendenti.
+
+5\. L’AASS comunica annualmente all’UPA le seguenti informazioni, relative all’anno precedente:
+
+a) la quantità dei rifiuti urbani raccolti nel proprio territorio;
+
+b) la quantità e la tipologia dei rifiuti speciali raccolti nel proprio territorio a seguito di apposita convenzione con soggetti pubblici o privati;
+
+c) i dati relativi alla raccolta differenziata;
+
+d) i soggetti, i quantitativi e le tipologie di rifiuto, a cui vengono conferiti i rifiuti urbani, assimilati, differenziati e indifferenziati.
+
+6\. Le comunicazioni di cui ai commi 3 e 5 sono inviate all’UPA con procedura che sarà stabilita dalla CTA mediante proprio regolamento.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 17:
+
+Il comma 3 dell‘articolo 27 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―3. E‘ tenuto a comunicare annualmente all‘UPA le quantità e le caratteristiche qualitative dei rifiuti, ai fini dell‘elaborazione dei dati, chiunque effettui a titolo professionale le seguenti attività:
+
+a) attività di raccolta e trasporto di rifiuti;
+
+b) i commercianti e gli intermediari di rifiuti senza detenzione;
+
+c) le imprese e gli enti che effettuano operazioni di recupero e di smaltimento di rifiuti;
+
+d) le imprese e gli enti produttori iniziali di rifiuti pericolosi;
+
+e) le imprese e gli enti produttori iniziali di rifiuti non pericolosi di cui all‘articolo 19, comma 3, lettere c), d), g).
+
+a) l’abbandono di rifiuti sul suolo e nel sottosuolo;
+
+b) l’immissione di rifiuti, allo stato solido o liquido, nelle acque superficiali e sotterranee;
+
+c) il deposito di rifiuti fuori dai cassonetti della nettezza urbana;
+
+d) il deposito irregolare dei rifiuti nei cassonetti della nettezza urbana.
+
+2\. Fatta salva l’applicazione delle sanzioni di cui al Capo IV del presente Titolo, chiunque viola i divieti di cui al comma 1, lettere a) e b) è tenuto a procedere alla rimozione, all’avvio a recupero o allo smaltimento dei rifiuti ed al ripristino dello stato dei luoghi in solido con il proprietario e con i titolari di diritti reali o personali di godimento sull’area, ai quali tale violazione sia imputabile a titolo di dolo o colpa, in base agli accertamenti effettuati, in contraddittorio con i soggetti interessati, dai soggetti preposti al controllo. L’UPA dispone con ordinanza le operazioni a tal fine necessarie ed il termine entro cui provvedere, decorso il quale procede all’esecuzione in danno dei soggetti obbligati ed al recupero delle somme anticipate.
+
+###### Art. 29
+
+(Autorizzazioni)
+
+1\. Chiunque effettui l‘attività di gestione dei rifiuti all‘interno del territorio della Repubblica di San Marino deve essere autorizzato, per quanto di competenza, dal CT o dall‘UPA. I mezzi dell‘AASS o di imprese incaricate dall‘AASS, deputati al trasporto di qualsiasi genere di rifiuto, devono essere dotati di un sistema satellitare di controllo, collegato alla centrale di controllo presso l‘AASS.
+
+2\. Alla domanda di autorizzazione per attività di gestione rifiuti, da inviare al CT o all‘UPA per quanto di competenza, redatta su apposita modulistica approvata dal CT medesimo, è allegata una relazione tecnica che contiene le modalità adottate nella manipolazione dei rifiuti, la tipologia ed i quantitativi di questi ultimi nonché ulteriori specifiche richieste dal CT.
+
+3\. La domanda di autorizzazione è presentata subordinatamente all‘ottenimento della licenza all‘esercizio delle attività di cui al presente articolo. Il conseguente avvio dell‘attività è subordinato all‘ottenimento dell‘autorizzazione.
+
+4\. Le disposizioni di cui al comma 1 non si applicano al trasporto dei rifiuti speciali pericolosi e non pericolosi effettuati dal produttore dei rifiuti stessi, in modo occasionale e saltuario, in centri autorizzati all‘interno del territorio della Repubblica di San Marino. Sono considerati occasionali e saltuari i trasporti di rifiuti che non eccedano i 30 chilogrammi o 30 litri al giorno e, comunque, non superino il limite massimo di trasporto complessivo di 100 chilogrammi o 100 litri all‘anno. Le disposizioni di cui al comma 1 non si applicano, altresì, ai soggetti di cui all‘articolo 30 comma 7, lettera d).
+
+5\. La richiesta di rinnovo dell‘autorizzazione alla gestione dei rifiuti presentata entro i termini di cui al presente articolo consente di procrastinare la validità fino alla deliberazione del CT o dell‘UPA per quanto di competenza.
+
+6\. Per gli impianti di trattamento rifiuti alla domanda di autorizzazione di cui al comma 2 sono allegate la deliberazione del CTS relativa alla Valutazione di Impatto Ambientale e la relazione di cui al comma 2, contenente altresì i presidi previsti ai fini di impedire i rischi di inquinamento dell‘ambiente.
+
+7\. L‘autorizzazione per gli impianti di trattamento rifiuti urbani pericolosi e speciali pericolosi è subordinata alle garanzie finanziarie conformi a quanto predisposto dal Regolamento attuativo della CTA.
+
+8\. L‘autorizzazione di cui al presente articolo è concessa per un periodo massimo di cinque anni ed è rinnovabile previa richiesta di rinnovo da presentarsi almeno sessanta giorni prima della scadenza dell‘autorizzazione stessa.
+
+9\. Il CT o l‘UPA, per quanto di competenza, ha facoltà di revocare le autorizzazioni per le attività di cui al presente articolo qualora, a seguito dei controlli, risultino difformità ovvero non siano soddisfatte condizioni e/o prescrizioni contenute nella stessa autorizzazione. L‘autorizzazione è sospesa, previa ordinanza, per un periodo massimo di sei mesi; decorso tale termine senza che il titolare abbia adempiuto a quanto disposto nell’ordinanza, l‘autorizzazione è revocata.21
+
+###### Art. 30
+
+(Trasporto dei rifiuti e formulario di identificazione)
+
+1\. Fatto salvo quanto previsto al comma 6, durante il trasporto in territorio Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 29
+
+(Autorizzazioni)
+
+1\. Chiunque effettui l’attività di gestione dei rifiuti, all’interno del territorio della Repubblica di San Marino deve essere autorizzato dal CT. I mezzi dell’AASS o di imprese incaricate dall’AASS, deputati al trasporto di qualsiasi genere di rifiuto, devono essere dotati di un sistema satellitare di controllo, collegato alla centrale di controllo presso l’AASS.
+
+2\. Alla domanda di autorizzazione per attività di gestione rifiuti, da inviare al CT, redatta su apposita modulistica approvata dal CT medesimo, è allegata una relazione tecnica riguardante le modalità adottate nella manipolazione dei rifiuti, la tipologia ed i quantitativi di questi ultimi, i presidi previsti ai fini di impedire i rischi di inquinamento dell’ambiente.
+
+3\. La domanda di autorizzazione deve essere presentata preventivamente all’esercizio dell’attività, il cui rilascio è subordinato all’ottenimento dell’autorizzazione.
+
+4\. Le disposizioni di cui al comma 2 non si applicano al trasporto dei rifiuti speciali pericolosi e non pericolosi effettuati dal produttore dei rifiuti stessi, in modo occasionale e saltuario in centri autorizzati all’interno del territorio della Repubblica di San Marino. Sono considerati occasionali e saltuari i trasporti di rifiuti che non eccedano i 30 chilogrammi o 30 litri al giorno e, comunque, non superino il limite massimo di trasporto complessivo di 100 chilogrammi o 100 litri all’anno.
+
+5\. La ricevuta di consegna della richiesta di rinnovo dell’autorizzazione al trasporto rifiuti, rilasciata dall’UPA, presentata entro i termini di validità dell’autorizzazione stessa, consente di procrastinare la validità fino alla successiva deliberazione del CT.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 18:
+
+L‘articolo 29 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 29 (Autorizzazioni)
+
+1\. Chiunque effettui l‘attività di gestione dei rifiuti all‘interno del territorio della Repubblica di San Marino deve essere autorizzato, per quanto di competenza, dal CT o dall‘UPA. I mezzi dell‘AASS o di imprese incaricate dall‘AASS, deputati al trasporto di qualsiasi genere di rifiuto, devono essere dotati di un sistema satellitare di controllo, collegato alla centrale di controllo presso l‘AASS.
+
+2\. Alla domanda di autorizzazione per attività di gestione rifiuti, da inviare al CT o all‘UPA per quanto di competenza, redatta su apposita modulistica approvata dal CT medesimo, è allegata una relazione tecnica che contiene le modalità adottate nella manipolazione dei rifiuti, la tipologia ed i quantitativi di questi ultimi nonché ulteriori specifiche richieste dal CT.
+
+3\. La domanda di autorizzazione è presentata subordinatamente all‘ottenimento della licenza all‘esercizio delle attività di cui al presente articolo. Il conseguente avvio dell‘attività è subordinato all‘ottenimento dell‘autorizzazione.
+
+4\. Le disposizioni di cui al comma 1 non si applicano al trasporto dei rifiuti speciali pericolosi e non pericolosi effettuati dal produttore dei rifiuti stessi, in modo occasionale e saltuario, in centri autorizzati all‘interno del territorio della Repubblica di San Marino. Sono considerati occasionali e saltuari i trasporti di rifiuti che non eccedano i 30 chilogrammi o 30 litri al giorno e, comunque, non superino il limite massimo di trasporto complessivo di 100 chilogrammi o 100 litri all‘anno. Le disposizioni di cui al comma 1 non si applicano, altresì, ai soggetti di cui all‘articolo 30 comma 7, lettera d).
+
+5\. La richiesta di rinnovo dell‘autorizzazione alla gestione dei rifiuti presentata entro i termini di cui al presente articolo consente di procrastinare la validità fino alla deliberazione del CT o dell‘UPA per quanto di competenza.
+
+6\. Per gli impianti di trattamento rifiuti alla domanda di autorizzazione di cui al comma 2 sono allegate la deliberazione del CTS relativa alla Valutazione di Impatto Ambientale e la relazione di cui al comma 2, contenente altresì i presidi previsti ai fini di impedire i rischi di inquinamento dell‘ambiente.
+
+7\. L‘autorizzazione per gli impianti di trattamento rifiuti urbani pericolosi e speciali pericolosi è subordinata alle garanzie finanziarie conformi a quanto predisposto dal Regolamento attuativo della CTA.
+
+8\. L‘autorizzazione di cui al presente articolo è concessa per un periodo massimo di cinque anni ed è rinnovabile previa richiesta di rinnovo da presentarsi almeno sessanta giorni prima della scadenza dell‘autorizzazione stessa.
+
+9\. Il CT o l‘UPA, per quanto di competenza, ha facoltà di revocare le autorizzazioni per le attività di cui al presente articolo qualora, a seguito dei controlli, risultino difformità ovvero non siano soddisfatte condizioni e/o prescrizioni contenute nella stessa autorizzazione. L‘autorizzazione è sospesa, previa ordinanza, per un periodo massimo di sei mesi; decorso tale termine senza che il titolare abbia adempiuto a quanto disposto nell‘ordinanza, l‘autorizzazione è revocata.
+
+sammarinese i rifiuti sono accompagnati da un formulario di identificazione dal quale devono risultare i seguenti dati:
+
+a) nome ed indirizzo del produttore e del detentore;
+
+b) origine, tipologia e quantità del rifiuto;
+
+c) impianto di destinazione;
+
+d) data e percorso dell’istradamento;
+
+e) nome ed indirizzo del destinatario.
+
+2\. Il formulario di identificazione di cui al comma 1, è redatto in quattro esemplari, compilato, datato e firmato dal produttore o detentore dei rifiuti e controfirmato dal trasportatore. Una copia del formulario rimane presso il produttore o detentore e le altre tre accompagnano la merce durante il trasporto e sono controfirmate e datate in arrivo dal destinatario. Delle predette tre copie, una è acquisita dal destinatario medesimo e due dal trasportatore il quale provvede a trasmetterne un esemplare al produttore o detentore entro cinque giorni dalla spedizione.
+
+3\. Le copie del formulario sono conservate per cinque anni.
+
+4\. Il formulario di identificazione indicato al comma 1, è predisposto in conformità al modello di cui all’Allegato C al presente Codice e deve essere numerato e vidimato dall’Ufficio del Registro. La vidimazione dei predetti formulari di identificazione è gratuita e non è soggetta ad alcun diritto o imposizione tributaria.
+
+5.
+
+I rifiuti speciali pericolosi durante il trasporto sono imballati ed etichettati in conformità, in caso di trasporto interno, alle norme vigenti nel territorio sammarinese e, in caso di spedizioni verso destinazioni site nel territorio della Repubblica Italiana, alle norme vigenti nel territorio italiano.
+
+6\. Il formulario di cui al presente articolo è validamente sostituito, per i rifiuti oggetto di trasporto transfrontaliero, dai documenti previsti all’articolo 31 e dalla normativa comunitaria, Regolamento (CE) n. 1013/2006. In questo caso, il produttore iniziale del rifiuto dovrà richiedere il rilascio di copia dei documenti di cui all’articolo 31, comma 3 o 7.
+
+7\. Le disposizioni di cui al comma 1 non si applicano ai trasporti interni al territorio sammarinese di rifiuti rientranti in una delle sotto elencate tipologie: a) trasporti di rifiuti speciali, pericolosi e non pericolosi, che non eccedano la quantità di trenta chilogrammi al giorno o di trenta litri al giorno effettuati direttamente dal produttore/detentore dei rifiuti stessi per il conferimento al Servizio Igiene Urbana dell’AASS o ad altro soggetto autorizzato;
+
+b) trasporti di rifiuti speciali non pericolosi effettuati direttamente dall’AASS e dall’Azienda Autonoma di Stato per i Lavori Pubblici (di seguito in breve AASLP);
+
+c) trasporto di rifiuti solidi urbani effettuato dall’AASS, direttamente o tramite imprese appaltatrici, dai punti di raccolta fissi e mobili alla sede operativa del Servizio Igiene Urbana dell’AASS o ad altri impianti di stoccaggio/recupero/trattamento; c-bis) trasporto di rifiuti speciali, da parte di soggetti che effettuano la sostituzione di impianti e/o attrezzature facendosi carico del ritiro di quanto sostituito, fino al deposito temporaneo presso la propria azienda.
+
+8\. La movimentazione dei rifiuti esclusivamente all’interno di aree private non è considerata trasporto ai fini del presente Titolo.
+
+9\. La micro-raccolta dei rifiuti è intesa come la raccolta di rifiuti da parte di un unico raccoglitore o trasportatore presso più produttori o detentori svolta con lo stesso automezzo, nel rispetto di quanto di seguito indicato:
+
+a) deve essere effettuata nel più breve tempo tecnicamente possibile;
+
+b) nei formulari di identificazione dei rifiuti devono essere indicate, a cura del raccoglitore o trasportatore, nello spazio del formulario di identificazione relativo al percorso, tutte le tappe intermedie previste;
+
+c) nel caso in cui il percorso dovesse subire delle variazioni, nello spazio relativo alle annotazioni deve essere indicato a cura del trasportatore il percorso realmente
+
+effettuato;
+
+d) se parte di una procedura di trasporto transfrontaliero, si applica quanto previsto al comma 6. Al dossier di notifica deve essere inserito un allegato nel quale sia indicato il percorso effettuato nonché tutte le tappe intermedie previste.
+
+10\. In materia di idoneità dei mezzi destinati al trasporto di rifiuti sarà emanato specifico regolamento da parte della CTA.
+
+11\. In merito ai trasporti internazionali su strada di merci pericolose si fa riferimento a quanto stabilito dal Decreto 19 Dicembre 1996 n.154.22
+
+###### Art. 31
+
+(Spedizioni transfrontaliere)
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 30
+
+(Trasporto dei rifiuti e formulario di identificazione)
+
+1\. Fatto salvo quanto previsto al comma 6, durante il trasporto in territorio sammarinese i rifiuti sono accompagnati da un formulario di identificazione dal quale devono risultare i seguenti dati:
+
+a) nome ed indirizzo del produttore e del detentore;
+
+b) origine, tipologia e quantità del rifiuto;
+
+c) impianto di destinazione;
+
+d) data e percorso dell’istradamento;
+
+e) nome ed indirizzo del destinatario.
+
+2\. Il formulario di identificazione di cui al comma 1, è redatto in quattro esemplari, compilato, datato e firmato dal produttore o detentore dei rifiuti e controfirmato dal trasportatore. Una copia del formulario rimane presso il produttore o detentore e le altre tre accompagnano la merce durante il trasporto e sono controfirmate e datate in arrivo dal destinatario. Delle predette tre copie, una è acquisita dal destinatario medesimo e due dal trasportatore il quale provvede a trasmetterne un esemplare al produttore o detentore entro cinque giorni dalla spedizione.
+
+3\. Le copie del formulario sono conservate per cinque anni.
+
+4\. Il formulario di identificazione indicato al comma 1, è predisposto in conformità al modello di cui all’Allegato C al presente Codice e deve essere numerato e vidimato dall’Ufficio del Registro. La vidimazione dei predetti formulari di identificazione è gratuita e non è soggetta ad alcun diritto o imposizione tributaria.
+
+5\. I rifiuti speciali pericolosi durante il trasporto sono imballati ed etichettati in conformità, in caso di trasporto interno, alle norme vigenti nel territorio sammarinese e, in caso di spedizioni verso destinazioni site nel territorio della Repubblica Italiana, alle norme vigenti nel territorio italiano.
+
+6\. Il formulario di cui al presente articolo è validamente sostituito, per i rifiuti oggetto di trasporto transfrontaliero, dai documenti previsti all’articolo 31 e dalla normativa comunitaria, Regolamento (CE) n. 1013/2006. In questo caso, il produttore iniziale del rifiuto dovrà richiedere il rilascio di copia dei documenti di cui all’articolo 31, comma 3 o 7.
+
+7\. Le disposizioni di cui al comma 1 non si applicano ai trasporti interni al territorio sammarinese di rifiuti rientranti in una delle sotto elencate tipologie: a) trasporti di rifiuti speciali, pericolosi e non pericolosi, che non eccedano la quantità di trenta chilogrammi al giorno o di trenta litri al giorno effettuati direttamente dal produttore/detentore dei rifiuti stessi per il conferimento al Servizio Igiene Urbana dell’AASS o ad altro soggetto autorizzato;
+
+b) trasporti di rifiuti speciali non pericolosi effettuati direttamente dall’AASS e dall’Azienda Autonoma di Stato per i Lavori Pubblici (di seguito in breve AASLP);
+
+c) trasporto di rifiuti solidi urbani effettuato dall’AASS, direttamente o tramite imprese appaltatrici, dai punti di raccolta fissi e mobili alla sede operativa del Servizio Igiene Urbana dell’AASS o ad altri impianti di stoccaggio/recupero/trattamento.
+
+8\. La movimentazione dei rifiuti esclusivamente all’interno di aree private non è considerata trasporto ai fini del presente Titolo.
+
+9\. La micro-raccolta dei rifiuti è intesa come la raccolta di rifiuti da parte di un unico raccoglitore o trasportatore presso più produttori o detentori svolta con lo stesso automezzo, nel rispetto di quanto di seguito indicato:
+
+a) deve essere effettuata nel più breve tempo tecnicamente possibile;
+
+b) nei formulari di identificazione dei rifiuti devono essere indicate, a cura del raccoglitore o trasportatore, nello spazio del formulario di identificazione relativo al percorso, tutte le tappe intermedie previste;
+
+c) nel caso in cui il percorso dovesse subire delle variazioni, nello spazio relativo alle annotazioni deve essere indicato a cura del trasportatore il percorso realmente effettuato;
+
+d) se parte di una procedura di trasporto transfrontaliero, si applica quanto previsto al comma 6. Al dossier di notifica deve essere inserito un allegato nel quale sia indicato il percorso effettuato nonché tutte le tappe intermedie previste.
+
+10\. In materia di idoneità dei mezzi destinati al trasporto di rifiuti sarà emanato specifico regolamento da parte della CTA.
+
+11\. In merito ai trasporti internazionali su strada di merci pericolose si fa riferimento a quanto stabilito dal Decreto 19 Dicembre 1996 n.154.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 19:
+
+All‘articolo 30, comma 7 del Decreto Delegato 27 aprile 2012 n. 44, dopo la lettera c) è aggiunta la seguente lettera: ―c-bis) trasporto di rifiuti speciali, da parte di soggetti che effettuano la sostituzione di impianti e/o attrezzature facendosi carico del ritiro di quanto sostituito, fino al deposito temporaneo presso la propria azienda.
+
+1\. Fatto salvo quanto disposto dai commi 9 e 10, le spedizioni dei rifiuti speciali dal territorio della Repubblica di San Marino a destinazioni site nel territorio della Repubblica Italiana o di altri Stati europei con i quali ci siano Accordi bilaterali avvengono in conformità alle prescrizioni dettate dalle seguenti fonti:
+
+a) articoli 41, 42 e 43 e Titolo II del Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni;
+
+b) Allegati e normativa comunitaria ed internazionale richiamati dalle disposizioni contenute nel Titolo II del Regolamento CE n.1013/2006 e successive modifiche ed integrazioni;
+
+c) accordi ed intese bilaterali stipulati dalla Repubblica di San Marino.
+
+2\. Ai sensi dell‘articolo 2, paragrafo 1, numero 19 del Regolamento CE n.1013/2006 e successive modifiche ed integrazioni l‘UPA svolge il ruolo di “autorità competente”.
+
+3\. Per espletare la procedura di notifica il notificatore, ai sensi dell‘articolo 12, comma 3, si avvale dei documenti rilasciati dall‘autorità competente di spedizione di seguito elencati:
+
+a) documento di notifica predisposto in conformità al modello di cui all‘”Allegato 1A” al Regolamento (CE) n.1013/2006 e successive modifiche;
+
+b) documento di movimento predisposto in conformità al modello di cui all‘”Allegato 1B” al Regolamento (CE) n.1013/2006 e successive modifiche.
+
+Il rilascio da parte dell‘UPA delle notifiche autorizzative deve tenere conto delle quantità annue autorizzate.
+
+4\. Le spese per le procedure di notifica e di sorveglianza delle spedizioni transfrontaliere di rifiuti speciali sono di € 150,00 per ogni modulo di notifica e di € 15,00 per ogni modulo di movimento. Tali corrispettivi possono essere aggiornati tramite delibera della CTA.
+
+5\. La notifica è corredata dalle informazioni e documenti indicati nell‘Allegato II, Parti 1 e 2 del Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni.
+
+L‘autorità competente di spedizione ha, inoltre, facoltà di richiedere al notificatore le informazioni ed i documenti aggiuntivi di cui all‘Allegato II del predetto Regolamento (CE) nonché ogni ulteriore certificazione che riterrà necessaria, in particolare, al fine di verificare periodicamente l‘assenza di condanne per spedizione illegale di rifiuti o per altri atti illeciti relativi alla protezione dell‘ambiente.
+
+6\. La garanzia finanziaria di cui all‘articolo 6 del Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni è predisposta in conformità al modello di cui all‘Allegato E del presente Codice e per un importo da calcolarsi sulla base dello schema di calcolo di cui all‘Allegato F del presente Codice ed è prestata dal notificatore in favore dell‘Eccellentissima Camera della Repubblica di San Marino, a copertura delle spese di cui all‘articolo 6, paragrafi 1 e 2 del Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni. Tale garanzia è rilasciata da società autorizzate all‘esercizio dell‘attività di cui alle lettere A), B), G) e H) dell‘Allegato 1 della Legge 17 novembre 2005 n.165 regolarmente iscritte all‘elenco degli intermediari assicurativi e riassicurativi di Banca Centrale. In considerazione di specifiche esigenze legate alla gestione del rifiuto, la CTA ha facoltà di autorizzare l‘UPA ad accettare garanzie finanziarie difformi dal predetto modello, fermo restando il rispetto delle finalità di cui al precitato articolo 6 del Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni.
+
+7\. Gli obblighi informativi di cui all‘articolo 18 del Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni sono assolti mediante la trasmissione, da effettuarsi entro tre giorni dall‘avvenuta spedizione, all‘autorità competente di spedizione, di copia del documento contenuto nell‘Allegato VII del Regolamento medesimo, predisposto in conformità a quanto previsto dal precitato articolo 18.
+
+8\. L‘autorità competente ha facoltà di intimare, mediante ordinanza, la produzione da parte del notificatore di referto analitico per la classificazione del rifiuto oggetto di
+
+notifica nonché di acquisire dal notificatore o dal soggetto organizzante la spedizione, fatto salvo l‘obbligo di riservatezza gravante sull‘autorità medesima, dati ed informazioni utili ai fini di ispezione, controllo dell‘applicazione, programmazione e statistica relativi ai rifiuti destinati ad essere smaltiti e recuperati fuori dal territorio della Repubblica di San Marino.
+
+9\. Le disposizioni di cui al presente articolo si applicano alle spedizioni transfrontaliere di rifiuti tra la Repubblica di San Marino e altri Stati, Regioni e/o Enti locali con i quali la Repubblica di San Marino abbia stipulato appositi accordi o intesa in materia di gestione dei rifiuti.
+
+10\. In ogni caso, i termini e condizioni dettati dagli accordi e intese bilaterali stipulati fra la Repubblica di San Marino e Stati, Regioni e/o Enti locali in materia di gestione dei rifiuti, prevalgono, qualora difformi, su quanto prescritto dal presente articolo.
+
+11\. Il produttore iniziale di rifiuti e il nuovo produttore di rifiuti, su eventuale richiesta dell'UPA, devono presentare, entro il 31 dicembre di ciascun anno, la previsione dei quantitativi per l'anno successivo, espressi in tonnellate di rifiuto per singolo codice CER.
+
+12\. L‘autorità competente può effettuare in qualsiasi momento le ispezioni di cui all’articolo 12, comma 1, lettera cc-bis) di stabilimenti, imprese, intermediari e commercianti, nonché ispezioni delle spedizioni di rifiuti e del relativo recupero o smaltimento in conformità dell‘articolo 50 del Regolamento CE 1013/2006 e successive modifiche ed integrazioni.
+
+13\. Sono vietate le spedizioni transfrontaliere dei rifiuti tra la Repubblica di San Marino e Stati, Regioni e/o Enti locali con cui la Repubblica di San Marino non abbia stipulato specifici accordi. 23 Testo originario (Decreto Delegato n. 44/2012), Art. 31:
+
+(Spedizioni transfrontaliere)
+
+1\. Fatto salvo quanto disposto dai successivi commi 9 e 10, le spedizioni dei rifiuti speciali dal territorio della Repubblica di San Marino a destinazioni site nel territorio della Repubblica Italiana o di altri Stati europei con i quali ci siano Accordi bilaterali, avvengono in conformità alle prescrizioni dettate dalle seguenti fonti:
+
+a) articoli 41, 42 e 43 e Titolo II del Regolamento (CE) n.1013/2006;
+
+b) Allegati e normativa comunitaria ed internazionale richiamati dalle disposizioni contenute nel Titolo II del Regolamento CE n.1013/2006;
+
+c) accordi ed intese bilaterali stipulati dalla Repubblica di San Marino.
+
+2\. Ai sensi dell’articolo 2, paragrafo 1, numero 19 del Regolamento CE n.1013/2006 svolge il ruolo di “autorità competente” l’UPA.
+
+3\. Il notificatore, come da articolo 12, comma 3, per espletare la procedura di notifica, si avvale dei documenti rilasciati dall’autorità competente di spedizione di seguito elencati:
+
+a) documento di notifica predisposto in conformità al modello di cui all’“Allegato 1A” al Regolamento (CE) n.1013/2006 e successive modificazioni;
+
+b) documento di movimento predisposto in conformità al modello di cui all’“Allegato 1B” al Regolamento (CE) n.1013/2006 e successive modificazioni.
+
+4\. Le spese per le procedure di notifica e di sorveglianza delle spedizioni transfrontaliere di rifiuti speciali sono di € 100,00 per ogni modulo di notifica e di € 10,00 per ogni modulo di movimento. Tali corrispettivi possono essere aggiornati tramite delibera della CTA.
+
+5\. La notifica è corredata dalle informazioni e documenti indicati nell’Allegato II, Parti 1 e 2 del Regolamento (CE) n.1013/2006. L’autorità competente di spedizione ha, inoltre, facoltà di richiedere al notificatore le informazioni ed i documenti aggiuntivi di cui all’Allegato II del predetto Regolamento (CE) nonché ogni ulteriore certificazione che riterrà necessaria, in particolare, al fine di verificare periodicamente l’assenza di condanne per spedizione illegale di rifiuti o per altri atti illeciti relativi alla protezione dell’ambiente.
+
+6.
+
+La garanzia finanziaria di cui all’articolo 6 del Regolamento (CE) n.1013/2006 è predisposta in conformità al modello di cui all’Allegato E del presente Codice e per un importo da calcolarsi sulla base dello schema di calcolo di cui all’Allegato F del presente Codice ed è costituita dal notificatore o da altra persona fisica o giuridica che agisce per suo conto, in favore dell’Eccellentissima Camera della Repubblica di San Marino, a copertura delle spese di cui all’articolo 6, paragrafi 1 e 2 del Regolamento (CE) n.1013/2006. In considerazione di specifiche esigenze legate alla gestione del rifiuto, la CTA ha facoltà di autorizzare l’UPA ad accettare garanzie finanziarie difformi dal predetto modello, fermo restando il rispetto delle finalità di cui al precitato articolo 6 del Regolamento (CE) n.1013/2006.
+
+7.
+
+Gli obblighi informativi di cui all’articolo 18 del Regolamento (CE) n.1013/2006 sono assolti mediante la trasmissione all’autorità competente di spedizione di copia del documento contenuto nell’Allegato VII del Regolamento medesimo, predisposto in conformità a quanto previsto dal precitato articolo 18.
+
+8.
+
+L’autorità competente ha facoltà di intimare, mediante ordinanza, la produzione da parte del notificatore di referto analitico per la classificazione del rifiuto oggetto di notifica nonché di acquisire dal notificatore o dal soggetto organizzante la spedizione, fatto salvo l’obbligo di riservatezza gravante sull’autorità medesima, dati ed informazioni
+
+utili ai fini di ispezione, controllo dell’applicazione, programmazione e statistica relativi ai rifiuti destinati ad essere smaltiti e recuperati fuori dal territorio della Repubblica di San Marino.
+
+9.
+
+Le disposizioni di cui al presente articolo si applicano unicamente alle spedizioni transfrontaliere di rifiuti dirette a destinazioni ubicate nel territorio di Stati ed Enti locali con le quali la Repubblica di San Marino abbia stipulato apposito accordo o intesa in materia di gestione dei rifiuti.
+
+10.
+
+In ogni caso, i termini e condizioni dettati dagli accordi e intese bilaterali stipulati fra la Repubblica di San Marino e le Regioni e Province Italiane in materia di gestione dei rifiuti, prevalgono, qualora difformi, su quanto prescritto dal presente articolo.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 20:
+
+L‘articolo 31 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 31 (Spedizioni transfrontaliere)
+
+1\. Fatto salvo quanto disposto dai commi 9 e 10, le spedizioni dei rifiuti speciali dal territorio della Repubblica di San Marino a destinazioni site nel territorio della Repubblica Italiana o di altri Stati europei con i quali ci siano Accordi bilaterali avvengono in conformità alle prescrizioni dettate dalle seguenti fonti:
+
+a) articoli 41, 42 e 43 e Titolo II del Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni;
+
+b) Allegati e normativa comunitaria ed internazionale richiamati dalle disposizioni contenute nel Titolo II del Regolamento CE n.1013/2006 e successive modifiche ed integrazioni;
+
+c) accordi ed intese bilaterali stipulati dalla Repubblica di San Marino.
+
+2\. Ai sensi dell‘articolo 2, paragrafo 1, numero 19 del Regolamento CE n.1013/2006 e successive modifiche ed integrazioni l‘UPA svolge il ruolo di “autorità competente”.
+
+3\. Per espletare la procedura di notifica il notificatore, ai sensi dell‘articolo 12, comma 3, si avvale dei documenti rilasciati dall‘autorità competente di spedizione di seguito elencati:
+
+a) documento di notifica predisposto in conformità al modello di cui all‘”Allegato 1A” al Regolamento (CE) n.1013/2006 e successive modifiche;
+
+b) documento di movimento predisposto in conformità al modello di cui all‘”Allegato 1B” al Regolamento (CE) n.1013/2006 e successive modifiche.
+
+Il rilascio da parte dell‘UPA delle notifiche autorizzative deve tenere conto delle quantità annue autorizzate.
+
+4\. Le spese per le procedure di notifica e di sorveglianza delle spedizioni transfrontaliere di rifiuti speciali sono di € 150,00 per ogni modulo di notifica e di € 15,00 per ogni modulo di movimento. Tali corrispettivi possono essere aggiornati tramite delibera della CTA.
+
+5\. La notifica è corredata dalle informazioni e documenti indicati nell‘Allegato II, Parti 1 e 2 del Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni. L‘autorità competente di spedizione ha, inoltre, facoltà di richiedere al notificatore le informazioni ed i documenti aggiuntivi di cui all‘Allegato II del predetto Regolamento (CE) nonché ogni ulteriore certificazione che riterrà necessaria, in particolare, al fine di verificare periodicamente l‘assenza di condanne per spedizione illegale di rifiuti o per altri atti illeciti relativi alla protezione dell‘ambiente.
+
+6\. La garanzia finanziaria di cui all‘articolo 6 del Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni è predisposta in conformità al modello di cui all‘Allegato E del presente Codice e per un importo da calcolarsi sulla base dello schema di calcolo di cui all‘Allegato F del presente Codice ed è prestata dal notificatore in favore dell‘Eccellentissima Camera della Repubblica di San Marino, a copertura delle spese di cui all‘articolo 6, paragrafi 1 e 2 del Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni. Tale garanzia è rilasciata da società autorizzate all‘esercizio dell‘attività di cui alle lettere A), B), G) e H) dell‘Allegato 1 della Legge 17 novembre 2005 n.165 regolarmente iscritte all‘elenco degli intermediari assicurativi e riassicurativi di Banca Centrale. In considerazione di specifiche esigenze legate alla gestione del rifiuto, la CTA ha facoltà di autorizzare l‘UPA ad accettare garanzie finanziarie difformi dal predetto modello, fermo restando il rispetto delle finalità di cui al precitato articolo 6 del Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni.
+
+7\. Gli obblighi informativi di cui all‘articolo 18 del Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni sono assolti mediante la trasmissione, da effettuarsi entro tre giorni dall‘avvenuta spedizione, all‘autorità competente di spedizione, di copia del documento contenuto nell‘Allegato VII del Regolamento medesimo, predisposto in conformità a quanto previsto dal precitato articolo 18.
+
+8\. L‘autorità competente ha facoltà di intimare, mediante ordinanza, la produzione da parte del notificatore di referto analitico per la classificazione del rifiuto oggetto di notifica nonché di acquisire dal notificatore o dal soggetto organizzante la spedizione, fatto salvo l‘obbligo di riservatezza gravante sull‘autorità medesima, dati ed informazioni utili ai fini di ispezione, controllo dell‘applicazione, programmazione e statistica relativi ai rifiuti destinati ad essere smaltiti e recuperati fuori dal territorio della Repubblica di San Marino.
+
+9\. Le disposizioni di cui al presente articolo si applicano alle spedizioni transfrontaliere di rifiuti tra la Repubblica di San Marino e altri Stati, Regioni e/o Enti locali con i quali la Repubblica di San Marino abbia stipulato appositi accordi o intesa in materia di gestione dei rifiuti.
+
+10\. In ogni caso, i termini e condizioni dettati dagli accordi e intese bilaterali stipulati fra la Repubblica di San Marino e Stati, Regioni e/o Enti locali in materia di gestione dei rifiuti, prevalgono, qualora difformi, su quanto prescritto dal presente articolo.
+
+11\. Il produttore iniziale di rifiuti e il nuovo produttore di rifiuti, su eventuale richiesta dell'UPA, devono presentare, entro il 31 dicembre di ciascun anno, la previsione dei quantitativi per l'anno successivo, espressi in tonnellate di rifiuto per singolo codice CER.
+
+12\. L‘autorità competente può effettuare in qualsiasi momento le ispezioni di cui all‘articolo 12, comma 1, lettera ccbis) di stabilimenti, imprese, intermediari e commercianti, nonché ispezioni delle spedizioni di rifiuti e del relativo recupero o smaltimento in conformità dell‘articolo 50 del Regolamento CE 1013/2006 e successive modifiche ed integrazioni.
+
+13\. Sono vietate le spedizioni transfrontaliere dei rifiuti tra la Repubblica di San Marino e Stati, Regioni e/o Enti locali con cui la Repubblica di San Marino non abbia stipulato specifici accordi.
+
+#### CAPO III
+
+GESTIONE DI PARTICOLARI CATEGORIE DI RIFIUTI
+
+###### Art. 32
+
+(Regolamenti disciplinanti la gestione di particolari tipologie di rifiuti)
+
+1\. Oltre alle disposizioni contenute nel presente Titolo, la CTA ha facoltà di disciplinare, mediante propri regolamenti, i criteri e le modalità per eliminare i rischi di inquinamento ambientale per le tipologie di rifiuto di seguito indicate:
+
+a) rifiuti elettrici ed elettronici;
+
+b) veicoli fuori uso;
+
+c) rifiuti derivanti da attività sanitarie;
+
+d) rifiuti derivanti da bonifiche di siti inquinati.
+
+###### Art. 33
+
+(Rifiuti elettrici ed elettronici)
+
+1\. Sono da considerarsi rifiuti elettrici ed elettronici (di seguito in breve RAEE) i rifiuti di apparecchiature elettriche ed elettroniche. In particolare i RAEE sono suddivisi in:
+
+a) RAEE domestico, originati da nuclei domestici;
+
+b) RAEE di origine commerciale, industriale, istituzionale e di altro tipo analoghi, assimilabili per natura e per quantità a quelli originati dai nuclei domestici in conformità a quanto previsto nel Regolamento di cui all’articolo 5, comma 5, lettera
+
+a);
+
+c) RAEE professionali, prodotti dalle attività amministrative ed economiche diversi da quelli provenienti da nuclei domestici.
+
+2\. I rifiuti RAEE di cui al comma 1, lettera a) e b), inclusi quelli contenenti componenti pericolosi, sono gestiti dall’AASS la quale, in particolare, è tenuta al ritiro presso le utenze domestiche dei rifiuti medesimi, senza oneri aggiuntivi a carico dell’utenza interessata secondo le modalità e limiti previsti nel Regolamento di cui all’articolo 5, comma 5, lettera a).
+
+3\. I rifiuti RAEE di cui al comma 1, lettere c), seguono le procedure di corretto smaltimento o recupero previste dal presente Titolo; in particolare, i predetti rifiuti sono gestiti dall’AASS, in conformità a quanto previsto nel Regolamento di cui all’articolo 5, comma 5, lettera a) previa stipula di apposita convenzione con gli operatori economici e secondo i tariffari approvati dall’AASS medesima oppure da impresa autorizzata sulle basi di accordi commerciali stipulati con gli operatori economici.
+
+###### Art. 34
+
+(Veicoli fuori uso)
+
+1\. Il proprietario di un veicolo a motore che intenda procedere alla demolizione dello stesso, deve consegnarlo ad un impianto debitamente autorizzato per la messa in sicurezza, la demolizione, il recupero dei materiali e la rottamazione.
+
+2\. Il proprietario di un veicolo a motore destinato alla demolizione può, altresì, consegnarlo ai concessionari o alle succursali della case costruttrice che sono tenuti a curarne il conferimento successivo agli impianti di demolizione.
+
+3\. Gli impianti di demolizione ovvero i concessionari o succursali, rilasciano al
+
+proprietario del veicolo consegnato per la demolizione un certificato nel quale risulta la data della consegna, gli estremi dell’autorizzazione del centro, le generalità del proprietario e gli estremi di identificazione del veicolo nonché l’assunzione da parte del gestore del centro stesso ovvero di un concessionario o titolare della succursale, dell’impegno a provvedere direttamente alle pratiche di cancellazione dal Registro Automobilistico.
+
+###### Art. 35
+
+(Rifiuti derivanti da attività sanitarie)
+
+1\. Fatto salvo quanto previsto al comma 3, i rifiuti speciali derivanti da attività sanitarie, quali, a titolo esemplificativo, ospedali, case di cura, case di riposo, ambulatori medici, veterinari, laboratori di analisi, centri di ricerca chimico-biologica, sono da considerare rifiuti speciali pericolosi.
+
+2\. Il conferimento dei rifiuti all’operatore autorizzato avviene in doppio contenitore di cui quello interno deve essere appositamente sigillato ed avere caratteristiche tali da evitare la pur minima dispersione di liquidi. Gli aghi, le siringhe, e tutti i materiali che possono causare abrasioni o perforazioni devono essere collocati in idonei contenitori.
+
+3\. Ai fini dello smaltimento, i seguenti rifiuti provenienti da attività sanitarie sono da considerare assimilati agli urbani anche per forme di trattamento diverse dalla termocombustione:
+
+a) rifiuti non derivanti dallo svolgimento di attività sanitarie;
+
+b) rifiuti provenienti dalle cucine delle strutture sanitarie relativamente alla preparazione dei pasti;
+
+c) rifiuti provenienti dalle attività di ristorazione e residui dei pasti provenienti dai diversi reparti di degenza, ad esclusione dei reparti che risultano ospitare pazienti affetti da malattie infettive;
+
+d) altri rifiuti provenienti dalle strutture sanitarie con esclusione dei rifiuti derivanti da medicazione, dei rifiuti di natura biologica, e rispettivi contenitori, dei rifiuti derivanti da attività diagnostiche, terapeutiche e di ricerca nonché di quelli provenienti da reparti che ospitano pazienti affetti da malattie infettive o da strutture comunque dedicare alla loro cura.
+
+4\. Le parti anatomiche e gli animali morti per prove biologiche non sono considerati rifiuti ospedalieri e devono essere inviati ai forni crematori.
+
+###### Art. 36
+
+(Prodotti contenenti amianto)
+
+1\. Oltre a quanto stabilito dal presente Titolo, ai rifiuti contenenti amianto si applicano le disposizioni di cui al successivo Titolo III.
+
+###### Art. 37
+
+(Bonifica di siti contaminati)
+
+1\. Gli interventi di bonifica e ripristino ambientale per le aree caratterizzate da inquinamento diffuso sono disciplinati dalla CTA mediante l‘adozione di un Regolamento. I piani di bonifica dei siti contaminati, elaborati nel rispetto dei criteri generali di cui al presente Titolo e del predetto Regolamento, sono approvati dalla CTA. 24 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 37
+
+(Bonifica di siti contaminati)
+
+#### CAPO IV
+
+SISTEMA SANZIONATORIO
+
+###### Art. 38
+
+(Sanzioni penali)
+
+1\. Quando non costituisca più grave reato, è punito con l’arresto di secondo grado previsto dall’articolo 83 del Codice Penale chiunque trasgredisca al divieto di cui all’articolo 22, comma 1.
+
+2\. Quando non costituisca più grave reato, sono puniti con l’arresto di terzo grado i seguenti soggetti:
+
+a) chiunque abbandoni rifiuti pericolosi in violazione dell’articolo 28, comma 1, lettere
+
+a) e b);
+
+b) chiunque depositi irregolarmente all’interno o nei pressi dei cassonetti della nettezza urbana rifiuti speciali pericolosi;
+
+c) chiunque effettui l’attività di gestione di rifiuti senza l’autorizzazione di cui all’articolo 29, comma 1;
+
+d) il produttore iniziale o il nuovo produttore o il raccoglitore o l’intermediario o il detentore dei rifiuti che effettui spedizioni transfrontaliere di rifiuti speciali senza le autorizzazioni di cui all’articolo 31 o che non adempia agli obblighi ivi previsti.
+
+3\. In caso di recidiva, la pena prevista dal comma 1 è aumentata di un grado mentre in caso di recidiva nelle violazioni di cui al comma 2 si applica la prigionia di primo grado. 3-bis. Nell‘ambito dell‘attività di vigilanza sul trasporto rifiuti, le Forze di Polizia possono eseguire il fermo cautelativo degli automezzi e del relativo carico quando sono riscontrate le violazioni di cui agli articoli 28, 29 e 31 riferite ai rifiuti pericolosi.
+
+Gli atti del fermo sono tempestivamente inviati all‘UPA, che trasmette il relativo rapporto al Magistrato inquirente il quale, entro settantadue ore, previa la convalida del fermo, decreta il sequestro del veicolo ovvero la riconsegna del mezzo all‘avente diritto. Decorsi trenta giorni dalla notifica del decreto con il quale viene disposta la restituzione dell‘automezzo e del relativo carico all‘avente diritto senza che questi abbia provveduto al loro ritiro, il Commissario della Legge dispone che il veicolo ed il carico siano devoluti all‘Erario o, se del caso, distrutti o smaltiti. Avverso il provvedimento di cui sopra l‘avente diritto può presentare reclamo entro dieci giorni dalla notifica del decreto di assegnazione, distruzione o smaltimento. Il costo dello smaltimento del veicolo e del suo carico è addebitato al soggetto responsabile dell‘infrazione e in via solidale al proprietario del veicolo.
+
+Fino all‘emanazione di apposito regolamento da parte del Congresso di Stato il Commissario della legge stabilisce le tariffe per l‘asporto e custodia di beni oggetto di fermo amministrativo, di sequestro e di richiesta di pignoramento.
+
+1\. Gli interventi di bonifica e ripristino ambientale per le aree caratterizzate da inquinamento diffuso sono disciplinati dalla CTA mediante l’adozione di appositi piani elaborati nel rispetto dei criteri generali di cui al presente Titolo.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 21 :
+
+L‘articolo 37 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 37 (Bonifica di siti contaminati)
+
+1\. Gli interventi di bonifica e ripristino ambientale per le aree caratterizzate da inquinamento diffuso sono disciplinati dalla CTA mediante l‘adozione di un Regolamento. I piani di bonifica dei siti contaminati, elaborati nel rispetto dei criteri generali di cui al presente Titolo e del predetto Regolamento, sono approvati dalla CTA.
+
+Le somme relative alle tariffe di cui al comma 3, per le quali il debitore non abbia provveduto al pagamento entro le scadenze previste, sono riscosse secondo le modalità e procedure di cui alla Legge 25 maggio 2004 n.70 e successive modifiche. 25
+
+###### Art. 39
+
+(Sanzioni amministrative)
+
+1\. La violazione dei divieti di cui all‘articolo 28, comma 1, lettere c) e d) relativamente a rifiuti urbani e assimilati o assimilabili agli urbani e l‘abbandono di rifiuti urbani e assimilati o assimilabili agli urbani non pericolosi in violazione delle lettere a) e b) del comma 1 del medesimo articolo è punito con sanzione pecuniaria amministrativa da € 100,00 a € 1.000,00. Nel caso di violazione dei divieti di cui all‘articolo 28, comma 1, lettere c) e d) relativamente a rifiuti speciali non pericolosi e di abbandono di rifiuti speciali non pericolosi in violazione dell‘articolo 28, comma 1, lettere a) e b) la sanzione è raddoppiata tanto nella misura minima che in quella massima.
+
+2\. Le sanzioni di cui al comma 1, primo periodo si applicano anche in caso di irregolare consegna dei rifiuti ai soggetti abilitati all‘esecuzione della raccolta “porta a porta” dei rifiuti urbani e assimilati, così come disciplinata dall‘AASS mediante propri regolamenti.
+
+3\. Fatta salva l‘eventuale concorrente applicazione delle sanzioni penali, sono puniti con una sanzione pecuniaria amministrativa da € 500,00 a € 1.500,00 i seguenti soggetti:
+
+a) il produttore o detentore che ometta di presentare o di aggiornare la dichiarazione di cui all‘articolo 24, commi 1 e 2;
+
+b) i soggetti di cui all‘articolo 27, comma 3 che omettono di presentare o presentano irregolarmente la comunicazione ivi prevista;
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 38
+
+(Sanzioni penali)
+
+1\. Quando non costituisca più grave reato, è punito con l’arresto di secondo grado previsto dall’articolo 83 del Codice Penale chiunque trasgredisca al divieto di cui all’articolo 22, comma 1.
+
+2\. Quando non costituisca più grave reato, sono puniti con l’arresto di terzo grado i seguenti soggetti:
+
+a) chiunque abbandoni rifiuti pericolosi in violazione dell’articolo 28, comma 1, lettere a) e b);
+
+b) chiunque depositi irregolarmente all’interno o nei pressi dei cassonetti della nettezza urbana rifiuti speciali pericolosi;
+
+c) chiunque effettui l’attività di gestione di rifiuti senza l’autorizzazione di cui all’articolo 29, comma 1;
+
+d) il produttore iniziale o il nuovo produttore o il raccoglitore o l’intermediario o il detentore dei rifiuti che effettui spedizioni transfrontaliere di rifiuti speciali senza le autorizzazioni di cui all’articolo 31 o che non adempia agli obblighi ivi previsti.
+
+3\. In caso di recidiva, la pena prevista dal comma 1 è aumentata di un grado mentre in caso di recidiva nelle violazioni di cui al comma 2 si applica la prigionia di primo grado. 25
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 22:
+
+All‘articolo 38 del Decreto Delegato 27 aprile 2012 n. 44 è aggiunto il seguente comma: ―3-bis. Nell‘ambito dell‘attività di vigilanza sul trasporto rifiuti, le Forze di Polizia possono eseguire il fermo cautelativo degli automezzi e del relativo carico quando sono riscontrate le violazioni di cui agli articoli 28, 29 e 31 riferite ai rifiuti pericolosi. Gli atti del fermo sono tempestivamente inviati all‘UPA, che trasmette il relativo rapporto al Magistrato inquirente il quale, entro settantadue ore, previa la convalida del fermo, decreta il sequestro del veicolo ovvero la riconsegna del mezzo all‘avente diritto. Decorsi trenta giorni dalla notifica del decreto con il quale viene disposta la restituzione dell‘automezzo e del relativo carico all‘avente diritto senza che questi abbia provveduto al loro ritiro, il Commissario della Legge dispone che il veicolo ed il carico siano devoluti all‘Erario o, se del caso, distrutti o smaltiti.
+
+Avverso il provvedimento di cui sopra l‘avente diritto può presentare reclamo entro dieci giorni dalla notifica del decreto di assegnazione, distruzione o smaltimento. Il costo dello smaltimento del veicolo e del suo carico è addebitato al soggetto responsabile dell‘infrazione e in via solidale al proprietario del veicolo.
+
+Fino all‘emanazione di apposito regolamento da parte del Congresso di Stato il Commissario della legge stabilisce le tariffe per l‘asporto e custodia di beni oggetto di fermo amministrativo, di sequestro e di richiesta di pignoramento.
+
+Le somme relative alle tariffe di cui al comma 3, per le quali il debitore non abbia provveduto al pagamento entro le scadenze previste, sono riscosse secondo le modalità e procedure di cui alla Legge 25 maggio 2004 n.70 e successive modifiche.
+
+c) il produttore o detentore che si avvalga per la gestione dei rifiuti di soggetti non autorizzati ai sensi dell‘articolo 29 o che non rispetti i termini di cui all‘articolo 31, comma 7;
+
+d) chiunque utilizzi un‘area a qualsiasi destinazione urbanistica come deposito o per lo stoccaggio di rifiuti o di materiali in assenza o difformità dalle autorizzazioni previste all‘articolo 29;
+
+e) chiunque non rispetti le disposizioni previste all‘articolo 18, comma 3 così come introdotto dall‘articolo 14 del Decreto Delegato 12 luglio 2016 n.84.
+
+4\. Fatta salva l‘eventuale concorrente applicazione delle sanzioni penali, sono puniti con una sanzione pecuniaria amministrativa da € 750,00 a € 3.000,00:
+
+a) i soggetti di cui all‘articolo 27, comma 3 che omettono di tenere o tengono irregolarmente il registro di carico e scarico previsto all‘articolo 26;
+
+b) i soggetti autorizzati che effettuino il trasporto di rifiuti in assenza o in difformità del formulario di cui all‘articolo 30 o in condizioni difformi a quanto descritto sul formulario ovvero in assenza o difformità dei documenti previsti dall‘articolo 31 per le operazioni di trasporto transfrontaliero;
+
+c) i soggetti non esercitanti professionalmente l‘attività di trasporto dei rifiuti, che effettuino il trasporto di rifiuti oltre i limiti e le condizioni stabiliti dall‘articolo 29, comma 4;
+
+d) i soggetti che non rispettino gli obblighi e/o le prescrizioni eventualmente contenute nell‘autorizzazione;
+
+e) i soggetti che trasportano rifiuti non pericolosi in assenza dell‘autorizzazione di cui all‘articolo 29.
+
+5\. In caso di violazione alle disposizioni contenute nei regolamenti emanati dalla CTA a mente dell‘articolo 32, comma 1 si applica la sanzione pecuniaria amministrativa da € 100,00 a € 1.000,00.
+
+6\. Fatto salvo quanto previsto al comma 7 la facoltà di oblazione volontaria di cui all‘articolo 33 della Legge 28 giugno 1989 n.68 è ammessa mediante il pagamento della metà della sanzione irrogata.
+
+7\. In caso di recidiva alle violazioni amministrative di cui ai commi precedenti la sanzione amministrativa viene aumentata fino a tre volte tanto nel minimo quanto nel massimo, tenuto conto della gravità dell‘infrazione, e non è ammesso l‘esercizio della facoltà di oblazione volontaria di cui all‘articolo 33 della Legge n.68/1989. In caso di recidiva alle violazioni amministrative di cui al comma 4 da parte di soggetti autorizzati dal CT o dall‘UPA, i medesimi possono sospendere l‘autorizzazione per un periodo massimo di sei mesi; decorso tale termine senza che il titolare abbia adempiuto a quanto richiesto, l‘autorizzazione è revocata.
+
+8\. E‘ recidivo chi, nei cinque anni precedenti l‘ultima violazione, risulta aver commesso la medesima violazione amministrativa.
+
+9\. In relazione alle infrazioni di cui al comma 4 punti b), c) ed e), le Forze di Polizia possono emettere direttamente le sanzioni amministrative. I conducenti residenti all‘estero o che si trovino alla guida di un veicolo non immatricolato nella Repubblica di San Marino devono provvedere all‘immediato pagamento dell‘importo corrispondente alla metà del minimo della sanzione pecuniaria prevista per la violazione contestata o produrre idonea fidejussione di terzi che garantisca tale pagamento: in difetto di ciò, il funzionario provvede al ritiro cautelare di un documento di identità o del veicolo, che verrà restituito contestualmente al versamento della somma dovuta. 26 26
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 39
+
+1\. La violazione dei divieti di cui all’articolo 28, comma 1, lettere c) e d) relativamente a rifiuti urbani e assimilati o assimilabili agli urbani e l’abbandono di rifiuti urbani e assimilati o assimilabili agli urbani non pericolosi in violazione delle lettere a) e b) del comma 1 del medesimo articolo è punito con sanzione pecuniaria amministrativa da € 100,00 a
+
+€ 1.000,00. Nel caso di violazione dei divieti di cui all’articolo 28, comma 1, lettere c) e d) relativamente a rifiuti speciali non pericolosi e di abbandono di rifiuti speciali non pericolosi in violazione dell’articolo 28, comma 1, lettere a) e b) la sanzione è raddoppiata tanto nella misura minima che in quella massima.
+
+2\. Le sanzioni di cui al comma 1, primo periodo si applicano anche in caso di irregolare consegna dei rifiuti ai soggetti abilitati all’esecuzione della raccolta “porta a porta” dei rifiuti urbani e assimilati così come disciplinata dall’AASS mediante propri regolamenti.
+
+3\. Fatta salva l’eventuale concorrente applicazione delle sanzioni penali, sono puniti con una sanzione pecuniaria amministrativa da € 500,00 a € 1.500,00 i seguenti soggetti:
+
+a) il produttore o detentore che ometta di presentare o di aggiornare la dichiarazione di cui all’articolo 24, commi 1 e 2;
+
+b) i soggetti di cui all’articolo 27, comma 3 che omettono di presentare o presentano irregolarmente la comunicazione ivi prevista.
+
+4\. Fatta salva l’eventuale concorrente applicazione delle sanzioni penali, sono puniti con una sanzione pecuniaria amministrativa da € 750,00 a € 3.000,00 i seguenti soggetti:
+
+a) i soggetti di cui all’articolo 27, comma 3 che omettono di tenere o tengono irregolarmente il registro di carico e scarico previsto all’articolo 26;
+
+b) i soggetti autorizzati che effettuino il trasporto di rifiuti speciali in assenza o in difformità del formulario di cui all’articolo 30 o in condizioni difformi a quanto descritto sul formulario ovvero in assenza o difformità dei documenti previsti dall’articolo 31 per le operazioni di trasporto transfrontaliero;
+
+c) i soggetti non esercitanti professionalmente l’attività di trasporto dei rifiuti, che effettuino il trasporto di rifiuti oltre i limiti e le condizioni stabiliti dall’articolo 29, comma 4;
+
+d) i soggetti che non rispettino gli obblighi e/o le prescrizioni eventualmente contenute nell’autorizzazione.
+
+5\. In caso di violazione alle disposizioni contenute nei regolamenti emanati dalla CTA a mente dell’articolo 32, comma 1 si applica la sanzione pecuniaria amministrativa da € 100,00 a € 1.000,00.
+
+6\. Fatto salvo quanto previsto al comma successivo, la facoltà di oblazione volontaria di cui all’articolo 33 della Legge 28 giugno 1989 n.68 è ammessa mediante il pagamento della metà della sanzione irrogata.
+
+7\. In caso di recidiva alle violazioni amministrative di cui ai commi precedenti la sanzione amministrativa viene aumentata fino a tre volte tanto nel minimo quanto nel massimo, tenuto conto della gravità dell’infrazione e non è ammesso l’esercizio della facoltà di oblazione volontaria di cui all’articolo 33 della Legge n.68/1989. In caso di recidiva alle violazioni amministrative di cui al comma 4 da parte di soggetti autorizzati dal CT, il CT medesimo provvede a revocare l’autorizzazione, senza possibilità di nuovo rilascio in favore del trasgressore.
+
+8\. E’ recidivo chi, nei cinque anni precedenti l’ultima violazione, risulta aver commesso la medesima violazione amministrativa.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 23:
+
+L‘articolo 39 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 39 (Sanzioni amministrative)
+
+1\. La violazione dei divieti di cui all‘articolo 28, comma 1, lettere c) e d) relativamente a rifiuti urbani e assimilati o assimilabili agli urbani e l‘abbandono di rifiuti urbani e assimilati o assimilabili agli urbani non pericolosi in violazione delle lettere a) e b) del comma 1 del medesimo articolo è punito con sanzione pecuniaria amministrativa da € 100,00 a € 1.000,00. Nel caso di violazione dei divieti di cui all‘articolo 28, comma 1, lettere c) e d) relativamente a rifiuti speciali non pericolosi e di abbandono di rifiuti speciali non pericolosi in violazione dell‘articolo 28, comma 1, lettere a) e b) la sanzione è raddoppiata tanto nella misura minima che in quella massima.
+
+2\. Le sanzioni di cui al comma 1, primo periodo si applicano anche in caso di irregolare consegna dei rifiuti ai soggetti abilitati all‘esecuzione della raccolta “porta a porta” dei rifiuti urbani e assimilati, così come disciplinata dall‘AASS mediante propri regolamenti.
+
+3\. Fatta salva l‘eventuale concorrente applicazione delle sanzioni penali, sono puniti con una sanzione pecuniaria amministrativa da € 500,00 a € 1.500,00 i seguenti soggetti:
+
+a) il produttore o detentore che ometta di presentare o di aggiornare la dichiarazione di cui all‘articolo 24, commi 1 e 2;
+
+b) i soggetti di cui all‘articolo 27, comma 3 che omettono di presentare o presentano irregolarmente la comunicazione ivi prevista;
+
+c) il produttore o detentore che si avvalga per la gestione dei rifiuti di soggetti non autorizzati ai sensi dell‘articolo 29 o che non rispetti i termini di cui all‘articolo 31, comma 7;
+
+d) chiunque utilizzi un‘area a qualsiasi destinazione urbanistica come deposito o per lo stoccaggio di rifiuti o di materiali in assenza o difformità dalle autorizzazioni previste all‘articolo 29;
+
+e) chiunque non rispetti le disposizioni previste all‘articolo 18, comma 3 così come introdotto dall‘articolo 14 del Decreto Delegato 12 luglio 2016 n.84.
+
+4\. Fatta salva l‘eventuale concorrente applicazione delle sanzioni penali, sono puniti con una sanzione pecuniaria amministrativa da € 750,00 a € 3.000,00:
+
+a) i soggetti di cui all‘articolo 27, comma 3 che omettono di tenere o tengono irregolarmente il registro di carico e scarico previsto all‘articolo 26;
+
+b) i soggetti autorizzati che effettuino il trasporto di rifiuti in assenza o in difformità del formulario di cui all‘articolo 30 o in condizioni difformi a quanto descritto sul formulario ovvero in assenza o difformità dei documenti previsti dall‘articolo 31 per le operazioni di trasporto transfrontaliero;
+
+c) i soggetti non esercitanti professionalmente l‘attività di trasporto dei rifiuti, che effettuino il trasporto di rifiuti oltre i limiti e le condizioni stabiliti dall‘articolo 29, comma 4;
+
+d) i soggetti che non rispettino gli obblighi e/o le prescrizioni eventualmente contenute nell‘autorizzazione;
+
+e) i soggetti che trasportano rifiuti non pericolosi in assenza dell‘autorizzazione di cui all‘articolo 29.
+
+5\. In caso di violazione alle disposizioni contenute nei regolamenti emanati dalla CTA a mente dell‘articolo 32, comma 1 si applica la sanzione pecuniaria amministrativa da € 100,00 a € 1.000,00.
+
+#### CAPO V
+
+DISPOSIZIONI TRANSITORIE E FINALI
+
+###### Art. 40
+
+(Disposizioni particolari)
+
+1\. Ai fini della riduzione delle emissioni di anidride carbonica in atmosfera, del rafforzamento della protezione ambientale e del sostegno alle filiere agro-industriali nel campo dei biomateriali, la Repubblica di San Marino adotta una progressiva riduzione della commercializzazione e distribuzione di sacchi per l’asporto delle merci non biodegradabili.
+
+2\. E’ vietata la commercializzazione e la distribuzione dei sacchi da asporto merci non conformi ai requisiti di biodegradabilità indicati dagli standard tecnici europei vigenti.
+
+3\. La violazione del divieto di cui al presente articolo è punita con sanzione pecuniaria amministrativa da € 500,00 a 1.500,00. Si applicano i commi 6, 7 e 8 dell’articolo 39.
+
+###### Art. 41
+
+(Prescrizioni urbanistiche ed edilizie)
+
+1\. Il Responsabile del Progetto di cui all’articolo 11 della Legge 19 luglio 1995 n.87 e successive modificazioni è tenuto ad acquisire il parere dell’AASS sulla proposta di Piano Particolareggiato e relativa Variante dallo stesso elaborato ed a modificare la proposta medesima in conformità alle indicazioni fornitegli dall’AASS; tale parere è acquisito prima dell’approvazione definitiva dello strumento urbanistico.
+
+2\. La realizzazione di piazzole da adibire ad isola ecologica ed a pensiline per la fermata degli autobus di linea, non è soggetta al rilascio di titolo autorizzativo edilizio purché conforme alle previsioni del piano particolareggiato ovvero, in caso di assenza dello strumento urbanistico o di mancata previsione nell’ambito dello stesso, purché sia acquisito il preventivo parere favorevole dell’Azienda Autonoma di Stato di Produzione e dell’Ufficio Progettazione.
+
+### TITOLO III
+
+TUTELA DELLA SALUTE DAL RISCHIO AMIANTO
+
+#### CAPO I
+
+DISPOSIZIONI GENERALI
+
+6\. Fatto salvo quanto previsto al comma 7 la facoltà di oblazione volontaria di cui all‘articolo 33 della Legge 28 giugno 1989 n.68 è ammessa mediante il pagamento della metà della sanzione irrogata.
+
+7\. In caso di recidiva alle violazioni amministrative di cui ai commi precedenti la sanzione amministrativa viene aumentata fino a tre volte tanto nel minimo quanto nel massimo, tenuto conto della gravità dell‘infrazione, e non è ammesso l‘esercizio della facoltà di oblazione volontaria di cui all‘articolo 33 della Legge n.68/1989. In caso di recidiva alle violazioni amministrative di cui al comma 4 da parte di soggetti autorizzati dal CT o dall‘UPA, i medesimi possono sospendere l‘autorizzazione per un periodo massimo di sei mesi; decorso tale termine senza che il titolare abbia adempiuto a quanto richiesto, l‘autorizzazione è revocata.
+
+8\. E‘ recidivo chi, nei cinque anni precedenti l‘ultima violazione, risulta aver commesso la medesima violazione amministrativa.
+
+9\. In relazione alle infrazioni di cui al comma 4 punti b), c) ed e), le Forze di Polizia possono emettere direttamente le sanzioni amministrative. I conducenti residenti all‘estero o che si trovino alla guida di un veicolo non immatricolato nella Repubblica di San Marino devono provvedere all‘immediato pagamento dell‘importo corrispondente alla metà del minimo della sanzione pecuniaria prevista per la violazione contestata o produrre idonea fidejussione di terzi che garantisca tale pagamento: in difetto di ciò, il funzionario provvede al ritiro cautelare di un documento di identità o del veicolo, che verrà restituito contestualmente al versamento della somma dovuta.
+
+###### Art. 42
+
+(Finalità)
+
+1\. E’ fatto divieto, nell’intero territorio della Repubblica di San Marino, di importare, esportare, commercializzare, produrre e utilizzare amianto e materiali contenenti amianto, questi ultimi individuati dall’elenco nell’Allegato G del presente Codice.
+
+2\. Il presente Titolo concerne la bonifica e lo smaltimento dell’amianto e dei materiali contenenti amianto nel territorio della Repubblica di San Marino e detta norme per la realizzazione di misure di decontaminazione e di bonifica delle aree interessate dall’inquinamento da amianto o materiali contenenti amianto.
+
+###### Art. 43
+
+(Definizioni)
+
+1\. Ai fini del presente Titolo si intendono per:
+
+a) amianto: i silicati fibrosi denominati actinolite (n.CAS 77536-66-4); amosite (n.CAS 12172-73-5); antofillite (n. CAS 77536-67-5); crisotilo (n. CAS 12001-29-5); crocidolite (n. CAS 12001-78-4); tremolite (n. CAS 77536-68-6). Tale lista potrà essere aggiornata tramite decreto delegato;
+
+b) rifiuti di amianto: i materiali provenienti dalle operazioni di bonifica e smaltimento nonché qualsiasi sostanza o qualsiasi oggetto contenente amianto che abbia perso la sua destinazione d’uso e che possa disperdere fibre di amianto nell’ambiente, in concentrazioni superiori a quelle ammesse dall’articolo 44. La gestione dei rifiuti contenenti amianto è regolamentata dal Titolo II;
+
+c) ditta incaricata: l’impresa e/o le imprese che effettuano operazioni di bonifica, raccolta, trasporto, smaltimento di amianto e materiali contenenti amianto e che sono iscritte allo specifico Albo di cui all’articolo 45;
+
+d) bonifica: operazione di rimozione e/o incapsulamento o confinamento dei materiali contenenti amianto;
+
+e) gestione: la raccolta, il trasporto, e lo smaltimento dei rifiuti di amianto o di prodotti contenenti amianto, compreso il controllo di queste operazioni;
+
+f) smaltimento dei rifiuti di amianto: le operazioni necessarie per l’innocuizzazione dei rifiuti ed il conseguente deposito di essi in discarica o interramento controllato;
+
+g) fibra: ai fini delle misurazioni, si prendono in considerazione unicamente le fibre che hanno una lunghezza superiore a 5 micron, una larghezza inferiore a 3 micron ed il cui rapporto lunghezza/larghezza è superiore a 3:1;
+
+h) edifici a destinazione d‘uso privato: gli edifici classificati “GRUPPO A, E (punti 1-23-4c)‘‘ all‘articolo 183, Legge 19 luglio 1995 n.87 - Testo Unico delle Leggi Urbanistiche ed Edilizie;
+
+i) edifici a destinazione d‘uso collettiva: “GRUPPO B, C, D, E, (punti 4a-4b-5-6-7-8-9), F, G‘‘, all‘articolo 183, Legge 19 luglio 1995 n.87 - Testo Unico delle Leggi Urbanistiche ed Edilizie. 27 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 43
+
+1\. Ai fini del presente Titolo si intendono per:
+
+a) amianto: i silicati fibrosi denominati actinolite (n.CAS 77536-66-4); amosite (n.CAS 12172-73-5); antofillite (n. CAS 77536-67-5); crisotilo (n. CAS 12001-29-5); crocidolite (n. CAS 12001-78-4); tremolite (n. CAS 77536-68-6). Tale lista potrà essere aggiornata tramite decreto delegato;
+
+b) rifiuti di amianto: i materiali provenienti dalle operazioni di bonifica e smaltimento nonché qualsiasi sostanza o qualsiasi oggetto contenente amianto che abbia perso la sua destinazione d’uso e che possa disperdere fibre di amianto nell’ambiente, in concentrazioni superiori a quelle ammesse dall’articolo 44. La gestione dei rifiuti contenenti amianto è regolamentata dal Titolo II;
+
+c) ditta incaricata: l’impresa e/o le imprese che effettuano operazioni di bonifica, raccolta, trasporto, smaltimento di
+
+#### CAPO II
+
+NORME RELATIVE ALLA UTILIZZAZIONE, BONIFICA E SMALTIMENTO DELL’AMIANTO
+
+###### Art. 44
+
+(Valori limite)
+
+1\. Il presente articolo stabilisce i valori limite relativi alla concentrazione di fibra di amianto nell’ambiente di lavoro ed ai fini della tutela ambientale.
+
+2\. In relazione all‘ambiente di lavoro si prescrive che:
+
+a) la concentrazione di fibre di amianto respirabili nei luoghi ove si bonifica o si smaltisce amianto non può superare i seguenti valori limite, espressi come media ponderata su un periodo di otto ore:
+
+1) 0, 1 fibre per centimetro cubo;
+
+2) Soppresso
+
+b) il valore massimo di esposizione per 15 minuti non deve superare più di 5 volte i livelli indicati precedentemente.
+
+3\. Ai fini di tutela ambientale si prescrive che:
+
+a) per le emissioni in atmosfera si applica il limite di 0,1 mg/m3 di aria emessa (pari a 2 fibre/ml);
+
+b) agli effluenti liquidi provenienti da attività di bonifica si applica il limite di 30g. di materiali totali in sospensione per metro cubo di effluente scaricato.
+
+4\. Le procedure e i metodi di analisi per la misurazione dei valori dell’inquinamento da amianto, compresi gli effluenti liquidi contenenti amianto, sono definiti nell’Allegato H del presente Codice.
+
+5\. Eventuali aggiornamenti o modifiche dei limiti di cui ai commi 1, 2, 3 e 4 del presente articolo sono disposti con specifico decreto delegato, su proposta della CTA.28 amianto e materiali contenenti amianto e che sono iscritte allo specifico Albo di cui all’articolo 45;
+
+d) bonifica: operazione di rimozione e/o incapsulamento o confinamento dei materiali contenenti amianto;
+
+e) gestione: la raccolta, il trasporto, e lo smaltimento dei rifiuti di amianto o di prodotti contenenti amianto, compreso il controllo di queste operazioni;
+
+f) smaltimento dei rifiuti di amianto: le operazioni necessarie per l’innocuizzazione dei rifiuti ed il conseguente deposito di essi in discarica o interramento controllato;
+
+g) fibra: ai fini delle misurazioni, si prendono in considerazione unicamente le fibre che hanno una lunghezza superiore a 5 micron, una larghezza inferiore a 3 micron ed il cui rapporto lunghezza/larghezza è superiore a 3:1;
+
+h) edifici a destinazione d’uso privato: gli edifici classificati ‘‘GRUPPO A, E (punti 1-2-3-4)’’ all’articolo 183, Legge 19 luglio 1995 n.87 - Testo Unico delle Leggi Urbanistiche ed Edilizie;
+
+i) edifici a destinazione d’uso collettiva: ‘‘GRUPPO B, C, D, E, (punti 5-6-7-8-9), F, G’’, all’articolo 183, Legge 19 luglio 1995 n.87 - Testo Unico delle Leggi Urbanistiche ed Edilizie.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 24:
+
+All‘articolo 43, comma 1 del Decreto Delegato 27 aprile 2012 n. 44, le lettere h) ed i) sono sostituite dalle seguenti: ―h) edifici a destinazione d‘uso privato: gli edifici classificati “GRUPPO A, E (punti 1-2-3-4c)‘‘ all‘articolo 183, Legge 19 luglio 1995 n.87 - Testo Unico delle Leggi Urbanistiche ed Edilizie;
+
+i) edifici a destinazione d‘uso collettiva: “GRUPPO B, C, D, E, (punti 4a-4b-5-6-7-8-9), F, G‘‘, all‘articolo 183, Legge 19 luglio 1995 n.87 - Testo Unico delle Leggi Urbanistiche ed Edilizie.”.
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 44
+
+1\. Il presente articolo stabilisce i valori limite relativi alla concentrazione di fibra di amianto nell’ambiente di lavoro ed ai fini della tutela ambientale.
+
+2\. In relazione all’ambiente di lavoro si prescrive che:
+
+a) la concentrazione di fibre di amianto respirabili nei luoghi ove si bonifica o si smaltisce amianto, non può superare i seguenti valori limite, espressi come media ponderata su un periodo di otto ore:
+
+1) 0,6 fibre per centimetro cubo per il crisotilo;
+
+2) 0,2 fibre per centimetro cubo per tutte le altre varietà di amianto, sia isolate sia in miscela, ivi comprese le miscele contenenti crisotilo.
+
+b) il valore massimo di esposizione per 15 minuti non deve superare più di 5 volte i livelli indicati precedentemente.
+
+3\. Ai fini di tutela ambientale si prescrive che:
+
+a) per le emissioni in atmosfera si applica il limite di 0,1 mg/m3 di aria emessa (pari a 2 fibre/ml);
+
+###### Art. 45
+
+(Bonifiche e tutela dell’ambiente)
+
+1\. Le norme relative e gli strumenti necessari ai rilevamenti e alle analisi dei materiali contenenti amianto nonché alla pianificazione e alla programmazione delle attività di bonifica e le operazioni da effettuare durante i controlli su materiali contenenti amianto, sono definite con specifiche Linee Guida emesse dalla CTA.
+
+2\. La CTA stabilisce i requisiti, i termini, le modalità e i diritti di iscrizione di uno speciale Albo in cui verranno iscritte le ditte incaricate della bonifica. La tenuta del predetto Albo compete all’UPA. Le ditte di cui al presente comma sono tenute ad impiegare il personale che abbia conseguito idoneo attestato di formazione e informazione in merito al rischio secondo quanto previsto al seguente Capo III. 2-bis. L‘iscrizione all‘Albo di cui al comma 2 ha validità triennale ed è rinnovabile previa richiesta di rinnovo, da presentarsi almeno sessanta giorni prima della scadenza della stessa. La richiesta di rinnovo di iscrizione a tale Albo, presentata entro i termini sopra indicati, consente di procrastinare la validità fino alla deliberazione del CT.
+
+3\. Presso l’UPA è istituito il Registro dell’amianto nel quale è indicata la localizzazione dell’amianto in matrice friabile o matrice compatta presente negli edifici a destinazione d’uso collettiva e privata. A tal fine si prescrive che:
+
+a) i proprietari degli immobili con destinazione d’uso collettiva devono comunicare, all’UPA, i dati relativi alla presenza dei materiali di cui al presente comma e adottare e presentare un piano di controllo e manutenzione, entro i successivi trenta giorni come da Linee Guida di cui al comma 1;
+
+b) i proprietari degli immobili con destinazione d’uso privata devono comunicare, all’UPA, i dati relativi alla presenza dei materiali di cui al presente comma e adottare le misure di controllo e bonifica come da Linee Guida di cui al comma 1.
+
+4\. ABROGATO 29
+
+b) agli effluenti liquidi provenienti da attività di bonifica si applica il limite di 30g. di materiali totali in sospensione per metro cubo di effluente scaricato.
+
+4\. Le procedure e i metodi di analisi per la misurazione dei valori dell’inquinamento da amianto, compresi gli effluenti liquidi contenenti amianto, sono definiti nell’Allegato H del presente Codice.
+
+5\. Eventuali aggiornamenti o modifiche dei limiti di cui ai commi 1, 2, 3 e 4 del presente articolo sono disposti con specifico decreto delegato, su proposta della CTA.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 25:
+
+Il comma 2 dell‘articolo 44 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―2. In relazione all‘ambiente di lavoro si prescrive che:
+
+a) la concentrazione di fibre di amianto respirabili nei luoghi ove si bonifica o si smaltisce amianto non può superare i seguenti valori limite, espressi come media ponderata su un periodo di otto ore:
+
+1) 0, 1 fibre per centimetro cubo;
+
+2) Soppresso
+
+b) il valore massimo di esposizione per 15 minuti non deve superare più di 5 volte i livelli indicati precedentemente.
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 45
+
+(Bonifiche e tutela dell’ambiente)
+
+1\. Le norme relative e gli strumenti necessari ai rilevamenti e alle analisi dei materiali contenenti amianto nonché alla pianificazione e alla programmazione delle attività di bonifica e le operazioni da effettuare durante i controlli su materiali contenenti amianto, sono definite con specifiche Linee Guida emesse dalla CTA.
+
+2\. La CTA stabilisce i requisiti, i termini, le modalità e i diritti di iscrizione di uno speciale Albo in cui verranno iscritte le ditte incaricate della bonifica. La tenuta del predetto Albo compete all’UPA. Le ditte di cui al presente comma sono tenute ad impiegare il personale che abbia conseguito idoneo attestato di formazione e informazione in merito al rischio secondo quanto previsto al seguente Capo III.
+
+3\. Presso l’UPA è istituito il Registro dell’amianto nel quale è indicata la localizzazione dell’amianto in matrice friabile o matrice compatta presente negli edifici a destinazione d’uso collettiva e privata. A tal fine si prescrive che:
+
+a) i proprietari degli immobili con destinazione d’uso collettiva devono comunicare, all’UPA, i dati relativi alla presenza dei materiali di cui al presente comma e adottare e presentare un piano di controllo e manutenzione, entro i successivi
+
+###### Art. 46
+
+(Controllo operazioni di bonifica e gestione del rifiuto)
+
+1\. Le ditte incaricate inviano all‘UPA e al DP, entro il 31 gennaio di ogni anno, per l‘anno precedente, una relazione che indichi:
+
+a) i tipi e i quantitativi di rifiuti di amianto che sono stati oggetto dell‘attività di bonifica e gestione del rifiuto;
+
+b) le attività svolte, i procedimenti applicati, il numero e i dati anagrafici degli addetti, il carattere e la durata delle loro attività, e le esposizioni all‘amianto alle quali sono stati sottoposti;
+
+c) le caratteristiche degli eventuali prodotti contenenti amianto;
+
+d) le misure adottate o in via di adozione ai fini della tutela della salute dei lavoratori e della tutela dell‘ambiente. 30
+
+###### Art. 47
+
+(Piano di Lavoro per attività di rimozione dell’amianto)
+
+1\. La ditta incaricata predispone un Piano di Lavoro prima dell’inizio dei lavori di rimozione dell’amianto, o dei materiali contenenti amianto, dagli edifici, strutture, apparecchi e impianti, nonché dai mezzi di trasporto.
+
+2\. Il Piano di cui al comma 1 prevede le misure necessarie per garantire la sicurezza e la salute dei lavoratori e la tutela dell’ambiente naturale. trenta giorni come da Linee Guida di cui al comma 1;
+
+b) i proprietari degli immobili con destinazione d’uso privata devono comunicare, all’UPA, i dati relativi alla presenza dei materiali di cui al presente comma e adottare le misure di controllo e bonifica come da Linee Guida di cui al comma 1.
+
+4\. Il Servizio di Igiene Urbana della AASS si attiverà per la bonifica e la gestione del rifiuto in merito a strutture private, con superfici non superiori a 25 m2, contenenti amianto in matrice compatta.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 26:
+
+L‘articolo 45 del Decreto Delegato 27 aprile 2012 n. 44 è modificato come segue:
+
+a) dopo il comma 2 è inserito il seguente comma: ―2-bis. L‘iscrizione all‘Albo di cui al comma 2 ha validità triennale ed è rinnovabile previa richiesta di rinnovo, da presentarsi almeno sessanta giorni prima della scadenza della stessa. La richiesta di rinnovo di iscrizione a tale Albo, presentata entro i termini sopra indicati, consente di procrastinare la validità fino alla deliberazione del CT.
+
+b) Il comma 4 dell‘articolo 45 del Decreto Delegato 27 aprile 2012 n.44 è abrogato.
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 46
+
+(Controllo operazioni di bonifica e gestione del rifiuto)
+
+1\. Le ditte incaricate inviano all’UPA, entro il 31 gennaio di ogni anno, per l’anno precedente, una relazione che indichi:
+
+a) i tipi e i quantitativi di rifiuti di amianto che sono stati oggetto dell’attività di bonifica e gestione del rifiuto;
+
+b) le attività svolte, i procedimenti applicati, il numero e i dati anagrafici degli addetti, il carattere e la durata delle loro attività, e le esposizioni all’amianto alle quali sono stati sottoposti;
+
+c) le caratteristiche degli eventuali prodotti contenenti amianto;
+
+d) le misure adottate o in via di adozione ai fini della tutela della salute dei lavoratori e della tutela dell’ambiente.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 27:
+
+L‘articolo 46 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 46 (Controllo operazioni di bonifica e gestione del rifiuto)
+
+1\. Le ditte incaricate inviano all‘UPA e al DP, entro il 31 gennaio di ogni anno, per l‘anno precedente, una relazione che indichi:
+
+a) i tipi e i quantitativi di rifiuti di amianto che sono stati oggetto dell‘attività di bonifica e gestione del rifiuto;
+
+b) le attività svolte, i procedimenti applicati, il numero e i dati anagrafici degli addetti, il carattere e la durata delle loro attività, e le esposizioni all‘amianto alle quali sono stati sottoposti;
+
+c) le caratteristiche degli eventuali prodotti contenenti amianto;
+
+d) le misure adottate o in via di adozione ai fini della tutela della salute dei lavoratori e della tutela dell‘ambiente.
+
+3\. Il Piano di Lavoro deve prevedere:
+
+a) la descrizione della natura dei lavori e l’indicazione della loro durata presumibile;
+
+b) l’indicazione del luogo ove i lavori verranno effettuati;
+
+c) l’indicazione delle generalità del committente;
+
+d) la descrizione delle tecniche lavorative per attuare quanto previsto dalla rimozione dell’amianto e dei materiali contenenti amianto;
+
+e) la descrizione della natura e l’indicazione della quantità dell’amianto contenuto nei materiali da rimuovere;
+
+f) la descrizione delle caratteristiche degli impianti che si intende utilizzare per attuare quanto previsto dalle misure per la protezione dei lavoratori e decontaminazione;
+
+g) la descrizione dei materiali previsti per le operazioni di rimozione;
+
+h) la descrizione degli appositi mezzi individuali di protezione forniti ai lavoratori;
+
+i) l’indicazione delle adeguate misure per la protezione dei terzi e per la gestione dei rifiuti;
+
+j) la descrizione, nel caso in cui sia previsto il superamento dei valori limite di cui all’articolo 44, delle particolari misure adottate conformemente alle esigenze specifiche del lavoro da eseguire;
+
+k) la dichiarazione di idoneità alla mansione specifica dei lavoratori addetti alla bonifica di amianto e materiali contenenti amianto;
+
+l) in allegato, il Documento di valutazione del rischio di cui all’articolo 3 della Legge 18 Febbraio 1998 n. 31.
+
+4\. Copia del Piano di Lavoro deve essere inviato al DP prima dell’inizio lavori.
+
+5\. Se il DP, acquisito il parere dell‘UPA, non rilascia prescrizioni entro venticinque giorni dall‘invio della documentazione di cui al comma 3, la ditta incaricata può eseguire i lavori, previa comunicazione scritta al DP dell‘inizio lavori e ferma restando la sua responsabilità per quanto riguarda l‘osservanza delle disposizioni del presente Capo.
+
+6\. I lavoratori o i loro rappresentanti hanno accesso alla documentazione di cui al comma 3.
+
+7\. Il Piano di Lavoro può essere compilato seguendo il modello approvato dal CT.
+
+8\. Il Piano di Lavoro deve essere coordinato e integrato con quanto previsto dal Decreto 26 febbraio 2002 n.25 ‘‘Disposizioni in materia di cantieri’’ e successive modificazioni di cui all’articolo 7, comma 2, lettera i), della Legge n. 31/1998. 31 31
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 47
+
+(Piano di Lavoro per attività di rimozione dell’amianto)
+
+1\. La ditta incaricata predispone un Piano di Lavoro prima dell’inizio dei lavori di rimozione dell’amianto, o dei materiali contenenti amianto, dagli edifici, strutture, apparecchi e impianti, nonché dai mezzi di trasporto.
+
+2\. Il Piano di cui al comma 1 prevede le misure necessarie per garantire la sicurezza e la salute dei lavoratori e la tutela dell’ambiente naturale.
+
+3\. Il Piano di Lavoro deve prevedere:
+
+a) la descrizione della natura dei lavori e l’indicazione della loro durata presumibile;
+
+b) l’indicazione del luogo ove i lavori verranno effettuati;
+
+c) l’indicazione delle generalità del committente;
+
+d) la descrizione delle tecniche lavorative per attuare quanto previsto dalla rimozione dell’amianto e dei materiali contenenti amianto;
+
+e) la descrizione della natura e l’indicazione della quantità dell’amianto contenuto nei materiali da rimuovere;
+
+f) la descrizione delle caratteristiche degli impianti che si intende utilizzare per attuare quanto previsto dalle misure per la protezione dei lavoratori e decontaminazione;
+
+g) la descrizione dei materiali previsti per le operazioni di rimozione;
+
+h) la descrizione degli appositi mezzi individuali di protezione forniti ai lavoratori;
+
+i) l’indicazione delle adeguate misure per la protezione dei terzi e per la gestione dei rifiuti;
+
+j) la descrizione, nel caso in cui sia previsto il superamento dei valori limite di cui all’articolo 44, delle particolari misure adottate conformemente alle esigenze specifiche del lavoro da eseguire;
+
+k) la dichiarazione di idoneità alla mansione specifica dei lavoratori addetti alla bonifica di amianto e materiali contenenti amianto;
+
+l) in allegato, il Documento di valutazione del rischio di cui all’articolo 3 della Legge 18 Febbraio 1998 n. 31.
+
+4\. Copia del Piano di Lavoro deve essere inviato al DP prima dell’inizio lavori.
+
+5\. Se il DP non rilascia prescrizioni entro venticinque giorni dall’invio della documentazione di cui al comma 3, la ditta
+
+###### Art. 48
+
+(Comunicazione per attività di incapsulamento e confinamento)
+
+1\. Nel caso di bonifiche che prevedano incapsulamento o confinamento, la ditta incaricata presenterà una comunicazione di inizio lavori al DP, almeno dieci giorni prima dell’inizio lavori, nella quale viene descritto il tipo di bonifica, i Dispositivi Protezione Individuali (DPI) e le procedure utilizzate.
+
+###### Art. 49
+
+(Protezione dei lavoratori)
+
+1.
+
+In tutte le attività lavorative di cui all’articolo 42, comma 2, la ditta incaricata effettua una valutazione del rischio dovuto alla polvere proveniente dall’amianto e dai materiali contenenti amianto, al fine di stabilire le misure preventive e protettive da attuare.
+
+2.
+
+La valutazione del rischio prevede l’accertamento dell’inquinamento ambientale prodotto dalla polvere proveniente dall’amianto o dai materiali contenenti amianto, individuando i punti di emissione di dette polveri ed i punti a maggior rischio delle aree lavorative, e comprende una determinazione dell’esposizione personale dei lavoratori alla polvere di amianto.
+
+3.
+
+Se l’esposizione personale dei lavoratori alla polvere di amianto, espressa come numero di fibre per centimetro cubo in rapporto ad un periodo di riferimento di otto ore, supera 0,1 fibre per centimetro cubo, la ditta incaricata attua le disposizioni dell’articolo 50.
+
+4.
+
+Nel caso di attività a carattere saltuario e qualora l’amianto sia costituito da crisotilo, la determinazione dell’esposizione personale dei lavoratori alla polvere di amianto è sostituita dalla determinazione della dose cumulata in rapporto ad un periodo di riferimento di otto ore, su un periodo di quaranta ore, misurata o calcolata ai sensi del comma 3.
+
+5.
+
+Se detta dose supera 0,5 giorni-fibra per centimetro cubo, il datore di lavoro attua le disposizioni dell’articolo 50.
+
+6.
+
+La valutazione di cui al comma 2 può prescindere dall’effettuazione di misurazioni strumentali nelle attività per le quali, a motivo delle caratteristiche delle lavorazioni effettuate o della natura e del tipo dei materiali trattati, si può fondatamente ritenere che l’esposizione dei lavoratori non supera i valori di cui ai commi precedenti. Per tale valutazione è possibile fare riferimento a dati ricavati da attività della medesima natura svolte in condizioni analoghe.
+
+7.
+
+La ditta incaricata effettua nuovamente la valutazione ogni qualvolta si verifichino nelle lavorazioni delle modifiche che possono comportare un mutamento significativo dell’esposizione dei lavoratori alla polvere proveniente dall’amianto o dai incaricata può eseguire i lavori, previa comunicazione scritta al DP dell’inizio lavori e ferma restando la sua responsabilità per quanto riguarda l’osservanza delle disposizioni del presente Capo.
+
+6\. I lavoratori o i loro rappresentanti hanno accesso alla documentazione di cui al comma 3.
+
+7\. Il Piano di Lavoro può essere compilato seguendo il modello approvato dal CT.
+
+8\. Il Piano di Lavoro deve essere coordinato e integrato con quanto previsto dal Decreto 26 febbraio 2002 n.25 ‘‘Disposizioni in materia di cantieri’’ e successive modificazioni di cui all’articolo 7, comma 2, lettera i), della Legge n. 31/1998.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 28:
+
+Il comma 5 dell‘articolo 47 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―5. Se il DP, acquisito il parere dell‘UPA, non rilascia prescrizioni entro venticinque giorni dall‘invio della documentazione di cui al comma 3, la ditta incaricata può eseguire i lavori, previa comunicazione scritta al DP dell‘inizio lavori e ferma restando la sua responsabilità per quanto riguarda l‘osservanza delle disposizioni del presente Capo.
+
+materiali contenenti amianto e, comunque, trascorsi tre anni dall’ultima valutazione effettuata.
+
+8.
+
+Nuove valutazioni sono inoltre effettuate ogni qualvolta il DP lo disponga, tramite provvedimento motivato.
+
+9.
+
+I lavoratori o i loro rappresentanti sono consultati prima dell’effettuazione della valutazione di cui al presente articolo e sono informati dei risultati riportati su un apposito registro da tenere a loro disposizione.
+
+###### Art. 50
+
+(Notifica)
+
+1\. La ditta incaricata che esercita un’attività nella quale l’esposizione dei lavoratori alla polvere di amianto risulta uguale o superiore ai valori indicati ai commi 3 o 5 dell’articolo 49, notifica al DP le risultanze della valutazione di cui allo stesso articolo, unitamente alle seguenti informazioni:
+
+a) attività svolte e procedimenti applicati;
+
+b) varietà e quantitativi annui di amianto e materiali contenenti amianto bonificati o smaltiti;
+
+c) numero di lavoratori addetti;
+
+d) misure di protezione previste, con specificazione dei criteri per la manutenzione periodica e dei sistemi di prevenzione adottati.
+
+2\. I lavoratori ovvero i loro rappresentanti hanno accesso alla documentazione oggetto della notifica di cui al comma precedente.
+
+###### Art. 51
+
+(Informazione dei lavoratori)
+
+1\. Nelle attività di cui all’articolo 42, comma 2, la ditta incaricata fornisce ai lavoratori, prima che essi siano adibiti a dette attività, nonché ai loro rappresentanti, tutte le informazioni sui rischi per la salute dovuti all’esposizione alla polvere proveniente dall’amianto o dai materiali contenenti amianto, come previsto dall’articolo 5, punto 1, della Legge n. 31/1998.
+
+###### Art. 52
+
+(Sorveglianza Sanitaria)
+
+1.
+
+La ditta incaricata provvede, a norma dell’articolo 17 Legge n. 31/1998, alla sorveglianza sanitaria dei lavoratori come previsto dall’Allegato 2 del Decreto n. 89/1999, Cod. 70.00.
+
+2.
+
+Il medico del lavoro fornisce ai lavoratori o ai loro rappresentanti adeguate informazioni sul significato delle visite mediche alle quali essi sono sottoposti e provvede, se necessario, a proseguire la sorveglianza sanitaria anche dopo la cessazione dell’attività che comporta esposizione alla polvere proveniente dall’amianto o dai materiali contenenti amianto.
+
+3.
+
+Il medico del lavoro istituisce apposita cartella di rischio ‘‘Lavoratore esposto ad amianto’’ e certifica l’idoneità alla mansione specifica di addetto alla bonifica e smaltimento di amianto e prodotti contenenti amianto. Alla cessazione dell’attività dell’azienda o del rapporto di lavoro del lavoratore, la cartella sanitaria di rischio dovrà essere inviata al DP.
+
+###### Art. 53
+
+(Misure d’emergenza)
+
+1.
+
+Se si verificano eventi che possono provocare un incremento rilevante dell’esposizione alla polvere proveniente dall’amianto o dai materiali contenenti amianto, i lavoratori devono abbandonare immediatamente la zona interessata.
+
+Potranno accedervi unicamente i lavoratori addetti ai necessari interventi, con l’obbligo di usare gli idonei mezzi di protezione.
+
+2.
+
+La ditta incaricata comunica immediatamente al DP il verificarsi di tali eventi e riferisce sulle misure adottate per ridurre al minimo le conseguenze.
+
+###### Art. 54
+
+(Operazioni lavorative particolari)
+
+1\. Nel caso di determinate operazioni lavorative per la cui natura particolare è prevedibile che l’esposizione dei lavoratori alla polvere di amianto superi i valori limite di cui all’articolo 49 e per le quali non è possibile attuare misure tecniche di prevenzione atte a limitare l’esposizione dei lavoratori, la ditta incaricata adotta adeguate misure per la protezione dei lavoratori addetti. In particolare, oltre ad applicare le misure generali indicate nei precedenti articoli:
+
+a) fornisce ai lavoratori speciali indumenti e mezzi individuali di protezione destinati ad essere usati durante tali lavori;
+
+b) provvede al rigoroso isolamento dell’area di lavoro ed all’installazione di adeguati sistemi di ricambio dell’aria con filtri assoluti;
+
+c) provvede all’affissione di appositi cartelli segnaletici, recanti la scritta:
+
+"ATTENZIONE – ZONA AD ALTO RISCHIO - POSSIBILE PRESENZA DI POLVERE DI AMIANTO IN CONCENTRAZIONE SUPERIORE AI VALORI LIMITE DI ESPOSIZIONE";
+
+d) predispone, consultando i lavoratori ovvero i loro rappresentanti, un piano di lavoro contenente tutte le misure destinate a garantire la protezione dei lavoratori e dell’ambiente e lo trasmette preventivamente al DP.
+
+#### CAPO III
+
+FORMAZIONE E INFORMAZIONE DEL PERSONALE IN MERITO AL RISCHIO AMIANTO
+
+###### Art.55
+
+(Disposizioni generali)
+
+1\. Il datore di lavoro ha l’obbligo di provvedere affinché i lavoratori ricevano adeguate informazioni e formazione ai sensi di quanto previsto all’articolo 45, comma 2, terzo periodo.
+
+2\. Le attività di informazione e formazione di cui al comma precedente si articolano secondo la seguente gerarchia e tipologia di iniziative strutturate in relazione al livello professionale del personale a cui sono diretti:
+
+a) operativo, rivolto ai lavoratori addetti alle attività di bonifica;
+
+b) gestionale, rivolto a chi dirige sul posto le attività di bonifica.
+
+3\. Le attività di formazione possono essere erogate da enti pubblici o privati attraverso lo svolgimento di appositi corsi ed è compito del DP accertare l’idoneità e la validità dei corsi stessi. In particolare il DP deve:
+
+a) verificare la congruità dei percorsi formativi in termini di durata, argomenti trattati e professionalità dei docenti;
+
+b) disporre eventuali integrazioni e modifiche ai programmi dei percorsi formativi, qualora necessarie;
+
+c) garantire il supporto tecnico-scientifico alla messa in atto di detti percorsi;
+
+d) rilasciare il certificato di idoneità all’ente erogante il corso.
+
+###### Art. 56
+
+(Corsi di livello operativo)
+
+1\. I corsi di livello operativo sono strutturati per i lavoratori addetti alle attività di bonifica di edifici, impianti, strutture, manufatti in genere contenenti amianto.
+
+2\. I corsi di livello operativo sono finalizzati all’acquisizione da parte del lavoratore di dati, informazioni, disposizioni, relative al rischio derivante da attività lavorativa concernente la bonifica e lo smaltimento dei materiali contenenti amianto, nonché all’uso corretto dei sistemi di protezione e al rispetto delle procedure organizzative e operative.
+
+3\. I corsi di cui al presente articolo devono prevedere la trattazione almeno dei seguenti argomenti:
+
+a) rischi per la salute causati dall’esposizione a fibre di amianto;
+
+b) sistemi di prevenzione con particolare riguardo all’uso corretto dei mezzi di protezione respiratoria;
+
+c) finalità della sorveglianza sanitaria dei lavoratori;
+
+d) corrette procedure di lavoro nelle attività di gestione e smaltimento rifiuti.
+
+4\. I corsi di livello operativo hanno durata minima di trenta ore.
+
+###### Art. 57
+
+(Corsi di livello gestionale)
+
+1\. I corsi di livello gestionale sono strutturati per i professionisti addetti alle attività organizzative, operative e gestionali dei rifiuti nell’ambito dei lavori di bonifica di edifici, impianti, strutture, manufatti in genere contenenti amianto.
+
+2\. I corsi di livello gestionale sono finalizzati all’acquisizione delle responsabilità e all’apprendimento dei compiti di direzione delle attività, dei sistemi di controllo e di collaudo, dei criteri di scelta dei sistemi di protezione nonché alla conoscenza delle procedure organizzative e operative delle varie attività.
+
+3\. I corsi di cui al presente articolo prevedono la trattazione almeno dei seguenti argomenti:
+
+a) rischi per la salute causati dall’esposizione a fibre di amianto;
+
+b) normative per la protezione dei lavoratori: obblighi e responsabilità dei diversi soggetti, rapporti con l’organo di vigilanza;
+
+c) normative per la tutela dell’ambiente: obblighi e responsabilità dei diversi soggetti, rapporti con l’organo di vigilanza;
+
+d) gestione degli strumenti informativi previsti dalle norme vigenti;
+
+e) metodi di misura delle fibre di amianto;
+
+f) criteri, sistemi e apparecchiature per la prevenzione dell’inquinamento ambientale e la protezione collettiva dei lavoratori (isolamento delle aree di lavoro, unità di decontaminazione, estrattori e sistemi di depressione);
+
+g) dispositivi di protezione individuale e altre attrezzature di sicurezza, ivi compresi il loro controllo e manutenzione;
+
+h) corrette procedure di lavoro nelle attività di manutenzione, controllo, bonifica e gestione del rifiuto;
+
+i) prevenzione e gestione degli incidenti e delle situazioni di emergenza;
+
+l) finalità della sorveglianza sanitaria dei lavoratori.
+
+4\. I corsi di livello gestionale hanno durata minima di cinquanta ore.
+
+5\. Possono partecipare ai corsi di cui al presente articolo le seguenti figure professionali:
+
+a) ingegnere, architetto, medico, biologo, geologo, nel rispetto dei rispettivi ordinamenti professionali, ovvero soggetto in possesso di laurea o diploma di laurea, legalmente riconosciuta, in materia tecnica o scientifica;
+
+b) geometra, perito, nel rispetto dei rispettivi ordinamenti professionali, ovvero soggetto in possesso di diploma di scuola secondaria superiore, legalmente riconosciuta, in materia tecnica o scientifica.
+
+###### Art. 58
+
+(Rilascio del titolo di abilitazione)
+
+1.
+
+Il rilascio dei titoli di abilitazione attestanti il superamento dei corsi di cui agli articoli 56 e 57 avviene da parte dell’ente erogatore del percorso formativo previo esame finale volto a verificare l’acquisizione degli elementi di base relativi agli argomenti trattati con riferimenti specifici alle attività cui saranno addetti i partecipanti ai corsi.
+
+2.
+
+La commissione d’esame è costituita da un numero dispari di componenti, scelti fra i docenti dei corsi stessi, e deve comprendere un dipendente del DP.
+
+###### Art. 59
+
+(Riconoscimento del titolo di abilitazione)
+
+1\. Sono esentati dalla partecipazione ai corsi le persone che abbiano frequentato analoghi percorsi formativi riconosciuti dalle competenti autorità italiane, previo accertamento da parte del DP della compatibilità dei suddetti corsi con le prescrizioni di cui ai superiori articoli 56 e 57.
+
+#### CAPO IV
+
+SISTEMA SANZIONATORIO
+
+###### Art. 60
+
+(Sanzioni)
+
+1.
+
+Salvo che il fatto costituisca reato, l’inosservanza degli obblighi concernenti l’articolo 42, comma 1 è punita con la sanzione amministrativa da € 5.000,00 a €
+
+50.000,00.
+
+2.
+
+La mancata adozione delle misure idonee a garantire il rispetto dei valori limite di cui all’articolo 44, è punita con la sanzione amministrativa da € 1.500,00 a €
+
+3.500,00.
+
+3.
+
+La mancata iscrizione all’Albo di cui all’articolo 45, comma 2, e dell’invio della relazione annuale, di cui all’articolo 46, sono punite con la sanzione amministrativa da € 500,00 a € 1.500,00.
+
+4.
+
+Il titolare della ditta addetta alla bonifica è punito con sanzione amministrativa da € 1.500,00 a € 3.000,00 qualora adibisca allo svolgimento di mansioni di bonifica e smaltimento di Amianto e materiali contenenti amianto lavoratori sprovvisti del titolo di abilitazione di cui all’articolo 45, comma 2, terzo periodo.
+
+5.
+
+La mancata iscrizione al Registro e la mancata comunicazione di cui all’articolo 45, comma 3 nonché la mancata presentazione del Piano di Lavoro, di cui all’articolo 47, sono puniti con la sanzione amministrativa da € 500,00 ad € 1.500,00.
+
+6.
+
+La mancata comunicazione di cui all’articolo 48 nonché l’inosservanza degli obblighi di informazione derivanti dagli articoli 49 e 51 sono puniti con la sanzione amministrativa da € 1.000,00 a € 3.500,00.
+
+7.
+
+L’inosservanza degli obblighi concernenti l’articolo 52 è punita con la sanzione amministrativa da € 1.500,00 a € 3.500,00.
+
+8.
+
+L’inosservanza degli obblighi concernenti l’articolo 54 è punita con la sanzione amministrativa da € 3.500,00 a € 5.000,00.
+
+9.
+
+Fatto salvo quanto previsto al comma successivo, la facoltà di oblazione volontaria di cui all’articolo 33 della Legge 28 giugno 1989 n.68 è ammessa mediante il pagamento della metà della sanzione irrogata.
+
+10.
+
+In caso di recidiva alle violazioni amministrative di cui ai commi precedenti la sanzione amministrativa viene aumentata fino a tre volte tanto nel minimo quanto nel massimo, tenuto conto della gravità dell’infrazione e non è ammesso l’esercizio della facoltà di oblazione volontaria di cui all’articolo 33 della Legge n.68/1989. In caso di recidiva, inoltre, la CTA, viste le istruttorie e gli accertamenti degli Uffici e Servizi competenti, propone alla Segreteria di Stato per il Territorio, l’Ambiente e l’Agricoltura di attivare le opportune azioni tese alla cessazione e revoca delle autorizzazioni dell’attività delle imprese interessate.
+
+11.
+
+E’ recidivo chi, nei cinque anni precedenti l’ultima violazione, risulta aver commesso la medesima violazione amministrativa.
+
+12.
+
+L’emissione delle sanzioni amministrative di cui ai commi precedenti è di competenza del DP ad eccezione della sanzione di cui al comma 2, qualora la stessa sia riferita al superamento dei valori limite di cui all’articolo 44, comma 3 nel quale caso la competenza all’emissione della sanzione spetta all’UPA.
+
+### TITOLO IV 32
+
+NORME IN MATERIA DI TUTELA DELLE ACQUE DALL’INQUINAMENTO E GESTIONE DELLE RISORSE IDRICHE
+
+#### CAPO I
+
+DISPOSIZIONI GENERALI
+
+###### Art. 61
+
+(Finalità)
+
+1\. Le disposizioni di cui al presente Titolo definiscono la disciplina generale per la tutela delle acque superficiali e sotterranee perseguendo i seguenti obiettivi:
+
+a) prevenire e ridurre l’inquinamento e attuare il risanamento dei corpi idrici inquinati;
+
+b) conseguire il miglioramento dello stato delle acque ed adeguate protezioni di quelle destinate a particolari usi;
+
+c) perseguire usi sostenibili e durevoli delle risorse idriche, con priorità per quelle potabili;
+
+d) mantenere la capacità naturale di autodepurazione dei corpi idrici, nonché la Decreto Delegato 31 gennaio 2017 n. 16, Art. 70:
+
+Il Regolamento (CE) n.1013/2006 richiamato al Titolo II del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni.
+
+La Direttiva 2000/60/CE e la Direttiva 1998/83/CE richiamate al Titolo IV del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, devono intendersi rispettivamente Direttiva 2000/60/CE e successive modifiche ed integrazioni e Direttiva 1998/83/CE e successive modifiche ed integrazioni.
+
+La Direttiva 2008/50/CE richiamata al Titolo V del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Direttiva 2008/60/CE e successive modifiche ed integrazioni.
+
+La Direttiva 2004/35/CE richiamata al Titolo VIII del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Direttiva 2004/35/CE e successive modifiche ed integrazioni.
+
+capacità di sostenere comunità animali e vegetali ampie e ben diversificate;
+
+e) mitigare gli effetti di eventi atmosferici estremi contribuendo quindi a:
+
+1) garantire una fornitura sufficiente di acque superficiali e sotterranee di buona qualità per un utilizzo idrico sostenibile, equilibrato ed equo;
+
+2) ridurre in modo significativo l’inquinamento delle acque;
+
+f) proteggere e migliorare lo stato degli ecosistemi acquatici, degli ecosistemi terrestri e delle zone umide direttamente dipendenti dagli ecosistemi acquatici sotto il profilo del fabbisogno idrico ed impedirne il deterioramento; f-bis) prevenire i fenomeni di dissesto idrogeologico e danni da alluvione agli elementi esposti.
+
+2\. Il raggiungimento degli obiettivi indicati al comma 1 si realizza principalmente attraverso i seguenti strumenti:
+
+a) l’individuazione di obiettivi di qualità ambientale e per specifica destinazione dei corpi idrici;
+
+b) il rispetto dei valori limite agli scarichi fissati dallo Stato, nonché la definizione di valori limite in relazione agli obiettivi di qualità del corpo recettore;
+
+c) l’adeguamento dei sistemi di fognatura, collettamento e depurazione degli scarichi idrici, nell’ambito del servizio idrico integrato;
+
+d) l’individuazione di misure per la prevenzione e la riduzione dell’inquinamento nelle zone vulnerabili e nelle aree sensibili;
+
+e) l’individuazione di misure tese alla conservazione, al risparmio, al riutilizzo ed al riciclo delle risorse idriche;
+
+f) l’adozione di misure per la graduale riduzione degli scarichi, delle emissioni e di ogni altra fonte di inquinamento diffuso contenente sostanze pericolose;
+
+g) l’adozione delle misure volte al controllo degli scarichi e delle emissioni nelle acque superficiali secondo un approccio combinato; g-bis) il risanamento idrogeologico.
+
+3\. Il perseguimento delle finalità e l’utilizzo degli strumenti di cui ai commi 1 e 2, nell’ambito delle risorse finanziarie previste dalla legislazione vigente, contribuiscono a proteggere le acque del territorio della Repubblica di San Marino e dei bacini imbriferi connessi. 33 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art.61
+
+(Finalità)
+
+1\. Le disposizioni di cui al presente Titolo definiscono la disciplina generale per la tutela delle acque superficiali e sotterranee perseguendo i seguenti obiettivi:
+
+a) prevenire e ridurre l’inquinamento e attuare il risanamento dei corpi idrici inquinati;
+
+b) conseguire il miglioramento dello stato delle acque ed adeguate protezioni di quelle destinate a particolari usi;
+
+c) perseguire usi sostenibili e durevoli delle risorse idriche, con priorità per quelle potabili;
+
+d) mantenere la capacità naturale di autodepurazione dei corpi idrici, nonché la capacità di sostenere comunità animali e vegetali ampie e ben diversificate;
+
+e) mitigare gli effetti di eventi atmosferici estremi contribuendo quindi a:
+
+1) garantire una fornitura sufficiente di acque superficiali e sotterranee di buona qualità per un utilizzo idrico sostenibile, equilibrato ed equo;
+
+2) ridurre in modo significativo l’inquinamento delle acque;
+
+f) proteggere e migliorare lo stato degli ecosistemi acquatici, degli ecosistemi terrestri e delle zone umide direttamente dipendenti dagli ecosistemi acquatici sotto il profilo del fabbisogno idrico ed impedirne il deterioramento.
+
+2\. Il raggiungimento degli obiettivi indicati al comma 1 si realizza principalmente attraverso i seguenti strumenti:
+
+a) l’individuazione di obiettivi di qualità ambientale e per specifica destinazione dei corpi idrici;
+
+b) il rispetto dei valori limite agli scarichi fissati dallo Stato, nonché la definizione di valori limite in relazione agli obiettivi di qualità del corpo recettore;
+
+c) l’adeguamento dei sistemi di fognatura, collettamento e depurazione degli scarichi idrici, nell’ambito del servizio idrico integrato;
+
+d) l’individuazione di misure per la prevenzione e la riduzione dell’inquinamento nelle zone vulnerabili e nelle aree sensibili;
+
+e) l’individuazione di misure tese alla conservazione, al risparmio, al riutilizzo ed al riciclo delle risorse idriche;
+
+f) l’adozione di misure per la graduale riduzione degli scarichi, delle emissioni e di ogni altra fonte di inquinamento diffuso contenente sostanze pericolose;
+
+g) l’adozione delle misure volte al controllo degli scarichi e delle emissioni nelle acque superficiali secondo un approccio
+
+###### Art. 62
+
+(Definizioni)
+
+1\. Ai fini del presente Titolo si intende per:
+
+a) abitante equivalente: il carico organico biodegradabile avente una richiesta biochimica di ossigeno a 5 giorni (BOD5) pari a 60 grammi di ossigeno al giorno;
+
+b) acque dolci: le acque che si presentano in natura con una concentrazione di sali tale da essere considerate appropriate per l’estrazione e il trattamento al fine di produrre acqua potabile;
+
+c) acque reflue domestiche: acque reflue provenienti da insediamenti di tipo residenziale e da servizi e derivanti prevalentemente dal metabolismo umano e da attività domestiche;
+
+d) acque reflue industriali: qualsiasi tipo di acque reflue scaricate da edifici od impianti in cui si svolgono attività commerciali o di produzione di beni, diverse dalle acque reflue domestiche e dalle acque meteoriche di dilavamento;
+
+e) acque reflue urbane: acque reflue domestiche o il miscuglio di acque reflue domestiche, di acque reflue industriali ovvero meteoriche di dilavamento convogliate in reti fognarie, anche separate, e provenienti da agglomerato;
+
+f) acque sotterranee: tutte le acque che si trovano al di sotto della superficie del suolo, nella zona di saturazione e in diretto contatto con il suolo e il sottosuolo;
+
+g) acque meteoriche di dilavamento: acque piovane che depositatesi al suolo dilavano le superfici ed attingono indirettamente i corpi recettori;
+
+h) agglomerato: l’area in cui la popolazione, ovvero le attività produttive, sono concentrate in misura tale da rendere ammissibile, sia tecnicamente che economicamente in rapporto anche ai benefici ambientali conseguibili, la raccolta e il convogliamento delle acque reflue urbane verso un sistema di trattamento o verso un punto di recapito finale;
+
+i) applicazione al terreno: l’apporto di materiale al terreno mediante spandimento e/o mescolamento con gli strati superficiali, iniezione, interramento;
+
+l) utilizzazione agronomica: la gestione di effluenti di allevamento, acque di vegetazione residuate dalla lavorazione delle olive, acque reflue provenienti da aziende agricole e piccole aziende agro-alimentari, dalla loro produzione fino all’applicazione al terreno ovvero al loro utilizzo irriguo o fertirriguo, finalizzati all’utilizzo delle sostanze nutritive e ammendanti nei medesimi contenute;
+
+m) gestore del servizio idrico integrato: il soggetto che gestisce il servizio idrico integrato ovvero il gestore del servizio pubblico (AASS). Il servizio idrico integrato é costituito dall’insieme dei servizi pubblici di captazione, adduzione e distribuzione di acqua ad usi civili, di fognatura e di depurazione delle acque reflue, e deve essere gestito secondo principi di efficienza, efficacia ed economicità, nel rispetto delle norme nazionali e comunitarie; combinato.
+
+3\. Il perseguimento delle finalità e l’utilizzo degli strumenti di cui ai commi 1 e 2, nell’ambito delle risorse finanziarie previste dalla legislazione vigente, contribuiscono a proteggere le acque del territorio della Repubblica di San Marino e dei bacini imbriferi connessi.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 29:
+
+L‘articolo 61 del Decreto Delegato 27 aprile 2012 n. 44 è modificato come segue:
+
+a) al comma 1, dopo la lettera f) è aggiunta la seguente lettera: ―f-bis) prevenire i fenomeni di dissesto idrogeologico e danni da alluvione agli elementi esposti.
+
+b) al comma 2, dopo la lettera g) è aggiunta la seguente lettera: ―g-bis) il risanamento idrogeologico.
+
+n)
+
+o)
+
+bestiame: tutti gli animali allevati per uso o profitto; composto azotato: qualsiasi sostanza contenente azoto, escluso quello allo stato molecolare gassoso;
+
+p) concimi chimici: qualsiasi fertilizzante prodotto mediante procedimento industriale;
+
+q) effluente di allevamento: le deiezioni del bestiame o una miscela di lettiera e di deiezione di bestiame, anche sotto forma di prodotto trasformato;
+
+r) eutrofizzazione: arricchimento delle acque di nutrienti, in particolare modo di composti dell’azoto e/o del fosforo, che provoca una abnorme proliferazione di alghe e/o di forme superiori di vita vegetale, producendo la perturbazione dell’equilibrio degli organismi presenti nell’acqua e della qualità delle acque interessate;
+
+s) fertilizzante: le sostanze contenenti uno o più composti azotati, compresi gli effluenti di allevamento, i residui degli allevamenti ittici e i fanghi, sparse sul terreno per stimolare la crescita della vegetazione;
+
+t) fanghi: i fanghi residui, trattati o non trattati, provenienti dagli impianti di trattamento delle acque reflue urbane, domestiche, industriali;
+
+u) inquinamento: l’introduzione diretta o indiretta, a seguito di attività umana, di sostanze o di calore nell’aria, nell’acqua o nel terreno che possono nuocere alla salute umana o alla qualità degli ecosistemi acquatici o degli ecosistemi terrestri che dipendono direttamente da ecosistemi acquatici, perturbando, deturpando o deteriorando i valori ricreativi o altri legittimi usi dell’ambiente;
+
+v) rete fognaria: il sistema di canalizzazioni, generalmente sotterranee, per la raccolta e il convogliamento delle acque reflue domestiche, industriali ed urbane fino al recapito finale;
+
+z) fognatura separata: la rete fognaria costituita da due canalizzazioni, la prima delle quali adibita alla raccolta ed al convogliamento delle sole acque meteoriche di dilavamento, e dotata o meno di dispositivi per la raccolta e la separazione delle acque di prima pioggia, e la seconda adibita alla raccolta ed al convogliamento delle acque reflue urbane unitamente alle eventuali acque di prima pioggia;
+
+aa) scarico: qualsiasi immissione effettuata esclusivamente tramite un sistema stabile di collettamento che collega senza soluzione di continuità il ciclo di produzione del refluo con il corpo recettore quale acque superficiali, suolo, sottosuolo e rete fognaria, indipendentemente dalla loro natura inquinante, anche sottoposte a preventivo trattamento di depurazione;
+
+bb) acque di scarico: tutte le acque reflue provenienti da uno scarico;
+
+cc) scarichi esistenti: gli scarichi di acque reflue urbane, gli scarichi di acque reflue domestiche e gli scarichi di acque reflue industriali che alla data di entrata in vigore del presente Codice sono in esercizio, conformi al regime autorizzativo previgente e autorizzati;
+
+dd) trattamento appropriato: il trattamento delle acque reflue urbane mediante un processo ovvero un sistema di smaltimento che, dopo lo scarico, garantisca la conformità dei corpi idrici recettori ai relativi obiettivi di qualità ovvero sia conforme alle disposizioni del Capo III;
+
+ee) trattamento primario: il trattamento delle acque reflue che comporti la sedimentazione dei solidi sospesi mediante processi fisici e/o chimico-fisici e/o altri, a seguito dei quali prima dello scarico il BOD5 delle acque in trattamento sia ridotto almeno del 20 per cento ed i solidi sospesi totali almeno del 50 per cento;
+
+ff) trattamento secondario: il trattamento delle acque reflue mediante un processo che in genere comporta il trattamento biologico con sedimentazione secondaria, o mediante altro processo in cui vengano comunque rispettati i requisiti di cui alla
+
+Tabella 1/J dell’Allegato J del presente Codice;
+
+gg) stabilimento industriale, stabilimento: tutta l’area sottoposta al controllo di un unico gestore, nella quale si svolgono attività commerciali o industriali che comportano la produzione, la trasformazione e/o l’utilizzazione delle sostanze potenzialmente inquinanti ovvero qualsiasi altro processo produttivo che comporti la presenza di tali sostanze nello scarico. Si configura come attività da cui origina lo scarico;
+
+hh) valore limite di emissione: limite di accettabilità di una sostanza inquinante contenuta in uno scarico, misurata in concentrazione;
+
+ii) zone vulnerabili: zone di territorio che scaricano direttamente o indirettamente composti azotati di origine agricola o zootecnica in acque già inquinate o che potrebbero esserlo in conseguenza di tali tipi di scarichi;
+
+ll) acque destinate al consumo umano: tutte le acque, qualunque sia l’origine, che dopo eventuali trattamenti, sono fornite al consumo umano ovvero sono utilizzate mediante incorporazione o contatto, nella manipolazione di prodotti o sostanze destinate al consumo umano;
+
+mm) acque superficiali: le acque interne ad eccezione di quelle sotterranee;
+
+nn) acque interne: tutte le acque superficiali correnti o stagnanti, e tutte le acque sotterranee all’interno del territorio della Repubblica di San Marino;
+
+oo) fiume: un corpo idrico interno che scorre prevalentemente in superficie ma che può essere parzialmente sotterraneo;
+
+pp) lago: un corpo idrico superficiale interno fermo;
+
+qq) corpo idrico artificiale: un corpo idrico superficiale creato da un’attività umana;
+
+rr) corpo idrico fortemente modificato: un corpo idrico superficiale la cui natura, a seguito di alterazioni fisiche dovute ad un’attività umana, è sostanzialmente modificata;
+
+ss) corpo idrico superficiale: un elemento distinto e significativo di acque superficiali, quale un lago, un bacino artificiale, un torrente, fiume o canale, parte di un torrente o fiume;
+
+tt) falda acquifera: uno o più strati sotterranei di roccia o altri strati geologici di porosità e permeabilità sufficiente da consentire un flusso significativo di acque sotterranee o l’estrazione di quantità significative di acque sotterranee;
+
+uu) corpo idrico sotterraneo: un volume distinto di acque sotterranee contenute da una o più falde acquifere;
+
+vv) sostanze pericolose: le sostanze o gruppi di sostanze tossiche, persistenti e bioaccumulabili e altre sostanze o gruppi di sostanze che danno adito a preoccupazioni analoghe;
+
+zz) sostanze prioritarie e sostanze pericolose prioritarie: le sostanze individuate con disposizioni comunitarie ai sensi dell’articolo 16 della Direttiva 2000/60/CE;
+
+aaa) inquinante: qualsiasi sostanza che possa inquinare;
+
+bbb) immissione diretta nelle acque sotterranee: l’immissione di inquinanti nelle acque sotterranee senza infiltrazione attraverso il suolo o il sottosuolo;
+
+ccc) standard di qualità ambientale: la concentrazione di un particolare inquinante o gruppo di inquinanti nelle acque, nei sedimenti e nel biota che non deve essere superata per tutelare la salute umana e l’ambiente;
+
+ddd) servizi idrici: tutti i servizi che forniscono alle famiglie, agli enti pubblici o a qualsiasi attività economica:
+
+1) estrazione, arginamento, stoccaggio, trattamento e distribuzione, di acque superficiali o sotterranee;
+
+2) strutture per la raccolta e il trattamento delle acque reflue, che successivamente scaricano nelle acque superficiali;
+
+eee) utilizzo delle acque: i servizi idrici unitamente agli altri usi risultanti dall’attività conoscitiva di cui al Capo VI che incidono in modo significativo sullo stato delle acque;
+
+fff) controlli delle emissioni: i controlli che comportano una limitazione specifica delle emissioni, ad esempio un valore limite delle emissioni, oppure che definiscono altrimenti limiti o condizioni in merito agli effetti, alla natura o ad altre caratteristiche di un’emissione o condizioni operative che influiscono sulle emissioni;
+
+ggg) costi ambientali: i costi legati ai danni che l’utilizzo stesso delle risorse idriche causa all’ambiente, agli ecosistemi e a coloro che usano l’ambiente;
+
+hhh) costi della risorsa: i costi delle mancate opportunità imposte ad altri utenti in conseguenza dello sfruttamento intensivo delle risorse al di là del loro livello di ripristino e ricambio naturale;
+
+iii) impianto: per quanto riguarda la materia del presente Titolo, l’unità tecnica permanente in cui sono svolte una o più attività, che siano tecnicamente connesse con le attività svolte in uno stabilimento e possano influire sulle emissioni e sull’inquinamento;
+
+lll) recettori: ai sensi di questo Titolo si intendono come recettori il suolo, il sottosuolo, le acque superficiali, le reti fognarie. lll-bis) reticolo idrografico: l'insieme degli elementi che costituiscono il sistema drenante alveato del bacino idrografico; lll-ter) bacino idrografico: il territorio nel quale scorrono tutte le acque superficiali attraverso una serie di torrenti, fiumi ed eventualmente laghi per sfociare al mare in un‘unica foce, a estuario o delta; lll-quater) sottobacino o sub-bacino: il territorio nel quale scorrono tutte le acque superficiali attraverso una serie di torrenti, fiumi ed eventualmente laghi per sfociare in un punto specifico di un corso d'acqua, di solito un lago o la confluenza di un fiume; lll-quinquies) difesa del suolo: il complesso delle azioni ed attività riferibili alla tutela e salvaguardia del territorio, dei fiumi, dei canali e collettori, degli specchi lacuali, delle acque sotterranee, nonché del territorio a questi connessi, aventi le finalità di ridurre il rischio idraulico, stabilizzare i fenomeni di dissesto geologico, ottimizzare l'uso e la gestione del patrimonio idrico, valorizzare le caratteristiche ambientali e paesaggistiche collegate; lll-sexies) dissesto idrogeologico: la condizione che caratterizza aree ove processi naturali o antropici, relativi alla dinamica dei corpi idrici, del suolo o dei versanti, determinano condizioni di rischio sul territorio; lll-septies) opera idraulica: l'insieme degli elementi che costituiscono il sistema drenante alveato del bacino idrografico; lll-octies) alluvione: l'allagamento temporaneo di aree che abitualmente non sono coperte da acqua. Ciò include le inondazioni causate da fiumi e può escludere gli allagamenti causati dagli impianti fognari; lll-nonies) rischio di alluvioni: la combinazione della probabilità di un evento alluvionale e delle potenziali conseguenze negative per la salute umana, l'ambiente, il patrimonio culturale e l'attività economica derivanti da tale evento.
+
+2\. Ai fini del presente Titolo si intendono, altresì, integralmente recepite le definizioni di cui alla Direttiva 2000/60/CE e successive modifiche ed integrazioni.34 35
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 62
+
+(Definizioni)
+
+1\. Ai fini del presente Titolo si intende per:
+
+a) abitante equivalente: il carico organico biodegradabile avente una richiesta biochimica di ossigeno a 5 giorni (BOD5) pari a 60 grammi di ossigeno al giorno;
+
+b)
+
+acque dolci: le acque che si presentano in natura con una concentrazione di sali tale da essere considerate appropriate per l’estrazione e il trattamento al fine di produrre acqua potabile;
+
+c) acque reflue domestiche: acque reflue provenienti da insediamenti di tipo residenziale e da servizi e derivanti prevalentemente dal metabolismo umano e da attività domestiche;
+
+d) acque reflue industriali: qualsiasi tipo di acque reflue scaricate da edifici od impianti in cui si svolgono attività commerciali o di produzione di beni, diverse dalle acque reflue domestiche e dalle acque meteoriche di dilavamento;
+
+e) acque reflue urbane: acque reflue domestiche o il miscuglio di acque reflue domestiche, di acque reflue industriali ovvero meteoriche di dilavamento convogliate in reti fognarie, anche separate, e provenienti da agglomerato;
+
+f) acque sotterranee: tutte le acque che si trovano al di sotto della superficie del suolo, nella zona di saturazione e in diretto contatto con il suolo e il sottosuolo;
+
+g) acque meteoriche di dilavamento: acque piovane che depositatesi al suolo dilavano le superfici ed attingono indirettamente i corpi recettori;
+
+h) agglomerato: l’area in cui la popolazione, ovvero le attività produttive, sono concentrate in misura tale da rendere ammissibile, sia tecnicamente che economicamente in rapporto anche ai benefici ambientali conseguibili, la raccolta e il convogliamento delle acque reflue urbane verso un sistema di trattamento o verso un punto di recapito finale;
+
+i) applicazione al terreno: l’apporto di materiale al terreno mediante spandimento e/o mescolamento con gli strati superficiali, iniezione, interramento;
+
+l) utilizzazione agronomica: la gestione di effluenti di allevamento, acque di vegetazione residuate dalla lavorazione delle olive, acque reflue provenienti da aziende agricole e piccole aziende agro-alimentari, dalla loro produzione fino all’applicazione al terreno ovvero al loro utilizzo irriguo o fertirriguo, finalizzati all’utilizzo delle sostanze nutritive e ammendanti nei medesimi contenute;
+
+m) gestore del servizio idrico integrato: il soggetto che gestisce il servizio idrico integrato ovvero il gestore del servizio pubblico (AASS). Il servizio idrico integrato é costituito dall’insieme dei servizi pubblici di captazione, adduzione e distribuzione di acqua ad usi civili, di fognatura e di depurazione delle acque reflue, e deve essere gestito secondo principi di efficienza, efficacia ed economicità, nel rispetto delle norme nazionali e comunitarie;
+
+n) bestiame: tutti gli animali allevati per uso o profitto;
+
+o) composto azotato: qualsiasi sostanza contenente azoto, escluso quello allo stato molecolare gassoso;
+
+p) concimi chimici: qualsiasi fertilizzante prodotto mediante procedimento industriale;
+
+q) effluente di allevamento: le deiezioni del bestiame o una miscela di lettiera e di deiezione di bestiame, anche sotto forma di prodotto trasformato;
+
+r) eutrofizzazione: arricchimento delle acque di nutrienti, in particolare modo di composti dell’azoto e/o del fosforo, che provoca una abnorme proliferazione di alghe e/o di forme superiori di vita vegetale, producendo la perturbazione dell’equilibrio degli organismi presenti nell’acqua e della qualità delle acque interessate;
+
+s) fertilizzante: le sostanze contenenti uno o più composti azotati, compresi gli effluenti di allevamento, i residui degli allevamenti ittici e i fanghi, sparse sul terreno per stimolare la crescita della vegetazione;
+
+t) fanghi: i fanghi residui, trattati o non trattati, provenienti dagli impianti di trattamento delle acque reflue urbane, domestiche, industriali;
+
+u) inquinamento: l’introduzione diretta o indiretta, a seguito di attività umana, di sostanze o di calore nell’aria, nell’acqua o nel terreno che possono nuocere alla salute umana o alla qualità degli ecosistemi acquatici o degli ecosistemi terrestri che dipendono direttamente da ecosistemi acquatici, perturbando, deturpando o deteriorando i valori ricreativi o altri legittimi usi dell’ambiente;
+
+v) rete fognaria: il sistema di canalizzazioni, generalmente sotterranee, per la raccolta e il convogliamento delle acque reflue domestiche, industriali ed urbane fino al recapito finale;
+
+z) fognatura separata: la rete fognaria costituita da due canalizzazioni, la prima delle quali adibita alla raccolta ed al convogliamento delle sole acque meteoriche di dilavamento, e dotata o meno di dispositivi per la raccolta e la separazione delle acque di prima pioggia, e la seconda adibita alla raccolta ed al convogliamento delle acque reflue urbane unitamente alle eventuali acque di prima pioggia;
+
+aa) scarico: qualsiasi immissione effettuata esclusivamente tramite un sistema stabile di collettamento che collega senza soluzione di continuità il ciclo di produzione del refluo con il corpo recettore quale acque superficiali, suolo, sottosuolo e rete fognaria, indipendentemente dalla loro natura inquinante, anche sottoposte a preventivo trattamento di depurazione;
+
+bb) acque di scarico: tutte le acque reflue provenienti da uno scarico;
+
+cc) scarichi esistenti: gli scarichi di acque reflue urbane, gli scarichi di acque reflue domestiche e gli scarichi di acque reflue industriali che alla data di entrata in vigore del presente Codice sono in esercizio, conformi al regime autorizzativo previgente e autorizzati;
+
+dd) trattamento appropriato: il trattamento delle acque reflue urbane mediante un processo ovvero un sistema di smaltimento che, dopo lo scarico, garantisca la conformità dei corpi idrici recettori ai relativi obiettivi di qualità ovvero sia conforme alle disposizioni del Capo III;
+
+ee) trattamento primario: il trattamento delle acque reflue che comporti la sedimentazione dei solidi sospesi mediante processi fisici e/o chimico-fisici e/o altri, a seguito dei quali prima dello scarico il BOD5 delle acque in trattamento sia ridotto almeno del 20 per cento ed i solidi sospesi totali almeno del 50 per cento;
+
+ff) trattamento secondario: il trattamento delle acque reflue mediante un processo che in genere comporta il trattamento biologico con sedimentazione secondaria, o mediante altro processo in cui vengano comunque rispettati i requisiti di cui alla Tabella 1/J dell’Allegato J del presente Codice;
+
+gg) stabilimento industriale, stabilimento: tutta l’area sottoposta al controllo di un unico gestore, nella quale si svolgono attività commerciali o industriali che comportano la produzione, la trasformazione e/o l’utilizzazione delle sostanze potenzialmente inquinanti ovvero qualsiasi altro processo produttivo che comporti la presenza di tali sostanze nello scarico. Si configura come attività da cui origina lo scarico;
+
+hh) valore limite di emissione: limite di accettabilità di una sostanza inquinante contenuta in uno scarico, misurata in
+
+concentrazione; zone vulnerabili: zone di territorio che scaricano direttamente o indirettamente composti azotati di origine agricola o zootecnica in acque già inquinate o che potrebbero esserlo in conseguenza di tali tipi di scarichi;
+
+ll) acque destinate al consumo umano: tutte le acque, qualunque sia l’origine, che dopo eventuali trattamenti, sono fornite al consumo umano ovvero sono utilizzate mediante incorporazione o contatto, nella manipolazione di prodotti o sostanze destinate al consumo umano;
+
+mm) acque superficiali: le acque interne ad eccezione di quelle sotterranee;
+
+nn) acque interne: tutte le acque superficiali correnti o stagnanti, e tutte le acque sotterranee all’interno del territorio della Repubblica di San Marino;
+
+oo) fiume: un corpo idrico interno che scorre prevalentemente in superficie ma che può essere parzialmente sotterraneo;
+
+pp) lago: un corpo idrico superficiale interno fermo;
+
+qq) corpo idrico artificiale: un corpo idrico superficiale creato da un’attività umana;
+
+rr) corpo idrico fortemente modificato: un corpo idrico superficiale la cui natura, a seguito di alterazioni fisiche dovute ad un’attività umana, è sostanzialmente modificata;
+
+ss) corpo idrico superficiale: un elemento distinto e significativo di acque superficiali, quale un lago, un bacino artificiale, un torrente, fiume o canale, parte di un torrente o fiume;
+
+tt) falda acquifera: uno o più strati sotterranei di roccia o altri strati geologici di porosità e permeabilità sufficiente da consentire un flusso significativo di acque sotterranee o l’estrazione di quantità significative di acque sotterranee;
+
+uu) corpo idrico sotterraneo: un volume distinto di acque sotterranee contenute da una o più falde acquifere;
+
+vv) sostanze pericolose: le sostanze o gruppi di sostanze tossiche, persistenti e bio-accumulabili e altre sostanze o gruppi di sostanze che danno adito a preoccupazioni analoghe;
+
+zz) sostanze prioritarie e sostanze pericolose prioritarie: le sostanze individuate con disposizioni comunitarie ai sensi dell’articolo 16 della Direttiva 2000/60/CE;
+
+aaa) inquinante: qualsiasi sostanza che possa inquinare;
+
+bbb) immissione diretta nelle acque sotterranee: l’immissione di inquinanti nelle acque sotterranee senza infiltrazione attraverso il suolo o il sottosuolo;
+
+ccc) standard di qualità ambientale: la concentrazione di un particolare inquinante o gruppo di inquinanti nelle acque, nei sedimenti e nel biota che non deve essere superata per tutelare la salute umana e l’ambiente;
+
+ddd) servizi idrici: tutti i servizi che forniscono alle famiglie, agli enti pubblici o a qualsiasi attività economica:
+
+1) estrazione, arginamento, stoccaggio, trattamento e distribuzione, di acque superficiali o sotterranee;
+
+2) strutture per la raccolta e il trattamento delle acque reflue, che successivamente scaricano nelle acque superficiali;
+
+eee) utilizzo delle acque: i servizi idrici unitamente agli altri usi risultanti dall’attività conoscitiva di cui al Capo VI che incidono in modo significativo sullo stato delle acque;
+
+fff) controlli delle emissioni: i controlli che comportano una limitazione specifica delle emissioni, ad esempio un valore limite delle emissioni, oppure che definiscono altrimenti limiti o condizioni in merito agli effetti, alla natura o ad altre caratteristiche di un’emissione o condizioni operative che influiscono sulle emissioni;
+
+ggg) costi ambientali: i costi legati ai danni che l’utilizzo stesso delle risorse idriche causa all’ambiente, agli ecosistemi e a coloro che usano l’ambiente;
+
+hhh) costi della risorsa: i costi delle mancate opportunità imposte ad altri utenti in conseguenza dello sfruttamento intensivo delle risorse al di là del loro livello di ripristino e ricambio naturale;
+
+iii) impianto: per quanto riguarda la materia del presente Titolo, l’unità tecnica permanente in cui sono svolte una o più attività, che siano tecnicamente connesse con le attività svolte in uno stabilimento e possano influire sulle emissioni e sull’inquinamento;
+
+lll) recettori: ai sensi di questo Titolo si intendono come recettori il suolo, il sottosuolo, le acque superficiali, le reti fognarie.
+
+2\. Ai fini del presente Titolo si intendono altresì, integralmente recepite le classificazioni di cui alla Direttiva 2000/60/CE e successive modifiche.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 30:
+
+L‘articolo 62 del Decreto Delegato 27 aprile 2012 n. 44 è modificato come segue:
+
+a) al comma 1, dopo la lettera lll) sono aggiunte le seguenti lettere: ―lll-bis) reticolo idrografico: l'insieme degli elementi che costituiscono il sistema drenante alveato del bacino idrografico; lll-ter) bacino idrografico: il territorio nel quale scorrono tutte le acque superficiali attraverso una serie di torrenti, fiumi ed eventualmente laghi per sfociare al mare in un‘unica foce, a estuario o delta; lll-quater) sottobacino o sub-bacino: il territorio nel quale scorrono tutte le acque superficiali attraverso una serie di torrenti, fiumi ed eventualmente laghi per sfociare in un punto specifico di un corso d'acqua, di solito un lago o la confluenza di un fiume; lll-quinquies) difesa del suolo: il complesso delle azioni ed attività riferibili alla tutela e salvaguardia del territorio, dei fiumi, dei canali e collettori, degli specchi lacuali, delle acque sotterranee, nonché del territorio a questi connessi, aventi le finalità di ridurre il rischio idraulico, stabilizzare i fenomeni di dissesto geologico, ottimizzare l'uso e la gestione del patrimonio idrico, valorizzare le caratteristiche ambientali e paesaggistiche collegate; lll-sexies) dissesto idrogeologico: la condizione che caratterizza aree ove processi naturali o antropici, relativi alla dinamica dei corpi idrici, del suolo o dei versanti, determinano condizioni di rischio sul territorio; lll-septies) opera idraulica: l'insieme degli elementi che costituiscono il sistema drenante alveato del bacino idrografico; lll-octies) alluvione: l'allagamento temporaneo di aree che abitualmente non sono coperte da acqua. Ciò include le inondazioni causate da fiumi e può escludere gli allagamenti causati dagli impianti fognari;
+
+ii)
+
+#### CAPO II
+
+ACQUE PER SPECIFICA DESTINAZIONE
+
+###### Art. 63
+
+(Obiettivo di qualità per specifica destinazione)
+
+1\. Sono acque a specifica destinazione:
+
+a) le acque dolci superficiali destinate alla produzione di acqua potabile;
+
+b) le acque dolci che richiedono protezione e miglioramento per essere idonee alla vita dei pesci;
+
+c) le acque superficiali generiche;
+
+d) le acque sotterranee;
+
+e) le acque sotterranee destinate alla produzione di acqua potabile.36
+
+###### Art. 64
+
+(Monitoraggio e classificazione acque superficiali e acque sotterranee)
+
+1\. Per i criteri, il monitoraggio e la classificazione delle acque superficiali di cui all’articolo 62, comma 1, lettera mm), si fa riferimento a quanto previsto dalla Direttiva 2000/60/CE e successivi aggiornamenti.
+
+2\. La CTA, se necessario, ha facoltà di emanare specifiche deroghe e limitazioni.
+
+3\. Per i metodi di misura per la determinazione dei valori dei parametri chimici, fisici e microbiologici, si fa riferimento alla Tabella 2/I dell’Allegato I del presente Codice. 37
+
+###### Art. 65
+
+(Classificazione delle acque dolci superficiali e sotterranee destinate alla produzione di acqua potabile)
+
+1.
+
+Le acque dolci superficiali e le acque sotterranee, per essere utilizzate o
+
+lll-nonies) rischio di alluvioni: la combinazione della probabilità di un evento alluvionale e delle potenziali conseguenze negative per la salute umana, l'ambiente, il patrimonio culturale e l'attività economica derivanti da tale evento.
+
+b) il comma 2 è sostituito dal seguente: ―2. Ai fini del presente Titolo si intendono, altresì, integralmente recepite le definizioni di cui alla Direttiva 2000/60/CE e successive modifiche ed integrazioni.
+
+Decreto Delegato 31 gennaio 2017 n. 16, Art. 70: vedasi nota 32.
+
+Testo originario (Decreto Delegato n. 44/2012), Art. 63:
+
+(Obiettivo di qualità per specifica destinazione)
+
+1\. Sono acque a specifica destinazione funzionale:
+
+a) le acque dolci superficiali destinate alla produzione di acqua potabile;
+
+b) le acque dolci che richiedono protezione e miglioramento per essere idonee alla vita dei pesci;
+
+c) le acque superficiali generiche;
+
+d) le acque sotterranee.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 31:
+
+L‘articolo 63 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 63 (Obiettivo di qualità per specifica destinazione)
+
+1\. Sono acque a specifica destinazione:
+
+a) le acque dolci superficiali destinate alla produzione di acqua potabile;
+
+b) le acque dolci che richiedono protezione e miglioramento per essere idonee alla vita dei pesci;
+
+c) le acque superficiali generiche;
+
+d) le acque sotterranee;
+
+e) le acque sotterranee destinate alla produzione di acqua potabile. 35 36
+
+37
+
+Decreto delegato 31 gennaio 2017 n. 16, Art. 70: Vedasi nota 32.
+
+destinate alla produzione di acqua potabile, sono classificate dal DP nelle categorie A1, A2 e A3, secondo le caratteristiche fisiche, chimiche e microbiologiche di cui all’Allegato I del seguente Codice.
+
+2.
+
+A seconda della categoria di appartenenza, le acque dolci superficiali e le acque sotterranee di cui al comma 1 sono sottoposte ai trattamenti seguenti:
+
+a) Categoria A1: trattamento fisico semplice e disinfezione;
+
+b) Categoria A2: trattamento fisico e chimico normale e disinfezione;
+
+c) Categoria A3: trattamento fisico e chimico spinto, affinamento e disinfezione.
+
+3.
+
+Per la classificazione delle acque in una delle categorie A1, A2, A3 di cui all’Allegato I del presente Codice, i valori specificati per ogni categoria devono essere conformi nel 95% dei campioni ai valori - limite specificati nelle colonne I e nel 90% ai valori - limite specificati nelle colonne G quando non sia indicato il corrispondente valore nella colonna I. Per il rimanente 5% o 10% dei campioni che secondo i casi, non sono conformi, i parametri non devono discostarsi in misura superiore al 50% dal valore dei parametri in questione, esclusi la temperatura, il ph., l’ossigeno disciolto ed i parametri microbiologici.
+
+4.
+
+Le acque dolci superficiali e le acque sotterranee che presentano caratteristiche fisiche, chimiche e microbiologiche qualitativamente inferiori ai valori limite imperativi della Categoria A3 possono essere utilizzate, in via eccezionale, solo qualora non sia possibile ricorrere ad altre fonti di approvvigionamento tali da poter soddisfare completamente la domanda di fornitura e a condizione che le acque siano sottoposte ad opportuno trattamento che consenta di rispettare le norme di qualità delle acque destinate al consumo umano.
+
+###### Art. 66
+
+(Caratteristiche di qualità delle acque destinate al consumo umano)
+
+1.
+
+Per i criteri, il monitoraggio e le caratteristiche di qualità delle acque destinate al consumo umano, si fa riferimento a quanto previsto dalla Direttiva 1998/83/CE e successivi aggiornamenti.
+
+2.
+
+La CTA, se necessario, ha facoltà di emanare specifiche limitazioni.
+
+3.
+
+Per i metodi di misura per la determinazione dei valori dei parametri chimici, fisici e microbiologici, si fa riferimento alla Tabella 2/I dell’Allegato I del presente Codice.
+
+4.
+
+L’uso delle acque destinato al consumo umano è subordinato al giudizio di qualità effettuato dal DP che, a tal fine, effettua i necessari controlli sanitari e di idoneità d’uso.38 39
+
+###### Art. 66-bis
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 66
+
+(Caratteristiche di qualità delle acque destinate al consumo umano)
+
+1.
+
+Per i criteri, il monitoraggio e le caratteristiche di qualità delle acque destinate al consumo umano, si fa riferimento a quanto previsto dalla Direttiva 1998/83/CE e successivi aggiornamenti.
+
+2.
+
+La CTA, se necessario, ha facoltà di emanare specifiche deroghe e limitazioni.
+
+3.
+
+Per i metodi di misura per la determinazione dei valori dei parametri chimici, fisici e microbiologici, si fa riferimento alla Tabella 2/I dell’Allegato I del presente Codice.
+
+4.
+
+L’uso delle acque destinato al consumo umano è subordinato al giudizio di qualità effettuato dal DP che, a tal fine, effettua i necessari controlli sanitari e di idoneità d’uso.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 31-bis:
+
+Il comma 2 dell‘articolo 66 del Decreto Delegato 27 aprile 2012 n.44 è così modificato: ―2. La CTA, se necessario, ha facoltà di emanare specifiche limitazioni. 38
+
+39
+
+Decreto delegato 31 gennaio 2017 n. 16, Art. 70: vedasi nota 32.
+
+(Controlli)
+
+1\. I controlli interni ed esterni sono intesi a garantire che le acque destinate al consumo umano soddisfino i requisiti del presente Capo.
+
+2\. Sono controlli interni i controlli che il gestore è tenuto ad effettuare per la verifica della qualità dell'acqua destinata al consumo umano. I punti di prelievo e la frequenza dei controlli interni possono essere concordati con il DP.
+
+3\. I controlli esterni sono svolti dal DP per verificare la qualità dell‘acqua destinata al consumo umano. I punti di prelievo e le frequenze dei campionamenti dei controlli sono approvati dalla CTA. I valori di parametro fissati nella Direttiva 1998/83/CE e successive modifiche ed integrazioni devono essere rispettati, con opportune frequenze di campionamento, nei seguenti punti:
+
+a) per le acque fornite attraverso una rete di distribuzione, nei punti di consegna;
+
+b) per le acque fornite da una cisterna, nel punto in cui fuoriescono dalla cisterna.
+
+4\. Per gli edifici e le strutture in cui l‘acqua è fornita al pubblico, il titolare e il responsabile della gestione dell‘edificio o della struttura devono assicurare che i valori di parametro fissati nella Direttiva 1998/83/CE e successive modifiche ed integrazioni, rispettati nel punto di consegna, siano mantenuti nel punto in cui l‘acqua fuoriesce dal rubinetto.
+
+5\. Il DP assicura una ricerca supplementare, caso per caso, delle sostanze e dei microrganismi per i quali non sono stati fissati valori di parametro a norma della Direttiva 1998/83/CE e successive modifiche ed integrazioni, qualora vi sia motivo di sospettare la presenza in quantità o concentrazioni tali da rappresentare un potenziale pericolo per la salute umana. La ricerca dei parametri supplementari è effettuata con metodiche predisposte dal DP in base alla Tabella 2/I dell‘Allegato I del presente Codice.
+
+6\. Nei casi in cui la disinfezione rientra nel processo di preparazione o di distribuzione delle acque destinate al consumo umano, i controlli di cui al comma 1 verificano l'efficacia della disinfezione e accertano che la contaminazione da presenza di sottoprodotti di disinfezione sia mantenuta al livello più basso possibile senza compromettere la disinfezione stessa.40 41 40
+
+Modifiche legislative:
+
+Decreto Delegato 31 gennaio 2017 n.16
+
+###### Art. 32
+
+Dopo l‘articolo 66 del Decreto Delegato 27 aprile 2012 n. 44 sono introdotti gli articoli 66-bis e 66-ter: ―Art. 66-bis (Controlli)
+
+1\. I controlli interni ed esterni sono intesi a garantire che le acque destinate al consumo umano soddisfino i requisiti del presente Capo.
+
+2\. Sono controlli interni i controlli che il gestore è tenuto ad effettuare per la verifica della qualità dell'acqua destinata al consumo umano. I punti di prelievo e la frequenza dei controlli interni possono essere concordati con il DP.
+
+3\. I controlli esterni sono svolti dal DP per verificare la qualità dell‘acqua destinata al consumo umano. I punti di prelievo e le frequenze dei campionamenti dei controlli sono approvati dalla CTA. I valori di parametro fissati nella Direttiva 1998/83/CE e successive modifiche ed integrazioni devono essere rispettati, con opportune frequenze di campionamento, nei seguenti punti:
+
+a) per le acque fornite attraverso una rete di distribuzione, nei punti di consegna;
+
+b) per le acque fornite da una cisterna, nel punto in cui fuoriescono dalla cisterna.
+
+4\. Per gli edifici e le strutture in cui l‘acqua è fornita al pubblico, il titolare e il responsabile della gestione dell‘edificio o della struttura devono assicurare che i valori di parametro fissati nella Direttiva 1998/83/CE e successive modifiche ed integrazioni, rispettati nel punto di consegna, siano mantenuti nel punto in cui l‘acqua fuoriesce dal rubinetto.
+
+5\. Il DP assicura una ricerca supplementare, caso per caso, delle sostanze e dei microrganismi per i quali non sono stati fissati valori di parametro a norma della Direttiva 1998/83/CE e successive modifiche ed integrazioni, qualora vi sia motivo di sospettare la presenza in quantità o concentrazioni tali da rappresentare un potenziale pericolo per la salute umana. La ricerca dei parametri supplementari è effettuata con metodiche predisposte dal DP in base alla Tabella 2/I dell‘Allegato I del presente Codice.
+
+6\. Nei casi in cui la disinfezione rientra nel processo di preparazione o di distribuzione delle acque destinate al consumo umano, i controlli di cui al comma 1 verificano l'efficacia della disinfezione e accertano che la contaminazione
+
+###### Art. 66-ter
+
+(Provvedimenti e limitazioni dell'uso)
+
+1\. Fatto salvo quanto disposto dal comma 2 dell'articolo 66, nel caso in cui le acque destinate al consumo umano non corrispondano ai valori di parametro fissati a norma della Direttiva 1998/83/CE e successive modifiche ed integrazioni, il DP comunica al gestore l'avvenuto superamento e, effettuate le valutazioni del caso, può avvalersi della CTA e proporre alla stessa l'adozione degli eventuali provvedimenti cautelativi a tutela della salute pubblica, tenuto conto dell'entità del superamento del valore di parametro pertinente e dei potenziali rischi per la salute umana nonché dei rischi che potrebbero derivare da un'interruzione dell'approvvigionamento o da una limitazione di uso delle acque erogate.
+
+2\. Nei casi di cui al comma che precede il gestore, sentito il DP e la CTA, individuate tempestivamente le cause della non conformità, attua i correttivi gestionali di competenza necessari al ripristino della qualità delle acque erogate.42 43
+
+###### Art. 67
+
+(Acque dolci idonee alla vita dei pesci)
+
+1\. La CTA, previo riferimento dell’UPA effettua, se necessario, la designazione delle acque dolci che richiedono protezione o miglioramento per essere idonee alla vita dei pesci. Ai fini di tale designazione sono privilegiati:
+
+a) i corsi d’acqua che attraversano il territorio nazionale;
+
+b) i laghi naturali ed artificiali, gli stagni ed altri corpi idrici, situati nei predetti ambiti territoriali;
+
+c) le acque dolci superficiali che, ancorché non comprese nelle precedenti categorie, presentino un rilevante interesse scientifico, naturalistico, ambientale e produttivo in quanto costituenti habitat di specie animali o vegetali rare o in via di estinzione, oppure in quanto sede di complessi ecosistemi acquatici meritevoli di conservazione o, altresì, sede di antiche e tradizionali forme di produzione ittica che presentino un elevato grado di sostenibilità ecologica ed economica.
+
+#### CAPO III
+
+TUTELA DEI CORPI IDRICI E DISCIPLINA DEGLI SCARICHI
+
+da presenza di sottoprodotti di disinfezione sia mantenuta al livello più basso possibile senza compromettere la disinfezione stessa.
+
+###### Art. 66-ter
+
+(Provvedimenti e limitazioni dell'uso)
+
+1\. Fatto salvo quanto disposto dal comma 2 dell'articolo 66, nel caso in cui le acque destinate al consumo umano non corrispondano ai valori di parametro fissati a norma della Direttiva 1998/83/CE e successive modifiche ed integrazioni, il DP comunica al gestore l'avvenuto superamento e, effettuate le valutazioni del caso, può avvalersi della CTA e proporre alla stessa l'adozione degli eventuali provvedimenti cautelativi a tutela della salute pubblica, tenuto conto dell'entità del superamento del valore di parametro pertinente e dei potenziali rischi per la salute umana nonché dei rischi che potrebbero derivare da un'interruzione dell'approvvigionamento o da una limitazione di uso delle acque erogate.
+
+2\. Nei casi di cui al comma che precede il gestore, sentito il DP e la CTA, individuate tempestivamente le cause della non conformità, attua i correttivi gestionali di competenza necessari al ripristino della qualità delle acque erogate. 41
+
+Decreto delegato 31 gennaio 2017 n. 16, Art. 70: vedasi nota 32.
+
+Modifiche legislative:
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 32: vedasi nota 40. 43 Decreto delegato 31 gennaio 2017 n. 16, Art. 70: vedasi nota 32.
+
+###### Art. 68
+
+(Disciplina delle aree di salvaguardia delle acque superficiali e sotterranee destinate al consumo umano)
+
+1\. Per mantenere e migliorare le caratteristiche qualitative delle acque superficiali e sotterranee destinate al consumo umano, erogate a terzi mediante impianto di acquedotto che riveste carattere di pubblico interesse, nonché per la tutela dello stato delle risorse, la CTA individua, se necessario e previa acquisizione di parere vincolante della Commissione per le Politiche Territoriali, le aree di salvaguardia distinte in zone di tutela assoluta e zone di rispetto.
+
+2\. Per gli approvvigionamenti diversi da quelli di cui al comma 1, la CTA stabilisce, caso per caso, le prescrizioni necessarie per la conservazione e la tutela della risorsa e per il controllo delle caratteristiche qualitative delle acque destinate al consumo umano.
+
+3\. La zona di tutela assoluta è costituita dall’area immediatamente circostante le captazioni o derivazioni: essa, in caso di acque sotterranee e, ove possibile, per le acque superficiali, deve avere un’estensione di almeno dieci metri di raggio dal punto di captazione, deve essere adeguatamente protetta e dev’essere adibita esclusivamente a opere di captazione o presa e ad infrastrutture di servizio.
+
+4\. La zona di rispetto è costituita dalla porzione di territorio circostante la zona di tutela assoluta da sottoporre a vincoli e destinazioni d’uso tali da tutelare qualitativamente e quantitativamente la risorsa idrica captata e può essere suddivisa in zona di rispetto ristretta e zona di rispetto allargata, in relazione alla tipologia dell’opera di presa o captazione e alla situazione locale di vulnerabilità e rischio della risorsa. In particolare, nella zona di rispetto sono vietati l’insediamento dei seguenti centri di pericolo e lo svolgimento delle seguenti attività:
+
+a) dispersione di fanghi e acque reflue, anche se depurati;
+
+b) accumulo di concimi chimici, fertilizzanti o pesticidi;
+
+c) spandimento di concimi chimici, fertilizzanti o pesticidi, salvo che l’impiego di tali sostanze sia effettuato sulla base delle indicazioni di uno specifico piano di utilizzazione che tenga conto della natura dei suoli, delle colture compatibili, delle tecniche agronomiche impiegate e della vulnerabilità delle risorse idriche; il piano deve essere approvato dall’UPA che, a tal fine, acquisisce parere obbligatorio dell’UGRAA;
+
+d) dispersione nel sottosuolo di acque meteoriche proveniente da piazzali e strade;
+
+e) aree cimiteriali;
+
+f) apertura di cave che possono essere in connessione con la falda;
+
+g) apertura di pozzi ad eccezione di quelli che estraggono acque destinate al consumo umano e di quelli finalizzati alla variazione dell’estrazione ed alla protezione delle caratteristiche quali-quantitative della risorsa idrica;
+
+h) gestione di rifiuti;
+
+i) stoccaggio di prodotti ovvero sostanze chimiche pericolose e sostanze radioattive;
+
+l) centri di raccolta, demolizione e rottamazione di autoveicoli;
+
+m) parti terminali di un impianto di subirrigazione;
+
+n) pascolo e stabulazione di bestiame che ecceda i 170 chilogrammi per ettaro di azoto presente negli effluenti, al netto delle perdite di stoccaggio e distribuzione. É comunque vietata la stabulazione di bestiame nella zona di rispetto ristretta. Tale attività viene valutata e approvata dall’UGRAA.
+
+5\. Per gli insediamenti o le attività di cui al comma 4, già esistenti alla data di entrata in vigore del presente Codice, ove possibile, e comunque ad eccezione delle aree cimiteriali, sono adottate le misure per il loro allontanamento; in ogni caso deve essere garantita la loro messa in sicurezza. La CTA disciplina, se necessario,
+
+all’interno delle zone di rispetto, le seguenti strutture o attività:
+
+a) fognature;
+
+b) edilizia residenziale e relative opere di urbanizzazione;
+
+c) opere viarie e in genere infrastrutture di servizio;
+
+d) pratiche agronomiche e contenuti dei piani di utilizzazione di cui alla lettera c) del comma 4.
+
+6\. In assenza dell’individuazione da parte della CTA della zona di rispetto ai sensi del comma 1, la medesima ha un’estensione di 200 metri di raggio rispetto al punto di captazione o di derivazione.
+
+7\. Per le strutture di cui alle lettere b) e c) del comma 5, la CTA acquisisce il parere vincolante della Commissione per le Politiche Territoriali.
+
+###### Art. 69
+
+(Reti fognarie)
+
+1\. Gli agglomerati devono essere provvisti di reti fognarie per le acque reflue urbane.
+
+2\. La progettazione, la costruzione e la manutenzione delle reti fognarie si effettuano adottando le migliori tecniche disponibili e che comportino costi economicamente ammissibili, tenendo conto, in particolare:
+
+a) della portata media, del volume annuo e delle caratteristiche delle acque reflue urbane;
+
+b) della prevenzione di eventuali fenomeni di rigurgito che comportino la fuoriuscita delle acque reflue dalle sezioni fognarie;
+
+c) della limitazione dell’inquinamento dei recettori, causato da tracimazioni originate da particolari eventi meteorici.
+
+3\. Per lo smaltimento finale di acque reflue domestiche prodotte da insediamenti, installazioni o edifici isolati non ancora serviti da rete fognaria è consentito lo scarico sul suolo secondo le indicazioni del Regolamento di gestione del Servizio idrico integrato dell‘AASS di cui all‘articolo 5, comma 5, lettera b) e delle normative vigenti in materia, mediante l‘individuazione di specifici sistemi, pubblici o privati, che permettano di raggiungere un livello di protezione ambientale equiparabile a quello che si otterrebbe mediante rete fognaria. L‘adeguamento di tali scarichi a detti sistemi deve avvenire entro i termini previsti dal Regolamento e dalle normative di cui sopra.44 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 69
+
+(Reti fognarie)
+
+1\. Gli agglomerati devono essere provvisti di reti fognarie per le acque reflue urbane.
+
+2\. La progettazione, la costruzione e la manutenzione delle reti fognarie si effettuano adottando le migliori tecniche disponibili e che comportino costi economicamente ammissibili, tenendo conto, in particolare:
+
+a) della portata media, del volume annuo e delle caratteristiche delle acque reflue urbane;
+
+b) della prevenzione di eventuali fenomeni di rigurgito che comportino la fuoriuscita delle acque reflue dalle sezioni fognarie;
+
+c) della limitazione dell’inquinamento dei recettori, causato da tracimazioni originate da particolari eventi meteorici.
+
+3\. Per insediamenti, installazioni o edifici isolati non ancora serviti da rete fognaria e che producono acque reflue domestiche, per lo smaltimento finale è consentito lo scarico sul suolo secondo le indicazioni del Regolamento di gestione del Servizio idrico integrato dell’AASS di cui all’articolo 5, comma 5, lettera b), mediante l’individuazione di sistemi specifici o altri sistemi pubblici o privati adeguati che raggiungano lo stesso livello di protezione ambientale, e l’indicazione dei tempi di adeguamento degli scarichi a detti sistemi.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 33:
+
+Il comma 3 dell‘articolo 69 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―3. Per lo smaltimento finale di acque reflue domestiche prodotte da insediamenti, installazioni o edifici isolati non ancora serviti da rete fognaria è consentito lo scarico sul suolo secondo le indicazioni del Regolamento di gestione del Servizio idrico integrato dell‘AASS di cui all‘articolo 5, comma 5, lettera b) e delle normative vigenti in materia, mediante l‘individuazione di specifici sistemi, pubblici o privati, che permettano di raggiungere un livello di protezione ambientale equiparabile a quello che si otterrebbe mediante rete fognaria. L‘adeguamento di tali scarichi a detti sistemi deve avvenire entro i termini previsti dal Regolamento e dalle normative di cui sopra.
+
+###### Art. 70
+
+(Criteri generali della disciplina degli scarichi)
+
+1\. Tutti gli scarichi sono disciplinati in funzione del rispetto dei valori limite previsti nell’Allegato J del presente Codice e soggetti ad autorizzazione di cui all’articolo 78.
+
+Per i metodi di misura per la determinazione dei valori dei parametri chimici, fisici e microbiologici, si fa riferimento alla Tabella 2/I dell’Allegato I del presente Codice.
+
+2\. Tutti gli scarichi, ad eccezione di quelli domestici e di quelli ad essi assimilati ai sensi del comma 6, devono essere resi accessibili per il campionamento ed analisi dei reflui immessi nella rete fognaria da parte dell’UPA, deputato al controllo nonché da parte del Gestore del servizio idrico integrato. A tale scopo deve essere predisposto un pozzetto di campionamento, che va installato immediatamente a monte della immissione nel recapito in acque superficiali, sotterranee, interne, fognature, suolo e sottosuolo. Salvo eccezioni condivise dal Gestore del servizio idrico integrato, il pozzetto deve:
+
+a) essere posizionato al confine di proprietà e opportunamente indicato con segnaletica ben visibile;
+
+b) essere agevolmente accessibile sia al personale che ai mezzi del Gestore del servizio idrico integrato e dall’UPA o di ditte incaricate, che trasportano la strumentazione per i controlli sul posto e l’attrezzatura per il campionamento;
+
+c) essere sottoposto a periodiche pulizie;
+
+d) nei casi in cui si renda necessario l’impiego di attrezzatura particolare per l’apertura del pozzetto questa deve essere messa a disposizione, sul posto di prelievo, da parte del produttore del refluo;
+
+e) avere le caratteristiche descritte nel Regolamento di gestione del Servizio idrico integrato dell’AASS di cui all’articolo 5, comma 5, lettera b).
+
+3\. L’UPA è autorizzato ad effettuare tutte le ispezioni che ritenga necessarie per l’accertamento delle condizioni che danno luogo alla formazione degli scarichi.
+
+4\. I valori limite di emissione non possono in alcun caso essere conseguiti mediante diluizione con acque prelevate esclusivamente allo scopo. Non è comunque consentito diluire con acque di raffreddamento, di lavaggio o prelevate esclusivamente allo scopo, gli scarichi prima del trattamento degli stessi per adeguarli ai limiti previsti dall’Allegato J del presente Codice. Il CT, in sede di autorizzazione, può prescrivere che lo scarico delle acque di raffreddamento, di lavaggio, ovvero impiegate per la produzione di energia sia separato dallo scarico terminale di ciascuno stabilimento.
+
+5\. Qualora le acque prelevate da un corpo idrico superficiale presentino parametri con valori superiori ai valori-limite di emissione, la disciplina dello scarico é fissata in base alla natura delle alterazioni e agli obiettivi di qualità del corpo idrico recettore.
+
+In ogni caso le acque devono essere restituite con caratteristiche qualitative non peggiori di quelle prelevate e senza maggiorazioni di portata allo stesso corpo idrico dal quale sono state prelevate.
+
+6\. Salvo quanto previsto dall‘articolo 75, ai fini della disciplina degli scarichi e delle autorizzazioni sono assimilate alle acque reflue domestiche le acque reflue:
+
+a) provenienti da:
+
+1) attività di vendita al dettaglio di alimenti (es: alimentari, macellerie, rosticcerie, gelaterie, pasticcerie, piadinerie, e simili);
+
+2) somministrazione di alimenti e bevande (es: mense, bar, pub, ristoranti, e
+
+simili);
+
+3) attività di produzione non industriale di alimenti e conserve alimentari (es: apicoltori, birrerie, conserviere e simili) e prodotti cosmetici (saponerie, e simili);
+
+4) attività di servizi (es: parrucchieri, tolettatura animali, estetisti, odontotecnici, campeggi, alberghi, locande, gommisti, attività edili, lavanderie artigianali, lavanderie a secco a ciclo chiuso, lavanderie automatiche, e simili). 4-bis) impianti di purificazione/addolcimento acque provenienti dal pubblico acquedotto.
+
+b) aventi caratteristiche qualitative equivalenti a quelle domestiche, verificate tramite analisi chimico/fisiche. La CTA, se necessario, previo riferimento dell‘UPA, individua specifiche tecniche atte alla caratterizzazione di tali acque reflue.45 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 70
+
+(Criteri generali della disciplina degli scarichi)
+
+1\. Tutti gli scarichi sono disciplinati in funzione del rispetto dei valori limite previsti nell’Allegato J del presente Codice e soggetti ad autorizzazione di cui all’articolo 78. Per i metodi di misura per la determinazione dei valori dei parametri chimici, fisici e microbiologici, si fa riferimento alla Tabella 2/I dell’Allegato I del presente Codice.
+
+2\. Tutti gli scarichi, ad eccezione di quelli domestici e di quelli ad essi assimilati ai sensi del comma 6, devono essere resi accessibili per il campionamento ed analisi dei reflui immessi nella rete fognaria da parte dell’UPA, deputato al controllo nonché da parte del Gestore del servizio idrico integrato. A tale scopo deve essere predisposto un pozzetto di campionamento, che va installato immediatamente a monte della immissione nel recapito in acque superficiali, sotterranee, interne, fognature, suolo e sottosuolo. Salvo eccezioni condivise dal Gestore del servizio idrico integrato, il pozzetto deve:
+
+a) essere posizionato al confine di proprietà e opportunamente indicato con segnaletica ben visibile;
+
+b) essere agevolmente accessibile sia al personale che ai mezzi del Gestore del servizio idrico integrato e dall’UPA o di ditte incaricate, che trasportano la strumentazione per i controlli sul posto e l’attrezzatura per il campionamento;
+
+c) essere sottoposto a periodiche pulizie;
+
+d) nei casi in cui si renda necessario l’impiego di attrezzatura particolare per l’apertura del pozzetto questa deve essere messa a disposizione, sul posto di prelievo, da parte del produttore del refluo;
+
+e) avere le caratteristiche descritte nel Regolamento di gestione del Servizio idrico integrato dell’AASS di cui all’articolo 5, comma 5, lettera b).
+
+3\. L’UPA è autorizzato ad effettuare tutte le ispezioni che ritenga necessarie per l’accertamento delle condizioni che danno luogo alla formazione degli scarichi.
+
+4\. I valori limite di emissione non possono in alcun caso essere conseguiti mediante diluizione con acque prelevate esclusivamente allo scopo. Non è comunque consentito diluire con acque di raffreddamento, di lavaggio o prelevate esclusivamente allo scopo, gli scarichi prima del trattamento degli stessi per adeguarli ai limiti previsti dall’Allegato J del presente Codice. Il CT, in sede di autorizzazione, può prescrivere che lo scarico delle acque di raffreddamento, di lavaggio, ovvero impiegate per la produzione di energia sia separato dallo scarico terminale di ciascuno stabilimento.
+
+5\. Qualora le acque prelevate da un corpo idrico superficiale presentino parametri con valori superiori ai valori-limite di emissione, la disciplina dello scarico è fissata in base alla natura delle alterazioni e agli obiettivi di qualità del corpo idrico recettore. In ogni caso le acque devono essere restituite con caratteristiche qualitative non peggiori di quelle prelevate e senza maggiorazioni di portata allo stesso corpo idrico dal quale sono state prelevate.
+
+6\. Salvo quanto previsto dall’articolo 75, ai fini della disciplina degli scarichi e delle autorizzazioni, sono assimilate alle acque reflue domestiche le acque reflue:
+
+a) provenienti da esercizi di vendita di pesce – macellerie – rosticcerie - supermercati di generi alimentari parrucchieri - campeggi – esercizi alberghieri - ristoranti - trattorie - tavole calde - pub - paninoteche - osterie pizzerie - bar – mense – pasticcerie – gelaterie – laboratori di pasta fresca – gommisti - cantieri edili - lavanderie non industriali – lavanderie a secco a ciclo chiuso - lavanderie automatiche – odontotecnici;
+
+b) aventi caratteristiche qualitative equivalenti a quelle domestiche, verificate tramite analisi chimico/fisiche. La CTA, se necessario, previo riferimento dell’UPA, individua specifiche tecniche atte alla caratterizzazione di tali acque reflue.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 34:
+
+Il comma 6 dell‘articolo 70 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―6. Salvo quanto previsto dall‘articolo 75, ai fini della disciplina degli scarichi e delle autorizzazioni sono assimilate alle acque reflue domestiche le acque reflue:
+
+a) provenienti da:
+
+1) attività di vendita al dettaglio di alimenti (es: alimentari, macellerie, rosticcerie, gelaterie, pasticcerie, piadinerie, e simili);
+
+2) somministrazione di alimenti e bevande (es: mense, bar, pub, ristoranti, e simili);
+
+3) attività di produzione non industriale di alimenti e conserve alimentari (es: apicoltori, birrerie, conserviere e simili) e prodotti cosmetici (saponerie, e simili);
+
+4) attività di servizi (es: parrucchieri, tolettatura animali, estetisti, odontotecnici, campeggi, alberghi, locande, gommisti, attività edili, lavanderie artigianali, lavanderie a secco a ciclo chiuso, lavanderie automatiche, e simili). 4-bis) impianti di purificazione/addolcimento acque provenienti dal pubblico acquedotto.
+
+###### Art. 71
+
+(Scarichi sul suolo)
+
+1\. É vietato lo scarico sul suolo o negli strati superficiali del sottosuolo, fatta eccezione:
+
+a) per i casi previsti dall’articolo 69, comma 3;
+
+b) per gli scaricatori di piena a servizio delle reti fognarie;
+
+c) per gli scarichi di acque reflue urbane, domestiche ed industriali per i quali sia accertata l’impossibilità tecnica o l’eccessiva onerosità, a fronte dei benefici ambientali conseguibili, a recapitare in corpi idrici superficiali, purché gli stessi siano conformi ai criteri ed ai valori-limite di emissione fissati ai sensi dell’articolo 70, comma 1;
+
+d) per gli scarichi di acque provenienti dalla lavorazione di rocce naturali nonché dagli impianti di lavaggio delle sostanze minerali, purché i relativi fanghi siano costituiti esclusivamente da acqua e inerti naturali e non comportino danneggiamento delle falde acquifere o instabilità dei suoli;
+
+e) per gli scarichi di acque meteoriche convogliate in reti fognarie separate;
+
+f) per le acque derivanti dallo sfioro dei serbatoi idrici, dalle operazioni di manutenzione delle reti idropotabili e dalla manutenzione dei pozzi di acquedotto.
+
+2\. Al di fuori delle ipotesi previste al comma 1, gli scarichi sul suolo esistenti devono essere convogliati in corpi idrici superficiali o in reti fognarie. In caso di mancata ottemperanza agli obblighi indicati, l’autorizzazione allo scarico si considera a tutti gli effetti revocata.
+
+3\. Nel caso di agglomerati non ancora serviti da rete fognaria e dove sia impossibile attuare quanto previsto dall’articolo 69, comma 3, il Gestore del servizio idrico integrato predisporrà un piano di progettazione per la collettazione o trattamento locale dei reflui completo di schema di finanziamento.
+
+###### Art. 72
+
+(Scarichi nel sottosuolo e nelle acque sotterranee)
+
+1.
+
+É vietato lo scarico diretto nelle acque sotterranee e nel sottosuolo.
+
+2.
+
+In deroga a quanto previsto al comma 1, il CT, dopo indagine preventiva, può autorizzare gli scarichi nella stessa falda delle acque utilizzate per scopi geotermici, delle acque di infiltrazione di miniere o cave o delle acque pompate nel corso di determinati lavori di ingegneria civile, ivi comprese quelle degli impianti di scambio termico.
+
+Art 73 (Scarichi in acque superficiali)
+
+1\. Gli scarichi di acque reflue domestiche, industriali e urbane in acque superficiali devono rispettare i valori-limite di emissione fissati ai sensi dell’articolo 70, comma 1, in funzione del perseguimento degli obiettivi di qualità.
+
+###### Art. 74
+
+(Scarichi in reti fognarie)
+
+b) aventi caratteristiche qualitative equivalenti a quelle domestiche, verificate tramite analisi chimico/fisiche. La CTA, se necessario, previo riferimento dell‘UPA, individua specifiche tecniche atte alla caratterizzazione di tali acque reflue.
+
+1.
+
+Ferma restando l’inderogabilità dei valori-limite di emissione relativi alle sostanze evidenziate con asterisco e/o nota, di cui alla Tabella 1/J dell’Allegato J del presente Codice, gli scarichi di acque reflue industriali che recapitano in reti fognarie sono sottoposti alle norme tecniche, alle prescrizioni regolamentari adottati dal Gestore del servizio idrico integrato in base alle caratteristiche dell’impianto, e in modo che sia assicurata la tutela del corpo idrico recettore nonché il rispetto della disciplina degli scarichi di acque reflue urbane definita ai sensi dell’articolo 70, comma 1 e dell’articolo 78, comma 3.
+
+2\. Gli scarichi di acque reflue domestiche che recapitano in reti fognarie sono sempre ammessi purché osservino le prescrizioni del Regolamento di gestione del Servizio idrico integrato dell‘AASS di cui all‘articolo 5, comma 5, lettera b) e le normative vigenti in materia.
+
+3\. La CTA può stabilire, se necessario, norme integrative per il controllo degli scarichi di acque reflue urbane in rete fognaria, in ordine alla funzionalità degli impianti di pretrattamento e per il rispetto dei limiti e delle prescrizioni previsti dalle relative autorizzazioni. 46
+
+###### Art. 75
+
+(Scarichi vietati in rete fognaria)
+
+1\. É vietato scaricare o causare l’immissione nella rete fognaria delle sostanze sotto indicate:
+
+a) sostanze liquide, solide o gassose infiammabili o esplosive;
+
+b) sostanze tossiche o qualsiasi altra sostanza che possa comunque costituire pericolo per l’incolumità degli uomini, degli animali o creare pubblico disagio o provocare danni alla vegetazione;
+
+c) sostanze solide o vischiose tali da creare ostruzioni nei collettori fognari come ceneri, sabbia, fango, foglie, trucioli, metalli, vetro, stracci, piume, bitume, materie plastiche, rifiuti solidi urbani, sangue intero, peli, ed altre sostanze analoghe;
+
+d) vapori e gas di qualunque natura;
+
+e) altre sostanze definite dannose o derivanti da particolari destinazioni d’uso che saranno normate dalla CTA, se necessario, con apposito Regolamento.
+
+2\. Il CT può richiedere, in casi particolari, che gli scarichi di cui ai punti a), b), c) siano tenuti separati dallo scarico generale e disciplinati come rifiuti.
+
+###### Art. 76
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 74
+
+(Scarichi in reti fognarie)
+
+1.
+
+Ferma restando l’inderogabilità dei valori-limite di emissione relativi alle sostanze evidenziate con asterisco e/o nota, di cui alla Tabella 1/J dell’Allegato J del presente Codice, gli scarichi di acque reflue industriali che recapitano in reti fognarie sono sottoposti alle norme tecniche, alle prescrizioni regolamentari adottati dal Gestore del servizio idrico integrato in base alle caratteristiche dell’impianto, e in modo che sia assicurata la tutela del corpo idrico recettore nonché il rispetto della disciplina degli scarichi di acque reflue urbane definita ai sensi dell’articolo 70, comma 1 e dell’articolo 78, comma 3.
+
+2.
+
+Gli scarichi di acque reflue domestiche che recapitano in reti fognarie sono sempre ammessi purché osservino le prescrizioni del Regolamento di gestione del Servizio idrico integrato dell’AASS di cui all’articolo 5, comma 5, lettera b).
+
+3.
+
+La CTA può stabilire, se necessario, norme integrative per il controllo degli scarichi di acque reflue urbane in rete fognaria, in ordine alla funzionalità degli impianti di pretrattamento e per il rispetto dei limiti e delle prescrizioni previsti dalle relative autorizzazioni.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 35:
+
+Il comma 2 dell‘articolo 74 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―2. Gli scarichi di acque reflue domestiche che recapitano in reti fognarie sono sempre ammessi purché osservino le prescrizioni del Regolamento di gestione del Servizio idrico integrato dell‘AASS di cui all‘articolo 5, comma 5, lettera b) e le normative vigenti in materia.
+
+(Utilizzazione agronomica)
+
+1\. L‘utilizzazione agronomica degli effluenti di allevamento, delle acque di vegetazione dei frantoi oleari e da piccole aziende agroalimentari è soggetta ad autorizzazione di cui all‘articolo 4, comma 1, lettera e).
+
+2\. La CTA disciplina le attività di utilizzazione agronomica di cui al comma 1 sulla base dei criteri e delle norme tecniche generali adottati con apposito regolamento, garantendo nel contempo la tutela dei corpi idrici potenzialmente interessati ed in particolare il raggiungimento o il mantenimento degli obiettivi di qualità del presente Titolo.
+
+3\. Nell’ambito del Regolamento di cui al comma 2, sono disciplinati in particolare:
+
+a) i tempi e le modalità di effettuazione della comunicazione, prevedendo procedure semplificate nonché specifici casi di esonero dall’obbligo di comunicazione per le attività di minor impatto ambientale;
+
+b) le norme tecniche di effettuazione delle operazioni di utilizzo agronomico;
+
+c) i criteri e le procedure di controllo, ivi comprese quelle inerenti l’imposizione di prescrizioni da parte dell’autorità competente, il divieto di esercizio ovvero la sospensione a tempo determinato dell’attività di cui al comma 1 nel caso di mancata comunicazione o mancato rispetto delle norme tecniche e delle prescrizioni impartite;
+
+d) le modalità di autorizzazione. 3-bis. Sono esclusi dall‘utilizzazione agronomica le deiezioni derivanti da allevamenti suinicoli. 47
+
+###### Art. 77
+
+(Acque meteoriche di dilavamento e acque di prima pioggia)
+
+1\. Ai fini della prevenzione di rischi idraulici ed ambientali, il CT disciplina:
+
+a) le forme di controllo degli scarichi di acque meteoriche di dilavamento provenienti da reti fognarie separate;
+
+b) i casi in cui può essere richiesto che le immissioni delle acque meteoriche di dilavamento, effettuate tramite altre condotte separate, siano sottoposte a particolari prescrizioni, ivi compresa l’eventuale autorizzazione.
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 76
+
+(Utilizzazione agronomica)
+
+1\. L’utilizzazione agronomica degli effluenti di allevamento, delle acque di vegetazione dei frantoi oleari, e da piccole aziende agroalimentari, è soggetta ad autorizzazione ai sensi all’articolo 78.
+
+2\. La CTA disciplina le attività di utilizzazione agronomica di cui al comma 1 sulla base dei criteri e delle norme tecniche generali adottati con apposito regolamento, garantendo nel contempo la tutela dei corpi idrici potenzialmente interessati ed in particolare il raggiungimento o il mantenimento degli obiettivi di qualità del presente Titolo.
+
+3\. Nell’ambito del Regolamento di cui al comma 2, sono disciplinati in particolare:
+
+a) i tempi e le modalità di effettuazione della comunicazione, prevedendo procedure semplificate nonché specifici casi di esonero dall’obbligo di comunicazione per le attività di minor impatto ambientale;
+
+b) le norme tecniche di effettuazione delle operazioni di utilizzo agronomico;
+
+c) i criteri e le procedure di controllo, ivi comprese quelle inerenti l’imposizione di prescrizioni da parte dell’autorità competente, il divieto di esercizio ovvero la sospensione a tempo determinato dell’attività di cui al comma 1 nel caso di mancata comunicazione o mancato rispetto delle norme tecniche e delle prescrizioni impartite;
+
+d) le modalità di autorizzazione.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 36:
+
+L‘articolo 76 del Decreto Delegato 27 aprile 2012 n. 44 è modificato come segue:
+
+a) il comma 1 è sostituito dal seguente: ―1. L‘utilizzazione agronomica degli effluenti di allevamento, delle acque di vegetazione dei frantoi oleari e da piccole aziende agroalimentari è soggetta ad autorizzazione di cui all‘articolo 4, comma 1, lettera e).
+
+b) dopo il comma 3 è aggiunto il seguente comma: ―3-bis. Sono esclusi dall‘utilizzazione agronomica le deiezioni derivanti da allevamenti suinicoli.
+
+2\. Le acque meteoriche non disciplinate ai sensi del comma 1 non sono soggette a vincoli o prescrizioni.
+
+3\. É comunque vietato lo scarico o l’immissione diretta di acque meteoriche nelle acque sotterranee.
+
+#### CAPO IV
+
+AUTORIZZAZIONE AGLI SCARICHI
+
+###### Art. 78
+
+(Criteri generali)
+
+1\. Tutti gli scarichi di acque reflue devono essere preventivamente autorizzati.
+
+2\. L’autorizzazione è rilasciata al titolare dell’attività da cui origina lo scarico.
+
+3\. Ferma restando l’inderogabilità dei valori-limite di emissione relativi alle sostanze evidenziate con asterisco e/o nota, di cui alla Tabella 1/J e 2/J dell’Allegato J del presente Codice, l’autorizzazione allo scarico, nel caso in cui lo scarico venga riversato in rete fognaria servita da impianto di trattamento finale, è facoltà del CT, d’intesa con l’AASS, autorizzare limiti di accettabilità in deroga a quelli indicati nella colonna “Scarico in rete fognaria” della Tabella 1/J dell’Allegato J del presente Codice, comunque tali da non compromettere il corretto funzionamento dell’impianto finale.
+
+4\. In fase di rilascio del provvedimento autorizzativo è facoltà del CT condizionare l’autorizzazione all’approntamento, a cura e spese dell’istante, di mezzi tecnici, quali misuratori di portata, volume e simili, utili per il controllo dello scarico nonché prevedere in capo all’istante, a pena di revoca dell’autorizzazione stessa, l’obbligo di presentazione di analisi periodiche delle acque reflue scaricate. Nel caso in cui sussistano condizioni particolari del corpo recettore, il CT ha, altresì, facoltà di prescrivere limiti inferiori a quelli indicati nelle Tabelle 1/J e 2/J dell’Allegato J del presente Codice, dandone adeguata motivazione.
+
+5\. La domanda di autorizzazione è indirizzata al CT in conformità alla modulistica approvata dal CT medesimo. In caso di domanda di autorizzazione in deroga ai parametri di cui all‘Allegato J del presente Codice, l‘UPA acquisisce parere dall‘AASS prima di inoltrare la domanda di autorizzazione al CT.
+
+6\. La domanda di autorizzazione agli scarichi di acque reflue industriali ed urbane deve essere corredata dall’indicazione delle caratteristiche quantitative e qualitative dello scarico e del volume annuo di acqua da scaricare, dalla tipologia del recettore, dalla individuazione del punto previsto per effettuare i prelievi di controllo, dalla descrizione del sistema complessivo dello scarico ivi comprese le operazioni ad esso funzionalmente connesse, dall’eventuale sistema di misurazione del flusso degli scarichi, ove richiesto, e dalla indicazione delle apparecchiature impiegate nel processo produttivo e nei sistemi di scarico nonché dei sistemi di depurazione utilizzati per conseguire il rispetto dei valori limite di emissione.
+
+7\. L’autorizzazione è valida dal momento del rilascio e decade se la qualità del refluo dichiarato subisce variazioni.
+
+8\. Per nuovi scarichi l’autorizzazione sarà rilasciata sul progetto in modalità provvisoria per un tempo definito. L’autorizzazione definitiva sarà rilasciata ad impianto a regime previa dimostrazione del rispetto dei limiti normativi e prevederà la presentazione annuale del referto analitico che qualifica lo scarico.
+
+9\. In deroga al comma 1, gli scarichi di acque reflue domestiche e gli scarichi di acque reflue industriali di cui all‘articolo 70, comma 6, in reti fognarie sono sempre ammessi nell‘osservanza dei regolamenti fissati dal gestore del servizio idrico integrato e delle normative vigenti in materia e non necessitano dell‘autorizzazione di cui ai commi 1 e
+
+2\. Tutti gli scarichi di acque reflue domestiche e di acque reflue industriali di cui all‘articolo 70, comma 6, provenienti dagli agglomerati, immessi nella rete fognaria e
+
+collegati al depuratore, devono essere allacciati in conformità al Regolamento di gestione del Servizio idrico integrato dell‘AASS di cui all‘articolo 5, comma 5, lettera
+
+b) ed alle normative vigenti in materia. 48
+
+###### Art. 79
+
+(Approvazione dei progetti degli impianti di trattamento delle acque reflue urbane)
+
+1.
+
+La CTA definisce le modalità di approvazione dei progetti degli impianti di trattamento delle acque reflue urbane. La CTA definisce altresì le modalità di autorizzazione provvisoria necessaria all’avvio dell’impianto anche in caso di realizzazione per lotti funzionali.
+
+2.
+
+L’AASS definisce la posa delle reti fognarie negli interventi di lottizzazione convenzionata effettuati nelle zone soggette a strumenti di pianificazione urbanistica attuativa.
+
+3.
+
+L’AASS definisce lo sdoppiamento delle reti fognarie nel caso di lottizzazioni Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 78
+
+(Criteri generali)
+
+1\. Tutti gli scarichi di acque reflue devono essere preventivamente autorizzati.
+
+2\. L’autorizzazione è rilasciata al titolare dell’attività da cui origina lo scarico.
+
+3\. Ferma restando l’inderogabilità dei valori-limite di emissione relativi alle sostanze evidenziate con asterisco e/o nota, di cui alla Tabella 1/J e 2/J dell’Allegato J del presente Codice, l’autorizzazione allo scarico, nel caso in cui lo scarico venga riversato in rete fognaria servita da impianto di trattamento finale, è facoltà del CT, d’intesa con l’AASS, autorizzare limiti di accettabilità in deroga a quelli indicati nella colonna “Scarico in rete fognaria” della Tabella 1/J dell’Allegato J del presente Codice, comunque tali da non compromettere il corretto funzionamento dell’impianto finale.
+
+4\. In fase di rilascio del provvedimento autorizzativo è facoltà del CT condizionare l’autorizzazione all’approntamento, a cura e spese dell’istante, di mezzi tecnici, quali misuratori di portata, volume e simili, utili per il controllo dello scarico nonché prevedere in capo all’istante, a pena di revoca dell’autorizzazione stessa, l’obbligo di presentazione di analisi periodiche delle acque reflue scaricate. Nel caso in cui sussistano condizioni particolari del corpo recettore, il CT ha, altresì, facoltà di prescrivere limiti inferiori a quelli indicati nelle Tabelle 1/J e 2/J dell’Allegato J del presente Codice, dandone adeguata motivazione.
+
+5\. La domanda di autorizzazione è presentata al CT in conformità alla modulistica che verrà approvata dal CT medesimo.
+
+6\. La domanda di autorizzazione agli scarichi di acque reflue industriali ed urbane deve essere corredata dall’indicazione delle caratteristiche quantitative e qualitative dello scarico e del volume annuo di acqua da scaricare, dalla tipologia del recettore, dalla individuazione del punto previsto per effettuare i prelievi di controllo, dalla descrizione del sistema complessivo dello scarico ivi comprese le operazioni ad esso funzionalmente connesse, dall’eventuale sistema di misurazione del flusso degli scarichi, ove richiesto, e dalla indicazione delle apparecchiature impiegate nel processo produttivo e nei sistemi di scarico nonché dei sistemi di depurazione utilizzati per conseguire il rispetto dei valori limite di emissione.
+
+7\. L’autorizzazione è valida dal momento del rilascio e decade se la qualità del refluo dichiarato subisce variazioni.
+
+8\. Per nuovi scarichi l’autorizzazione sarà rilasciata sul progetto in modalità provvisoria per un tempo definito.
+
+L’autorizzazione definitiva sarà rilasciata ad impianto a regime previa dimostrazione del rispetto dei limiti normativi e prevederà la presentazione annuale del referto analitico che qualifica lo scarico.
+
+9\. In deroga al comma 1, gli scarichi di acque reflue domestiche e gli scarichi di acque reflue industriali di cui all’articolo 70, comma 6, in reti fognarie, sono sempre ammessi nell’osservanza dei regolamenti fissati dal gestore del servizio idrico integrato e non necessitano dell’autorizzazione di cui ai commi 1 e 2. Tutte le acque reflue domestiche e gli scarichi di acque reflue industriali di cui all’articolo 70, comma 6, provenienti dagli agglomerati e immesse nella rete fognaria collegati al depuratore, devono essere allacciate in conformità al Regolamento di gestione del Servizio idrico integrato dell’AASS di cui all’articolo 5, comma 5, lettera b).
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 37:
+
+L‘articolo 78 del Decreto Delegato 27 aprile 2012 n. 44 è modificato come segue:
+
+a) il comma 5 è sostituito dal seguente: ―5. La domanda di autorizzazione è indirizzata al CT in conformità alla modulistica approvata dal CT medesimo. In caso di domanda di autorizzazione in deroga ai parametri di cui all‘Allegato J del presente Codice, l‘UPA acquisisce parere dall‘AASS prima di inoltrare la domanda di autorizzazione al CT.
+
+b) il comma 9 è sostituito dal seguente: ―9. In deroga al comma 1, gli scarichi di acque reflue domestiche e gli scarichi di acque reflue industriali di cui all‘articolo 70, comma 6, in reti fognarie sono sempre ammessi nell‘osservanza dei regolamenti fissati dal gestore del servizio idrico integrato e delle normative vigenti in materia e non necessitano dell‘autorizzazione di cui ai commi 1 e 2. Tutti gli scarichi di acque reflue domestiche e di acque reflue industriali di cui all‘articolo 70, comma 6, provenienti dagli agglomerati, immessi nella rete fognaria e collegati al depuratore, devono essere allacciati in conformità al Regolamento di gestione del Servizio idrico integrato dell‘AASS di cui all‘articolo 5, comma 5, lettera b) ed alle normative vigenti in materia.
+
+private nei casi di non conformità. 3-bis. I proprietari degli edifici esistenti e i gestori delle attività economiche in essere che convogliano le acque di scarico e meteoriche in pubblica fognatura, ove già non abbiano provveduto, hanno l‘obbligo di eseguire lo sdoppiamento delle reti fognarie nell‘ambito della proprietà privata ai fini dell‘allaccio ai collettori della rete pubblica con le modalità previste dal regolamento del Gestore del servizio idrico integrato di cui all‘articolo 5, comma 5, lettera b), ferma restando la suddivisione degli oneri prevista dalla Legge 4 maggio 1979 n. 22. I proprietari degli edifici che ricadono in zone per le quali il Piano di gestione e tutela delle acque di cui all‘articolo 94 non prevede la realizzazione di collettori non soggiacciono agli obblighi di cui al presente comma, applicandosi le disposizioni del regolamento del Gestore del Servizio Idrico Integrato. 3-ter. La programmazione degli interventi di cui al comma 3-bis e i tempi per la realizzazione degli stessi sono individuati dal Piano di gestione e tutela delle acque. 3-quater. Gli interventi di adeguamento di cui al comma 3-bis devono essere ultimati in tutto il territorio della Repubblica entro il 30 giugno 2026. 3-quinquies. Il CT ha facoltà di autorizzare il conferimento delle acque nere e bianche (miste) ai collettori fognari delle acque nere nei casi di impossibilità di attuare lo sdoppiamento, previo parere del Gestore del servizio idrico integrato che indicherà, altresì, i relativi recapiti.49
+
+###### Art. 80
+
+(Fanghi derivanti dal trattamento delle acque reflue)
+
+1\. Ferma restando la disciplina di cui al Titolo II, i fanghi derivanti dal trattamento delle acque reflue sono sottoposti alla disciplina dei rifiuti, ove applicabile. I fanghi devono essere riutilizzati ogni qualvolta il loro reimpiego risulti appropriato e sarà disciplinato da apposito regolamento della CTA.
+
+#### CAPO V
+
+GESTIONE DELLE RISORSE IDRICHE
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 79
+
+(Approvazione dei progetti degli impianti di trattamento delle acque reflue urbane)
+
+1.
+
+La CTA definisce le modalità di approvazione dei progetti degli impianti di trattamento delle acque reflue urbane. La CTA definisce altresì le modalità di autorizzazione provvisoria necessaria all’avvio dell’impianto anche in caso di realizzazione per lotti funzionali.
+
+2.
+
+L’AASS definisce la posa delle reti fognarie negli interventi di lottizzazione convenzionata effettuati nelle zone soggette a strumenti di pianificazione urbanistica attuativa.
+
+3.
+
+L’AASS definisce lo sdoppiamento delle reti fognarie nel caso di lottizzazioni private nei casi di non conformità.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 38:
+
+All‘articolo 79 del Decreto Delegato 27 aprile 2012 n. 44 sono aggiunti i seguenti commi: ―3-bis. I proprietari degli edifici esistenti e i gestori delle attività economiche in essere che convogliano le acque di scarico e meteoriche in pubblica fognatura, ove già non abbiano provveduto, hanno l‘obbligo di eseguire lo sdoppiamento delle reti fognarie nell‘ambito della proprietà privata ai fini dell‘allaccio ai collettori della rete pubblica con le modalità previste dal regolamento del Gestore del servizio idrico integrato di cui all‘articolo 5, comma 5, lettera b), ferma restando la suddivisione degli oneri prevista dalla Legge 4 maggio 1979 n. 22. I proprietari degli edifici che ricadono in zone per le quali il Piano di gestione e tutela delle acque di cui all‘articolo 94 non prevede la realizzazione di collettori non soggiacciono agli obblighi di cui al presente comma, applicandosi le disposizioni del regolamento del Gestore del Servizio Idrico Integrato. 3-ter. La programmazione degli interventi di cui al comma 3-bis e i tempi per la realizzazione degli stessi sono individuati dal Piano di gestione e tutela delle acque. 3-quater. Gli interventi di adeguamento di cui al comma 3-bis devono essere ultimati in tutto il territorio della Repubblica entro il 30 giugno 2026. 3-quinquies. Il CT ha facoltà di autorizzare il conferimento delle acque nere e bianche (miste) ai collettori fognari delle acque nere nei casi di impossibilità di attuare lo sdoppiamento, previo parere del Gestore del servizio idrico integrato che indicherà, altresì, i relativi recapiti.
+
+###### Art. 81
+
+(Ambito di applicazione)
+
+1\. Oggetto delle disposizioni contenute nel presente Capo è la disciplina della gestione delle risorse idriche e del servizio idrico integrato per i profili che concernono la tutela dell’ambiente e della concorrenza e la determinazione dei livelli essenziali delle prestazioni del servizio idrico integrato.
+
+###### Art. 82
+
+(Competenze)
+
+1\. Il Congresso di Stato esercita le funzioni e i compiti in merito a quanto disciplinato dal presente Capo.
+
+###### Art. 83
+
+(Proprietà delle infrastrutture)
+
+1\. Gli acquedotti, le fognature, gli impianti di depurazione e le altre infrastrutture idriche di proprietà pubblica, fino al punto di consegna e/o misurazione, sono inalienabili se non nei modi e nei limiti stabiliti dalla legge.
+
+###### Art. 84
+
+(Opere di urbanizzazione realizzate da privati)
+
+1\. Qualora l’Amministrazione, mediante atti di convenzionamento ritenga opportuno demandare a soggetti privati le opere di urbanizzazione, compresa la posa della rete fognaria, dovrà costituire parte integrante del suddetto convenzionamento anche il progetto esecutivo di posa delle fognature preventivamente validato dal gestore del servizio idrico integrato. L’allacciamento ai collettori pubblici avverrà dopo il collaudo favorevole della rete fognaria svolto dal gestore del servizio idrico integrato o da professionisti da questo incaricati. Il gestore del servizio idrico integrato ha facoltà di condurre anche verifiche nel corso dei lavori.
+
+###### Art. 85
+
+(Tutela e uso delle risorse idriche)
+
+1.
+
+Tutte le acque superficiali e sotterranee, ancorché non estratte dal sottosuolo, appartengono allo Stato.
+
+2.
+
+Le acque costituiscono una risorsa che va tutelata ed utilizzata secondo criteri di solidarietà, qualsiasi loro uso sia effettuato, salvaguardando le aspettative ed i diritti delle generazioni future a fruire di un integro patrimonio ambientale.
+
+3.
+
+La disciplina degli usi delle acque è finalizzata alla loro razionalizzazione, allo scopo di evitare gli sprechi e di favorire il rinnovo delle risorse, di non pregiudicare il patrimonio idrico, la vivibilità dell’ambiente, l’agricoltura, la piscicoltura, la fauna e la flora acquatiche, i processi geomorfologici e gli equilibri idrologici.
+
+4.
+
+Gli usi diversi dal consumo umano sono consentiti nei limiti nei quali le risorse idriche siano sufficienti e a condizione che non ne pregiudichino la qualità.
+
+5.
+
+L’AASS nel Regolamento di gestione del Servizio idrico integrato dell’AASS di cui all’articolo 5, comma 5, lettera b), potrà dettare prescrizioni tecniche volte all’installazione da parte degli utenti di dispositivi atti a evitare ritorni in rete (reflussi)
+
+di acque oggetto di fornitura.
+
+6.
+
+Le acque termali, minerali e per uso geotermico saranno disciplinate da norme specifiche.
+
+###### Art. 86
+
+(Captazioni)
+
+1.
+
+Chiunque intenda realizzare l‘apertura di captazioni di acque sotterranee e di falda, diverse dal Pubblico Acquedotto, da utilizzarsi per scopi domestici, ed escluso per il consumo umano, deve presentare apposita domanda di autorizzazione all'UPA.
+
+La domanda di autorizzazione deve essere corredata da relazione redatta da un tecnico abilitato, geologo o ingegnere, che valuti la fattibilità dell'opera di captazione, anche attraverso specifiche campagne di indagini volte ad accertare lo stato qualiquantitativo della risorsa idrica sotterranea, geometria, potenzialità, vulnerabilità e caratteristiche degli acquiferi e gli effetti indotti dall'esecuzione di tale captazione.
+
+La relazione deve approfondire tutti gli aspetti idrogeologici, la stabilità dei versanti e l'integrità degli edifici ed infrastrutture limitrofe alla captazione. L'UPA rilascia l‘autorizzazione previo parere di competenza del SPC e dell‘AASS.
+
+2\. Chiunque intenda realizzare in via straordinaria l‘apertura di captazioni di acque superficiali, diverse dal Pubblico Acquedotto, da utilizzarsi per scopi domestici, ed escluso per il consumo umano, deve presentare apposita domanda di autorizzazione all'UPA.
+
+L'UPA rilascia l‘autorizzazione previo parere di competenza del SPC, dell‘AASS, dell‘UGRAA e del Centro Naturalistico Sammarinese (CNS).
+
+3\. L‘apertura di captazioni diverse dal Pubblico Acquedotto da utilizzarsi nell‘ambito di attività di impresa è soggetta ad autorizzazione del CT, previa istruzione della domanda da parte dell‘UPA, ed al pagamento di una tassa di concessione, stabilita dal Congresso di Stato sentito il Gestore del servizio idrico integrato. La domanda di autorizzazione per l‘apertura di captazioni di acque sotterranee e di falda e di captazioni di acque superficiali è corredata dalla documentazione e dei pareri previsti ai commi 1 e 2 del presente articolo.
+
+4\. Le domande di autorizzazione di cui ai commi 1, 2 e 3 sono presentate in conformità alla modulistica approvata dal CT.
+
+5\. E' facoltà dell'UPA, acquisito parere del SPC e dell‘AASS, interdire le captazioni idriche qualora le stesse generino problematiche di stabilità dei versanti, subsidenza, danni ad edifici, infrastrutture e di approvvigionamento idrico. E‘ inoltre facoltà dell‘Amministrazione emanare ordinanze di restrizione dell‘impiego della risorsa idrica nei periodi di particolare siccità anche per le captazioni di cui ai superiori commi. 50 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 86
+
+(Captazioni)
+
+1.
+
+L’apertura di captazioni diverse dal Pubblico Acquedotto da utilizzarsi per scopi domestici, escluso il consumo umano, deve essere preventivamente segnalata all’UPA che, sentito il gestore del servizio idrico integrato, ha facoltà, entro novanta giorni dalla segnalazione, di vietare la captazione per esigenze di tutela delle risorse idriche.
+
+2.
+
+L’apertura di captazioni diverse dal Pubblico Acquedotto da utilizzarsi nell’ambito di attività di impresa è soggetta ad autorizzazione del CT, previa istruzione della domanda da parte dell’UPA, ed al pagamento di una tassa di concessione stabilita dal Congresso di Stato sentito il Gestore del servizio idrico integrato.
+
+La segnalazione e la domanda di autorizzazione di cui ai commi 1 e 2 sono presentate in conformità alla modulistica che verrà approvata dal CT.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 39:
+
+L‘articolo 86 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 86 (Captazioni)
+
+1\. Chiunque intenda realizzare l‘apertura di captazioni di acque sotterranee e di falda, diverse dal Pubblico Acquedotto, da utilizzarsi per scopi domestici, ed escluso per il consumo umano, deve presentare apposita domanda di
+
+###### Art. 87
+
+(Equilibrio del bilancio idrico)
+
+1.
+
+L’AASS definisce ed aggiorna periodicamente il bilancio idrico diretto ad assicurare l’equilibrio fra le disponibilità di risorse reperibili o attivabili nell’area di riferimento ed i fabbisogni per i diversi usi, nel rispetto dei criteri e degli obiettivi di cui all’articolo 85.
+
+2.
+
+Per assicurare l’equilibrio tra risorse e fabbisogni, l’AASS adotta, per quanto di competenza, le misure per la pianificazione dell’economia idrica in funzione degli usi cui sono destinate le risorse.
+
+3.
+
+Nei corpi idrici superficiali caratterizzati da consistenti prelievi o da trasferimenti, sia a valle che oltre la linea di displuvio, le derivazioni sono regolate in modo da garantire il livello di deflusso necessario alla vita negli alvei sottesi e tale da non danneggiare gli equilibri degli ecosistemi interessati.
+
+###### Art. 88
+
+(Gestione razionale della risorsa idrica)
+
+1\. Il gestore del servizio idrico integrato, nel rispetto dei principi del presente Capo, adotta norme e misure volte a razionalizzare i consumi e eliminare gli sprechi ed in particolare a:
+
+a) migliorare la manutenzione delle reti di adduzione e di distribuzione di acque a qualsiasi uso destinate al fine di ridurre le perdite;
+
+b) prevedere, nella costruzione o sostituzione di nuovi impianti di trasporto e distribuzione dell’acqua sia interni che esterni, l’obbligo di utilizzo di sistemi anticorrosivi di protezione delle condotte di materiale metallico;
+
+c) realizzare, in particolare nei nuovi insediamenti abitativi, commerciali e produttivi di rilevanti dimensioni, reti duali di adduzione al fine dell’utilizzo di acque meno pregiate per usi compatibili;
+
+d) promuovere l’informazione e la diffusione di metodi e tecniche di risparmio idrico domestico e nei settori industriale, terziario ed agricolo;
+
+e) installare contatori per il consumo dell’acqua in ogni singola unità abitativa nonché contatori differenziati per le attività produttive e del settore terziario esercitate nel autorizzazione all'UPA. La domanda di autorizzazione deve essere corredata da relazione redatta da un tecnico abilitato, geologo o ingegnere, che valuti la fattibilità dell'opera di captazione, anche attraverso specifiche campagne di indagini volte ad accertare lo stato quali-quantitativo della risorsa idrica sotterranea, geometria, potenzialità, vulnerabilità e caratteristiche degli acquiferi e gli effetti indotti dall'esecuzione di tale captazione.
+
+La relazione deve approfondire tutti gli aspetti idrogeologici, la stabilità dei versanti e l'integrità degli edifici ed infrastrutture limitrofe alla captazione. L'UPA rilascia l‘autorizzazione previo parere di competenza del SPC e dell‘AASS.
+
+2\. Chiunque intenda realizzare in via straordinaria l‘apertura di captazioni di acque superficiali, diverse dal Pubblico Acquedotto, da utilizzarsi per scopi domestici, ed escluso per il consumo umano, deve presentare apposita domanda di autorizzazione all'UPA.
+
+L'UPA rilascia l‘autorizzazione previo parere di competenza del SPC, dell‘AASS, dell‘UGRAA e del Centro Naturalistico Sammarinese (CNS).
+
+3\. L‘apertura di captazioni diverse dal Pubblico Acquedotto da utilizzarsi nell‘ambito di attività di impresa è soggetta ad autorizzazione del CT, previa istruzione della domanda da parte dell‘UPA, ed al pagamento di una tassa di concessione, stabilita dal Congresso di Stato sentito il Gestore del servizio idrico integrato. La domanda di autorizzazione per l‘apertura di captazioni di acque sotterranee e di falda e di captazioni di acque superficiali è corredata dalla documentazione e dei pareri previsti ai commi 1 e 2 del presente articolo.
+
+4\. Le domande di autorizzazione di cui ai commi 1, 2 e 3 sono presentate in conformità alla modulistica approvata dal CT.
+
+5\. E' facoltà dell'UPA, acquisito parere del SPC e dell‘AASS, interdire le captazioni idriche qualora le stesse generino problematiche di stabilità dei versanti, subsidenza, danni ad edifici, infrastrutture e di approvvigionamento idrico. E‘ inoltre facoltà dell‘Amministrazione emanare ordinanze di restrizione dell‘impiego della risorsa idrica nei periodi di particolare siccità anche per le captazioni di cui ai superiori commi.
+
+contesto urbano;
+
+f) realizzare nei nuovi insediamenti, quando economicamente e tecnicamente conveniente anche in relazione ai recapiti finali, sistemi di collegamento differenziati per le acque piovane e per le acque reflue e di prima pioggia.
+
+2\. Gli strumenti urbanistici, compatibilmente con l’assetto urbanistico e territoriale e con le risorse finanziarie disponibili, devono prevedere reti duali al fine di rendere possibili appropriate utilizzazioni di acque anche non potabili. Il rilascio del permesso di costruire è subordinato alla previsione, nel progetto, dell’installazione di contatori per ogni singola unità abitativa, nonché del collegamento a reti duali, ove già disponibili.
+
+###### Art. 89
+
+(Acque minerali naturali e di sorgenti)
+
+1\. Le concessioni di utilizzazione delle acque minerali naturali e delle acque di sorgente sono rilasciate tenuto conto delle esigenze di approvvigionamento e distribuzione delle acque potabili e delle previsioni del Piano di gestione e tutela di cui all’articolo 94.
+
+###### Art. 90
+
+(Risparmio idrico)
+
+1.
+
+Coloro che gestiscono o utilizzano la risorsa idrica adottano le misure necessarie all’eliminazione degli sprechi ed alla riduzione dei consumi e ad incrementare il riciclo ed il riutilizzo, anche mediante l’utilizzazione delle migliori tecniche disponibili.
+
+2.
+
+La CTA approva, se necessario, specifiche norme sul risparmio idrico in agricoltura, basato sulla pianificazione degli usi, sulla corretta individuazione dei fabbisogni nel settore e sui controlli degli effettivi emungimenti.
+
+3.
+
+L’Amministrazione può promuovere e stipulare accordi con soggetti economici interessati, al fine di favorire il risparmio idrico, il riutilizzo delle acque di scarico e il recupero come materia prima dei fanghi di depurazione, con la possibilità di ricorrere a strumenti economici, di stabilire agevolazioni in materia di adempimenti amministrativi e di fissare, per le sostanze ritenute utili, limiti agli scarichi in deroga alla disciplina generale, nel rispetto comunque delle norme comunitarie e delle misure necessarie al conseguimento degli obiettivi di qualità.
+
+###### Art. 91
+
+(Riutilizzo dell’acqua)
+
+1.
+
+La CTA, se necessario, detta le norme tecniche per il riutilizzo delle acque reflue.
+
+2.
+
+Il Congresso di Stato, su proposta della CTA, adotta norme e misure volte a favorire il riciclo dell’acqua e il riutilizzo delle acque reflue depurate.
+
+###### Art. 92
+
+(Usi agricoli delle acque)
+
+1.
+
+Nei periodi di siccità e comunque nei casi di scarsità di risorse idriche, durante i quali si procede alla regolazione delle derivazioni in atto, deve essere assicurata, dopo il consumo umano, la priorità dell’uso agricolo.
+
+2.
+
+La raccolta di acque piovane in invasi e cisterne al servizio di fondi agricoli o di singoli edifici è libera.
+
+3.
+
+La raccolta di cui al comma 2 non richiede licenza o concessione di derivazione di acque; la realizzazione dei relativi manufatti è regolata dalle leggi in materia di edilizia, di costruzioni nelle zone sismiche, di sbarramenti e dalle altre leggi speciali.
+
+#### CAPO VI
+
+PIANO DI GESTIONE E TUTELA DELLE ACQUE
+
+###### Art. 93
+
+(Finalità)
+
+1\. Il Piano di gestione e tutela delle acque rappresenta un dettagliato strumento di monitoraggio, controllo conoscitivo, normativo e tecnico-operativo mediante il quale sono pianificate e programmate le azioni e le norme finalizzate alla conservazione, alla difesa e all’utilizzo plurimo delle acque e atto a raccogliere dati necessari all’analisi economica dell’utilizzo delle acque.
+
+2\. ABROGATO 51
+
+###### Art. 94
+
+(Piano di gestione e tutela delle acque)
+
+1.
+
+Il Piano di gestione e tutela delle acque è articolato secondo i contenuti elencati nel presente articolo, che definisce gli obiettivi a cui deve riferirsi il Piano medesimo.
+
+2.
+
+Il Piano di gestione e tutela delle acque contiene, oltre agli interventi volti a garantire il raggiungimento o il mantenimento degli obiettivi di cui alla presente Parte, le misure necessarie alla tutela qualitativa e quantitativa del sistema idrico.
+
+3.
+
+Per le finalità di cui al comma 1, il Piano di gestione e tutela delle acque contiene, in particolare:
+
+a) i risultati dell’attività conoscitiva;
+
+b) l’individuazione degli obiettivi di qualità ambientale e per specifica destinazione;
+
+c) l’elenco dei corpi idrici a specifica destinazione e delle aree richiedenti specifiche misure di prevenzione dall’inquinamento e di risanamento;
+
+d) le misure di tutela qualitative e quantitative;
+
+e) l’indicazione della cadenza temporale degli interventi e delle relative priorità;
+
+f) il programma di verifica dell’efficacia degli interventi previsti;
+
+g) gli interventi di bonifica dei corpi idrici;
+
+h) le risorse finanziarie previste dalla legislazione vigente;
+
+i) le iniziative finalizzate ad aumentare l’efficienza dell’utilizzo della risorsa idrica, a diminuire la quantità e incrementare la qualità dei reflui da sottoporre a depurazione anche attraverso il miglioramento della rete fognaria.
+
+4\. Il Piano di gestione e tutela delle acque è approvato dalla CTA e successivamente adottato dal Congresso di Stato. Le successive revisioni e gli aggiornamenti sono effettuati ogni sei anni. 52 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 93
+
+(Finalità)
+
+1\. Il Piano di gestione e tutela delle acque rappresenta un dettagliato strumento di monitoraggio, controllo conoscitivo, normativo e tecnico-operativo mediante il quale sono pianificate e programmate le azioni e le norme finalizzate alla conservazione, alla difesa e all’utilizzo plurimo delle acque e atto a raccogliere dati necessari all’analisi economica dell’utilizzo delle acque.
+
+2\. Il Piano di gestione e tutela viene elaborato dal gestore del servizio idrico integrato e successivamente approvato e adottato dalla CTA.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 40 Il comma 2 dell‘articolo 93 del Decreto Delegato 27 aprile 2012 n. 44 è abrogato.
+
+#### CAPO VI-bis 53
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 94
+
+(Piano di gestione e tutela delle acque)
+
+1.
+
+Il Piano di gestione e tutela delle acque è articolato secondo i contenuti elencati nel presente articolo, che definisce gli obiettivi a cui deve riferirsi il Piano medesimo.
+
+2.
+
+Il Piano di gestione e tutela delle acque contiene, oltre agli interventi volti a garantire il raggiungimento o il mantenimento degli obiettivi di cui alla presente Parte, le misure necessarie alla tutela qualitativa e quantitativa del sistema idrico.
+
+3.
+
+Per le finalità di cui al comma 1, il Piano di gestione e tutela delle acque contiene, in particolare:
+
+a) i risultati dell’attività conoscitiva;
+
+b) l’individuazione degli obiettivi di qualità ambientale e per specifica destinazione;
+
+c) l’elenco dei corpi idrici a specifica destinazione e delle aree richiedenti specifiche misure di prevenzione dall’inquinamento e di risanamento;
+
+d) le misure di tutela qualitative e quantitative;
+
+e) l’indicazione della cadenza temporale degli interventi e delle relative priorità;
+
+f) il programma di verifica dell’efficacia degli interventi previsti;
+
+g) gli interventi di bonifica dei corpi idrici;
+
+h) le risorse finanziarie previste dalla legislazione vigente;
+
+i) le iniziative finalizzate ad aumentare l’efficienza dell’utilizzo della risorsa idrica, a diminuire la quantità e incrementare la qualità dei reflui da sottoporre a depurazione anche attraverso il miglioramento della rete fognaria.
+
+4\. Il Piano di gestione e tutela delle acque è approvato dal Congresso di Stato entro i successivi sei mesi dalla pubblicazione del presente Codice. Le successive revisioni e gli aggiornamenti devono essere effettuati ogni sei anni.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 41:
+
+Il comma 4 dell‘articolo 94 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―4. Il Piano di gestione e tutela delle acque è approvato dalla CTA e successivamente adottato dal Congresso di Stato.
+
+Le successive revisioni e gli aggiornamenti sono effettuati ogni sei anni. 52
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 42:
+
+Al Titolo IV, dopo l‘articolo 94 del Decreto Delegato 27 aprile 2012 n. 44 è inserito il Capo VI-bis, composto dagli articoli 94-bis e 94-ter: ―CAPO VI-bis PIANO DI GESTIONE DEL RISCHIO DI ALLUVIONI
+
+###### Art. 94-bis
+
+(Finalità)
+
+1\. Il Piano di gestione del rischio di alluvioni rappresenta uno strumento finalizzato a ridurre le conseguenze negative derivanti dalle alluvioni soprattutto per la vita e la salute umana, l'ambiente, il patrimonio culturale, l'attività economica e le infrastrutture. Alcune attività umane, come l'incremento degli insediamenti, unitamente alla riduzione della naturale capacità di ritenzione idrica del suolo ed ai cambiamenti climatici, contribuiscono ad aumentare la probabilità e ad aggravare gli impatti negativi delle alluvioni. 53
+
+###### Art. 94-ter
+
+(Piano di gestione del rischio di alluvioni)
+
+1\. Il Piano di gestione del rischio di alluvioni è articolato secondo i contenuti elencati nel presente articolo, che definisce gli obiettivi a cui deve riferirsi il Piano medesimo.
+
+2\. Il Piano di gestione del rischio di alluvioni comprende, oltre gli interventi volti a garantire il raggiungimento degli obbiettivi di cui al presente Capo, tutti gli aspetti della gestione del rischio di alluvioni ed in particolare le misure di prevenzione e protezione, comprese le previsioni di alluvioni ed i sistemi di allertamento che tengono conto delle caratteristiche idrografiche del territorio.
+
+3\. Il Piano di gestione del rischio di alluvioni può anche comprendere la promozione di pratiche sostenibili di utilizzo del suolo ed il miglioramento di ritenzione delle acque.
+
+4\. Il Piano di gestione del rischio da alluvioni contiene, in particolare:
+
+a) la valutazione preliminare del rischio alluvioni, che comprende una mappa del territorio in cui vengono individuate le zone per le quali esiste un rischio potenziale significativo di alluvioni;
+
+b) la mappa della pericolosità da alluvione, che contiene la perimetrazione delle aree geografiche che potrebbero essere interessate da alluvioni secondo scenari:
+
+\- di scarsa probabilità di alluvioni o scenari di eventi estremi;
+
+\- media probabilità di alluvioni (tempo di ritorno probabile ≥ cento anni);
+
+\- elevata probabilità di alluvioni, se opportuno;
+
+c) la mappa del rischio di alluvioni, che indica le potenziali conseguenze negative derivanti dalle alluvioni nell’ambito degli scenari definiti alla lettera b) ed espresse in termini di: numero indicativo degli abitanti potenzialmente interessati, tipo di attività economiche insistenti sull'area potenzialmente interessata ed altre informazioni considerate utili a tal fine;
+
+d) gli obiettivi per la gestione del rischio di alluvioni;
+
+e) le misure per raggiungere gli obiettivi di cui alla lettera d).
+
+5\. Il Piano di gestione del rischio di alluvioni viene approvato dalla CTA e successivamente adottato dal Congresso di Stato. Le successive revisioni e gli aggiornamenti devono essere effettuati ogni sei anni e tengono conto del probabile impatto dei cambiamenti climatici.
+
+PIANO DI GESTIONE DEL RISCHIO DI ALLUVIONI
+
+###### Art. 94-bis
+
+(Finalità)
+
+1\. Il Piano di gestione del rischio di alluvioni rappresenta uno strumento finalizzato a ridurre le conseguenze negative derivanti dalle alluvioni soprattutto per la vita e la salute umana, l'ambiente, il patrimonio culturale, l'attività economica e le infrastrutture. Alcune attività umane, come l'incremento degli insediamenti, unitamente alla riduzione della naturale capacità di ritenzione idrica del suolo ed ai cambiamenti climatici, contribuiscono ad aumentare la probabilità e ad aggravare gli impatti negativi delle alluvioni.
+
+###### Art. 94-ter
+
+(Piano di gestione del rischio di alluvioni)
+
+1\. Il Piano di gestione del rischio di alluvioni è articolato secondo i contenuti elencati nel presente articolo, che definisce gli obiettivi a cui deve riferirsi il Piano medesimo.
+
+2\. Il Piano di gestione del rischio di alluvioni comprende, oltre gli interventi volti a garantire il raggiungimento degli obbiettivi di cui al presente Capo, tutti gli aspetti della gestione del rischio di alluvioni ed in particolare le misure di prevenzione e protezione, comprese le previsioni di alluvioni ed i sistemi di allertamento che tengono conto delle caratteristiche idrografiche del territorio.
+
+3\. Il Piano di gestione del rischio di alluvioni può anche comprendere la promozione di pratiche sostenibili di utilizzo del suolo ed il miglioramento di ritenzione delle acque.
+
+4\. Il Piano di gestione del rischio da alluvioni contiene, in particolare:
+
+a) la valutazione preliminare del rischio alluvioni, che comprende una mappa del territorio in cui vengono individuate le zone per le quali esiste un rischio potenziale significativo di alluvioni;
+
+b) la mappa della pericolosità da alluvione, che contiene la perimetrazione delle aree geografiche che potrebbero essere interessate da alluvioni secondo scenari:
+
+\- di scarsa probabilità di alluvioni o scenari di eventi estremi;
+
+\- media probabilità di alluvioni (tempo di ritorno probabile ≥ cento anni);
+
+\- elevata probabilità di alluvioni, se opportuno;
+
+c) la mappa del rischio di alluvioni, che indica le potenziali conseguenze negative derivanti dalle alluvioni nell’ambito degli scenari definiti alla lettera b) ed espresse in termini di: numero indicativo degli abitanti potenzialmente interessati, tipo di attività economiche insistenti sull'area potenzialmente interessata ed altre informazioni considerate utili a tal fine;
+
+d) gli obiettivi per la gestione del rischio di alluvioni;
+
+e) le misure per raggiungere gli obiettivi di cui alla lettera d).
+
+5\. Il Piano di gestione del rischio di alluvioni viene approvato dalla CTA e successivamente adottato dal Congresso di Stato. Le successive revisioni e gli aggiornamenti devono essere effettuati ogni sei anni e tengono conto del probabile impatto dei cambiamenti climatici.
+
+#### CAPO VII
+
+TARIFFA AMBIENTALE
+
+###### Art. 95
+
+(Tariffa ambientale)
+
+1.
+
+Allo scopo di tutelare l’ambiente garantendo l’uso razionale delle risorse idriche ed il corretto smaltimento delle acque reflue, è istituita la tariffa ambientale destinata alla copertura dei relativi costi.
+
+2.
+
+Le imprese soggette ad autorizzazione allo scarico che, ai sensi dell’articolo 78, comma 3, abbiano ottenuto, in sede di rilascio dell’autorizzazione, specifiche deroghe ai valori limite di emissione previsti nelle Tabelle 1/J e Tabelle 2/J dell’Allegato J del presente Codice, sono soggette a maggiorazioni da applicarsi sulla tariffa ambientale.
+
+Tali maggiorazioni sono commisurate alla potenzialità inquinante delle acque reflue e differenziate in ragione dell’entità della deroga ai valori limite riconosciuta all’utente.
+
+3.
+
+La tariffa ambientale nonché le maggiorazioni sulla tariffa base, sono stabilite dall’Autorità di Regolazione per i Servizi Pubblici e l’Energia, sentito il gestore del sistema idrico integrato.
+
+4.
+
+Fatto salvo quanto previsto ai commi 5 e 6, la tariffa è applicata in relazione ai volumi di acqua prelevata dal Pubblico Acquedotto ed è differenziata in relazione alle seguenti tipologie di utenza:
+
+a) utenza domestica e assimilata. In tale tipologia di utenza rientrano le utenze non soggette ad autorizzazione allo scarico ai sensi dell’articolo 78, comma 9;
+
+b) utenze diverse. In tale tipologia di utenza rientrano le utenze soggette ad autorizzazione allo scarico ai sensi dell’articolo 78, commi 1 e 2.
+
+5.
+
+In relazione alle utenze diverse che esercitino le attività di cui all’Allegato K al presente Codice e che utilizzino captazioni diverse dal pubblico acquedotto, la tariffa è applicata al volume delle acque reflue scaricate.
+
+6.
+
+Le utenze diverse con consumo idrico annuo superiore ad 8.000 m , anche se non ricadenti fra quelle di cui all’Allegato K al presente Codice, hanno facoltà di optare fra il sistema di commisurazione della tariffa di cui al comma 4 e quello di cui al comma 5.
+
+7\. Ai fini della determinazione, da parte dell’Autorità di Regolazione per i Servizi Pubblici e l’Energia, delle maggiorazioni da applicarsi alla tariffa base in funzione del grado di inquinamento delle acque reflue, il gestore del servizio idrico integrato individua:
+
+a) il valore di COD per il quale debba essere applicata la tariffa base;
+
+b) i valori di COD per i quali debbano essere applicate maggiorazioni alla tariffa base;
+
+c) una proposta delle maggiorazioni alla tariffa base;
+
+d) i criteri secondo i quali individuare i volumi di refluo su cui applicare le maggiorazioni alla tariffa base;
+
+e) uno o più parametri chimico/fisici diversi dal COD il cui superamento comporti l’applicazione di maggiorazioni aggiuntive sulla tariffa base unitamente all’applicazione delle eventuali maggiorazioni per il superamento dei valori di COD.
+
+8\. Qualora le acque reflue industriali siano smaltite con metodi diversi dall’immissione nei recettori, le modalità di commisurazione della tariffa applicabile all’utenza sono determinate dall’Autorità di Regolazione per i Servizi Pubblici e l’Energia, sentito il Gestore del sistema idrico integrato.
+
+###### Art. 96
+
+(Modalità di riscossione della tariffa)
+
+1\. La tariffa e le eventuali maggiorazioni alla stessa sono riscosse dal gestore del servizio idrico integrato con le modalità previste nel Regolamento di gestione del Servizio idrico integrato dell’AASS di cui all’articolo 5, comma 5, lettera b).
+
+###### Art. 97
+
+(Obblighi per le utenze diverse che esercitino le attività di cui all’Allegato K)
+
+1.
+
+Le utenze diverse che esercitino le attività di cui all’Allegato K del presente Codice devono adottare soluzioni tecniche tali da consentire l’interruzione dello scarico su disposizione del Gestore del servizio idrico integrato. Qualora le predette utenze non ottemperino all’ordine di interruzione dello scarico loro intimato dal Gestore del servizio idrico integrato e si verifichi uno sversamento in corpi recettori, quali acque superficiali o suolo, le utenze medesime sono tenute ad accollarsi, previo accertamento svolto dall’UPA ed eventualmente dagli Organi della Protezione Civile ai sensi del Titolo VIII, le spese relative al ripristino e bonifica dei siti interessati dalla contaminazione ambientale.
+
+2.
+
+Le utenze diverse che esercitino le attività di cui all’Allegato K al presente Codice e che utilizzino captazioni diverse dal pubblico acquedotto, devono, inoltre, installare entro centottanta giorni dal rilascio dell’autorizzazione e mantenere in efficienza, a propria cura e spese, un misuratore di portata allo scarico con registratore continuo, previa intesa con il Gestore del servizio idrico integrato.
+
+3.
+
+L’obbligo di cui al comma 2 sussiste anche in capo agli utenti diversi di cui all’articolo 95, comma 6, che optino per il sistema di commisurazione della tariffa previsto al comma 5 del medesimo articolo 95.
+
+4.
+
+In caso di irregolare o mancato funzionamento dell’apparecchio di misura di cui ai commi 2 e 3, il quantitativo verrà computato in relazione a quello corrispondente alla produzione storica di acque reflue dell’utente rapportata al periodo in esame e alla fascia tariffaria dell’utente.
+
+5.
+
+Il Regolamento del Servizio idrico integrato dell’AASS di cui all’articolo 5, comma 5, lettera b) stabilisce ulteriori obblighi per gli utenti di cui ai commi 1, 2 e 3 con particolare riguardo alle caratteristiche ed all’ubicazione delle apparecchiature di misurazione.
+
+6.
+
+Le utenze diverse che esercitino le attività di cui all’Allegato K del presente Codice sono tenute a produrre all’UPA ed al Gestore del servizio idrico integrato le analisi delle proprie acque reflue con la periodicità ed in relazione ai parametri chimico/fisici individuati dal CT, in fase di rilascio dell’autorizzazione, sentito il Gestore del servizio idrico integrato.
+
+#### CAPO VIII
+
+SISTEMA SANZIONATORIO
+
+###### Art. 98
+
+(Sanzioni Penali)
+
+1\. Quando non costituisca più grave reato, è punito con l’arresto di terzo grado chiunque emetta scarichi:
+
+a) in corpi idrici superficiali e nelle zone di tutela e di rispetto di cui all’articolo 68;
+
+b) sul suolo o sugli strati superficiali del sottosuolo, fatte salve le eccezioni di cui all’articolo 71, comma 1;
+
+c) nel sottosuolo e nelle acque sotterranee, fatte salve le eccezioni di cui all’articolo 72, comma 2;
+
+d) nelle acque sotterranee, in tutti i casi, quando si tratta di immissione diretta di acque meteoriche;
+
+e) nella rete fognaria, quando si tratta di immissione delle sostanze indicate all’articolo 75;
+
+e-bis) nella rete fognaria, quando sia stata disposta la sospensione di cui all’articolo 99, comma 7-bis.
+
+2\. La stessa pena di cui al comma che precede si applica nel caso in cui in una zona di rispetto siano insediati centri di pericolo e/o svolte attività di cui all’articolo 68, comma 4.
+
+3\. In caso di recidiva, nelle violazioni di cui ai commi 1 e 2 si applica la prigionia di primo grado. 54
+
+###### Art. 99
+
+(Sanzioni Amministrative)
+
+1\. Fatta salva l’applicazione dell’articolo 258 del Codice Penale per l’emissione di scarichi in difetto delle prescritte autorizzazioni di legge e fatta salva l’eventuale concorrente applicazione delle norme penali, per le attività esercitate in presenza di autorizzazione si applica la sanzione amministrativa pecuniaria da € 500,00 a €
+
+5.000,00 nei seguenti casi:
+
+a) mancato rispetto degli obblighi e/o delle prescrizioni eventualmente contenute nell’autorizzazione;
+
+b) mancato rispetto dei valori limite di emissione degli scarichi prescritti dalla presente Parte, dalle norme tecniche, dalle prescrizioni regolamentari e dalle eventuali autorizzazioni degli organi competenti. Ferma restando l’applicazione delle sanzioni amministrative pecuniarie, in caso di superamento dei valori limite di emissione, è fatto salvo il diritto di rivalsa del gestore del servizio idrico integrato per gli eventuali ulteriori oneri sostenuti per lo smaltimento del refluo.
+
+2\. Nel caso in cui i valori limite di emissione siano conseguiti mediante diluizione, ai Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 98
+
+(Sanzioni Penali)
+
+1\. Quando non costituisca più grave reato, è punito con l’arresto di terzo grado chiunque emetta scarichi:
+
+a) in corpi idrici superficiali e nelle zone di tutela e di rispetto di cui all’articolo 68;
+
+b) sul suolo o sugli strati superficiali del sottosuolo, fatte salve le eccezioni di cui all’articolo 71, comma 1;
+
+c) nel sottosuolo e nelle acque sotterranee, fatte salve le eccezioni di cui all’articolo 72, comma 2;
+
+d) nelle acque sotterranee, in tutti i casi, quando si tratta di immissione diretta di acque meteoriche;
+
+e) nella rete fognaria, quando si tratta di immissione delle sostanze indicate all’articolo 75.
+
+2\. La stessa pena di cui al comma che precede si applica nel caso in cui in una zona di rispetto siano insediati centri di pericolo e/o svolte attività di cui all’articolo 68, comma 4.
+
+3\. In caso di recidiva, nelle violazioni di cui ai commi 1 e 2 si applica la prigionia di primo grado.
+
+Modifiche legislative.
+
+Legge 22 dicembre 2015 n. 189, Art.80:
+
+(Codice Ambientale)
+
+1\. Il comma 7 dell’articolo 99 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è così modificato:
+
+“7. In caso di mancata o irregolare installazione del pozzetto di ispezione e campionamento, di sua inaccessibilità agli organi preposti al campionamento e/o di condizioni di insufficiente manutenzione e in tutti i casi di violazione dell’articolo 70, comma 2, nonché nelle ipotesi di irregolare installazione del misuratore di portata di cui all’articolo 97, commi 2 e 3, per ogni violazione accertata si applica la sanzione da euro 500,00 a euro 3.000,00.”.
+
+2\. All’articolo 99 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è aggiunto il seguente comma 7-bis:
+
+“7-bis. In caso di mancata installazione del misuratore di portata di cui all’articolo 97, commi 2 e 3, si applica la sanzione di euro 3.000,00. Trascorsi sessanta giorni dalla data di applicazione della prima sanzione, qualora il misuratore di portata non sia stato installato, si applica la sanzione di euro 6.000,00. Trascorsi centoventi giorni dalla data di applicazione della seconda sanzione, qualora il misuratore di portata non sia stato installato, si applica la sanzione di euro 30.000,00 ed è disposta la sospensione dello scarico nella rete fognaria.”.
+
+3\. Al comma 1 dell’articolo 98 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è aggiunta la seguente lettera e-bis):
+
+“e-bis) nella rete fognaria, quando sia stata disposta la sospensione di cui all’articolo 99, comma 7-bis.”.
+
+4\. All’articolo 189 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è aggiunto il seguente comma 5-bis:
+
+“5-bis. Sono nulli patti e accordi stipulati dalla Pubblica Amministrazione o da Enti Pubblici in contrasto con il presente decreto delegato.”.
+
+5\. È dato mandato al Congresso di Stato di emanare, entro centottanta giorni dalla data di entrata in vigore della presente legge, decreto delegato che modifichi ed aggiorni il Codice Ambientale di cui al Decreto Delegato 27 aprile 2012 n.44.
+
+sensi dell’articolo 70, comma 4, la sanzione prevista al comma 1 è raddoppiata tanto nel minimo quanto nel massimo.
+
+3\. L’autorizzazione si considera revocata nel caso di mancata ottemperanza agli obblighi indicati all’articolo 71, comma 2 e all’articolo 78, comma 4; è revocata dal CT nei casi di recidiva alle violazioni amministrative di cui al presente articolo; decade se la qualità e quantità del refluo subisce variazioni, ai sensi dell’articolo 78, comma 7.
+
+4\. Il mancato rispetto dei termini di adeguamento previsti dall’articolo 100, commi 3, 4 e 5 è punito con la sanzione pecuniaria amministrativa da € 500,00 a € 3.000,00.
+
+5\. La mancata adozione delle soluzioni tecniche, di cui all’articolo 97, comma 1, finalizzate a consentire l’interruzione dello scarico su disposizione del Gestore del servizio idrico integrato, comporta la sanzione pecuniaria amministrativa da € 750,00 a € 2.000,00; fatta salva l’eventuale concorrente applicazione delle norme penali per le ipotesi di mancata ottemperanza all’ordine di interruzione dello scarico e di sversamento in corpi recettori intimato dal Gestore del servizio idrico integrato, all’obbligo di rimessione in pristino e bonifica si aggiunge, altresì, la sanzione pecuniaria da € 1.000,00 a € 3.000,00.
+
+6\. L‘apertura di captazioni non autorizzate, ai sensi dell‘articolo 86, è punita con la sanzione amministrativa pecuniaria da € 500,00 a € 1.500,00.
+
+7\. In caso di mancata o irregolare installazione del pozzetto di ispezione e campionamento, di sua inaccessibilità agli organi preposti al campionamento e/o di condizioni di insufficiente manutenzione e in tutti i casi di violazione dell’articolo 70, comma 2, nonché nelle ipotesi di irregolare installazione del misuratore di portata di cui all’articolo 97, commi 2 e 3, per ogni violazione accertata si applica la sanzione da euro 500,00 a euro 3.000,00. 7-bis. In caso di mancata installazione del misuratore di portata di cui all’articolo 97, commi 2 e 3, si applica la sanzione di euro 3.000,00. Trascorsi sessanta giorni dalla data di applicazione della prima sanzione, qualora il misuratore di portata non sia stato installato, si applica la sanzione di euro 6.000,00. Trascorsi centoventi giorni dalla data di applicazione della seconda sanzione, qualora il misuratore di portata non sia stato installato, si applica la sanzione di euro 30.000,00 ed è disposta la sospensione dello scarico nella rete fognaria.
+
+8\. Le medesime sanzioni di cui al comma che precede si applicano per ogni violazione accertata delle norme e prescrizioni tecniche di cui ai punti da 1) a 6) della lettera b) del comma 5 dell’articolo 5, comma 5, lettera b); all’articolo 69, comma 3; all’articolo 74, comma 2; all’articolo 78, comma 9; all’articolo 85, comma 5; all’articolo 97, commi 5 e 6; nonché per ogni altra violazione accertata alle disposizioni contenute nel Regolamento del Gestore del servizio idrico integrato. 8-bis. La violazione delle disposizioni di cui all'articolo 66-bis, comma 4 - così come introdotto dall‘articolo 32 del Decreto Delegato 12 luglio 2016 n.84 - è punita con la sanzione amministrativa pecuniaria da lire € 1.500,00 a € 30.000,00. 8-ter. Si applica la sanzione prevista al comma 8-bis a chiunque utilizza, in imprese alimentari, mediante incorporazione o contatto per la fabbricazione, il trattamento, la conservazione, l'immissione sul mercato di prodotti o sostanze destinate al consumo umano, acqua che, pur conforme al punto di consegna alle disposizioni di cui all'articolo 66-bis, comma 3- così come introdotto dall‘articolo 32 del Decreto Delegato 12 luglio 2016 n.84 -, non lo sia al punto in cui essa fuoriesce dal rubinetto, se l'acqua utilizzata ha conseguenze per la salubrità del prodotto alimentare finale. 8-quater. Il mancato rispetto dell‘obbligo previsto all‘articolo 79, comma 4 è punito con la sanzione amministrativa da € 1.500,00 a € 4.500,00.
+
+9\. Fatto salvo quanto previsto al comma successivo, la facoltà di oblazione volontaria di cui all’articolo 33 della Legge 28 giugno 1989 n.68 è ammessa mediante il pagamento della metà della sanzione irrogata.
+
+10\. In caso di recidiva alle violazioni amministrative di cui ai commi precedenti la
+
+sanzione amministrativa viene aumentata fino a tre volte tanto nel minimo quanto nel massimo, tenuto conto della gravità dell’infrazione e non è ammesso l’esercizio della facoltà di oblazione volontaria di cui all’articolo 33 della Legge n.68/1989.
+
+11\. E’ recidivo chi, nei cinque anni precedenti l’ultima violazione, risulta aver commesso la medesima violazione amministrativa. 55 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 99
+
+(Sanzioni Amministrative)
+
+1\. Fatta salva l’applicazione dell’articolo 258 del Codice Penale per l’emissione di scarichi in difetto delle prescritte autorizzazioni di legge e fatta salva l’eventuale concorrente applicazione delle norme penali, per le attività esercitate in presenza di autorizzazione si applica la sanzione amministrativa pecuniaria da € 500,00 a € 5.000,00 nei seguenti casi:
+
+a) mancato rispetto degli obblighi e/o delle prescrizioni eventualmente contenute nell’autorizzazione;
+
+b) mancato rispetto dei valori limite di emissione degli scarichi prescritti dalla presente Parte, dalle norme tecniche, dalle prescrizioni regolamentari e dalle eventuali autorizzazioni degli organi competenti. Ferma restando l’applicazione delle sanzioni amministrative pecuniarie, in caso di superamento dei valori limite di emissione, è fatto salvo il diritto di rivalsa del gestore del servizio idrico integrato per gli eventuali ulteriori oneri sostenuti per lo smaltimento del refluo.
+
+2\. Nel caso in cui i valori limite di emissione siano conseguiti mediante diluizione, ai sensi dell’articolo 70, comma 4, la sanzione prevista al comma 1 è raddoppiata tanto nel minimo quanto nel massimo.
+
+3\. L’autorizzazione si considera revocata nel caso di mancata ottemperanza agli obblighi indicati all’articolo 71, comma 2 e all’articolo 78, comma 4; è revocata dal CT nei casi di recidiva alle violazioni amministrative di cui al presente articolo; decade se la qualità e quantità del refluo subisce variazioni, ai sensi dell’articolo 78, comma 7.
+
+4\. Il mancato rispetto dei termini di adeguamento previsti dall’articolo 100, commi 3, 4 e 5 è punito con la sanzione pecuniaria amministrativa da € 500,00 a € 3.000,00.
+
+5\. La mancata adozione delle soluzioni tecniche, di cui all’articolo 97, comma 1, finalizzate a consentire l’interruzione dello scarico su disposizione del Gestore del servizio idrico integrato, comporta la sanzione pecuniaria amministrativa da € 750,00 a € 2.000,00; fatta salva l’eventuale concorrente applicazione delle norme penali per le ipotesi di mancata ottemperanza all’ordine di interruzione dello scarico e di sversamento in corpi recettori intimato dal Gestore del servizio idrico integrato, all’obbligo di rimessione in pristino e bonifica si aggiunge, altresì, la sanzione pecuniaria da € 1.000,00 a € 3.000,00.
+
+6\. L’apertura di captazioni non segnalate, ai sensi dell’articolo 86, comma 1, o non autorizzate, ai sensi dell’articolo 86, comma 2, è punita con la sanzione amministrativa pecuniaria da € 500,00 a € 1.500,00.
+
+7\. In caso di mancata o scorretta installazione del pozzetto di ispezione e campionamento, di sua inaccessibilità agli organi preposti al campionamento e/o di condizioni di insufficiente manutenzione, e in tutti i casi di violazione dell’articolo 70, comma 2, nonché nelle ipotesi di mancata o irregolare installazione del misuratore di portata di cui all’articolo 97, commi 2 e 3, per ogni violazione accertata si applica la sanzione da € 500,00 a € 3.000,00.
+
+8\. Le medesime sanzioni di cui al comma che precede si applicano per ogni violazione accertata delle norme e prescrizioni tecniche di cui ai punti da 1) a 6) della lettera b) del comma 5 dell’articolo 5, comma 5, lettera b); all’articolo 69, comma 3; all’articolo 74, comma 2; all’articolo 78, comma 9; all’articolo 85, comma 5; all’articolo 97, commi 5 e 6; nonché per ogni altra violazione accertata alle disposizioni contenute nel Regolamento del Gestore del servizio idrico integrato.
+
+9\. Fatto salvo quanto previsto al comma successivo, la facoltà di oblazione volontaria di cui all’articolo 33 della Legge 28 giugno 1989 n.68 è ammessa mediante il pagamento della metà della sanzione irrogata.
+
+10\. In caso di recidiva alle violazioni amministrative di cui ai commi precedenti la sanzione amministrativa viene aumentata fino a tre volte tanto nel minimo quanto nel massimo, tenuto conto della gravità dell’infrazione e non è ammesso l’esercizio della facoltà di oblazione volontaria di cui all’articolo 33 della Legge n.68/1989.
+
+11\. E’ recidivo chi, nei cinque anni precedenti l’ultima violazione, risulta aver commesso la medesima violazione amministrativa.
+
+Modifiche legislative.
+
+Legge 22 dicembre 2015 n. 189, Art.80:
+
+(Codice Ambientale)
+
+1\. Il comma 7 dell’articolo 99 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è così modificato:
+
+“7. In caso di mancata o irregolare installazione del pozzetto di ispezione e campionamento, di sua inaccessibilità agli organi preposti al campionamento e/o di condizioni di insufficiente manutenzione e in tutti i casi di violazione dell’articolo 70, comma 2, nonché nelle ipotesi di irregolare installazione del misuratore di portata di cui all’articolo 97, commi 2 e 3, per ogni violazione accertata si applica la sanzione da euro 500,00 a euro 3.000,00.”.
+
+2\. All’articolo 99 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è aggiunto il seguente comma 7-bis:
+
+“7-bis. In caso di mancata installazione del misuratore di portata di cui all’articolo 97, commi 2 e 3, si applica la sanzione di euro 3.000,00. Trascorsi sessanta giorni dalla data di applicazione della prima sanzione, qualora il misuratore di portata non sia stato installato, si applica la sanzione di euro 6.000,00. Trascorsi centoventi giorni dalla data di applicazione della seconda sanzione, qualora il misuratore di portata non sia stato installato, si applica la sanzione di euro 30.000,00 ed è disposta la sospensione dello scarico nella rete fognaria.”.
+
+3\. Al comma 1 dell’articolo 98 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è aggiunta la seguente lettera e-bis):
+
+“e-bis) nella rete fognaria, quando sia stata disposta la sospensione di cui all’articolo 99, comma 7-bis.”.
+
+4\. All’articolo 189 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è aggiunto il seguente comma 5-bis:
+
+“5-bis. Sono nulli patti e accordi stipulati dalla Pubblica Amministrazione o da Enti Pubblici in contrasto con il presente decreto delegato.”.
+
+5\. È dato mandato al Congresso di Stato di emanare, entro centottanta giorni dalla data di entrata in vigore della presente legge, decreto delegato che modifichi ed aggiorni il Codice Ambientale di cui al Decreto Delegato 27 aprile 2012 n.44.
+
+#### CAPO IX
+
+DISPOSIZIONI TRANSITORIE
+
+###### Art. 100
+
+(Disposizioni transitorie)
+
+1.
+
+Fino all’emanazione del Regolamento di cui all’articolo 76, comma 2, per l’utilizzo agronomico delle deiezioni animali e dei materiali biodegradabili, rimangono valide le procedure disciplinate dal Decreto Reggenziale n.108/1995.
+
+2.
+
+Fino all’emanazione del Regolamento di gestione del Servizio idrico integrato dell’AASS di cui all’articolo 5, comma 5, lettera b), per gli insediamenti le installazioni o edifici isolati non ancora serviti da rete fognaria e che producono acque reflue domestiche, per lo smaltimento finale rimangono valide le procedure disciplinate dal Decreto Reggenziale n.108/1995.
+
+3.
+
+I soggetti che utilizzano captazioni esistenti, diverse da quelle della rete pubblica devono, entro novanta giorni dalla data di entrata in vigore del presente Codice, comunicare l’esistenza delle predette captazioni ai fini della segnalazione all’UPA o del rilascio, da parte del CT, dell’autorizzazione previsti dall’articolo 86.
+
+4\. Le imprese che originino scarichi di cui all’articolo 62, comma 1, lettera cc) ed i cui scarichi abbiano subito modifiche qualitative o quantitative rispetto a quelle oggetto di autorizzazione, devono provvedere a richiedere una nuova autorizzazione entro novanta giorni dalla data di entrata in vigore del presente Codice.
+
+5\. Le utenze diverse esercenti le attività di cui all’Allegato K che immettano gli scarichi di acque reflue industriali o urbane nei recettori, devono ottemperare alle seguenti prescrizioni:
+
+a) presentare al CT, entro sessanta giorni dalla data di entrata in vigore del presente Codice, l’analisi delle proprie acque reflue nei parametri caratterizzanti individuati dal CT medesimo nonché l’eventuale richiesta di autorizzazione in deroga ai sensi dell’articolo 78, comma 3;
+
+b) presentare le analisi delle proprie acque reflue nei parametri caratterizzanti richiesti dal CT con la periodicità stabilita dal CT medesimo all’atto dell’esame della prima analisi presentata a mente della precedente lettera a);
+
+c) qualora utilizzino captazioni diverse dal pubblico acquedotto, installare, entro centottanta giorni dalla data di entrata in vigore del presente Codice, a propria cura e spese, il misuratore di portata allo scarico con registratore continuo previsto dall’articolo 97, comma 2.
+
+6\. Fino alla determinazione della tariffa di cui all’articolo 95, si applica la tassa ambientale di cui al Decreto 25 febbraio 2004, n. 25.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 43:
+
+L‘articolo 99 del Decreto Delegato 27 aprile 2012 n. 44 è modificato come segue:
+
+a) il comma 6 è sostituito dal seguente: ―6. L‘apertura di captazioni non autorizzate, ai sensi dell‘articolo 86, è punita con la sanzione amministrativa pecuniaria da € 500,00 a € 1.500,00.
+
+b) dopo il comma 8 sono aggiunti i seguenti commi: ―8-bis. La violazione delle disposizioni di cui all'articolo 66-bis, comma 4 - così come introdotto dall‘articolo 32 del Decreto Delegato 12 luglio 2016 n.84 - è punita con la sanzione amministrativa pecuniaria da lire € 1.500,00 a € 30.000,00. 8-ter. Si applica la sanzione prevista al comma 8-bis a chiunque utilizza, in imprese alimentari, mediante incorporazione o contatto per la fabbricazione, il trattamento, la conservazione, l'immissione sul mercato di prodotti o sostanze destinate al consumo umano, acqua che, pur conforme al punto di consegna alle disposizioni di cui all'articolo 66-bis, comma 3- così come introdotto dall‘articolo 32 del Decreto Delegato 12 luglio 2016 n.84 -, non lo sia al punto in cui essa fuoriesce dal rubinetto, se l'acqua utilizzata ha conseguenze per la salubrità del prodotto alimentare finale. 8-quater. Il mancato rispetto dell‘obbligo previsto all‘articolo 79, comma 4 è punito con la sanzione amministrativa da € 1.500,00 a € 4.500,00.
+
+### TITOLO V 56
+
+NORME IN MATERIA DI TUTELA DELL’ARIA E DI RIDUZIONE DELLE EMISSIONI IN ATMOSFERA
+
+#### CAPO I
+
+DISPOSIZIONI GENERALI
+
+###### Art. 101
+
+(Finalità)
+
+1.
+
+Il presente titolo ha come finalità la riduzione delle emissioni inquinanti in atmosfera provenienti da impianti ed attività industriali e da impianti termici civili al fine di tutelare la salute umana e l’ambiente nel suo complesso.
+
+2.
+
+Scopo del presente Titolo è anche quello di allineare la disciplina delle emissioni in atmosfera alla normativa comunitaria, in particolare alle direttive europee, al fine di concorrere al miglioramento della qualità dell’aria su vasta scala oltre che a livello locale.
+
+3.
+
+I Capi che seguono disciplinano la valutazione e la gestione della qualità dell’aria ambiente e sono finalizzati a:
+
+a) valutare la qualità dell’aria ambiente;
+
+b) ottenere informazioni sulla qualità dell’aria ambiente come base per individuare le misure da adottare per contrastare l’inquinamento e gli effetti nocivi dell’inquinamento sulla salute umana e sull’ambiente;
+
+c) realizzare una migliore cooperazione con gli Stati confinanti in materia di inquinamento atmosferico;
+
+d) allinearsi alla normativa europea in materia di qualità dell’aria ambiente;
+
+e) disciplinare i Piani ed i programmi per la protezione ed il miglioramento della qualità dell’aria ambiente.
+
+#### CAPO II
+
+TUTELA DELL’ARIA DALLE EMISSIONI IN ATMOSFERA DI IMPIANTI E ATTIVITÀ
+
+###### Art. 102
+
+(Campo di applicazione)
+
+1\. Il presente Capo, ai fini della prevenzione e della limitazione dell’inquinamento atmosferico, si applica agli impianti ed alle attività che producono emissioni in atmosfera e stabilisce i valori di emissione, le prescrizioni, i metodi di campionamento e di analisi delle emissioni ed i criteri per la valutazione della conformità dei valori misurati ai valori limite.
+
+Decreto Delegato 31 gennaio 2017 n. 16, Art. 70:
+
+Il Regolamento (CE) n.1013/2006 richiamato al Titolo II del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni.
+
+La Direttiva 2000/60/CE e la Direttiva 1998/83/CE richiamate al Titolo IV del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, devono intendersi rispettivamente Direttiva 2000/60/CE e successive modifiche ed integrazioni e Direttiva 1998/83/CE e successive modifiche ed integrazioni.
+
+La Direttiva 2008/50/CE richiamata al Titolo V del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Direttiva 2008/60/CE e successive modifiche ed integrazioni.
+
+La Direttiva 2004/35/CE richiamata al Titolo VIII del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Direttiva 2004/35/CE e successive modifiche ed integrazioni.
+
+###### Art. 103
+
+(Definizioni)
+
+1\. Ai fini del presente Capo si applicano le seguenti definizioni:
+
+a) inquinamento atmosferico: ogni modificazione dell’aria atmosferica, dovuta all’introduzione nella stessa di una o di più sostanze in quantità e con caratteristiche tali da ledere o da costituire un pericolo per la salute umana o per la qualità dell’ambiente oppure tali da ledere i beni materiali o compromettere gli usi legittimi dell’ambiente;
+
+b) emissione: qualsiasi sostanza solida, liquida o gassosa introdotta nell’atmosfera che possa causare inquinamento atmosferico;
+
+c) emissione convogliata: emissione di un effluente gassoso effettuata attraverso uno o più appositi punti;
+
+d) emissione diffusa: emissione diversa da quella ricadente nella lettera c);
+
+e) emissione tecnicamente convogliabile: emissione diffusa che deve essere convogliata sulla base delle migliori tecniche disponibili o in presenza di situazioni o di zone che richiedono una particolare tutela;
+
+f) emissioni totali: la somma delle emissioni diffuse e delle emissioni convogliate;
+
+g) effluente gassoso: lo scarico gassoso, contenente emissioni solide, liquide o gassose; la relativa portata volumetrica è espressa in metri cubi all’ora riportata in condizioni normali (Nm3/ora), previa detrazione del tenore di vapore acqueo;
+
+h) stabilimento: il complesso unitario e stabile, che si configura come un complessivo ciclo produttivo, sottoposto al potere decisionale di un unico gestore, in cui sono presenti uno o più impianti o sono effettuate una o più attività che producono emissioni attraverso, per esempio, dispositivi mobili, operazioni manuali, deposizioni e movimentazioni. Si considera stabilimento anche il luogo adibito in modo stabile all’esercizio di una o più attività;
+
+i) stabilimento esistente: lo stabilimento già autorizzato alle emissioni in atmosfera o che non necessitava di autorizzazione ai sensi della normativa previgente e già in esercizio;
+
+l) impianto: il dispositivo o il sistema o l’insieme di dispositivi o sistemi fisso e destinato a svolgere in modo autonomo una specifica attività, anche nell’ambito di un ciclo più ampio;
+
+m) modifica dello stabilimento: installazione di un impianto o avvio di una attività presso uno stabilimento o modifica di un impianto o di una attività presso uno stabilimento, la quale comporti una variazione di quanto indicato nel progetto o nella relazione tecnica o nell’autorizzazione di cui all’articolo 104, o nella comunicazione di cui all’articolo 105, comma 2; ricadono nella definizione anche le modifiche relative alle modalità di esercizio o ai combustibili utilizzati;
+
+n) modifica sostanziale: modifica che comporta un aumento in flusso di massa orario al 15%, per un qualsiasi inquinante per cui è fissato il rispetto del limite delle emissioni, o una variazione qualitativa delle emissioni (nuovi inquinanti emessi) o che altera le condizioni di convogliabilità tecnica delle stesse; per le attività in deroga di cui all’articolo 105 ogni modifica che comporta la richiesta di un provvedimento autorizzativo ai sensi dell’articolo 104;
+
+o) gestore: la persona fisica o giuridica che ha potere decisionale circa l’installazione o l’esercizio dello stabilimento e che è responsabile dell’applicazione dei limiti e delle prescrizioni disciplinati nel presente Capo;
+
+p) valore limite di emissione: il fattore di emissione, la concentrazione, la percentuale o il flusso di massa di sostanze inquinanti nelle emissioni che non devono essere superati. I valori limite di emissione espressi come concentrazione
+
+sono stabiliti con riferimento al funzionamento dell’impianto nelle condizioni di esercizio più gravose e, salvo che sia diversamente disposto dal presente Capo o dall’autorizzazione, si intendono stabiliti come media oraria;
+
+q) fattore di emissione: rapporto tra massa di sostanza inquinante emessa e unità di misura specifica di prodotto o di servizio;
+
+r) concentrazione: rapporto tra massa di sostanza inquinante emessa e volume dell’effluente gassoso;
+
+s) percentuale: rapporto tra massa di sostanza inquinante emessa e massa della stessa sostanza utilizzata nel processo produttivo, moltiplicato per cento;
+
+t) flusso di massa: massa di sostanza inquinante emessa per unità di tempo;
+
+u) soglia di rilevanza dell’emissione: flusso di massa, per singolo inquinante o per singola classe di inquinanti, calcolato a monte di eventuali sistemi di abbattimento e nelle condizioni di esercizio più gravose dell’impianto, al di sotto del quale non si applicano i valori limite di emissione;
+
+v) condizioni normali: una temperatura di 273,15 K ed una pressione di 101,3 kPa;
+
+z) impianto di combustione: qualsiasi dispositivo tecnico in cui sono ossidati combustibili al fine di utilizzare il calore così prodotto;
+
+aa) potenza termica nominale dell’impianto di combustione: prodotto del potere calorifico inferiore del combustibile utilizzato e della portata massima di combustibile bruciato al singolo impianto di combustione, così come dichiarata dal costruttore, espressa in Watt termici o suoi multipli;
+
+bb) impianto termico: impianto destinato alla produzione di calore costituito da uno o più generatori di calore e da un unico sistema di distribuzione e utilizzazione di tale calore, nonché da appositi dispositivi di regolazione e di controllo;
+
+cc) generatore di calore: qualsiasi dispositivo di combustione alimentato con combustibili al fine di produrre calore, costituito da un focolare ed eventualmente uno scambiatore di calore;
+
+dd) focolare: parte di un generatore di calore nella quale avviene il processo di combustione;
+
+ee) impianto termico civile: impianto termico la cui produzione di calore è esclusivamente destinata, anche in edifici ad uso non residenziale, al riscaldamento o alla climatizzazione invernale o estiva di ambienti o al riscaldamento di acqua per usi igienici e sanitari. L’impianto termico civile è centralizzato se serve tutte le unità dell’edificio o di più edifici ed è individuale negli altri casi;
+
+ff) potenza termica nominale dell’impianto termico: la somma delle potenze termiche nominali dei singoli focolari costituenti l’impianto;
+
+gg) potenza termica nominale del focolare: il prodotto del potere calorifico inferiore del combustibile utilizzato e della portata massima di combustibile bruciato all’interno del focolare, espresso in Watt termici o suoi multipli;
+
+hh) proprietario dell’impianto termico: chi è proprietario, in tutto o in parte, dell’impianto termico. Nel caso di edifici dotati di impianti termici centralizzati amministrati in condominio e nel caso di soggetti diversi dalle persone fisiche, gli obblighi e le responsabilità posti a carico del proprietario per quello che riguarda l’esercizio e la manutenzione dell’impianto sono da ritenersi riferiti agli amministratori del condominio o per essi ad un soggetto terzo a ciò incaricato;
+
+ii) terzo responsabile dell’esercizio e della manutenzione dell’impianto termico: persona fisica o giuridica che, essendo in possesso dei requisiti previsti dalle normative vigenti, è delegata dal proprietario ad assumere la responsabilità dell’esercizio, della manutenzione e dell’adozione delle misure necessarie al contenimento dei consumi energetici e della salvaguardia dell’ambiente;
+
+ll)
+
+composto organico: qualsiasi composto contenente almeno l’elemento carbonio e uno o più degli elementi seguenti: idrogeno, alogeni, ossigeno, zolfo, fosforo, silicio o azoto, ad eccezione degli ossidi di carbonio e dei carbonati e bicarbonati inorganici;
+
+mm) composto organico volatile (Cov): qualsiasi composto organico che abbia a 293,15 K una pressione di vapore di 0,01 kPa o superiore, oppure che abbia una volatilità corrispondente in condizioni particolari di uso;
+
+nn) solvente organico: qualsiasi Cov usato da solo o in combinazione con altri agenti al fine di dissolvere materie prime, prodotti o rifiuti, senza subire trasformazioni chimiche, o usato come agente di pulizia per dissolvere contaminanti oppure come dissolvente, mezzo di dispersione, correttore di viscosità, correttore di tensione superficiale, plastificante o conservante.
+
+###### Art. 104
+
+(Autorizzazione alle emissioni in atmosfera per gli stabilimenti e gli impianti termici)
+
+1.
+
+Tutti gli stabilimenti che producono emissioni in atmosfera e gli impianti termici anche ad uso civile di potenzialità uguale o superiore a 116 kW devono essere autorizzati ai sensi del presente articolo. L’autorizzazione è rilasciata al gestore con riferimento allo stabilimento o all’impianto termico. I singoli impianti e le singole attività presenti nello stabilimento non sono oggetto di distinte autorizzazioni.
+
+2.
+
+La domanda è presentata dal gestore dello stabilimento o dal proprietario dell’impianto termico al Collegio Tecnico quando intende installare uno stabilimento nuovo o un impianto termico nuovo o trasferirlo da un luogo ad un altro o effettuare una modifica sostanziale.
+
+3.
+
+La domanda di autorizzazione deve essere presentata come da modello approvato dal CT e corredata dalla documentazione prevista nello stesso e da una relazione tecnica che descrive il complessivo ciclo produttivo in cui si inserisce la specifica attività cui l’impianto è destinato ed indica il periodo previsto intercorrente tra la messa in esercizio e la messa a regime dell’impianto.
+
+4.
+
+L’autorizzazione sarà rilasciata sul progetto in modalità provvisoria per un tempo definito. L’autorizzazione definitiva sarà rilasciata ad impianto a regime previa dimostrazione del rispetto dei limiti normativi e prevederà la presentazione annuale del referto analitico che qualifica le emissioni.
+
+5.
+
+L’UPA é autorizzato ad effettuare presso gli impianti tutte le ispezioni che ritenga necessarie per accertare il rispetto dell’autorizzazione.
+
+6.
+
+L’autorizzazione rilasciata ai sensi del presente articolo ha validità fino alla successiva modifica sostanziale.
+
+7.
+
+Il CT può autorizzare con limiti di emissione che possono essere superiori a quelli indicati nell’Allegato L del presente Codice per impianti funzionanti meno di 2200 ore/anno, sulla base di criteri di proporzionalità.
+
+8.
+
+Il CT può prescrivere in sede di autorizzazione sistemi di monitoraggio in continuo e la trasmissione dei dati in tempo reale all’UPA.
+
+###### Art. 105
+
+(Impianti e attività in deroga)
+
+1.
+
+Non sono sottoposti ad autorizzazione di cui al presente Capo né a comunicazione gli stabilimenti in cui sono presenti esclusivamente impianti e attività elencati nell’Allegato M, Parte I del presente Codice. L’elenco si riferisce a impianti e
+
+ad attività le cui emissioni sono scarsamente rilevanti agli effetti dell’inquinamento atmosferico. Se in uno stabilimento sono presenti sia impianti o attività inclusi nell’elenco dell’Allegato M del presente Codice, sia impianti o attività non inclusi nell’elenco, l’autorizzazione di cui all’articolo 104 comprende tutte le attività dello stabilimento.
+
+2.
+
+Per specifiche categorie di stabilimenti nei quali si svolgono esclusivamente una o più delle attività elencate nell’Allegato M, Parte II del presente Codice, individuate in relazione al tipo e alle potenzialità di produzione, è ammessa una comunicazione in alternativa alla richiesta di autorizzazione di cui all’articolo 104. Tale comunicazione deve essere presentata all’UPA, come da modello approvato dal CT.
+
+3.
+
+Il gestore dello stabilimento che si avvale della comunicazione anziché della richiesta di autorizzazione è tenuto:
+
+a) a rispettare comunque i limiti e le emissioni dell’Allegato L del presente Codice;
+
+b) alla tenuta di un registro delle materie prime utilizzate relative alle sole attività elencate nell’Allegato M, Parte II del presente Codice;
+
+c) a comunicare almeno 30 giorni prima la messa in esercizio dell’impianto all’UPA.
+
+4\. La comunicazione, di cui al comma 2, deve essere inviata almeno 15 giorni prima dell’installazione dello stabilimento all’UPA, il quale esaminata la documentazione può, con proprio provvedimento, imporre l’obbligo di richiesta di autorizzazione nel caso in cui non siano rispettati i requisiti previsti per la comunicazione o in presenza di particolari situazioni di rischio sanitario o di zone che richiedono una particolare tutela ambientale. Tale procedura si applica anche nel caso in cui il gestore intenda effettuare una modifica dello stabilimento. Resta fermo l’obbligo di sottoporre lo stabilimento all’autorizzazione di cui all’articolo 104 in caso di modifiche per effetto delle quali lo stabilimento non sia più conforme ai criteri dell’Allegato M, Parte II del presente Codice.
+
+5\. Al fine di stabilire le soglie di produzione indicate nell’Allegato M del presente Codice si deve considerare l’insieme degli impianti e delle attività che, nello stabilimento, ricadono in ciascuna categoria presente nell’elenco.
+
+6\. Le disposizioni dei commi 1, 2 e 3 non si applicano nel caso in cui siano utilizzate, nell’impianto o nell’attività, le sostanze o i preparati classificati come cancerogeni, mutageni o tossici per la riproduzione, come individuate dall’Allegato O del presente Codice a causa del loro tenore di Cov, e ai quali sono state assegnate etichette con le frasi di rischio R45, R46, R49, R60, R61.
+
+7\. In deroga al comma precedente, il CT può permettere l’utilizzo di sostanze inquinanti classificate con frasi di rischio R45, R46, R49, R60, R61, in considerazione degli scarsi quantitativi d’impiego o delle ridotte percentuali di presenza nelle materie prime o nelle emissioni, alle aziende in regime di comunicazione.
+
+8\. Gli impianti termici alimentati a gas naturale da rete di distribuzione non sono soggetti ad autorizzazione ai sensi dell’articolo 104.
+
+9\. Il registro delle materie prime utilizzate, con fogli numerati, dovrà essere preventivamente vidimato dall’Ufficio del Registro.
+
+###### Art. 106
+
+(Emissioni di Cov)
+
+1.
+
+Per le attività che utilizzano solventi organici devono essere messe in atto tutte le migliori tecniche disponibili e le misure possibili per ridurre le emissioni diffuse, in particolare utilizzando materie prime a ridotto o nullo tenore di solventi organici, ottimizzando l’esercizio e la gestione delle attività e, ove necessario, installando idonei dispositivi di abbattimento, in modo da minimizzare le emissioni diffuse di composti organici volatili. L’autorizzazione di cui all’articolo 104 può prescrivere l’adozione delle
+
+misure di cui sopra.
+
+2.
+
+Le attività di cui al comma 1 che superano il consumo di solvente organico di 2 Tonn./anno devono tenere un registro dei solventi e dare comunicazione all’UPA, entro febbraio di ogni anno per l’anno precedente, dei quantitativi utilizzati.
+
+3.
+
+Il registro dei solventi utilizzati, con fogli numerati, dovrà essere preventivamente vidimato dall’Ufficio del Registro.
+
+###### Art. 107
+
+(Caratteristiche dei camini)
+
+1\. Ogni impianto che genera emissioni deve disporre di uno o più camini tali da assicurare una adeguata dispersione in atmosfera.
+
+2\. Le bocche dei camini devono essere posizionate in modo tale da consentire una adeguata evacuazione e dispersione delle emissioni e da evitare la reimmissione delle stesse nell’edificio attraverso qualsiasi apertura. A tal fine le bocche dei camini devono risultare più alte di almeno un metro rispetto al colmo dei tetti, ai parapetti ed a qualunque altro ostacolo o struttura distante meno di 10 metri, fatto salvo quanto stabilito per gli impianti termici alimentati a gas naturale da rete di distribuzione.
+
+3\. Il CT può autorizzare deroghe in merito al comma 2.
+
+###### Art. 108
+
+(Valori limite alle emissioni)
+
+1.
+
+Il presente articolo disciplina i valori di emissione e le prescrizioni da applicare alle emissioni degli impianti ed alle attività degli stabilimenti.
+
+2.
+
+Nell’Allegato L del presente Codice sono individuati i valori limite di emissione e le prescrizioni da applicare alle emissioni convogliate e diffuse degli impianti e delle attività presso gli stabilimenti. Il CT, qualora l’UPA durante la vigilanza rilevi particolari situazioni di rischio sanitario o ambientale, può stabilire valori limite e prescrizioni più severe di quelle contenute nell’Allegato L del presente Codice.
+
+3.
+
+I piani e i programmi di qualità dell’aria previsti dall’articolo 121 possono stabilire appositi valori limite di emissione e prescrizioni più restrittive di quelli contenuti nell’Allegato L del presente Codice.
+
+4.
+
+Per le sostanze per cui non sono fissati valori limite di emissione, l’autorizzazione stabilisce appositi valori limite con riferimento a quelli previsti per sostanze simili sotto il profilo chimico e aventi effetti analoghi sulla salute e sull’ambiente.
+
+5.
+
+L’autorizzazione, qualora l’istruttoria evidenzi particolari situazioni di rischio sanitario o ambientale, può stabilire valori limite e prescrizioni più severi di quelli contenuti nell’Allegato L del presente Codice.
+
+6.
+
+I valori limite di emissione e il tenore volumetrico dell’ossigeno di riferimento si riferiscono al volume di effluente gassoso rapportato alle condizioni normali, previa detrazione, salvo quando espressamente indicato, del tenore volumetrico di vapore acqueo.
+
+7.
+
+Salvo quanto diversamente indicato nell’Allegato L del presente Codice il tenore volumetrico dell’ossigeno di riferimento è quello derivante dal processo. Se nell’emissione il tenore volumetrico di ossigeno è diverso da quello di riferimento, le concentrazioni misurate devono essere corrette mediante la seguente formula: E = [(21 — O2) / (21 — O2M)] * EM dove:
+
+EM = concentrazione misurata E = concentrazione O2M = tenore di ossigeno misurato
+
+O2 = tenore di ossigeno di riferimento
+
+8.
+
+I valori limite di emissione si riferiscono alla quantità di emissione diluita nella misura che risulta inevitabile dal punto di vista tecnologico e dell’esercizio. In caso di ulteriore diluizione dell’emissione le concentrazioni misurate devono essere corrette mediante la seguente formula:
+
+E = (EM * PM ) / P dove:
+
+PM = portata misurata EM = concentrazione misurata P = portata di effluente gassoso diluita nella misura che risulta inevitabile dal punto di vista tecnologico e dell’esercizio E = concentrazione riferita alla P
+
+9\. Salvo quanto diversamente stabilito, i valori limite di emissione si applicano ai periodi di normale funzionamento dell’impianto, intesi come i periodi in cui l’impianto è in funzione con esclusione dei periodi di avviamento e di arresto e dei periodi in cui si verificano anomalie o guasti tali da non permettere il rispetto dei valori stessi.
+
+L’autorizzazione può stabilire specifiche prescrizioni per tali periodi di avviamento e di arresto e per l’eventualità di tali anomalie o guasti ed individuare gli ulteriori periodi transitori nei quali non si applicano i valori limite di emissione. Il gestore è comunque tenuto ad adottare tutte le precauzioni opportune per ridurre al minimo le emissioni durante le fasi di avviamento e di arresto.
+
+10\. Nei casi in cui le misure delle emissioni vengano effettuate con metodi automatici continui, le imprese devono verificare il corretto funzionamento delle apparecchiature di misura e procedere periodicamente alla calibrazione, di concerto e con la supervisione dell‘UPA. Nei casi di cui al presente comma, il limite di emissione si intende rispettato se la media delle concentrazioni orarie rilevate durante l‘effettivo funzionamento dell‘impianto, nell‘arco delle ventiquattro ore, è inferiore od uguale al limite di emissione stabilito e ciascun valore di concentrazione oraria non è superiore al 125% di tale limite.
+
+11\. Si applicano i metodi di campionamento ed analisi stabiliti dalle norme tecniche Europee CEN, qualora non disponibili dalle norme tecniche Iso o dalle norme tecniche italiane UNI. 57 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 108
+
+(Valori limite alle emissioni)
+
+1.
+
+Il presente articolo disciplina i valori di emissione e le prescrizioni da applicare alle emissioni degli impianti ed alle attività degli stabilimenti.
+
+2.
+
+Nell’Allegato L del presente Codice sono individuati i valori limite di emissione e le prescrizioni da applicare alle emissioni convogliate e diffuse degli impianti e delle attività presso gli stabilimenti. Il CT, qualora l’UPA durante la vigilanza rilevi particolari situazioni di rischio sanitario o ambientale, può stabilire valori limite e prescrizioni più severe di quelle contenute nell’Allegato L del presente Codice.
+
+3.
+
+I piani e i programmi di qualità dell’aria previsti dall’articolo 121 possono stabilire appositi valori limite di emissione e prescrizioni più restrittive di quelli contenuti nell’Allegato L del presente Codice.
+
+4.
+
+Per le sostanze per cui non sono fissati valori limite di emissione, l’autorizzazione stabilisce appositi valori limite con riferimento a quelli previsti per sostanze simili sotto il profilo chimico e aventi effetti analoghi sulla salute e sull’ambiente.
+
+5.
+
+L’autorizzazione, qualora l’istruttoria evidenzi particolari situazioni di rischio sanitario o ambientale, può stabilire valori limite e prescrizioni più severi di quelli contenuti nell’Allegato L del presente Codice.
+
+6.
+
+I valori limite di emissione e il tenore volumetrico dell’ossigeno di riferimento si riferiscono al volume di effluente gassoso rapportato alle condizioni normali, previa detrazione, salvo quando espressamente indicato, del tenore volumetrico di vapore acqueo.
+
+7.
+
+Salvo quanto diversamente indicato nell’Allegato L del presente Codice il tenore volumetrico dell’ossigeno di riferimento è quello derivante dal processo. Se nell’emissione il tenore volumetrico di ossigeno è diverso da quello di riferimento, le concentrazioni misurate devono essere corrette mediante la seguente formula: E = [(21 — O2) / (21 — O2M)] * EM dove:
+
+EM = concentrazione misurata E = concentrazione O2M = tenore di ossigeno misurato O2 = tenore di ossigeno di riferimento
+
+###### Art. 109
+
+(Disposizioni transitorie)
+
+1.
+
+I gestori degli stabilimenti esistenti che ricadono negli obblighi previsti dal presente Capo devono adeguarvisi entro centoventi giorni dalla data di entrata in vigore del presente Codice.
+
+2.
+
+I gestori di cui al comma 1, che producono emissioni i cui valori superino quelli indicati all’Allegato L del presente Codice sono tenuti a presentare, entro 24 mesi dalla data di entrata in vigore del presente Codice, al CT un piano per il rientro nei limiti previsti nel predetto Allegato.
+
+3.
+
+Il CT, in sede di valutazione di cui al precedente comma, stabilisce il termine di adeguamento ai limiti previsti nell’Allegato L del presente Codice, tenendo conto delle caratteristiche delle attività, dell’entità delle emissioni e della categoria della sostanza.
+
+#### CAPO III
+
+CONDUZIONE DEGLI IMPIANTI TERMICI CIVILI
+
+###### Art. 110
+
+(Campo di applicazione)
+
+1\. Il presente capo disciplina l’abilitazione alla conduzione degli impianti termici civili.
+
+###### Art. 111
+
+(Abilitazione alla conduzione)
+
+1\. Il personale addetto alla conduzione degli impianti termici civili di potenza termica
+
+8.
+
+I valori limite di emissione si riferiscono alla quantità di emissione diluita nella misura che risulta inevitabile dal punto di vista tecnologico e dell’esercizio. In caso di ulteriore diluizione dell’emissione le concentrazioni misurate devono essere corrette mediante la seguente formula:
+
+E = (EM * PM ) / P dove:
+
+PM = portata misurata EM = concentrazione misurata P = portata di effluente gassoso diluita nella misura che risulta inevitabile dal punto di vista tecnologico e dell’esercizio E = concentrazione riferita alla P
+
+9\. Salvo quanto diversamente stabilito, i valori limite di emissione si applicano ai periodi di normale funzionamento dell’impianto, intesi come i periodi in cui l’impianto è in funzione con esclusione dei periodi di avviamento e di arresto e dei periodi in cui si verificano anomalie o guasti tali da non permettere il rispetto dei valori stessi. L’autorizzazione può stabilire specifiche prescrizioni per tali periodi di avviamento e di arresto e per l’eventualità di tali anomalie o guasti ed individuare gli ulteriori periodi transitori nei quali non si applicano i valori limite di emissione. Il gestore è comunque tenuto ad adottare tutte le precauzioni opportune per ridurre al minimo le emissioni durante le fasi di avviamento e di arresto.
+
+10\. Nei casi in cui le misure delle emissioni vengano effettuate con metodi automatici continui, le imprese devono verificare il corretto funzionamento delle apparecchiature di misura e procedere periodicamente alla calibrazione, di concerto e con la supervisione dell’UPA. Nei casi di cui al precedente paragrafo, il limite di emissione si intende rispettato se la media delle concentrazioni orarie rilevate durante l’effettivo funzionamento dell’impianto, nell’arco delle ventiquattro ore, è inferiore od uguale al limite di emissione stabilito, e ciascun valore di concentrazione oraria non è superiore al 125% di tale limite.
+
+11\. Si applicano i metodi di campionamento ed analisi stabiliti dalle norme tecniche Europee CEN, qualora non disponibili dalle norme tecniche Iso o dalle norme tecniche italiane UNI.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 44 :
+
+Il comma 10 dell‘articolo 108 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―10. Nei casi in cui le misure delle emissioni vengano effettuate con metodi automatici continui, le imprese devono verificare il corretto funzionamento delle apparecchiature di misura e procedere periodicamente alla calibrazione, di concerto e con la supervisione dell‘UPA. Nei casi di cui al presente comma, il limite di emissione si intende rispettato se la media delle concentrazioni orarie rilevate durante l‘effettivo funzionamento dell‘impianto, nell‘arco delle ventiquattro ore, è inferiore od uguale al limite di emissione stabilito e ciascun valore di concentrazione oraria non è superiore al 125% di tale limite.
+
+nominale superiore a 232 kW deve essere munito di un patentino di abilitazione rilasciato dal Centro di Formazione Professionale al termine di un corso per la conduzione degli impianti termici, previo superamento dell’esame finale.
+
+2\. I patentini possono essere rilasciati a persone aventi età non inferiore a diciotto anni compiuti.
+
+3\. Il registro degli abilitati alla conduzione degli impianti termici è tenuto presso l’UPA.
+
+4\. Con regolamento della CTA verranno fissate le norme relative alla formazione dei corsi, le modalità di ammissione, la durata degli stessi, i programmi e le norme concernenti gli esami. Con cadenza decennale il Centro di Formazione Professionale provvede a revisionare i patentini di abilitazione alla conduzione degli impianti termici.
+
+5\. Il patentino diventa obbligatorio entro un anno dalla emanazione del regolamento di cui al comma 4.
+
+6\. Il patentino può essere in qualsiasi momento revocato in caso di irregolare conduzione dell’impianto. A tal fine l’UPA comunica al Centro di Formazione Professionale i casi di irregolare conduzione accertati.
+
+7\. Si ritengono validi patentini di abilitazione rilasciati da enti abilitati in Italia.
+
+#### CAPO IV
+
+COMBUSTIBILI
+
+###### Art. 112
+
+(Campo di applicazione)
+
+1\. Il presente Capo disciplina, ai fini della prevenzione e della limitazione dell’inquinamento atmosferico, le caratteristiche merceologiche dei combustibili che possono essere utilizzati negli impianti di combustione e negli impianti termici. Il presente Capo stabilisce, inoltre, le condizioni di utilizzo dei combustibili, comprese le prescrizioni finalizzate ad ottimizzare il rendimento di combustione, e i metodi di misura delle caratteristiche merceologiche.
+
+###### Art. 113
+
+(Definizioni)
+
+1.
+
+Ai fini del presente Capo si applicano, ove non altrimenti disposto, le definizioni di cui al Capo II.
+
+2.
+
+In aggiunta alle definizioni richiamate al comma 1, si applicano le seguenti definizioni:
+
+a) olio combustibile pesante:
+
+1) qualsiasi combustibile liquido derivato dal petrolio che rientra nei codici doganali da NC 2710 1951 a NC 2710 1969, escluso il combustibile per uso marittimo;
+
+2) qualsiasi combustibile liquido derivato dal petrolio, escluso il gasolio di cui alla lettera b), che, per i suoi limiti di distillazione, rientra nella categoria degli oli pesanti destinati ad essere usati come combustibile e di cui meno del 65% in volume, comprese le perdite, distilla a 250 °C secondo il metodo Astm D86 o per il quale la percentuale del distillato a 250 °C non può essere determinata con tale metodo;
+
+b) gasolio:
+
+1) qualsiasi combustibile liquido derivato dal petrolio, escluso il combustibile per uso marittimo, che rientra nei codici NC 2710 1925, 2710 1929, 2710 1945 o 2710 1949;
+
+2) qualsiasi combustibile liquido derivato dal petrolio, escluso il combustibile per uso marittimo, di cui meno del 65% in volume, comprese le perdite, distilla a 250 °C e di cui almeno l’85% in volume, comprese le perdite, distilla a 350 °C secondo il metodo Astm D86;
+
+c) metodo Astm: i metodi stabiliti dalla "American Society for Testing and Materials" nell’edizione 1976 delle definizioni e delle specifiche tipo per il petrolio e i prodotti lubrificanti;
+
+d) combustibile per uso marittimo: qualsiasi combustibile liquido derivato dal petrolio utilizzato su una nave o destinato ad essere utilizzato su una nave, inclusi i combustibili definiti nella norma ISO 8217.
+
+###### Art. 114
+
+(Combustibili consentiti)
+
+1\. Negli impianti di combustione e negli impianti termici possono essere utilizzati esclusivamente i combustibili previsti dall’Allegato N del presente Codice, alle condizioni ivi previste. I materiali e le sostanze elencati nell’Allegato N del presente Codice non possono essere utilizzati come combustibili ai sensi del presente Capo se costituiscono rifiuti ai sensi di quanto disposto nel Titolo II. È soggetta alla normativa vigente in materia di rifiuti la combustione di materiali e sostanze che non sono conformi all’Allegato N del presente Codice o che comunque costituiscono rifiuti ai sensi di quanto disposto nel Titolo II.
+
+#### CAPO V
+
+QUALITA’ DELL’ARIA AMBIENTE
+
+###### Art. 115
+
+(Campo di applicazione)
+
+1\. Il presente capo stabilisce:
+
+a) i valori limite per le concentrazioni nell’aria ambiente di biossido di zolfo, biossido di azoto, benzene, monossido di carbonio, piombo e PM10;
+
+b) i livelli critici per le concentrazioni nell’aria ambiente di biossido di zolfo e ossidi di azoto;
+
+c) le soglie di allarme per le concentrazioni nell’aria ambiente di biossido di zolfo e biossido di azoto;
+
+d) il valore limite, il valore obiettivo, l’obbligo di concentrazione dell’esposizione e l’obiettivo nazionale di riduzione dell’esposizione per le concentrazioni nell’aria ambiente di PM2,5;
+
+e) i valori obiettivo per le concentrazioni nell’aria ambiente di arsenico, cadmio, nichel ebenzo(a)pirene;
+
+f) i valori obiettivo, gli obiettivi a lungo termine, le soglie di allarme e le soglie di informazione per l’ozono.
+
+###### Art. 116
+
+(Definizioni)
+
+1\. Ai fini del presente Capo si applicano le definizioni di cui alla Direttiva 2008/50/CE.58
+
+58
+
+Decreto Delegato 31 gennaio 2017 n. 16, Art. 70: vedasi nota 56.
+
+###### Art. 117
+
+(Valutazione preliminare della qualità dell’aria ambiente)
+
+1\. I dati già disponibili concorrono ad una valutazione preliminare della qualità dell’aria, sulla base della quale viene effettuata la classificazione del territorio.
+
+###### Art. 118
+
+(Classificazione dell’area del territorio sanmarinese)
+
+1\. In analogia con la classificazione prevista sul territorio dell’Unione Europea, il territorio della Repubblica di San Marino verrà classificato sulla base della valutazione preliminare della qualità dell’aria. I criteri di classificazione sono quelli di cui alla Direttiva 2008/50/CE Allegato II. 59
+
+###### Art. 119
+
+(Rete di monitoraggio)
+
+1.
+
+Sulla base della classificazione del territorio verrà, se necessario, adeguata la rete di monitoraggio della qualità dell’aria.
+
+2.
+
+Se necessario e previo accordo con le Regioni confinanti, la rete di monitoraggio, potrà essere integrata con quella delle regioni limitrofe, al fine di disporre della necessaria risoluzione spaziale.
+
+3.
+
+I punti di campionamento per il monitoraggio degli inquinanti atmosferici vengono stabiliti sulla base dei criteri di cui alla Direttiva 2008/50/CE.
+
+4.
+
+La CTA, in base alla Direttiva 2008/50/CE, alla valutazione preliminare della qualità dell’aria e alla conoscenza delle fonti di inquinamento presenti sul territorio, indica quali inquinanti monitorare fra quelli di cui all’articolo 115. 60
+
+###### Art. 120
+
+(Valutazione della qualità dell’aria ambiente)
+
+1\. La valutazione della qualità dell’aria ambiente è effettuata, per ciascun inquinante indicato dalla CTA, tenendo conto di quanto previsto dalla Direttiva 2008/50/CE. Si applicano i metodi di misura ed i criteri indicati nell’Allegato VI della Direttiva medesima.61
+
+###### Art. 121
+
+(Piani e misure per il raggiungimento dei valori limite e dei livelli critici, per il perseguimento dei valori obiettivo e per il mantenimento del relativo rispetto)
+
+1\. Se i livelli di inquinanti presenti nell’aria ambiente superano un valore limite o un valore obiettivo qualsiasi, più qualunque margine di tolleranza eventualmente applicabile, la CTA predispone un Piano di risanamento per la qualità dell’aria; il Piano potrà essere redatto anche in accordo con le Regioni confinanti.
+
+Vedasi nota n. 56.
+
+Vedasi nota n. 56. 61 Vedasi nota n. 56
+
+#### CAPO VI
+
+SISTEMA SANZIONATORIO
+
+###### Art. 122
+
+(Sanzioni Amministrative)
+
+1\. Fatta salva l’eventuale concorrente applicazione delle norme penali per l’emissione in difetto delle prescritte autorizzazioni di legge, per le attività esercitate in presenza di autorizzazione si applica la sanzione amministrativa pecuniaria da € 500,00 a €
+
+5.000,00 nei seguenti casi:
+
+a) mancato rispetto degli obblighi e/o delle prescrizioni eventualmente contenute nell’autorizzazione;
+
+b) mancato rispetto dei valori limite di emissione prescritti dal Capo II, dalle norme tecniche, dalle prescrizioni regolamentari e dalle eventuali autorizzazioni degli organi competenti.
+
+2\. Si applica la stessa sanzione in tutti i casi di mancata ottemperanza all’obbligo di richiesta di autorizzazione imposto dall’UPA ai sensi dell’articolo 104 e dell’articolo 105, comma 4.
+
+3\. Chi mette in esercizio un impianto o inizia ad esercitare un’attività senza averne dato la preventiva comunicazione ai sensi del comma 2 dell’articolo 105, nonché per ogni ipotesi di violazione alle prescrizioni di cui al comma 3 del medesimo articolo 105, è punito con la sanzione amministrativa pecuniaria da € 250,00 a € 2.500,00.
+
+4\. Per le attività che utilizzano solventi organici, la mancata adozione delle misure tecniche di cui all’articolo 106, comma 1, la mancanza dei dispositivi di abbattimento delle emissioni, nonché le violazioni di cui al comma 2 del medesimo articolo 106, comportano, per ciascuna violazione accertata, la sanzione pecuniaria amministrativa da € 750,00 a € 2.000,00; fatta salva l’eventuale concorrente applicazione delle norme penali, è prescritto l’obbligo di rimessione in pristino e bonifica.
+
+5\. In caso di mancata o irregolare installazione dei camini, per ogni violazione di cui all’articolo 107, si applica la sanzione amministrativa pecuniaria da € 500,00 a €
+
+2.500,00.
+
+6\. La stessa sanzione si applica per ogni ipotesi di violazione dell’articolo 108, comma 10, relativamente alla mancata calibrazione delle apparecchiature di misura con la periodicità indicata dall’UPA.
+
+7\. Fatta salva l’eventuale concorrente applicazione delle norme penali, chi effettua la combustione di materiali o sostanze in difformità alle prescrizioni del Capo IV, ove gli stessi non costituiscano rifiuti ai sensi della vigente normativa, è punito:
+
+a) in caso di combustione effettuata presso gli impianti industriali, con la sanzione amministrativa pecuniaria da € 500,00 a € 5.000,00;
+
+b) in caso di combustione effettuata presso gli impianti civili, con la sanzione amministrativa pecuniaria da € 150,00 a € 1.500,00.
+
+8\. Fatto salvo quanto previsto al comma successivo, la facoltà di oblazione volontaria di cui all’articolo 33 della Legge 28 giugno 1989 n.68 è ammessa mediante il pagamento della metà della sanzione irrogata.
+
+9\. In caso di recidiva alle violazioni amministrative di cui ai commi precedenti la sanzione amministrativa viene aumentata fino a tre volte tanto nel minimo quanto nel massimo, tenuto conto della gravità dell’infrazione e non è ammesso l’esercizio della facoltà di oblazione volontaria di cui all’articolo 33 della Legge n.68/1989.
+
+10\. E’ recidivo chi, nei cinque anni precedenti l’ultima violazione, risulta aver commesso la medesima violazione amministrativa.
+
+### TITOLO VI
+
+NORME IN MATERIA DI TUTELA DEL TERRITORIO DALL’INQUINAMENTO ACUSTICO
+
+#### CAPO I
+
+DISPOSIZIONI GENERALI
+
+###### Art. 123
+
+(Finalità)
+
+1\. Il presente Titolo stabilisce:
+
+a) i principi fondamentali in materia di tutela dell’ambiente esterno e dell’ambiente abitativo dall’inquinamento acustico;
+
+b) gli interventi volti a minimizzare l’impatto acustico del rumore aereo proveniente dall’ambiente esterno sugli edifici e unità immobiliari.
+
+2\. Il presente Titolo, in particolare, detta norme atte ad evitare, prevenire o ridurre gli effetti nocivi, compreso il disturbo, dell’esposizione al rumore ambientale.
+
+###### Art. 124
+
+(Definizioni)
+
+1\. Ai fini del presente Titolo, le sotto elencate espressioni assumono i seguenti significati:
+
+a) inquinamento acustico: l’introduzione di rumore nell’ambiente abitativo o nell’ambiente esterno tale da provocare disturbo al riposo ed alle attività umane, pericolo per la salute umana, deterioramento degli ecosistemi, dei beni materiali, dei monumenti, dell’ambiente abitativo o dell’ambiente esterno o tale da interferire con le legittime fruizioni degli ambienti stessi;
+
+b) ambiente abitativo: ogni ambiente interno ad un edificio destinato alla permanenza di persone o di comunità ed utilizzato per le diverse attività umane, fatta eccezione per gli ambienti di lavoro per i quali resta ferma la disciplina di cui al Decreto Reggenziale 17 febbraio 1999 n. 26, salvo per quanto concerne l’immissione di rumore da sorgenti sonore esterne ai locali in cui si svolgono le attività lavorative;
+
+c) ambiente esterno fruibile da persone o comunità: aree naturalistiche vincolate, parchi pubblici ed aree esterne destinate ad attività ricreative ed allo svolgimento della vita sociale della collettività, comprese le aree private di pertinenza degli edifici adibiti ad ambiente abitativo limitatamente agli spazi fruibili da persone o comunità per lo svago ed il riposo;
+
+d) sorgenti sonore fisse: gli impianti tecnici degli edifici e le altre installazioni unite agli immobili anche in via transitoria il cui uso produca emissioni sonore, le infrastrutture stradali, gli insediamenti adibiti ad uso industriale, artigianale, commerciale e professionale, agricolo, i parcheggi, le aree di stabilimenti adibite a movimentazione merci, i depositi dei mezzi di trasporto di persone e merci, le aree adibite ad attività sportive, sociali e ricreative;
+
+e) sorgenti sonore mobili: tutte le sorgenti sonore non comprese nella definizione di cui alla lettera d);
+
+f) valore limite assoluto di immissione: il valore massimo di rumore che può essere immesso da una o più sorgenti sonore nell’ambiente esterno, determinato con riferimento al livello equivalente di rumore ambientale;
+
+g) valore limite differenziale di immissione: il valore di rumore misurato all’interno dell’ambiente abitativo e determinato con riferimento alla differenza tra il livello equivalente di rumore ambientale ed il rumore residuo;
+
+h) interventi di riduzione del rumore: gli interventi volti a ridurre le emissioni sonore distinti in interventi attivi attuati sulle sorgenti ed in interventi passivi, adottati nei luoghi di immissione o lungo la via di propagazione dalla sorgente al ricettore o sul ricettore stesso. Rientrano negli interventi di riduzione del rumore le procedure di collaudo, di omologazione e di certificazione che attestano la conformità dei prodotti alle prescrizioni relative ai livelli sonori ammissibili nonché la marcatura dei prodotti e dei dispositivi attestante l’avvenuta omologazione;
+
+i) tecnico competente in acustica: la figura professionale idonea ad effettuare le misurazioni, verificare l’ottemperanza ai valori definiti dalle vigenti norme, redigere i piani di risanamento acustico, svolgere le relative attività di controllo nel rispetto di quanto previsto all’articolo 137.
+
+2\. Ai fini del rilevamento e misurazione dell’inquinamento acustico secondo quanto previsto negli Allegati Q e R del presente Codice, le sotto elencate espressioni assumono i seguenti significati:
+
+a) sorgente specifica: sorgente sonora selettivamente identificabile che costituisce la causa del potenziale inquinamento acustico;
+
+b) tempo di riferimento (TR): il parametro che rappresenta la collocazione del fenomeno acustico nell’arco delle ventiquattro ore all’atto della misurazione. A tal fine, si individuano il periodo diurno, che è quello relativo all’intervallo di tempo compreso fra le ore 06:00 e le ore 22:00, ed il periodo notturno, che è quello relativo all’intervallo di tempo compreso fra le ore 22:00 e le ore 06:00;
+
+c) tempo di osservazione (TO): è un periodo di tempo compreso in TR nel quale si verificano le condizioni di rumorosità che si intendono valutare;
+
+d) tempo di misura (TM): all’interno di ciascun tempo di osservazione, si individuano uno o più tempi di misura (TM) di durata pari o minore del tempo di osservazione in funzione delle caratteristiche di variabilità del rumore ed in modo tale che la misura sia rappresentativa del fenomeno;
+
+e) livelli dei valori efficaci di pressione sonora ponderata «A»: esprimono i valori efficaci in media logaritmica mobile della pressione sonora ponderata «A» (LPA) secondo le costanti di tempo "slow" (LAS), "fast" (LAF), "impulse"( LAI);
+
+f) livelli dei valori massimi di pressione sonora: esprimono i valori massimi della pressione sonora ponderata in curva «A» e costanti di tempo "slow"(LASmax), "fast"
+
+(LAFmax), "impulse"(LAImax);
+
+g) livello continuo equivalente di pressione sonora ponderata «A»: esprime il valore del livello di pressione sonora ponderata «A» di un suono costante che, nel corso di un periodo specificato T, ha la medesima pressione quadratica media di un suono considerato il cui livello varia in funzione del tempo. Tale valore è calcolato secondo l’espressione
+
+(dBA)
+
+dove LAeq,T è il livello continuo equivalente di pressione sonora ponderata «A»
+
+considerato in un intervallo di tempo T che inizia all’istante t1 e termina all’istante t2, dove pA(t) è il valore istantaneo della pressione sonora ponderata «A» del segnale acustico in Pascal (Pa) e dove p0 = 20 µ Pa è la pressione sonora di riferimento;
+
+h) livello di rumore ambientale (LA): è il livello continuo equivalente di pressione sonora ponderato «A», prodotto da tutte le sorgenti di rumore esistenti in un dato luogo e durante un determinato tempo. Il rumore ambientale è costituito dall’insieme del rumore residuo e da quello prodotto dalle specifiche sorgenti disturbanti, con l’esclusione degli eventi sonori singolarmente identificabili di natura eccezionale rispetto al valore ambientale della zona. È il livello che si confronta con i limiti massimi di immissione che:
+
+1) nel caso dei limiti differenziali di immissione, è riferito a TM;
+
+2) nel caso di limiti assoluti di immissione, è riferito a TR;
+
+i) livello di rumore residuo (LR): è il livello continuo equivalente di pressione sonora ponderato «A», che si rileva quando si esclude la specifica sorgente disturbante. E’ misurato con le identiche modalità impiegate per la misura del rumore ambientale e non deve contenere eventi sonori atipici;
+
+l) fattori correttivi: sono le correzioni in dB(A) introdotte per tener conto della presenza di rumori con componenti impulsive, tonali o di bassa frequenza. I fattori correttivi non si applicano al rumore prodotto dalle infrastrutture dei trasporti. Il valore dei fattori correttivi è così individuato:
+
+1) per la presenza di componenti impulsive: KI = 3 dB(A);
+
+2) per la presenza di componenti tonali: KT = 3 dB (A);
+
+3) per la presenza di componenti in bassa frequenza: KB = 3 dB (A);
+
+4) per la presenza di rumore a tempo parziale: ai fini della verifica dei valori limite differenziali di immissione, esclusivamente durante il tempo di riferimento relativo al periodo diurno, si prende in considerazione la presenza di rumore a tempo parziale, nel caso di persistenza del rumore della specifica sorgente disturbante per un tempo totale non superiore ad un’ora. Qualora il tempo parziale sia compreso in 1 ora, il valore del rumore ambientale LA deve essere diminuito attraverso l’applicazione di un fattore correttivo KP = 3 dB(A) mentre, qualora sia inferiore a 15 minuti, LA deve essere diminuito attraverso l’applicazione di un fattore correttivo KP = 5 dB(A);
+
+m) livello di rumore ambientale corretto (LAC): è definito dalla relazione: LAC = LA+ KI + K T + K B - K P;
+
+n) livello di rumore residuo corretto (LRC): è definito dalla relazione: LRC = LR + KI + KT + K B;
+
+o) livello differenziale di rumore (LD): differenza tra il livello di rumore ambientale eventualmente corretto per la presenza di componenti impulsive, tonali, in bassa frequenza e per rumore a tempo parziale (LAC) e quello di rumore residuo eventualmente corretto per la presenza di componenti impulsive, tonali o in bassa frequenza (LRC ). E’ definito dalla relazione: LD = LAC -LRC.
+
+#### CAPO II
+
+TUTELA DELL’AMBIENTE ESTERNO E DELL’AMBIETE ABITATIVO DALL’INQUINAMENTO ACUSTICO
+
+###### Art. 125
+
+(Zonizzazione acustica del territorio)
+
+1\. Entro dodici mesi dall’entrata in vigore del presente Codice, la CTA approva la zonizzazione del territorio della Repubblica di San Marino secondo le tre zone di destinazione d’uso di seguito elencate:
+
+a) Zona A “Aree di tipo misto”: rientrano in questa zona le aree urbane interessate da traffico veicolare locale o di attraversamento, con bassa o media densità di popolazione, con presenza di attività commerciali, uffici con limitata presenza di attività artigianali e con assenza di attività industriali, aree rurali interessate da attività che impiegano macchine operatrici;
+
+b) Zona B “Aree di intensa attività umana”: rientrano in questa zona le aree urbane interessate da intenso traffico veicolare, con alta densità di popolazione, con elevata presenza di attività commerciali e uffici, con presenza di attività artigianali, le aree in prossimità di strade di grande comunicazione, le aree con limitata presenza di piccole industrie;
+
+c) Zona C “Aree prevalentemente industriali” rientrano in questa zona le aree interessate da insediamenti industriali e con scarsità di abitazioni.
+
+2\. La zonizzazione acustica dovrà, inoltre, disciplinare le procedure per l’armonizzazione degli strumenti urbanistici con la medesima zonizzazione acustica nonché identificare:
+
+a) le strutture scolastiche ed ospedaliere;
+
+b) gli asili nido e le case di cura e di riposo;
+
+c) le fasce di pertinenza delle infrastrutture stradali. Tali fasce sono individuate contestualmente alla formulazione della proposta di regolamento di cui all’articolo 139, comma 1, lettera c).
+
+###### Art. 126
+
+(Valori limite assoluti di immissione)
+
+1.
+
+I valori limite assoluti di immissione, come definiti all’articolo 124, comma 1, lettera f), riferiti al rumore immesso nell’ambiente esterno fruibile da persone o comunità dall’insieme di tutte le sorgenti, sono quelli indicati nella tabella di cui all’Allegato P del presente Codice in relazione ciascuna zona acustica del territorio.
+
+2.
+
+In corrispondenza degli edifici adibiti ad attività scolastica od asilo nido deve essere garantito il rispetto del valore limite assoluto di immissione di 55 dB(A), limitatamente al periodo di riferimento diurno o notturno di svolgimento dell’attività.
+
+3.
+
+In corrispondenza degli edifici adibiti ad attività ospedaliera o di case di cura e di riposo devono essere rispettati i seguenti valori limite assoluti di immissione:
+
+a) periodo diurno: 55 dB(A);
+
+b) periodo notturno: 45 dB(A).
+
+4.
+
+All’esterno delle fasce di pertinenza di cui all’articolo 125, comma 2, lettera c) le infrastrutture stradali concorrono al raggiungimento dei valore limite assoluti di immissione di cui all’Allegato P del presente Codice.
+
+5.
+
+I valori limite assoluti di immissione indicati nella tabella di cui all’Allegato P del presente Codice non si applicano alle infrastrutture stradali all’interno delle rispettive fasce di pertinenza di cui all’articolo 125, comma 2, lettera c). All’interno delle predette fasce di pertinenza, le sorgenti sonore fisse diverse dalle infrastrutture stradali devono rispettare, nel loro insieme, i valori limite assoluti di immissione indicati nella tabella di cui all’Allegato P del presente Codice.
+
+###### Art. 127
+
+(Valori limite differenziali di immissione)
+
+1.
+
+I valori limite differenziali di immissione, definiti all’articolo 124, comma 1, lettera g), sono stabiliti in 5 dB(A) per il periodo diurno e 3 dB(A) per il periodo notturno, valutati all’interno degli ambienti abitativi.
+
+2.
+
+Le disposizioni di cui al comma precedente non si applicano qualora, all’interno di uno specifico periodo di riferimento, siano verificate entrambe le seguenti condizioni:
+
+a) il livello del rumore ambientale misurato a finestre aperte è inferiore a 50 dB(A) durante il periodo diurno e 40 dB(A) durante il periodo notturno;
+
+b) il livello del rumore ambientale misurato a finestre chiuse è inferiore a 40 dB(A) durante il periodo diurno e 30 dB(A) durante il periodo notturno.
+
+3\. Le disposizioni di cui al presente articolo si applicano unicamente alla rumorosità prodotta da attività e comportamenti connessi con esigenze produttive e artigianali, commerciali e professionali con l’esclusione della rumorosità prodotta da servizi e impianti fissi dell’edificio e/o unità immobiliare, limitatamente al disturbo provocato all’interno degli stessi.
+
+4\. L’applicazione delle disposizioni di cui al presente articolo alla rumorosità prodotta dalle sorgenti indicate all’articolo 139, comma 1, lettera c) è disciplinata nel Regolamento di cui al medesimo articolo 139, comma 1.
+
+###### Art. 128
+
+(Piano di risanamento acustico generale)
+
+1.
+
+A seguito dell’approvazione della zonizzazione acustica del territorio ai sensi dell’articolo 125, i competenti uffici e servizi provvedono a verificare il rispetto dei valori limite assoluti di immissione indicati nella tabella di cui all’Allegato P del presente Codice.
+
+2.
+
+A seguito del completamento delle verifiche di cui al comma 1, la CTA predispone, entro dodici mesi dall’approvazione della zonizzazione acustica, apposita relazione in cui evidenzi il superamento o meno dei limiti assoluti di immissione.
+
+3.
+
+Qualora dalla relazione di cui al comma 2 risulti il superamento dei limiti assoluti di immissione, il Congresso di Stato, su proposta della CTA medesima, procede all’adozione del Piano di risanamento acustico generale.
+
+4.
+
+Il Piano di risanamento acustico generale è adottato entro dieci mesi dalla presentazione della relazione di cui al comma 2 e contiene:
+
+a) l’individuazione della tipologia ed entità dei rumori presenti nelle zone da risanare;
+
+b) l’individuazione dei soggetti a cui compete l’intervento;
+
+c) l’indicazione delle priorità, delle modalità e dei tempi per il risanamento;
+
+d) la stima degli oneri finanziari e dei mezzi necessari, nonché eventuali contributi pubblici all’attuazione dei piani;
+
+e) le eventuali misure cautelari a carattere d’urgenza per la tutela dell’ambiente e della salute pubblica.
+
+###### Art. 129
+
+(Piano di risanamento delle imprese)
+
+1\. Ai fini del raggiungimento degli obiettivi fissati dal presente Capo, le imprese, entro dodici mesi dall’approvazione della zonizzazione acustica, verificano la rispondenza delle proprie sorgenti ai valori di cui all’articolo 124, comma 1, lettera f) in riferimento ai limiti assoluti fissati all’articolo 126. Entro tale termine le imprese provvedono a:
+
+a) in caso di non superamento dei richiamati valori, inviare all’UPA, una dichiarazione di conformità delle proprie sorgenti ai valori previsti;
+
+b) in caso di superamento dei richiamati valori, inviare all’UPA, un piano di risanamento contenente le modalità e i tempi di adeguamento.
+
+2\. Il piano di risanamento dell’impresa è attuato entro il termine massimo di ventiquattro mesi decorrenti dalla presentazione del piano medesimo; a tal fine l’impresa è tenuta a comunicare all’UPA l’avvenuto completamento degli interventi di adeguamento.
+
+3\. In casi eccezionali, motivati dalla rilevanza e complessità dell’intervento, l’UPA ha facoltà, a seguito di richiesta dell’impresa presentata prima della scadenza, di prorogare l’originario termine di ventiquattro mesi per un periodo ulteriore non superiore a diciotto mesi.
+
+###### Art. 130
+
+(Disposizioni in materia di clima e impatto acustico)
+
+1\. Sono redatti in conformità alle esigenze di tutela dall’inquinamento acustico delle popolazioni interessate i progetti relativi alla costruzione, ampliamento, demolizione e ricostruzione totale o parziale e ristrutturazione delle seguenti opere:
+
+a) opere di cui al successivo articolo 172, numeri 2), 3), 4), 8), 9), 10), 11), 13), 14),
+
+15), 16), 17), 18), 19), 21), 22), 24), 25) e 26);
+
+b) discoteche;
+
+c) circoli privati, centri sociali, centri e impianti ricreativi e pubblici esercizi ove siano installati macchinari o impianti rumorosi;
+
+2\. Ai fini dell’approvazione dello screening o dello studio di impatto ambientale relativo alle opere di cui al comma 1, lettera a) e dell’approvazione del titolo autorizzativo relativo agli interventi di cui al comma 1, lettere b), c) nonché dell’approvazione degli strumenti di pianificazione attuativa che prevedano la realizzazione delle predette opere, il progetto da presentarsi ai competenti organi è corredato dal parere favorevole dell’UPA. Il predetto parere è formulato sulla base dello studio previsionale dell’impatto acustico dell’intervento che il proponente è tenuto a produrre all’UPA.
+
+3\. Sono soggetti alla valutazione previsionale del clima acustico delle aree interessate i progetti relativi alla costruzione, ampliamento, demolizione e ricostruzione totale o parziale e ristrutturazione delle opere di seguito elencate:
+
+a) scuole e asili nido;
+
+b) ospedali;
+
+c) case di cura e di riposo;
+
+d) nuovi insediamenti residenziali e ampliamenti fuori sagoma sull’intero edificio superiori al 30% del volume originario prossimi alle opere o alle attività per cui è richiesta la valutazione previsionale di impatto acustico.
+
+4\. Il proponente la pratica edilizia od urbanistica è tenuto ad acquisire, prima dell’approvazione definitiva del titolo autorizzativo o dello strumento di pianificazione attuativa, il parere favorevole dell’UPA relativamente allo studio previsionale del clima acustico delle aree interessate dalle opere di cui al comma 3.
+
+5\. Ai fini dell’avvio dell’attività produttiva o artigianale, è presentato all’UPA uno studio previsionale di impatto acustico che integra la documentazione prevista all’articolo 174, comma 5 della Legge n.87/1995. Lo studio, redatto in relazione ad attività che si prevede possano produrre livelli sonori superiori ai limiti di cui agli articoli 126 e 127, contiene l’indicazione delle misure previste per ridurre o eliminare le emissioni sonore causate dall’attività o dagli impianti.
+
+6\. Il rilascio dell’autorizzazione all’avvio dell’attività produttiva è subordinato al parere favorevole dell’UPA sullo studio previsionale di impatto acustico di cui al comma 5.
+
+#### CAPO III
+
+REQUISITI RELATIVI ALLE PRESTAZIONI ACUSTICHE DELLE STRUTTURE EDILIZIE ORIZZONTALI E VERTICALI DELIMITANTI GLI EDIFICI
+
+###### Art. 131
+
+(Indice di valutazione dell’isolamento acustico standardizzato di facciata normalizzato rispetto al tempo di riverberazione D2m,nT,w)
+
+1.
+
+Il parametro di riferimento per la definizione dei requisiti acustici delle strutture dell’involucro esterno di edifici è l’indice di valutazione dell’isolamento acustico standardizzato di facciata normalizzato rispetto al tempo di riverberazione (D2m,nT,w), misurato in decibel (dB) e definito dalla relazione di calcolo di cui al comma 2.
+
+2.
+
+Il D2m,nT,w è calcolato a partire dall’indice di valutazione del potere fonoisolante (Rw) di ogni singolo elemento e dall’indice di valutazione dell’isolamento acustico di piccoli elementi (Dne,w) mediante l’applicazione della formula
+
+dove i sotto elencati simboli assumono i seguenti significati:
+
+a) S: superficie della struttura edilizia espressa in m2;
+
+b) Vcl: volume netto climatizzato di cui all’articolo 3, comma 3, lettera h) della Legge 7 maggio 2008 n.72 del locale che la struttura edilizia separa dall’ambiente esterno
+
+espresso in m ;
+
+c) Si: superficie di ogni singolo elemento che compone la struttura edilizia espressa in
+
+m;
+
+d) Rwi: indice di valutazione del potere fonoisolante di ogni singolo elemento componente la struttura edilizia misurato in dB. Tale indice può essere desunto dai dati forniti dal produttore o in subordine valutato secondo quanto indicato nell’Appendice B - Dati di calcolo della norma UNI/TR 11175:2005 ai punti B4.1, B4.2, B4.3, B4.4, B4.6, B.4.7 o, in subordine, mediante relazioni generali come quella riportata al punto B3 di detta Appendice, o, infine, mediante altre specifiche relazioni purché debitamente documentate;
+
+e) Dne,wj: indice di valutazione dell’isolamento acustico di piccoli elementi inseriti nella struttura edilizia, misurato in dB. Tale indice può essere desunto dai dati forniti dal produttore o in subordine valutato secondo quanto indicato nell’Appendice B.4 Dati di calcolo della norma UNI/TR 11175:2005 al punto B4.9 o, in subordine, mediante altre specifiche relazioni purché debitamente documentate;
+
+f) K: termine di correzione relativa al contributo della trasmissione laterale. Tale termine di correzione deve essere posto pari a 0 per elementi di facciata non connessi e posto pari a 2 per elementi di facciata pesanti con giunti rigidi;
+
+g) ∆Lfs: termine di correzione dipendente dalla forma di facciata. Tale termine di correzione deve essere determinato secondo quanto previsto al punto 4.4.3 della norma UNI/TR 11175:2005, con particolare riferimento ai valori in figura 6 della norma suddetta, o all’appendice C della norma UNI EN 12354-3:2002, con particolare riferimento ai valori in figura C.2 dell’appendice C della norma suddetta.
+
+Nel caso non sia noto il valore del coefficiente dell’assorbimento acustico ponderato
+
+(aw) della superficie inferiore della struttura orizzontale posta esternamente sopra la parte di facciata considerata, quale, a titolo esemplificativo, solaio di balcone o di ballatoio, pensilina, schermatura solare aggettante, tale valore aw deve essere posto pari a 0.9. Il valore aw deve essere assunto anche in assenza di superficie riflettente.
+
+3\. Il valore risultante dall’applicazione della formula di cui al comma 1 deve essere arrotondato al mezzo decibel.
+
+###### Art. 132
+
+(Requisiti prestazionali)
+
+1.
+
+I requisiti prestazionali indicati al comma 2 si applicano alle sole parti dell’involucro edilizio che separano gli spazi interni dall’ambiente esterno.
+
+2.
+
+Per tutte le funzioni ed attività insediative oggetto degli interventi di cui all’articolo 5 della Legge n.72/2008, le strutture edilizie di separazione dei locali interni dall’esterno devono avere un valore del D2m,nT,w non inferiore a quelli previsti nella tabella di cui all’Allegato T del presente Codice in relazione alle categorie di attività previste nella tabella medesima.
+
+3.
+
+Il D2m,nT,w è calcolato in relazione ad ogni struttura edilizia che divide il locale considerato dall’ambiente esterno e deve tener conto della presenza dei singoli elementi che compongono la struttura edilizia considerata, quali manufatti, finestre, porte nonché degli elementi, anche di piccole dimensioni, eventualmente presenti nella struttura edilizia stessa atti ad alterarne le caratteristiche di isolamento acustico, quali, a titolo esemplificativo, feritoie, aperture di aerazione, bocchette, inserti.
+
+###### Art. 133
+
+(Relazioni tecniche)
+
+1\. I risultati della valutazione tecnica per il calcolo di D2m,nT,w sono riportati in apposita sezione della relazione tecnica preliminare e finale di cui all’articolo 19, comma 1, lettere b) ed e) della Legge n.72/2008 nonché, qualora gli interventi di riqualificazione energetica riguardino le strutture edilizie orizzontali e verticali delimitanti gli edifici, nella comunicazione di cui all’articolo 22, comma 1, lettera d) della predetta legge.
+
+Nelle suddette relazione tecnica e comunicazione, per ogni locale dell’edificio che presenta una o più strutture edilizie di separazione tra il locale stesso e l’ambiente esterno, devono essere dichiarati almeno i seguenti elementi:
+
+a) volume netto climatizzato del locale come indicato all’articolo 131, comma 2, lettera b);
+
+b) superficie ed elementi costitutivi di ciascuna struttura edilizia separante il locale dall’ambiente esterno;
+
+c) valori di Rwi di cui all’articolo 131, comma 2, lettera d), con chiara indicazione della provenienza del dato;
+
+d) valori di Dne,wj di cui all’articolo 131, comma 2, lettera e),con chiara indicazione della provenienza del dato;
+
+e) effetti di connessione con altre strutture edilizie, espressi dal termine K di cui all’articolo 131, comma 2, lettera f);
+
+f) effetti di conformazione della facciata espressi dal termine correttivo ∆Lfs di cui all’articolo 131, comma 2, lettera g);
+
+g) valore del coefficiente dell’assorbimento acustico ponderato aw della superficie inferiore della struttura orizzontale posta esternamente sopra la parte di facciata considerata, di cui all’articolo 131, comma 2, lettera g), secondo periodo;
+
+h) valore di D2m,nT,w, calcolato secondo la formula di cui all’articolo 131, comma 2;
+
+i) giustificazione di eventuali scelte di calcolo eseguite in difformità da quanto previsto al presente Capo.
+
+2\. La sottoscrizione dell’attestato AQEi e delle relazioni tecniche finali di cui all’articolo 19, comma 1, lettera e) della Legge n.72/2008 e la sottoscrizione della comunicazione di cui all’articolo 22, comma 1, lettera d) della predetta legge da parte dei tecnici incaricati degli isolamenti termici implica assunzione di responsabilità in capo agli stessi, relativamente alla correttezza della progettazione acustica.
+
+3\. La sottoscrizione dell’attestato AQEi di cui all’articolo 19, comma 1, lettera f) della Legge n.72/2008 e la sottoscrizione della comunicazione di cui all’articolo 22, comma 1, lettera d) della predetta legge da parte del direttore dei lavori o di suo delegato implica assunzione di responsabilità in capo agli stessi, relativamente alla conforme esecuzione delle opere di isolamento acustico.
+
+4\. L’asseverazione dell’attestato AQEi ai sensi degli articoli 19, comma 1, lettera g) della Legge n.72/2008 da parte del Certificatore Energetico implica assunzione di responsabilità in capo allo stesso, relativamente alla verifica della correttezza della progettazione e dell’esecuzione delle opere di isolamento acustico.
+
+###### Art. 134
+
+(Esclusioni)
+
+1\. Le disposizioni del presente Capo non si applicano ai locali con scarsa presenza di persone nell’arco delle ventiquattro ore quali, a titolo esemplificativo, autorimesse, vani scala, locali tecnici o accessori, qualora tali locali non costituiscano via di comunicazione acustica verso locali con presenza continuativa di persone; in quest’ultimo caso, i vincoli ed i requisiti di cui al presente Capo si applicano anche a detti locali, o, in alternativa, agli elementi dell’involucro edilizio che li separano dai locali con presenza continuativa di persone.
+
+2\. Le disposizioni di cui al presente Capo non vincolano le caratteristiche di isolamento, trasmissione e assorbimento acustici dei locali interni ad edifici e unità immobiliari.
+
+#### CAPO IV
+
+SISTEMA SANZIONATORIO
+
+###### Art. 135
+
+(Sanzioni amministrative)
+
+1\. Fatta salva l’eventuale concorrente applicazione di sanzioni penali, sono punite con sanzione amministrativa pecuniaria da € 1.000,00 a € 5.000,00 le seguenti violazioni alle disposizioni del presente Titolo:
+
+a) fatto salvo quanto previsto all’articolo 138, comma 3, l’esercizio o l’impiego di una sorgente di emissione sonora che superi i valori limite assoluti di immissione di cui all’articolo 126;
+
+b) fatto salvo quanto previsto all’articolo 138, comma 2, l’esercizio o l’impiego di una sorgente di emissione sonora che superi i valori limite differenziali di immissione di cui all’articolo 127;
+
+c) il mancato invio all’UPA, entro il termine di cui all’articolo 129, comma 1 del piano di risanamento;
+
+d) la mancata attuazione del piano di risanamento entro i termini di cui all’articolo
+
+129, commi 2 e 3.
+
+e) il mancato rispetto delle prescrizioni che verranno dettate con il Regolamento di cui all’articolo 139, comma 1.
+
+2\. Fatto salvo quanto previsto all’articolo 138, comma 4, è punito con sanzione amministrativa pecuniaria da € 5.000,00 a € 10.000,00 l’avvio dell’attività produttiva in assenza del parere favorevole di cui all’articolo 130, comma 5. E’ fatta salva l’eventuale concorrente applicazione di sanzioni penali.
+
+3\. Relativamente a quanto previsto dall’articolo 133, commi 2 e 3 nonché a quanto sarà previsto nel Regolamento di cui all’articolo 139, comma 2, in caso di redazione di progetti non veritieri e di falsa attestazione della conformità delle opere realizzate rispetto al progetto sono applicate le sanzioni amministrative previste dall’articolo 33, comma 2 della Legge n.72/2008 e successive modificazioni.
+
+4\. Relativamente a quanto previsto dall’articolo 133, comma 4, in caso di mancata verifica della rispondenza delle procedure e dei progetti o di falsa attestazione della conformità delle opere realizzate alle prescrizioni di cui al Capo III è applicata la sanzione amministrativa prevista dall’articolo 33, comma 6 della Legge n.72/2008 e successive modificazioni. E’ fatta salva l’eventuale concorrente applicazione di sanzioni penali.
+
+5\. Le sanzioni amministrative di cui ai precedenti commi 1 e 2 sono irrogate dall’UPA.
+
+6\. Le sanzioni amministrative di cui ai commi 3 e 4 sono irrogate dal Dirigente dell’Ufficio per l’Edilizia a seguito dell’istruttoria effettuata dal Responsabile del Servizio Gestione Procedure Energetiche secondo il combinato disposto dell’articolo 75, commi terzo e quarto della Legge 21 dicembre 2009 n.168 e dell’articolo 10 del Decreto Delegato 21 settembre 2010 n.158 e dalle norme ivi richiamate.
+
+7\. Fatto salvo quanto previsto al comma successivo, la facoltà di oblazione volontaria di cui all’articolo 33 della Legge 28 giugno 1989 n.68 è ammessa mediante il pagamento della metà della sanzione irrogata.
+
+8\. In caso di recidiva alle violazioni amministrative di cui ai commi precedenti la sanzione amministrativa viene aumentata fino a tre volte tanto nel minimo quanto nel massimo, tenuto conto della gravità dell’infrazione e non è ammesso l’esercizio della facoltà di oblazione volontaria di cui all’articolo 33 della Legge n.68/1989.
+
+9\. E’ recidivo chi, nei cinque anni precedenti l’ultima violazione, risulta aver commesso la medesima violazione amministrativa.
+
+#### CAPO V
+
+DISPOSIZIONI FINALI
+
+###### Art. 136
+
+(Modalità di esecuzione delle misurazioni e di presentazione dei risultati delle misurazioni)
+
+1.
+
+Le caratteristiche delle apparecchiature di misura ed i criteri e le modalità di esecuzione delle misurazioni sono definiti negli allegati Q e R del presente Codice.
+
+2.
+
+Le modalità di presentazione dei risultati delle misurazioni sono definite nell’Allegato S del presente Codice.
+
+###### Art. 137
+
+(Tecnici competenti in acustica)
+
+1.
+
+Possono svolgere l’attività di tecnico competente ai sensi dell’articolo124, comma 1, lettera i), coloro i quali siano in possesso del diploma di scuola media superiore ad indirizzo tecnico o del diploma universitario ad indirizzo scientifico ovvero del diploma di laurea ad indirizzo scientifico qualora dimostrino, previa presentazione
+
+di apposita domanda al CT, corredata da idonea documentazione attestante lo svolgimento di attività, in modo non occasionale, nel campo dell’acustica ambientale da almeno quattro anni per i diplomati e da almeno due anni per i laureati o per i titolari di diploma universitario.
+
+2.
+
+Le attività di cui sopra possono essere svolte da lavoratori subordinati in possesso del diploma di scuola media superiore che, alla data di entrata in vigore del presente Codice, svolgano la propria attività nel campo dell’acustica ambientale presso strutture pubbliche, ovvero da dipendenti pubblici che, a prescindere dal titolo di studio, abbiano svolto, alla data di entrata in vigore del presente Codice, per almeno cinque anni, attività nel campo dell’acustica ambientale in modo non occasionale. Gli operatori in servizio presso le strutture pubbliche possono operare esclusivamente nell’ambito della struttura di appartenenza.
+
+3.
+
+Le attività di cui sopra possono essere svolte, altresì, da soggetti che risiedano in Stati esteri, qualora dimostrino, previa presentazione di apposita domanda al CT, di avere conseguito titolo equipollente a quello di tecnico competente in acustica.
+
+4.
+
+Il CT può emanare provvedimenti finalizzati alla definizione di ulteriori requisiti validi al fine del conseguimento della qualifica di tecnico competente in acustica.
+
+5.
+
+I tecnici competenti in acustica sono iscritti, previa adozione di delibera autorizzativa del CT, in apposito elenco tenuto e periodicamente aggiornato dall’UPA, in cui deve essere inserito anche il personale addetto alla vigilanza.
+
+6.
+
+I soggetti che effettuano i controlli devono essere diversi da quelli che svolgono le attività sulle quali deve essere effettuato il controllo.
+
+###### Art. 138
+
+(Termini di applicazione)
+
+1.
+
+Al fine della tutela della popolazione dall’inquinamento acustico all’interno degli ambienti abitativi le disposizioni di cui all’articolo 127 si applicano a far data dall’entrata in vigore del presente Codice.
+
+2.
+
+Sino alla scadenza del termine di cui all’articolo 129, comma 1, primo periodo, in caso di superamento dei valori limite differenziali di immissione, l’autorità competente provvede ad emanare ordinanze per il rientro nei limiti senza applicare la sanzione stabilita dall’articolo 135, comma 2, lettera b). Tali ordinanze stabiliscono un termine non superiore a dodici mesi, prorogabili di ulteriori dodici mesi nei casi di particolare rilevanza e complessità, per l’attuazione degli interventi per il rientro nei limiti.
+
+3.
+
+La sanzione di cui all’articolo 135, comma 2, lettera a) è applicata a seguito dell’approvazione della zonizzazione acustica di cui all’articolo 125 e nel caso di mancata presentazione del piano di risanamento previsto all’articolo 129 entro i termini previsti.
+
+4.
+
+Le disposizioni di cui all’articolo 130 e le sanzioni di cui all’articolo 135, comma 2 sono applicate a seguito dell’approvazione della zonizzazione acustica di cui all’articolo 125 e del regolamento di cui all’articolo 139, comma 1.
+
+###### Art. 139
+
+(Disposizioni attuative)
+
+1\. Entro dodici mesi dall’entrata in vigore del presente Codice, il Congresso di Stato, su proposta della CTA, adotta, a mente dell’articolo 2, comma 2, lettera h), della Legge Costituzionale 15 dicembre 2005 n.183, un regolamento applicativo volto a disciplinare:
+
+a) le modalità di rilascio delle autorizzazioni per lo svolgimento di attività temporanee e di manifestazioni in luogo pubblico o aperto al pubblico qualora esso comporti
+
+l’impiego di macchinari o di impianti rumorosi;
+
+b) i criteri tecnici per la redazione dello studio previsionale di impatto acustico e dello studio previsionale del clima acustico;
+
+c) l’inquinamento acustico avente origine dal traffico veicolare, dagli autodromi, dai circoli privati, dai centri sociali e ricreativi, dai centri sportivi con particolare riferimento a quelli in cui si svolgono attività comportanti l’utilizzo di armi da fuoco ed alle piste motoristiche di prova e per attività sportive.
+
+2\. Entro dodici mesi dall’entrata in vigore del presente Codice, il Congresso di Stato, su proposta dell’Autorità di Regolazione per i Servizi Pubblici e l’Energia, adotta, a mente dell’articolo 2, comma 2, lettera h), della Legge Costituzionale 15 dicembre 2005 n.183, un regolamento applicativo volto a definire le caratteristiche di isolamento, trasmissione e assorbimento acustici dei locali interni ad edifici e unità immobiliari nonché le modalità ed i criteri di verifica dei predetti requisiti.
+
+3\. La CTA ha facoltà di dettare norme applicative e di assumere delibere interpretative delle disposizioni di cui al Capo II del presente Titolo e del regolamento di cui al comma 1.
+
+4\. L’Autorità di Regolazione per i Servizi Pubblici e l’Energia ha facoltà di dettare norme applicative e di assumere delibere interpretative delle disposizioni di cui al
+
+#### Capo III del presente Titolo e del regolamento di cui al comma 2.
+
+### TITOLO VII
+
+DISCIPLINA IN MATERIA DI ESPOSIZIONI A CAMPI ELETTRICI, MAGNETICI ED ELETTROMAGNETICI E FORMAZIONE DEL CATASTO DELLE SORGENTI DEI CAMPI ELETTRICI, MAGNETICI ED ELETTROMAGNETICI
+
+#### CAPO I
+
+DISPOSIZIONI GENERALI
+
+###### Art. 140
+
+(Finalità)
+
+1.
+
+Il presente Titolo ha lo scopo di dettare i principi fondamentali diretti ad assicurare la tutela della salute della popolazione dagli effetti dell’esposizione a campi elettrici, magnetici ed elettromagnetici e la tutela dell’ambiente e dei valori paesaggistici.
+
+2.
+
+A tal fine sono individuate le procedure atte a garantire che la localizzazione delle sorgenti di cui al successivo articolo 141 avvenga nel rispetto dei valori limite di esposizione, fissati per tutelare la popolazione dagli effetti acuti, e dei valori di cautela, fissati per assicurare la protezione della popolazione dagli effetti a lungo termine, nonché nel rispetto dell’ambiente e del paesaggio.
+
+###### Art. 141
+
+(Ambito di applicazione)
+
+1.
+
+Le norme contenute nel presente Titolo si applicano agli impianti per radiodiffusione, agli impianti radioelettrici per servizi di comunicazioni mobili, agli impianti radioelettrici di tipo punto-punto e punto-multipunto ed agli elettrodotti.
+
+2.
+
+Le disposizioni contenute nel presente Titolo non si applicano:
+
+a) agli apparati delle attività del Nucleo Uniformato delle Guardie di Rocca, del Corpo della Gendarmeria, della Polizia Civile e della Protezione Civile, i quali in ragione della loro specifica funzione e fermi restando i principi generali di cui al
+
+precedente articolo, sono fatti oggetto di specifica regolamentazione mediante apposito decreto delegato;
+
+b) agli elettrodotti in bassa tensione.
+
+3\. Gli apparati dei radioamatori e gli apparati radioelettrici radiotrasmittenti di debole potenza sono disciplinati con apposito decreto delegato.
+
+4\. Le disposizioni contenute nel presente Titolo non si applicano nei casi di esposizione intenzionale per scopi diagnostici o terapeutici, agli apparecchi ed ai dispositivi di uso domestico ed individuale.
+
+5\. I limiti di esposizione e i valori di cautela di cui all’articolo 144 non si applicano ai lavoratori esposti per ragioni professionali per i quali si rimanda a specifica legislazione.62
+
+###### Art. 142
+
+(Definizioni)
+
+1\. Ai fini dell’applicazione del presente Titolo si assumono le seguenti definizioni:
+
+a) elettrodotto: è l’insieme delle linee elettriche, delle sottostazioni e delle cabine di trasformazione dell’energia elettrica;
+
+b) impianto per la radiodiffusione: è la stazione di terra per il servizio di radiodiffusione televisiva o radiofonica ivi compresi i ponti radio di collegamento;
+
+c) impianti radioelettrici per servizi di comunicazioni mobili: tutti gli impianti radioelettrici per trasmissioni di segnali, con particolare riferimento agli impianti per la telefonia mobile (stazioni radio base e microcelle): sono le stazioni di terra dei servizi di telefonia mobile ivi compresi i ponti radio, destinate al collegamento radio dei terminali mobili con la rete di servizio;
+
+d) sorgenti dei campi elettrici, magnetici ed elettromagnetici: è l’insieme degli elettrodotti, degli impianti per radiodiffusione e per la telefonia mobile così come sopra definiti;
+
+e) limiti di esposizione: sono i valori di esposizione al campo elettrico, magnetico ed elettromagnetico, che non devono essere superati in alcuna condizione ai fini della tutela della salute individuale da effetti acuti;
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 141
+
+(Ambito di applicazione)
+
+1.
+
+Le norme contenute nel presente Titolo si applicano agli impianti per radiodiffusione, agli impianti per la telefonia mobile ed agli elettrodotti.
+
+2\. Le disposizioni contenute nel presente Titolo non si applicano:
+
+a) agli apparati delle attività del Nucleo Uniformato delle Guardie di Rocca, del Corpo della Gendarmeria, della Polizia Civile e della Protezione Civile, i quali in ragione della loro specifica funzione e fermi restando i principi generali di cui al precedente articolo, sono fatti oggetto di specifica regolamentazione mediante apposito decreto delegato;
+
+b) agli elettrodotti in bassa tensione.
+
+3\. Gli apparati dei radioamatori saranno disciplinati con apposito decreto delegato, nel rispetto dei limiti di esposizione e dei valori di cautela previsti nel presente Titolo.
+
+4\. Le disposizioni contenute nel presente Titolo non si applicano nei casi di esposizione intenzionale per scopi diagnostici o terapeutici, agli apparecchi ed ai dispositivi di uso domestico ed individuale.
+
+5\. I limiti di esposizione e i valori di cautela di cui all’articolo 144 non si applicano ai lavoratori esposti per ragioni professionali per i quali si rimanda a specifica legislazione.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 45:
+
+L‘articolo 141 del Decreto Delegato 27 aprile 2012 n. 44 è modificato come segue:
+
+a) il comma 1 è sostituito dal seguente: ―1. Le norme contenute nel presente Titolo si applicano agli impianti per radiodiffusione, agli impianti radioelettrici per servizi di comunicazioni mobili, agli impianti radioelettrici di tipo punto-punto e punto-multipunto ed agli elettrodotti.
+
+b) il comma 3 è sostituito dal seguente: ―3. Gli apparati dei radioamatori e gli apparati radioelettrici radiotrasmittenti di debole potenza sono disciplinati con apposito decreto delegato.
+
+f) valore di cautela: è il valore del campo elettrico, magnetico ed elettromagnetico, fissato per la protezione della popolazione da effetti a lungo termine; f-bis) impianti radioelettrici di tipo punto-punto e punto-multipunto: link radioelettrici di collegamento tra due o più punti fissi, mediante ponti radio. 63
+
+#### CAPO II
+
+PROTEZIONE DALLE ESPOSIZIONI A CAMPI ELETTRICI, MAGNETICI ED ELETTROMAGNETICI
+
+###### Art. 143
+
+(Catasto)
+
+1.
+
+E’ istituito il Catasto delle sorgenti dei campi elettrici, magnetici ed elettromagnetici presso l’UPA.
+
+2.
+
+Le caratteristiche e le modalità di inserimento dei dati necessari al popolamento del Catasto sono definiti al Capo III del presente Titolo.
+
+3.
+
+I gestori forniscono all’UPA la mappa completa delle sorgenti dei campi elettrici, magnetici ed elettromagnetici corredata delle caratteristiche tecniche degli impianti secondo quanto previsto dal successivo Capo III.
+
+###### Art. 144
+
+(Limiti di esposizione e valori di cautela)
+
+1.
+
+Nel caso di esposizione a campi elettrici e magnetici alla frequenza di 50 Hz generati da elettrodotti, non deve essere superato il limite di esposizione di 100 microtesla per il campo magnetico e 5 kV/m per il campo elettrico, intesi come valori efficaci.
+
+2.
+
+A titolo di cautela per la protezione da possibili effetti a lungo termine eventualmente connessi con le esposizioni ai campi generati alla suddetta frequenza, all’interno di edifici adibiti a permanenze non inferiori a quattro ore giornaliere, ivi comprese le loro pertinenze esterne che siano fruibili come ambienti abitativi quali Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 142
+
+(Definizioni)
+
+1\. Ai fini dell’applicazione del presente Titolo si assumono le seguenti definizioni:
+
+a) elettrodotto: è l’insieme delle linee elettriche, delle sottostazioni e delle cabine di trasformazione dell’energia elettrica;
+
+b) impianto per la radiodiffusione: è la stazione di terra per il servizio di radiodiffusione televisiva o radiofonica ivi compresi i ponti radio di collegamento;
+
+c) impianto per la telefonia mobile (stazione radio base e microcella): è la stazione di terra dei servizi di telefonia mobile ivi compresi i ponti radio, destinata al collegamento radio dei terminali mobili con la rete di servizio;
+
+d) sorgenti dei campi elettrici, magnetici ed elettromagnetici: è l’insieme degli elettrodotti, degli impianti per radiodiffusione e per la telefonia mobile così come sopra definiti;
+
+e) limiti di esposizione: sono i valori di esposizione al campo elettrico, magnetico ed elettromagnetico, che non devono essere superati in alcuna condizione ai fini della tutela della salute individuale da effetti acuti;
+
+f) valore di cautela: è il valore del campo elettrico, magnetico ed elettromagnetico, fissato per la protezione della popolazione da effetti a lungo termine;
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 46 :
+
+L‘articolo 142 del Decreto Delegato 27 aprile 2012 n. 44 è modificato come segue:
+
+a) al comma 1, la lettera c) è sostituita dalla seguente lettera: ―c) impianti radioelettrici per servizi di comunicazioni mobili: tutti gli impianti radioelettrici per trasmissioni di segnali, con particolare riferimento agli impianti per la telefonia mobile (stazioni radio base e microcelle): sono le stazioni di terra dei servizi di telefonia mobile ivi compresi i ponti radio, destinate al collegamento radio dei terminali mobili con la rete di servizio;
+
+b) al comma 1, dopo la lettera f) è aggiunta la seguente lettera: ―f-bis) impianti radioelettrici di tipo punto-punto e punto-multipunto: link radioelettrici di collegamento tra due o più punti fissi, mediante ponti radio.
+
+balconi, terrazzi, cortili, esclusi i lastrici solari, si assume per il campo magnetico il valore di cautela di 0.4 microtesla da intendersi come media nell’arco delle 24 ore.
+
+3.
+
+Nel caso di esposizione a campi elettrici, magnetici ed elettromagnetici con frequenza compresa tra 100 kHz e 300 GHz generati da impianti per la radiodiffusione e per la telefonia mobile, non devono essere superati i limiti di esposizione di cui alla Tabella 1, intesi come valori efficaci.
+
+Tabella 1: Limiti di esposizione Frequenza (f) 0.1 < f < 3 MHz Intensità di campo elettrico E (V/m) 60 Intensità di campo magnetico H (A/m) 0.2 Densità di potenza D (W/m2)
+
+Frequenza (f) 3 < f < 3000 MHz Intensità di campo elettrico E (V/m) 20 Intensità di campo magnetico H (A/m) 0.05 Densità di potenza D (W/m2) 1 Frequenza (f) 3 < f < 300 GHz Intensità di campo elettrico E (V/m) 40 Intensità di campo magnetico H (A/m) 0.1 Densità di potenza D (W/m2) 4
+
+4\. A titolo di cautela per la protezione da possibili effetti a lungo termine eventualmente connessi con le esposizioni ai campi generati alle suddette frequenze all’interno di edifici adibiti a permanenze non inferiori a quattro ore giornaliere, comprese le loro pertinenze esterne che siano fruibili come ambienti abitativi quali balconi, terrazzi, cortili, esclusi i lastrici solari, si assumono i valori di cautela indicati nella Tabella 2.
+
+Tabella 2: Valori di cautela Frequenza (f) 0.1 MHz < f < 300 GHz Intensità di campo elettrico E (V/m) 6 Intensità di campo magnetico H (A/m) 0.016 Densità di potenza D (W/m2) 0.1 (3 MHz – 300 GHz)
+
+5\. I valori di cui ai commi 3 e 4 devono essere mediati su un’area equivalente alla sezione verticale del corpo umano e su qualsiasi intervallo di sei minuti.
+
+6\. Per impianti di radiodiffusione e per la telefonia mobile, nel caso di campi elettromagnetici generati da più sorgenti, la somma dei relativi contributi normalizzati, definiti in allegato A, deve essere minore dell’unità.
+
+7\. Vista la costante evoluzione tecnica i limiti di esposizione ed i valori di cautela di cui al presente articolo verranno aggiornati dalla CTA, mediante propria deliberazione, in conformità ai valori di cautela individuati dalla normativa europea.
+
+###### Art. 144-bis
+
+(Procedura per la presentazione dei piani di sviluppo tecnologico)
+
+1\. Al fine di assicurare il corretto insediamento urbanistico e territoriale degli impianti radioelettrici di cui all‘articolo 141, comma 1, nel territorio della Repubblica di San
+
+Marino i concessionari/gestori dei suddetti impianti interessati presentano all‘UPA il piano di sviluppo tecnologico che intendono realizzare.
+
+2\. Il piano di sviluppo tecnologico deve essere corredato dalla seguente documentazione tecnica, sia in formato cartaceo che informatico:
+
+a) schede tecniche degli impianti esistenti con specificazione delle caratteristiche radioelettriche e geometriche e l'indicazione della relativa localizzazione;
+
+b) cartografia con l‘indicazione degli impianti esistenti nel territorio della Repubblica;
+
+c) cartografia con l'individuazione delle aree di ricerca o eventuali siti puntuali per la localizzazione di nuovi impianti, nonché degli interventi di modifica delle caratteristiche di emissione degli impianti esistenti, che si intendono realizzare.
+
+Il piano di sviluppo tecnologico deve indicare quali tecnologie si intendono utilizzare su ognuno degli impianti.
+
+3\. L‘UPA effettua l‘istruttoria del piano di sviluppo tecnologico avvalendosi, se necessario, del supporto tecnico del CT. Entro trenta giorni dalla presentazione del piano di sviluppo tecnologico, l‘UPA richiede ai concessionari/gestori le eventuali necessarie integrazioni.
+
+4\. La CTA delibera in merito ai piani di sviluppo tecnologico entro sessanta giorni dalla presentazione della richiesta, completa della documentazione. I piani autorizzati sono pubblicati secondo le procedure previste per la trasparenza degli atti amministrativi.64
+
+###### Art. 145
+
+(Autorizzazioni)
+
+1\. Gli esercenti delle sorgenti dei campi elettrici, magnetici ed elettromagnetici devono presentare al CT richiesta di autorizzazione per l‘esercizio della nuova sorgente o all‘UPA per la modifica di sorgente esistente, secondo le procedure di cui all‘articolo
+
+182\. Alla richiesta è allegata documentazione attestante le caratteristiche tecniche e di esercizio dell‘impianto e le misurazioni dei livelli di esposizione entro una distanza di 200 metri dall‘impianto stesso nei luoghi ove è consentito l‘accesso alla popolazione ed è possibile la sua presenza per periodi di tempo superiori alle quattro ore. Oltre alle misurazioni si potrà fare riferimento, per l‘attestazione del rispetto dei limiti di esposizione e dei valori di cautela, a stime effettuate attraverso modelli di calcolo conformi a quanto previsto dalle norme CEI (Comitato Elettrotecnico Italiano). Il CT e l‘UPA, per quanto di rispettiva competenza, procedono alla disamina delle pratiche Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 47:
+
+Dopo l‘articolo 144 del Decreto Delegato 27 aprile 2012 n.44 è aggiunto il seguente articolo: ―Art. 144-bis (Procedura per la presentazione dei piani di sviluppo tecnologico)
+
+1\. Al fine di assicurare il corretto insediamento urbanistico e territoriale degli impianti radioelettrici di cui all‘articolo 141, comma 1, nel territorio della Repubblica di San Marino i concessionari/gestori dei suddetti impianti interessati presentano all‘UPA il piano di sviluppo tecnologico che intendono realizzare.
+
+2\. Il piano di sviluppo tecnologico deve essere corredato dalla seguente documentazione tecnica, sia in formato cartaceo che informatico:
+
+a) schede tecniche degli impianti esistenti con specificazione delle caratteristiche radioelettriche e geometriche e l'indicazione della relativa localizzazione;
+
+b) cartografia con l‘indicazione degli impianti esistenti nel territorio della Repubblica;
+
+c) cartografia con l'individuazione delle aree di ricerca o eventuali siti puntuali per la localizzazione di nuovi impianti, nonché degli interventi di modifica delle caratteristiche di emissione degli impianti esistenti, che si intendono realizzare.
+
+Il piano di sviluppo tecnologico deve indicare quali tecnologie si intendono utilizzare su ognuno degli impianti.
+
+3\. L‘UPA effettua l‘istruttoria del piano di sviluppo tecnologico avvalendosi, se necessario, del supporto tecnico del CT.
+
+Entro trenta giorni dalla presentazione del piano di sviluppo tecnologico, l‘UPA richiede ai concessionari/gestori le eventuali necessarie integrazioni.
+
+4\. La CTA delibera in merito ai piani di sviluppo tecnologico entro sessanta giorni dalla presentazione della richiesta, completa della documentazione. I piani autorizzati sono pubblicati secondo le procedure previste per la trasparenza degli atti amministrativi.
+
+secondo specifico regolamento adottato dalla CTA medesima. Le richieste di autorizzazione delle nuove sorgenti dei campi elettrici, magnetici ed elettromagnetici e della modifica di sorgenti esistenti, in relazione all‘uso delle frequenze e ai servizi di telecomunicazioni, sono subordinate all‘approvazione dei piani di sviluppo tecnologico di cui all‘articolo 144-bis. A tali richieste è allegato il parere preventivo del Settore Telecomunicazioni.
+
+2\. Gli esercenti delle sorgenti dei campi elettrici, magnetici ed elettromagnetici esistenti non conformi alle disposizioni del presente Capo, oltre ad essere soggetti alle sanzioni previste, devono presentare un piano di risanamento al CT secondo le prescrizioni dettate dall‘UPA nell‘ordinanza che accerta le non conformità della sorgente. Il piano di risanamento viene approvato dal CT, previo parere dell‘UPA, e può prevedere anche la delocalizzazione delle sorgenti di campi elettrici, magnetici ed elettromagnetici. Tale piano prevede:
+
+a) le modalità e tempi di riconduzione a conformità degli impianti;
+
+b) nel caso di esposizioni dovute alla compresenza di più impianti di radiodiffusione e per la telefonia mobile, la riduzione a conformità secondo quanto riportato nell‘Allegato U del presente Codice;
+
+c) l‘assunzione da parte dei titolari delle sorgenti di campi elettrici, magnetici ed elettromagnetici di tutti gli oneri relativi al risanamento.
+
+3\. Nel caso di impianti sprovvisti di autorizzazione, il piano deve essere presentato alla CTA e ricomprende la richiesta di autorizzazione che verrà rilasciata dalla CTA medesima successivamente alla realizzazione degli interventi di riduzione a conformità dell‘impianto alle norme del presente Capo, previo parere dell‘UPA sull‘avvenuta messa a norma dell‘impianto stesso.
+
+4\. La richiesta di autorizzazione per gli impianti di cui al presente Titolo contiene la documentazione prevista nell‘Allegato V del presente Codice.
+
+5\. Gli impianti di cui al comma 1 dell‘articolo 141, ad esclusione degli elettrodotti, di uso privato o in ambiente chiuso, di potenza complessiva di ingresso inferiore a 5 Watt, fermo restando il rispetto dei limiti di esposizione e valori di cautela di cui all‘articolo 144, sono esonerati dall‘autorizzazione di cui al presente articolo. Ai fini di cui al presente articolo si deve intendere la potenza complessiva di ingresso (Pt – perdite di inserzione e di linea) al sistema radiante.
+
+6\. Gli esercenti delle sorgenti dei campi elettrici, magnetici ed elettromagnetici esistenti, di potenza compresa tra 5 e 15 Watt, devono presentare richiesta di autorizzazione al CT entro il 31 ottobre 2016.
+
+7\. Gli impianti di cui al comma 5, fatta eccezione per gli impianti ad uso privato che interessano solo la proprietà privata, sono, tuttavia, inseriti nel Catasto delle sorgenti dei campi elettrici, magnetici ed elettromagnetici di cui all‘articolo 143. A tal fine il gestore, almeno quarantacinque giorni prima dell‘installazione della sorgente, ha l‘obbligo di notifica all‘UPA secondo le modalità di cui al Capo III. L‘UPA ha facoltà di prescrivere, entro trenta giorni dal ricevimento della notifica, modifiche al progetto volte a ridurre i livelli ambientali di campo elettromagnetico.
+
+8\. Gli impianti con carattere d‘urgenza e temporaneo, siano essi per manifestazioni sportive, culturali o per fare fronte a situazioni di emergenza di carattere pubblico, ad esempio a seguito di calamità naturali, non sono soggetti alle disposizioni di cui al presente articolo, purché l‘esercente presenti all‘UPA una dichiarazione che certifichi il rispetto dei limiti ai sensi dell‘articolo 144, con allegata la documentazione necessaria ai fini di un‘eventuale verifica e previo parere del Settore Telecomunicazioni.
+
+L‘impianto o gli impianti in questione possono essere posti in funzione per un periodo non superiore a quindici giorni. Tali impianti sono soggetti all‘autorizzazione della Segreteria di Stato competente. 65 65
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 145
+
+(Autorizzazioni)
+
+1.
+
+Gli esercenti delle sorgenti dei campi elettrici, magnetici ed elettromagnetici devono presentare richiesta di autorizzazione per l’esercizio della nuova sorgente o per la modifica di sorgente esistente secondo le procedure di cui all’articolo 182 allegando la documentazione attestante le caratteristiche tecniche e di esercizio dell’impianto e le misurazioni dei livelli di esposizione entro una distanza di 200 metri dall’impianto stesso nei luoghi ove è consentito l’accesso alla popolazione ed è possibile la sua presenza per periodi di tempo superiori alle quattro ore. Oltre alle misurazioni si potrà fare riferimento, per l’attestazione del rispetto dei limiti di esposizione e dei valori di cautela, a stime effettuate attraverso modelli di calcolo conformi a quanto previsto dalle norme CEI (Comitato Elettrotecnico Italiano). La CTA ed il CT, per quanto di rispettiva competenza, procederanno alla disamina delle pratiche secondo specifico regolamento adottato dalla CTA medesima.
+
+2\. Gli esercenti delle sorgenti dei campi elettrici, magnetici ed elettromagnetici esistenti non conformi alle disposizioni del presente Capo, oltre ad essere soggetti alle sanzioni previste, devono presentare un piano di risanamento al CT secondo le prescrizioni dettate dall’UPA nell’ordinanza che accerta le non conformità della sorgente. Il piano di risanamento viene approvato dal CT, previo parere dell’UPA e può prevedere anche la delocalizzazione delle sorgenti di campi elettrici, magnetici ed elettromagnetici. Tale piano prevede:
+
+a) le modalità e tempi di riconduzione a conformità degli impianti;
+
+b) nel caso di esposizioni dovute alla compresenza di più impianti di radiodiffusione e per la telefonia mobile, la riduzione a conformità secondo quanto riportato nell’Allegato U del presente Codice;
+
+c) l’assunzione da parte dei titolari delle sorgenti di campi elettrici, magnetici ed elettromagnetici di tutti gli oneri relativi al risanamento.
+
+3\. Nel caso di impianti sprovvisti di autorizzazione, il piano deve essere presentato alla CTA e ricomprende la richiesta di autorizzazione che verrà rilasciata dalla CTA medesima successivamente alla realizzazione degli interventi di riduzione a conformità dell’impianto alle norme del presente Capo, previo parere dell’UPA sull’avvenuta messa a norma dell’impianto stesso.
+
+4\. Le nuove sorgenti dei campi elettrici, magnetici ed elettromagnetici devono essere preventivamente autorizzate dalla CTA mentre l’autorizzazione per la modifica di sorgenti esistenti compete al CT. La richiesta di autorizzazione per tali impianti dovrà contenere la documentazione prevista nell’Allegato V del presente Codice.
+
+5\. Gli impianti per la radiodiffusione, la telefonia mobile, nonché i ripetitori per telefonia mobile di uso privato o in ambiente chiuso, di potenza inferiore a 2 Watt sono esonerati dall’autorizzazione di cui al presente articolo. Ai fini di cui al presente comma si deve intendere la potenza complessiva di ingresso (Pt – perdite di inserzione e di linea) al sistema radiante; se il sistema radiante è composto da più elementi, oltre alla potenza in ingresso al sistema radiante si considera anche la potenza in ingresso a ciascun elemento che compone il sistema radiante.
+
+6\. Gli apparati WiFi, Hiperplan e Wi-MAX con potenza in singola antenna non superiore a 15 watt, fermo restando il rispetto dei limiti di esposizione e valori di cautela di cui all’articolo 144 non sono assoggettati al regime autorizzatorio di cui al presente articolo. Ai fini di cui al presente comma, si deve intendere la potenza di ingresso (Pt – perdite di inserzione e di linea) ad ogni singola antenna (sistema radiante).
+
+7\. Gli impianti di cui ai precedenti commi 4 e 5 sono, tuttavia, inseriti nel Catasto delle sorgenti dei campi elettrici, magnetici ed elettromagnetici di cui all’articolo 143. A tal fine il gestore, almeno quarantacinque giorni prima dell’installazione della sorgente, ha l’obbligo di notifica all’UPA secondo le modalità di cui al successivo Capo III. L’UPA ha facoltà di prescrivere, entro trenta giorni dal ricevimento della notifica, modifiche al progetto volte a ridurre i livelli ambientali di campo elettromagnetico.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 48:
+
+L‘articolo 145 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 145 (Autorizzazioni) ―1. Gli esercenti delle sorgenti dei campi elettrici, magnetici ed elettromagnetici devono presentare al CT richiesta di autorizzazione per l‘esercizio della nuova sorgente o all‘UPA per la modifica di sorgente esistente, secondo le procedure di cui all‘articolo 182. Alla richiesta è allegata documentazione attestante le caratteristiche tecniche e di esercizio dell‘impianto e le misurazioni dei livelli di esposizione entro una distanza di 200 metri dall‘impianto stesso nei luoghi ove è consentito l‘accesso alla popolazione ed è possibile la sua presenza per periodi di tempo superiori alle quattro ore. Oltre alle misurazioni si potrà fare riferimento, per l‘attestazione del rispetto dei limiti di esposizione e dei valori di cautela, a stime effettuate attraverso modelli di calcolo conformi a quanto previsto dalle norme CEI (Comitato Elettrotecnico Italiano). Il CT e l‘UPA, per quanto di rispettiva competenza, procedono alla disamina delle pratiche secondo specifico regolamento adottato dalla CTA medesima. Le richieste di autorizzazione delle nuove sorgenti dei campi elettrici, magnetici ed elettromagnetici e della modifica di sorgenti esistenti, in relazione all‘uso delle frequenze e ai servizi di telecomunicazioni, sono subordinate all‘approvazione dei piani di sviluppo tecnologico di cui all‘articolo 144-bis. A tali richieste è allegato il parere preventivo del Settore Telecomunicazioni.
+
+2\. Gli esercenti delle sorgenti dei campi elettrici, magnetici ed elettromagnetici esistenti non conformi alle disposizioni del presente Capo, oltre ad essere soggetti alle sanzioni previste, devono presentare un piano di risanamento al CT secondo le prescrizioni dettate dall‘UPA nell‘ordinanza che accerta le non conformità della sorgente. Il piano di risanamento viene approvato dal CT, previo parere dell‘UPA, e può prevedere anche la delocalizzazione delle sorgenti di campi elettrici, magnetici ed elettromagnetici. Tale piano prevede:
+
+a) le modalità e tempi di riconduzione a conformità degli impianti;
+
+b) nel caso di esposizioni dovute alla compresenza di più impianti di radiodiffusione e per la telefonia mobile, la riduzione a conformità secondo quanto riportato nell‘Allegato U del presente Codice;
+
+c) l‘assunzione da parte dei titolari delle sorgenti di campi elettrici, magnetici ed elettromagnetici di tutti gli oneri relativi al risanamento.
+
+3\. Nel caso di impianti sprovvisti di autorizzazione, il piano deve essere presentato alla CTA e ricomprende la richiesta di autorizzazione che verrà rilasciata dalla CTA medesima successivamente alla realizzazione degli interventi di
+
+###### Art. 146
+
+(Misure di tutela dell’ambiente e del paesaggio e divieti di localizzazione)
+
+1.
+
+Al fine di tutelare l’ambiente e il paesaggio, con decreto delegato, proposto dalla CTA, vengono adottate misure specifiche relative alle caratteristiche tecniche degli impianti e alla localizzazione dei tracciati, per la progettazione, la costruzione e la modifica di elettrodotti. Con lo stesso regolamento possono essere adottate ulteriori misure specifiche per la progettazione, la costruzione e la modifica di elettrodotti nelle aree soggette a vincoli imposti da normative vigenti nonché da strumenti di pianificazione territoriale ed urbanistica, a tutela degli interessi storici, artistici, architettonici, archeologici, paesaggistici e ambientali.
+
+2.
+
+La localizzazione degli impianti di cui all‘articolo 141, comma 1, è consentita solo nei siti individuati nei piani di sviluppo tecnologico di cui all‘articolo 144-bis. Tali localizzazioni vengono valutate in sede di pianificazione, sulla base delle Linee Guida contenute in un regolamento per la definizione dei criteri di localizzazione adottato dalla CTA entro il 31 dicembre 2017.66
+
+riduzione a conformità dell‘impianto alle norme del presente Capo, previo parere dell‘UPA sull‘avvenuta messa a norma dell‘impianto stesso.
+
+4\. La richiesta di autorizzazione per gli impianti di cui al presente Titolo contiene la documentazione prevista nell‘Allegato V del presente Codice.
+
+5\. Gli impianti di cui al comma 1 dell‘articolo 141, ad esclusione degli elettrodotti, di uso privato o in ambiente chiuso, di potenza complessiva di ingresso inferiore a 5 Watt, fermo restando il rispetto dei limiti di esposizione e valori di cautela di cui all‘articolo 144, sono esonerati dall‘autorizzazione di cui al presente articolo. Ai fini di cui al presente articolo si deve intendere la potenza complessiva di ingresso (Pt – perdite di inserzione e di linea) al sistema radiante.
+
+6\. Gli esercenti delle sorgenti dei campi elettrici, magnetici ed elettromagnetici esistenti, di potenza compresa tra 5 e 15 Watt, devono presentare richiesta di autorizzazione al CT entro il 31 ottobre 2016.
+
+7\. Gli impianti di cui al comma 5, fatta eccezione per gli impianti ad uso privato che interessano solo la proprietà privata, sono, tuttavia, inseriti nel Catasto delle sorgenti dei campi elettrici, magnetici ed elettromagnetici di cui all‘articolo 143. A tal fine il gestore, almeno quarantacinque giorni prima dell‘installazione della sorgente, ha l‘obbligo di notifica all‘UPA secondo le modalità di cui al Capo III. L‘UPA ha facoltà di prescrivere, entro trenta giorni dal ricevimento della notifica, modifiche al progetto volte a ridurre i livelli ambientali di campo elettromagnetico.
+
+8\. Gli impianti con carattere d‘urgenza e temporaneo, siano essi per manifestazioni sportive, culturali o per fare fronte a situazioni di emergenza di carattere pubblico, ad esempio a seguito di calamità naturali, non sono soggetti alle disposizioni di cui al presente articolo, purché l‘esercente presenti all‘UPA una dichiarazione che certifichi il rispetto dei limiti ai sensi dell‘articolo 144, con allegata la documentazione necessaria ai fini di un‘eventuale verifica e previo parere del Settore Telecomunicazioni. L‘impianto o gli impianti in questione possono essere posti in funzione per un periodo non superiore a quindici giorni. Tali impianti sono soggetti all‘autorizzazione della Segreteria di Stato competente.
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 146
+
+(Misure di tutela dell’ambiente e del paesaggio e divieti di localizzazione)
+
+1.
+
+Al fine di tutelare l’ambiente e il paesaggio, con decreto delegato, proposto dalla CTA, vengono adottate misure specifiche relative alle caratteristiche tecniche degli impianti e alla localizzazione dei tracciati, per la progettazione, la costruzione e la modifica di elettrodotti. Con lo stesso regolamento possono essere adottate ulteriori misure specifiche per la progettazione, la costruzione e la modifica di elettrodotti nelle aree soggette a vincoli imposti da normative vigenti nonché da strumenti di pianificazione territoriale ed urbanistica, a tutela degli interessi storici, artistici, architettonici, archeologici, paesaggistici e ambientali.
+
+La localizzazione di impianti per la radiodiffusione e la telefonia mobile è vietata in aree destinate ad attrezzature sanitarie, assistenziali e scolastiche, nelle aree a parco, nelle riserve naturali, nelle riserve naturali integrali, nelle aree a verde urbano così come definite e regolamentate dalla Legge 29 gennaio 1992 n. 7 (Piano Regolatore Generale) e dalla Legge 16 novembre 1995 n. 126, nonché su edifici di interesse storico, architettonico e monumentale.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 49:
+
+Il comma 2 dell‘articolo 146 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―2. La localizzazione degli impianti di cui all‘articolo 141, comma 1, è consentita solo nei siti individuati nei piani di sviluppo tecnologico di cui all‘articolo 144-bis. Tali localizzazioni vengono valutate in sede di pianificazione, sulla base delle Linee Guida contenute in un regolamento per la definizione dei criteri di localizzazione adottato dalla CTA entro il 31 dicembre 2017.
+
+###### Art. 147
+
+(Apparecchiature di uso domestico, individuale e lavorativo)
+
+1\. I fabbricanti di apparecchi e dispositivi per uso lavorativo e professionale e domestico, generanti campi elettrici, magnetici ed elettromagnetici, sono tenuti a fornire, secondo le disposizioni in materia vigenti nella Unione Europea, agli utenti ed ai lavoratori e alle lavoratrici, mediante apposite etichettature o schede informative, le informazioni sui livelli di esposizione prodotti dall’apparecchio o dal dispositivo, la distanza di utilizzo consigliata e le principali prescrizioni di sicurezza.
+
+#### CAPO III
+
+NORME PER LA FORMAZIONE DEL CATASTO DELLE SORGENTI DEI CAMPI ELETTRICI, MAGNETICI ED ELETTROMAGNETICI
+
+###### Art. 148
+
+(Campo di applicazione)
+
+1.
+
+Il presente Capo individua i dati tecnici e le procedure utili per il popolamento del catasto delle fonti elettromagnetiche di cui all’articolo 143 il cui campo di applicazione è ulteriormente specificato nel regolamento per l’autorizzazione all’esercizio delle sorgenti di campi elettrici, magnetici ed elettromagnetici della CTA di cui all’articolo 145, comma 1, ultimo periodo.
+
+2.
+
+Gli Allegati Z e Z1 del presente Codice con le rispettive note costituiscono parte integrante del presente Titolo e la loro compilazione ricade sotto la diretta responsabilità dei gestori per quanto riguarda i dati riportati.
+
+###### Art.149
+
+(Procedura)
+
+1\. A seguito di autorizzazione di nuovi impianti, i gestori dovranno fornire all‘UPA, entro sessanta giorni dalla data di autorizzazione, i seguenti dati:
+
+a) per gli impianti di telefonia mobile e di radiodiffusione e per gli impianti radioelettrici di tipo punto-punto e punto-multipunto, i dati di cui all‘Allegato Z del presente Codice;
+
+b) per gli elettrodotti, i dati di cui all‘Allegato Z1 del presente Codice.
+
+2\. I gestori dovranno comunicare all‘UPA qualunque modifica agli impianti già autorizzati entro trenta giorni dalla data di autorizzazione alla modifica. Tale comunicazione deve contenere, sia per la configurazione originale dell‘impianto che per quella modificata, limitatamente alla parte oggetto della modifica, i seguenti dati:
+
+a) per gli impianti di telefonia mobile e di radiodiffusione, i dati di cui all‘Allegato Z del presente Codice;
+
+b) per gli elettrodotti, i dati di cui all‘Allegato Z1 del presente Codice.
+
+3\. I gestori devono comunicare all‘UPA eventuale chiusura degli impianti entro trenta giorni dalla data della chiusura degli stessi.
+
+4\. I gestori devono comunicare all‘UPA la messa in esercizio degli impianti autorizzati entro trenta giorni dalla data di messa in esercizio degli stessi.
+
+5\. L‘UPA invia all‘Ufficio Pianificazione Territoriale, ai fini del popolamento del Catasto delle Fonti Elettromagnetiche, le informazioni di cui ai precedenti commi.
+
+6\. A seguito dell‘installazione degli apparati di cui al superiore comma 1, i gestori forniscono all‘UPA la documentazione fotografica degli apparati installati con didascalia che individui gli stessi. 67 67
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 150
+
+(Dati per il popolamento del catasto)
+
+1.
+
+Le informazioni contenute negli Allegati Z e Z1 del presente Codice devono essere presentate dai gestori all’UPA sia su supporto cartaceo che su supporto magnetico; per questa seconda modalità dovranno essere utilizzati i modelli predisposti e resi disponibili dall’UPA.
+
+2.
+
+È data facoltà dell’UPA di richiedere ai gestori eventuali integrazioni che dovranno essere presentate entro trenta giorni dalla richiesta.
+
+3.
+
+L’UPA concorderà con il Sistema Informativo Territoriale del Dipartimento Territorio le modalità e le procedure tecnico-informatiche e di inserimento dati per il popolamento del catasto.
+
+#### CAPO IV
+
+SISTEMA SANZIONATORIO
+
+###### Art.149
+
+(Procedura)
+
+1\. A seguito di autorizzazione di nuovi impianti, i gestori dovranno fornire all’UPA, entro sessanta giorni dalla data di autorizzazione, i seguenti dati:
+
+a) per gli impianti di telefonia mobile e di radiodiffusione, i dati di cui all’Allegato Z del presente Codice;
+
+b) per gli elettrodotti, i dati di cui all’Allegato Z1 del presente Codice.
+
+2\. I gestori dovranno comunicare all’UPA qualunque modifica agli impianti già autorizzati, entro 30 giorni dalla data di autorizzazione alla modifica. Tale comunicazione dovrà contenere sia per la configurazione originale dell’impianto che per quella modificata, limitatamente alla parte oggetto della modifica i seguenti dati: a) per gli impianti di telefonia mobile e di radiodiffusione, i dati di cui all’Allegato Z del presente Codice;
+
+b) per gli elettrodotti, i dati di cui all’Allegato Z1 del presente Codice.
+
+3\. I gestori dovranno comunicare all’UPA eventuale chiusura degli impianti entro trenta giorni dalla data della chiusura degli stessi.
+
+4\. I gestori dovranno comunicare all’UPA la messa in esercizio degli impianti autorizzati, entro tenta giorni dalla data di messa in esercizio degli stessi.
+
+5\. L’UPA invierà al Sistema Informativo Territoriale del Dipartimento Territorio, ai fini del popolamento del Catasto delle Fonti Elettromagnetiche, le informazioni di cui ai precedenti commi.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 50:
+
+L‘articolo 149 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art.149 (Procedura)
+
+1\. A seguito di autorizzazione di nuovi impianti, i gestori dovranno fornire all‘UPA, entro sessanta giorni dalla data di autorizzazione, i seguenti dati:
+
+a) per gli impianti di telefonia mobile e di radiodiffusione e per gli impianti radioelettrici di tipo punto-punto e puntomultipunto, i dati di cui all‘Allegato Z del presente Codice;
+
+b) per gli elettrodotti, i dati di cui all‘Allegato Z1 del presente Codice.
+
+2\. I gestori dovranno comunicare all‘UPA qualunque modifica agli impianti già autorizzati entro trenta giorni dalla data di autorizzazione alla modifica. Tale comunicazione deve contenere, sia per la configurazione originale dell‘impianto che per quella modificata, limitatamente alla parte oggetto della modifica, i seguenti dati:
+
+a) per gli impianti di telefonia mobile e di radiodiffusione, i dati di cui all‘Allegato Z del presente Codice;
+
+b) per gli elettrodotti, i dati di cui all‘Allegato Z1 del presente Codice.
+
+3\. I gestori devono comunicare all‘UPA eventuale chiusura degli impianti entro trenta giorni dalla data della chiusura degli stessi.
+
+4\. I gestori devono comunicare all‘UPA la messa in esercizio degli impianti autorizzati entro trenta giorni dalla data di messa in esercizio degli stessi.
+
+5\. L‘UPA invia all‘Ufficio Pianificazione Territoriale, ai fini del popolamento del Catasto delle Fonti Elettromagnetiche, le informazioni di cui ai precedenti commi.
+
+6\. A seguito dell‘installazione degli apparati di cui al superiore comma 1, i gestori forniscono all‘UPA la documentazione fotografica degli apparati installati con didascalia che individui gli stessi.
+
+###### Art. 151
+
+(Sanzioni)
+
+1.
+
+Salvo che il fatto costituisca reato, chiunque, nell’esercizio o nell’impiego di una sorgente di campi elettrici, magnetici ed elettromagnetici, superi i limiti di esposizione o i valori di cautela fissati nel Capo II del presente Titolo, è punito con la sanzione amministrativa da € 5.000,00 a € 50.000,00.
+
+2.
+
+Il mancato risanamento degli impianti per la radiodiffusione, degli impianti per la telefonia mobile e degli elettrodotti secondo le prescrizioni del piano di risanamento di cui all’articolo 145, commi 2 e 3, dovuto a inerzia o inadempienza dell’esercente, comporta l’applicazione delle sanzioni di cui al comma 1.
+
+3.
+
+Chiunque installa sorgenti di campi elettrici, magnetici ed elettromagnetici senza la prescritta autorizzazione è punito con la sanzione amministrativa da €
+
+5.000,00 a € 50.000,00; qualora l’impianto risulti anche attivato l’UPA provvede ad interdirne l’uso.
+
+4.
+
+In caso di inosservanza delle prescrizioni previste nelle autorizzazioni rilasciate ai sensi del Capo II, oltre alla sanzione di cui al comma 1, si applica la sospensione degli atti autorizzatori da uno a quattro mesi.
+
+5.
+
+Chiunque non fornisca i dati e le informazioni di cui all’articolo 149 è punito con la sanzione amministrativa da € 500,00 a € 1.500,00.
+
+6.
+
+Fatto salvo quanto previsto al successivo comma, la facoltà di oblazione volontaria di cui all’articolo 33 della Legge 28 giugno 1989 n.68 è ammessa mediante il pagamento della metà della sanzione irrogata.
+
+7.
+
+In caso di recidiva alle violazioni amministrative di cui ai commi precedenti la sanzione amministrativa viene aumentata fino a tre volte tanto nel minimo quanto nel massimo, tenuto conto della gravità dell’infrazione e non è ammesso l’esercizio della facoltà di oblazione volontaria di cui all’articolo 33 della Legge n.68/1989. In caso di recidiva, inoltre, l’UPA, con proprio provvedimento, provvede ad interdire l’uso dell’impianto nonché, nei casi più gravi, ad attivare la CTA ai fini della revoca dell’autorizzazione; l’esercente è comunque tenuto a garantire i diritti degli utenti all’erogazione del servizio di pubblica utilità.
+
+8.
+
+E’ recidivo chi, nei cinque anni precedenti l’ultima violazione, risulta aver commesso la medesima violazione amministrativa.
+
+### TITOLO VIII 68
+
+NORME IN MATERIA DI DIRITTO ALLE INFORMAZIONI IN MATERIA AMBIENTALE E TUTELA RISARCITORIA CONTRO I DANNI ALL’AMBIENTE
+
+#### CAPO I
+
+DISPOSIZIONI GENERALI
+
+Decreto Delegato 31 gennaio 2017 n. 16, Art. 70:
+
+Il Regolamento (CE) n.1013/2006 richiamato al Titolo II del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni.
+
+La Direttiva 2000/60/CE e la Direttiva 1998/83/CE richiamate al Titolo IV del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, devono intendersi rispettivamente Direttiva 2000/60/CE e successive modifiche ed integrazioni e Direttiva 1998/83/CE e successive modifiche ed integrazioni.
+
+La Direttiva 2008/50/CE richiamata al Titolo V del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Direttiva 2008/60/CE e successive modifiche ed integrazioni.
+
+La Direttiva 2004/35/CE richiamata al Titolo VIII del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Direttiva 2004/35/CE e successive modifiche ed integrazioni.
+
+###### Art. 152
+
+(Finalità)
+
+1\. Il presente Titolo detta norme volte a:
+
+a) stabilire i principi generali in materia di informazione ambientale;
+
+b) garantire il diritto d’accesso ai documenti amministrativi in materia ambientale detenuti dalle autorità pubbliche e stabilire i termini, le condizioni fondamentali e le modalità per il suo esercizio;
+
+c) garantire, ai fini della più ampia trasparenza, che l’informazione ambientale sia sistematicamente e progressivamente messa a disposizione del pubblico e diffusa, anche attraverso i mezzi di telecomunicazione e gli strumenti informatici, in forme o formati facilmente consultabili, promuovendo a tale fine, in particolare, l’uso delle tecnologie dell’informazione e della comunicazione;
+
+d) disciplinare la responsabilità ambientale in materia di prevenzione e riparazione del danno ambientale in conformità alla Direttiva 2004/35/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004 in applicazione al principio “chi inquina paga” e coerentemente con il principio dello sviluppo sostenibile stabiliti nella normativa dell’Unione Europea;
+
+e) disciplinare le competenze ed i procedimenti volti a prevenire, ridurre e riparare il danno ambientale. 69
+
+###### Art. 153
+
+(Definizioni)
+
+1\. Ai fini del presente Titolo le sotto elencate espressioni assumono i seguenti significati:
+
+a) informazione ambientale: qualsiasi informazione disponibile in forma scritta, visiva, sonora, elettronica od in qualunque altra forma materiale concernente:
+
+1) lo stato degli elementi dell’ambiente, quali l’aria, l’atmosfera, l’acqua, il suolo, il territorio, i siti naturali, compresi gli igrotopi, la diversità biologica ed i suoi elementi costitutivi, e, inoltre, le interazioni tra questi elementi;
+
+2) fattori quali le sostanze, l’energia, il rumore, le radiazioni od i rifiuti, le emissioni, gli scarichi ed altri rilasci nell’ambiente, che incidano o possano incidere sugli elementi dell’ambiente, individuati al numero 1);
+
+3) le misure amministrative e legislative, le politiche, i piani, i programmi, gli accordi ambientali ed ogni altro atto di indirizzo, nonché le attività che incidano o possano incidere sugli elementi e sui fattori dell’ambiente di cui ai numeri 1) e 2) e le misure o le attività finalizzate a proteggere i suddetti elementi;
+
+4) le relazioni sull’attuazione della legislazione ambientale;
+
+5) lo stato della salute e della sicurezza umana, compresa la contaminazione della catena alimentare, le condizioni della vita umana, il paesaggio, i siti e gli edifici d’interesse culturale, per quanto influenzabili dallo stato degli elementi dell’ambiente di cui al punto 1) o, attraverso tali elementi, da qualsiasi fattore di cui ai punti 2) e 3);
+
+b) autorità pubblica: gli uffici, organi, servizi, Enti ed Aziende Autonome del Settore Pubblico Allargato nonché ogni persona fisica o giuridica che svolga funzioni pubbliche connesse alle tematiche ambientali o eserciti responsabilità amministrative sotto il controllo di un organo pubblico;
+
+c) soppressa; 69
+
+Decreto Delegato 31 gennaio 2017 n. 16, Art. 70: vedasi nota 68.
+
+d) soggetti interessati: i destinatari di provvedimenti amministrativi che incidano su una situazione giuridica soggettiva di cui sono titolari. Al fine dell’accesso ai documenti amministrativi, sono parificati ai soggetti interessati, i soggetti ammessi a partecipare al procedimento a mente della Legge 5 ottobre 2011 n.160;
+
+e) documenti amministrativi: tutti i documenti o insiemi di documenti che siano prodotti o ricevuti dall’autorità pubblica nello svolgimento delle mansioni e delle funzioni di tutela dell’interesse pubblico nonché di esercizio dei servizi pubblici, quali che siano la loro data, la loro forma e il loro supporto materiale;
+
+f) pubblico: una o più persone, fisiche o giuridiche, le associazioni, le organizzazioni o gruppi di persone fisiche o giuridiche;
+
+g) acque: tutte le acque cui si applicano le disposizioni contenute al Titolo IV del presente Codice;
+
+h) operatore: qualsiasi persona, fisica o giuridica, pubblica o privata, che esercita o controlla un’attività professionale avente rilevanza ambientale oppure chi, comunque, eserciti potere decisionale sugli aspetti tecnici e finanziari di tale attività, compresi il titolare del permesso o dell’autorizzazione a svolgere detta attività;
+
+i) attività professionale: qualsiasi azione mediante la quale si perseguano o meno fini di lucro, svolta nel corso di un’attività economica, industriale, commerciale, artigianale, agricola e di prestazione di servizi, pubblica o privata;
+
+l) emissione: il rilascio nell’ambiente, a seguito dell’attività umana, di sostanze, preparati, organismi o microrganismi;
+
+m) minaccia imminente di danno: si intende il rischio sufficientemente probabile che stia per verificarsi uno specifico danno ambientale;
+
+n) misure di prevenzione: le misure prese per reagire a un evento, un atto o un’omissione che ha creato una minaccia imminente di danno ambientale, al fine di impedire o minimizzare tale danno;
+
+o) misure di riparazione: qualsiasi azione o combinazione di azioni, comprese le misure di attenuazione o provvisorie, dirette a riparare, risanare o, qualora sia ritenuto ammissibile dall’autorità pubblica, sostituire risorse naturali o servizi naturali danneggiati oppure a fornire un’alternativa equivalente a tali risorse o servizi, come previsto nell’Allegato II della Direttiva 2004/35/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004;
+
+p) risorse naturali: specie e habitat naturali, acqua e terreno;
+
+q) servizi e servizi delle risorse naturali: le funzioni svolte da una risorsa naturale a favore di altre risorse naturali e/o del pubblico;
+
+r) condizioni originarie: le condizioni, al momento del danno, delle risorse naturali e dei servizi che sarebbero esistite se non si fosse verificato il danno ambientale, stimate sulla base delle migliori informazioni disponibili;
+
+s) costi: gli oneri economici giustificati dalla necessità di assicurare un’attuazione corretta ed efficace delle disposizioni di cui al presente Titolo, compresi i costi per valutare il danno ambientale o una sua minaccia imminente, per progettare gli interventi alternativi, per sostenere le spese amministrative, legali e di realizzazione delle opere, i costi di raccolta dei dati ed altri costi generali, nonché i costi del controllo e della sorveglianza;
+
+t) stato di conservazione:
+
+1) con riferimento a un habitat naturale, l’insieme dei fattori che intervengono su tale habitat naturale e sulle sue specie tipiche che possono influenzarne la distribuzione naturale, la struttura e le funzioni a lungo termine, nonché la sopravvivenza a lungo termine delle sue specie tipiche. Lo stato di conservazione di un habitat naturale è considerato «favorevole» quando:
+
+1.1) la sua area naturale e le zone in essa racchiuse sono stabili o in aumento;
+
+1.2) le strutture e le funzioni specifiche necessarie per il suo mantenimento a lungo termine esistono e continueranno verosimilmente a esistere in un futuro prevedibile, e
+
+1.3) lo stato di conservazione delle sue specie tipiche è favorevole, ai sensi del seguente punto 2);
+
+2) con riferimento a una specie, l’insieme dei fattori che intervengono sulla specie interessata che possono influenzare la distribuzione e l’abbondanza a lungo termine delle sue popolazioni. Lo stato di conservazione di una specie è considerato «favorevole» quando:
+
+2.1) i dati relativi alla dinamica della popolazione della specie interessata mostrano che essa si sta mantenendo, a lungo termine, come componente vitale dei suoi habitat naturali;
+
+2.2) l’area naturale della specie non si sta riducendo né si ridurrà verosimilmente in un futuro prevedibile, e
+
+2.3) esiste, e verosimilmente continuerà a esistere, un habitat sufficientemente ampio per mantenere la sua popolazione a lungo termine. 70 71 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 153
+
+(Definizioni)
+
+1\. Ai fini del presente Titolo le sotto elencate espressioni assumono i seguenti significati:
+
+a) informazione ambientale: qualsiasi informazione disponibile in forma scritta, visiva, sonora, elettronica od in qualunque altra forma materiale concernente:
+
+1) lo stato degli elementi dell’ambiente, quali l’aria, l’atmosfera, l’acqua, il suolo, il territorio, i siti naturali, compresi gli igrotopi, la diversità biologica ed i suoi elementi costitutivi, e, inoltre, le interazioni tra questi elementi;
+
+2) fattori quali le sostanze, l’energia, il rumore, le radiazioni od i rifiuti, le emissioni, gli scarichi ed altri rilasci nell’ambiente, che incidano o possano incidere sugli elementi dell’ambiente, individuati al numero 1);
+
+3) le misure amministrative e legislative, le politiche, i piani, i programmi, gli accordi ambientali ed ogni altro atto di indirizzo, nonché le attività che incidano o possano incidere sugli elementi e sui fattori dell’ambiente di cui ai numeri 1) e 2) e le misure o le attività finalizzate a proteggere i suddetti elementi;
+
+4) le relazioni sull’attuazione della legislazione ambientale;
+
+5) lo stato della salute e della sicurezza umana, compresa la contaminazione della catena alimentare, le condizioni della vita umana, il paesaggio, i siti e gli edifici d’interesse culturale, per quanto influenzabili dallo stato degli elementi dell’ambiente di cui al punto 1) o, attraverso tali elementi, da qualsiasi fattore di cui ai punti 2) e 3);
+
+b) autorità pubblica: gli uffici, organi, servizi, Enti ed Aziende Autonome del Settore Pubblico Allargato nonché ogni persona fisica o giuridica che svolga funzioni pubbliche connesse alle tematiche ambientali o eserciti responsabilità amministrative sotto il controllo di un organo pubblico;
+
+c) organi della Protezione Civile: il Capo del Servizio Protezione Civile ed il Coordinamento per la Protezione Civile di cui alla Legge 27 gennaio 2006 n.21 e successive modificazioni;
+
+d) soggetti interessati: i destinatari di provvedimenti amministrativi che incidano su una situazione giuridica soggettiva di cui sono titolari. Al fine dell’accesso ai documenti amministrativi, sono parificati ai soggetti interessati, i soggetti ammessi a partecipare al procedimento a mente della Legge 5 ottobre 2011 n.160;
+
+e) documenti amministrativi: tutti i documenti o insiemi di documenti che siano prodotti o ricevuti dall’autorità pubblica nello svolgimento delle mansioni e delle funzioni di tutela dell’interesse pubblico nonché di esercizio dei servizi pubblici, quali che siano la loro data, la loro forma e il loro supporto materiale;
+
+f) pubblico: una o più persone, fisiche o giuridiche, le associazioni, le organizzazioni o gruppi di persone fisiche o giuridiche;
+
+g) acque: tutte le acque cui si applicano le disposizioni contenute al Titolo IV del presente Codice;
+
+h) operatore: qualsiasi persona, fisica o giuridica, pubblica o privata, che esercita o controlla un’attività professionale avente rilevanza ambientale oppure chi, comunque, eserciti potere decisionale sugli aspetti tecnici e finanziari di tale attività, compresi il titolare del permesso o dell’autorizzazione a svolgere detta attività;
+
+i) attività professionale: qualsiasi azione mediante la quale si perseguano o meno fini di lucro, svolta nel corso di un’attività economica, industriale, commerciale, artigianale, agricola e di prestazione di servizi, pubblica o privata;
+
+l) emissione: il rilascio nell’ambiente, a seguito dell’attività umana, di sostanze, preparati, organismi o microrganismi;
+
+m) minaccia imminente di danno: si intende il rischio sufficientemente probabile che stia per verificarsi uno specifico danno ambientale;
+
+n) misure di prevenzione: le misure prese per reagire a un evento, un atto o un’omissione che ha creato una minaccia imminente di danno ambientale, al fine di impedire o minimizzare tale danno;
+
+o) misure di riparazione: qualsiasi azione o combinazione di azioni, comprese le misure di attenuazione o provvisorie, dirette a riparare, risanare o, qualora sia ritenuto ammissibile dall’autorità pubblica, sostituire risorse naturali o servizi naturali danneggiati oppure a fornire un’alternativa equivalente a tali risorse o servizi, come previsto nell’Allegato II della Direttiva 2004/35/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004;
+
+#### CAPO II
+
+DIRITTO ALLE INFORMAZIONI IN MATERIA AMBIENTALE
+
+###### Art. 154
+
+(Accesso ai documenti in materia ambientale)
+
+1.
+
+L’autorità pubblica, a seguito dell’adozione di apposito regolamento da parte della CTA, rende disponibile ai soggetti interessati la documentazione contenente l’informazione ambientale che si trovi in suo possesso, in quanto dalla stessa prodotta o ricevuta o materialmente detenuta da persona fisica o giuridica per suo conto.
+
+2.
+
+L’obbligo di cui al comma 1 è assolto in conformità alle disposizioni in materia di accesso ai documenti amministrativi dettate dalla Legge 5 ottobre 2011 n.160 nonché alle disposizioni contenute nel regolamento di cui al comma 1.
+
+3.
+
+In particolare, l’esercizio del diritto di accesso, le modalità ed i limiti dell’accesso, gli obblighi dell’autorità pubblica in materia di pubblicazione e diffusione dei documenti, i limiti all’utilizzazione dei dati e dei documenti nonché le sanzioni sono disciplinati dalla predetta Legge n.160/2011 nonché dal regolamento della CTA di cui al comma 1.
+
+###### Art. 155
+
+(Cataloghi e punti d’informazione)
+
+1\. Al fine di fornire al pubblico tutte le notizie utili al reperimento dell’informazione ambientale, entro dodici mesi dalla data di entrata in vigore del presente Codice, l’autorità pubblica istituisce e aggiorna almeno annualmente appositi cataloghi pubblici dell’informazione ambientale contenenti l’elenco delle tipologie dell’informazione ambientale detenuta.
+
+p) risorse naturali: specie e habitat naturali, acqua e terreno;
+
+q) servizi e servizi delle risorse naturali: le funzioni svolte da una risorsa naturale a favore di altre risorse naturali e/o del pubblico;
+
+r) condizioni originarie: le condizioni, al momento del danno, delle risorse naturali e dei servizi che sarebbero esistite se non si fosse verificato il danno ambientale, stimate sulla base delle migliori informazioni disponibili;
+
+s) costi: gli oneri economici giustificati dalla necessità di assicurare un’attuazione corretta ed efficace delle disposizioni di cui al presente Titolo, compresi i costi per valutare il danno ambientale o una sua minaccia imminente, per progettare gli interventi alternativi, per sostenere le spese amministrative, legali e di realizzazione delle opere, i costi di raccolta dei dati ed altri costi generali, nonché i costi del controllo e della sorveglianza;
+
+t) stato di conservazione:
+
+1) con riferimento a un habitat naturale, l’insieme dei fattori che intervengono su tale habitat naturale e sulle sue specie tipiche che possono influenzarne la distribuzione naturale, la struttura e le funzioni a lungo termine, nonché la sopravvivenza a lungo termine delle sue specie tipiche. Lo stato di conservazione di un habitat naturale è considerato «favorevole» quando:
+
+1.1) la sua area naturale e le zone in essa racchiuse sono stabili o in aumento;
+
+1.2) le strutture e le funzioni specifiche necessarie per il suo mantenimento a lungo termine esistono e continueranno verosimilmente a esistere in un futuro prevedibile, e
+
+1.3) lo stato di conservazione delle sue specie tipiche è favorevole, ai sensi del seguente punto 2);
+
+2) con riferimento a una specie, l’insieme dei fattori che intervengono sulla specie interessata che possono influenzare la distribuzione e l’abbondanza a lungo termine delle sue popolazioni. Lo stato di conservazione di una specie è considerato «favorevole» quando:
+
+2.1) i dati relativi alla dinamica della popolazione della specie interessata mostrano che essa si sta mantenendo, a lungo termine, come componente vitale dei suoi habitat naturali;
+
+2.2) l’area naturale della specie non si sta riducendo né si ridurrà verosimilmente in un futuro prevedibile, e 2.3) esiste, e verosimilmente continuerà a esistere, un habitat sufficientemente ampio per mantenere la sua popolazione a lungo termine.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 51:
+
+Al comma 1 dell‘articolo 153 del Decreto Delegato 27 aprile 2012 n. 44, la lettera c) è soppressa. 71
+
+Decreto delegato 31 gennaio 2017 n. 16, Art. 70: vedasi nota 68.
+
+###### Art. 156
+
+(Diffusione dell’informazione ambientale)
+
+1.
+
+Entro dodici mesi dalla data di entrata in vigore del presente Codice, l’autorità pubblica costituisce una banca dati ambientali avvalendosi delle tecnologie di telecomunicazione informatica e delle tecnologie elettroniche disponibili. La predetta banca dati elettronica deve essere facilmente accessibile al pubblico tramite reti di telecomunicazione pubbliche ed è periodicamente aggiornata dall’autorità pubblica.
+
+2.
+
+La banca dati elettronica di cui al presente articolo contiene, in particolare:
+
+a) i testi di trattati, di convenzioni e di accordi internazionali;
+
+b) gli atti legislativi, regolamentari e di indirizzo generale aventi per oggetto l’ambiente;
+
+c) le politiche, i piani ed i programmi relativi all’ambiente e le relazioni sullo stato d’attuazione degli stessi;
+
+d) le informazioni ambientali indicate nel regolamento della CTA di cui all’articolo 154, comma 1.
+
+###### Art. 157
+
+(Diffusione delle informazioni in caso di calamità naturale o di evento dannoso)
+
+1\. In caso di evento dannoso per la salute umana e per l’ambiente causato da attività umane o da cause naturali oppure di rischio imminente di tale evento, le autorità pubbliche competenti, e, in particolare, gli organi della Protezione Civile, diffondono tempestivamente le informazioni detenute che permettano, a chiunque possa esserne colpito, di adottare misure atte a prevenire l’evento o ad alleviarne le conseguenze dannose.
+
+###### Art. 158
+
+(Qualità dell’informazione ambientale)
+
+1.
+
+I competenti organi, uffici, servizi, enti ed Aziende Autonome che detengono le informazioni ambientali sono tenuti ad assicurarne, per quanto possibile, l’aggiornamento, la precisione e la confrontabilità.
+
+2.
+
+Per le finalità di cui al comma 1, la CTA fornisce ai predetti organi ed enti, se necessario, specifiche disposizioni tecniche.
+
+#### CAPO III
+
+NORME IN MATERIA DI TUTELA RISARCITORIA CONTRO I DANNI ALL’AMBIENTE
+
+###### Art. 159
+
+(Danno ambientale)
+
+Ai fini del presente Capo, è danno ambientale qualsiasi mutamento negativo, concreto e misurabile, diretto o indiretto, di una risorsa naturale o dell’utilità assicurata da quest’ultima.
+
+2\. In particolare, costituisce danno ambientale il deterioramento, in confronto alle condizioni originarie, provocato:
+
+a) alla flora ed alla fauna selvatiche ed agli habitat naturali. Tale danno è valutato in relazione alla produzione di effetti negativi sul raggiungimento o il mantenimento di uno stato di conservazione favorevole di un habitat naturale o di una specie, tenendo conto dei criteri contenuti nell’Allegato I della Direttiva 2004/35/CE del
+
+Parlamento Europeo e del Consiglio del 21 aprile 2004. Tale danno non comprende gli effetti negativi preventivamente identificati derivanti da un atto di un operatore espressamente autorizzato dall’autorità pubblica;
+
+b) alle acque superficiali e sotterranee, mediante azioni che incidano in modo significativamente negativo sullo stato ecologico, chimico e/o quantitativo oppure sul potenziale ecologico delle acque;
+
+c) al terreno, mediante qualsiasi contaminazione che crei un rischio significativo di effetti nocivi, anche indiretti, sulla salute umana a seguito dell’introduzione nel suolo, sul suolo o nel sottosuolo di sostanze, preparati, organismi o microrganismi nocivi per l’ambiente;
+
+d) mediante l’aerodispersione di sostanze nella misura in cui possa nuocere alla salute umana o causare danni agli elementi di cui alle precedenti lettere a), b) e
+
+c).72
+
+###### Art. 160
+
+(Attuazione del principio di precauzione)
+
+1.
+
+In applicazione del principio di precauzione, in caso di pericoli, anche solo potenziali, per la salute umana e per l’ambiente, deve essere assicurato un alto livello di protezione.
+
+2.
+
+L’applicazione del principio di cui al comma 1 concerne il rischio che comunque possa essere individuato a seguito di una preliminare valutazione scientifica obiettiva.
+
+3\. L‘operatore interessato, quando emerga il rischio suddetto, deve informarne senza indugio, indicando tutti gli aspetti pertinenti alla situazione, l‘UPA, che informa il Capo del Servizio Protezione Civile (SPC) ai fini dell‘attivazione del Coordinamento per la Protezione Civile.
+
+4\. Il Coordinamento per la Protezione Civile, in applicazione del principio di precauzione, ha facoltà di adottare, in qualsiasi momento, misure di prevenzione ai sensi dell‘articolo 162 che risultino:
+
+a) proporzionali rispetto al livello di protezione che si intende raggiungere;
+
+b) non discriminatorie nella loro applicazione e coerenti con misure analoghe già adottate;
+
+c) basate sull‘esame dei potenziali vantaggi ed oneri;
+
+d) aggiornabili alla luce di nuovi dati scientifici. 73 72
+
+Decreto delegato 31 gennaio 2017 n. 16, Art. 70: vedasi nota 68.
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 160
+
+(Attuazione del principio di precauzione)
+
+1.
+
+In applicazione del principio di precauzione, in caso di pericoli, anche solo potenziali, per la salute umana e per l’ambiente, deve essere assicurato un alto livello di protezione.
+
+2.
+
+L’applicazione del principio di cui al comma 1 concerne il rischio che comunque possa essere individuato a seguito di una preliminare valutazione scientifica obiettiva.
+
+3.
+
+L’operatore interessato, quando emerga il rischio suddetto, deve informarne senza indugio, indicando tutti gli aspetti pertinenti alla situazione, il Capo del Servizio Protezione Civile (SPC) che attiva, nei casi di particolare gravità, il Coordinamento per la Protezione Civile.
+
+4.
+
+Gli organi della Protezione Civile, sentito l’UPA e/o il DP e/o l’UGRAA, hanno facoltà di adottare, in qualsiasi momento, misure di prevenzione che risultino:
+
+a) proporzionali rispetto al livello di protezione che s’intende raggiungere;
+
+b) non discriminatorie nella loro applicazione e coerenti con misure analoghe già adottate;
+
+c) basate sull’esame dei potenziali vantaggi ed oneri;
+
+d) aggiornabili alla luce di nuovi dati scientifici.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 52:
+
+I commi 3 e 4 dell‘articolo 160 del Decreto Delegato 27 aprile 2012 n. 44 sono sostituiti dai seguenti: ―3. L‘operatore interessato, quando emerga il rischio suddetto, deve informarne senza indugio, indicando tutti gli aspetti pertinenti alla situazione, l‘UPA, che informa il Capo del Servizio Protezione Civile (SPC) ai fini dell‘attivazione del Coordinamento per la Protezione Civile.
+
+###### Art. 161
+
+(Eccezioni)
+
+1\. Le disposizioni del presente Capo:
+
+a) non riguardano il danno ambientale o la minaccia imminente di tale danno cagionati da:
+
+1) atti di conflitto armato, sabotaggi, atti di ostilità, guerra civile, insurrezione;
+
+2) fenomeni naturali di carattere eccezionale, inevitabili e incontrollabili;
+
+b) non si applicano al danno ambientale o alla minaccia imminente di tale danno causati da inquinamento di carattere diffuso, se non sia stato possibile accertare in alcun modo un nesso causale tra il danno e l’attività di singoli operatori;
+
+c) non si applicano alle attività svolte in condizioni di necessità ed aventi come scopo esclusivo la difesa nazionale, la sicurezza internazionale o la protezione dalle calamità naturali;
+
+d) non si applicano al danno causato da un’emissione, un evento o un incidente verificatisi prima della data di entrata in vigore del presente Codice;
+
+e) non si applicano al danno la cui responsabilità non risulti essere attribuibile, secondo un nesso causale, alla condotta di uno o più inquinatori individuabili.
+
+###### Art. 162
+
+(Azione di prevenzione)
+
+1\. Quando un danno ambientale non si è ancora verificato, ma esiste una minaccia imminente che si verifichi, l‘operatore interessato adotta, entro ventiquattro ore e a proprie spese, le necessarie misure di prevenzione e di messa in sicurezza.
+
+2\. L‘operatore deve far precedere gli interventi di cui al comma 1 da apposita comunicazione all‘UPA e al Capo del SPC che attiva il Coordinamento per la Protezione Civile. La comunicazione indica tutti gli aspetti pertinenti alla situazione ed in particolare le generalità dell‘operatore, le caratteristiche del sito interessato, le matrici ambientali presumibilmente coinvolte e la descrizione degli interventi da eseguire.
+
+3\. Non appena la comunicazione è pervenuta all‘UPA e al Capo del SPC, l‘operatore è immediatamente abilitato alla realizzazione degli interventi di cui al comma 1. Se l‘operatore non provvede agli interventi di cui al comma 1 e ad inviare la comunicazione di cui al comma 2, l‘UPA irroga una sanzione amministrativa da € 250,00 ad € 1.000,00 per ogni giorno di ritardo.
+
+4\. Il Coordinamento per la Protezione Civile ha, in qualsiasi momento, la facoltà di:
+
+a) chiedere all‘operatore di fornire informazioni su qualsiasi minaccia imminente di danno ambientale o su casi sospetti di tale minaccia imminente;
+
+b) ordinare all‘operatore di adottare le specifiche misure di prevenzione considerate necessarie, precisando le metodologie da seguire; oppure
+
+c) adottare esso stesso le misure di prevenzione necessarie.
+
+5\. Se l‘operatore non si conforma agli obblighi previsti al comma 1 o al comma 4, lettera b) o se esso non può essere individuato o se non è tenuto a sostenere i costi della riparazione ambientale ai sensi dell‘articolo 165, comma 5, il Coordinamento per la Protezione Civile è legittimato ad adottare direttamente tali misure.
+
+4\. Il Coordinamento per la Protezione Civile, in applicazione del principio di precauzione, ha facoltà di adottare, in qualsiasi momento, misure di prevenzione ai sensi dell‘articolo 162 che risultino:
+
+a) proporzionali rispetto al livello di protezione che si intende raggiungere;
+
+b) non discriminatorie nella loro applicazione e coerenti con misure analoghe già adottate;
+
+c) basate sull‘esame dei potenziali vantaggi ed oneri;
+
+d) aggiornabili alla luce di nuovi dati scientifici.
+
+6\. Le prescrizioni volte ad adottare le misure di prevenzione sono dettate con ordinanza adeguatamente motivata ed immediatamente esecutiva. Ai fini dell‘adozione della predetta ordinanza il Coordinamento per la Protezione Civile invita i soggetti interessati a presentare le loro osservazioni nel termine di dieci giorni.
+
+L‘invito può essere incluso nell‘ordinanza che in tal caso dovrà essere specificamente motivata sul punto e potrà subire le opportune riforme o essere revocata tenendo conto dello stato dei lavori in corso.74
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 162
+
+(Azione di prevenzione)
+
+1.
+
+Quando un danno ambientale non si è ancora verificato, ma esiste una minaccia imminente che si verifichi, l’operatore interessato adotta, entro ventiquattro ore e a proprie spese, le necessarie misure di prevenzione e di messa in sicurezza.
+
+2.
+
+L’operatore deve far precedere gli interventi di cui al comma 1 da apposita comunicazione al Capo del SPC che, a seconda dell’entità della minaccia, ha facoltà di attivare il Coordinamento per la Protezione Civile. La comunicazione indica tutti gli aspetti pertinenti alla situazione ed in particolare le generalità dell’operatore, le caratteristiche del sito interessato, le matrici ambientali presumibilmente coinvolte e la descrizione degli interventi da eseguire.
+
+3.
+
+Non appena la comunicazione è pervenuta al Capo del SPC, l’operatore è immediatamente abilitato alla realizzazione degli interventi di cui al comma 1. Se l’operatore non provvede agli interventi di cui al comma 1 e ad inviare la comunicazione di cui al comma 2, il Capo del SPC irroga una sanzione amministrativa da € 250,00 ad € 1.000,00 per ogni giorno di ritardo.
+
+4\. Gli organi della Protezione Civile, sentito l’UPA e/o il DP, e/o l’UGRAA, hanno, in qualsiasi momento, la facoltà di:
+
+a) chiedere all’operatore di fornire informazioni su qualsiasi minaccia imminente di danno ambientale o su casi sospetti di tale minaccia imminente;
+
+b) ordinare all’operatore di adottare le specifiche misure di prevenzione considerate necessarie, precisando le metodologie da seguire; oppure
+
+c) adottare essi stessi le misure di prevenzione necessarie.
+
+5\. Se l’operatore non si conforma agli obblighi previsti al comma 1 o al comma 4, lettera b) o se esso non può essere individuato o se non è tenuto a sostenere i costi della riparazione ambientale ai sensi dell’articolo 165, comma 5, gli organi della Protezione Civile sono legittimati ad adottare direttamente tali misure.
+
+6\. Le prescrizioni volte ad adottare le misure di prevenzione sono dettate con ordinanza adeguatamente motivata ed immediatamente esecutiva. Ai fini dell’adozione della predetta ordinanza gli organi della protezione Civile invitano i soggetti interessati a presentare le loro osservazioni nel termine di dieci giorni. Qualora sussistano condizioni di estrema urgenza l’invito può essere incluso nell’ordinanza che in tal caso dovrà essere specificamente motivata sul punto e potrà subire le opportune riforme o essere revocata tenendo conto dello stato dei lavori in corso.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 53:
+
+L‘articolo 162 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 162 (Azione di prevenzione)
+
+1\. Quando un danno ambientale non si è ancora verificato, ma esiste una minaccia imminente che si verifichi, l‘operatore interessato adotta, entro ventiquattro ore e a proprie spese, le necessarie misure di prevenzione e di messa in sicurezza.
+
+2\. L‘operatore deve far precedere gli interventi di cui al comma 1 da apposita comunicazione all‘UPA e al Capo del SPC che attiva il Coordinamento per la Protezione Civile. La comunicazione indica tutti gli aspetti pertinenti alla situazione ed in particolare le generalità dell‘operatore, le caratteristiche del sito interessato, le matrici ambientali presumibilmente coinvolte e la descrizione degli interventi da eseguire.
+
+3\. Non appena la comunicazione è pervenuta all‘UPA e al Capo del SPC, l‘operatore è immediatamente abilitato alla realizzazione degli interventi di cui al comma 1. Se l‘operatore non provvede agli interventi di cui al comma 1 e ad inviare la comunicazione di cui al comma 2, l‘UPA irroga una sanzione amministrativa da € 250,00 ad € 1.000,00 per ogni giorno di ritardo.
+
+4\. Il Coordinamento per la Protezione Civile ha, in qualsiasi momento, la facoltà di:
+
+a) chiedere all‘operatore di fornire informazioni su qualsiasi minaccia imminente di danno ambientale o su casi sospetti di tale minaccia imminente;
+
+b) ordinare all‘operatore di adottare le specifiche misure di prevenzione considerate necessarie, precisando le metodologie da seguire; oppure
+
+c) adottare esso stesso le misure di prevenzione necessarie.
+
+5\. Se l‘operatore non si conforma agli obblighi previsti al comma 1 o al comma 4, lettera b) o se esso non può essere individuato o se non è tenuto a sostenere i costi della riparazione ambientale ai sensi dell‘articolo 165, comma 5, il Coordinamento per la Protezione Civile è legittimato ad adottare direttamente tali misure.
+
+6\. Le prescrizioni volte ad adottare le misure di prevenzione sono dettate con ordinanza adeguatamente motivata ed immediatamente esecutiva. Ai fini dell‘adozione della predetta ordinanza il Coordinamento per la Protezione Civile invita i soggetti interessati a presentare le loro osservazioni nel termine di dieci giorni. L‘invito può essere incluso nell‘ordinanza che in tal caso dovrà essere specificamente motivata sul punto e potrà subire le opportune riforme o essere revocata tenendo conto dello stato dei lavori in corso.
+
+###### Art. 163
+
+(Azioni di riparazione)
+
+1\. Quando si è verificato un danno ambientale l‘operatore deve comunicare senza indugio tutti gli aspetti pertinenti alla situazione all‘UPA e al Capo del SPC, che attiva il Coordinamento per la Protezione Civile. La comunicazione indica tutti gli aspetti pertinenti alla situazione ed in particolare le generalità dell‘operatore, le caratteristiche del sito interessato, le matrici ambientali presumibilmente coinvolte e la descrizione degli interventi da eseguire. L‘operatore ha, inoltre, l‘obbligo di adottare immediatamente:
+
+a) tutte le iniziative praticabili per controllare, circoscrivere, eliminare o gestire in altro modo, con effetto immediato, qualsiasi fattore di danno, allo scopo di prevenire o limitare ulteriori pregiudizi ambientali ed effetti nocivi per la salute umana o ulteriori deterioramenti ai servizi, anche sulla base delle specifiche istruzioni formulate dal Coordinamento per la Protezione Civile relativamente alle misure di prevenzione necessarie da adottare;
+
+b) le necessarie misure di riparazione di cui all‘articolo 164.
+
+2\. Il Coordinamento per la Protezione Civile ha, in qualsiasi momento, la facoltà di:
+
+a) chiedere all‘operatore di fornire informazioni su qualsiasi danno verificatosi e sulle misure da lui adottate immediatamente ai sensi del comma 1;
+
+b) adottare o ordinare all‘operatore di adottare tutte le iniziative opportune per controllare, circoscrivere, eliminare o gestire in altro modo, con effetto immediato, qualsiasi fattore di danno, allo scopo di prevenire o limitare ulteriori pregiudizi ambientali e effetti nocivi per la salute umana o ulteriori deterioramenti ai servizi;
+
+c) ordinare all‘operatore di prendere le misure di riparazione necessarie; oppure
+
+d) adottare esso stesso le suddette misure.
+
+3\. Se l‘operatore non adempie, in tutto o in parte, agli obblighi previsti al comma 1 o al comma 2, lettere b) e c), o se esso non può essere individuato o se non è tenuto a sostenere i costi della riparazione ambientale ai sensi dell‘articolo 165, comma 5, il Coordinamento per la Protezione Civile è legittimato ad adottare direttamente tali misure.
+
+4\. E‘, comunque, fatta salva l‘applicazione delle sanzioni amministrative e penali previste dalla normativa in materia. Ai fini della commisurazione della sanzione il competente organo amministrativo o il giudice, nell‘esercizio del proprio potere discrezionale, tiene conto del comportamento dell‘operatore che si sia prontamente attivato ai sensi del comma 1 e che abbia, eventualmente, compiutamente ottemperato agli obblighi previsti al comma 2, lettere b) e c).
+
+5\. Le prescrizioni volte ad adottare le misure di riparazione sono dettate con ordinanza adeguatamente motivata ed immediatamente esecutiva. Ai fini dell‘adozione della predetta ordinanza il Coordinamento per la Protezione Civile invita i soggetti interessati a presentare le loro osservazioni nel termine di dieci giorni. L‘invito può essere incluso nell‘ordinanza che in tal caso dovrà essere specificamente motivata sul punto e potrà subire le opportune riforme o essere revocata tenendo conto dello stato dei lavori in corso. 75 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 163
+
+(Azioni di riparazione)
+
+1\. Quando si è verificato un danno ambientale, l’operatore deve comunicare senza indugio tutti gli aspetti pertinenti alla situazione al Capo del SPC che, a seconda dell’entità del danno, ha facoltà di attivare il Coordinamento per la Protezione Civile. La comunicazione indica tutti gli aspetti pertinenti alla situazione ed in particolare le generalità dell’operatore, le caratteristiche del sito interessato, le matrici ambientali presumibilmente coinvolte e la descrizione degli interventi da eseguire. L’operatore ha, inoltre, l’obbligo di adottare immediatamente: a) tutte le iniziative praticabili per controllare, circoscrivere, eliminare o gestire in altro modo, con effetto immediato, qualsiasi fattore di danno, allo scopo di prevenire o limitare ulteriori pregiudizi ambientali ed effetti nocivi per la salute umana o ulteriori deterioramenti ai servizi, anche sulla base delle specifiche istruzioni formulate dagli organi della Protezione Civile
+
+###### Art. 164
+
+(Determinazione delle misure per la riparazione ambientale)
+
+1.
+
+Gli operatori individuano le possibili misure per la riparazione primaria o per la riparazione complementare e compensativa che risultino conformi all‘Allegato II della Direttiva 2004/35/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004 e successive modifiche ed integrazioni, senza indugio e comunque non oltre trenta giorni dall‘evento dannoso, a meno che il Coordinamento per la Protezione Civile non relativamente alle misure di prevenzione necessarie da adottare;
+
+b) le necessarie misure di riparazione di cui all’articolo 164.
+
+2\. Gli organi della Protezione Civile, sentito l’UPA e/o il DP e/o l’UGRAA, hanno, in qualsiasi momento, la facoltà di:
+
+a) chiedere all’operatore di fornire informazioni su qualsiasi danno verificatosi e sulle misure da lui adottate immediatamente ai sensi del comma 1;
+
+b) adottare o ordinare all’operatore di adottare, tutte le iniziative opportune per controllare, circoscrivere, eliminare o gestire in altro modo, con effetto immediato, qualsiasi fattore di danno, allo scopo di prevenire o limitare ulteriori pregiudizi ambientali e effetti nocivi per la salute umana o ulteriori deterioramenti ai servizi;
+
+c) ordinare all’operatore di prendere le misure di riparazione necessarie; oppure
+
+d) adottare essi stessi le suddette misure.
+
+3\. Se l’operatore non adempie, in tutto o in parte, agli obblighi previsti al comma 1 o al comma 2, lettere b) e c), o se esso non può essere individuato o se non è tenuto a sostenere i costi della riparazione ambientale ai sensi dell’articolo 165, comma 5, gli organi della Protezione Civile sono legittimati ad adottare direttamente tali misure.
+
+4\. E’, comunque, fatta salva l’applicazione delle sanzioni amministrative e penali previste dalla normativa in materia.
+
+Ai fini della commisurazione della sanzione il competente organo amministrativo o il giudice, nell’esercizio del proprio potere discrezionale, tiene conto del comportamento dell’operatore che si sia prontamente attivato ai sensi del comma 1 e che abbia, eventualmente, compiutamente ottemperato agli obblighi previsti al comma 2, lettere b) e c).
+
+5\. Le prescrizioni volte ad adottare le misure di riparazione sono dettate con ordinanza adeguatamente motivata ed immediatamente esecutiva. Ai fini dell’adozione della predetta ordinanza gli organi della Protezione Civile invitano i soggetti interessati a presentare le loro osservazioni nel termine di dieci giorni. Qualora sussistano condizioni di estrema urgenza l’invito può essere incluso nell’ordinanza che in tal caso dovrà essere specificamente motivata sul punto e potrà subire le opportune riforme o essere revocata tenendo conto dello stato dei lavori in corso.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 54:
+
+L‘articolo 163 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 163 (Azioni di riparazione)
+
+1\. Quando si è verificato un danno ambientale l‘operatore deve comunicare senza indugio tutti gli aspetti pertinenti alla situazione all‘UPA e al Capo del SPC, che attiva il Coordinamento per la Protezione Civile. La comunicazione indica tutti gli aspetti pertinenti alla situazione ed in particolare le generalità dell‘operatore, le caratteristiche del sito interessato, le matrici ambientali presumibilmente coinvolte e la descrizione degli interventi da eseguire. L‘operatore ha, inoltre, l‘obbligo di adottare immediatamente:
+
+a) tutte le iniziative praticabili per controllare, circoscrivere, eliminare o gestire in altro modo, con effetto immediato, qualsiasi fattore di danno, allo scopo di prevenire o limitare ulteriori pregiudizi ambientali ed effetti nocivi per la salute umana o ulteriori deterioramenti ai servizi, anche sulla base delle specifiche istruzioni formulate dal Coordinamento per la Protezione Civile relativamente alle misure di prevenzione necessarie da adottare;
+
+b) le necessarie misure di riparazione di cui all‘articolo 164.
+
+2\. Il Coordinamento per la Protezione Civile ha, in qualsiasi momento, la facoltà di:
+
+a) chiedere all‘operatore di fornire informazioni su qualsiasi danno verificatosi e sulle misure da lui adottate immediatamente ai sensi del comma 1;
+
+b) adottare o ordinare all‘operatore di adottare tutte le iniziative opportune per controllare, circoscrivere, eliminare o gestire in altro modo, con effetto immediato, qualsiasi fattore di danno, allo scopo di prevenire o limitare ulteriori pregiudizi ambientali e effetti nocivi per la salute umana o ulteriori deterioramenti ai servizi;
+
+c) ordinare all‘operatore di prendere le misure di riparazione necessarie; oppure
+
+d) adottare esso stesso le suddette misure.
+
+3\. Se l‘operatore non adempie, in tutto o in parte, agli obblighi previsti al comma 1 o al comma 2, lettere b) e c), o se esso non può essere individuato o se non è tenuto a sostenere i costi della riparazione ambientale ai sensi dell‘articolo 165, comma 5, il Coordinamento per la Protezione Civile è legittimato ad adottare direttamente tali misure.
+
+4\. E‘, comunque, fatta salva l‘applicazione delle sanzioni amministrative e penali previste dalla normativa in materia.
+
+Ai fini della commisurazione della sanzione il competente organo amministrativo o il giudice, nell‘esercizio del proprio potere discrezionale, tiene conto del comportamento dell‘operatore che si sia prontamente attivato ai sensi del comma 1 e che abbia, eventualmente, compiutamente ottemperato agli obblighi previsti al comma 2, lettere b) e c).
+
+5\. Le prescrizioni volte ad adottare le misure di riparazione sono dettate con ordinanza adeguatamente motivata ed immediatamente esecutiva. Ai fini dell‘adozione della predetta ordinanza il Coordinamento per la Protezione Civile invita i soggetti interessati a presentare le loro osservazioni nel termine di dieci giorni. L‘invito può essere incluso nell‘ordinanza che in tal caso dovrà essere specificamente motivata sul punto e potrà subire le opportune riforme o essere revocata tenendo conto dello stato dei lavori in corso.
+
+abbia già adottato misure urgenti a norma dell‘articolo 163, comma 2, lettere b) e d) e comma 3.
+
+2.
+
+Il Coordinamento per la Protezione Civile decide quali misure attuare, in modo da garantire, ove possibile, il conseguimento del completo ripristino ambientale e valuta l‘opportunità di sottoporre al Congresso di Stato, per la relativa approvazione, una proposta di cooperazione con l‘operatore interessato.
+
+3.
+
+Se si è verificata una pluralità di casi di danno ambientale e gli organi della Protezione Civile non sono in grado di assicurare l’adozione simultanea delle misure di riparazione necessarie, essi possono decidere quale danno ambientale debba essere riparato a titolo prioritario, tenendo conto, fra l’altro, della natura, entità e gravità dei diversi casi di danno ambientale in questione, nonché della possibilità di un ripristino naturale.
+
+4.
+
+Nelle attività di riparazione ambientale sono prioritariamente presi in considerazione i rischi per la salute umana. 76 77
+
+###### Art. 165
+
+(Costi dell’attività di prevenzione e riparazione)
+
+1.
+
+L’operatore sostiene i costi delle iniziative di prevenzione e riparazione ambientale adottate dallo stesso o dagli organi della Protezione Civile in conformità agli articoli 162,163 e 164.
+
+2\. Fatti salvi i commi 4 e 5, gli organi della Protezione Civile recuperano, anche attraverso garanzie reali o fideiussioni bancarie a prima richiesta e con esclusione del beneficio della preventiva escussione, dall’operatore o, se del caso, dal terzo che, singolarmente o in concorso, abbiano causato il danno o l’imminente minaccia, le spese sostenute dallo Stato in relazione alle azioni adottate ai sensi dell’articolo 162, comma 4, lettera c) e comma 5 e dell’articolo 163, comma 2, lettere b) e d) e comma
+
+3.
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 164
+
+(Determinazione delle misure per la riparazione ambientale)
+
+1.
+
+Gli operatori individuano le possibili misure per la riparazione primaria o per la riparazione complementare e compensativa che risultino conformi all’Allegato II della Direttiva 2004/35/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004 ed alle eventuali Linee Guida elaborate dal Capo del SPC di concerto con l’UPA, il DP e l’UGRAA ed approvate mediante Regolamento del Congresso di Stato e le presentano al Capo del SPC, senza indugio e comunque non oltre trenta giorni dall’evento dannoso, a meno che gli organi della Protezione Civile non abbiano già adottato misure urgenti a norma dell’articolo 163, comma 2, lettere b) e d) e comma 3.
+
+2.
+
+Il Capo del SPC o, nei casi di particolare entità del danno, il Coordinamento per la Protezione Civile, sentito l’UPA e/o il DP e/o l’UGRAA, decide quali misure attuare, in modo da garantire, ove possibile, il conseguimento del completo ripristino ambientale, e valuta l’opportunità di sottoporre al Congresso di Stato, per la relativa approvazione, una proposta di cooperazione con l’operatore interessato.
+
+3.
+
+Se si è verificata una pluralità di casi di danno ambientale e gli organi della Protezione Civile non sono in grado di assicurare l’adozione simultanea delle misure di riparazione necessarie, essi possono decidere quale danno ambientale debba essere riparato a titolo prioritario, tenendo conto, fra l’altro, della natura, entità e gravità dei diversi casi di danno ambientale in questione, nonché della possibilità di un ripristino naturale.
+
+4\. Nelle attività di riparazione ambientale sono prioritariamente presi in considerazione i rischi per la salute umana.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 55:
+
+I commi 1 e 2 dell‘articolo 164 del Decreto Delegato 27 aprile 2012 n. 44 sono sostituiti dai seguenti: ―1. Gli operatori individuano le possibili misure per la riparazione primaria o per la riparazione complementare e compensativa che risultino conformi all‘Allegato II della Direttiva 2004/35/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004 e successive modifiche ed integrazioni, senza indugio e comunque non oltre trenta giorni dall‘evento dannoso, a meno che il Coordinamento per la Protezione Civile non abbia già adottato misure urgenti a norma dell‘articolo 163, comma 2, lettere b) e d) e comma 3.
+
+2\. Il Coordinamento per la Protezione Civile decide quali misure attuare, in modo da garantire, ove possibile, il conseguimento del completo ripristino ambientale e valuta l‘opportunità di sottoporre al Congresso di Stato, per la relativa approvazione, una proposta di cooperazione con l‘operatore interessato. 76
+
+77
+
+Decreto delegato 31 gennaio 2017 n. 16, Art. 70: vedasi nota 68.
+
+3.
+
+Il procedimento per il recupero dei costi relativi alle misure di prevenzione e riparazione adottate dagli organi della Protezione Civile deve essere avviato immediatamente dopo il completamento delle predette misure o l’individuazione del responsabile. In ogni caso, il procedimento deve essere avviato non oltre cinque anni dalla data di ultimazione delle misure di prevenzione e riparazione o, se posteriore, dalla data di identificazione dell’operatore o del terzo responsabile.
+
+4.
+
+Gli organi della Protezione Civile hanno, tuttavia, facoltà, di decidere di non recuperare la totalità dei costi qualora la spesa necessaria per farlo sia maggiore dell’importo recuperabile o qualora l’operatore non possa essere individuato.
+
+5.
+
+Non sono a carico dell’operatore i costi delle azioni di prevenzione e riparazione se egli può provare che il danno ambientale o la minaccia imminente di tale danno:
+
+a) è stato causato da un terzo e si è verificato nonostante l’esistenza di opportune ed astrattamente idonee misure di sicurezza;
+
+b) è conseguenza dell’osservanza di un ordine o istruzione obbligatori impartiti da una autorità pubblica, diversi da quelli impartiti a seguito di un’emissione o di un incidente imputabili all’operatore;
+
+c) non è attribuibile ad un comportamento doloso o colposo dell’operatore medesimo ed il danno ambientale o la minaccia imminente di tale danno è stato causato da:
+
+1) un’emissione o un evento espressamente consentiti da un’autorizzazione conferita all’operatore ai sensi delle disposizioni legislative e regolamentari applicabili alla data dell’emissione o dell’evento ed in piena conformità alle condizioni stabilite nell’autorizzazione medesima;
+
+2) un’emissione o un’attività o qualsiasi altro modo di utilizzazione di un prodotto nel corso di un’attività che l’operatore dimostri non essere stati considerati probabile causa di danno ambientale secondo lo stato delle conoscenze scientifiche e tecniche al momento del rilascio dell’emissione o dell’esecuzione dell’attività.
+
+6.
+
+Nei casi di cui al comma 5, gli organi della Protezione Civile adottano le misure necessarie per consentire all’operatore il recupero dei costi eventualmente sostenuti.
+
+7.
+
+Le misure adottate dagli organi della Protezione Civile in attuazione delle disposizioni di cui all’articolo 162, comma 4, lettera c) e comma 5 e di cui all’articolo 163, comma 2, lettere b) e d) e comma 3, lasciano impregiudicata la responsabilità e, fatto salvo quanto previsto ai superiori commi 4 e 5, l’obbligo risarcitorio del trasgressore interessato.
+
+###### Art. 165-bis
+
+(Obbligo alla riparazione ambientale)
+
+1\. Chiunque realizzando un fatto illecito oppure omettendo attività o comportamenti doverosi, con violazione di legge, di regolamento, di provvedimento amministrativo, con negligenza, imperizia, imprudenza o violazione di norme tecniche, arrechi danno all‘ambiente, alterandolo, deteriorandolo o distruggendolo in tutto o in parte, è obbligato alle azioni di riparazione di cui all‘articolo 163, nonché ad adottare le misure di cui all‘articolo 164 e sostenere i relativi costi di cui all‘articolo 165.78
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 56:
+
+Dopo l‘articolo 165 del Decreto Delegato 27 aprile 2012 n. 44 è aggiunto il seguente articolo: ―Art. 165-bis (Obbligo alla riparazione ambientale)
+
+1\. Chiunque realizzando un fatto illecito oppure omettendo attività o comportamenti doverosi, con violazione di legge, di regolamento, di provvedimento amministrativo, con negligenza, imperizia, imprudenza o violazione di norme tecniche, arrechi danno all‘ambiente, alterandolo, deteriorandolo o distruggendolo in tutto o in parte, è obbligato alle azioni di riparazione di cui all‘articolo 163, nonché ad adottare le misure di cui all‘articolo 164 e sostenere i relativi costi di cui all‘articolo 165.
+
+###### Art. 166
+
+(Ordinanze degli organi della Protezione Civile)
+
+1.
+
+Qualora, in esito ad indagini ed accertamenti effettuati dall‘autorità pubblica, sia constatato un danno ambientale ed il responsabile non abbia attivato le procedure di riparazione, il Coordinamento per la Protezione Civile con ordinanza immediatamente esecutiva, ingiunge a coloro che, in base al suddetto accertamento, siano risultati responsabili del fatto l‘adozione di misure di riparazione primaria oppure di riparazione complementare e compensativa, entro un termine fissato. Tali misure di riparazione primaria, complementare e compensativa sono prescritte in conformità all‘Allegato II della Direttiva 2004/35/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004 e successive modifiche ed integrazioni.
+
+2.
+
+L’ordinanza è emessa nei confronti del responsabile del fatto dannoso nonché, in solido, del soggetto nel cui effettivo interesse il comportamento fonte del danno è stato tenuto o che ne abbia obiettivamente tratto vantaggio sottraendosi, secondo l’accertamento istruttorio intervenuto, all’onere economico necessario per apprestare, in via preventiva, le opere, le attrezzature, le cautele e tenere i comportamenti previsti come obbligatori dalle norme applicabili. L’ordinanza indica il fatto, commissivo o omissivo, contestato, nonché gli elementi di fatto ritenuti rilevanti per l’individuazione e la quantificazione del danno e le fonti di prova per l’identificazione dei trasgressori.
+
+3.
+
+Qualora il responsabile del fatto che ha provocato danno ambientale non provveda, in tutto o in parte, all‘adozione di misure di riparazione primaria o complementare e compensativa nel termine e con le modalità prescritte oppure tali misure risultino, in tutto o in parte, impossibili o eccessivamente onerose, il Coordinamento per la Protezione Civile, con successiva ordinanza, ingiunge il pagamento, entro il termine di sessanta giorni dalla notifica, di una somma pari al valore economico del danno accertato o residuato, a titolo di risarcimento per equivalente pecuniario. Tale quantificazione del danno è effettuata dal Coordinamento per la Protezione Civile valutando il pregiudizio arrecato alla situazione ambientale con particolare riferimento al costo necessario per la sua riparazione, in applicazione dei criteri enunciati negli Allegati I e II della Direttiva 2004/35/CE e successive modifiche ed integrazioni.
+
+4.
+
+Ove non sia motivatamente possibile l’esatta quantificazione del danno non risarcibile in forma specifica, o di parte di esso, il danno per equivalente patrimoniale è stabilito dagli organi della Protezione Civile in conformità ai parametri dettati nel Regolamento del Congresso di Stato di cui al comma 5.
+
+5.
+
+I criteri di determinazione del risarcimento per equivalente e dell’eccessiva onerosità nei casi di cui al superiore comma 3, avendo riguardo anche al valore monetario stimato delle risorse naturali e dei servizi perduti e ai parametri utilizzati in casi simili o materie analoghe per la liquidazione del risarcimento per equivalente del danno ambientale, sono definiti con Regolamento del Congresso di Stato mediante il quale sono, altresì, stabiliti i parametri per la determinazione delle somme che i trasgressori devono corrispondere in caso di impossibilità di quantificazione del danno ai sensi del precedente comma 4.
+
+6.
+
+Nei casi di concorso nello stesso evento di danno, ciascun trasgressore risponde nei limiti della propria responsabilità personale. Il relativo debito si trasmette, secondo le leggi vigenti, agli eredi nei limiti del loro effettivo arricchimento.
+
+7.
+
+L’ordinanza è adottata nel termine perentorio di centottanta giorni decorrenti dalla comunicazione ai soggetti di cui al comma 2 dell’avvio dell’istruttoria, e comunque entro il termine di decadenza di due anni dalla notizia del fatto, salvo quando sia in corso la riparazione ambientale a cura e spese del trasgressore. In tal caso i medesimi termini decorrono dalla sospensione ingiustificata dei lavori di
+
+riparazione oppure dalla loro conclusione in caso di incompleta riparazione del danno.
+
+Alle attestazioni concernenti la sospensione dei lavori e la loro incompletezza provvede il Coordinamento per la Protezione Civile con apposito atto di accertamento.
+
+8.
+
+Resta in ogni caso fermo il diritto dei soggetti danneggiati dal fatto produttivo di danno ambientale, nella loro salute o nei beni di loro proprietà, di agire in giudizio nei confronti del responsabile a tutela dei diritti e degli interessi lesi.79 80 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 166
+
+(Ordinanze degli organi della Protezione Civile)
+
+1.
+
+Qualora in esito ad indagini ed accertamenti effettuati dall’autorità pubblica, sia constatato che uno o più soggetti in concorso, realizzando un fatto illecito oppure omettendo attività o comportamenti doverosi, con violazione di legge, di regolamento, di provvedimento amministrativo, con negligenza, imperizia, imprudenza o violazione di norme tecniche, abbia arrecato danno all’ambiente, alterandolo, deteriorandolo o distruggendolo in tutto o in parte, ed il responsabile non abbia attivato le procedure di riparazione, gli organi della Protezione Civile con ordinanza immediatamente esecutiva, ingiungono a coloro che, in base al suddetto accertamento, siano risultati responsabili del fatto, l’adozione di misure di riparazione primaria oppure di riparazione complementare e compensativa, entro un termine fissato. Tali misure di riparazione primaria, complementare e compensativa sono prescritte in conformità all’Allegato II della Direttiva 2004/35/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004 ed alle eventuali Linee Guida di cui all’articolo 164, comma 1.
+
+2.
+
+L’ordinanza è emessa nei confronti del responsabile del fatto dannoso nonché, in solido, del soggetto nel cui effettivo interesse il comportamento fonte del danno è stato tenuto o che ne abbia obiettivamente tratto vantaggio sottraendosi, secondo l’accertamento istruttorio intervenuto, all’onere economico necessario per apprestare, in via preventiva, le opere, le attrezzature, le cautele e tenere i comportamenti previsti come obbligatori dalle norme applicabili. L’ordinanza indica il fatto, commissivo o omissivo, contestato, nonché gli elementi di fatto ritenuti rilevanti per l’individuazione e la quantificazione del danno e le fonti di prova per l’identificazione dei trasgressori.
+
+3.
+
+Qualora il responsabile del fatto che ha provocato danno ambientale non provveda, in tutto o in parte, all’adozione di misure di riparazione primaria o complementare e compensativa nel termine e con le modalità prescritte oppure tali misure risultino, in tutto o in parte, impossibili o eccessivamente onerose, gli organi della Protezione Civile, con successiva ordinanza, ingiungono il pagamento, entro il termine di sessanta giorni dalla notifica, di una somma pari al valore economico del danno accertato o residuato, a titolo di risarcimento per equivalente pecuniario. Tale quantificazione del danno è effettuata dagli organi della Protezione Civile valutando il pregiudizio arrecato alla situazione ambientale con particolare riferimento al costo necessario per la sua riparazione in applicazione dei criteri enunciati negli Allegati I e II della Direttiva 2004/35/CE nonché delle eventuali Linee Guida di cui all’articolo 164, comma 1.
+
+4.
+
+Ove non sia motivatamente possibile l’esatta quantificazione del danno non risarcibile in forma specifica, o di parte di esso, il danno per equivalente patrimoniale è stabilito dagli organi della Protezione Civile in conformità ai parametri dettati nel Regolamento del Congresso di Stato di cui al comma 5.
+
+5.
+
+I criteri di determinazione del risarcimento per equivalente e dell’eccessiva onerosità nei casi di cui al superiore comma 3, avendo riguardo anche al valore monetario stimato delle risorse naturali e dei servizi perduti e ai parametri utilizzati in casi simili o materie analoghe per la liquidazione del risarcimento per equivalente del danno ambientale, sono definiti con Regolamento del Congresso di Stato mediante il quale sono, altresì, stabiliti i parametri per la determinazione delle somme che i trasgressori devono corrispondere in caso di impossibilità di quantificazione del danno ai sensi del precedente comma 4.
+
+6.
+
+Nei casi di concorso nello stesso evento di danno, ciascun trasgressore risponde nei limiti della propria responsabilità personale. Il relativo debito si trasmette, secondo le leggi vigenti, agli eredi nei limiti del loro effettivo arricchimento.
+
+7.
+
+L’ordinanza è adottata nel termine perentorio di centottanta giorni decorrenti dalla comunicazione ai soggetti di cui al comma 2 dell’avvio dell’istruttoria, e comunque entro il termine di decadenza di due anni dalla notizia del fatto, salvo quando sia in corso la riparazione ambientale a cura e spese del trasgressore. In tal caso i medesimi termini decorrono dalla sospensione ingiustificata dei lavori di riparazione oppure dalla loro conclusione in caso di incompleta riparazione del danno. Alle attestazioni concernenti la sospensione dei lavori e la loro incompletezza provvede il Capo del SPC con apposito atto di accertamento.
+
+8.
+
+Resta in ogni caso fermo il diritto dei soggetti danneggiati dal fatto produttivo di danno ambientale, nella loro salute o nei beni di loro proprietà, di agire in giudizio nei confronti del responsabile a tutela dei diritti e degli interessi lesi.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 57:
+
+L‘articolo 166 del Decreto Delegato 27 aprile 2012 n. 44 è modificato come segue:
+
+a) il comma 1 è sostituito dal seguente: ―1. Qualora, in esito ad indagini ed accertamenti effettuati dall‘autorità pubblica, sia constatato un danno ambientale ed il responsabile non abbia attivato le procedure di riparazione, il Coordinamento per la Protezione Civile con ordinanza immediatamente esecutiva, ingiunge a coloro che, in base al suddetto accertamento, siano risultati responsabili del fatto l‘adozione di misure di riparazione primaria oppure di riparazione complementare e compensativa, entro un termine fissato. Tali misure di riparazione primaria, complementare e compensativa sono prescritte in conformità all‘Allegato II della Direttiva 2004/35/CE del Parlamento Europeo e del Consiglio del 21 aprile 2004 e successive modifiche ed integrazioni.
+
+b) il comma 3 è sostituito dal seguente: ―3. Qualora il responsabile del fatto che ha provocato danno ambientale non provveda, in tutto o in parte, all‘adozione di misure di riparazione primaria o complementare e compensativa nel termine e con le modalità prescritte oppure tali
+
+###### Art. 167
+
+(Contenuto dell’ordinanza)
+
+1.
+
+L‘ordinanza fissa un termine, anche concordato con il destinatario, per il completamento, a sue spese, delle misure di riparazione e delle sanzioni relative al danno. Tale termine non può essere inferiore a due mesi e superiore a due anni, salvo ulteriore proroga da definire in considerazione dell‘entità dei lavori necessari.
+
+2.
+
+L‘ordinanza del Coordinamento per la Protezione Civile è adeguatamente motivata ed immediatamente esecutiva e la sua istruttoria è effettuata nel rispetto del principio del contraddittorio con il destinatario, al quale il Coordinamento per la Protezione Civile è legittimato a chiedere di effettuare la propria valutazione e di fornire tutte le informazioni ed i dati necessari.
+
+3.
+
+L‘ordinanza è comunicata senza indugio al destinatario con indicazione dei mezzi di ricorso di cui dispone e dei termini relativi. 81
+
+###### Art. 168
+
+(Ricorso avverso l’ordinanza)
+
+1.
+
+Il destinatario, entro il termine perentorio di sessanta giorni dalla comunicazione dell’ordinanza, può ricorrere al Tribunale Unico – Sezione Giurisdizione Amministrativa ai sensi della Legge 28 giugno 1989 n.68.
+
+2.
+
+Il destinatario dell’ordinanza può far precedere l’azione giurisdizionale dal ricorso in opposizione di cui all’articolo 12 della Legge n.68/1989. misure risultino, in tutto o in parte, impossibili o eccessivamente onerose, il Coordinamento per la Protezione Civile, con successiva ordinanza, ingiunge il pagamento, entro il termine di sessanta giorni dalla notifica, di una somma pari al valore economico del danno accertato o residuato, a titolo di risarcimento per equivalente pecuniario. Tale quantificazione del danno è effettuata dal Coordinamento per la Protezione Civile valutando il pregiudizio arrecato alla situazione ambientale con particolare riferimento al costo necessario per la sua riparazione, in applicazione dei criteri enunciati negli Allegati I e II della Direttiva 2004/35/CE e successive modifiche ed integrazioni.
+
+c) al comma 7 il “Capo del SPC” è sostituito dal “Coordinamento per la Protezione Civile”. 80
+
+Decreto delegato 31 gennaio 2017 n. 16, Art. 70: vedasi nota 68.
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 167
+
+(Contenuto dell’ordinanza)
+
+1.
+
+L’ordinanza fissa un termine, anche concordato con il destinatario, per il completamento, a sue spese, delle misure di riparazione. Tale termine non può essere inferiore a due mesi e superiore a due anni, salvo ulteriore proroga da definire in considerazione dell’entità dei lavori necessari.
+
+2.
+
+L’ordinanza degli organi della Protezione Civile è adeguatamente motivata ed immediatamente esecutiva e la sua istruttoria è effettuata nel rispetto del principio del contraddittorio con il destinatario al quale gli organi della Protezione Civile sono legittimati a chiedere di effettuare la propria valutazione e di fornire tutte le informazioni ed i dati necessari.
+
+3.
+
+L’ordinanza è comunicata senza indugio al destinatario con indicazione dei mezzi di ricorso di cui dispone e dei termini relativi.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 58:
+
+L‘articolo 167 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 167 (Contenuto dell’ordinanza)
+
+1\. L‘ordinanza fissa un termine, anche concordato con il destinatario, per il completamento, a sue spese, delle misure di riparazione e delle sanzioni relative al danno. Tale termine non può essere inferiore a due mesi e superiore a due anni, salvo ulteriore proroga da definire in considerazione dell‘entità dei lavori necessari.
+
+2\. L‘ordinanza del Coordinamento per la Protezione Civile è adeguatamente motivata ed immediatamente esecutiva e la sua istruttoria è effettuata nel rispetto del principio del contraddittorio con il destinatario, al quale il Coordinamento per la Protezione Civile è legittimato a chiedere di effettuare la propria valutazione e di fornire tutte le informazioni ed i dati necessari.
+
+3\. L‘ordinanza è comunicata senza indugio al destinatario con indicazione dei mezzi di ricorso di cui dispone e dei termini relativi.
+
+###### Art. 169
+
+(Effetti dell’ordinanza sull’azione giudiziaria)
+
+1.
+
+In alternativa all’attivazione dei procedimenti volti all’adozione delle ordinanze di cui all’articolo 166, l’Ecc.ma Camera agisce in sede giurisdizionale, anche esercitando l’azione civile in sede penale, per il risarcimento del danno ambientale in forma specifica e, se necessario, per equivalente patrimoniale.
+
+2.
+
+Qualora gli organi della Protezione Civile abbiano adottato l’ordinanza di cui all’articolo 166, l’Ecc.ma Camera non può né proporre né procedere ulteriormente nel giudizio per il risarcimento del danno ambientale, salva la possibilità dell’intervento in qualità di persona offesa dal reato nel giudizio penale.
+
+#### CAPO IV
+
+DISPOSIZIONI FINALI
+
+###### Art. 170
+
+(Riscossione dei crediti e fondo di dotazione)
+
+1.
+
+Per la riscossione delle somme costituenti credito dello Stato ai sensi delle disposizioni di cui al presente Titolo, si applicano le norme di cui alla Legge 25 maggio 2004 n.70.
+
+2.
+
+Al fine di finanziare gli interventi di prevenzione e riparazione eseguiti dagli organi della Protezione Civile, è istituito nel Bilancio dello Stato apposito capitolo, denominato “Fondo di dotazione per la prevenzione e la riparazione ambientale”.
+
+3.
+
+Le spese relative agli interventi di cui al comma 1 sono autorizzate in conformità a quanto previsto dall’articolo 14, comma secondo della Legge n.21/2006.
+
+4.
+
+Le somme derivanti dalla riscossione dei crediti in favore dello Stato per il risarcimento del danno ambientale disciplinato dal presente Capo, ivi comprese quelle derivanti dall’escussione di fidejussioni a favore dello Stato, assunte a garanzia del risarcimento medesimo, sono destinate alle seguenti finalità:
+
+a) interventi urgenti di perimetrazione, caratterizzazione e messa in sicurezza dei siti inquinati, con priorità per le aree per le quali ha avuto luogo il risarcimento del danno ambientale;
+
+b) interventi di disinquinamento, bonifica e riparazione ambientale delle aree per le quali abbia avuto luogo il risarcimento del danno ambientale.
+
+### TITOLO IX
+
+LA VALUTAZIONE DI IMPATTO AMBIENTALE
+
+#### CAPO I
+
+DISPOSIZIONI GENERALI
+
+###### Art. 171
+
+(Finalità della Valutazione di Impatto Ambientale (VIA)
+
+1\. La Valutazione di Impatto Ambientale (VIA) costituisce uno speciale mezzo di controllo del rispetto delle norme di legge, dei regolamenti e dei piani che disciplinano l’attività urbanistica ed edilizia.
+
+###### Art. 172
+
+(Interventi soggetti alla VIA)
+
+1\. Sono soggetti alla VIA:
+
+1) gli strumenti di pianificazione attuattiva;
+
+2) i ponti, i viadotti, e gli svincoli viari;
+
+3) le ferrovie;
+
+4) le autostrade, le superstrade e le principali arterie di collegamento;
+
+5) le briglie e le tombinature;
+
+6) le modifiche dei corsi d’acqua;
+
+7) le dighe;
+
+8) le teleferiche e gli impianti meccanici di risalita;
+
+9) i centri commerciali;
+
+10) i complessi commerciali di vendita, direzionali e residenziali, produttivi, non compresi in zone a Piano Particolareggiato, che comportino una superficie utile superiore a 3.000 mq.;
+
+11) gli aeroporti e le aviosuperfici;
+
+12) gli interventi edilizi di nuova costruzione, ampliamento e demolizione e ricostruzione totale o parziale in zona agricola previsti dalle normative vigenti in materia di agricoltura nonché dall‘articolo 21 della Legge 13 novembre 1991 n.140 e dall‘articolo 43 della Legge 29 gennaio 1992 n.7. Il CTS emana apposito regolamento contenente disposizioni applicative del presente punto, entro il 31 dicembre 2017;
+
+13) gli impianti di depurazione;
+
+14) le discariche;
+
+15) le cave ed in genere ogni attività estrattiva che comporti una modifica visibile del territorio movimentazioni di terreno con sterri e riporti di altezza superiore a 10 m.;
+
+16) i depositi e impianti di trattamento rifiuti, i depositi di materiale inerte e simili;
+
+17) le piste permanenti per corse e prove d’automobili e motociclette;
+
+18) le centrali di produzione di energia;
+
+19) gli inceneritori;
+
+20) gli impianti per la radiodiffusione e per i servizi di comunicazioni mobili;
+
+21) le infrastrutture viarie minori, le infrastrutture sportive, i parchi gioco;
+
+22) gli impianti eolici e mini idroelettrici, secondo quanto stabilito dall’Autorità di Regolazione per i Servizi Pubblici e l’Energia ed il CTS;
+
+23) gli impianti fotovoltaici con potenza nominale superiore a 20 kW che non rientrino nella categoria “su edifici” o nella categoria “integrato con caratteristiche innovative” di cui alla pertinente normativa;
+
+24) impianti per la produzione di biodiesel e bioetanolo;
+
+25) impianti per la produzione di calore da biomasse con potenze superiori a 50 kW termici;
+
+26) impianti per il riutilizzo energetico di biomasse derivanti da recupero degli scarti di lavorazione in processi produttivi o provenienti da raccolta differenziata;
+
+2\. L’elenco delle opere sottoposte alla VIA, a mente del precedente comma 1, può essere modificato mediante decreto delegato assunto previo parere vincolante del CTS. Parimenti, l’elenco delle opere soggette a VIA di cui all’Allegato AA del presente Codice è adeguato in conformità alle predette modifiche. 82 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 172
+
+(Interventi soggetti alla VIA)
+
+1\. Sono soggetti alla VIA:
+
+1) gli strumenti di pianificazione attuattiva;
+
+###### Art. 173
+
+(Contenuto del controllo della VIA)
+
+1\. L’impatto ambientale, fatta salva l’osservanza delle norme e prescrizioni derivanti da altre fonti, viene valutato in rapporto ai suoi effetti sull’ambiente naturale, sul paesaggio, sul traffico, sul suolo, sull’aria, sull’acqua, sul clima, sul patrimonio culturale.
+
+#### CAPO II
+
+LINEE GUIDA PER LO STUDIO E LA VALUTAZIONE DELL’IMPATTO AMBIENTALE E PROCEDIMENTO DI VIA
+
+2) i ponti, i viadotti, e gli svincoli viari;
+
+3) le ferrovie;
+
+4) le autostrade, le superstrade e le principali arterie di collegamento;
+
+5) le briglie e le tombinature;
+
+6) le modifiche dei corsi d’acqua;
+
+7) le dighe;
+
+8) le teleferiche e gli impianti meccanici di risalita;
+
+9) i centri commerciali;
+
+10) i complessi commerciali di vendita, direzionali e residenziali, produttivi, non compresi in zone a Piano Particolareggiato, che comportino una superficie utile superiore a 3.000 mq.;
+
+11) gli aeroporti e le aviosuperfici;
+
+12) gli interventi edilizi di nuova costruzione, ampliamento e demolizione e ricostruzione totale o parziale in zona agricola previsti dalle normative vigenti in materia di agricoltura nonché dall’articolo 21 della Legge 13 novembre 1991 n.140 e dall’articolo 43 della Legge 29 gennaio 1992 n.7. Il CTS mediante proprio regolamento ha facoltà di dettare disposizioni applicative della presente lettera;
+
+13) gli impianti di depurazione;
+
+14) le discariche;
+
+15) le cave ed in genere ogni attività estrattiva che comporti una modifica visibile del territorio movimentazioni di terreno con sterri e riporti di altezza superiore a 10 m.;
+
+16) i depositi e impianti di stoccaggio dei rottami e di smaltimento e recupero rifiuti, i depositi di materiale inerte e simili;
+
+17) le piste permanenti per corse e prove d’automobili e motociclette;
+
+18) le centrali di produzione di energia;
+
+19) gli inceneritori;
+
+20) gli impianti radiobase e le antenne;
+
+21) le infrastrutture viarie minori, le infrastrutture sportive, i parchi gioco;
+
+22) gli impianti eolici e mini idroelettrici, secondo quanto stabilito dall’Autorità di Regolazione per i Servizi Pubblici e l’Energia ed il CTS;
+
+23) gli impianti fotovoltaici con potenza nominale superiore a 20 kW che non rientrino nella categoria “su edifici” o nella categoria “integrato con caratteristiche innovative” di cui alla pertinente normativa;
+
+24) impianti per la produzione di biodiesel e bioetanolo;
+
+25) impianti per la produzione di calore da biomasse con potenze superiori a 50 kW termici;
+
+26) impianti per il riutilizzo energetico di biomasse derivanti da recupero degli scarti di lavorazione in processi produttivi o provenienti da raccolta differenziata;
+
+2\. L’elenco delle opere sottoposte alla VIA, a mente del precedente comma 1, può essere modificato mediante decreto delegato assunto previo parere vincolante del CTS. Parimenti, l’elenco delle opere soggette a VIA di cui all’Allegato AA del presente Codice è adeguato in conformità alle predette modifiche.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 59 :
+
+L‘articolo 172 del Decreto Delegato 27 aprile 2012 n. 44 è modificato come segue:
+
+a) al comma 1, il punto 12) è sostituito dal seguente: ―12) gli interventi edilizi di nuova costruzione, ampliamento e demolizione e ricostruzione totale o parziale in zona agricola previsti dalle normative vigenti in materia di agricoltura nonché dall‘articolo 21 della Legge 13 novembre 1991 n.140 e dall‘articolo 43 della Legge 29 gennaio 1992 n.7. Il CTS emana apposito regolamento contenente disposizioni applicative del presente punto, entro il 31 dicembre 2017;
+
+b) al comma 1, il punto 16) è sostituito dal seguente: ―16) i depositi e impianti di trattamento rifiuti, i depositi di materiale inerte e simili;
+
+c) al comma 1, il punto 20) è sostituito dal seguente: ―20) gli impianti per la radiodiffusione e per i servizi di comunicazioni mobili;
+
+###### Art. 174
+
+(Finalità)
+
+1\. Il presente Capo persegue le seguenti finalità:
+
+a) fornire ai progettisti linee guida per la redazione dello Studio di Impatto Ambientale (SIA);
+
+b) offrire ai tecnici del settore indicazioni funzionali ad una progettazione che tenga conto dei numerosi e diversificati aspetti da affrontare all’atto della valutazione dell’impatto di determinati interventi urbanistici od opere edili sul contesto ambientale e paesaggistico;
+
+c) dettare criteri e prescrizioni tesi ad orientare il percorso di ideazione di opere ed interventi urbanistici ed edilizi al rispetto degli equilibri ecologici;
+
+d) promuovere una progettazione accorta delle opere ed un utilizzo efficace delle risorse economiche allo scopo di realizzare interventi finalizzati a risolvere problemi e criticità del sistema territoriale rafforzando il contesto ambientale e paesistico interessato;
+
+e) definire le liste di controllo di cui il CTS si avvale nella fase di esame dei documenti che costituiscono la VIA.
+
+2\. Le Linee Guida di cui al presente Capo potranno essere modificate ed aggiornate, su proposta del CTS, al fine di adeguarle all’evoluzione tecnica in materia, mediante l’adozione da parte del Congresso di Stato di decreto delegato.
+
+###### Art. 175
+
+(Definizioni)
+
+1\. Nel presente Capo i termini e locuzioni sotto elencati assumono i seguenti significati:
+
+a) “progetto preliminare”: la proposta progettuale avente carattere preparatorio nella quale sono stabiliti i profili e le caratteristiche più significative degli elaborati dei successivi livelli di progettazione, in funzione delle dimensioni economiche e della tipologia e categoria dell‘intervento edilizio. Esso è costituito dai seguenti elaborati:
+
+\- relazione illustrativa delle ragioni della scelta della soluzione prospettata e della fattibilità della stessa sulla base di indagini di prima approssimazione relative ai profili ambientali, amministrativi, finanziari e tecnici dell'intervento;
+
+\- relazione geologica supportata da indagini geognostiche, al fine di determinare un quadro geologico, geomorfologico, idrogeologico, geotecnico e sismico di dettaglio;
+
+\- schemi grafici per l'individuazione delle caratteristiche dimensionali, volumetriche, tipologiche, funzionali e tecnologiche dei lavori da realizzare;
+
+\- rendering della soluzione prospettata;
+
+b) “progetto definitivo”: l‘elaborato progettuale contenente tutti gli elementi necessari ai fini del rilascio della concessione edilizia redatto sulla base delle indicazioni del progetto preliminare e di quanto emerso in sede di esame dello stesso da parte dei competenti uffici ed organi pubblici. Esso è costituito dai seguenti elaborati:
+
+\- relazione descrittiva delle scelte progettuali, delle caratteristiche dei materiali prescelti e dei criteri di inserimento delle opere sul territorio;
+
+\- disegni generali nelle opportune scale descrittivi delle principali caratteristiche delle opere e delle soluzioni architettoniche, delle superfici e dei volumi da realizzare, compresi quelli per l'individuazione del tipo di fondazione;
+
+\- relazione geologica supportata da indagini geognostiche, al fine di determinare un quadro geologico, geomorfologico, idrogeologico, geotecnico e sismico di dettaglio;
+
+\- calcoli preliminari delle strutture e degli impianti;
+
+\- disciplinare descrittivo degli elementi prestazionali, tecnici ed economici previsti in progetto;
+
+\- computo metrico estimativo;
+
+c) “proposta preliminare di Piano Particolareggiato”: la proposta progettuale di Piano Particolareggiato o di relativa Variante depositata dal proponente presso l‘Ufficio Pianificazione Territoriale ai fini dell‘avvio del procedimento di cui all‘articolo 11 della Legge 19 luglio 1995 n.87 e successive modificazioni. Essa è costituita dagli elementi previsti dal medesimo articolo;
+
+d) “proposta definitiva di Piano Particolareggiato”: la proposta progettuale di Piano Particolareggiato o di relativa Variante depositata dal proponente presso l‘Ufficio Pianificazione Territoriale ai fini dell‘approvazione definitiva da parte della Commissione per le Politiche Territoriali ed elaborata apportando alla proposta preliminare di Piano Particolareggiato le modifiche di cui all‘articolo 11, comma 10, lettera e) della Legge n.87 del 1995 e successive modificazioni nonché le integrazioni e rettifiche richieste dai competenti uffici ed organi pubblici nel corso del procedimento;
+
+e) “screening”: la relazione di tecnici specializzati nei settori di pertinenza, che attestino lo studio degli effetti dell‘intervento sotto i profili di cui all‘articolo 173, effettuata sul progetto preliminare o sulla proposta preliminare di Piano Particolareggiato;
+
+f) “Studio di Impatto Ambientale (SIA)”: la relazione di tecnici specializzati nei settori di pertinenza, che attestino lo studio degli effetti dell‘intervento sotto i profili di cui all‘articolo 173, effettuata sul progetto definitivo o sulla proposta definitiva di Piano Particolareggiato. 83 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 175
+
+(Definizioni)
+
+1\. Nel presente Capo i termini e locuzioni sotto elencati assumono i seguenti significati:
+
+a) “progetto preliminare”: la proposta progettuale avente carattere preparatorio nella quale sono stabiliti i profili e le caratteristiche più significative degli elaborati dei successivi livelli di progettazione, in funzione delle dimensioni economiche e della tipologia e categoria dell’intervento edilizio;
+
+b) “progetto definitivo o legale”: l’elaborato progettuale contenente tutti gli elementi necessari ai fini del rilascio della concessione edilizia redatto sulla base delle indicazioni del progetto preliminare e di quanto emerso in sede di esame dello stesso da parte dei competenti uffici ed organi pubblici;
+
+c) “proposta preliminare di Piano Particolareggiato”: la proposta progettuale di Piano Particolareggiato o di relativa Variante depositata dal proponente presso l’Ufficio Pianificazione Territoriale ai fini dell’avvio del procedimento di cui all’articolo 11 della Legge 19 luglio 1995 n.87 e successive modificazioni;
+
+d) “proposta definitiva di Piano Particolareggiato”: la proposta progettuale di Piano Particolareggiato o di relativa Variante depositata dal proponente presso l’Ufficio Pianificazione Territoriale ai fini dell’approvazione definitiva da parte della Commissione per le Politiche Territoriali ed elaborata apportando alla proposta preliminare di Piano Particolareggiato le modifiche di cui all’articolo 11, comma 10, lettera e) della Legge n.87 del 1995 e successive modificazioni nonché le integrazioni e rettifiche richieste dai competenti uffici ed organi pubblici nel corso del procedimento;
+
+e) “screening”: la relazione di tecnici specializzati nei settori di pertinenza che attestino lo studio degli effetti dell’intervento sotto i profili di cui al precedente articolo 173 effettuata sul progetto preliminare o sulla proposta preliminare di Piano Particolareggiato;
+
+f) “Studio di Impatto Ambientale (SIA)”: la relazione di tecnici specializzati nei settori di pertinenza che attestino lo studio degli effetti dell’intervento sotto i profili di cui al precedente articolo 173 effettuata sul progetto definitivo o sulla proposta definitiva di Piano Particolareggiato.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 60:
+
+L‘articolo 175 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 175 (Definizioni)
+
+1\. Nel presente Capo i termini e locuzioni sotto elencati assumono i seguenti significati:
+
+a) “progetto preliminare”: la proposta progettuale avente carattere preparatorio nella quale sono stabiliti i profili e le caratteristiche più significative degli elaborati dei successivi livelli di progettazione, in funzione delle dimensioni economiche e della tipologia e categoria dell‘intervento edilizio. Esso è costituito dai seguenti elaborati:
+
+\- relazione illustrativa delle ragioni della scelta della soluzione prospettata e della fattibilità della stessa sulla base di indagini di prima approssimazione relative ai profili ambientali, amministrativi, finanziari e tecnici dell'intervento;
+
+\- relazione geologica supportata da indagini geognostiche, al fine di determinare un quadro geologico, geomorfologico, idrogeologico, geotecnico e sismico di dettaglio;
+
+###### Art. 176
+
+(Contenuto dello screening e dello SIA)
+
+1.
+
+Lo screening e lo SIA comprendono, oltre agli elementi specificati nell’Allegato AA del presente Codice, valutazioni geo-morfologiche, vegetazionali e paesaggistiche del sito interessato dall’intervento urbanistico o edilizio proposto.
+
+2.
+
+L’elaborazione dello screening e dello SIA e la successiva valutazione da parte del CTS sono effettuate in ottemperanza alle prescrizioni contenute nell’Allegato AA del presente Codice. 2-bis. L‘Ufficio proponente lo screening e lo SIA potrà avvalersi per l‘elaborazione degli stessi della collaborazione degli Uffici competenti. 84
+
+###### Art. 177
+
+(Il procedimento della VIA relativo ad opere non soggette a Piano Particolareggiato)
+
+1\. Il proponente la pratica edilizia avente ad oggetto opera sottoposta alla VIA ma non all‘approvazione preventiva di strumenti di pianificazione attuativa deposita presso
+
+\- schemi grafici per l'individuazione delle caratteristiche dimensionali, volumetriche, tipologiche, funzionali e tecnologiche dei lavori da realizzare;
+
+\- rendering della soluzione prospettata;
+
+b) “progetto definitivo”: l‘elaborato progettuale contenente tutti gli elementi necessari ai fini del rilascio della concessione edilizia redatto sulla base delle indicazioni del progetto preliminare e di quanto emerso in sede di esame dello stesso da parte dei competenti uffici ed organi pubblici. Esso è costituito dai seguenti elaborati:
+
+\- relazione descrittiva delle scelte progettuali, delle caratteristiche dei materiali prescelti e dei criteri di inserimento delle opere sul territorio;
+
+\- disegni generali nelle opportune scale descrittivi delle principali caratteristiche delle opere e delle soluzioni architettoniche, delle superfici e dei volumi da realizzare, compresi quelli per l'individuazione del tipo di fondazione;
+
+\- relazione geologica supportata da indagini geognostiche, al fine di determinare un quadro geologico, geomorfologico, idrogeologico, geotecnico e sismico di dettaglio;
+
+\- calcoli preliminari delle strutture e degli impianti;
+
+\- disciplinare descrittivo degli elementi prestazionali, tecnici ed economici previsti in progetto;
+
+\- computo metrico estimativo;
+
+c) “proposta preliminare di Piano Particolareggiato”: la proposta progettuale di Piano Particolareggiato o di relativa Variante depositata dal proponente presso l‘Ufficio Pianificazione Territoriale ai fini dell‘avvio del procedimento di cui all‘articolo 11 della Legge 19 luglio 1995 n.87 e successive modificazioni. Essa è costituita dagli elementi previsti dal medesimo articolo;
+
+d) “proposta definitiva di Piano Particolareggiato”: la proposta progettuale di Piano Particolareggiato o di relativa Variante depositata dal proponente presso l‘Ufficio Pianificazione Territoriale ai fini dell‘approvazione definitiva da parte della Commissione per le Politiche Territoriali ed elaborata apportando alla proposta preliminare di Piano Particolareggiato le modifiche di cui all‘articolo 11, comma 10, lettera e) della Legge n.87 del 1995 e successive modificazioni nonché le integrazioni e rettifiche richieste dai competenti uffici ed organi pubblici nel corso del procedimento;
+
+e) “screening”: la relazione di tecnici specializzati nei settori di pertinenza, che attestino lo studio degli effetti dell‘intervento sotto i profili di cui all‘articolo 173, effettuata sul progetto preliminare o sulla proposta preliminare di Piano Particolareggiato;
+
+f) “Studio di Impatto Ambientale (SIA)”: la relazione di tecnici specializzati nei settori di pertinenza, che attestino lo studio degli effetti dell‘intervento sotto i profili di cui all‘articolo 173, effettuata sul progetto definitivo o sulla proposta definitiva di Piano Particolareggiato.
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 176
+
+(Contenuto dello screening e dello SIA)
+
+1\. Lo screening e lo SIA comprendono, oltre agli elementi specificati nell’Allegato AA del presente Codice, valutazioni geo-morfologiche, vegetazionali e paesaggistiche del sito interessato dall’intervento urbanistico o edilizio proposto.
+
+2\. L’elaborazione dello screening e dello SIA e la successiva valutazione da parte del CTS sono effettuate in ottemperanza alle prescrizioni contenute nell’Allegato AA del presente Codice.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 61:
+
+All‘articolo 176 del Decreto Delegato 27 aprile 2012 n. 44 è aggiunto il seguente comma: ―2-bis. L‘Ufficio proponente lo screening e lo SIA potrà avvalersi per l‘elaborazione degli stessi della collaborazione degli Uffici competenti.
+
+l‘UGRAA il progetto preliminare dell‘intervento edilizio unitamente allo screening previo parere favorevole degli Uffici e delle Commissioni competenti.
+
+2\. Completata l’istruzione, l’UGRAA sottopone la pratica al CTS il quale, a seconda delle valutazioni compiute, adotta le seguenti tipologie di deliberazioni:
+
+a) respinge lo screening, interrompendo il procedimento della VIA;
+
+b) approva lo screening;
+
+c) approva lo screening dettando prescrizioni da recepirsi nel progetto definitivo;
+
+d) approva lo screening dettando eventuali prescrizioni e richiedendo, qualora l’opera comporti un significativo impatto ambientale e/o abbia particolare rilevanza, la presentazione dello SIA in relazione al progetto definitivo. In tali casi il CTS ha, altresì, facoltà di promuovere incontri pubblici per la presentazione dell’intervento alla popolazione interessata.
+
+3.
+
+Nell’evenienza di cui al comma 2, lettera d), il proponente, recependo le eventuali prescrizioni dettate in fase di esame del progetto preliminare, elabora il progetto definitivo e lo SIA al fine di sottoporre nuovamente la pratica al CTS. Il CTS, nella fase di esame dello SIA, ha facoltà di stabilire ulteriori prescrizioni in ordine ad interventi di mitigazione, compensazione e monitoraggio nonché di disporre la modifica del progetto definitivo.
+
+4\. Prima del rilascio della concessione edilizia, il progetto definitivo è esaminato dall’UGRAA per accertare:
+
+a) in relazione al caso di cui al comma 2, lettera c), la rispondenza del progetto definitivo alle prescrizioni dettate dal CTS al momento dell’approvazione dello screening;
+
+b) in relazione al caso di cui al comma 2, lettera d), la conformità del progetto definitivo, eventualmente modificato, alle prescrizioni stabilite dal CTS in fase di approvazione dello SIA.
+
+5.
+
+Il richiedente presenta, unitamente alla domanda di concessione edilizia, certificazione rilasciata dall’UGRAA attestante l’esito positivo dell’esame di cui al comma 4 e l’eventuale deposito della garanzia di cui all’articolo 180. 85 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 177
+
+(Il procedimento della VIA relativo ad opere non soggette a Piano Particolareggiato)
+
+1.
+
+Il proponente la pratica edilizia avente ad oggetto opera sottoposta alla VIA ma non all’approvazione preventiva di strumenti di pianificazione attuativa deposita presso l’UGRAA il progetto preliminare dell’intervento edilizio unitamente allo screening.
+
+2\. Completata l’istruzione, l’UGRAA sottopone la pratica al CTS il quale, a seconda delle valutazioni compiute, adotta le seguenti tipologie di deliberazioni:
+
+a) respinge lo screening, interrompendo il procedimento della VIA;
+
+b) approva lo screening;
+
+c) approva lo screening dettando prescrizioni da recepirsi nel progetto definitivo;
+
+d) approva lo screening dettando eventuali prescrizioni e richiedendo, qualora l’opera comporti un significativo impatto ambientale e/o abbia particolare rilevanza, la presentazione dello SIA in relazione al progetto definitivo. In tali casi il CTS ha, altresì, facoltà di promuovere incontri pubblici per la presentazione dell’intervento alla popolazione interessata.
+
+3\. Nell’evenienza di cui al comma 2, lettera d), il proponente, recependo le eventuali prescrizioni dettate in fase di esame del progetto preliminare, elabora il progetto definitivo e lo SIA al fine di sottoporre nuovamente la pratica al CTS. Il CTS, nella fase di esame dello SIA, ha facoltà di stabilire ulteriori prescrizioni in ordine ad interventi di mitigazione, compensazione e monitoraggio nonché di disporre la modifica del progetto definitivo.
+
+4\. Prima del rilascio della concessione edilizia, il progetto definitivo è esaminato dall’UGRAA per accertare:
+
+a) in relazione al caso di cui al comma 2, lettera c), la rispondenza del progetto definitivo alle prescrizioni dettate dal CTS al momento dell’approvazione dello screening;
+
+b) in relazione al caso di cui al comma 2, lettera d), la conformità del progetto definitivo, eventualmente modificato, alle prescrizioni stabilite dal CTS in fase di approvazione dello SIA.
+
+5\. Il richiedente presenta, unitamente alla domanda di concessione edilizia, certificazione rilasciata dall’UGRAA attestante l’esito positivo dell’esame di cui al comma 4 e l’eventuale deposito della garanzia di cui all’articolo 180.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 62:
+
+Il comma 1 dell‘articolo 177 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente comma: ―1. Il proponente la pratica edilizia avente ad oggetto opera sottoposta alla VIA ma non all‘approvazione preventiva di strumenti di pianificazione attuativa deposita presso l‘UGRAA il progetto preliminare dell‘intervento edilizio unitamente allo screening previo parere favorevole degli Uffici e delle Commissioni competenti.
+
+###### Art. 177-bis
+
+(Procedimento di VIA semplificato relativo ad opere non soggette a Piano Particolareggiato)
+
+1\. Il procedimento di VIA semplificato relativo a opere non soggette a Piano Particolareggiato si applica esclusivamente nel caso in cui per il progetto preliminare in oggetto sia già stato approvato lo screening con le modalità di cui all‘articolo 177 e la modifica al suddetto progetto risulta non sostanziale ai fini della valutazione di impatto ambientale, previo parere favorevole dell‘UGRAA.
+
+2\. Il progetto definitivo è trasmesso, unitamente allo screening e/o al SIA già approvato dal CTS e all‘integrazione dello stesso, dall‘UGRAA al CTS per completare il procedimento di VIA di cui all‘articolo 177.86
+
+###### Art. 178
+
+(Il procedimento della VIA relativo a proposta di Piano Particolareggiato o di relativa Variante)
+
+1.
+
+Il procedimento di VIA relativo a strumento di pianificazione attuativa è avviato, ai sensi dei commi successivi, a seguito dell’adozione della delibera di indirizzo di cui all’articolo 9, comma 2 della Legge n.87 del 1995 e successive modificazioni.
+
+2\. La proposta preliminare di Piano Particolareggiato è trasmessa, unitamente allo screening, dall’Ufficio Pianificazione Territoriale all’UGRAA il quale, completata l’istruzione, sottopone la pratica al CTS.
+
+3\. Il CTS, in esito all’esame dello screening adotta le seguenti tipologie di deliberazioni:
+
+a) respinge lo screening, interrompendo il procedimento di VIA;
+
+b) approva lo screening;
+
+c) approva lo screening dettando prescrizioni da recepirsi nella proposta definitiva di Piano Particolareggiato;
+
+d) approva lo screening dettando eventuali prescrizioni e richiedendo, qualora lo strumento di pianificazione attuativa abbia caratteristiche tali da comportare un significativo impatto ambientale, la presentazione dello SIA in relazione alla proposta definitiva di Piano Particolareggiato.
+
+4\. A seguito dell’adozione delle deliberazioni indicate al comma 3, lettere b) e c), il procedimento di approvazione dello strumento di pianificazione attuativa prosegue mediante l’adozione, da parte della CPT, della proposta preliminare di Piano Particolareggiato e la successiva approvazione di quella definitiva la quale, nel caso di cui al comma 3, lettera c), è predisposta in conformità alle prescrizioni stabile dal CTS.
+
+5\. Nel caso di cui al comma 3, lettera d) ed a seguito dell’adozione, da parte della CPT, della proposta preliminare di Piano Particolareggiato, il proponente, recependo le eventuali prescrizioni dettate al momento della valutazione dello screening, elabora la
+
+Modifiche legislative:
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 63 Dopo l‘articolo 177 del Decreto Delegato 27 aprile 2012 n. 44 è aggiunto il seguente articolo: ―Art. 177-bis (Procedimento di VIA semplificato relativo ad opere non soggette a Piano Particolareggiato)
+
+1\. Il procedimento di VIA semplificato relativo a opere non soggette a Piano Particolareggiato si applica esclusivamente nel caso in cui per il progetto preliminare in oggetto sia già stato approvato lo screening con le modalità di cui all‘articolo 177 e la modifica al suddetto progetto risulta non sostanziale ai fini della valutazione di impatto ambientale, previo parere favorevole dell‘UGRAA.
+
+2\. Il progetto definitivo è trasmesso, unitamente allo screening e/o al SIA già approvato dal CTS e all‘integrazione dello stesso, dall‘UGRAA al CTS per completare il procedimento di VIA di cui all‘articolo 177.
+
+proposta definitiva di Piano Particolareggiato e lo SIA al fine di sottoporre nuovamente la pratica al CTS. Il CTS, nella fase di esame dello SIA, ha facoltà di stabilire ulteriori prescrizioni in ordine ad interventi di mitigazione, compensazione e monitoraggio nonché di disporre la modifica della proposta definitiva di Piano Particolareggiato.
+
+6\. A seguito della valutazione positiva dello SIA, la proposta definitiva di Piano Particolareggiato è sottoposta all’approvazione della CPT.
+
+7\. La dichiarazione di conformità redatta dal Responsabile del Progetto a mente dell’articolo 11, comma 6 della Legge n.87 del 1995 e successive modificazioni, come integrata ed adeguata ai sensi del comma 10, lettera f) del medesimo articolo, attesta la piena conformità della proposta definitiva di Piano Particolareggiato a tutte le prescrizioni stabilite dal CTS.
+
+8\. In ogni caso è facoltà della CPT, qualora lo ritenga opportuno ai fini di una completa ed approfondita istruzione della pratica, richiedere al CTS supplementi di valutazione in ordine all’impatto ambientale della proposta di Piano Particolareggiato.
+
+9\. La CPT è, comunque, tenuta a recepire integralmente le prescrizioni contenute nella deliberazione di VIA, le quali sono vincolanti in sede di esame del progetto a fini urbanistici ed edilizi, ed è tenuta a valutare, secondo i criteri e le modalità di cui all’articolo 11, decimo comma, lettera d) della Legge n.87/1995 e successive modificazioni le osservazioni ed i rilievi ivi formulati che devono essere sempre espressamente richiamati nella delibera di approvazione definitiva dello strumento urbanistico.
+
+###### Art. 178-bis
+
+(Procedimento di VIA semplificato relativo a proposta di Piano Particolareggiato o di relativa Variante)
+
+1\. Il procedimento di VIA semplificato relativo a una proposta di Piano Particolareggiato o di relativa Variante si applica esclusivamente nel caso in cui per la proposta di Piano Particolareggiato in oggetto sia già stato approvato lo screening con le modalità di cui all‘articolo 178 e la modifica al suddetto Piano risulti non sostanziale ai fini della valutazione di impatto ambientale, previo parere favorevole dell‘UGRAA.
+
+2\. La proposta definitiva di Piano Particolareggiato è trasmessa, unitamente allo screening e/o al SIA già approvato dal CTS e all‘integrazione dello stesso, dall‘UGRAA al CTS per completare il procedimento di VIA di cui all‘articolo 178.87
+
+###### Art. 179
+
+(Disposizioni sulla presentazione ed istruzione delle pratiche)
+
+1.
+
+Lo screening e lo SIA sono redatti da tecnici competenti in materia aventi la qualifica di geologo, architetto, ingegnere, dottore in scienze agrarie, dottore in scienze forestali, dottore in scienze ambientali e dottore in scienze biologiche.
+
+2.
+
+L’UGRAA effettua l’istruttoria della pratica avente ad oggetto lo screening o lo SIA entro trenta giorni dalla presentazione della stessa ed ha facoltà di richiedere al Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 64:
+
+Dopo l‘articolo 178 del Decreto Delegato 27 aprile 2012 n. 44 è aggiunto il seguente articolo: ―Art. 178-bis (Procedimento di VIA semplificato relativo a proposta di Piano Particolareggiato o di relativa Variante)
+
+1\. Il procedimento di VIA semplificato relativo a una proposta di Piano Particolareggiato o di relativa Variante si applica esclusivamente nel caso in cui per la proposta di Piano Particolareggiato in oggetto sia già stato approvato lo screening con le modalità di cui all‘articolo 178 e la modifica al suddetto Piano risulti non sostanziale ai fini della valutazione di impatto ambientale, previo parere favorevole dell‘UGRAA.
+
+2\. La proposta definitiva di Piano Particolareggiato è trasmessa, unitamente allo screening e/o al SIA già approvato dal CTS e all‘integrazione dello stesso, dall‘UGRAA al CTS per completare il procedimento di VIA di cui all‘articolo 178.
+
+promotore del procedimento integrazioni o precisazioni alla documentazione prodotta.
+
+3.
+
+Il CTS, sulla base dell’istruttoria dell’UGRAA, provvede, entro sessanta giorni dalla presentazione dello screening, completo della necessaria documentazione, alla notifica al proponente della deliberazione assunta.
+
+4.
+
+Il medesimo termine di cui al comma 3 si osserva per la notifica delle deliberazioni concernenti l’esito dell’esame dello SIA. 88
+
+###### Art. 180
+
+(Garanzie)
+
+1.
+
+Allo scopo di assicurare la corretta esecuzione delle opere di mitigazione e/o compensazione ambientale previste dallo screening o dallo SIA ovvero prescritte dal CTS, quest’ultimo delibera la presentazione da parte del proponente di idonee garanzie bancarie o assicurative a prima richiesta definendone i termini, l’importo e la durata.
+
+2.
+
+I contratti autonomi di garanzia sono perfezionati in favore dell’UGRAA ed il loro importo è quantificato dall’Ufficio medesimo al fine di coprire i costi di esecuzione degli interventi di cui al comma 1.
+
+3.
+
+In caso di opere pubbliche la cui realizzazione sia appaltata a soggetti privati, gli oneri relativi alle opere di mitigazione e/o compensazione ambientale sono inseriti nei capitolati d’appalto predisposti dalle imprese partecipanti alla gara.
+
+#### CAPO III
+
+DISPOSIZIONI FINALI
+
+###### Art. 181
+
+(Acquisizione dei dati)
+
+1.
+
+Ai fini della elaborazione dello screening o dello SIA relativo a strumento di pianificazione attuativa si osservano, in ordine all‘acquisizione di dati ed informazioni, le disposizioni di cui all‘articolo 11, comma 2 della Legge n.87 del 1995 e successive modifiche.
+
+2.
+
+Per ciò che concerne la predisposizione dello screening o dello SIA relativi ad opere soggette al procedimento della VIA, gli uffici ed i servizi pubblici competenti mettono a disposizione dei privati interessati le banche dati dagli stessi gestite limitatamente alle informazioni utili per l‘elaborazione delle relazioni medesime, fatto salvo il rispetto della vigente normativa in materia.
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 179
+
+(Disposizioni sulla presentazione ed istruzione delle pratiche)
+
+1.
+
+Lo screening e lo SIA sono redatti da tecnici competenti in materia aventi la qualifica di geologo, architetto, ingegnere, dottore in scienze agrarie, dottore in scienze forestali e dottore in scienze ambientali.
+
+2.
+
+L’UGRAA effettua l’istruttoria della pratica avente ad oggetto lo screening o lo SIA entro trenta giorni dalla presentazione della stessa ed ha facoltà di richiedere al promotore del procedimento integrazioni o precisazioni alla documentazione prodotta.
+
+3.
+
+Il CTS, sulla base dell’istruttoria dell’UGRAA, provvede, entro sessanta giorni dalla presentazione dello screening, completo della necessaria documentazione, alla notifica al proponente della deliberazione assunta.
+
+Il medesimo termine di cui al comma 3 si osserva per la notifica delle deliberazioni concernenti l’esito dell’esame dello SIA.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 65:
+
+Il comma 1 dell‘articolo 179 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―1. Lo screening e lo SIA sono redatti da tecnici competenti in materia aventi la qualifica di geologo, architetto, ingegnere, dottore in scienze agrarie, dottore in scienze forestali, dottore in scienze ambientali e dottore in scienze biologiche.
+
+3.
+
+Gli Uffici che detengono i dati di cui al comma 2 presentano una proposta di Regolamento che definisca la tipologia di dati, il formato e le tariffe per il rilascio dei medesimi da sottoporre per l‘adozione alla Commissione Politiche Territoriali. 89
+
+### TITOLO IX-bis 90
+
+Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 181
+
+(Acquisizione dei dati)
+
+1.
+
+Ai fini della elaborazione dello screening o dello SIA relativo a strumento di pianificazione attuativa si osservano, in ordine all’acquisizione di dati ed informazioni, le disposizioni di cui all’articolo 11, comma 2 della Legge n.87 del 1995 e successive modificazioni.
+
+2.
+
+Per ciò che concerne la predisposizione dello screening o dello SIA relativi ad opere soggette al procedimento della VIA ma non a quello di approvazione degli strumenti di pianificazione attuativa, gli uffici ed i servizi pubblici competenti mettono a disposizione dei privati interessati le banche dati dagli stessi gestite limitatamente alle informazioni utili per l’elaborazione delle relazioni medesime, fatto salvo il rispetto della vigente normativa in materia.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 66:
+
+L‘articolo 181 del Decreto Delegato 27 aprile 2012 n. 44 è sostituito dal seguente: ―Art. 181 (Acquisizione dei dati)
+
+1\. Ai fini della elaborazione dello screening o dello SIA relativo a strumento di pianificazione attuativa si osservano, in ordine all‘acquisizione di dati ed informazioni, le disposizioni di cui all‘articolo 11, comma 2 della Legge n.87 del 1995 e successive modifiche.
+
+2\. Per ciò che concerne la predisposizione dello screening o dello SIA relativi ad opere soggette al procedimento della VIA, gli uffici ed i servizi pubblici competenti mettono a disposizione dei privati interessati le banche dati dagli stessi gestite limitatamente alle informazioni utili per l‘elaborazione delle relazioni medesime, fatto salvo il rispetto della vigente normativa in materia.
+
+3\. Gli Uffici che detengono i dati di cui al comma 2 presentano una proposta di Regolamento che definisca la tipologia di dati, il formato e le tariffe per il rilascio dei medesimi da sottoporre per l‘adozione alla Commissione Politiche Territoriali. 89
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 67:
+
+Dopo il Titolo IX, dopo l‘articolo 181 del Decreto Delegato 27 aprile 2012 n. 44 è aggiunto il Titolo IX-bis, composto dagli articoli 181-bis, 181-ter, 181-quater, 181-quinquies, 181-sexies, 181-septies, 181-octies, 181-novies, 181decies e 181-undecies: ―TITOLO IX-bis LA VALUTAZIONE AMBIENTALE STRATEGICA
+
+#### CAPO I
+
+DISPOSIZIONI GENERALI
+
+###### Art. 181-bis
+
+(Finalità della Valutazione Ambientale Strategica (VAS)
+
+1\. La Valutazione Ambientale Strategica (VAS) costituisce un procedimento volto a valutare gli effetti sull‘ambiente che possono essere generati da piani con l‘obiettivo di garantire un elevato livello di protezione dell'ambiente e di contribuire all'integrazione di considerazioni ambientali già nel momento di elaborazione, adozione ed approvazione di piani al fine di promuovere lo sviluppo sostenibile.
+
+2\. La VAS è effettuata durante la fase preparatoria del piano ed anteriormente alla sua adozione o all'avvio della relativa procedura legislativa. 90
+
+###### Art. 181-ter
+
+(Interventi soggetti alla VAS)
+
+1\. Sono soggetti alla VAS i piani territoriali e di settore elaborati per il settore agricolo, forestale, energetico, industriale, dei trasporti, della mobilità, della gestione dei rifiuti e delle acque, delle telecomunicazioni, turistico, del commercio, della pianificazione territoriale o della destinazione dei suoli che possono avere effetti significativi sull‘ambiente, sulla base dei criteri contenuti nel Regolamento di cui all‘articolo 181-quater, comma 2, con riferimento all‘Allegato II della Direttiva 2011/42/CE e successive modifiche ed integrazioni.
+
+2\. I piani particolareggiati sono soggetti esclusivamente alla Valutazione di Impatto Ambientale (VIA) di cui al Titolo IX del presente decreto.
+
+#### CAPO II
+
+LINEE GUIDA PER LO STUDIO E LA VALUTAZIONE AMBIENTALE STRATEGICA E PROCEDIMENTO DI VAS
+
+###### Art. 181-quater
+
+(Finalità)
+
+1\. Il presente Capo persegue le seguenti finalità:
+
+a) offrire ai tecnici del settore indicazioni funzionali ad una pianificazione che tenga conto dei numerosi e diversificati aspetti da affrontare nella valutazione degli effetti che possono essere generati dai piani;
+
+b) promuovere l‘integrazione di considerazioni ambientali nella fase di elaborazione, adozione e approvazione dei piani al fine di garantire un elevato livello di protezione ambientale favorendo lo sviluppo sostenibile;
+
+c) favorire una politica di precauzione, integrando l‘interesse ambientale con altri interessi di natura socio-economica.
+
+2\. Le linee guida per la redazione della VAS e le liste di controllo di cui il CTS si avvale nella fase di esame dei documenti che costituiscono la VAS sono contenute in un Regolamento adottato dal Congresso di Stato ai sensi dell‘articolo 2, comma 2, lettera h) della Legge Costituzionale 15 dicembre 2005 n.183, su proposta del CTS.
+
+###### Art. 181-quinquies
+
+(Definizioni)
+
+1\. Nel presente Titolo i termini sotto elencati assumono i seguenti significati:
+
+a) “piani”: atti e/o provvedimenti di pianificazione, nonché le loro modifiche, previsti dalle vigenti normative;
+
+b) “valutazione ambientale strategica”: elaborazione di un rapporto di impatto ambientale, lo svolgimento di consultazioni, la valutazione del rapporto ambientale e dei risultati delle consultazioni nell'iter decisionale e la messa a disposizione delle informazioni sulla decisione;
+
+c) “rapporto ambientale”: la parte di documentazione del piano contenente le informazioni di cui all‘articolo 181-sexies.
+
+###### Art. 181-sexies
+
+(Contenuto del rapporto ambientale)
+
+1\. Per i piani sottoposti a VAS è redatto, prima e ai fini dell‘approvazione, un rapporto ambientale, che costituisce parte integrante della documentazione del piano proposto e da approvare.
+
+2\. Nel rapporto ambientale, redatto dal proponente il piano, sono individuati, descritti e valutati gli effetti significativi che l'attuazione del piano potrebbe avere sull'ambiente nonché le ragionevoli alternative alla luce degli obiettivi e dell'ambito territoriale del piano.
+
+3\. Le informazioni da fornire a tale scopo sono contenute nel Regolamento di cui all‘articolo 181-quater, comma 2.
+
+###### Art. 181-septies
+
+(Il procedimento della VAS)
+
+1\. Il proponente il piano sottoposto a VAS deposita presso l‘UGRAA la proposta di piano unitamente al rapporto ambientale.
+
+2\. L‘UGRAA richiede i pareri agli organismi, commissioni, enti ed uffici che hanno competenza ai fini della valutazione degli effetti sull‘ambiente dovuti all‘applicazione del piano e pubblica in internet la documentazione depositata al fine della consultazione da parte dei soggetti interessati, che possono trasmettere osservazioni entro il termine di quarantacinque giorni dalla pubblicazione stessa. Entro lo stesso termine gli organismi, le commissioni, gli enti e gli uffici interpellati trasmettono all‘UGRAA il parere richiesto.
+
+3\. Completata l‘istruzione, l‘UGRAA sottopone la pratica al CTS che esamina la proposta di piano e il relativo rapporto ambientale unitamente ai predetti pareri ed osservazioni.
+
+4\. Il CTS, in esito alle valutazioni compiute, adotta le seguenti tipologie di deliberazioni:
+
+a) respinge il rapporto ambientale, interrompendo il procedimento della VAS;
+
+b) approva il rapporto ambientale;
+
+c) approva il rapporto ambientale dettando prescrizioni da recepirsi nel piano;
+
+d) sospende la valutazione del rapporto ambientale richiedendo, qualora il piano comporti significativi effetti sull‘ambiente, eventuali integrazioni e/o chiarimenti. In tali casi il CTS ha, altresì, facoltà di promuovere incontri pubblici per la presentazione del piano alla popolazione interessata.
+
+5\. Nell‘evenienza di cui al comma 4, lettera d), il proponente fornisce all‘UGRAA le integrazioni e/o chiarimenti entro trenta giorni dalla richiesta. Il riesame della proposta di piano e relativo rapporto ambientale, completo della documentazione richiesta, avviene entro sessanta giorni dalla sospensione. In tale fase, il CTS adotta le deliberazioni di cui alle lettere a), b), c) del comma precedente.
+
+6\. L‘UGRAA trasmette all‘organo competente all‘approvazione e/o adozione del piano il piano medesimo, il rapporto ambientale e tutta la documentazione acquisita nell‘ambito del procedimento.
+
+7\. Nell‘evenienza di cui al comma 4, lettera c), l‘UGRAA verifica il recepimento delle prescrizioni dettate dal CTS prima della trasmissione di cui al comma 6.
+
+8\. Le deliberazioni di cui al presente articolo sono pubblicate in internet unitamente al piano adottato, al rapporto ambientale e alle misure adottate in merito al monitoraggio ai sensi dell'articolo 181-octies.
+
+###### Art. 181-octies
+
+(Monitoraggio)
+
+1\. Il monitoraggio ha la finalità di assicurare il controllo sugli effetti significativi sull‘ambiente derivanti dall‘attuazione dei piani e verificare il raggiungimento degli obiettivi di sostenibilità prefissati, così da individuare tempestivamente gli effetti negativi imprevisti ed essere in grado di adottare le misure correttive ritenute opportune.
+
+2\. Le misure previste per il monitoraggio sono parte integrante del rapporto ambientale.
+
+###### Art. 181-novies
+
+(Disposizioni sulla presentazione ed istruzione delle pratiche)
+
+1\. Il rapporto ambientale è redatto da tecnici competenti in materia aventi la qualifica di geologo, architetto, ingegnere, dottore in scienze agrarie, dottore in scienze forestali, dottore in scienze ambientali e dottore in scienze biologiche.
+
+2\. L‘UGRAA, nel corso dell‘istruttoria della pratica avente ad oggetto il rapporto ambientale, ha facoltà di richiedere al proponente del procedimento integrazioni o precisazioni alla documentazione prodotta. Tali integrazioni o precisazioni sono trasmesse all‘UGRAA entro quarantacinque giorni dalla richiesta.
+
+3\. Il CTS, sulla base dell‘istruttoria dell‘UGRAA, provvede, entro sessanta giorni dalla presentazione del rapporto ambientale, completo della necessaria documentazione, alla notifica al proponente della deliberazione assunta.
+
+#### CAPO III
+
+DISPOSIZIONI FINALI
+
+LA VALUTAZIONE AMBIENTALE STRATEGICA
+
+#### CAPO I
+
+DISPOSIZIONI GENERALI
+
+###### Art. 181-bis
+
+(Finalità della Valutazione Ambientale Strategica (VAS)
+
+1\. La Valutazione Ambientale Strategica (VAS) costituisce un procedimento volto a valutare gli effetti sull‘ambiente che possono essere generati da piani con l‘obiettivo di garantire un elevato livello di protezione dell'ambiente e di contribuire all'integrazione di considerazioni ambientali già nel momento di elaborazione, adozione ed approvazione di piani al fine di promuovere lo sviluppo sostenibile.
+
+2\. La VAS è effettuata durante la fase preparatoria del piano ed anteriormente alla sua adozione o all'avvio della relativa procedura legislativa.
+
+###### Art. 181-ter
+
+(Interventi soggetti alla VAS)
+
+1\. Sono soggetti alla VAS i piani territoriali e di settore elaborati per il settore agricolo, forestale, energetico, industriale, dei trasporti, della mobilità, della gestione dei rifiuti e delle acque, delle telecomunicazioni, turistico, del commercio, della pianificazione territoriale o della destinazione dei suoli che possono avere effetti significativi sull‘ambiente, sulla base dei criteri contenuti nel Regolamento di cui all‘articolo 181quater, comma 2, con riferimento all‘Allegato II della Direttiva 2011/42/CE e successive modifiche ed integrazioni.
+
+2\. I piani particolareggiati sono soggetti esclusivamente alla Valutazione di Impatto Ambientale (VIA) di cui al Titolo IX del presente decreto.
+
+#### CAPO II
+
+LINEE GUIDA PER LO STUDIO E LA VALUTAZIONE AMBIENTALE STRATEGICA E PROCEDIMENTO DI VAS
+
+###### Art. 181-quater
+
+(Finalità)
+
+1\. Il presente Capo persegue le seguenti finalità:
+
+a) offrire ai tecnici del settore indicazioni funzionali ad una pianificazione che tenga conto dei numerosi e diversificati aspetti da affrontare nella valutazione degli effetti che possono essere generati dai piani;
+
+###### Art. 181-decies
+
+(Acquisizione dei dati)
+
+1\. Ai fini della elaborazione della VAS, in ordine all‘acquisizione dei dati ed informazioni si applicano le disposizioni di cui all‘articolo 181 del presente decreto delegato.
+
+###### Art. 181-undecies
+
+(Disposizioni attuative)
+
+1\. Le disposizioni del presente Titolo hanno efficacia dalla data di entrata in vigore del Regolamento di cui all‘articolo 181-quater, comma 2.
+
+b) promuovere l‘integrazione di considerazioni ambientali nella fase di elaborazione, adozione e approvazione dei piani al fine di garantire un elevato livello di protezione ambientale favorendo lo sviluppo sostenibile;
+
+c) favorire una politica di precauzione, integrando l‘interesse ambientale con altri interessi di natura socio-economica.
+
+2\. Le linee guida per la redazione della VAS e le liste di controllo di cui il CTS si avvale nella fase di esame dei documenti che costituiscono la VAS sono contenute in un Regolamento adottato dal Congresso di Stato ai sensi dell‘articolo 2, comma 2, lettera
+
+h) della Legge Costituzionale 15 dicembre 2005 n.183, su proposta del CTS.
+
+###### Art. 181-quinquies
+
+(Definizioni)
+
+1\. Nel presente Titolo i termini sotto elencati assumono i seguenti significati:
+
+a) “piani”: atti e/o provvedimenti di pianificazione, nonché le loro modifiche, previsti dalle vigenti normative;
+
+b) “valutazione ambientale strategica”: elaborazione di un rapporto di impatto ambientale, lo svolgimento di consultazioni, la valutazione del rapporto ambientale e dei risultati delle consultazioni nell'iter decisionale e la messa a disposizione delle informazioni sulla decisione;
+
+c) “rapporto ambientale”: la parte di documentazione del piano contenente le informazioni di cui all‘articolo 181-sexies.
+
+###### Art. 181-sexies
+
+(Contenuto del rapporto ambientale)
+
+1\. Per i piani sottoposti a VAS è redatto, prima e ai fini dell‘approvazione, un rapporto ambientale, che costituisce parte integrante della documentazione del piano proposto e da approvare.
+
+2\. Nel rapporto ambientale, redatto dal proponente il piano, sono individuati, descritti e valutati gli effetti significativi che l'attuazione del piano potrebbe avere sull'ambiente nonché le ragionevoli alternative alla luce degli obiettivi e dell'ambito territoriale del piano.
+
+3\. Le informazioni da fornire a tale scopo sono contenute nel Regolamento di cui all‘articolo 181-quater, comma 2.
+
+###### Art. 181-septies
+
+(Il procedimento della VAS)
+
+1\. Il proponente il piano sottoposto a VAS deposita presso l‘UGRAA la proposta di piano unitamente al rapporto ambientale.
+
+2\. L‘UGRAA richiede i pareri agli organismi, commissioni, enti ed uffici che hanno competenza ai fini della valutazione degli effetti sull‘ambiente dovuti all‘applicazione del piano e pubblica in internet la documentazione depositata al fine della consultazione da parte dei soggetti interessati, che possono trasmettere osservazioni entro il termine di quarantacinque giorni dalla pubblicazione stessa. Entro lo stesso termine gli organismi, le commissioni, gli enti e gli uffici interpellati trasmettono all‘UGRAA il parere richiesto.
+
+3\. Completata l‘istruzione, l‘UGRAA sottopone la pratica al CTS che esamina la proposta di piano e il relativo rapporto ambientale unitamente ai predetti pareri ed osservazioni.
+
+4\. Il CTS, in esito alle valutazioni compiute, adotta le seguenti tipologie di deliberazioni:
+
+a) respinge il rapporto ambientale, interrompendo il procedimento della VAS;
+
+b) approva il rapporto ambientale;
+
+c) approva il rapporto ambientale dettando prescrizioni da recepirsi nel piano;
+
+d) sospende la valutazione del rapporto ambientale richiedendo, qualora il piano comporti significativi effetti sull‘ambiente, eventuali integrazioni e/o chiarimenti. In tali casi il CTS ha, altresì, facoltà di promuovere incontri pubblici per la presentazione del piano alla popolazione interessata.
+
+5\. Nell‘evenienza di cui al comma 4, lettera d), il proponente fornisce all‘UGRAA le integrazioni e/o chiarimenti entro trenta giorni dalla richiesta. Il riesame della proposta di piano e relativo rapporto ambientale, completo della documentazione richiesta, avviene entro sessanta giorni dalla sospensione. In tale fase, il CTS adotta le deliberazioni di cui alle lettere a), b), c) del comma precedente.
+
+6\. L‘UGRAA trasmette all‘organo competente all‘approvazione e/o adozione del piano il piano medesimo, il rapporto ambientale e tutta la documentazione acquisita nell‘ambito del procedimento.
+
+7\. Nell‘evenienza di cui al comma 4, lettera c), l‘UGRAA verifica il recepimento delle prescrizioni dettate dal CTS prima della trasmissione di cui al comma 6.
+
+8\. Le deliberazioni di cui al presente articolo sono pubblicate in internet unitamente al piano adottato, al rapporto ambientale e alle misure adottate in merito al monitoraggio ai sensi dell'articolo 181-octies.
+
+###### Art. 181-octies
+
+(Monitoraggio)
+
+1\. Il monitoraggio ha la finalità di assicurare il controllo sugli effetti significativi sull‘ambiente derivanti dall‘attuazione dei piani e verificare il raggiungimento degli obiettivi di sostenibilità prefissati, così da individuare tempestivamente gli effetti negativi imprevisti ed essere in grado di adottare le misure correttive ritenute opportune.
+
+2\. Le misure previste per il monitoraggio sono parte integrante del rapporto ambientale.
+
+###### Art. 181-novies
+
+(Disposizioni sulla presentazione ed istruzione delle pratiche)
+
+1\. Il rapporto ambientale è redatto da tecnici competenti in materia aventi la qualifica di geologo, architetto, ingegnere, dottore in scienze agrarie, dottore in scienze forestali, dottore in scienze ambientali e dottore in scienze biologiche.
+
+2\. L‘UGRAA, nel corso dell‘istruttoria della pratica avente ad oggetto il rapporto ambientale, ha facoltà di richiedere al proponente del procedimento integrazioni o precisazioni alla documentazione prodotta. Tali integrazioni o precisazioni sono trasmesse all‘UGRAA entro quarantacinque giorni dalla richiesta.
+
+3\. Il CTS, sulla base dell‘istruttoria dell‘UGRAA, provvede, entro sessanta giorni dalla presentazione del rapporto ambientale, completo della necessaria documentazione, alla notifica al proponente della deliberazione assunta.
+
+#### CAPO III
+
+DISPOSIZIONI FINALI
+
+###### Art. 181-decies
+
+(Acquisizione dei dati)
+
+1\. Ai fini della elaborazione della VAS, in ordine all‘acquisizione dei dati ed informazioni si applicano le disposizioni di cui all‘articolo 181 del presente decreto delegato.
+
+###### Art. 181-undecies
+
+(Disposizioni attuative)
+
+1\. Le disposizioni del presente Titolo hanno efficacia dalla data di entrata in vigore del Regolamento di cui all‘articolo 181-quater, comma 2.
+
+### TITOLO X
+
+NORME FINALI DEL CODICE
+
+#### CAPO I
+
+RILASCIO DELLE AUTORIZZAZIONI
+
+###### Art.182
+
+(Procedura per il rilascio delle autorizzazioni di cui ai Titoli II, III, IV, V, VI e VII)
+
+1.
+
+Chiunque intenda ottenere le autorizzazioni previste ai Titoli II, III, IV, V e VI del presente Codice è tenuto a presentare richiesta in carta legale indirizzata al CT o all‘UPA per quanto di competenza.
+
+2.
+
+Chiunque intenda ottenere l‘autorizzazione prevista al Titolo VII del presente Codice è tenuto a presentare richiesta in carta legale indirizzata al CT per le nuove sorgenti di campi elettrici, magnetici ed elettromagnetici o all‘UPA per la modifica delle sorgenti esistenti.
+
+3.
+
+La richiesta deve essere inoltrata al protocollo dell’UPA che rilascerà ricevuta della avvenuta presentazione.
+
+4.
+
+La richiesta dovrà essere corredata di tutta la documentazione prevista dai pertinenti Titoli del presente Codice; l’UPA cura l’istruttoria della pratica.
+
+5.
+
+Ove venga riscontrata la carenza di documentazione di atti prescritti essi devono tempestivamente essere richiesti all’interessato assegnando un tempo per la loro consegna non inferiore a dieci giorni. La richiesta di integrazione può essere effettuata una sola volta.
+
+6.
+
+Per effetto della richiesta di integrazione della pratica i termini di cui al comma 9 sono prolungati di un numero di giorni pari a quello assegnato al richiedente per la integrazione della pratica.
+
+7.
+
+E’ fatto assoluto divieto di aggravare il procedimento con la richiesta di pareri o documentazione non prescritti dalle norme dei pertinenti Titoli del presente Codice.
+
+8.
+
+Ove, decorso il termine prescritto o eventualmente prorogato con motivata o giustificata istanza del richiedente, i documenti non vengano presentati, il parere è formulato sulla base dei documenti esistenti.
+
+9.
+
+Entro trenta giorni dal ricevimento della richiesta l’UPA formula il parere motivato e lo trasmette, unitamente a tutta la documentazione acquisita, al CT o alla CTA che entro i successivi quarantacinque giorni notifica all’interessato le decisioni assunte.
+
+10.
+
+Nel caso di provvedimento negativo deve essere data ampia motivazione delle ragioni del diniego onde consentire, se possibile, la modificazione delle caratteristiche
+
+dello scarico o dell’emissione o in ogni caso il ricorso giurisdizionale. 91
+
+#### CAPO II
+
+VIGILANZA E CONTROLLI
+
+###### Art. 183
+
+(Vigilanza e controlli)
+
+1.
+
+Il presente articolo disciplina l’espletamento dell’attività di vigilanza e controllo volta a garantire il rispetto delle disposizioni di cui alle Parti II, III, IV, V, VI e VII del presente Codice.
+
+2.
+
+L’UPA ed il DP, per quanto di rispettiva competenza, si attivano di propria iniziativa ovvero su richiesta o su segnalazione d’ogni altro organo ed Ente pubblico, delle organizzazioni di categoria o di privati, avvalendosi, se necessario, delle Forze di Polizia, del Servizio Vigilanza Ecologica dell’UGRAA, e, qualora siano necessarie operazioni di recupero o smaltimento di rifiuti abbandonati, dell’AASS.
+
+3.
+
+Ai fini dell’espletamento della vigilanza e controllo, l’UPA ed il DP, per quanto di rispettiva competenza, promuovono indagini, svolgono accertamenti, formulano pareri, emanano prescrizioni e disposizioni immediatamente esecutive mediante ordinanza e denunciano all’autorità giudiziaria i comportamenti passibili di sanzione penale.
+
+4.
+
+Il personale incaricato dei controlli, nell’esercizio delle funzioni di vigilanza e di controllo, può, in particolare, accedere agli impianti e stabilimenti che costituiscono fonte di emissioni o che producono gli scarichi nonché richiedere dati, informazioni e i documenti necessari per l’espletamento delle proprie funzioni; tale personale è munito di documento di riconoscimento dell’ente di appartenenza.
+
+5.
+
+Qualora l’UPA ed il DP, per quanto di rispettiva competenza, non siano messi in Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art.182
+
+(Procedura per il rilascio delle autorizzazioni di cui ai Titoli II, III, IV, V, VI e VII)
+
+1.
+
+Chiunque intenda ottenere le autorizzazioni previste ai Titoli II, III, IV, V e VI del presente Codice è tenuto a presentare richiesta in carta legale indirizzata al CT.
+
+2.
+
+Chiunque intenda ottenere l’autorizzazione prevista al Titolo VII del presente Codice è tenuto a presentare richiesta in carta legale indirizzata alla CTA per le nuove sorgenti di campi elettrici, magnetici ed elettromagnetici o al CT per la modifica delle sorgenti esistenti.
+
+3.
+
+La richiesta deve essere inoltrata al protocollo dell’UPA che rilascerà ricevuta della avvenuta presentazione.
+
+4.
+
+La richiesta dovrà essere corredata di tutta la documentazione prevista dai pertinenti Titoli del presente Codice; l’UPA cura l’istruttoria della pratica.
+
+5.
+
+Ove venga riscontrata la carenza di documentazione di atti prescritti essi devono tempestivamente essere richiesti all’interessato assegnando un tempo per la loro consegna non inferiore a dieci giorni. La richiesta di integrazione può essere effettuata una sola volta.
+
+6.
+
+Per effetto della richiesta di integrazione della pratica i termini di cui al comma 9 sono prolungati di un numero di giorni pari a quello assegnato al richiedente per la integrazione della pratica.
+
+7.
+
+E’ fatto assoluto divieto di aggravare il procedimento con la richiesta di pareri o documentazione non prescritti dalle norme dei pertinenti Titoli del presente Codice.
+
+8.
+
+Ove, decorso il termine prescritto o eventualmente prorogato con motivata o giustificata istanza del richiedente, i documenti non vengano presentati, il parere è formulato sulla base dei documenti esistenti.
+
+9.
+
+Entro trenta giorni dal ricevimento della richiesta l’UPA formula il parere motivato e lo trasmette, unitamente a tutta la documentazione acquisita, al CT o alla CTA che entro i successivi quarantacinque giorni notifica all’interessato le decisioni assunte.
+
+10\. Nel caso di provvedimento negativo deve essere data ampia motivazione delle ragioni del diniego onde consentire, se possibile, la modificazione delle caratteristiche dello scarico o dell’emissione o in ogni caso il ricorso giurisdizionale.
+
+Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 68:
+
+I commi 1 e 2 dell‘articolo 182 del Decreto Delegato 27 aprile 2012 n. 44 sono sostituiti dai seguenti: ―1. Chiunque intenda ottenere le autorizzazioni previste ai Titoli II, III, IV, V e VI del presente Codice è tenuto a presentare richiesta in carta legale indirizzata al CT o all‘UPA per quanto di competenza.
+
+2\. Chiunque intenda ottenere l‘autorizzazione prevista al Titolo VII del presente Codice è tenuto a presentare richiesta in carta legale indirizzata al CT per le nuove sorgenti di campi elettrici, magnetici ed elettromagnetici o all‘UPA per la modifica delle sorgenti esistenti.
+
+condizione di effettuare le ispezioni necessarie, si applica al trasgressore la sanzione da € 500,00 a € 2.500,00.
+
+6.
+
+L’UPA ha, altresì, facoltà di richiedere all’autorità giudiziaria di adottare provvedimenti cautelari per interrompere od assicurare la prova di attività dannose e pericolose per l’ambiente naturale, compreso il sequestro di impianti, merci e documenti.
+
+7.
+
+Ai fini dell’attivazione del potere di controllo dell’UPA e del DP, gli agenti delle Forze di Polizia, gli operatori dell’AASS e le Guardie Ecologiche del Servizio Vigilanza Ecologica dell’UGRAA, hanno l’obbligo di segnalare tempestivamente all’UPA i fatti che costituiscono illeciti amministrativi e di trasmettere agli stessi uffici tutti gli elementi di prova; sono tenuti altresì a svolgere le indagini e gli accertamenti richiesti dall’UPA e dal DP nonché a prestare collaborazione alle indagini svolte.
+
+8.
+
+L’UPA ed il DP, per quanto di rispettiva competenza, accertano le violazioni ed applicano le sanzioni pecuniarie amministrative previste, mediante emissione dell’ingiunzione di pagamento, da notificare, a pena di decadenza, al trasgressore o, nei casi di cui al seguente periodo, all’intestatario della carta di circolazione, a mezzo del servizio postale entro sessanta giorni dall’accertamento. L’accertamento delle violazioni è, altresì, effettuato attraverso sistemi di videosorveglianza attivati e disciplinati in conformità alla Legge 23 maggio 1995 n.70 e relativi decreti delegati e regolamenti attuativi; qualora non sia possibile identificare il trasgressore, bensì unicamente individuare, mediante i suddetti sistemi di videosorveglianza, il veicolo dallo stesso condotto, la sanzione pecuniaria amministrativa è irrogata all’intestatario della carta di circolazione.
+
+9.
+
+Le sanzioni di cui agli articoli 39, commi 1 e 2 e 99 sono, altresì, accertate dagli agenti delle Forze di Polizia, dagli operatori dell’AASS e dalle Guardie Ecologiche del Servizio Vigilanza Ecologica dell’UGRAA nel caso in cui il trasgressore sia colto nella flagranza della commissione dell’illecito; in tali casi le infrazioni amministrative devono essere immediatamente contestate al trasgressore.92 Testo originario (Decreto Delegato n. 44/2012):
+
+###### Art. 183
+
+(Vigilanza e controlli)
+
+1.
+
+Il presente articolo disciplina l’espletamento dell’attività di vigilanza e controllo volta a garantire il rispetto delle disposizioni di cui alle Parti II, III, IV, V, VI e VII del presente Codice.
+
+2.
+
+L’UPA ed il DP, per quanto di rispettiva competenza, si attivano di propria iniziativa ovvero su richiesta o su segnalazione d’ogni altro organo ed Ente pubblico, delle organizzazioni di categoria o di privati, avvalendosi, se necessario, delle Forze di Polizia, del Servizio Vigilanza Ecologica dell’UGRAA, e, qualora siano necessarie operazioni di recupero o smaltimento di rifiuti abbandonati, dell’AASS.
+
+3.
+
+Ai fini dell’espletamento della vigilanza e controllo, l’UPA ed il DP, per quanto di rispettiva competenza, promuovono indagini, svolgono accertamenti, formulano pareri, emanano prescrizioni e disposizioni immediatamente esecutive mediante ordinanza e denunciano all’autorità giudiziaria i comportamenti passibili di sanzione penale.
+
+4.
+
+Il personale incaricato dei controlli, nell’esercizio delle funzioni di vigilanza e di controllo, può, in particolare, accedere agli impianti e stabilimenti che costituiscono fonte di emissioni o che producono gli scarichi nonché richiedere dati, informazioni e i documenti necessari per l’espletamento delle proprie funzioni; tale personale è munito di documento di riconoscimento dell’ente di appartenenza.
+
+5.
+
+Qualora l’UPA ed il DP, per quanto di rispettiva competenza, non siano messi in condizione di effettuare le ispezioni necessarie, si applica al trasgressore la sanzione da € 500,00 a € 2.500,00.
+
+6.
+
+L’UPA ha, altresì, facoltà di richiedere all’autorità giudiziaria di adottare provvedimenti cautelari per interrompere od assicurare la prova di attività dannose e pericolose per l’ambiente naturale, compreso il sequestro di impianti, merci e documenti.
+
+7.
+
+Ai fini dell’attivazione del potere di controllo dell’UPA e del DP, gli agenti delle Forze di Polizia, gli operatori dell’AASS e le Guardie Ecologiche del Servizio Vigilanza Ecologica dell’UGRAA, hanno l’obbligo di segnalare tempestivamente all’UPA i fatti che costituiscono illeciti amministrativi e di trasmettere agli stessi uffici tutti gli elementi di prova; sono tenuti altresì a svolgere le indagini e gli accertamenti richiesti dall’UPA e dal DP nonché a prestare collaborazione alle indagini svolte.
+
+8.
+
+L’UPA ed il DP, per quanto di rispettiva competenza, accertano le violazioni ed applicano le sanzioni pecuniarie amministrative previste mediante emissione dell’ingiunzione di pagamento, da notificare, a pena di decadenza, al trasgressore a mezzo del servizio postale o dell’ufficiale giudiziario entro sessanta giorni dall’accertamento.
+
+9.
+
+Le sanzioni di cui agli articoli 39, commi 1 e 2 e 99 sono, altresì, accertate dagli agenti delle Forze di Polizia, dagli operatori dell’AASS e dalle Guardie Ecologiche del Servizio Vigilanza Ecologica dell’UGRAA nel caso in cui il trasgressore sia colto nella flagranza della commissione dell’illecito; in tali casi le infrazioni amministrative devono essere immediatamente contestate al trasgressore.
+
+###### Art. 184
+
+(Ordinanze)
+
+1.
+
+Le ordinanze emanate ai sensi dell’articolo 183, comma 3 dall’UPA e dal DP, per quanto di rispettiva competenza, sono adeguatamente motivate e sono notificate al destinatario a mezzo raccomandata con avviso di ricevimento.
+
+2.
+
+In particolare, qualora sia richiesto da eccezionali ed urgenti necessità di tutela della salute pubblica o dell’ambiente, l’UPA può ordinare il ricorso temporaneo a speciali forme di contenimento o di abbattimento delle emissioni sonore, inclusa l’inibitoria parziale o totale di determinate attività; nel caso di servizi pubblici essenziali, tale facoltà è riservata esclusivamente alla CTA.
+
+3.
+
+Il destinatario dell’ordinanza dell’UPA o del DP ha facoltà di presentare, entro dieci giorni dal ricevimento della stessa, ricorso al CT per quanto riguarda le ordinanze emesse nell’attività di vigilanza e controllo espletata in relazione alle disposizioni di cui ai Titoli II, III, IV, V e VI ed alla CTA per quanto riguarda le ordinanze emesse in relazione alle disposizioni di cui al Titolo VII.
+
+4.
+
+Nell’esame dei ricorsi il Dirigente ed i funzionari del DP nonché il Dirigente ed i funzionari dell’UPA, per quanto di rispettiva competenza, possono essere sentiti personalmente ma non possono partecipare o assistere alla discussione e alle deliberazioni.
+
+5.
+
+La presentazione del ricorso non sospende l’esecuzione dell’ordinanza salvo contrario provvedimento dell’organo adito, per particolari e straordinari motivi.
+
+6.
+
+Il CT o la CTA, sentite le parti e svolti gli accertamenti del caso, decidono entro trenta giorni dalla presentazione del ricorso, confermando o annullando l’ordinanza ovvero modificandola.
+
+7.
+
+Contro le ordinanze del DP e dell’UPA e contro le decisioni del CT e della CTA é ammesso ricorso al Giudice Amministrativo ai sensi della Legge 28 giugno 1989 n.68.
+
+8.
+
+Fatta salva l’eventuale concorrente applicazione di sanzioni penali, chiunque non ottemperi alle ordinanze dell’UPA, del DP e degli Organi della Protezione Civile è punito con la sanzione pecuniaria amministrativa da € 2.000,00 ad € 15.000,00.
+
+#### CAPO III
+
+NORME IN MATERIA PENALE
+
+###### Art. 185
+
+(Reati previsti dal Codice Penale. Rinvio)
+
+1.
+
+Le norme penali a tutela dell’ambiente, delle risorse idriche e della qualità dell’aria sono contenute nel Capitolo I del Titolo III del Codice Penale, “Reati contro l’incolumità, la salute pubblica e l’ambiente naturale”.
+
+2.
+
+Il deterioramento dell’ambiente naturale ed il deterioramento colposo dell’ambiente naturale sono puniti a mente rispettivamente dell’articolo 246 e dell’articolo 249 del Codice Penale.
+
+Modifiche legislative.
+
+Decreto Delegato 10 giugno 2014 n.88, Art. 10:
+
+1\. Il comma 8 dell’articolo 183 del Decreto Delegato 27 aprile 2012 n. 44 è così sostituito:
+
+“8. L’UPA ed il DP, per quanto di rispettiva competenza, accertano le violazioni ed applicano le sanzioni pecuniarie amministrative previste, mediante emissione dell’ingiunzione di pagamento, da notificare, a pena di decadenza, al trasgressore o, nei casi di cui al seguente periodo, all’intestatario della carta di circolazione, a mezzo del servizio postale entro sessanta giorni dall’accertamento. L’accertamento delle violazioni è, altresì, effettuato attraverso sistemi di videosorveglianza attivati e disciplinati in conformità alla Legge 23 maggio 1995 n.70 e relativi decreti delegati e regolamenti attuativi; qualora non sia possibile identificare il trasgressore, bensì unicamente individuare, mediante i suddetti sistemi di videosorveglianza, il veicolo dallo stesso condotto, la sanzione pecuniaria amministrativa è irrogata all’intestatario della carta di circolazione.”.
+
+3.
+
+L’attentato colposo alla salute pubblica mediante deterioramento dell’ambiente naturale è punito a mente dell’articolo 248 del Codice Penale.
+
+4.
+
+Lo scarico abusivo punito ai sensi dell’articolo 258 del Codice Penale costituisce violazione amministrativa di competenza del Commissario della Legge: l’ammontare della sanzione è contenuta nell’Allegato A del decreto annuale previsto dall’articolo 32, secondo comma, della Legge 28 giugno 1989 n.68.
+
+5.
+
+Le false dichiarazioni rese da privati alla CTA, al CT, all’UPA ed al DP in atti e comunicazioni previsti dal presente Codice realizzano il misfatto punito dall’articolo 297 del Codice Penale.
+
+###### Art. 186
+
+(Norme procedurali)
+
+1.
+
+In relazioni alle violazioni delle norme penali in materia di tutela ambientale, ricevuta la denuncia e svolti tutti gli opportuni accertamenti il giudice ordina la cessazione delle attività svolte abusivamente e con decreto immediatamente esecutivo adotta i provvedimenti cautelari del caso, compreso il sequestro, anche a scopo probatorio, di impianti, merci e documenti.
+
+2.
+
+Il decreto indica in maniera specifica gli elementi di prova sui quali si basa e l’oggetto della tutela e può essere revocato dallo stesso giudice ovvero modificato anche più volte secondo le necessità contingenti.
+
+3.
+
+Quando sono pregiudiziali all’accertamento del reato indagini tecniche o scientifiche, la prescrizione del reato rimane sospesa per tutto il periodo necessario a definire tali indagini ma il periodo di sospensione non può superare i dodici mesi.
+
+4.
+
+A garanzia dell’esecuzione delle obbligazioni pecuniarie per inosservanza della presente legge il giudice può ordinare d’ufficio l’iscrizione anticipata o il sequestro previsti dall’articolo 145 del Codice Penale.
+
+5.
+
+Con la sentenza di condanna per i reati previsti dal presente Codice e dalle norme penali vigenti, il beneficio della sospensione condizionale della pena può essere subordinato al risarcimento del danno e all’esecuzione degli interventi di messa in sicurezza, bonifica e ripristino.
+
+###### Art. 187
+
+(Commisurazione della pena)
+
+1.
+
+Qualora gli illeciti penali risultino particolarmente lievi e le prescrizioni eventualmente dettate dall’UPA o dal DP o dagli organi della Protezione Civile, per quanto di rispettiva competenza, con propria ordinanza siano esattamente eseguite prima della formale contestazione del reato da parte dell’autorità giudiziaria, in luogo della pena detentiva può applicarsi quella della multa di cui all’articolo 84 del Codice Penale ovvero quella della multa a giorni di secondo o terzo grado prevista dall’articolo 85 dello stesso Codice.
+
+2.
+
+Nella quantificazione della pena il giudice applica i criteri stabiliti dal Codice Penale e tiene conto in particolare della gravità del reato desunta dalla qualità e quantità delle sostanze inquinanti trattate ed eventualmente immesse nell’ambiente naturale ovvero dalla rilevante entità o particolare tenuità del danno o pericolo di danno all’ambiente stesso.
+
+3.
+
+In caso di recidiva nelle violazioni costituenti reato ai sensi del presente Codice, si aggiunge la sanzione accessoria della sospensione da tre a novanta giorni della attività d’impresa nell’esercizio della quale il reato sia stato commesso. E’ recidivo chi, nei cinque anni precedenti l’ultima violazione, risulta aver commesso per due volte il medesimo reato contro l’ambiente naturale.
+
+###### Art. 188
+
+(Persone giuridiche)
+
+1.
+
+Quando si procede contro i rappresentanti legali, amministratori, gestori o dirigenti di persona giuridica per i reati di cui al presente Codice, la persona giuridica assume veste di responsabile civile per l’esecuzione delle sanzioni pecuniarie e per l’esecuzione delle obbligazioni di rimessione in pristino e bonifica nonché per l’esecuzione delle azioni di prevenzione e riparazione del danno ambientale previste dal presente Codice.
+
+2.
+
+La persona giuridica assume, altresì, veste di responsabile civile per l’adempimento dell’obbligazione di cui all’ultimo comma dell’articolo 246 ed all’ultimo comma dell’articolo 249 del Codice Penale nonché delle altre obbligazioni conseguenti alla condanna.
+
+3.
+
+La responsabilità è solidale e senza beneficio di preventiva escussione.
+
+4.
+
+Agli effetti della recidiva si tiene conto delle infrazioni accertate nell’ambito dell’attività imprenditoriale a carico di quanti, nel periodo considerato, hanno ricoperto incarichi di rappresentanti legali, amministratori, gestori o dirigenti e la sanzione accessoria della sospensione dell’attività dell’azienda è posta direttamente a carico della persona giuridica.
+
+5.
+
+Le norme di cui ai superiori commi 1, 3 e 4 si applicano anche in relazione ad illeciti amministrativi.
+
+#### CAPO IV
+
+NORME FINALI
+
+###### Art. 189
+
+(Attuazione ed aggiornamento della normativa)
+
+1.
+
+L’emanazione di norme di attuazione è demandata a specifici regolamenti in materia ambientale, che debbono garantire l’aggiornamento tempestivo e costante della normativa tecnica ai progressi scientifici e tecnologici.
+
+2.
+
+I regolamenti di cui al comma 1 sono adottati dal Congresso di Stato ai sensi dell’articolo 2, comma 2, lettera h) della Legge Costituzionale 15 dicembre 2005, n.183 su proposta dalla CTA.
+
+3.
+
+Ai fini dell’attuazione dei principi e degli obiettivi stabiliti dalle disposizioni del presente Codice, il Congresso di Stato può avvalersi del supporto tecnico del CT, senza nuovi o maggiori oneri né compensi o indennizzi per i componenti dello stesso.
+
+4.
+
+La CTA ed il CT hanno, inoltre, facoltà di adottare delibere e circolari interpretative ed applicative delle disposizioni del presente Codice e dei regolamenti di cui al comma 1.
+
+5.
+
+Le sanzioni di cui al presente Codice sono aggiornate mediante decreto delegato. 5-bis. Sono nulli patti e accordi stipulati dalla Pubblica Amministrazione o da Enti Pubblici in contrasto con il presente decreto delegato. 93 Testo originario (Decreto delegato n. 44/2012):
+
+###### Art. 189
+
+(Attuazione ed aggiornamento della normativa) 93
+
+1.
+
+L’emanazione di norme di attuazione è demandata a specifici regolamenti in materia ambientale, che debbono garantire l’aggiornamento tempestivo e costante della normativa tecnica ai progressi scientifici e tecnologici.
+
+2.
+
+I regolamenti di cui al comma 1 sono adottati dal Congresso di Stato ai sensi dell’articolo 2, comma 2, lettera
+
+###### Art. 190
+
+(Abrogazioni)
+
+1\. Sono abrogate le norme in contrasto con il presente Codice. In particolare, sono abrogati:
+
+a) il Capo III della Legge 19 Luglio 1995, n. 87;
+
+b) il Decreto 26 settembre 1995 n.108 ad eccezione dell’articolo 8 e degli Allegati 2 e 3 che cessano di avere efficacia alla data di entrata in vigore del Regolamento del Gestore del servizio idrico integrato dell’AASS di cui all’articolo 5, comma 5, lettera b) nonché degli articoli 18, 19 e 21 e degli Allegati 10 e 11 che cessano di avere efficacia alla data di entrata in vigore del Regolamento della CTA di cui all’articolo 76, comma 2;
+
+c) il “Regolamento per la disciplina dei servizi di smaltimento dei rifiuti” approvato dalla CTA in data 26 luglio 1999;
+
+d) il Decreto Delegato 4 marzo 2009 n.23;
+
+e) il Decreto Delegato 25 luglio 2011 n.113;
+
+f) la Legge 28 giugno 2005 n.94;
+
+g) il Decreto 20 febbraio 2006 n.38;
+
+h) il Decreto 27 aprile 1993 n.66;
+
+i) il Decreto 27 aprile 1993 n.67;
+
+l) il Decreto 25 febbraio 2004 n.25 ai sensi di quanto previsto dall’articolo 100, comma 6;
+
+m) la Legge 30 ottobre 2003 n. 147;
+
+n) il Decreto Delegato 10 ottobre 2011 n.165;
+
+o) il Decreto Delegato 10 ottobre 2011 n.166;
+
+p) l’articolo 10 del Decreto 3 aprile 1996 n.38;
+
+q) il Decreto Delegato 10 ottobre 2011 n.164;
+
+h) della Legge Costituzionale 15 dicembre 2005, n.183 su proposta dalla CTA.
+
+3.
+
+Ai fini dell’attuazione dei principi e degli obiettivi stabiliti dalle disposizioni del presente Codice, il Congresso di Stato può avvalersi del supporto tecnico del CT, senza nuovi o maggiori oneri né compensi o indennizzi per i componenti dello stesso.
+
+4.
+
+La CTA ed il CT hanno, inoltre, facoltà di adottare delibere e circolari interpretative ed applicative delle disposizioni del presente Codice e dei regolamenti di cui al comma 1.
+
+5.
+
+Le sanzioni di cui al presente Codice sono aggiornate mediante decreto delegato.
+
+Modifiche legislative.
+
+Legge 22 dicembre 2015 n. 189, Art.80:
+
+(Codice Ambientale)
+
+1\. Il comma 7 dell’articolo 99 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è così modificato:
+
+“7. In caso di mancata o irregolare installazione del pozzetto di ispezione e campionamento, di sua inaccessibilità agli organi preposti al campionamento e/o di condizioni di insufficiente manutenzione e in tutti i casi di violazione dell’articolo 70, comma 2, nonché nelle ipotesi di irregolare installazione del misuratore di portata di cui all’articolo 97, commi 2 e 3, per ogni violazione accertata si applica la sanzione da euro 500,00 a euro 3.000,00.”.
+
+2\. All’articolo 99 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è aggiunto il seguente comma 7-bis:
+
+“7-bis. In caso di mancata installazione del misuratore di portata di cui all’articolo 97, commi 2 e 3, si applica la sanzione di euro 3.000,00. Trascorsi sessanta giorni dalla data di applicazione della prima sanzione, qualora il misuratore di portata non sia stato installato, si applica la sanzione di euro 6.000,00. Trascorsi centoventi giorni dalla data di applicazione della seconda sanzione, qualora il misuratore di portata non sia stato installato, si applica la sanzione di euro 30.000,00 ed è disposta la sospensione dello scarico nella rete fognaria.”.
+
+3\. Al comma 1 dell’articolo 98 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è aggiunta la seguente lettera e-bis):
+
+“e-bis) nella rete fognaria, quando sia stata disposta la sospensione di cui all’articolo 99, comma 7-bis.”.
+
+4\. All’articolo 189 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è aggiunto il seguente comma 5-bis:
+
+“5-bis. Sono nulli patti e accordi stipulati dalla Pubblica Amministrazione o da Enti Pubblici in contrasto con il presente decreto delegato.”.
+
+5\. È dato mandato al Congresso di Stato di emanare, entro centottanta giorni dalla data di entrata in vigore della presente legge, decreto delegato che modifichi ed aggiorni il Codice Ambientale di cui al Decreto Delegato 27 aprile 2012 n.44.
+
+r) la Legge 30 ottobre 2003 n.142;
+
+s) il Decreto 21 novembre 2005 n.166;
+
+t) il Decreto Delegato 10 ottobre 2011 n.167;
+
+u) l’articolo 43, commi terzo e quinto e l’articolo 45, commi secondo e terzo della Legge 16 novembre 1995 n.126;
+
+v) il Decreto Delegato 10 ottobre 2008 n.130;
+
+z) gli articoli 11 e 12 della Legge 30 ottobre 2007 n.107.
+
+ALLEGATO A Operazioni di smaltimento N.B. il presente allegato intende elencare le operazioni di smaltimento come avvengono nella pratica. I rifiuti devono essere smaltiti senza pericolo per la salute dell’uomo e senza usare procedimenti o metodi che possano recare pregiudizio all’ambiente OPERAZIONI DI SMALTIMENTO D 1 Deposito sul o nel suolo (ad es. discarica, ecc.)
+
+D 2 Trattamento in ambiente terrestre (ad es. biodegradazione di rifiuti liquidi o fanghi nei suoli, ecc.)
+
+D 3 Iniezioni in profondità (ad es. iniezione dei rifiuti pompabili in pozzi, in cupole saline o in faglie geologiche naturali, ecc.)
+
+D 4 Lagunaggio (ad es. scarico di rifiuti liquidi o di fanghi in pozzi, stagni o lagune, ecc.)
+
+D 5 Messa in discarica specialmente allestita (ad es. sistemazione in alveoli stagni separati, ricoperti e isolati gli uni dagli altri e dall’ambiente, ecc.)
+
+D 6 Scarico dei rifiuti solidi nell’ambiente idrico eccetto l’immersione D 7 Immersione, compreso il seppellimento nel sottosuolo marino D 8 Trattamento biologico non specificato altrove nel presente allegato, che dia origine a composti o a miscugli che vengono eliminati secondo uno dei procedimenti indicati da D 1 a D 12 D 9 Trattamento fisico-chimico non specificato altrove nel presente allegato, che dia origine a composti o a miscugli che vengono eliminati secondo uno dei procedimenti indicati da D 1 a D 12 (ad es. evaporazione, essiccazione, calcinazione, ecc.)
+
+D 10 Incenerimento a terra D 11 Incenerimento in mare (*)
+
+D 12 Deposito permanente (ad es. sistemazione di contenitori in una miniera)
+
+D 13 Raggruppamento preliminare prima di una delle operazioni indicate da D 1 a D 12 (**)
+
+D 14 Ricondizionamento preliminare prima di una delle operazioni indicate da D 1 a D
+
+D 15 Deposito preliminare prima di una delle operazioni di cui ai punti da D 1 a D 14 (escluso il deposito temporaneo, prima della raccolta, nel luogo in cui i rifiuti sono prodotti)
+
+(*) Questa operazione è vietata dalla normativa UE e dalle convenzioni internazionali.
+
+(**) In mancanza di un altro codice D appropriato, può comprendere le operazioni preliminari precedenti allo smaltimento, incluso il pretrattamento come, tra l'altro, la cernita, la frammentazione, la compattazione, la pellettizzazione, l'essiccazione, la triturazione, il condizionamento o la separazione prima di una delle operazioni indicate da D 1 a D 12.
+
+ALLEGATO B Operazioni di recupero N.B. Il presente allegato intende elencare le operazioni di recupero come avvengono nella pratica.
+
+I rifiuti devono essere recuperati senza pericolo per la salute dell’uomo e senza usare procedimenti o metodi che possano recare pregiudizio all’ambiente OPERAZIONI DI RECUPERO R 1 Utilizzazione principalmente come combustibile o come altro mezzo per produrre energia (*)
+
+R 2 Recupero/rigenerazione dei solventi R 3 Riciclaggio/recupero delle sostanze organiche non utilizzate come solventi (comprese le operazioni di compostaggio e altre trasformazioni biologiche) (**)
+
+R 4 Riciclaggio/recupero dei metalli e dei composti metallici R 5 Riciclaggio/recupero di altre sostanze inorganiche (***)
+
+R 6 Rigenerazione degli acidi o delle basi R 7 Recupero dei prodotti che servono a ridurre l'inquinamento R 8 Recupero dei prodotti provenienti da catalizzatori R 9 Rigenerazione o altri reimpieghi degli oli R 10 Trattamento in ambiente terrestre a beneficio dell’agricoltura o dell’ecologia R 11 Utilizzazione di rifiuti ottenuti da una delle operazioni indicate da R 1 a R 10 R 12 Scambio di rifiuti per sottoporli a una delle operazioni indicate da R 1 a R 11 (****)
+
+R 13 Messa in riserva di rifiuti in attesa di una delle operazioni indicate da R 1 a R 12 (escluso il deposito temporaneo, prima della raccolta, nel luogo in cui i rifiuti sono prodotti)
+
+(*) Gli impianti di incenerimento dei rifiuti solidi urbani sono compresi solo se la loro efficienza energetica è uguale o superiore a:  0,60 per gli impianti funzionanti e autorizzati in conformità della normativa comunitaria applicabile anteriormente al 1° gennaio 2009,  0,65 per gli impianti autorizzati dopo il 31 dicembre 2008, calcolata con la seguente formula:
+
+Efficienza energetica = (Ep – (Ef + Ei))/(0,97 × (Ew + Ef)) dove:
+
+Ep = energia annua prodotta sotto forma di energia termica o elettrica. È calcolata moltiplicando l’energia sotto forma di elettricità per 2,6 e l’energia termica prodotta per uso commerciale per 1,1 (GJ/anno)
+
+Ef = alimentazione annua di energia nel sistema con combustibili che contribuiscono alla produzione di vapore (GJ/anno) Ew = energia annua contenuta nei rifiuti trattati calcolata in base al potere calorifico netto dei rifiuti (GJ/anno) Ei = energia annua importata, escluse Ew ed Ef (GJ/anno) 0,97 = fattore corrispondente alle perdite di energia dovute alle ceneri pesanti (scorie) e alle radiazioni.
+
+La formula si applica conformemente al documento di riferimento sulle migliori tecniche disponibili per l’incenerimento dei rifiuti.
+
+(**) Sono comprese la gassificazione e la pirolisi che utilizzano i componenti come sostanze chimiche.
+
+(***) È compresa la pulizia del suolo risultante in un recupero del suolo e il riciclaggio dei materiali da costruzione inorganici.
+
+(****) In mancanza di un altro codice R appropriato, può comprendere le operazioni preliminari precedenti al recupero, incluso il pretrattamento come, tra l'altro, la cernita, la frammentazione, la compattazione, la pellettizzazione, l'essiccazione, la triturazione, il condizionamento, il ricondizionamento, la separazione, il raggruppamento prima di una delle operazioni indicate da R 1 a R 11.
+
+ALLEGATO C FORMULARIO DI IDENTIFICAZIONE RIFIUTO Serie e Numero: ...... del ... /... /...
+
+Numero registro: ........... ________________________________________________________________________
+
+(1) Produttore/Detentore: ......................................................................................... .............................................................................................................................. unità locale: ............................................................................................................ ..............................................................................................................................
+
+Codice Operatore Economico/Codice Fiscale: ............................. N°.Aut/Albo: ................... del ............. .../../................
+
+(2) Destinatario: ...................................................................................................... ..............................................................................................................................
+
+Luogo di destinazione: .............................................................................................. ..............................................................................................................................
+
+COE:/CF............................. N.Aut/Albo: ................... del ............. .../../................
+
+(3) Trasportatore del rifiuto: ..................................................................................... ..............................................................................................................................
+
+COE:/CF: ............................. N.Aut/Albo: .................... del ............ .../../................
+
+Trasporto di rifiuti non pericolosi prodotti nel proprio stabilimento (.....) di .................... .............................................................................................................................. ________________________________________________________________________ _______ Annotazioni: ............................................................................................................ .............................................................................................................................. ________________________________________________________________________ _______
+
+(4) Caratteristiche del rifiuto: Descrizione: .................................................................
+
+Codice Europeo: ....../...................................................................
+
+Stato fisico: ............................................................. (a) (b) (c) (d)
+
+Caratteristiche di pericolo: .............................................................
+
+N. Colli/contenitori: .......................................................................
+
+(5) Rifiuto destinato a: ..........................................................
+
+(recupero/smaltimento)
+
+Caratteristiche chimico-fisiche: ..................................................................................
+
+(6) Quantità:
+
+(-) Kg. o litri (P.Lordo: ..... Tara: .....)
+
+(-) Peso da verificarsi a destino.
+
+(7) Percorso (se diverso dal più breve): ......................................................................
+
+(8) Trasporto sottoposto a normativa ADR/RID:
+
+(SI)
+
+(NO) ________________________________________________________________________
+
+(9) Firme:
+
+FIRMA DEL PRODUTTORE/DETENTORE * ............................................* FIRMA DEL TRASPORTATORE: * ........................................................* detentore che effettua la spedizione dei rifiuti:
+
+(10) Cognome e Nome conducente Targa automezzo: ...................... .............................................................
+
+Targa rimorchio: ............................
+
+Data/ora inizio trasporto: ........................ del ........./........../.................. ________________________________________________________________________
+
+(11) - Riservato al destinatario Si dichiara che il carico è stato: (-) accettato per intero (-) accettato per seguente le seguenti quantità (Kg o litri): ..............
+
+(-) respinto per motivazioni: ............................................................ .............................................................................................................................. .............................
+
+Data ...................
+
+FIRMA DEL DESTINATARIO: *...............................................* CARATTERISTICHE DEL RIFIUTO:
+
+A) Stato fisico a. Solido pulverulento b. Solido non pulverulento c. Fangoso palabile d. Liquido B) Eventuali classi di pericolosità HP 1 Esplosivo HP 2 Comburente HP 3 Infiammabile HP 4 Irritante — Irritazione cutanea e lesioni oculari HP 5 Tossicità specifica per organi bersaglio (STOT)/Tossicità in caso di aspirazione HP 6 Tossicità acuta HP 7 Cancerogeno HP 8 Corrosivo HP 9 Infettivo HP 10 Tossico per la riproduzione HP 11 Mutageno HP 12 Liberazione di gas a tossicità acuta HP 13 Sensibilizzante HP 14 Ecotossico HP 15 Rifiuto che non possiede direttamente una delle caratteristiche di pericolo summenzionate ma può manifestarla successivamente. 94 Testo originario (Decreto Delegato n. 44/2012), allegato C, “Caratteristiche del rifiuto”:
+
+B) Eventuali classi di pericolosità H1 esplosivo H2 comburente H3-A facilmente infiammabile (incluso estremamente infiammabile)
+
+H3-B infiammabile H4 irritante H5 nocivo
+
+ALLEGATO D Frontespizio del registro di carico e scarico
+
+1\. DITTA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Residenza o domicilio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . via n.
+
+Codice Operatore Economico/Codice fiscale. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .................
+
+Ubicazione dell'esercizio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . località via n.
+
+2\. Attività svolta Produzione ¨ Recupero ¨ cod. ......
+
+Smaltimento ¨ cod. ........
+
+Trasporto ¨ Intermediazione e commercio con detenzione ¨
+
+3\. TIPO DI ATTIVITA' ...................................................................................................... ..............................................................................................................................
+
+4\. REGISTRAZIONE n. del e n. del
+
+5\. CARATTERISTICHE DEL RIFIUTO:
+
+A) Stato fisico
+
+1\. Solido pulverulento
+
+2\. Solido non pulverulento
+
+3\. Fangoso palabile
+
+4\. Liquido B) Eventuali classi di pericolosità HP 1 Esplosivo HP 2 Comburente HP 3 Infiammabile HP 4 Irritante — Irritazione cutanea e lesioni oculari HP 5 Tossicità specifica per organi bersaglio (STOT)/Tossicità in caso di aspirazione H6 tossico (incluso molto tossico)
+
+H7 cancerogeno H8 corrosivo H9 infetto H10 teratogeno H11 mutageno H12 a contatto con l'acqua libera gas tossici o molto tossici H13 sorgente di sostanze pericolose H14 ecotossico Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 71:
+
+All‘Allegato C, ―CARATTERISTICHE DEL RIFIUTO, l‘elenco di cui alla lettera B) è sostituito dal seguente: ―B) Eventuali classi di pericolosità:
+
+HP 1 Esplosivo HP 2 Comburente HP 3 Infiammabile HP 4 Irritante — Irritazione cutanea e lesioni oculari HP 5 Tossicità specifica per organi bersaglio (STOT)/Tossicità in caso di aspirazione HP 6 Tossicità acuta HP 7 Cancerogeno HP 8 Corrosivo HP 9 Infettivo HP 10 Tossico per la riproduzione HP 11 Mutageno HP 12 Liberazione di gas a tossicità acuta HP 13 Sensibilizzante HP 14 Ecotossico HP 15 Rifiuto che non possiede direttamente una delle caratteristiche di pericolo summenzionate ma può manifestarla successivamente.
+
+HP 6 Tossicità acuta HP 7 Cancerogeno HP 8 Corrosivo HP 9 Infettivo HP 10 Tossico per la riproduzione HP 11 Mutageno HP 12 Liberazione di gas a tossicità acuta HP 13 Sensibilizzante HP 14 Ecotossico HP 15 Rifiuto che non possiede direttamente una delle caratteristiche di pericolo summenzionate ma può manifestarla successivamente. 95 Scarico ¨ Carico ¨ del ............. n. ...............
+
+Caratteristiche del rifiuto: a) CER ............................... b) Descrizione .................... ........................................... ...........................................
+
+Quantità: Kg ................. Litri .................
+
+Luogo di produzione e attività di provenienza del rifiuto: .................................................. .................................................. .................................................
+
+Annotazioni:
+
+Formulario n. ................ del ............... Rif.
+
+Testo originario (Decreto Delegato n. 44/2012), allegato C, “Caratteristiche del rifiuto”:
+
+5\. CARATTERISTICHE DEL RIFIUTO:
+
+A) Stato fisico Solido pulverulento Solido non pulverulento Fangoso palabile Liquido B) Eventuali classi di pericolosità H1 esplosivo H2 comburente H3-A facilmente infiammabile (incluso estremamente infiammabile)
+
+H3-B infiammabile H4 irritante H5 nocivo H6 tossico (incluso molto tossico)
+
+H7 cancerogeno H8 corrosivo H9 infetto H10 teratogeno H11 mutageno H12 a contatto con l'acqua libera gas tossici o molto tossici H13 sorgente di sostanze pericolose H14 ecotossico Modifiche legislative.
+
+Decreto Delegato 31 gennaio 2017 n.16, Art. 72:
+
+All‘Allegato D, punto 5. ―CARATTERISTICHE DEL RIFIUTO, l‘elenco di cui alla lettera B) è sostituito dal seguente: ―B) Eventuali classi di pericolosità:
+
+HP 1 Esplosivo HP 2 Comburente HP 3 Infiammabile HP 4 Irritante — Irritazione cutanea e lesioni oculari HP 5 Tossicità specifica per organi bersaglio (STOT)/Tossicità in caso di aspirazione HP 6 Tossicità acuta HP 7 Cancerogeno HP 8 Corrosivo HP 9 Infettivo HP 10 Tossico per la riproduzione HP 11 Mutageno HP 12 Liberazione di gas a tossicità acuta HP 13 Sensibilizzante HP 14 Ecotossico HP 15 Rifiuto che non possiede direttamente una delle caratteristiche di pericolo summenzionate ma può manifestarla successivamente.
+
+operazioni di carico n. .................... ........................
+
+c) Stato fisico
+
+d) Classi di pericolosità ...................................................................................................
+
+e) Rifiuto destinato a( ) smaltimento cod. ......( ) recupero cod. ....... Metri cubi ....... ----------------------------------------Intermediario/Commerciante Denominazione .......................... ................................................... Sede .......................................... ................................................... COE/CF.: ...........................................
+
+ALLEGATO E Fidejussione assicurativa a garanzia degli obblighi derivanti dalla spedizione transfrontaliera dei rifiuti, come da D.D. n. 44/2012 – Reg. (CE) n. 1013/06.
+
+Premesso
+
+1\. Che l’impresa ditta ............... (COE) domiciliata in..........................
+
+(denominata in seguito ditta stipulante) intende effettuare una spedizione di rifiuti ai sensi del Decreto Delegato n. del .
+
+2\. Che la spedizione è subordinata alla prestazione di idonea garanzia nell’interesse della ditta stipulante ed a favore dell’Ecc.ma Camera della Repubblica di San Marino, a copertura di ogni e qualsiasi spesa sostenuta dalla Pubblica Amministrazione per il trasporto dei rifiuti, il loro recupero o smaltimento, il loro deposito e per i costi diretti ed indiretti per la bonifica dei siti inquinati connessi alle predette operazioni, Ciò premesso
+
+###### Articolo 1
+
+(Oggetto)
+
+1\. La società .................... (in seguito denominata società), domiciliata in .................... con la presente polizza, alle condizioni che seguono, si costituisce fideiussore, nell’interesse della ditta stipulante e dei suoi obbligati in solido ai sensi di legge - la quale accetta per sé e per i suoi successori ed aventi causa, dichiarandosi con questi solidalmente tenuta per le obbligazioni derivanti dal presente contratto - ed a favore dell’Ecc.ma Camera della Repubblica di San Marino, fino alla concorrenza dell’importo di €............... a garanzia delle eventuali obbligazioni derivanti, dalle spedizioni di rifiuti effettuate dalla ditta stipulante medesima.
+
+2.
+
+La garanzia di cui al comma 1 copre ogni e qualsiasi spesa sostenuta dalla Pubblica Amministrazione per l’assolvimento degli oneri di cui all’articolo 6, paragrafi 1 e 2 del Regolamento (CE) n.1013/2006 e, in particolare, per il trasporto, il recupero e lo smaltimento, il deposito dei rifiuti e per i costi diretti ed indiretti di bonifica dei siti inquinati connessi alle predette operazioni, dovuti in conseguenza di un non corretto espletamento della/e spedizione/i dalla Repubblica di San Marino a ................. di cui alla Notifica ………, riferiti ai documenti di movimento ………. per un totale di ............. tonnellate di rifiuti, classificati come CER………..
+
+Condizioni generali di fidejussione.
+
+Condizioni che regolano il rapporto tra la società e l’Eccellentissima Camera della Repubblica di San Marino
+
+###### Articolo 1
+
+(Limitazione della garanzia)
+
+1.
+
+La Società garantisce all’Ecc.ma Camera della Repubblica di San Marino, fino alla concorrenza dell’importo massimo complessivo indicato in premessa, le somme che l’impresa e suoi obbligati solidali ai sensi di legge siano tenuti a corrispondere alla stessa Ecc.ma Camera per la copertura delle eventuali spese sostenute dalla Pubblica Amministrazione in relazione agli oneri di cui all’articolo 6, paragrafi 1 e 2 del Regolamento (CE) n.1013/2006 e, in particolare, per il trasporto dei rifiuti, il loro recupero o smaltimento, il loro deposito e per la bonifica dei siti inquinati connessi alle operazioni di cui in premessa.
+
+2.
+
+Nel caso in cui la fideiussione riguardi più trasporti la garanzia è comunque prestata fino alla concorrenza dell’importo massimo complessivo indicato in premessa in relazione a ciascun trasporto.
+
+###### Articolo 2
+
+Durata della garanzia
+
+1.
+
+La presente garanzia è prestata fino al ricevimento da parte della dell’Ecc.ma Camera della Repubblica di San Marino dei certificati di avvenuto corretto smaltimento o recupero, relativi alle spedizioni garantite.
+
+2.
+
+Qualora la fideiussione sia prestata per più trasporti il termine di cui al comma 1 è riferito al ricevimento da parte dell’Ecc.ma Camera della Repubblica di San Marino del certificato di avvenuto corretto smaltimento o recupero relativo all’ultimo trasporto dei rifiuti garantito.
+
+###### Articolo 3
+
+Pagamento del premio ed altri oneri
+
+1\. L’eventuale mancato pagamento del premio iniziale e dei supplementi del premio non potrà in nessun caso essere opposto all’Ente garantito.
+
+2\. Imposte, spese ed altri eventuali oneri relativi e conseguenti alla presente garanzia non potranno essere posti a carico dell’Ente garantito.
+
+###### Articolo 4
+
+Obbligazione del fideiussore
+
+1.
+
+Il fideiussore è obbligato in solido col debitore principale, ai sensi di legge, al pagamento di tutte le spese ed i costi di cui all’articolo 1 fino a concorrenza dell’importo massimo di €.
+
+2.
+
+La Società è obbligata a versare le somme dovute ai sensi e nei limiti della presente polizza, con esclusione del beneficio della preventiva escussione e senza opporre eccezione alcuna, entro trenta giorni dalla notificazione della richiesta motivata alla società medesima da parte dell’Ente garantito.
+
+3.
+
+La Società rimane obbligata anche dopo la scadenza del termine di cui all’articolo 2 purché entro quattro mesi dal predetto termine l’Ecc.ma Camera della Repubblica di San Marino abbia notificato alla ditta stipulante o alla società medesima la richiesta di attivazione della garanzia.
+
+###### Articolo 5
+
+Surrogazione La Società è surrogata, nei limiti delle somme pagate, all’Ente garantito in tutti i diritti, ragione ed azioni verso la ditta stipulante ed obbligati solidali, successori ed aventi causa a qualsiasi titolo.
+
+###### Articolo 6
+
+Forma delle comunicazioni alla Società Tutte le comunicazioni o notifiche alla società, dipendenti dalla presente polizza, dovranno essere fatto con lettera raccomandata alla sede della sua direzione generale, risultante dal frontespizio della polizza stessa.
+
+###### Articolo 7
+
+Foro competente In caso di controversia il foro competente è quello di San Marino.
+
+La ditta stipulante....................
+
+La società.....................
+
+Calcolo della garanzia in euro G=T+S T = (300/1936,27) x n° tonnellate di rifiuti spediti x n. km S = valore di K2 x n° tonnellate spedite Modulo di notifica N/............ (numero progressivo del trasporto)
+
+Fidejussione bancaria a garanzia degli obblighi derivanti dalla spedizione transfrontaliera dei rifiuti, come da D.D. n. 44/2012 – Reg. (CE) 1013/06.
+
+Premesso
+
+1.
+
+Che l’impresa ditta....................
+
+(COE) domiciliata in....................(denominata in seguito ditta stipulante) intende effettuare una spedizione di rifiuti ai sensi del ……………………………….
+
+2\. Che la spedizione è subordinata alla prestazione di idonea garanzia nell’interesse della ditta stipulante ed a favore dell’Ecc.ma Camera della Repubblica di San Marino, a copertura di ogni e qualsiasi spesa sostenuta dalla Pubblica Amministrazione per il trasporto dei rifiuti, il loro recupero o smaltimento, il loro deposito e per i costi diretti ed indiretti per la bonifica dei siti inquinati connessi alle predette operazioni.
+
+Ciò premesso
+
+###### Articolo 1
+
+(Oggetto)
+
+1.
+
+La società......................... (in seguito denominata società), domiciliata in ............................. con la presente polizza, alle condizioni che seguono si costituisce fideiussore, nell’interesse della ditta stipulante e dei suoi obbligati in solido ai sensi di legge - a quale accetta per sé e per i suoi successori ed aventi causa, dichiarandosi con questi solidalmente tenuta per le obbligazioni derivanti dal presente contratto - ed a favore della dell’Ecc.ma Camera della Repubblica di San Marino, fino alla concorrenza dell’importo di € .................... a garanzia delle eventuali obbligazioni derivanti, dalle spedizioni di rifiuti effettuate dalla ditta stipulante medesima.
+
+2.
+
+La garanzia di cui al comma 1 copre ogni e qualsiasi spesa sostenuta dalla Pubblica Amministrazione per l’assolvimento degli oneri di cui all’articolo 6, paragrafi 1 e 2 del Regolamento (CE) n.1013/2006 e, in particolare, per il trasporto, il recupero e lo smaltimento, il deposito dei rifiuti e per i costi diretti ed indiretti di bonifica dei siti inquinati connessi alle predette operazioni, dovuti in conseguenza di un non corretto espletamento della/e spedizione/i da RSM a ................. di cui alla Notifica ………, riferiti ai documenti di movimento ………. per un totale di ............. tonnellate di rifiuti, classificati come CER……….
+
+Condizioni generali di fidejussione.
+
+Condizioni che regolano il rapporto tra la società e l’Eccellentissima Camera della Repubblica di San Marino
+
+###### Articolo 1
+
+(Delimitazione della garanzia)
+
+1.
+
+La Società garantisce l’Ecc.ma Camera della Repubblica di San Marino, fino alla concorrenza dell’importo massimo complessivo indicato in premessa, le somme che l’impresa e suoi obbligati solidali ai sensi di legge siano tenuti a corrispondere alla stessa Ecc.ma Camera per la copertura delle eventuali spese sostenute dalla Pubblica Amministrazione per l’assolvimento degli oneri di cui all’articolo 6, paragrafi 1 e 2 del Regolamento (CE) n.1013/2006 e, in particolare, per il trasporto dei rifiuti, il loro recupero o smaltimento, il loro deposito e per la bonifica dei siti inquinati connessi alle operazioni di cui in premessa.
+
+2.
+
+Nel caso in cui la fideiussione riguardi più trasporti la garanzia è comunque prestata fino alla concorrenza dell'importo massimo complessivo indicato in premessa in relazione a ciascun trasporto.
+
+###### Articolo 2
+
+(Durata della garanzia)
+
+1.
+
+La presente garanzia è prestata fino al ricevimento da parte della Segreteria di Stato per il Territorio, l’Ambiente, l’Agricoltura e i Rapporti con l’AASP competente dei certificati di avvenuto corretto smaltimento o recupero relativi alle spedizioni garantite.
+
+2.
+
+Qualora la fideiussione sia prestata per più trasporti il termine di cui al comma 1 è riferito al ricevimento da parte dell’Ecc.ma Camera della Repubblica di San Marino del certificato di avvenuto corretto smaltimento o recupero relativo all’ultimo trasporto dei rifiuti garantito.
+
+###### Articolo 3
+
+(Pagamento del premio ed altri oneri)
+
+1.
+
+L’eventuale mancato pagamento del premio iniziale e dei supplementi del premio non potrà in nessun caso essere opposto all’Ente garantito.
+
+2.
+
+Imposte, spese ed altri eventuali oneri relativi e conseguenti alla presente garanzia non potranno essere posti a carico dell’Ente garantito.
+
+###### Articolo 4
+
+(Obbligazione del fideiussore)
+
+1.
+
+Il fideiussore è obbligato in solido col debitore principale, ai sensi di legge, al pagamento di tutte le spese ed i costi di cui all’articolo 1 fino a concorrenza dell’importo massimo di euro…….
+
+2.
+
+La Società è obbligata a versare le somme dovute ai sensi e nei limiti della presente polizza, con esclusione del beneficio della preventiva escussione e senza opporre eccezione alcuna, entro trenta giorni dalla notificazione della richiesta motivata alla società medesima da parte dell’Ente garantito.
+
+3.
+
+La Società rimane obbligata anche dopo la scadenza del termine di cui all’articolo 2 purché entro quattro mesi dal predetto termine l’Ecc.ma Camera della Repubblica di San Marino abbia notificato alla ditta stipulante o alla società medesima la richiesta di attivazione della garanzia.
+
+###### Articolo 5
+
+(Surrogazione)
+
+La Società è surrogata, nei limiti delle somme pagate, all'Ente garantito in tutti i diritti, ragione ed azioni verso la ditta stipulante ed obbligati solidali, successori ed aventi causa a qualsiasi titolo.
+
+###### Articolo 6
+
+(Forma delle comunicazioni alla Società)
+
+Tutte le comunicazioni o notifiche alla società, dipendenti dalla presente polizza, dovranno essere fatto con lettera raccomandata alla sede della sua direzione generale, risultante dal frontespizio della polizza stessa.
+
+###### Articolo 7
+
+(Foro competente)
+
+In caso di controversia il foro competente è quello San Marino.
+
+La ditta stipulante....................
+
+La società.....................
+
+Calcolo della garanzia in euro:
+
+G=T+S T = (300/1936,27) x n° tonnellate di rifiuti spediti x n. km S = valore di K2 x n° tonnellate spedite Modulo di notifica N/............ (numero progressivo del trasporto)
+
+ALLEGATO F Importi minimi di garanzia fidejussoria da prestare a favore dell’Ecc.ma Camera della Repubblica di San Marino per esportazioni di rifiuti
+
+1\. La garanzia dovuta viene calcolata con la seguente formula:
+
+G=T+S dove:
+
+G = garanzia in euro T = componente della garanzia relativa al trasporto S = componente della garanzia relativa allo smaltimento/recupero e ai costi diretti e indiretti per la bonifica dei siti inquinati connessi alle operazioni di smaltimento/recupero
+
+2\. Le due componenti della garanzia (T e S) vengono calcolate come segue:
+
+2.1 Formule per il calcolo di T
+
+2.1.1 Trasporto via terra T = (300/1936,27) x numero delle tonnellate di rifiuti spediti x numero di chilometri tra il luogo di partenza e il luogo di destinazione previsto.
+
+2.1.2 Trasporto via mare T = K1 x numero container K = 775,00 euro per ogni container da 65 mc o 40 piedi per le rotte “Mediterraneo”
+
+K = 520,00 euro per ogni container da 32,5 mc o 20 piedi per le rotte “Mediterraneo”
+
+2.2 Formula per il calcolo di S o R S = K2 x numero delle tonnellate di rifiuti spediti Rifiuti destinati al recupero:
+
+K2 = 520,00 euro rifiuti appartenenti alla lista ambra;
+
+K2 = 1040,00 euro rifiuti appartenenti alla lista rossa;
+
+Rifiuti destinati allo smaltimento:
+
+K2 = 1040,00 euro rifiuti non pericolosi;
+
+K2 = 2080,00 euro rifiuti pericolosi contenenti sostanze organoalogenate in quantitativo inferiore a 5.000 ppm;
+
+K2 = 4160,00 euro rifiuti pericolosi contenenti sostanze organoalogenate in quantitativo superiore a 5.000 ppm.
+
+ALLEGATO G Elenco prodotti contenenti amianto
+
+a) pannelli ad alta densità (cemento-amianto), pannelli a bassa densità (cartoni) e prodotti tessili. I materiali in cemento-amianto, soprattutto sottoforma di lastre di copertura;
+
+b) tubi, canalizzazioni e contenitori per il trasporto e lo stoccaggio di fluidi, a uso civile ed industriale;
+
+c) guarnizioni di attrito per veicoli a motore, macchine ed impianti industriali;
+
+d) guarnizioni di attrito di ricambio per veicoli a motore;
+
+e) guarnizioni delle testate per motori di vecchio tipo;
+
+f) giunti piatti statici e guarnizioni dinamiche per elementi sottoposti a forti sollecitazioni;
+
+g) filtri e mezzi ausiliari di filtraggio per la produzione di bevande;
+
+h) filtri ultrafini per la sterilizzazione e per la produzione di bevande e di medicinali;
+
+i) diaframmi per processi di elettrolisi;
+
+l) materiali coibenti;
+
+m) materiali che rivestono superfici applicati a spruzzo o a cazzuola;
+
+n) rivestimenti isolanti di tubi e caldaie.
+
+ALLEGATO H Procedure e metodi di analisi per la misurazione dell'inquinamento da Amianto (Protezione dei lavoratori) 1- Le caratteristiche e l'attrezzatura per il campionamento delle fibre di amianto nell'aria e la determinazione della concentrazione delle fibre di amianto nel campione d'aria prelevato sono fissate nel metodo di riferimento appresso riportato. Possono tuttavia essere usati altri metodi per i quali si possa dimostrare l'equivalenza dei risultati rispetto al metodo di riferimento. 2- I campioni sono prelevati nella zona di respirazione dei singoli lavoratori: ovvero entro una semisfera di 300 mm di raggio che si estende dinanzi alla faccia del lavoratore e misurata a partire dal punto di mezzo di una linea congiungente le sue orecchie. 3- Si usano filtri a membrana (esteri misti di cellulosa o nitrato di cellulosa) aventi diametro di 25 mm, di porosità tra 0,8 e 1,2 micron, con reticolo stampato. 4- Si usa un portafiltro a faccia aperta provvisto di cappuccio metallico cilindrico, estendentesi tra 33 mm e 44 mm davanti al filtro e che permetta l'esposizione di un'area circolare di almeno 20 mm di diametro. Durante l'uso il cappuccio è rivolto verso il basso. 5- Si usa una pompa portatile a batteria, portata sulla cintura o in una tasca del lavoratore. Il flusso deve essere esente da pulsazioni e la portata regolata inizialmente a 1 l/min ± 5%. Durante il periodo di campionamento la portata è mantenuta entro ± 10% della portata iniziale. 6- Il tempo di campionamento è misurato con una tolleranza del 2%. 7- Il carico di fibre ottimale sui filtri é compreso tra 100 e 400 fibre/mm². 8- In ordine di preferenza l'intero filtro, o un suo segmento, posto su un vetrino da microscopio, è reso trasparente mediante il metodo acetone-triacetina e coperto con vetrino coprioggetti. 9- Per il conteggio delle fibre si procede come da Linee Guida, Allegati 1,2 e 3 (Tutela dell'ambiente) 1- Le procedure di campionamento degli effluenti liquidi contenenti materiali di amianto, seguono quanto indicato nell'Allegato I, TABELLA 2/I del presente Codice.
+
+2- Le procedure per il campionamento per le emissioni in atmosfera seguono quanto indicato all’art. 108, comma 11, del presente Codice.
+
+ALLEGATO I Criteri per la classificazione dei corpi idrici a destinazione funzionale I seguenti criteri si applicano alle acque dolci superficiali utilizzate o destinate ad essere utilizzate per la produzione di acqua potabile dopo i trattamenti appropriati.
+
+1) CALCOLO DELLA CONFORMITA' E CLASSIFICAZIONE Per la classificazione delle acque in una delle categorie Al, A2, A3, di cui alla tabella 1/I, i valori specificati per ciascuna categoria devono essere conformi nel 95% dei campioni ai valori limite specificati nelle colonne I e nel 90% ai valori limite specificati nelle colonne G, quando non sia indicato il corrispondente valore nella colonna I. Per il rimanente 5% o il 10% dei campioni che, secondo i casi, non sono conformi, i parametri non devono discostarsi in maniera superiore al 50% dal valore dei parametri in questione, esclusi la temperatura, il pH, l'ossigeno disciolto ed i parametri microbiologici.
+
+2) CAMPIONAMENTO
+
+2.1) UBICAZIONE DELLE STAZIONI DI PRELIEVO Per tutti i laghi naturali ed artificiali e per tutti i corsi d'acqua naturali ed artificiali utilizzati o destinati ad essere utilizzati per l'approvvigionamento idrico potabile fermo restando quanto previsto nell'allegato 1 - le stazioni di prelievo dovranno essere ubicate in prossimità delle opere di presa esistenti o previste in modo che i campioni rilevati siano rappresentativi della qualità delle acque da utilizzare.
+
+Ulteriori stazioni di prelievo dovranno essere individuate in punti significativi del corpo idrico quando ciò sia richiesto da particolari condizioni locali, tenuto soprattutto conto di possibili fattori di rischio d'inquinamento. I prelievi effettuati in tali stazioni avranno la sola finalità di approfondire la conoscenza della qualità del corpo idrico, per gli opportuni interventi.
+
+2.2) FREQUENZA MINIMA DEI CAMPIONAMENTI E DELLE ANALISI DI OGNI PARAMETRO GRUPPO DI PARAMETRI (°)
+
+Frequenza minima annua dei campionamenti e delle analisi per i corpi idrici da classificare
+
+I
+
+Frequenza minima annua dei
+
+GRUPPO DI PARAMETRI (°)
+
+II
+
+III
+
+12 12
+
+campionamenti e delle analisi per i corpi idrici già classificati
+
+I II (*)
+
+III (**)
+
+(°) I parametri dei diversi gruppi comprendono:
+
+PARAMETRI I GRUPPO pH, colore, materiali totali in sospensione, temperatura, conduttività, odore, nitrati, cloruri, fosfati, COD, DO (ossigeno disciolto), BOD5, ammoniaca PARAMETRI II GRUPPO ferro disciolto, manganese, rame, zinco, solfati, tensioattivi, fenoli, azoto Kjeldhal, coliformi totali e coliformi fecali.
+
+PARAMETRI III GRUPPO fluoruri, boro, arsenico, cadmio, cromo totale, piombo, selenio, mercurio, bario, cianuro, idrocarburi disciolti o emulsioni, idrocarburi policiclici aromatici, antiparassitari totali, sostanze estraibili con cloroformio, streptococchi fecali e salmonelle (*) Per le acque della categoria A3 la frequenza annuale dei campionamenti dei parametri del gruppo I deve essere portata a 12.
+
+(**) Per i parametri facenti parte del III gruppo, salvo che per quanto riguarda gli indicatori di inquinamento microbiologico, su indicazione dell'autorità competente al controllo ove sia dimostrato che non vi sono fonti antropiche, o naturali, che possano determinarne la loro presenza n elle acque, la frequenza di campionamento può essere ridotta.
+
+3) MODALITA' DI PRELIEVO, DI CONSERVAZIONE E DI TRASPORTO DEI CAMPIONI I campioni dovranno essere prelevati, conservati e trasportati in modo da evitare alterazioni che possono influenzare significativamente i risultati delle analisi.
+
+Tabella 1/I: Caratteristiche di qualità per acque superficiali destinate alla produzione di acqua potabile Num. Parametro Progr.
+
+Unità di misura
+
+A1 G
+
+pH
+
+unità pH
+
+6,5-8,5
+
+.
+
+5,5-9
+
+-
+
+5,5-9
+
+-
+
+Colore (dopo filtrazione semplice)
+
+mg/L scala pt
+
+10
+
+20
+
+50
+
+100
+
+50
+
+200
+
+Totale materie in sospensione
+
+mg/L MES
+
+25
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Temperatura
+
+°C
+
+22
+
+25
+
+22
+
+25
+
+22
+
+25
+
+Conduttività
+
+µS /cm a 20°
+
+1000
+
+-
+
+1000
+
+-
+
+1000
+
+-
+
+Odore
+
+Fattore di diluizione a 25°C
+
+-
+
+10
+
+-
+
+20
+
+-
+
+Nitrati
+
+mg/L NO3
+
+25
+
+50
+
+-
+
+50
+
+-
+
+50
+
+Fluoruri (1)
+
+mg/L F
+
+0,7/l
+
+1,5
+
+0,7/1,7
+
+-
+
+0,7/1,7
+
+-
+
+Cloro organico totale estraibile
+
+mg/L Cl
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+10
+
+Ferro disciolto
+
+mg/L Fe
+
+0,1
+
+0,3
+
+-
+
+11
+
+Manganese
+
+mg/L Mn
+
+0,05
+
+-
+
+0,1
+
+-
+
+-
+
+12
+
+Rame
+
+mg/L Cu
+
+0,02
+
+0,05
+
+0,05
+
+-
+
+-
+
+13
+
+Zinco
+
+mg/L Zn
+
+0,5
+
+14
+
+Boro
+
+mg/L B
+
+-
+
+-
+
+-
+
+15
+
+Berillio
+
+mg/L Be
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+16
+
+Cobalto
+
+mg/L Co
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+17
+
+Nichelio
+
+mg/L Ni
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+18
+
+Vanadio
+
+mg/L V
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+19
+
+Arsenico
+
+mg/L As
+
+0,01
+
+0,05
+
+-
+
+0,05
+
+0,05
+
+0,1
+
+20
+
+Cadmio
+
+mg/L Cd
+
+0,001
+
+0,005
+
+0,001
+
+0,005
+
+0,001 0,005
+
+21
+
+Cromo totale
+
+mg/L Cr
+
+-
+
+0,05
+
+-
+
+0,05
+
+-
+
+0,05
+
+22
+
+Piombo
+
+mg/L Pb
+
+-
+
+0,05
+
+-
+
+0,05
+
+-
+
+0,05
+
+23
+
+Selenio
+
+mg/L Se
+
+-
+
+0,01
+
+-
+
+0,01
+
+-
+
+0,01
+
+24
+
+Mercurio
+
+mg/L Hg
+
+25
+
+Bario
+
+mg/L Ba
+
+-
+
+0,1
+
+-
+
+-
+
+26
+
+Cianuro
+
+mg/L CN
+
+-
+
+0,05
+
+-
+
+0,05
+
+-
+
+0,05
+
+27
+
+Solfati
+
+mg/L SO4
+
+150
+
+250
+
+150
+
+250
+
+150
+
+250
+
+28
+
+Cloruri
+
+mg/L Cl
+
+200
+
+-
+
+200
+
+-
+
+200
+
+-
+
+29
+
+Tensioattivi (che reagiscono al blu di metilene)
+
+mg/L (solfato di laurile)
+
+0,2
+
+-
+
+0,2
+
+-
+
+0,5
+
+-
+
+A1 I
+
+A2 G
+
+A2 I
+
+A3 G
+
+A3 I
+
+0,0005 0,001 0,0005 0,001 0,0005 0,001
+
+Fosfati (2)
+
+mg/L P2O5
+
+0,4
+
+-
+
+0,7
+
+-
+
+0,7
+
+-
+
+31
+
+Fenoli (indice fenoli) paranitroanilina, amminoantipirina
+
+mg/L C6H5OH
+
+-
+
+0,001
+
+0,001
+
+0,005
+
+0,01
+
+0,1
+
+32
+
+Idrocarburi mg/L disciolti o emulsionati (dopo estrazione mediante etere di petrolio)
+
+-
+
+0,05
+
+-
+
+0,2
+
+0,5
+
+33
+
+Idrocarburi mg/L policiclici aromatici
+
+-
+
+0,0002
+
+-
+
+0,0002
+
+-
+
+0,001
+
+34
+
+Antiparassitaritotale (parathion, HCH, dieldrine)
+
+-
+
+0,001
+
+-
+
+0,0025
+
+-
+
+0,005
+
+35
+
+Domanda chimica mg/L ossigeno (COD)
+
+-
+
+-
+
+-
+
+30
+
+-
+
+36
+
+Tasso di saturazione dell'ossigeno disciolto
+
+% O2
+
+\> 70
+
+-
+
+\> 50
+
+-
+
+\> 30
+
+-
+
+37
+
+A 20°C senza nitrificazione domanda biochimica di ossigeno (BOD5)
+
+mg/L O2
+
+<3
+
+-
+
+<5
+
+-
+
+<7
+
+-
+
+38
+
+Azoto Kjeldahl (tranne NO2 ed NO3)
+
+mg/L N
+
+-
+
+-
+
+-
+
+39
+
+Ammoniaca
+
+mg/L NH4
+
+0,05
+
+-
+
+1,5
+
+4(o)
+
+40
+
+Sostanze estraibili mg/L SEC al cloroformio
+
+0,1
+
+-
+
+0,2
+
+-
+
+0,5
+
+-
+
+41
+
+Carbonio organico mg/L C totale
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+42
+
+Carbonio organico mg/L C residuo (dopo flocculazione e filtrazione su membrana da 5 µ)
+
+TOC
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+43
+
+Coliformi totali
+
+/100 mL
+
+50
+
+-
+
+5000
+
+44
+
+Coliformi fecali
+
+/100 mL
+
+20
+
+-
+
+2000
+
+-
+
+20000
+
+-
+
+45
+
+Streptococchi fecali
+
+/100 mL
+
+20
+
+-
+
+1000
+
+-
+
+10000
+
+-
+
+mg/L
+
+O2
+
+50000
+
+Salmonelle
+
+-
+
+assenza in 5000 mL
+
+-
+
+assenza in 1000 mL
+
+-
+
+-
+
+-
+
+Legenda:
+
+Categoria A1 – Trattamento fisico semplice e disinfezione Categoria A2 – Trattamento fisico e chimico normale e disinfezione Categoria A3 – Trattamento fisico e chimico spinto, affinazione e disinfezione I = Imperativo G = Guida
+
+Note:
+
+(1) I valori indicati costituiscono i limiti superiori determinati in base alla temperatura media annua (alta e bassa temperatura)
+
+(2) Tale parametro è inserito per soddisfare le esigenze ecologiche di taluni ambienti
+
+Tabella 2/ I: Metodi di misura per la determinazione dei valori dei parametri chimici, chimico fisici e microbiologici.
+
+I metodi di analisi del laboratorio, sul campo e on-line devono essere convalidati e documentati ai sensi della norma EN-ISO/IEC – 17025 o di altre norme equivalenti internazionalmente accettate.
+
+METODO DI PROVA Ufficiale Normalizzato
+
+Non Normalizzato
+
+Regola Tecnica
+
+DEFINIZIONE Metodi di prova riportati o richiamati in documenti normativi cogenti e/o pubblicati su Gazzetta Ufficiale della UE Metodi emessi da organismi di normazione nazionali, europei o internazionali (ad esempio UNI, CEI, ISO)
+
+Metodi emessi da organizzazioni tecniche nazionali o internazionali (ad esempio metodi AOAC, Rapporti ISTISAN, Quaderni IRSA, ecc.)
+
+Documento emanato da un’autorità che riporta requisiti tecnici obbligatori o direttamente o tramite riferimenti oppure incorporando il contenuto di una norma.
+
+ALLEGATO J Limiti di emissione degli scarichi idrici Tabella 1/ J: Valori limiti di emissione in acque superficiali e in fognatura.
+
+Numero parametro
+
+PARAMETRI
+
+Scarico in acque superficiali
+
+pH
+
+unità di misura 5,5-9,5
+
+Temperatura
+
+°C
+
+[1]
+
+colore
+
+Scarico in rete fognaria
+
+5,5-9,5
+
+non percettibile con diluizione 1:20
+
+[1] non percettibile con diluizione 1:40
+
+odore
+
+non deve essere non deve essere causa di causa di molestie molestie
+
+materiali grossolani
+
+assenti
+
+assenti
+
+Solidi speciali totali
+
+mg/L
+
+≤80
+
+≤200
+
+BOD5 (come O2) mg/L
+
+≤40
+
+≤250
+
+COD (come O2)
+
+mg/L
+
+≤160
+
+≤500
+
+Alluminio
+
+mg/L
+
+≤1
+
+≤2,0
+
+10
+
+Arsenico (*)
+
+mg/L
+
+≤0,5
+
+≤0,5
+
+11
+
+Bario
+
+mg/L
+
+≤20
+
+-
+
+12
+
+Boro
+
+mg/L
+
+≤2
+
+≤4
+
+13
+
+Cadmio (*)
+
+mg/L
+
+≤0,02
+
+≤0,02
+
+14
+
+Cromo (*) totale
+
+mg/L
+
+≤2
+
+≤4
+
+15
+
+Cromo VI (*)
+
+mg/L
+
+≤0,2
+
+≤0,20
+
+16
+
+Ferro
+
+mg/L
+
+≤2
+
+≤4
+
+17
+
+Manganese
+
+mg/L
+
+≤2
+
+≤4
+
+Mercurio (*)
+
+mg/L
+
+≤0,005
+
+≤0,005
+
+19
+
+Nichel (*)
+
+mg/L
+
+≤2
+
+≤4
+
+20
+
+Piombo (*)
+
+mg/L
+
+≤0,2
+
+≤0,3
+
+21
+
+Rame (*)
+
+mg/L
+
+≤0,1
+
+≤0,4
+
+22
+
+Selenio (*)
+
+mg/L
+
+≤0,03
+
+≤0,03
+
+23
+
+Stagno [2]
+
+mg/L
+
+≤10
+
+24
+
+Zinco (*)
+
+mg/L
+
+≤0,5
+
+≤1,0
+
+25
+
+Cianuri totali (CN)
+
+Cloro attivo libero
+
+mg/L
+
+≤0,5
+
+≤1,0
+
+mg/L
+
+≤0,2
+
+≤0,3
+
+27
+
+Solfuri (come H2S)
+
+mg/L
+
+≤1
+
+≤2
+
+28
+
+Solfiti (come SO3)
+
+mg/L
+
+≤1
+
+≤2
+
+29
+
+Solfati (come SO4)
+
+mg/L
+
+≤1000
+
+≤1000
+
+30
+
+Cloruri
+
+mg/L
+
+≤1200
+
+≤1200
+
+31
+
+Fluoruri
+
+mg/L
+
+≤6
+
+≤12
+
+32
+
+Fosforo totale (come P)
+
+mg/L
+
+≤10
+
+≤10
+
+33
+
+Azoto ammoniacale (come NH4)
+
+mg/L
+
+≤15
+
+≤30
+
+34
+
+Azoto nitroso (come N)
+
+mg/L
+
+≤0,6
+
+≤0,6
+
+35
+
+Azoto nitrico (come N)
+
+mg/L
+
+≤20
+
+≤30
+
+36
+
+Grassi e olii animali/vegetali
+
+mg/L
+
+≤20
+
+≤40
+
+Idrocarburi totali [3]
+
+mg/L
+
+≤5
+
+≤10
+
+38
+
+Fenoli (*)
+
+mg/L
+
+≤0,5
+
+≤1
+
+39
+
+Aldeidi
+
+mg/L
+
+≤1
+
+≤2
+
+40
+
+Solventi organici aromatici (*)
+
+mg/L
+
+≤0,2
+
+≤0,4
+
+41
+
+Solventi organici azotati (*)
+
+mg/L
+
+≤0,1
+
+≤0,2
+
+42
+
+Tensioattivi totali
+
+mg/L
+
+≤2
+
+≤4
+
+43
+
+Pesticidi fosforati (*)
+
+mg/L
+
+≤0,10
+
+≤0,10
+
+44
+
+Pesticidi totali mg/L (esclusi i fosforati) [4]
+
+≤0,05
+
+≤0,05
+
+tra cui: 45
+
+\- aldrin [4]
+
+mg/L
+
+≤0,01
+
+≤0,01
+
+46
+
+\- dieldrin [4]
+
+mg/L
+
+≤0,01
+
+≤0,01
+
+47
+
+\- endrin [4]
+
+mg/L
+
+≤0,002
+
+≤0,002
+
+48
+
+\- isodrin [4]
+
+mg/L
+
+≤0,002
+
+≤0,002
+
+49
+
+Solventi clorurati [4]
+
+mg/L
+
+≤1
+
+≤2
+
+50
+
+Escherichia coli
+
+UFC/ 100 mL
+
+[5]
+
+[5]
+
+51
+
+Saggio di tossicità acuta [6]
+
+il campione non e accettabile accettabile quando quando dopo 24 ore il dopo 24 ore il numero degli organismi immobili è uguale o numero degli maggiore: organismi è del 80% del totale immobili uguale o maggiore del 50% del totale il campione non é
+
+(*) sostanze per le quali non possono essere applicati limiti meno restrittivi. [1] Per i corsi d'acqua la variazione massima tra temperature medie di qualsiasi sezione del corso d'acqua a monte e a valle del punto di immissione non deve superare i 3 °C. Su almeno metà di qualsiasi sezione a valle tale variazione non deve superare 1 °C. Per i laghi la temperatura dello scarico non deve superare i 30 °C e l'incremento di temperatura del corpo recipiente non deve in nessun caso superare i 3 °C oltre 50 metri di distanza dal punto di immissione. Per i canali artificiali, il massimo valore medio della temperatura dell'acqua di qualsiasi sezione non deve superare i 35 °C, la condizione suddetta è subordinata all'assenso del soggetto che gestisce il canale. [2] I composti organici dello stagno non possono essere derogati. [3] Gli oli minerali persistenti e idrocarburi di origine petrolifera persistenti non possono essere derogati. [4] I composti organici alogenati (compresi i pesticidi clorurati) non possono essere derogati. [5] In sede di autorizzazione allo scarico dell'impianto per il trattamento di acque reflue urbane, da parte dell'autorità competente andrà fissato il limite più opportuno in relazione alla situazione ambientale e igienico sanitaria del corpo idrico recettore e agli usi esistenti. Si consiglia un limite non superiore ai 5000 UFC/ 100 m L. [6] Il saggio di tossicità è obbligatorio. Oltre al saggio su Daphnia magna, possono essere eseguiti saggi di tossicità acuta su Ceriodaphnia dubia, Selenastrum capricornutum, batteri bioluminescenti o organismi quali Artemia salina, per scarichi di acqua salata o altri organismi tra quelli che saranno indicati ai sensi del punto 4 del presente allegato. In caso di esecuzione di più test di tossicità si consideri il risultato peggiore. Il risultato positivo della prova di tossicità non determina l'applicazione diretta delle sanzioni, determina altresì l'obbligo di approfondimento delle indagini analitiche, la ricerca delle cause di tossicità e la loro rimozione.
+
+Nota:
+
+Le sostanze classificate contemporaneamente “cancerogene” e “pericolose per l’ambiente acquatico” non possono essere derogate.
+
+Tabella 2/J: Limiti di emissione per le acque reflue urbane ed industriali che recapitano sul suolo
+
+Numero
+
+PARAMETRI
+
+parametro
+
+unità di misura
+
+(il valore della concentrazione deve essere minore o uguale a quello indicato)
+
+pH
+
+6-8
+
+SAR
+
+10
+
+Materiali grossolani -
+
+assenti
+
+Solidi sospesi totali mg/L
+
+25
+
+BOD5
+
+mgO2/L 20
+
+COD
+
+mgO2/L 100
+
+Azoto totale
+
+mg N/L 15
+
+Fosforo totale
+
+mg P/L
+
+Tensioattivi totali
+
+mg/L
+
+0,5
+
+10
+
+Alluminio
+
+mg/L
+
+11
+
+Berillio
+
+mg/L
+
+0,1
+
+12
+
+Arsenico (*)
+
+mg/L
+
+0,05
+
+13
+
+Bario
+
+mg/L
+
+10
+
+14
+
+Boro
+
+mg/L
+
+0,5
+
+15
+
+Cromo totale (*)
+
+mg/L
+
+16
+
+Ferro
+
+mg/L
+
+17
+
+Manganese
+
+mg/L
+
+0,2
+
+18
+
+Nichel (*)
+
+mg/L
+
+0,2
+
+19
+
+Piombo (*)
+
+mg/L
+
+0,1
+
+20
+
+Rame (*)
+
+mg/L
+
+0,1
+
+21
+
+Selenio (*)
+
+mg/L
+
+0,002
+
+Stagno [1]
+
+mg/L
+
+23
+
+Vanadio
+
+mg/L
+
+0,1
+
+24
+
+Zinco (*)
+
+mg/L
+
+0,5
+
+25
+
+Solfuri
+
+mgH2S/L 0,5
+
+26
+
+Solfiti
+
+mgSO3/L0,5
+
+27
+
+Solfati
+
+mgSO4/L500
+
+28
+
+Cloro attivo
+
+mg/L
+
+0,2
+
+29
+
+Cloruri
+
+mgCl/L
+
+200
+
+30
+
+Fluoruri
+
+mgF/L
+
+31
+
+Fenoli totali (*)
+
+mg/L
+
+0,1
+
+32
+
+Aldeidi totali
+
+mg/L
+
+0,5
+
+33
+
+Solventi organici mg/L aromatici totali (*)
+
+0,01
+
+34
+
+Solventi organici azotati totali (*)
+
+mg/L
+
+0,01
+
+LC50
+
+il campione non è accettabile quando dopo 24
+
+24h
+
+ore il numero degli organismi immobili è
+
+35
+
+36
+
+Saggio di tossicità su Daphnia magna (vedi nota 6 di tabella 1/B)
+
+Escherichia coli
+
+uguale o maggiore del 50% del totale UFC/ 100 mL
+
+[2]
+
+(*) sostanze per le quali non possono essere applicati limiti meno restrittivi. [1] I composti organici dello stagno non possono essere derogati. [2] In sede di autorizzazione allo scarico dell'impianto per il trattamento di acque reflue urbane, da parte dell'autorità competente andrà fissato il limite più opportuno in relazione alla situazione ambientale. Si consiglia un limite non superiore ai 5000 UFC/100 mL.
+
+Nota:
+
+Le sostanze classificate contemporaneamente “cancerogene” e “pericolose per l’ambiente acquatico” non possono essere derogate.
+
+ALLEGATO K Elenco tipologie di Attività con particolari obblighi in materia di gestione delle acque reflue
+
+1\. Lavanderie Industriali
+
+2\. Attività di produzione di prodotti chimici con alto impatto sulle acque (es. tensioattivi, coloranti, ecc.)
+
+3\. Attività di trasformazione e produzione della carta
+
+4\. Attività di produzione alimentare di tipo industriale (es. produzione di insaccati, lavorazioni di carni macellate, lavorazione del pesce, ecc.)
+
+5\. Industrie conserviere (es. lavorazione della polpa di pomodoro)
+
+6\. Industrie lattiero – casearie
+
+7\. Industrie enologiche
+
+8\. Altre attività evidenziate dal Collegio Tecnico della Commissione per la Tutela Ambientale
+
+Allegato L Valori limite delle emissioni aeriformi Tab. 1 CATEGORIA DELLA n.
+
+SOSTANZA Cancerogene e/o Teratogene e/o Mutagene Tossicità e cumulabità
+
+VALORE mg/m3 (o sostanza)
+
+TLV – TWA < 0,05 0,05 < TLV – TWA < 0,5 0,5 </= TLV – TWA < 1 Policlorodifenilbenzodiossine Policlirodibenzofurani
+
+CLASSE I II III I
+
+LIMITE di massa g/ora 0,5 25 0,02
+
+LIMITE di emissione mg/m3 0,1 0,01
+
+II
+
+0,5
+
+0,5
+
+I II III I II III IV V
+
+25 25 100 2000 3000 4000 > 100 e < 500 >/= 500
+
+0,2 20 150 300 600 150 50
+
+particolarmente
+
+elevate
+
+Inorganiche sotto forma di polvere Inorganiche e organiche sotto forma di gas, vapore o polvere Polveri totali
+
+Policrorobifenili Policloroterfenili Policloronaftaleni TLV – TWA < 0,1 0,1 < TLV – TWA < 0,5 0,5 </= TLV – TWA < 1 TLV – TWA < 1 1 < TLV – TWA < 10 10 </= TLV – TWA < 250 250 < TLV – TWA < 750 TLV – TWA </= 750
+
+Tab.2 Limite in concentrazione
+
+Combustibile gassoso
+
+Combustibile liquido
+
+Combustibile solido
+
+Cov Totali
+
+80 mg/m3
+
+NOx
+
+350 mg/m3
+
+SO2
+
+350 mg/m3
+
+NOx
+
+500 mg/m3
+
+SO2
+
+350 mg/m3
+
+NOx
+
+500 mg/m3
+
+SO2
+
+200 mg/m3
+
+Nota alla tabella.
+
+a) Per ciascuna sostanza il valore limite di emissione, indicato nell'ultima colonna della tabella, si ritrova tenuto conto di:
+
+\- afferenza della sostanza ad una delle cinque categorie;
+
+\- valore di TLV TWA della sostanza;
+
+\- portata in massa pari o superiore al limite indicato nella penultima colonna della tabella.
+
+b) Con i termini di gas, vapore o polvere si intende lo stato al quale la sostanza si ritrova in condizioni normali.
+
+c) Per i valori di TLV - TWA delle sostanze si fa riferimento a quelli pubblicati della ACGIH (American Conference of Governmental Industrial Hygienist), USA.
+
+d) Quando la sostanza afferisce a più di una delle categorie indicate in tabella 1, è da considerare il limite più restrittivo.
+
+e) Quando nella corrente aeriforme in esame sono presenti più sostanze afferenti alla stessa categoria ed alla stessa classe, le quantità delle singole sostanze vanno sommate ai fini della determinazione del limite di massa e di concentrazione.
+
+f) Quando nella corrente aeriforme sono presenti più sostanze afferenti alla stessa categoria ed a classi diverse, fermi restando i limiti per ciascuna classe, ai fini del calcolo del flusso di massa e di concentrazione, sulle quantità di sostanze di ogni classe vanno sommate le quantità delle sostanze di classe inferiore e la concentrazione totale non deve superare il limite della classe più elevata
+
+g) I limiti sono riferiti alle singole emissioni.
+
+g-bis) I limiti della Tab. 2, quando presenti, sostituiscono i limiti della Tab. 1.96 Contenimento delle emissioni diffuse di materiali polverulenti 1 Produzione e manipolazione di materiali polverulenti.
+
+a) I macchinari e i sistemi usati per la preparazione o la produzione (comprendenti, per esempio, la frantumazione, la cernita, la miscelazione, il riscaldamento, il raffreddamento, la pellettizzazione e la bricchettazione) di materiali polverulenti devono essere incapsulati.
+
+b) Se l'incapsulamento non può assicurare il contenimento ermetico delle polveri, le emissioni, con particolare riferimento ai punti di introduzione, estrazione e trasferimento dei materiali polverulenti, devono essere convogliate ad un idoneo impianto di abbattimento. 2 Trasporto, carico e scarico dei materiali polverulenti.
+
+a) Per il trasporto di materiali polverulenti devono essere utilizzati dispositivi chiusi.
+
+b) Se l'utilizzo di dispositivi chiusi non è, in tutto o in parte, possibile, le emissioni polverulenti devono essere convogliate ad un idoneo impianto di abbattimento.
+
+c) Per il carico e lo scarico dei materiali polverulenti devono essere installati impianti di aspirazione e di abbattimento nei seguenti punti:
+
+\- punti fissi, nei quali avviene il prelievo, il trasferimento, lo sgancio con benne, pale caricatrici, attrezzature di trasporto;
+
+\- sbocchi di tubazione di caduta delle attrezzature di caricamento;
+
+\- attrezzature di ventilazione, operanti come parte integrante di impianti di scarico pneumatici o meccanici;
+
+\- canali di scarico per veicoli su strada o rotaie;
+
+\- convogliatori aspiranti.
+
+d) Se nella movimentazione dei materiali polverulenti non è possibile assicurare il convogliamento delle emissioni di polveri, si deve mantenere, possibilmente in modo automatico, una adeguata altezza di caduta e deve essere assicurata, nei tubi di scarico, la più bassa velocità che è tecnicamente possibile conseguire per l'uscita del materiale trasportato, ad esempio mediante l'utilizzo di deflettori oscillanti.
+
+e) Nel caricamento di materiali polverulenti in contenitori da trasporto chiusi, l'aria di spostamento deve essere raccolta e convogliata ad un impianto di abbattimento.
+
+f) La copertura delle strade, percorse da mezzi di trasporto, deve essere tale da non dar luogo ad emissioni di polveri. 3 Stoccaggio di materiali polverulenti.
+
+a) Il CT stabilisce le prescrizioni per lo stoccaggio dei materiali polverulenti tenendo conto, in particolare, dei seguenti elementi: possibilità di stoccaggio in silos;
+
+\- possibilità di realizzare una copertura della sommità e di tutti i lati del cumulo di materiali sfusi, incluse tutte le attrezzature ausiliarie;
+
+\- possibilità di realizzare una copertura della superficie, per esempio utilizzando stuoie; possibilità di stoccaggio su manti erbosi;
+
+Modifiche legislative.
+
+Decreto delegato 31 gennaio 2017, Art. 73:
+
+All‘Allegato L, dopo la Tab.2, alla “Nota alla tabella”, dopo la lettera g) è aggiunta la seguente lettera: ―g-bis) I limiti della Tab. 2, quando presenti, sostituiscono i limiti della Tab. 1.
+
+\- possibilità di costruire terrapieni coperti di verde, piantagioni e barriere frangivento;
+
+\- umidificazione costante e sufficiente della superficie del suolo.
+
+Allegato M Impianti e attività in deroga
+
+## Parte I
+
+1\. Elenco degli impianti e delle attività:
+
+a) Lavorazioni meccaniche dei metalli, con esclusione di attività di verniciatura e trattamento superficiale e smerigliature con consumo complessivo di olio (come tale o come frazione oleosa delle emulsioni) inferiore a 500 kg/anno;
+
+b) laboratori orafi in cui non è effettuata la fusione di metalli, laboratori odontotecnici, esercizi in cui viene svolta attività estetica, sanitaria e di servizio e cura della persona, officine ed altri laboratori annessi a scuole.
+
+c) Decorazione di piastrelle ceramiche senza procedimento di cottura.
+
+d) Le seguenti lavorazioni tessili: — preparazione, filatura, tessitura della trama, della catena o della maglia di fibre naturali, artificiali o sintetiche, con eccezione dell'operazione di testurizzazione delle fibre sintetiche e del bruciapelo; — nobilitazione di fibre, di filati, di tessuti limitatamente alle fasi di purga, lavaggio, candeggio (ad eccezione dei candeggi effettuati con sostanze in grado di liberare cloro e/o suoi composti), tintura e finissaggio a condizione che tutte le citate fasi della nobilitazione siano effettuate nel rispetto delle seguenti condizioni:
+
+1) le operazioni in bagno acquoso devono essere condotte a temperatura inferiore alla temperatura di ebollizione del bagno, oppure, nel caso in cui siano condotte alla temperatura di ebollizione del bagno, ciò deve avvenire senza utilizzazione di acidi, di alcali o di prodotti volatili, organici o inorganici, o, in alternativa, all'interno di macchinari chiusi;
+
+2) le operazioni di asciugamento o essiccazione e i trattamenti con vapore espanso o a bassa pressione devono essere effettuate a temperatura inferiore a 150° e nell'ultimo bagno acquoso applicato alla merce non devono essere stati utilizzati acidi, alcali o prodotti volatili, organici od inorganici.
+
+e) Cucine, esercizi di ristorazione collettiva, mense, rosticcerie e friggitorie.
+
+f) Panetterie, pasticcerie ed affini con un utilizzo complessivo giornaliero di farina non superiore a 300 kg.
+
+g) Stabulari acclusi a laboratori di ricerca e di analisi.
+
+h) Serre.
+
+i) Stirerie.
+
+j) Laboratori fotografici.
+
+k) Autorimesse e officine meccaniche di riparazioni veicoli, escluse quelle in cui si effettuano operazioni di verniciatura.
+
+l) Autolavaggi.
+
+m) Silos per materiali da costruzione ad esclusione di quelli asserviti ad altri impianti.
+
+n) Macchine per eliografia.
+
+o) Stoccaggio e movimentazione di prodotti petrolchimici ed idrocarburi naturali estratti da giacimento, stoccati e movimentati a ciclo chiuso o protetti da gas inerte.
+
+p) Impianti di trattamento acque escluse le linee di trattamento fanghi.
+
+q) Macchinari a ciclo chiuso di concerie e pelliccerie.
+
+r) Attività di seconde lavorazioni del vetro, successive alle fasi iniziali di fusione, formatura e tempera, ad esclusione di quelle comportanti operazioni di acidatura e satinatura.
+
+s) Forni elettrici a volta fredda destinati alla produzione di vetro.
+
+t) Trasformazione e conservazione, esclusa la surgelazione, di frutta, ortaggi, funghi con produzione giornaliera massima non superiore a 350 kg.
+
+u) Trasformazione e conservazione, esclusa la surgelazione, di carne con produzione giornaliera massima non superiore a 350 kg.
+
+v) Molitura di cereali con produzione giornaliera massima non superiore a 500 kg.
+
+w) Lavorazione e conservazione, esclusa surgelazione, di pesce ed altri prodotti alimentari marini con produzione giornaliera massima non superiore a 350 kg.
+
+x) Lavorazioni manifatturiere alimentari con utilizzo giornaliero di materie prime non superiore a 350 kg.
+
+y) Trasformazioni lattiero-casearie con produzione giornaliera massima non superiore a 350 kg.
+
+z) Allevamenti effettuati in ambienti confinati in cui il numero di capi potenzialmente presenti è inferiore a quello indicato, per le diverse categorie di animali, nella seguente tabella. Per allevamento effettuato in ambiente confinato si intende l'allevamento il cui ciclo produttivo prevede il sistematico utilizzo di una struttura coperta per la stabulazione degli animali.
+
+Categoria animale e tipologia di allevamento
+
+N° capi
+
+Vacche specializzate per la produzione di latte (peso vivo medio: 600 kg/capo)
+
+Meno di 200
+
+Rimonta vacche da latte (peso vivo medio: 300 kg/capo)
+
+Meno di 300
+
+Altre vacche (nutrici e duplice attitudine)
+
+Meno di 300
+
+Bovini all'ingrasso (peso vivo medio: 400 kg/capo)
+
+Meno di 300
+
+Vitelli a carne bianca (peso vivo medio: 130 kg/capo)
+
+Meno di 1000
+
+Suini: scrofe con suinetti destinati allo svezzamento
+
+Meno di 400
+
+Suini: accrescimento/ingrasso
+
+Meno di 1000
+
+Ovicaprini (peso vivo medio: 50 kg/capo)
+
+Meno di 2000
+
+Ovaiole e capi riproduttori (peso vivo medio: 2 kg/capo)
+
+Meno di 25000
+
+Pollastre (peso vivo medio: 0,7 kg/capo)
+
+Meno di 30000
+
+Polli da carne (peso vivo medio: 1 kg/capo)
+
+Meno di 30000
+
+Altro pollame
+
+Meno di 30000
+
+Tacchini: maschi (peso vivo medio: 9 kg/capo)
+
+Meno di 7000
+
+Tacchini: femmine (peso vivo medio: 4,5 kg/capo)
+
+Meno di 14000
+
+Faraone (peso vivo medio: 0,8 kg/capo)
+
+Meno di 30000
+
+Cunicoli: fattrici (peso vivo medio: 3,5 kg/capo)
+
+Meno di 40000
+
+Cunicoli: capi all'ingrasso (peso vivo medio: 1,7 kg/capo)
+
+Meno di 24000
+
+Equini (peso vivo medio: 550 kg/capo)
+
+Meno di 250
+
+Struzzi
+
+Meno di 700
+
+aa) Allevamenti effettuati in ambienti non confinati.
+
+bb) Laboratori di analisi e ricerca, impianti pilota per prove, ricerche, sperimentazioni, individuazione di prototipi. Tale esenzione non si applica in caso di emissione di sostanze cancerogene, tossiche per la riproduzione o mutagene o di sostanze di tossicità e cumulabilità particolarmente elevate, come individuate dall'Allegato O del presente Codice.
+
+cc) Dispositivi mobili utilizzati all'interno di uno stabilimento da un gestore diverso da quello dello stabilimento o non utilizzati all'interno di uno stabilimento.
+
+dd) Pulizia a secco di tessuti e pellami, escluse pellicce, pulitintolavanderie; per tali impianti la condizione necessaria per essere inclusi nel presente elenco è il ciclo chiuso.
+
+ee) Laboratori orafi con fusione di metalli con meno di venticinque addetti.
+
+## Parte II
+
+1\. Elenco degli impianti e delle attività:
+
+a) Riparazione e verniciatura di carrozzerie di autoveicoli, mezzi e macchine agricole con utilizzo di impianti a ciclo aperto e utilizzo complessivo di prodotti vernicianti pronti all'uso giornaliero massimo complessivo non superiore a 20 kg.
+
+b) Tipografia, litografia, serigrafia, con utilizzo di prodotti per la stampa (inchiostri, vernici e similari) giornaliero massimo complessivo non superiore a 30 kg.
+
+c) Produzione di prodotti in vetroresine con utilizzo giornaliero massimo complessivo di resina pronta all'uso non superiore a 200 kg.
+
+d) Produzione di articoli in gomma e prodotti delle materie plastiche con utilizzo giornaliero massimo complessivo di materie prime non superiore a 500 kg.
+
+e) Produzione di mobili, oggetti, imballaggi, prodotti semifiniti in materiale a base di legno con utilizzo giornaliero massimo complessivo di materie prime non superiore a 2000 kg.
+
+f) Verniciatura, laccatura, doratura di mobili ed altri oggetti in legno con utilizzo complessivo di prodotti vernicianti pronti all'uso non superiore a 50 kg/g.
+
+g) Verniciatura di oggetti vari in metalli o vetro con utilizzo complessivo di prodotti vernicianti pronti all'uso non superiore a 50 kg/ g.
+
+h) Panificazione, pasticceria e affini con consumo di farina non superiore a 1500 kg/g.
+
+i) Torrefazione di caffé ed altri prodotti tostati con produzione non superiore a 450 kg/g.
+
+l) Produzione di mastici, pitture, vernici, cere, inchiostri e affini con produzione complessiva non superiore a 500 kg/h.
+
+m) Sgrassaggio superficiale dei metalli con consumo complessivo di solventi non superiore a 10 kg/g.
+
+n) Anodizzazione, galvanotecnica, fosfatazione di superfici metalliche con consumo di prodotti chimici non superiore a 10 kg/ g.
+
+o) Utilizzazione di mastici e colle con consumo complessivo di sostanze collanti non superiore a 100 kg/g.
+
+p) Produzione di sapone e detergenti sintetici prodotti per l'igiene e la profumeria con utilizzo di materie prime non superiori a 200 kg/g.
+
+q) Tempra di metalli con consumo di olio non superiore a 10 kg/ g.
+
+r) Produzione di oggetti artistici in ceramica, terracotta o vetro in forni in muffola discontinua con utilizzo nel ciclo produttivo di smalti, colori e affini non superiore a 50 kg/g.
+
+s) Trasformazione e conservazione, esclusa la surgelazione, di frutta, ortaggi, funghi con produzione non superiore a 1000 kg/g.
+
+t) Trasformazione e conservazione, esclusa la surgelazione, di carne con produzione non superiore a 1000 kg/g.
+
+u) Molitura cereali con produzione non superiore a 1500 kg/g.
+
+v) Lavorazione e conservazione, esclusa la surgelazione, di pesce ed altri prodotti alimentari marini con produzione non superiore a 1000 kg/g.
+
+z) Lavorazione di prodotti in calcestruzzo, gesso, pietre e marmi, in quantità non superiore a 1500 kg/g. 97
+
+aa) Pressofusione con utilizzo di metalli e leghe in quantità non superiore a 100 kg/g.
+
+bb) Lavorazioni manifatturiere alimentari con utilizzo di materie prime non superiori a 1000 kg/ g.
+
+cc) Lavorazioni conciarie con utilizzo di prodotti vernicianti pronti all'uso giornaliero massimo non superiore a 50 kg.
+
+dd) Fonderie di metalli con produzione di oggetti metallici giornaliero massimo non superiore a 100 kg.
+
+ee) Produzione di ceramiche artistiche esclusa la decoratura con utilizzo di materia prima giornaliero massimo non superiore a 3000 kg.
+
+ff) Produzione di carta, cartone e similari con utilizzo di materie prime giornaliero massimo non superiore a 4000 kg.
+
+gg) Saldatura, non saltuaria, di oggetti metallici.
+
+hh) Trasformazioni lattiero-casearie con produzione giornaliera non superiore a 1000 kg.
+
+ii) Pulizia a secco di tessuti e pellami, escluse pellicce, pulitintolavanderie; per tali impianti la condizione necessaria per essere inclusi nel presente elenco è il ciclo chiuso.
+
+ll) Lavorazioni meccaniche dei metalli con consumo complessivo di olio (come tale o come frazione oleosa delle emulsioni) uguale o superiore a 500 kg/anno.
+
+Testo originario (Decreto Delegato 27 aprile 2012 n. 44), Allegato M – Parte II – “Elenco degli impianti e delle attività”, lettera z):
+
+z) Prodotti in calcestruzzo e gesso in quantità non superiore a 1500 kg/g.
+
+Modifiche legislative.
+
+Decreto delegato 31 gennaio 2017 n. 16, Art. 74 All‘Allegato M, “Parte II”, “Elenco degli impianti e delle attività”, la lettera z) è sostituita dalla seguente: ―z) Lavorazione di prodotti in calcestruzzo, gesso, pietre e marmi, in quantità non superiore a 1500 kg/g.
+
+Disciplina dei combustibili
+
+Allegato N
+
+## Parte I
+
+Combustibili consentiti
+
+##### Sezione 1
+
+Elenco dei combustibili di cui è consentito l'utilizzo negli impianti industriali di cui al Capo II del Titolo V
+
+1\. Negli impianti industriali disciplinati dal Capo II del Titolo V è consentito l'utilizzo dei seguenti combustibili:
+
+a) gas naturale;
+
+b) gas di petrolio liquefatto;
+
+c) gas di raffineria e petrolchimici;
+
+d) gas d'altoforno, di cokeria, e d'acciaieria;
+
+e) gasolio, kerosene ed altri distillati leggeri e medi di petrolio rispondenti alle caratteristiche indicate nella parte II, sezione 1, paragrafo 1, fatto salvo quanto previsto nella sezione 3;
+
+f) emulsioni acqua-gasolio, acqua-kerosene e acqua-altri distillati leggeri e medi di petrolio di cui alla precedente lettera e), rispondenti alle caratteristiche indicate nella parte II, sezione 3, paragrafo 1;
+
+g) biodiesel rispondente alle caratteristiche indicate nella parte II, sezione 1, paragrafo 2;
+
+h) olio combustibile ed altri distillati pesanti di petrolio con contenuto di zolfo non superiore all'1% in massa e rispondenti alle caratteristiche indicate nella parte II, sezione 1, paragrafo 1, colonne 1, 2, 3, 4, 5, 6, 9 e 10, fatto salvo quanto previsto nella sezione 3;
+
+i) emulsioni acqua-olio combustibile o acqua-altri distillati pesanti di petrolio, di cui alla precedente lettera h), e rispondenti alle caratteristiche indicate nella parte II, sezione 3, paragrafo 2;
+
+l) legna da ardere alle condizioni previste nella parte II, sezione 4;
+
+m) carbone di legna;
+
+n) biomasse combustibili individuate nella parte II, sezione 4, alle condizioni ivi previste;
+
+o) carbone da vapore con contenuto di zolfo non superiore all'1% in massa e rispondente alle caratteristiche indicate nella parte II, sezione 2, paragrafo 1;
+
+p) coke metallurgico e da gas con contenuto di zolfo non superiore all'1% in massa e rispondente alle caratteristiche indicate nella parte II, sezione 2, paragrafo 1;
+
+q) antracite, prodotti antracitosi e loro miscele con contenuto di zolfo non superiore all'1% in massa e rispondenti alle caratteristiche indicate nella parte II, sezione 2, paragrafo 1;
+
+r) biogas individuato nella parte II, sezione 5, alle condizioni ivi previste;
+
+s) gas di sintesi proveniente dalla gassificazione di combustibili consentiti, limitatamente allo stesso comprensorio industriale nel quale tale gas è prodotto.
+
+##### Sezione 2
+
+Elenco dei combustibili di cui è consentito l'utilizzo negli impianti termici civili
+
+1\. Negli impianti disciplinati dal Capo III del Titolo V è consentito l'uso dei seguenti combustibili:
+
+a) gas naturale;
+
+b) gas di città;
+
+c) gas di petrolio liquefatto;
+
+d) gasolio, kerosene ed altri distillati leggeri e medi di petrolio rispondenti alle caratteristiche indicate nella parte II, sezione 1, paragrafo 1;
+
+e) emulsioni acqua-gasolio, acqua-kerosene e acqua-altri distillati leggeri e medi di petrolio di cui alla precedente lettera d) e rispondenti alle caratteristiche indicate nella parte II, sezione 3, paragrafo 1;
+
+f) legna da ardere alle condizioni previste nella parte II, sezione 4;
+
+g) carbone di legna;
+
+h) biomasse combustibili individuate nella parte II, sezione 4, alle condizioni ivi previste;
+
+i) biodiesel rispondente alle caratteristiche indicate nella parte II, sezione 1, paragrafo 2;
+
+l) biogas individuato nella parte II, sezione 5, alle condizioni ivi previste;
+
+Gasolio Olio combustibile ed altri distillati pesanti di petrolio /Kerosen e Metod /distillati Fluidissi Fluido Semiflui Denso Denso o di leggeri e mo BTZ BTZ do BTZ ATZ BTZ analisi medi di petrolio
+
+Tipo di combustibile liquido
+
+Unità
+
+a 50 C
+
+mm2/ s
+
+< 21,2
+
+da 21,2 a da 37,5 a 37,4 91,0
+
+di 91
+
+\>di 91
+
+EN ISO 3104
+
+a 50 C
+
+°E
+
+<3
+
+da 3,0 a 5,0
+
+di 12
+
+\>di 12
+
+EN ISO 3104
+
+a 40 C
+
+mm2/ s
+
+Da 2,0 a 7,4 (1)
+
+Acqua e sedimenti
+
+% (V/V)
+
+≤ 0,05
+
+Acqua
+
+% (V/V)
+
+≤ 1,5
+
+≤ 1,5
+
+ISO 3733
+
+Sedimenti
+
+% (V/V)
+
+≤ 0,5
+
+≤ 0,5
+
+ISO 3735
+
+≤ 0,3
+
+UNI EN ISO 8754 UNI EN ISO 14596
+
+Caratteristica
+
+10
+
+Viscosità
+
+da 5,1 a 12,0
+
+EN ISO 3104 ≤ 0,05
+
+≤ 1,0
+
+UNI 20058
+
+≤ 1,0
+
+≤ 0,20 Zolfo
+
+% (m/m )
+
+Residuo carbonioso
+
+% (m/m )
+
+≤ 0,10
+
+(5)
+
+≤ 0,3
+
+≤6
+
+≤ 0,3
+
+≤ 15 ≤ 6
+
+≤ 15
+
+≤ 0,3
+
+≤6
+
+≤ 15
+
+≤ 0,3
+
+≤ 18
+
+≤ 4,0
+
+≤6
+
+≤ 15
+
+ISO
+
+Nichel + Vanadio
+
+mg/k g
+
+Ceneri
+
+% (m/m )
+
+PCB / PCT
+
+mg/k g
+
+≤ 15
+
+≤ 50
+
+≤ 180
+
+≤ 0,05
+
+≤ 50
+
+≤ 180
+
+≤ 50
+
+≤ 0,10
+
+≤ 180
+
+≤ 0,15
+
+Inferiore Inferiore Inferiore al al limite al limite di limite di di rilevabilità rilevabilità rilevabilit à
+
+≤ 50
+
+≤ 230
+
+≤ 0,20
+
+Inferiore Inferiore al limite al limite di di rilevabilità rilevabilit à
+
+≤ 180
+
+UNI EN ISO
+
+09.10.0
+
+24.0 EN 13131
+
+(3)
+
+≤ 0,20
+
+UNI EN ISO 6245
+
+Inferiore al limite di rilevabilit à
+
+DIN 5127
+
+(4) EN 12766
+
+(1) Solo per il gasolio
+
+(2) Il metodo UNI E 09.10.024.0 è utilizzato, in via transitoria, fino alla pubblicazione del metodo 13131.
+
+(3) Il metodo DIN 51527 è utilizzato, in via transitoria, fino alla pubblicazione del metodo EN 12766.
+
+(4) Tale specifica è riferita solo al gasolio.
+
+## Parte II
+
+Caratteristiche merceologiche dei combustibili e metodi di misura
+
+##### Sezione 1
+
+Combustibili liquidi
+
+1\. Gasolio, kerosene olio combustibile ed altri distillati leggeri, medi e pesanti di petrolio
+
+2\. — Biodiesel
+
+Proprietà
+
+Unità
+
+Viscosità a 40 C
+
+Limiti
+
+Metodo di prova
+
+Minimo
+
+Massimo
+
+mm2/s
+
+3,5
+
+5,0
+
+En Iso 3104 Iso 3105
+
+Residuo carbonioso [a] (sul 10% residuo distillazione)
+
+% (m/m)
+
+-
+
+0,30
+
+En Iso 10370
+
+Contenuto di ceneri solfatate
+
+% (m/m)
+
+-
+
+0,02
+
+Iso 3987
+
+Contenuto di acqua
+
+mg/kg
+
+-
+
+500
+
+En Iso 12937:2000
+
+Contaminazione totale *
+
+mg/kg
+
+-
+
+24
+
+En 12662
+
+Valore di acidità
+
+mg KOH/g
+
+0,50
+
+En 14104
+
+Contenuto di estere [b] *
+
+% (m/m)
+
+96,5
+
+En 14103
+
+Contenuto di monogliceridi
+
+% (m/m)
+
+0,80
+
+En 14105
+
+Contenuto di digliceridi
+
+% (m/m)
+
+0,20
+
+En 14105
+
+Contenuto di trigliceridi *
+
+% (m/m)
+
+0,20
+
+En 14105
+
+Glicerolo libero [c] *
+
+% (m/m)
+
+CFPP [d]
+
+°C
+
+Punto di scorrimento [e]
+
+°C
+
+En 14105 En 14106
+
+0,02
+
+Uni En 116
+
+Iso 3016 Din 51900:1989 Din 519001:1998 Din 519002:1997 Din 519003:1989
+
+Potere calorifico inferiore (calcolato)
+
+MJ/kg
+
+Numero di Iodio
+
+g iodio/100
+
+130
+
+En 14111
+
+Contenuto di zolfo
+
+mg/kg
+
+10,0
+
+prEn Iso 20846 prEn Iso 20884
+
+Stabilità all'ossidazione, 110 °C
+
+ore
+
+-
+
+En 14112
+
+35
+
+4,0
+
+[a] Per ottenere il 10% residuo deve essere utilizzato il metodo Astm D 1160. [b] Non è consentita l'aggiunta di esteri diversi da quelli propri del biodiesel e di altre sostanze diverse dagli additivi. [c] In caso di controversia sul glicerolo libero, si deve utilizzare il metodo En 14105. [d] Per il biodiesel da utilizzare tal quale, il limite massimo coincide con quello previsto dalla Uni
+
+6579\. [e] Il biodiesel destinato alla miscelazione con oli combustibili convenzionali non deve contenere additivi migliorativi della filtrabilità a freddo. * In caso di controversia per la determinazione della contaminazione totale, del contenuto di esteri, del contenuto di trigliceridi e del glicerolo libero non si applica il criterio del 2R della Uni En Iso 4259 rispetto al limite indicato in tabella.
+
+##### Sezione 2
+
+Combustibili solidi
+
+1\. Caratteristiche e metodi di prova per i combustibili solidi Materie Ceneri Zolfo Umidità volatili [b] [b] [b] [b]
+
+Tipo
+
+% Coke metallurgico e da gas
+
+≤2
+
+% ≤ 12 ≤ 10
+
+%
+
+≤1
+
+% ≤ 12 ≤8
+
+Potere calorifero inferiore [c] MJ / kg ≥ 27,63
+
+Coke metallurgico e da gas
+
+Antracite, prodotti antracitosi e loro miscele
+
+≤ 13
+
+≤ 10
+
+≤1
+
+Carbone da vapore
+
+≤ 40
+
+≤ 16
+
+Agglomerati di lignite
+
+≤ 40
+
+≤ 16
+
+[a]
+
+≤ 12
+
+≤3
+
+[d]
+
+≤ 14
+
+≤6
+
+Coke da petrolio Norma per l'analisi
+
+Iso 562
+
+Uni 7342
+
+≤5
+
+≥ 29,31
+
+Antracite, prodotti antracitosi e loro miscele
+
+≤1
+
+≤ 10
+
+≥ 23,86
+
+Carbone da vapore
+
+≤ 0,5
+
+≤ 15
+
+≥ 14,65
+
+Agglomerati di lignite
+
+Uni 7584
+
+Coke da petrolio
+
+≥ 29,31 Uni 7340
+
+Iso 1928
+
+[ a] - per gli impianti di cui alla parte I, paragrafo 2 [ b] - i valori rappresentano limiti massimi come percentuali di massa sul prodotto tal quale [ c] - valori minimi riferiti al prodotto tal quale [ d] - per gli impianti di cui alla parte I, paragrafo 5
+
+Tipo
+
+Coke metallurgico e da gas
+
+Materie volatili
+
+(b)
+
+Ceneri
+
+(b)
+
+Zolfo
+
+(b)
+
+Umidità
+
+(b)
+
+%
+
+%
+
+%
+
+%
+
+≤2
+
+≤ 12 ≤ 10
+
+≤1
+
+Antracite, prodotti antracitosi e loro miscele
+
+≤ 13
+
+≤ 10
+
+≤1
+
+Carbone da vapore
+
+≤ 40
+
+≤ 16
+
+≤1
+
+Agglomerati di lignite
+
+≤ 40
+
+≤ 16
+
+≤ 0,5
+
+7(a)
+
+≤ 12
+
+Coke da petrolio Norma per l'analisi
+
+7(b)
+
+≤8
+
+≤5
+
+MJ/kg ≥ 27,63
+
+Coke metallurgico e da gas
+
+≥ 29,31
+
+Antracite, prodotti antracitosi e loro miscele Carbone da vapore
+
+≤ 15
+
+≥ 14,65
+
+≤3
+
+≤ 14 Iso 562
+
+≤ 12
+
+Potere calorifico inferiore (c)
+
+≥ 29,31
+
+≤6 Uni 7342
+
+Uni 7584
+
+Uni 7340
+
+Agglomerati di lignite Coke da petrolio Iso 1928
+
+##### Sezione 3
+
+Caratteristiche delle emulsioni acqua — gasolio, acqua — kerosene e acqua — olio combustibile
+
+1\. Emulsione acqua-gasolio, acqua-kerosene o acqua-altri distillati leggeri e medi di petrolio
+
+1.1 Il contenuto di acqua delle emulsioni di cui al punto 1 non può essere inferiore al 10%, né superiore al 30%.
+
+1.2 Le emulsioni di cui al punto 1 possono essere stabilizzate con l'aggiunta, in quantità non superiore al 3%, di tensioattivi non contenenti composti del fluoro, del cloro né metalli pesanti. In ogni caso, se il tensioattivo contiene un elemento per il quale è previsto un limite massimo di specifica nel combustibile usato per preparare l'emulsione, il contenuto di tensioattivo da impiegare deve essere tale che il contenuto totale di questo elemento nell'emulsione, dedotta la percentuale di acqua, non superi il suddetto limite di specifica.
+
+1.3 Le emulsioni di cui al punto 1 si definiscono stabili alle seguenti condizioni: un campione portato alla temperatura di 20°C ± 1°C e sottoposto a centrifugazione con un apparato conforme al metodo Astm D 1796 con una accelerazione centrifuga pari a
+
+30.000 m/s2 (corrispondente a una forza centrifuga relativa a pari a 3060) per 15 minuti, non deve dar luogo a separazione di acqua superiore alla percentuale consentita dalla parte II, sezione 1, paragrafo 1, alla voce "Acqua e sedimenti".
+
+1.4 La rispondenza delle emulsioni ai suddetti requisiti di stabilità e composizione deve essere certificata da un laboratorio accreditato secondo le norme Uni-Cei En 45001 per le prove sopracitate. Il sistema di accreditamento deve essere conforme alla norma Uni-Cei En 45003 e deve valutare la competenza dei laboratori secondo la norma Uni-Cei En 42002.
+
+2\. Emulsioni acqua-olio combustibile, ed altri distillati pesanti di petrolio
+
+2.1 Il contenuto di acqua delle emulsioni di cui al punto 2 non può essere inferiore al 10%, né superiore al 30%.
+
+2.2 Le emulsioni di cui al punto 2 possono essere stabilizzate con l'aggiunta, in quantità non superiore al 3%, di tensioattivi non contenenti composti del fluoro, del cloro né metalli pesanti. In ogni caso, se il tensioattivo contiene un elemento per il quale è previsto un limite massimo di specifica nel combustibile usato per preparare l'emulsione, il contenuto di tensioattivo da impiegare deve essere tale che il contenuto totale di questo elemento nell'emulsione, dedotta la percentuale di acqua, non superi il suddetto limite di specifica.
+
+2.3 Le emulsioni di cui al punto 2 si definiscono stabili alle seguenti condizioni: un campione portato alla temperatura di 50°C ± 1°C e sottoposto a centrifugazione con un apparato conforme al metodo Astm D 1796 con una accelerazione centrifuga pari a
+
+30.000 m/s2 (corrispondente a una forza centrifuga relativa pari a 3060) per 15 minuti, non deve dar luogo a separazione di acqua superiore alla percentuale consentita alla parte II, sezione 1, paragrafo 1, alle voci "Acqua e sedimenti", "Acqua" e "Sedimenti".
+
+2.4 La rispondenza delle emulsioni ai suddetti requisiti di stabilità e composizione deve essere certificata da un laboratorio accreditato secondo le norme Uni-Cei En 45001 per le prove sopraccitate. Il sistema di accreditamento deve essere conforme alla Uni-Cei En 45003 e deve valutare la competenza dei laboratori secondo la norma Uni-Cei En 42002.
+
+##### Sezione 4
+
+Caratteristiche delle biomasse combustibili e relative condizioni di utilizzo
+
+1\. Tipologia e provenienza
+
+a) Materiale vegetale prodotto da coltivazioni dedicate;
+
+b) Materiale vegetale prodotto da trattamento esclusivamente meccanico, lavaggio con acqua o essiccazione di coltivazioni agricole non dedicate;
+
+c) Materiale vegetale prodotto da interventi selvicolturali, da manutenzione forestale e da potatura;
+
+d) Materiale vegetale prodotto dalla lavorazione esclusivamente meccanica e dal trattamento con aria, vapore o acqua anche surriscaldata di legno vergine e costituito da cortecce, segatura, trucioli, chips, refili e tondelli di legno vergine, granulati e cascami di legno vergine, granulati e cascami di sughero vergine, tondelli, non contaminati da inquinanti;
+
+e) Materiale vegetale prodotto da trattamento esclusivamente meccanico, lavaggio con acqua o essiccazione di prodotti agricoli.
+
+f) Sansa di oliva disoleata avente le caratteristiche riportate nella tabella seguente, ottenuta dal trattamento delle sanse vergini con n-esano per l'estrazione dell'olio di sansa destinato all'alimentazione umana, e da successivo trattamento termico, purché i predetti trattamenti siano effettuati all'interno del medesimo impianto; tali requisiti, nel caso di impiego del prodotto al di fuori dell'impianto stesso di produzione, devono risultare da un sistema di identificazione conforme a quanto stabilito al punto 3:
+
+Caratteristica
+
+Unità
+
+Valori minimi/massimi
+
+Metodi di analisi
+
+Ceneri
+
+% (m/m)
+
+≤ 4%
+
+Astm D 5142-98
+
+Umidità
+
+% (m/m)
+
+≤ 15%
+
+Astm D 5142-98
+
+N-esano
+
+mg/kg
+
+≤ 30%
+
+Uni 22609
+
+assenti
+
+\*
+
+Solventi organici clorurati Potere calorifico inferiore
+
+MJ / kg
+
+≤ 15,700
+
+Astm D 5865-01
+
+\* Nel certificato di analisi deve essere indicato il metodo impiegato per la rilevazione dei solventi organici clorurati.
+
+g) Liquor nero ottenuto nelle cartiere dalle operazioni di lisciviazione del legno e sottoposto ad evaporazione al fine di incrementarne il residuo solido, purché la produzione, il trattamento e la successiva combustione siano effettuate nella medesima cartiera e purché l'utilizzo di tale prodotto costituisca una misura per la riduzione delle emissioni e per il risparmio energetico.
+
+2\. Condizioni di utilizzo
+
+2.1 La conversione energetica della biomasse di cui al paragrafo 1 può essere effettuata attraverso la combustione diretta, ovvero previa pirolisi o gassificazione.
+
+2.2 Modalità di combustione Al fine di garantire il rispetto dei valori limite di emissione previsti dal presente decreto, le condizioni operative devono essere assicurate, alle normali condizioni di esercizio, anche attraverso:
+
+a) l'alimentazione automatica del combustibile (non obbligatoria se la potenza termica nominale di ciascun singolo impianto di combustione o di ciascun singolo focolare di impianto termico è inferiore o uguale a 1 MW);
+
+b) il controllo della combustione, anche in fase di avviamento, tramite la misura e la registrazione in continuo, nella camera di combustione, della temperatura e del tenore di ossigeno, e la regolazione automatica del rapporto aria/combustibile (non obbligatoria per gli impianti se la potenza termica nominale di ciascun singolo impianto è inferiore o uguale a 120 kW);
+
+c) l'installazione del bruciatore pilota a combustibile gassoso o liquido (non obbligatoria se la potenza termica nominale di ciascun singolo impianto è inferiore o uguale a 6 MW);
+
+d) la misurazione e la registrazione in continuo, nell'effluente gassoso, della temperatura e delle concentrazioni di monossido di carbonio, degli ossidi di azoto e del vapore acqueo (non obbligatoria se la potenza termica nominale complessiva é inferiore o uguale a 6 MW). La misurazione in continuo del tenore di vapore acqueo può essere omessa se l'effluente gassoso campionato viene essiccato prima dell'analisi;
+
+e) la misurazione e la registrazione in continuo, nell'effluente gassoso, delle concentrazioni di polveri totali e carbonio organico totale (non obbligatoria se la potenza termica nominale complessiva è inferiore o uguale a 20 MW);
+
+f) la misurazione con frequenza almeno annuale della concentrazione negli effluenti gassosi delle sostanze per cui sono fissati specifici valori limite di emissione, ove non sia prevista la misurazione in continuo.
+
+3\. Norme per l'identificazione delle biomasse di cui al paragrafo 1, lettera f)
+
+3.1. La denominazione "sansa di oliva disoleata", la denominazione e l'ubicazione dell'impianto di produzione, l'anno di produzione, nonché il possesso delle caratteristiche di cui alla tabella riportata al paragrafo 1 devono figurare:
+
+a) in caso di imballaggio, su apposite etichette o direttamente sugli imballaggi;
+
+b) in caso di prodotto sfuso, nei documenti di accompagnamento.
+
+Nel caso di imballaggi che contengano quantitativi superiori a 100 kg é ammessa la sola iscrizione dei dati nei documenti di accompagnamento.
+
+Un esemplare dei documenti di accompagnamento, contenente le informazioni prescritte, deve essere unito al prodotto e deve essere accessibile agli organi di controllo.
+
+3.2. Le etichette o i dati stampati sull'imballaggio, contenenti tutte le informazioni prescritte, devono essere bene in vista. Le etichette devono essere inoltre fissate al sistema di chiusura dell'imballaggio. Le informazioni devono essere redatte almeno in lingua italiana, indelebili e chiaramente leggibili e devono essere nettamente separate da altre eventuali informazioni concernenti il prodotto.
+
+3.3. In caso di prodotto imballato, l'imballaggio deve essere chiuso con un dispositivo o con un sistema tale che, all'atto dell'apertura, il dispositivo o il sigillo di chiusura o l'imballaggio stesso risultino irreparabilmente danneggiati.
+
+##### Sezione 5
+
+Caratteristiche e condizioni di utilizzo del biogas (parte I, sezione 1 paragrafo 1, lettera r) e sezione 2, paragrafo 1, lettera n)
+
+1\. Provenienza:
+
+Il biogas deve provenire dalla fermentazione anaerobica metanogenica di sostanze organiche, quali per esempio effluenti di allevamento, prodotti agricoli o borlande di distillazione, purché tali sostanze non costituiscano rifiuti ai sensi del Titolo II del Presente Codice. In particolare non deve essere prodotto da discariche, fanghi, liquami e altri rifiuti a matrice organica. Il biogas derivante dai rifiuti può essere utilizzato con le modalità e alle condizioni previste dalla normativa sui rifiuti.
+
+2\. Caratteristiche Il biogas deve essere costituito prevalentemente da metano e biossido di carbonio e con un contenuto massimo di composti solforati, espressi come solfuro di idrogeno, non superiore allo 0.1% v/v.
+
+3\. Condizioni di utilizzo
+
+3.1 L'utilizzo del biogas è consentito nel medesimo comprensorio in cui tale biogas è prodotto.
+
+3.2 Per gli impianti di cui al punto 3.1 devono essere effettuati controlli almeno annuali dei valori di emissione ad esclusione di quelli per cui è richiesta la misurazione in continuo di cui al punto 3.3.
+
+3.3 Se la potenza termica nominale complessiva è superiore a 6 MW, deve essere effettuata la misurazione e registrazione in continuo nell'effluente gassoso del tenore volumetrico di ossigeno, della temperatura, delle concentrazioni del monossido di carbonio.
+
+Allegato O Sostanze ritenute cancerogene e/o mutagene e/o teratogene Tabella A1 CLASSE I — Asbesto (crisotilo, crocidolite, amosite, antofillite, actinolite e tremolite) — Benzo(a)pirene — Berillio e i suoi composti espressi come Be — Dibenzo(a,h)antracene — 2-naftilammina e suoi sali — Benzo(a)antracene — Benzo(b)fluorantene — Benzo(j)fluorantene — Benzo(k)fluorantene — Dibenzo(a,h)acridina — Dibenzo(a,j)acridina — Dibenzo(a,e)pirene — Dibenzo(a,h)pirene — Dibenzo(a,i)pirene — Dibenzo(a,l)pirene — Cadmio e suoi composti, espressi come Cd [1] — Dimetilnitrosamina — Indeno (1,2,3-cd) pirene [1] — 5-Nitroacenaftene — 2-Nitronaftalene — 1-Metil-3 -Nitro— 1— Nitrosoguanidina [1] Il valore di emissione e la soglia di rilevanza previsti dal presente punto si applicano a decorrere dalla data indicata nelle autorizzazioni rilasciate.
+
+CLASSE II — Arsenico e suoi composti, espressi come As — Cromo (VI) e suoi composti, espressi come Cr — Cobalto e suoi composti, espressi come Co — 3,3'-Diclorobenzidina e suoi sali — Dimetilsolfato — Etilenimmina — Nichel e suoi composti espressi come Ni [2] — 4— aminobifenile e suoi sali — Benzidina e suoi sali — 4,4'-Metilen bis (2— Cloroanilina) e suoi sali — Dietilsolfato — 3,3'-Dimetilbenzidina e suoi sali — Esametilfosforotriamide — 2-Metilaziridina — Metil ONN Azossirnetile Acetato Sulfallate — Dimetilcarbammoileloruro — 3,3'-Dimetossibenzidina e suoi sali [2] Riferito ad emissioni in atmosfera nella forma respirabile ed insolubile.
+
+CLASSE III — Acrilonitrile — Benzene — 1,3-butadiene — 1-cloro-2,3-epossipropano(epicloridrina) — 1,2-dibromoetano — 1,2-epossipropano — 1,2-dicloroetano — vinile cloruro — 1,3-Dicloro-2-propanolo — Clorometil (Metil) Etere — N,N-Dimetilidrazina — Idrazina — Ossido di etilene — Etilentiourea — 2-Nitropropano — Bis-Clorometiletere — 3-Propanolide — 1,3-Propansultone — Stirene Ossido Per l’aggiornamento delle sostanze di cui alla precedente tabella si fa riferimento a quanto pubblicato dall’ ACGIH (American Conference of Governmental Industrial Hygienist), USA.
+
+ALLEGATO P Tabella: Valori limite assoluti di immissione - Leq in dB (A)
+
+Zone acustiche
+
+A B C
+
+aree di tipo misto aree di intensa attività umana aree prevalentemente industriali
+
+Tempo di riferimento Periodo Diurno Periodo Notturno (06:00-22:00)
+
+(22:00-06:00)
+
+ALLEGATO Q NORME TECNICHE PER L’ESECUZIONE DELLE MISURE
+
+###### Articolo 1
+
+(Strumentazione di misura)
+
+1.
+
+Le norme tecniche di seguito indicate stabiliscono le prescrizioni minime in termini di qualità e precisione delle apparecchiature di misura. La strumentazione di misura deve, quindi, essere almeno conforme alle norme indicate o alla versione più aggiornata delle medesime norme tecniche.
+
+2.
+
+Il sistema di misura deve essere scelto in modo da soddisfare le specifiche di cui alla classe 1 delle norme CEI EN 60651/2002 e CEI EN 60804/2001.
+
+3.
+
+Le misure di livello equivalente devono essere effettuate direttamente con un fonometro conforme alla classe 1 delle norme CEI EN 60651/2002 e CEI EN 60804/2001.
+
+4.
+
+Nel caso di utilizzo di segnali registrati, prima e dopo le misure deve essere registrato anche un segnale di calibrazione.
+
+5.
+
+La catena di registrazione deve avere una risposta in frequenza conforme a quella richiesta per la classe 1 dalla CEI EN 60651/2002 ed una dinamica adeguata al fenomeno in esame.
+
+6.
+
+L’uso del registratore deve essere dichiarato nel rapporto di misura.
+
+7.
+
+I filtri e i microfoni utilizzati per le misure devono essere conformi, rispettivamente, alle norme CEI EN 61260/1997 e CEI EN 61094-1/1994, CEI EN 61094-2/1993, CEI EN 61094-3/1995, CEI EN 61094-4/1995.
+
+8.
+
+I calibratori devono essere conformi alla classe 1 delle norme CEI EN 60942/1999.
+
+9.
+
+La strumentazione e/o la catena di misura, prima e dopo ogni ciclo di misura, deve essere controllata con un calibratore di classe 1, secondo la norma CEI EN 60942/1999.
+
+10.
+
+Le misure fonometriche eseguite sono valide se le calibrazioni effettuate prima e dopo ogni ciclo di misura, differiscono al massimo di 0,5 dB.
+
+11.
+
+In caso di utilizzo di un sistema di registrazione e di riproduzione, i segnali di calibrazione devono essere registrati.
+
+12.
+
+Gli strumenti ed i sistemi di misura devono essere provvisti di certificato di taratura e controllati almeno ogni due anni per la verifica della conformità alle specifiche tecniche. Il controllo periodico deve essere eseguito presso laboratori accreditati da un servizio di taratura nazionale. Per gli strumenti nuovi è valido per i primi due anni il certificato di prova e conformità alle specifiche tecniche rilasciato dal produttore.
+
+13.
+
+Per l’utilizzo di altri elementi a completamento della catena di misura non previsti nelle norme di cui ai commi 1 e 2 del presente articolo, deve essere assicurato il rispetto dei limiti di tolleranza della classe 1 sopra richiamata.
+
+###### Articolo 2
+
+(Criteri e modalità di esecuzione delle misure)
+
+1\. Prima dell’inizio delle misure è indispensabile acquisire tutte quelle informazioni che possono condizionare la scelta del metodo, dei tempi e delle posizioni di misura. I rilievi di rumorosità devono pertanto tenere conto delle variazioni sia dell’emissione sonora delle sorgenti che della loro propagazione. Devono essere rilevati tutti i dati che conducono ad una descrizione delle sorgenti che influiscono sul rumore ambientale nelle zone interessate dall’indagine. Se individuabili, occorre indicare le
+
+maggiori sorgenti, la variabilità della loro emissione sonora, la presenza di componenti tonali e/o impulsive e/o di bassa frequenza.
+
+2\. La misura dei livelli continui equivalenti di pressione sonora ponderata «A» nel periodo di riferimento (LAeq,TR) può essere eseguita:
+
+a) per integrazione continua: il valore LAeq,TR viene ottenuto misurando il rumore ambientale durante l’intero periodo di riferimento, con l’esclusione eventuale degli intervalli in cui si verificano condizioni anomale non rappresentative dell’area in esame;
+
+b) con tecnica di campionamento: il valore LAeq,TR viene calcolato come media dei valori del livello continuo equivalente di pressione sonora ponderata «A» relativo agli intervalli del tempo di osservazione (To)i. Il valore di LAeq,TR è dato dalla relazione:
+
+dBA dove:
+
+Gli n tempi di osservazione To devono essere rappresentativi ognuno di condizioni omogenee di rumore. All’interno dei tempi di osservazione To si individuano i tempi di misura TM tali per cui il livello continuo equivalente di pressione sonora ponderata «A» relativo al tempo di misura (LAeq,TM) risulti rappresentativo del rumore ambientale presente durante il tempo di osservazione To.
+
+3\. La metodologia di misura rileva valori di (LAeq,TR) rappresentativi del rumore ambientale nel periodo di riferimento, della zona in esame, della tipologia della sorgente e della propagazione dell’emissione sonora. Nel caso in cui l’operatore non sia presente durante l’intera durata del rilievo e si verifichino eventi sonori atipici, individuabili dalla registrazione della storia temporale del livello di pressione sonora, per procedere all’esclusione di tali eventi sonori atipici è necessario disporre di una registrazione audio che permetta di stabilirne la natura eccezionale rispetto al valore ambientale della zona.
+
+4\. Il microfono da campo libero deve essere orientato verso la sorgente di rumore; nel caso in cui la sorgente non sia localizzabile o siano presenti più sorgenti deve essere usato un microfono per incidenza casuale o, in alternativa, nel caso di utilizzo di fonometri dotati di apposito filtro interno per la correzione della risposta in frequenza del microfono da campo libero ad incidenza casuale, è ammesso l’utilizzo di tale correzione interna allo strumento di misura. Il microfono deve essere montato su apposito sostegno e collegato al fonometro con cavo di lunghezza tale da consentire agli operatori di porsi alla distanza non inferiore a 3 m dal microfono stesso.
+
+5\. Per i rilevamenti in ambiente esterno le posizioni di misura andranno identificate conformemente a quanto segue:
+
+a) in presenza di edifici con facciata a filo della sede stradale, il microfono deve essere collocato a 1 m (± 0.1 metri) dalla facciata stessa e all’altezza dal suolo corrispondente alla posizione degli ambienti abitativi maggiormente disturbati;
+
+b) in presenza di edifici con distacco dalla sede stradale o di spazi liberi, il microfono deve essere collocato nell’interno dello spazio fruibile da persone o comunità e, comunque, a non meno di 1 m dalla facciata dell’edificio e ad altezza di 1.5 metri (±
+
+0.1 metri) dal suolo;
+
+6\. Per le misure all’interno di ambienti abitativi, il microfono della catena fonometrica deve essere posizionato a 1.5 metri (± 0.1 metri) dal pavimento e ad almeno 1 metro da superfici riflettenti. Il rilevamento in ambiente abitativo deve essere eseguito sia a finestre aperte che chiuse, al fine di individuare la situazione più gravosa. Nel caso del superamento di entrambe le soglie previste all’articolo 127, comma 2 del Codice, è necessario procedere alla valutazione del livello differenziale di rumore sia a finestre aperte che chiuse. La situazione più gravosa è individuata dal valore massimo dei livelli differenziali così calcolati. Nella misura a finestre aperte il microfono deve essere posizionato a 1 metro dalla finestra; in presenza di onde stazionarie il microfono deve essere posto in corrispondenza del massimo di pressione sonora più vicino alla posizione indicata precedentemente. Nella misura a finestre chiuse, il microfono deve essere posto nel punto in cui si rileva il maggior livello della pressione acustica.
+
+7\. Le misurazioni devono essere eseguite in assenza di precipitazioni atmosferiche, di nebbia e/o neve; la velocità del vento deve essere non superiore a 5 m/s. Il microfono deve essere comunque munito di cuffia antivento. La catena di misura deve essere compatibile con le condizioni meteorologiche del periodo in cui si effettuano le misurazioni e comunque in accordo con la norma CEI EN 60804/2001. Le misure devono essere arrotondate a 0.5 dB(A).
+
+8\. Qualora sia riconosciuta la presenza di eventi sonori impulsivi, devono essere eseguiti i rilevamenti dei livelli LAImax e LASmax per un tempo di misura adeguato. Detti rilevamenti possono essere contemporanei al verificarsi dell’evento oppure essere svolti successivamente sulla registrazione dell’evento. Il rumore è considerato avente componenti impulsive quando sono verificate le condizioni seguenti:
+
+a) l’evento è ripetitivo;
+
+b) la differenza tra LAImax e LAsmax è superiore a 6 dB(A);
+
+c) la durata dell’evento a -10 dB(A) dal valore LAFmax è inferiore a 1 s.
+
+9\. L’evento sonoro impulsivo si considera ripetitivo quando si verifica almeno 10 volte nell’arco di un’ora nel periodo diurno ed almeno 2 volte nell’arco di un’ora nel periodo notturno. La ripetitività deve essere dimostrata mediante registrazione e riproduzione grafica del livello LAF effettuata durante il tempo di misura TM. La verifica strumentale della presenza di componente impulsiva comporta l’applicazione del fattore correttivo KI.
+
+10\. Qualora sia riconosciuta la presenza di Componenti Tonali (CT) nel rumore, si effettua un’analisi spettrale dei livelli di pressione sonora non ponderata per bande normalizzate di 1/3 di ottava. Si considerano esclusivamente le CT aventi carattere stazionario nel tempo ed in frequenza. Se si utilizzano filtri sequenziali si determina il minimo di ciascuna banda con costante di tempo Fast. Se si utilizzano filtri paralleli, il livello dello spettro stazionario è evidenziato dal livello minimo in ciascuna banda.
+
+L’analisi deve essere svolta nell’intervallo di frequenza compreso tra 20 Hz e 12,5 kHz . Si è in presenza di una CT se il livello minimo di una banda supera i livelli minimi di entrambe le bande adiacenti per almeno 5 dB. Si applica il fattore di correzione KT, soltanto se la CT tocca una isofonica eguale o superiore a quella più elevata raggiunta dalle altre componenti dello spettro. La normativa tecnica di riferimento è la ISO 226/2003.
+
+11\. Se l’analisi in frequenza, svolta con le modalità di cui al comma precedente, rileva la presenza di CT tali da consentire l’applicazione del fattore correttivo KT nell’intervallo di frequenze compreso fra 20 Hz e 200 Hz , si applica anche la correzione KB, esclusivamente nel tempo di riferimento notturno.
+
+12\. Nella determinazione di LAeq,TR le penalizzazioni KI, KT e KB si applicano unicamente al livello LAeq,TO per il tempo di osservazione durante il quale si verifica la presenza della componente impulsiva e/o tonale e/o in bassa frequenza. Nella determinazione del livello differenziale di rumore LD le penalizzazioni KI, KT e KB si applicano al livello di
+
+rumore residuo LR unicamente nel caso in cui la componente impulsiva e/o tonale e/o in bassa frequenza sia la medesima presente anche nel rumore ambientale LA.
+
+ALLEGATO R METODOLOGIA DI MISURA DEL RUMORE STRADALE
+
+###### Articolo 1
+
+(Misura del rumore stradale)
+
+1\. Essendo il traffico stradale un fenomeno avente carattere di casualità o pseudocasualità, il monitoraggio del rumore da esso prodotto deve essere eseguito per un tempo di misura non inferiore ad una settimana. In tale periodo deve essere rilevato il livello continuo equivalente ponderato «A» per ogni ora su tutto l’arco delle ventiquattro ore.
+
+2\. Dai singoli dati di livello continuo orario equivalente ponderato «A» ottenuti si calcola:
+
+a) per ogni giorno della settimana il livello equivalente (LAeq,TR) diurno e notturno;
+
+b) per ogni settimana il valore medio settimanale diurno e notturno.
+
+3\. Il microfono deve essere posto ad una distanza di 1 m (± 0.1 metri) dalle facciate di edifici, in corrispondenza dei punti di maggiore esposizione. In assenza di edifici il microfono deve essere posto in corrispondenza della posizione occupata dai ricettori.
+
+4\. I valori di cui al superiore comma 2, lettera b) devono essere confrontati con i valori massimi di immissione stabiliti dal Regolamento del Congresso di Stato di cui all’articolo 139, comma 1, lettera c) del Codice.
+
+ALLEGATO S PRESENTAZIONE DEI RISULTATI
+
+###### Articolo 1
+
+(Rapporto per la presentazione dei risultati delle misurazioni)
+
+1\. I risultati dei rilevamenti devono essere trascritti in un rapporto che contenga almeno i seguenti dati:
+
+a) data, luogo, ora del rilevamento, descrizione delle condizioni meteorologiche ed eventualmente, se rilevante, velocità e direzione del vento;
+
+b) tempo di riferimento, di osservazione e di misura;
+
+c) descrizione della catena di misura completa, precisando la strumentazione impiegata e il relativo grado di precisione. Deve essere prodotta copia del certificato di verifica della taratura;
+
+d) modello, tipo, dinamica e risposta in frequenza nel caso di utilizzo di un sistema di registrazione o riproduzione;
+
+e) livelli di rumore rilevati;
+
+f) zona acustica alla quale appartiene il luogo di misura;
+
+g) elenco nominativo degli osservatori che hanno presenziato alla misurazione;
+
+h) conclusioni;
+
+i) identificativo e firma leggibile del tecnico competente in acustica che ha eseguito le misure.
+
+ALLEGATO T Categorie di attività:
+
+\- categoria A: edifici adibiti a residenza o assimilabili;
+
+\- categoria B: edifici adibiti ad uffici e assimilabili;
+
+\- categoria C: edifici adibiti ad alberghi, pensioni ed attività assimilabili;
+
+\- categoria D: edifici adibiti ad ospedali, cliniche, case di cura e assimilabili;
+
+\- categoria E: edifici adibiti ad attività scolastiche a tutti i livelli e assimilabili;
+
+\- categoria F: edifici adibiti ad attività ricreative o di culto o assimilabili;
+
+\- categoria G: edifici adibiti ad attività commerciali o assimilabili.
+
+Valori di D2m,nT,w in relazione a ciascuna categoria di attività:
+
+Categorie
+
+Zona A
+
+Zona B
+
+Zona C
+
+D
+
+45
+
+48
+
+48
+
+A,C
+
+38
+
+40
+
+45
+
+E
+
+45
+
+48
+
+48
+
+B,F,G
+
+ALLEGATO U RIDUZIONE A CONFORMITA’ La riduzione dei contributi dei campi elettromagnetici generati da diverse sorgenti che concorrono in un dato punto al superamento dei limiti di cui al comma 3 dell’articolo 144, o dei valori di cautela di cui al comma 4 dell’articolo 144, deve essere eseguito nel modo seguente. Indicando con Ei il campo elettrico della sorgente i-esima, con Li il corrispondente limite desunto dalle Tabelle dell’articolo 144, con Di la densità di potenza della sorgente e DLi il corrispondente limite desunto dalle Tabelle dell’articolo 144, si calcolano i contributi normalizzati che le varie sorgenti producono nel punto in considerazione nel modo seguente:
+
+ALLEGATO V Documentazione per autorizzazione impianti per la radiodiffusione e per la telefonia mobile Per ogni singola installazione deve essere prodotta la seguente documentazione relativamente a:
+
+1\. Caratteristiche del sito
+
+• progetto dell'impianto in scala 1:200;
+
+• inserimento fotografico;
+
+• altitudine, quota sul livello del mare e coordinate geografiche del punto o zona d'installazione;
+
+• carta altimetrica 1:5000 qualora necessaria;
+
+• cartografia aggiornata in scala 1:2000 con l'indicazione degli edifici presenti, delle loro altezze e quote sul livello del mare, delle destinazioni d'uso e delle aree di pertinenza in un raggio di 500 m per impianti per la radiodiffusione o di 200 m per impianti per la telefonia mobile.
+
+2\. Caratteristiche radioelettriche e valutazione strumentale
+
+• banda di frequenza assegnata in trasmissione;
+
+• scheda tecnica dell'impianto, con indicato il numero di celle, tipo, modello e dimensioni delle antenne trasmittenti, altezza dal centro elettrico per ogni cella, guadagno rispetto all'irradiatore isotropo ed eventuale tilt (elettrico o meccanico);
+
+• direzioni di puntamento rispetto al nord geografico, numero di trasmettitori per cella e potenza per ogni direzione di puntamento;
+
+• diagrammi angolari di irradiazione orizzontale e verticale del sistema irradiante corredati dell'attenuazione in dB della potenza irradiata, informatizzati ad intervalli di 1 grado;
+
+• relazione descrittiva dell'area di installazione dell'impianto con l'indicazione delle modalità di accesso da parte del personale di servizio e dell'ubicazione del locale contenente gli apparati tecnologici.
+
+• valutazione strumentale del fondo elettromagnetico in corrispondenza degli edifici maggiormente interessati dai lobi primari di induzione;
+
+• stima del campo elettrico generato dall'impianto nelle condizioni di massimo esercizio attraverso modelli di calcolo conformi alle norme CEI, tenuto conto di eventuali contributi derivanti dalla presenza di altre installazioni.
+
+Inoltre, per antenne installate su edifici:
+
+• planimetria dell'edificio in scala 1:100, corredata dei prospetti verticali in scala 1:100 con il posizionamento delle antenne.
+
+Nel caso di microcelle dovrà essere prodotta oltre a quanto previsto al punto 2 la seguente documentazione riferita ad ogni sito:
+
+• inserimento fotografico;
+
+• prospetti verticali in scala opportuna (1:50 o 1:100) con indicazione della presenza di eventuali portici;
+
+• pianta in scala 1:100 riportante nel raggio di 20 m dal trasmettitore l'indicazione degli edifici presenti, delle loro altezze e quote sul livello del mare, delle destinazioni d'uso e delle aree di pertinenza;
+
+Documentazione per autorizzazione di elettrodotti
+
+1\. Caratteristiche del sito
+
+• progetto dell'impianto in scala adeguata;
+
+• altitudine, quota sul livello del mare e coordinate geografiche della zona d'installazione;
+
+• carta altimetrica 1:5000 qualora necessaria;
+
+• cartografia aggiornata in scala 1:2000 con l'indicazione degli edifici presenti, delle loro altezze e quote sul livello del mare, delle destinazioni d'uso e delle aree di pertinenza entro una distanza di 50 m dall’elettrodotto.
+
+2\. Caratteristiche tecniche e valutazione strumentale
+
+• numero dei conduttori;
+
+• diametro dei conduttori (nel caso di conduttori a fascio indicare il raggio equivalente);
+
+• numero funi di guardia;
+
+• diametro funi di guardia;
+
+• coordinate dei conduttori e delle funi di guardia rispetto ad un sistema di riferimento cartesiano;
+
+• disposizione delle fasi;
+
+• altezza dei conduttori e delle funi di guardia rispetto al suolo;
+
+• corrente massima di esercizio normale;
+
+• valutazione strumentale del campo magnetico di fondo in corrispondenza degli edifici maggiormente esposti;
+
+• stima del campo magnetico generato dall'impianto, attraverso modelli di calcolo conformi alle norme CEI assumendo come corrente di riferimento, in via cautelativa, il 50 % della corrente in servizio normale dell’elettrodotto, come definita dalle norme CEI.
+
+ALLEGATO Z Allegato Z – 1/4 SCHEDA IMPIANTI DI TELEFONIA MOBILE E RADIODIFFUSIONE
+
+ANAGRAFICA DEL GESTORE1 Gestore: _____________________________ Codice Gestore2__________________________________________ Tipo di emittente: Telefonia ⁪
+
+Radio ⁪
+
+TV ⁪
+
+Ponte Radio ⁪
+
+Ragione sociale: _________________________________________________________________ Nome e Cognome legale rappresentante: _______________________ Codice operatore economico: _______________________
+
+Indirizzo sede centrale Via/Piazza _________________________ n°: ____ Cap. _______ Località (Comune): ______________ Castello (Provincia): _____________ Tel: ____________________ Fax: _______________ e-mail: _______________________
+
+Data e numero autorizzazione Commissione Tutela Ambiente: _____________________________ ________________________________________________________________________________
+
+Altro: ___________________________________________________________________________ ________________________________________________________________________________ Il titolare dell’impianto ____________________ ______________ Le variazioni dei dati anagrafici del gestore dovranno essere immediatamente segnalati attraverso la compilazione della scheda “Anagrafica del gestore” al Servizio Igiene Ambientale.
+
+Il codice gestore è costituito dalle preme tre lettere del nome del gestore.
+
+Allegato Z – 2/4 SCHEDA IMPIANTI DI TELEFONIA MOBILE E RADIODIFFUSIONE
+
+POSTAZIONE Codice gestore: _______________________ Codice postazione3: ____________ Tipo di postazione
+
+box ⁪
+
+Nome postazione (facoltativo): _____________
+
+palo ⁪
+
+traliccio ⁪
+
+edificio ⁪
+
+terreno ⁪
+
+carrello ⁪
+
+altro ⁪ (specificare) __________________________________________________________ Stato della postazione: esistente⁪
+
+nuova ⁪
+
+modifica ⁪
+
+Numero di impianti della postazione appartenenti al gestore: ___________ Presenza di limitazioni di accesso alla postazione: SI ⁪
+
+NO ⁪
+
+Anagrafica postazione Via/Piazza _________________________ n°: ____ Cap. _______ Località: ______________ Castello: _____________ Tel: ____________________ Fax: _______________ e-mail: _______________________
+
+Titolare della postazione Via/Piazza _________________________ n°: ____ Cap. _______ Località (Comune): ______________ Castello (Provincia): _____________
+
+Tel: ____________________ Fax: _______________ e-mail: _______________________
+
+Georeferenziazione della postazione in coordinate Cassini-Soldner Coordinata X: ______________
+
+Coordinata Y: ____________________
+
+Quota sul livello del mare della base della postazione __________[m] _________________ Il codice della postazione è costituito dal codice gestore seguito da un numero progressivo da attribuirsi a cura del gestore.
+
+Allegato Z – 3/4 SCHEDA IMPIANTI DI TELEFONIA MOBILE E RADIODIFFUSIONE
+
+IMPIANTO Codice postazione: _______________________ Codice impianto4: ____________
+
+Nome impianto (facoltativo): _____________
+
+Stato dell’impianto: esistente ⁪
+
+nuova ⁪
+
+modifica ⁪
+
+TACS ⁪
+
+GSM ⁪
+
+DCS ⁪
+
+Tipo di impianto:
+
+Radio ⁪
+
+UMTS ⁪
+
+TV ⁪
+
+Ponte Radio ⁪ Altro ⁪ (specificare) __________________ Numero complessivo antenne: ______________________________ Numero complessivo ponti radio: ______________________________ Georeferenziazione dell’impianto in coordinate Cassini-Soldner Coordinata X: ______________
+
+Coordinata Y: ____________________
+
+_________________ Il codice dell’impianto è costituito dal codice postazione seguito da un numero progressivo dell’impianto presso la postazione di appartenenza.
+
+Allegato Z – 4/4 SCHEDA IMPIANTI DI TELEFONIA MOBILE E RADIODIFFUSIONE
+
+ANTENNA/PONTE RADIO Antenna ⁪
+
+Codice impianto: ____________
+
+Ponte Radio ⁪
+
+Georeferenziazione Antenna/Ponte Radio in coordinate Cassini-Soldner Coordinata X: ______________
+
+Coordinata Y: ____________________
+
+Altezza del centro elettrico della base della postazione: __________[m] Frequenza di funzionamento: ____________ [MHz] Direzione di puntamento del lobo principale di irradiazione rispetto al nord geografico (positivo verso est): ____________ [gradi] Numero di portanti: _____________ Potenza per portante: ___________ [W] Potenza max totale di alimentazione dell’antenna/ponte radio: ___________________ [W] Tilt elettrico (angolo di abbassamento rispetto all’orizzonte): __________________ [gradi] Tilt meccanico (angolo di abbassamento rispetto all’orizzonte): __________________ [gradi] Guadagno dell’antenna/ponte radio: __________________ [dBi] Polarizzazione: ______________________ Marca antenna /ponte radio: _______________ Modello antenna/ponte radio: _________________ Dimensioni antenna/ponte radio (lunghezza, larghezza, altezza o diametro se parabola): _________________________ [m] Diagrammi di irradiazione5:
+
+Nome del file contenente i diagrammi di irradiazione orizzontale e verticale dell’antenna/ponte radio6: ___________________________ _________________ I diagrammi di irradiazione dell’antenna totale per sistemi d’antenna per emissioni radio televisive dovranno essere ricostruiti, se possibile e qualora necessario per la descrizione dell’emissione elettromagnetica sui piani orizzontali e verticale per le varie direzioni di irraggiamento, attraverso la definizione di più antenne (ognuna con il relativo guadagno, diagramma di irradiazione orizzontale e verticale e frazione della potenza totale), considerando quindi ogni settore come cella a se stante.
+
+I diagrammi dovranno essere forniti al Servizio Igiene Ambientale in formato digitale a passi di 1 grado.
+
+ALLEGATO Z1 Allegato Z1 – 1/5
+
+SCHEDA ELETTRODOTTI ANAGRAFICA DEL GESTORE
+
+Gestore: _____________________________ Tipo di sorgente : Linea elettrica ⁪
+
+Cabina primaria ⁪
+
+Cabina secondaria ⁪
+
+Altro ⁪ Ragione sociale: _________________________________________________________________ Nome e Cognome legale rappresentante: _______________________ Codice operatore economico: _______________________
+
+Indirizzo sede centrale Via/Piazza _________________________ n°: ____ Cap. _______ Località (Comune): ______________ Castello (Provincia): _____________ Tel: ____________________ Fax: _______________ e-mail: _______________________
+
+Data e numero autorizzazione Commissione Tutela Ambiente: _____________________________ ________________________________________________________________________________
+
+Altro: ___________________________________________________________________________ ________________________________________________________________________________ Il titolare dell’impianto ____________________
+
+Allegato Z1 – 2/5 SCHEDA ELETTRODOTTI – LINEA ELETTRICA LINEA ELETTRICA Denominazione linea (obbligatorio per altre tensioni): _____________________________ Numero Tronco di Liena: ______________ Stato della linea: esistente ⁪
+
+nuova ⁪
+
+Tipo linea: aera in conduttori nudi ⁪
+
+modifica ⁪
+
+area in cavo ⁪
+
+in cavo sotterraneo ⁪
+
+Lunghezza della linea7: ________________[m] Coordinate (Cassini-Soldner) dell’impianto di partenza Coordinata X: _______________ Coordinata Y: _______________ Coordinate (Cassini-Soldner) dell’impianto di arrivo Coordinata X: _______________ Coordinata Y: _______________ In alternativa alle coordinate, può essere presentata una rappresentazione cartografica georefernziata in coordinate Cassini-Soldner in formato vettoriale (.dwg/.dxf).
+
+Tensione di esercizio della linea: ___________________ [kV] Corrente massima di esercizio della linea: _______________ [A]
+
+CARATTERISTICHE SOSTEGNO PER LINEE AEREE Codice Sostegno8:
+
+Tronco di linea: _____________
+
+Sostegno n. ____ di n. ________ totale sostegni della linea Tipo di sostegno: traliccio ⁪
+
+palo ⁪
+
+Georefernziazione della base del sostegno in coordinate Cassini-Soldner Coordinatore X: _________________ Coordinata Y: ______________ In alternativa alle coordinate, può essere presentata una rappresentazione cartografica georefernziata in coordinate Cassini-Soldner in formato vettoriale (.dwg/.dxf).
+
+Altezza del sostegno dal suolo: ______________________ [m]
+
+__________
+
+Per linee di media tensione si intende la lunghezza compresa tra due impianti (tronco).
+
+Il codice sostegno è costituito dal codice linea seguito da un numero progressivo da attribuirsi a cura del gestore.
+
+Allegato Z1 – 3/5 SCHEDA ELETTRODOTTI – LINEA ELETTRICA CONFIGURAZIONE DEI CONDUTTORI/FUNI DI GUARDIA/CAVI AEREI/INTERRATI
+
+Tronco di Linea: ________________
+
+Formazione dei conduttori: semplice terna ⁪
+
+doppia terna ⁪
+
+altro ⁪ __________
+
+Disposizione dei conduttori: in linea ⁪
+
+a triangolo ⁪
+
+altro ⁪ __________
+
+Distanza minima tra i conduttori: ___________________[m]
+
+Sfasamento della Tensione tra ogni conduttore/cavo aereo e/o interrato: conduttori 1-2: ____________ 2-3 ___________ 3-1 _________ Altezza minima dal suolo del conduttore più basso (linee aeree): ___________ [m] Profondità minima di interramento (cavi interrati): ___________ [m] Profondità media standard di interramento (cavi interrati): ___________ [m] Materiale conduttori ______________ Materiale fune di guardia ___________ (per AT)
+
+Sezione conduttore: ___________ [mm2] Sezione funi di guardia (per AT): ___________ [mm2] Passo dell’elica (solo se cavi elicoidali): ___________ [m]
+
+Allegato Z1 – 4/5 SCHEDA ELETTRODOTTI – CABINE PRIMARIE CABINE PRIMARIE
+
+Denominazione cabina: ______________________________ Numero Cabina: _________________ Stato della cabina: esistente ⁪
+
+nuova ⁪
+
+modifica ⁪
+
+Data di costruzione: ________________ Data di attivazione: _________________ Tipologia cabina: ______________________ Linea/e alimentati (AT) (nome, codice, …): ________________ Linea/e in uscita (MT) (nome, codice, …): _________________ N. trasformatori: ____________________ Tipo trasformatori: 1° - __________; 2°- ___________; 3°- ____________; ………….
+
+Potenza trasformatori[kVA]: 1° - __________; 2°- ___________; 3°- ____________; ………….
+
+Corrente massima di esercizio AT/MT/[A]: TR1- _______; TR2- _______; TR3- ____; …….
+
+Tensione nominale di esercizio AT/MT: _____________________[V]
+
+Georefernziazione della base del sostegno in coordinate Cassini-Soldner Coordinatore X: _________________ Coordinata Y: ______________ In alternativa alle coordinate, può essere presentata una rappresentazione cartografica georefernziata in coordinate Cassini-Soldner in formato vettoriale (.dwg/.dxf).
+
+Allegato Z1 – 5/5 SCHEDA ELETTRODOTTI – CABINE PRIMARIE CABINE SECONDARIE
+
+Denominazione cabina: ______________________________ Numero Cabina: _________________ Tipologia cabina: torre ⁪
+
+palo ⁪
+
+Stato della cabina: esistente ⁪
+
+prefabbricata bassa ⁪
+
+nuova ⁪
+
+altro: ___________
+
+modifica ⁪
+
+Data di costruzione: ________________ Data di attivazione: _________________ Tipologia di costruzione: esterna ⁪
+
+interna ad edifici ⁪
+
+interrata ⁪
+
+altro: ____________ N. trasformatori: ____________________ Tipo trasformatori: 1° - __________; 2°- ___________; 3°- ____________; ………….
+
+Potenza trasformatori[kVA]: 1° - __________; 2°- ___________; 3°- ____________; ………….
+
+Tensione nominale di esercizio MT/BT: _____________________[V]
+
+Georefernziazione della base del sostegno in coordinate Cassini-Soldner Coordinatore X: _________________ Coordinata Y: ______________ In alternativa alle coordinate, può essere presentata una rappresentazione cartografica georefernziata in coordinate Cassini-Soldner in formato vettoriale (.dwg/.dxf).
+
+Allegato: Schema dell’impianto.
+
+ALTRE NORME
+
+LEGGE 21 SETTEMBRE 2009 N.131 LEGGE DELEGA PER IL RIORDINO E L’AGGIORNAMENTO DELLA NORMATIVA IN MATERIA AMBIENTALE
+
+###### Art.1
+
+(Finalità)
+
+1\. Al fine di promuovere i livelli di qualità della vita umana attraverso la salvaguardia ed il miglioramento delle condizioni dell’ambiente, il Congresso di Stato con la presente legge è delegato, a norma dell’articolo 3 bis, comma 5 della Dichiarazione dei Diritti, ad adottare con decreto la normativa concernente la tutela dell’ambiente, secondo le finalità ed i criteri indicati nei successivi articoli.
+
+###### Art.2
+
+(Definizioni)
+
+1\. Ai fini della presente legge e dei decreti delegati di cui all’articolo 3 si intendono per:
+
+a) ambiente: sistema complesso di relazioni fra i fattori antropici, fisici, chimici, naturalistici, climatici, paesaggistici, architettonici, culturali ed economici di cui l’uomo è parte e con il quale interagisce. L’ambiente è formato da elementi biotici, costituenti il mondo vivente, ed elementi abiotici, costituenti il mondo inanimato. L’ambiente abiotico si suddivide, a seconda dello stato fisico, in solido, liquido, gassoso;
+
+b) scarico: immissione nell’ambiente di una sostanza di tipo solido, liquido o aeriforme. Gli scarichi si dividono in:
+
+1) scarichi da insediamenti civili: quelli prodotti esclusivamente da edifici residenziali nei quali non sia svolta attività di produzione di beni e/o di lavorazione di materiali;
+
+2) scarichi da insediamenti produttivi: quelli non rientranti nella classificazione di cui al numero 1);
+
+3) scarichi da insediamenti assimilabili ai civili: quelli prodotti da insediamenti produttivi e derivanti esclusivamente dai servizi igienici dell’insediamento, quando siano segregati e convogliati allo scarico separatamente dagli altri reflui idrici;
+
+c) fonte di potenziale inquinamento: lo scarico di una sostanza nelle acque superficiali e sotterranee, nell'aria, nel suolo e nel sottosuolo nonché le immissioni acustiche, elettromagnetiche e moleste;
+
+d) ricettori: corsi d’acqua superficiali, pubbliche fognature, suolo e sottosuolo, atmosfera;
+
+e) impatto ambientale: l'alterazione qualitativa e/o quantitativa dell'ambiente in conseguenza dell'attuazione sul territorio di piani o programmi o della realizzazione di progetti relativi a particolari impianti, opere o interventi, pubblici o privati nonché della messa in esercizio delle relative attività;
+
+f) rapporto ambientale: lo studio tecnico-scientifico contenente l'individuazione, la descrizione e la valutazione degli effetti significativi che l'attuazione di un determinato piano o programma potrebbe avere sull'ambiente nonché delle ragionevoli alternative che possono adottarsi in considerazione degli obiettivi e dell'ambito territoriale del piano o del programma;
+
+g) autorità competente: l'ufficio o organo del Settore Pubblico Allargato cui compete l'adozione di un provvedimento conclusivo del procedimento o di una sua fase.
+
+###### Art. 3
+
+(Decreti Delegati)
+
+1\. Il Congresso di Stato è delegato ad adottare, entro ventiquattro mesi dall’entrata in vigore della presente legge, decreti aventi ad oggetto la disciplina delle seguenti materie:
+
+a) gestione dei rifiuti e bonifica dei siti inquinati;
+
+b) tutela delle acque e gestione delle risorse idriche;
+
+c) tutela dell’aria;
+
+d) tutela risarcitoria contro i danni ambientali;
+
+e) diritto alle informazioni in materia d’ambiente;
+
+f) organizzazione degli organi ed uffici preposti alla tutela e salvaguardia dell’ambiente.
+
+2\. I decreti di cui al comma 1 perseguono le seguenti finalità:
+
+a) garantire la salvaguardia, la tutela ed il miglioramento della qualità dell’ambiente assicurando il controllo delle potenziali fonti di inquinamento ed impatto ambientale connesse con lo scarico di sostanze liquide, solide e aeriformi nelle acque superficiali e sotterranee, nell'aria, nel suolo e nel sottosuolo, nonché le immissioni acustiche, elettromagnetiche e moleste;
+
+b) proteggere la salute umana;
+
+c) promuovere un utilizzo accorto e razionale delle risorse naturali in conformità al principio dello sviluppo sostenibile secondo il quale al fine di garantire il soddisfacimento dei bisogni delle generazioni attuali non si devono compromettere la qualità della vita e le possibilità delle generazioni future di soddisfare le proprie esigenze;
+
+d) regolamentare gli scarichi e le immissioni di origine pubblica e privata dettando le specifiche tecniche dei limiti di accettabilità degli scarichi in conformità a quanto stabilito nelle convenzioni e negli atti internazionali in materia di tutela ambientale, tenendo, altresì, conto dell’evoluzione tecnologica;
+
+e) sviluppare in maniera coordinata e sistematica incentivi e disincentivi economici, di natura finanziaria o fiscale, allo scopo di sostenere l’introduzione e l’adozione delle migliori tecnologie disponibili per il perseguimento del risparmio e dell'efficienza energetica e per l’adozione di misure ed interventi orientati alla tutela dell’ambiente ed allo sviluppo sostenibile;
+
+f) adottare strumenti economici volti ad incentivare le piccole e medie imprese ad aderire ai sistemi di certificazione ambientale secondo le norme EMAS o in base al Regolamento (CE) n. 761/2001 del Parlamento Europeo e introdurre semplificazioni nelle procedure amministrative, autorizzative e di controllo, per le imprese certificate secondo le predette norme EMAS o in base al citato Regolamento (CE) n. 761/2001 prevedendo, ove possibile, il ricorso all'autocertificazione;
+
+g) adeguare la disciplina sammarinese alla normativa internazionale al fine di garantire elevati livelli di tutela dell'ambiente e di contribuire, in tal modo, alla competitività dei sistemi locali e delle imprese, evitando fenomeni distorsivi della concorrenza;
+
+h) attuare i principi internazionali di prevenzione, di precauzione, di correzione e di riduzione degli inquinamenti e dei danni ambientali;
+
+i) conseguire una maggiore tempestività ed efficienza nei controlli ambientali introducendo procedure di vigilanza e sanzionatorie più efficaci nel reprimere le violazioni delle norme in materia di tutela dell’ambiente;
+
+l) coordinare ed integrare la disciplina sanzionatoria, sia di natura amministrativa che penale;
+
+m) prevedere misure che assicurino l'efficacia dei monitoraggi ambientali, incentivando, in particolare, i programmi di controllo sui singoli impianti produttivi,
+
+anche attraverso il potenziamento e il miglioramento dell’efficienza degli uffici preposti alla vigilanza;
+
+n) rivedere e riorganizzare gli uffici e gli organi preposti alla gestione ed alla regolamentazione del settore della protezione e tutela dell’ambiente allo scopo di attribuire maggiori competenze e funzioni, sia di natura autorizzatoria che di controllo, a strutture dell’Amministrazione Pubblica che, in presenza di specifiche esigenze, potranno avvalersi di professionisti esterni;
+
+o) semplificare, anche mediante l'emanazione di regolamenti, le procedure relative agli obblighi di dichiarazione, di comunicazione, di denuncia o di notificazione in materia ambientale.
+
+3\. I predetti decreti, nel perseguire le su descritte finalità, sono adottatati nel rispetto dei seguenti criteri:
+
+a) in merito agli scarichi di tipo solido:
+
+1) assicurare un’efficace azione per l’ottimizzazione quantitativa e qualitativa della produzione dei rifiuti, finalizzata a ridurne la quantità e la pericolosità;
+
+2) semplificare e razionalizzare le procedure di gestione dei rifiuti speciali, anche al fine di renderne più efficace il controllo durante l’intero ciclo di vita e di contrastare l’elusione e la violazione degli obblighi di smaltimento;
+
+3) promuovere il riciclo e il riuso dei rifiuti, anche utilizzando le migliori tecniche di differenziazione e di selezione degli stessi nonché il recupero di energia;
+
+4) garantire adeguati incentivi e forme di sostegno ai soggetti riciclatori dei rifiuti e per l’utilizzo di prodotti costituiti da materiali riciclati;
+
+b) in merito agli scarichi di tipo liquido:
+
+1) dare piena attuazione alla gestione del ciclo idrico integrato, semplificando i procedimenti, anche mediante l’emanazione di regolamenti;
+
+2) incentivare il risparmio di acqua favorendo l’introduzione e la diffusione delle migliori tecnologie per l’uso e il riutilizzo della risorsa idrica e promuovendo lo studio geologico per l’individuazione di nuove fonti di approvvigionamento;
+
+3) pianificare, programmare e attuare interventi diretti a garantire la tutela e il risanamento dei corpi idrici superficiali e sotterranei, previa ricognizione degli stessi;
+
+4) accelerare la piena attuazione della gestione del ciclo idrico integrato, nel rispetto dei principi di regolazione e vigilanza;
+
+5) prevedere, nella costruzione o sostituzione di nuovi impianti di trasporto e distribuzione dell’acqua, l’obbligo di utilizzo di sistemi anticorrosivi di protezione delle condotte, sia interni che esterni;
+
+6) regolamentare le procedure autorizzative, di controllo e sanzionatorie relative alle captazioni idriche diverse dal pubblico acquedotto;
+
+c) in merito agli scarichi di tipo aeriforme:
+
+1) riordinare la normativa in materia di tutela dell’aria e di riduzione delle emissioni in atmosfera, mediante la pubblicazione della disciplina per le emissioni di gas inquinanti in atmosfera, nel rispetto delle norme internazionali;
+
+2) integrare la disciplina relativa alle emissioni provenienti dagli impianti di riscaldamento per uso civile;
+
+3) incentivare la produzione di energia da fonti rinnovabili o alternative;
+
+4) disciplinare il controllo delle emissioni derivanti dalle attività agricole e zootecniche;
+
+5) individuare strumenti economici volti ad incentivare l’uso di veicoli, combustibili e carburanti che possono contribuire significativamente alla riduzione delle emissioni e al miglioramento della qualità dell’aria;
+
+6) prevedere strumenti di promozione dell’informazione ai consumatori sull’impatto ambientale del ciclo di vita dei prodotti che in ragione della loro composizione possono causare inquinamento atmosferico;
+
+d) in merito al sistema sanzionatorio:
+
+1) conseguire l’effettività delle sanzioni amministrative per danno ambientale mediante l’adeguamento delle sanzioni medesime;
+
+2) prevedere, oltre alle sanzioni a carico dei soggetti che danneggiano l’ambiente, meccanismi premiali per coloro che assumono comportamenti ed effettuano investimenti per il miglioramento della qualità dell’ambiente.
+
+4\. I decreti delegati di cui al presente articolo sono accompagnati da una analisi tecnico-normativa e sono adottati su proposta della Commissione per la Tutela Ambientale di cui all’articolo 55 della legge 19 luglio 1995 n.87.
+
+###### Art.4
+
+(Codice Ambientale)
+
+1\. Il Congresso di Stato è delegato ad adottare, successivamente alla promulgazione dei decreti delegati di cui all’articolo 3 ed entro trenta mesi dall’entrata in vigore della presente legge, un “Codice Ambientale” al fine di coordinare e sistematizzare in un unico testo normativo la disciplina della materia della tutela e salvaguardia dell’ambiente.
+
+2\. Il Codice Ambientale recepisce, oltre ai decreti delegati indicati all’articolo 3, i seguenti atti normativi:
+
+a) Legge 30 Ottobre 2003 n.142 “Protezione da esposizioni a Campi Elettrici, Magnetici ed Elettromagnetici”;
+
+b) Legge 28 Giugno 2005 n. 94 “Norme relative all’utilizzazione, bonifica e smaltimento di amianto”;
+
+c) Decreto Delegato 10 Ottobre 2008 n.130 “Linee guida per lo studio e la Valutazione di Impatto Ambientale”;
+
+d) Decreto Delegato 4 Marzo 2009 n. 23 “Disposizioni in materia di gestione dei rifiuti”;
+
+e) decreti delegati adottati ai sensi degli articoli 55 e 56 della legge n.87/1995.
+
+3\. La struttura del “Codice Ambientale” è rappresentata nello schema contenuto nell’Allegato “A” alla presente legge.
+
+4\. Ove previsto dagli atti normativi recepiti nel Codice Ambientale, i parametri tecnici ivi individuati potranno essere aggiornati mediante decreti delegati al fine di garantirne l’adeguamento tempestivo ai progressi scientifici e tecnologici.
+
+DECRETO DELEGATO 25 luglio 2013 n.97 MODIFICHE ALLE NORME IN MATERIA DI INCENTIVAZIONE DI IMPIANTI DA FONTI ENERGETICHE RINNOVABILI (F.E.R.)
+
+###### Art. 5
+
+1\. All’articolo 4 del Decreto Delegato n.92/2009 sono aggiunti i seguenti commi:
+
+“I moduli fotovoltaici sono da considerarsi, al termine del loro ciclo di vita, rifiuti elettrici ed elettronici (RAEE) e la loro gestione dovrà avvenire nel rispetto di quanto stabilito dall’articolo 33 del Decreto Delegato 27 aprile 2012 n. 44.
+
+I moduli fotovoltaici devono essere prodotti da un produttore che:
+
+a) possiede le certificazioni ISO 9001:2008 (Sistema di gestione della qualità), OHSAS 18001 (Sistema di gestione della salute e sicurezza del lavoro) e ISO 14000 (Sistema di gestione ambientale); i certificati sono rilasciati da organismi di certificazione accreditati a livello europeo o nazionale italiano;
+
+b) è in possesso di certificato di ispezione di fabbrica rilasciato da un organismo di certificazione accreditato, avente i requisiti tecnici indicati nella Guida CEI 82-25, a verifica del rispetto della qualità del processo produttivo e dei materiali utilizzati; il predetto requisito è richiesto anche per i produttori di inverter.”.
+
+###### Art. 6
+
+1\. L'articolo 5 del Decreto Delegato n.92/2009, come modificato dall’articolo 14, commi 3, 4 e 5 del Decreto Delegato 21 settembre 2010 n.158 e dell'articolo 81, quinto comma, della Legge 22 dicembre 2010 n.194, sostituito dall'articolo 6 del Decreto Delegato n. 20/2012 e successivamente dall’articolo 13 del Decreto Delegato 17 luglio 2012 n.84, è così ulteriormente modificato:
+
+“Art. 5 (Procedure per l'accesso alle tariffe incentivanti)
+
+Fatto salvo quanto previsto al successivo comma terzo, una volta entrato in esercizio l'impianto, al fine di ottenere gli incentivi previsti nel presente decreto delegato, il soggetto responsabile invia in formato elettronico allo Sportello per l’Energia la richiesta di concessione della pertinente tariffa incentivante, unitamente alla documentazione prevista dall'apposito Regolamento adottato dall’Autorità di Regolazione per i Servizi Pubblici e l’Energia il quale dovrà essere regolarmente aggiornato sulla base delle modifiche alle norme.
+
+Per gli impianti che entrano in esercizio in data successiva al 29 febbraio 2012 il richiedente è, altresì, tenuto a trasmettere allo Sportello per l’Energia, certificato rilasciato dal produttore dei moduli fotovoltaici, con il quale viene attestato che i moduli utilizzati godono di garanzia minima decennale di prodotto contro i difetti di fabbricazione.
+
+La connessione alla rete pubblica di distribuzione di energia elettrica ed il riconoscimento della tariffa incentivante di cui al presente decreto delegato relativamente ad impianti aventi potenza nominale superiore a 20 kW sono soggetti a nulla osta preliminare dell’Autorità di Regolazione per i Servizi Pubblici e l’Energia, sentito il parere dell’Azienda Autonoma di Stato per i Servizi Pubblici la quale, in sede di rilascio del parere medesimo, provvede ad effettuare la preventivazione dei costi, a carico del richiedente, di cui all’articolo 3, comma quarto, del Decreto Delegato 25 giugno 2009 n.89 e successive modificazioni.
+
+La domanda di nulla osta precisa se la stessa sia relativa esclusivamente alla connessione dell’impianto alla rete pubblica di distribuzione di energia elettrica o anche all’ottenimento di tariffa incentivante. Fatto salvo quanto previsto al successivo comma sesto e fatte salve le autorizzazioni di competenza di altri organi
+
+dell’Amministrazione, il predetto nulla osta preliminare definisce, altresì, se relativo a domande volte anche all’ottenimento di tariffa incentivante, in via preliminare la tariffa applicabile all’energia elettrica prodotta dall’impianto.
+
+Entro sessanta giorni dalla data di ricevimento della richiesta di tariffa incentivante di cui al comma primo o entro sessanta giorni dalla domanda di nulla osta di cui al comma terzo, lo Sportello per l’Energia, verificato il rispetto delle disposizioni del presente decreto delegato, comunica al soggetto responsabile la decisione assunta dalla Sportello medesimo o dall’Autorità secondo le rispettive competenze.
+
+La tariffa incentivante assegnata è così individuata:
+
+a) per gli impianti aventi potenza nominale non superiore a 20 kW, la tariffa incentivante è quella dell’anno o del periodo dell’anno nel quale la richiesta verrà inserita a seguito della classificazione attribuita dallo Sportello per l’Energia secondo l'ordine cronologico di presentazione, nel rispetto della disponibilità annuale di potenza elettrica cumulativa prodotta da impianti fotovoltaici incentivabile (Plafond), come eventualmente ripartita dall’Autorità di Regolazione per i Servizi Pubblici e l’Energia ai sensi del successivo comma decimo;
+
+b) per gli impianti, aventi potenza nominale superiore a 20 kW, soggetti a nulla osta preventivo di cui al superiore comma terzo, la tariffa incentivante è quella vigente alla data di rilascio del nulla osta; in questo caso l’ammontare della tariffa rimane invariato in relazione allo specifico impianto per un periodo massimo di 120 giorni dalla data di rilascio del nulla osta medesimo entro i quali l’impianto dovrà essere connesso alla rete pubblica di distribuzione di energia elettrica e dovrà essere presentata la dichiarazione di conformità definitiva dell’impianto.
+
+Scaduto detto termine, il nulla osta decade per la parte relativa al riconoscimento preliminare della tariffa incentivante e lo Sportello per l’Energia comunica tale decadenza al soggetto richiedente rendendo disponibile la quota di energia inutilizzata alle domande successive o, in mancanza di queste ultime, cumulando detta quota a quella prevista per l’incentivazione degli impianti con potenza non superiore a 20 kW come stabilita ai sensi del successivo comma decimo.
+
+La tariffa incentivante è erogata dalla data indicata nel provvedimento definitivo del Responsabile dello Sportello per l’Energia nel quale, relativamente agli impianti di cui al superiore comma terzo, si verifica la conformità dell’impianto realizzato a quanto indicato in sede di richiesta del nulla osta preventivo. Pertanto, in relazione agli impianti di cui al superiore comma terzo che abbiano ottenuto il nulla osta, l’Azienda Autonoma di Stato per i Servizi Pubblici provvede a comunicare allo Sportello per l’Energia la data di connessione ed entrata in esercizio dell’impianto medesimo.
+
+Lo Sportello per l’Energia e l’Autorità di Regolazione per i Servizi Pubblici e l’Energia procedono, per quanto di rispettiva competenza, alla classificazione ed esame delle richieste di tariffa incentivante e delle domande di nulla osta di cui al superiore comma terzo che si riferiscono a plafond stabiliti per gli anni successivi a quello di presentazione delle richieste e domande medesime, secondo l'ordine cronologico di presentazione.
+
+L’Autorità di Regolazione per i Servizi Pubblici e l’Energia di concerto con la Segreteria di Stato con delega ai Rapporti con l’Azienda Autonoma di Stato per i Servizi Pubblici e con la Segreteria di Stato con delega all’Ambiente ha facoltà di ripartire, mediante propria deliberazione, il Plafond annuale fra impianti fino a 20 kW di potenza nominale e impianti di potenza superiore nonché di riservare parte del Plafond ai micro impianti eolici ed ai mini impianti idroelettrici.
+
+Lo Sportello per l’Energia predispone una piattaforma informatica per le comunicazioni con i soggetti responsabili.
+
+La realizzazione degli impianti fotovoltaici con potenza nominale superiore a 20 kW che non rientrino nelle tipologie di cui all’articolo 2, comma primo, lettere b) e d) del presente decreto delegato è, soggetta, oltre che al rilascio di titolo edilizio
+
+autorizzativo, alla procedura di valutazione di impatto ambientale di cui al Titolo IX del Decreto Delegato 27 aprile 2012 n.44.”.
+
+DECRETO DELEGATO 10 giugno 2014 n.88 DISPOSIZIONI RELATIVE AI DATI VIDEOSORVEGLIANZA TERRITORIALE
+
+TRATTATI
+
+CON
+
+SISTEMI
+
+DI
+
+###### Art. 1
+
+1\. La banca dati dello Stato prevista dall’articolo 5 della Legge 23 maggio 1995 n.70 e disciplinata dal Decreto 13 marzo 1984 n. 27 e dal Decreto 3 giugno 1986 n. 67 è integrata con i dati trattati mediante l’attivazione di un sistema di videosorveglianza territoriale, in seguito, per brevità, “Sistema di Videosorveglianza”.
+
+2\. Il Sistema di Videosorveglianza è costituito da tutte le videocamere posizionate sul territorio della Repubblica di San Marino da un sistema hardware e software per il trattamento dei dati e da eventuali videocamere speciali anche mobili che permettano riprese per interventi di particolare natura.
+
+3\. Le videocamere posizionate in prossimità degli accessi alla Repubblica e delle intersezioni stradali, sulle strade di tipo a) e b) di cui all’articolo 15 della Legge 29 gennaio 1992 n. 7, nelle zone a traffico limitato nonché in ulteriori aree individuate con il Regolamento di cui all’articolo 5, possono comprendere la modalità di lettura targhe.
+
+###### Art. 2
+
+1\. Il Sistema di Videosorveglianza è attivato per supportare l’azione di enti pubblici, di unità organizzative preposte alla tutela dell’ambiente nonché delle Forze di Polizia, ciascuno per quanto di competenza, al fine di:
+
+a) prevenire e reprimere reati e attività illecite commesse sul territorio ovvero all’estero quando possano avere risvolti in Repubblica;
+
+b) controllare aree strategiche;
+
+c) monitorare il traffico, anche per consentire il pronto intervento delle Forze di Polizia in caso di ingorghi o sinistri;
+
+d) monitorare gli impianti tecnologici e di servizio dell’Azienda Autonoma di Stato per i Servizi Pubblici (AASS), comprese le aree di raccolta e/o trattamento rifiuti;
+
+e) perseguire finalità statistiche consistenti nella raccolta aggregata di dati;
+
+f) irrogare sanzioni per infrazioni al Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale”, solo in zone adeguatamente segnalate;
+
+g) irrogare sanzioni per infrazioni al Decreto Delegato 26 maggio 2008 n. 81 e successive modificazioni “Codice della Strada”, solo in zone adeguatamente segnalate.
+
+2\. L’utilizzo del Sistema di Videosorveglianza è consentito solo per il controllo di quanto si svolga nei luoghi pubblici o aperti al pubblico e comporta esclusivamente il trattamento di dati personali relativi ai soggetti ed ai veicoli che transitino nei luoghi di installazione delle videocamere.
+
+###### Art. 10
+
+1\. Il comma 8 dell’articolo 183 del Decreto Delegato 27 aprile 2012 n. 44 è così sostituito:
+
+“8. L’UPA ed il DP, per quanto di rispettiva competenza, accertano le violazioni ed applicano le sanzioni pecuniarie amministrative previste, mediante emissione dell’ingiunzione di pagamento, da notificare, a pena di decadenza, al trasgressore o, nei casi di cui al seguente periodo, all’intestatario della carta di circolazione, a mezzo del servizio postale entro sessanta giorni dall’accertamento. L’accertamento delle violazioni è, altresì, effettuato attraverso sistemi di videosorveglianza attivati e disciplinati in conformità alla Legge 23 maggio 1995 n.70 e relativi decreti delegati e regolamenti attuativi; qualora non sia possibile identificare il trasgressore, bensì unicamente individuare, mediante i suddetti sistemi di videosorveglianza, il veicolo
+
+dallo stesso condotto, la sanzione pecuniaria amministrativa è irrogata all’intestatario della carta di circolazione.”.
+
+DECRETO DELEGATO 26 gennaio 2015 n.5 INCENTIVI PER L’EFFETTUAZIONE DI INTERVENTI DI RIQUALIFICAZIONE ENERGETICA ED IMPIANTISTICA DEGLI EDIFICI ESISTENTI E PER L’INSTALLAZIONE DI IMPIANTI PER LA PRODUZIONE DI ENERGIA DA FONTI RINNOVABILI O COGENERAZIONE
+
+###### Art. 4
+
+(Spostamento dell’area di sedime di edifici oggetto di riqualificazione energetica)
+
+1\. Per i casi di cui all’articolo 2, comma 1, al fine di adeguare l’edificio alla distanza minima dall’asse stradale o almeno incrementarla, qualora l’edificio esistente oggetto di intervento ricada in zona B ovvero BE e si trovi posizionato all’interno dell’area edificabile in modo tale da non rispettare i disposti di cui all’articolo 16 della Legge 29 gennaio 1992 n.7, è data la possibilità di modificare la sagoma dell’edificio mantenendo inalterati volume, S.U. e altezza massima dell’involucro edilizio facendo salva l’applicazione degli indici edilizi di zona.
+
+2\. Per i casi di cui all’articolo 2, comma 1, al fine di adeguare l’edificio alle distanze minime dai confini di proprietà previste dall’articolo 191 della Legge 19 luglio 1995 n.87 e qualora l’edificio esistente oggetto di intervento ricada in zona B ovvero BE, è possibile modificare la sagoma dell’edificio mantenendo inalterati volume, S.U. ed altezza massima dell’involucro edilizio facendo salva l’applicazione degli indici edilizi di zona.
+
+3\. Relativamente al precedente comma 1, la fascia di proprietà compresa fra la strada prospiciente e il nuovo fronte arretrato dell’edificio deve essere costituita da superfici drenanti, ad esclusione dell’eventuale accesso all’autorimessa, per una larghezza massima di 5 metri. Per superficie drenante s’intende una superficie libera da costruzioni sul suolo e nel sottosuolo, ove, per la formazione di spazi e percorsi pedonali, sono consentite solo pavimentazioni galleggianti senza sottofondo cementizio o comunque impermeabilizzato.
+
+4\. In riferimento al comma 1 del presente articolo, per i casi di cui all’articolo 2, comma 1, la modifica della sagoma dell’edificio può interessare anche particelle contigue di proprietà, ricadenti in zone E con esclusione delle Riserve Naturali e Riserve Naturali Integrali individuate all’interno del piano attuativo delle Zone Naturalistiche Tutelate. Tale possibilità è data in deroga agli articoli 31 e 43 della Legge 29 gennaio 1992 n.7 e per edifici oggetto di riqualificazione energetica con conseguimento di Epi inferiore del 35% rispetto al massimo consentito.
+
+L’occupazione di tali aree può avvenire all’interno di una fascia parallela alla strada di profondità massima di 7 metri. Le distanze minime dai confini nella zona E occupata sono quelle indicate dallo strumento urbanistico in vigore per l’area edificabile di origine.
+
+5\. In riferimento al precedente comma 4 la concessione edilizia è subordinata alla procedura di VIA secondo quanto disposto dall’articolo 177 del Decreto Delegato 27 aprile 2012 n.44. E’ fatto inoltre obbligo di presentare prima dell’inizio dei lavori, a garanzia del raggiungimento della prestazione energetica indicata al comma precedente, una fideiussione bancaria a favore dell’Ecc.ma Camera per un importo pari a euro 150,00 per metro quadrato di superficie utile in zona E.
+
+###### Art. 38
+
+(Risparmio idrico in ambito agricolo)
+
+1\. Al fine di favorire la riduzione dei consumi idrici e permettere alle aziende agricole di accedere ai benefici di cui all’articolo 18 della Legge 20 settembre 1989 n. 96, fra le funzioni previste all’articolo 183 del Testo Unico delle Leggi Urbanistiche ed Edilizie (Legge 19 luglio 1995 n.87) al Gruppo E - Funzione primaria agricola - è inserita la
+
+funzione “realizzazione di pozzi e laghetti ad uso agricolo”. Tali opere dovranno essere dimensionate all’effettiva esigenza idrica dell’azienda agricola e sottoposte all’iter di approvazione previsto per gli interventi in zona agricola di cui all’articolo 172 del Codice Ambientale Decreto Delegato 27 aprile 2012 n. 44.
+
+REGOLAMENTO 2 dicembre 2015 n.16 98 OBBLIGHI DI PUBBLICITÀ, TRASPARENZA E DIFFUSIONE DI INFORMAZIONI DA PARTE DELL’AMMINISTRAZIONE
+
+###### Art.4
+
+(Trasparenza su atti e provvedimenti in settori speciali)
+
+1\. Sono accessibili le seguenti informazioni relative ai sotto indicati settori:
+
+a) atti e provvedimenti amministrativi relativi ai settori degli appalti pubblici di opere, lavori, servizi e forniture, secondo quanto previsto dalle norme speciali di riferimento;
+
+b) programmazione relativa al settore delle opere pubbliche, indicando per ciascuna opera la descrizione delle caratteristiche principali dell’opera, la localizzazione, i riferimenti alle previsioni urbanistiche e l’importo presuntivo di spesa;
+
+c) atti e provvedimenti relativi al settore della pianificazione generale e particolareggiata del territorio, secondo quanto rispettivamente previsto dagli articoli 3 e 4 della Legge 19 luglio 1995 n.87 e dal Capo II della Legge 3 ottobre 2007 n.107;
+
+d) informazioni relative al settore ambientale, secondo quanto previsto dal Capo II del
+
+### Titolo VIII del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale”;
+
+e) informazioni relative ai servizi sanitari, socio-sanitari e socio-educativi. Sono pubblicati ed aggiornati annualmente:
+
+1) Piano Sanitario, Piano Socio Sanitario e Piano Socio Educativo;
+
+2) ulteriori documenti di programmazione di cui agli articoli 4 e 5 della Legge 30 novembre 2004 n.165;
+
+3) elenco delle strutture sanitarie, socio-sanitarie e socio-educative pubbliche e private autorizzate e accreditate ai sensi delle Leggi 25 maggio 2004 n.68 e n.69 e successive modificazioni;
+
+4) tempi di attesa per ciascuna delle tipologie di prestazione erogata dal servizio sanitario ed altri indicatori previsti dal Piano Sanitario.
+
+Si veda anche ERRATA CORRIGE AL REGOLAMENTO 2 DICEMBRE 2015 N.16 “OBBLIGHI DI PUBBLICITÀ, TRASPARENZA E DIFFUSIONE DI INFORMAZIONI DA PARTE DELL’AMMINISTRAZIONE”
+
+A seguito di errore materiale intervenuto nella fase di promulgazione del testo del Regolamento 2 dicembre 2015 n.16 nel preambolo dello stesso risulta indicata la deliberazione del Congresso di Stato n.18 adottata nella seduta del 21 ottobre 2015 anziché la deliberazione n.17 adottata nella seduta del 17 novembre 2015.
+
+La formulazione corretta del suddetto riferimento contenuto nel preambolo del decreto in oggetto è pertanto la seguente: “Vista la deliberazione del Congresso di Stato n.17 adottata nella seduta del 17 novembre 2015;
+
+DECRETO DELEGATO 12 ottobre 2016 n.134 REITERAZIONE DECRETI DELEGATI NN. 84, 85, 86, 96, 97, 99 E 100 DELL’ANNO 2016 Articolo Unico
+
+1\. I Decreti Delegati:
+
+\- 12 luglio 2016 n. 84 “Modifiche al Decreto Delegato 27 aprile 2012 n. 44 ‘Codice Ambientale’ ”;
+
+\- 25 luglio 2016 n. 85 “Modifiche al Decreto Delegato 24 luglio 2014 n. 120 - IV Conto Energia”;
+
+\- 25 luglio 2016 n. 86 “Proroga incentivi per l’autoimprenditorialità”;
+
+\- 26 luglio 2016 n. 96 “Tabelle attuariali per il calcolo delle contribuzioni da riscatto”;
+
+\- 1 agosto 2016 n. 97 “Coniazione Ufficiale e messa in circolazione di una moneta da 2 euro commemorativa, fior di conio, denominata “400° anniversario della scomparsa di William Shakespeare”, millesimo 2016;
+
+\- 2 agosto 2016 n. 99 “Calendario Venatorio 2016 – 2017”;
+
+\- 3 agosto 2016 n. 100 “Modifica della disciplina in materia di tirocinio post-laurea per il corpo sanitario - Misure di sostegno alla specializzazione del corpo medico dell’ISS”, sono reiterati a tutti gli effetti di legge nei testi già pubblicati.
+
+DECRETO DELEGATO 18 gennaio 2017 n.12 99 VIOLAZIONI AMMINISTRATIVE
+
+###### Art. 1
+
+1\. Costituiscono violazioni amministrative le infrazioni elencate negli Allegati di questo Decreto A, B, B1, C, D, E, F, G, H, I, L, M, M1, N, O, O1, P, P1, P2, Q, R, S, T, U, V, Z, Z1, Z2, Z3, Z4, Z5, Z6, Z7, Z8, Z9, Z10, Z11, Z12, Z13, Z14, Z15, Z16, Z17, Z18 secondo la competenza degli organi che applicano le relative sanzioni.
+
+“A partire dal 1989, e segnatamente con l’entrata in vigore della Legge 28 giugno 1989 n. 68 (“Della giurisdizione amministrativa, del controllo di legittimità e delle sanzioni amministrative”), il fenomeno sanzionatorio ha registrato una forte espansione, e ciò anche al fine di scongiurare i rischi d’inflazione della giurisdizione penale.
+
+L’articolo 32, comma 1, della citata Legge n. 68/1989, stabilisce che il Giudice Amministrativo d'Appello propone annualmente l'elenco delle violazioni amministrative previste dall'ordinamento, l'ammontare della sanzione pecuniaria, l'organo dell'Autorità giudiziaria, amministrativa o di polizia competente ad applicare la sanzione stessa. Il comma 2 del medesimo articolo di legge prevede, inoltre, che ogni anno detta proposta del Giudice Amministrativo d'Appello sia adottata con Decreto Reggenziale (oggi con Decreto Delegato) soggetto a ratifica del Consiglio Grande e Generale”, (cfr. Relazione al Decreto Delegato Violazioni amministrative in www.consigliograndeegeneraler.sm)
+
+LEGGE 22 DICEMBRE 2015 n.189 BILANCI DI PREVISIONE DELLO STATO E DEGLI ENTI PUBBLICI PER L’ESERCIZIO FINANZIARIO 2016 E BILANCI PLURIENNALI 2016/2018
+
+###### Art.80
+
+(Codice Ambientale)
+
+1\. Il comma 7 dell’articolo 99 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è così modificato:
+
+“7. In caso di mancata o irregolare installazione del pozzetto di ispezione e campionamento, di sua inaccessibilità agli organi preposti al campionamento e/o di condizioni di insufficiente manutenzione e in tutti i casi di violazione dell’articolo 70, comma 2, nonché nelle ipotesi di irregolare installazione del misuratore di portata di cui all’articolo 97, commi 2 e 3, per ogni violazione accertata si applica la sanzione da euro 500,00 a euro 3.000,00.”.
+
+2\. All’articolo 99 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è aggiunto il seguente comma 7-bis:
+
+“7-bis. In caso di mancata installazione del misuratore di portata di cui all’articolo 97, commi 2 e 3, si applica la sanzione di euro 3.000,00. Trascorsi sessanta giorni dalla data di applicazione della prima sanzione, qualora il misuratore di portata non sia stato installato, si applica la sanzione di euro 6.000,00. Trascorsi centoventi giorni dalla data di applicazione della seconda sanzione, qualora il misuratore di portata non sia stato installato, si applica la sanzione di euro 30.000,00 ed è disposta la sospensione dello scarico nella rete fognaria.”.
+
+3\. Al comma 1 dell’articolo 98 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è aggiunta la seguente lettera e-bis):
+
+“e-bis) nella rete fognaria, quando sia stata disposta la sospensione di cui all’articolo 99, comma 7-bis.”.
+
+4\. All’articolo 189 del Decreto Delegato 27 aprile 2012 n.44 “Codice Ambientale” è aggiunto il seguente comma 5-bis:
+
+“5-bis. Sono nulli patti e accordi stipulati dalla Pubblica Amministrazione o da Enti Pubblici in contrasto con il presente decreto delegato.”.
+
+5\. È dato mandato al Congresso di Stato di emanare, entro centottanta giorni dalla data di entrata in vigore della presente legge, decreto delegato che modifichi ed aggiorni il Codice Ambientale di cui al Decreto Delegato 27 aprile 2012 n.44.
+
+DECRETO DELEGATO 31 gennaio 2017 n.16 MODIFICHE AL DECRETO DELEGATO 27 APRILE 2012 N. 44 “CODICE AMBIENTALE”
+
+###### Art. 1
+
+Il presente decreto delegato, in attuazione della delega di cui all’articolo 80, comma 5 della Legge 22 dicembre 2015 n. 189, modifica ed aggiorna il Decreto Delegato 27 aprile 2012 n. 44 – Codice Ambientale perseguendo i seguenti obiettivi:
+
+a) introdurre strumenti volti a garantire un più elevato livello di protezione dell’ambiente e della salute umana, quali ad esempio il piano di gestione del rischio alluvioni, la valutazione ambientale strategica, il piano di sviluppo tecnologico;
+
+b) disciplinare alcune attività che, qualora non opportunamente regolamentate, possono arrecare danni, quali ad esempio la combustione di residui vegetali nei periodi di alto rischio per gli incendi boschivi o l’apertura non controllata di captazioni, in particolare lungo i versanti;
+
+c) intensificare i controlli, quali quelli sui rifiuti e sulle acque destinate al consumo umano, inasprire alcune sanzioni, nonché introdurne di nuove per favorire il rispetto degli obblighi e delle prescrizioni a salvaguardia dell‘ambiente e delle risorse naturali;
+
+d) rendere la normativa ancora più tutelante nei confronti dell’ambiente promuovendo, altresì, lo sviluppo sostenibile ed elevati livelli di qualità della vita.
+
+###### Art. 69
+
+Le competenze attribuite agli Organi della Protezione Civile dal Decreto Delegato n. 44/2012, come modificato dal presente decreto, devono intendersi riferite al Coordinamento per la Protezione Civile.
+
+###### Art. 70
+
+Il Regolamento (CE) n.1013/2006 richiamato al Titolo II del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Regolamento (CE) n.1013/2006 e successive modifiche ed integrazioni.
+
+La Direttiva 2000/60/CE e la Direttiva 1998/83/CE richiamate al Titolo IV del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, devono intendersi rispettivamente Direttiva 2000/60/CE e successive modifiche ed integrazioni e Direttiva 1998/83/CE e successive modifiche ed integrazioni.
+
+La Direttiva 2008/50/CE richiamata al Titolo V del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Direttiva 2008/60/CE e successive modifiche ed integrazioni.
+
+La Direttiva 2004/35/CE richiamata al Titolo VIII del Decreto Delegato n. 44/2012, come modificato dal presente decreto delegato, deve intendersi Direttiva 2004/35/CE e successive modifiche ed integrazioni.
+
+###### Art. 75
+
+Il Congresso di Stato è impegnato ad adottare con propria delibera, entro il 31 dicembre 2016, un testo coordinato delle norme vigenti in materia di tutela ambientale a fini ricognitivi.
+
+###### Art. 75-bis
+
+Sino alla piena operatività dell’Unità Organizzativa UPA, i compiti, le attività e le funzioni di cui all’articolo 6 del Decreto Delegato 27 aprile 2012 n.44 come sostituito dall’articolo 5 del presente decreto sono così assegnati:
+
+a) all’Unità Operativa Gestione Ambientale (UOGA) i compiti di cui al comma 1, lettera
+
+a), punti 2, 3, 4 e 9 e l’attività di supporto di cui al comma 1, lettera a), punti 7 e 8 e di cui al comma 2 del citato articolo 6;
+
+b) al Dipartimento Prevenzione (DP) i compiti di cui al comma 1, lettera a), punti 1, 5 e 6, 7 e 8, al comma 1, lettera b), punti 1 e 2, al comma 1, lettera c) punti 1, 2 e 3, al comma 1, lettera d), punti 1 e 2, al comma 1, lettera e), punti 1 e 2, l’attività istruttoria di cui al comma 2, l’attività di vigilanza e controllo di cui al comma 3 e le funzioni di cui al comma 6 del citato articolo 6.

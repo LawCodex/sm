@@ -1,0 +1,791 @@
+---
+title: "Testo coordinato in materia di rogatorie internazionali (aggiornato al 2 febbraio 2017)"
+identifier: "documento17090120"
+type: consolidated_text
+jurisdiction: sm
+language: it
+last_amended: 2017-02-02
+status: in_force
+category: "2 - Diritto sostanziale e processuale penale"
+note: "Testo coordinato con valore ricognitivo (art. 82 Legge 22 dicembre 2015 n.189); non costituisce fonte normativa."
+source: "https://www.consigliograndeegenerale.sm/on-line/documento17090120.html"
+retrieved: 2026-10-13
+---
+
+# Testo coordinato in materia di rogatorie internazionali (aggiornato al 2 febbraio 2017)
+
+TESTO COORDINATO IN MATERIA DI ROGATORIE INTERNAZIONALI LEGGE 30 LUGLIO 2009 N.104 LEGGE SULLE ROGATORIE INTERNAZIONALI IN MATERIA PENALE TESTO COORDINATO con le modifiche derivanti dalla Legge 23 luglio 2010 n.128 e dal Decreto - Legge 26 novembre 2010 n.187
+
+LEGGI CITATE NEL TESTO COORDINATO Decreto - Legge 26 novembre 2010 n.187 Legge 23 luglio 2010 n.128 Legge 30 luglio 2009 n.104 Legge 17 giugno 2008 n.93 Legge 17 novembre 2005 n.165
+
+TESTO COORDINATO IN MATERIA DI ROGATORIE INTERNAZIONALI LEGGE 30 LUGLIO 2009 N.104 LEGGE SULLE ROGATORIE INTERNAZIONALI IN MATERIA PENALE TESTO COORDINATO con le modifiche derivanti dalla Legge 23 luglio 2010 n.128 e dal Decreto - Legge 26 novembre 2010 n.187 (aggiornato al 2 febbraio 2017)
+
+## TITOLO I
+
+DISPOSIZIONI GENERALI
+
+#### Art. 1
+
+(Prevalenza delle convenzioni e del diritto internazionale generale)
+
+1.
+
+Le rogatorie internazionali in materia penale sono disciplinate dalle norme delle convenzioni internazionali in vigore per la Repubblica e dalle norme di diritto internazionale generale.
+
+2.
+
+Se tali norme mancano o non dispongono diversamente, si applicano le norme che seguono.
+
+#### Art. 2
+
+(Ambito di applicazione)
+
+1.
+
+La presente legge si applica soltanto ai procedimenti concernenti reati la cui repressione, al momento in cui l’assistenza giudiziaria è domandata, è di competenza delle autorità giudiziarie.
+
+2.
+
+Possono essere oggetto di rogatorie internazionali ai fini della presente legge le richieste relative a procedimenti penali che abbiano per oggetto il compimento di atti istruttori o la trasmissione di mezzi di prova, fascicoli o documenti.
+
+3.
+
+La presente legge non si applica all’esecuzione delle decisioni di arresto e di condanna né ai reati militari che non costituiscono reati di diritto comune.
+
+#### Art. 3
+
+(Regola generale di interpretazione)
+
+1.
+
+Le disposizioni contenute nelle convenzioni internazionali in vigore per la Repubblica e le norme della presente legge, devono essere interpretate nel senso più favorevole alla cooperazione internazionale.
+
+## TITOLO II
+
+### CAPO I
+
+ROGATORIE INTERNAZIONALI DALL’ESTERO
+
+#### Art. 4
+
+(Forma e contenuto della domanda)
+
+1.
+
+La domanda di assistenza deve contenere le seguenti indicazioni: a. l’autorità, dalla quale la domanda emana e se differente, l’autorità competente per il procedimento penale; b. l’oggetto e il motivo della domanda; c. il reato per il quale lo Stato richiedente procede; d. un breve riassunto dei fatti, salvo nel caso in cui l’oggetto della domanda consista in una richiesta di notificazione; e. nella misura del possibile, l’identità e la nazionalità della persona in causa, e f. ove occorra, il nome e l’indirizzo del destinatario.
+
+2.
+
+La domanda di assistenza giudiziaria e i documenti alla stessa allegati devono essere trasmessi corredati della traduzione in lingua italiana.
+
+3.
+
+Gli atti e i documenti trasmessi in applicazione della presente legge sono esenti da qualsiasi formalità di legalizzazione.
+
+#### Art. 5
+
+(Richieste irregolari)
+
+1.
+
+Se la domanda non è conforme alle disposizioni dell’articolo precedente, ovvero le informazioni in essa contenute non sono sufficienti a consentire alla Repubblica di trattare la richiesta medesima, il Commissario della Legge fatta salva la disciplina speciale di cui all’articolo 9 della presente legge, chiede all’autorità giudiziaria dello Stato richiedente, di modificare la domanda o di completarla con ulteriori informazioni.
+
+2.
+
+Se l’autorità giudiziaria dello Stato richiedente non provvede al perfezionamento della domanda entro il termine di un anno dal ricevimento della richiesta di integrazione, la domanda irregolare passa all’archivio.
+
+#### Art. 6
+
+(Trasmissione della domanda)
+
+1.
+
+Fatte salve le differenti modalità di trasmissione previste dalle convenzioni bilaterali in vigore per la Repubblica, la domanda ed i documenti ad essa allegati devono essere inviati dall’autorità giudiziaria dello Stato richiedente direttamente al Tribunale Unico della Repubblica e contestualmente inviate per conoscenza al Segretario di Stato per la Giustizia.
+
+#### Art. 7
+
+(Magistrato competente per le rogatorie dall’estero)
+
+1.
+
+Il Giudice delle rogatorie è il Commissario della Legge.
+
+#### Art. 81
+
+1 Testo originario (Legge n.104/2009):
+
+#### Art. 8
+
+(Attività giurisdizionale)
+
+(Attività giurisdizionale)
+
+1.
+
+Il Commissario della Legge, eccettuato il caso di sospensione della domanda, dà esecuzione alla rogatoria con celerità, e comunque entro e non oltre 60 giorni dall’avvenuto ricevimento, adottando il relativo decreto di exequatur.
+
+2.
+
+In caso di rogatorie irregolari il termine di 60 giorni previsto al comma precedente decorre dal ricevimento delle modifiche e/o informazioni richieste per il perfezionamento della domanda.
+
+3.
+
+L'esecuzione della rogatoria è negata:
+
+1) se gli atti richiesti sono contrari ai principi contenuti nella Dichiarazione dei Diritti dei cittadini e dei principi fondamentali dell’ordinamento sammarinese;
+
+2) se gli atti richiesti sono espressamente vietati dalla legge;
+
+3) se gli atti richiesti compromettono la sovranità, la sicurezza o altri interessi essenziali della Repubblica;
+
+1.
+
+Il Commissario della Legge, eccettuato il caso di sospensione della domanda, dà esecuzione alla rogatoria con celerità, e comunque entro e non oltre 60 giorni dall’avvenuto ricevimento, adottando il relativo decreto di exequatur.
+
+2.
+
+In caso di rogatorie irregolari il termine di 60 giorni previsto al comma precedente decorre dal ricevimento delle modifiche e/o informazioni richieste per il perfezionamento della domanda.
+
+3.
+
+L'esecuzione della rogatoria è negata:
+
+1) se gli atti richiesti sono contrari ai principi contenuti nella Dichiarazione dei Diritti dei cittadini e dei principi fondamentali dell’ordinamento sammarinese;
+
+2) se gli atti richiesti sono espressamente vietati dalla legge;
+
+3) se gli atti richiesti compromettono la sovranità, la sicurezza o altri interessi essenziali della Repubblica;
+
+4) se la domanda si riferisce a reati considerati dalla Repubblica come reati politici o come reati connessi con reati politici;
+
+5) se la domanda si riferisce al medesimo fatto e contro la stessa persona nei cui confronti sia stata pronunciata sentenza definitiva dell’Autorità giudiziaria sammarinese;
+
+6) se la commissione rogatoria avente ad oggetto perquisizioni o sequestri è avanzata sulla base di reati non punibili secondo la legge dello Stato richiedente e secondo quella della Repubblica o se la richiesta non sia compatibile con la legge sammarinese;
+
+7) se la rogatoria ha ad oggetto la citazione di un testimone, di un perito o di un imputato davanti all’autorità giudiziaria straniera e lo Stato richiedente non offre idonea garanzia in ordine all’immunità della persona citata.
+
+Modifiche legislative Legge 23 luglio 2010 n.128, Articolo 1 Il punto 4), comma 3, dell’articolo 8 della Legge 30 luglio 2009 n. 104 è così modificato:
+
+“4) se la domanda si riferisce a reati considerati dalla Repubblica come reati politici o come reati connessi con reati politici. In nessun caso possono considerarsi politici i misfatti di associazione con finalità di terrorismo, di finanziamento del terrorismo, nonché i reati commessi per finalità di terrorismo o di eversione dell’ordine costituzionale;”.
+
+Legge 23 luglio 2010 n.128, Articolo 2 Il punto 6), comma 3, dell’articolo 8 della Legge 30 luglio 2009 n. 104 è così modificato:
+
+“6) se la commissione rogatoria avente ad oggetto perquisizioni o sequestri è avanzata sulla base di reati non punibili secondo la legge dello Stato richiedente e secondo quella della Repubblica o se la richiesta non sia compatibile con la legge sammarinese, salvo che il fatto per il quale procede l’autorità giudiziaria estera sia comunque connesso ai misfatti con finalità di terrorismo, finanziamento del terrorismo, nonché i reati commessi per finalità di terrorismo o di eversione dell’ordine costituzionale;”.
+
+Decreto - Legge 26 novembre 2010 n.187, Articolo 40
+
+1.
+
+Dopo l’articolo 8, comma terzo, della Legge 30 luglio 2009 n. 104 è aggiunto il seguente comma:
+
+“4. Nel caso sia richiesta l’intercettazione da parte di autorità giudiziaria estera mediante richiesta di assistenza giudiziaria, il Giudice Inquirente, valutata la sussistenza dei requisiti previsti dai superiori commi, dispone l’intercettazione telefonica. Ultimate le operazioni di intercettazione le registrazioni sono immediatamente trasmesse all’Autorità giudiziaria richiedente.”.
+
+4) se la domanda si riferisce a reati considerati dalla Repubblica come reati politici o come reati connessi con reati politici. In nessun caso possono considerarsi politici i misfatti di associazione con finalità di terrorismo, di finanziamento del terrorismo, nonché i reati commessi per finalità di terrorismo o di eversione dell’ordine costituzionale;
+
+5) se la domanda si riferisce al medesimo fatto e contro la stessa persona nei cui confronti sia stata pronunciata sentenza definitiva dell’Autorità giudiziaria sammarinese;
+
+6) se la commissione rogatoria avente ad oggetto perquisizioni o sequestri è avanzata sulla base di reati non punibili secondo la legge dello Stato richiedente e secondo quella della Repubblica o se la richiesta non sia compatibile con la legge sammarinese, salvo che il fatto per il quale procede l’autorità giudiziaria estera sia comunque connesso ai misfatti con finalità di terrorismo, finanziamento del terrorismo, nonché i reati commessi per finalità di terrorismo o di eversione dell’ordine costituzionale;
+
+7) se la rogatoria ha ad oggetto la citazione di un testimone, di un perito o di un imputato davanti all’autorità giudiziaria straniera e lo Stato richiedente non offre idonea garanzia in ordine all’immunità della persona citata.
+
+4.
+
+Nel caso sia richiesta l’intercettazione da parte di autorità giudiziaria estera mediante richiesta di assistenza giudiziaria, il Giudice Inquirente, valutata la sussistenza dei requisiti previsti dai superiori commi, dispone l’intercettazione telefonica. Ultimate le operazioni di intercettazione le registrazioni sono immediatamente trasmesse all’Autorità giudiziaria richiedente.
+
+#### Art. 9
+
+(Reciprocità)
+
+1.
+
+Il Commissario della Legge, qualora la domanda provenga da uno Stato con cui non esistono convenzioni internazionali in materia, entro 30 giorni dal ricevimento della domanda invia al Segretario di Stato per la Giustizia, una relazione tecnica attestante il possesso o meno dei requisiti giuridici della richiesta inoltrata.
+
+2.
+
+Il Segretario di Stato per la Giustizia, a seguito di deliberazione in tal senso del Congresso di Stato, potrà rifiutare di dar corso alla rogatoria quando lo Stato richiedente non dia idonee garanzie di reciprocità. Il Segretario di Stato per la Giustizia, a seguito di deliberazione in tal senso del Congresso di Stato, qualora le circostanze lo impongano, pretenderà dallo Stato richiedente una garanzia di reciprocità.
+
+3.
+
+In caso di domanda irregolare, la richiesta di integrazione verrà inoltrata successivamente alla decisione del Congresso di prestare o meno la collaborazione richiesta.
+
+4.
+
+La delibera del Congresso di Stato che accorda o rifiuta l’esecuzione di una domanda ad uno Stato con cui non esistono convenzioni internazionali in materia, così come la relativa comunicazione del Segretario di Stato per la Giustizia, non sono soggette ad impugnazione alcuna.
+
+5.
+
+Qualora il Segretario di Stato per la Giustizia comunichi al Commissario della Legge l’intendimento della Repubblica di concedere la rogatoria ad uno Stato con cui non esistono convenzioni internazionali in materia, il termine di 60 giorni di cui all’articolo 8 della presente legge per l’emanazione del decreto di exequatur, decorrerà dal ricevimento della comunicazione del Segretario di Stato.
+
+#### Art. 10
+
+(Sospensione)
+
+1.
+
+L'esecuzione della rogatoria viene sospesa dal Commissario della Legge con decreto motivato se essa possa pregiudicare indagini in procedimenti penali in corso nella Repubblica. Tale sospensione viene comunicata all’autorità giudiziaria dello Stato richiedente.
+
+#### Art. 11
+
+(Accoglimento parziale della richiesta)
+
+1.
+
+Prima di rifiutare o di rinviare la rogatoria, il Commissario della Legge valuta, eventualmente dopo essersi consultato con l’autorità giudiziaria dello Stato richiedente, se la richiesta possa essere accolta parzialmente.
+
+#### Art. 12
+
+(Principio di specialità)
+
+1.
+
+Il Commissario della Legge concede l’assistenza giudiziaria disponendo che i risultati delle indagini, le informazioni, gli atti e i documenti trasmessi non siano, senza previo consenso, utilizzati o trasmessi a terzi dallo Stato richiedente per fini diversi da quelli indicati nella domanda.
+
+#### Art. 132
+
+(Lex loci)
+
+1.
+
+La Repubblica esegue le commissioni rogatorie, nelle forme previste dalla sua legislazione.
+
+2\. [ABROGATO]
+
+3.
+
+Fino alla emanazione del decreto di exequatur, trova applicazione, salvo differente richiesta in tal senso avanzata dallo Stato richiedente, la disciplina delineata dall’articolo 5 commi 1 e 2 della Legge 17 giugno 2008 n. 93, fermo restando quanto previsto dall’articolo 30 ultimo comma della presente legge.
+
+#### Art. 14
+
+(Deroghe al principio della lex loci)
+
+1.
+
+Se lo Stato richiedente fa espressa domanda che i testimoni o i periti
+
+2 Testo originario (Legge n.104/2009):
+
+#### Art. 13
+
+(Lex loci)
+
+1.
+
+La Repubblica esegue le commissioni rogatorie, nelle forme previste dalla sua legislazione.
+
+2.
+
+L’acquisizione di copia di documentazione costituisce sequestro.
+
+3.
+
+Fino alla emanazione del decreto di exequatur, trova applicazione, salvo differente richiesta in tal senso avanzata dallo Stato richiedente, la disciplina delineata dall’articolo 5 commi 1 e 2 della Legge 17 giugno 2008 n. 93, fermo restando quanto previsto dall’articolo 30 ultimo comma della presente legge.
+
+Modifiche legislative Legge 23 luglio 2010 n.128, Articolo 3 Il comma 2 dell’articolo 13 della Legge 30 luglio 2009 n.104 è abrogato.
+
+depongano sotto giuramento, il Commissario della Legge vi darà seguito solo se la legge sammarinese non vi si oppone.
+
+2.
+
+Se lo Stato richiedente ne fa espressa domanda e la legge sammarinese le preveda, l’assunzione di ogni altro mezzo di prova può avvenire nelle forme richieste.
+
+#### Art. 15
+
+(Forma dei documenti richiesti)
+
+1.
+
+Il Commissario della Legge trasmette soltanto copie o fotocopie certificate conformi degli atti o dei documenti richiesti.
+
+2.
+
+Se lo Stato richiedente domandi espressamente la trasmissione degli atti o dei documenti originali, sarà dato seguito alla domanda solo se possibile e con obbligo dello Stato richiedente di restituirli nel più breve termine possibile, salvo che la Repubblica non vi rinunci.
+
+3.
+
+Il Commissario della Legge può posticipare la consegna di atti o documenti di cui è stata chiesta la trasmissione in originale, se gli sono necessari per un procedimento penale in corso.
+
+#### Art. 163
+
+(Partecipazione dello Stato richiedente)
+
+1.
+
+Se lo Stato richiedente ne fa espressa domanda, il Commissario della Legge, può autorizzare la Autorità richiedente ad assistere all’esecuzione. In ogni caso lo informa della data e del luogo d’esecuzione della commissione rogatoria.
+
+#### Art. 17
+
+(Riservatezza)
+
+1.
+
+Al di fuori di quanto è necessario per dare esecuzione alla domanda, lo Stato richiedente può esigere che la Repubblica mantenga riservati i fatti oggetto della richiesta.
+
+2.
+
+Se l’esecuzione della domanda comporti per la legge sammarinese l’adozione di garanzie processuali incompatibili con l’esigenza di riservatezza richiesta, il Commissario della Legge lo comunica immediatamente allo Stato richiedente.
+
+3.
+
+Qualora a seguito della trasmissione riservata venga aperto in Repubblica un fascicolo penale, trova applicazione per esclusivi motivi di 3 Testo originario (Legge n.104/2009):
+
+#### Art. 16
+
+(Informazioni allo Stato richiedente)
+
+1.
+
+Se lo Stato richiedente ne fa espressa domanda, il Commissario della Legge lo informa della data e del luogo d’esecuzione della commissione rogatoria.
+
+Modifiche legislative Legge 23 luglio 2010 n.128, Articolo 4 L’articolo 16 della Legge 30 luglio 2009 n.104 è così modificato:
+
+“(Partecipazione dello Stato richiedente)
+
+1\. Se lo Stato richiedente ne fa espressa domanda, il Commissario della Legge, può autorizzare la Autorità richiedente ad assistere all’esecuzione. In ogni caso lo informa della data e del luogo d’esecuzione della commissione rogatoria.”.
+
+cooperazione internazionale e per il periodo di 3 mesi, la disciplina delineata dall’articolo 5 commi 1 e 2 della Legge 17 giugno 2008 n. 93.
+
+4.
+
+Qualora a seguito della trasmissione riservata venga aperto in Repubblica un autonomo fascicolo penale ed il giudice competente ritenga applicabile il regime di temporanea segretezza, trovano piena applicazione la disciplina ed i termini previsti dall’articolo 5 commi 1 e 2 della Legge 17 giugno 2008 n. 93, termini nei quali non si computa l’eventuale periodo accordato ai sensi del comma precedente.
+
+#### Art. 18
+
+(Spese)
+
+1.
+
+Le spese ordinarie d’esecuzione della richiesta sono a carico della Repubblica.
+
+2.
+
+Fanno eccezione al generale principio di gratuità il rimborso delle spese relative all’intervento di periti e testi sul territorio dello Stato richiesto e del trasferimento di persone detenute.
+
+#### Art. 19
+
+(Notifica di atti processuali e di decisioni giudiziarie)
+
+1.
+
+La Repubblica provvede alla notifica degli atti processuali e delle decisioni giudiziarie che le sono trasmesse a questo scopo dallo Stato richiedente.
+
+2.
+
+Se lo Stato richiedente ne fa espressa domanda, il Commissario della Legge dispone la notifica in una delle forme previste dalla legislazione interna per trasmissioni analoghe o in una forma speciale comunque prevista dalla legislazione sammarinese.
+
+3.
+
+La prova della notifica avviene mediante una ricevuta datata e firmata dal destinatario o mediante una dichiarazione della Repubblica accertante il fatto, la forma e la data della consegna.
+
+4.
+
+L’uno o l’altro di questi documenti viene trasmesso allo Stato richiedente. Su domanda dello Stato richiedente, la Repubblica preciserà se la notifica è stata effettuata conformemente alla sua legge. Se la consegna non ha avuto luogo, il Commissario della Legge ne comunicherà immediatamente il motivo allo Stato richiedente.
+
+#### Art. 20
+
+(Comparizione di testi e periti)
+
+1.
+
+Fatte salve le disposizioni in senso contrario contenute in convenzioni bilaterali in vigore per la Repubblica, il teste o il perito che non ottemperi a una citazione a comparire di cui è stata chiesta la trasmissione, non può essere sottoposto ad alcuna sanzione o misura di coercizione, salvo che si rechi poi spontaneamente sul territorio dello Stato richiedente e che ivi sia regolarmente citato di nuovo.
+
+#### Art. 21
+
+(Rimborso spese per i testi o i periti)
+
+1.
+
+Ad eccezione di differenti criteri contenuti in convenzioni bilaterali in vigore per la Repubblica, le indennità da versare e le spese di viaggio e di
+
+soggiorno da rimborsare al teste o al perito dallo Stato richiedente, sono calcolate, a partire dal luogo di residenza e sono accordate secondo aliquote almeno uguali a quelle previste nelle tariffe e nei regolamenti in vigore nel paese ove l’audizione deve aver luogo.
+
+#### Art. 22
+
+(Immunità dei testi o dei periti)
+
+1.
+
+Nessun teste o perito, qualsiasi cittadinanza esso abbia, che in seguito a una citazione compaia davanti alle autorità giudiziarie dello Stato richiedente, può essere perseguito o detenuto o sottoposto ad alcuna altra limitazione della sua libertà personale sul territorio dello Stato richiedente per fatti o condanne anteriori alla sua partenza dal territorio della Repubblica.
+
+2.
+
+L’immunità prevista nel presente articolo cessa quando il teste o il perito, avendone avuta la possibilità, non ha lasciato il territorio dello Stato richiedente trascorsi quindici giorni dal momento in cui la sua presenza non è più richiesta dall'autorità giudiziaria ovvero, avendolo lasciato, vi ha fatto volontariamente ritorno.
+
+#### Art. 23
+
+(Termini di citazione relativi alla persona perseguita)
+
+1.
+
+La citazione a comparire di una persona perseguita che si trovi sul territorio sammarinese deve pervenire all’autorità competente della Repubblica almeno 40 giorni prima della data stabilita per la comparizione.
+
+#### Art. 24
+
+(Immunità della persona perseguita)
+
+1.
+
+Nessuna persona, qualsiasi cittadinanza essa abbia, citata davanti alle autorità giudiziarie dello Stato richiedente affinché risponda di fatti, per i quali è oggetto di perseguimento, potrà essere perseguita, detenuta o sottoposta ad alcun’altra limitazione della sua libertà personale per fatti o condanne anteriori alla sua partenza dal territorio della Repubblica e non indicati nella citazione.
+
+2.
+
+L’immunità prevista nel presente articolo cessa quando la persona perseguita, avendone avuta la possibilità, non ha lasciato il territorio dello Stato richiedente trascorsi quindici giorni dal momento in cui la sua presenza non è più richiesta dall'autorità giudiziaria ovvero, avendolo lasciato, vi ha fatto volontariamente ritorno.
+
+#### Art. 25
+
+(Comparizione della persona detenuta)
+
+1.
+
+Qualsiasi persona detenuta, di cui lo Stato richiedente domanda la comparsa personale in qualità di teste o per l’esecuzione di un confronto, sarà trasferita temporaneamente sul territorio dello Stato ove l’audizione deve aver luogo, con obbligo di riconsegna nel più breve termine e fatte salve le disposizioni relative alle immunità previste dagli articoli 22 e 24 della presente legge nella misura in cui le stesse possano essere applicate.
+
+2.
+
+Il trasferimento viene rinviato se la presenza della persona detenuta è necessaria in un procedimento penale in corso sul territorio della
+
+Repubblica.
+
+3.
+
+Nel caso previsto al paragrafo precedente e nel rispetto dei requisiti previsti per l’esecuzione delle rogatorie, il transito della persona detenuta attraverso il territorio di uno Stato terzo, sarà concesso su domanda corredata di tutti i documenti utili e trasmessa dal Ministero di Giustizia dello Stato richiedente al Ministero di Giustizia dello Stato richiesto del transito.
+
+4.
+
+La persona trasferita dovrà restare in detenzione sul territorio dello Stato richiedente e, dato il caso, sul territorio dello Stato richiesto del transito.
+
+5.
+
+Il periodo di detenzione scontato dalla persona detenuta trasferita all’estero per procedere all’audizione richiesta, viene computato come periodo espiato ai fini della condanna interna.
+
+#### Art. 26
+
+(Consegna e restituzione di oggetti)
+
+1.
+
+Il Commissario della Legge potrà posticipare la consegna di oggetti di cui è stata chiesta la trasmissione, se gli stessi sono necessari per un procedimento penale in corso nella Repubblica.
+
+2.
+
+Gli oggetti che sono trasmessi in esecuzione di una commissione rogatoria, devono essere restituiti il più presto possibile dallo Stato richiedente alla Repubblica, salvo che questa vi rinunci.
+
+#### Art. 27
+
+(Scambi di sentenze di condanna)
+
+1.
+
+La Repubblica, a seguito di richieste specifiche provenienti dalle autorità giudiziarie straniere competenti, fornisce informazioni in merito alle sentenze penali annotate nel casellario giudiziario.
+
+#### Art. 28
+
+(Restituzione della domanda)
+
+1.
+
+Le commissioni rogatorie, fatte salve le differenti modalità di trasmissione diretta previste dalle disposizioni delle convenzioni bilaterali in vigore per la Repubblica, vengono restituite tramite la Segreteria di Stato alla Giustizia che provvede a rispedirle al Ministero di Giustizia dello Stato richiedente.
+
+### CAPO II
+
+RICORSI
+
+#### Art. 29
+
+(Ricorso avverso il decreto di diniego)
+
+1.
+
+Il decreto motivato di diniego, anche parziale, dell’esecuzione della rogatoria potrà essere oggetto di ricorso per motivi di legittimità al Giudice per la Terza Istanza Penale, da parte del Procuratore del Fisco entro il termine di 10 giorni dall’avvenuta notifica del decreto.
+
+#### Art. 304
+
+(Impugnazioni avverso i decreti di exequatur)
+
+1.
+
+I decreti di exequatur di sola notifica non possono essere oggetto di ricorso.
+
+2.
+
+Avverso il decreto di exequatur che non dispone misure coercitive, fatta salva la disciplina prevista dal comma precedente, il Procuratore del Fisco può proporre per motivi di legittimità, ricorso in forma scritta al Giudice per la Terza Istanza Penale entro il termine di dieci giorni dal ricevimento della notifica del decreto di exequatur.
+
+3.
+
+Avverso i decreti di exequatur che dispongono misure coercitive, personali e/o reali, il Procuratore del Fisco e gli interessati tramite un Avvocato abilitato all’esercizio della professione forense nella Repubblica e presso il quale devono eleggere domicilio legale, possono proporre reclamo in forma scritta, per motivi di legittimità e di merito, al Giudice d’Appello entro il termine di dieci giorni dal ricevimento della notifica del decreto di exequatur.
+
+4.
+
+La presentazione dei ricorsi di cui ai commi precedenti, sospende la trasmissibilità all’Autorità estera degli atti concernenti l’esecuzione della rogatoria. 4Testo originario (Legge n.104/2009):
+
+#### Art. 30
+
+(Impugnazioni avverso i decreti di exequatur)
+
+1.
+
+I decreti di exequatur di sola notifica non possono essere oggetto di ricorso.
+
+2.
+
+Avverso il decreto di exequatur che non dispone misure coercitive, fatta salva la disciplina prevista dal comma precedente, il Procuratore del Fisco può proporre per motivi di legittimità, ricorso in forma scritta al Giudice per la Terza Istanza Penale entro il termine di dieci giorni dal ricevimento della notifica del decreto di exequatur.
+
+3.
+
+Sono ammessi tutti i reclami previsti dal diritto interno avverso i decreti di exequatur che dispongono misure coercitive. Gli interessati, tramite un Avvocato abilitato all’esercizio della professione forense nella Repubblica presso il quale devono eleggere domicilio legale, ed il Procuratore del Fisco, possono proporre reclamo in forma scritta circa la sussistenza dei requisiti di cui al Titolo I ed al Titolo II
+
+### Capo I della presente legge, al Giudice delle Appellazioni Penali entro il termine di dieci giorni dal
+
+ricevimento della notifica del decreto di exequatur.
+
+4.
+
+La presentazione dei ricorsi di cui ai commi precedenti, sospende l’esecuzione della rogatoria.
+
+5.
+
+Il Procuratore del Fisco nei casi di cui al comma secondo del presente articolo ed il Procuratore del Fisco e gli interessati nei casi di cui al comma terzo del presente articolo, potranno prendere visione nei successivi dieci giorni dalla presentazione del ricorso, della richiesta di assistenza giudiziaria o delle parti di essa non espressamente riservate. Decorso tale termine il Commissario della Legge trasmette il fascicolo al Giudice competente.
+
+Modifiche legislative Legge 23 luglio 2010 n.128, Articolo 5 Il terzo comma dell’articolo 30 Legge 30 luglio 2009 n.104 è così modificato:
+
+“3.
+
+Avverso i decreti di exequatur che dispongono misure coercitive, personali e/o reali, il Procuratore del Fisco e gli interessati tramite un Avvocato abilitato all’esercizio della professione forense nella Repubblica e presso il quale devono eleggere domicilio legale, possono proporre reclamo in forma scritta, per motivi di legittimità e di merito, al Giudice d’Appello entro il termine di dieci giorni dal ricevimento della notifica del decreto di exequatur.”.
+
+Legge 23 luglio 2010 n.128, Articolo 6 Il comma 4 dell’articolo 30 della Legge 30 luglio 2009 n.104 è così modificato:
+
+“4.
+
+La presentazione dei ricorsi di cui ai commi precedenti, sospende la trasmissibilità all’Autorità estera degli atti concernenti l’esecuzione della rogatoria.”.
+
+Legge 23 luglio 2010 n.128, Articolo 7 Il comma 5 dell’articolo 30 della Legge 30 luglio 2009 n.104 è così modificato:
+
+“5.
+
+Il Procuratore del Fisco e gli interessati che abbiano presentato il reclamo di cui al terzo comma del presente articolo, avranno diritto, nei dieci giorni successivi alla presentazione del reclamo, a prendere visione della richiesta di assistenza giudiziaria o delle parti di essa non espressamente secretate. Decorso detto termine il Commissario della Legge trasmette il fascicolo al Giudice d’Appello.”.
+
+5\. . Il Procuratore del Fisco e gli interessati che abbiano presentato il reclamo di cui al terzo comma del presente articolo, avranno diritto, nei dieci giorni successivi alla presentazione del reclamo, a prendere visione della richiesta di assistenza giudiziaria o delle parti di essa non espressamente secretate. Decorso detto termine il Commissario della Legge trasmette il fascicolo al Giudice d’Appello.
+
+#### Art. 31
+
+(Procedura in caso di reclamo)
+
+1.
+
+Entro il termine di dieci giorni dalla trasmissione del fascicolo, il Giudice delle Appellazioni Penali concede il termine di dieci giorni agli interessati ed al Procuratore del Fisco per il deposito di eventuali memorie conclusionali.
+
+2.
+
+Il Giudice delle Appellazioni decide sul reclamo proposto con ordinanza entro il termine di quindici giorni dal giorno del ricevimento delle memorie conclusionali.
+
+#### Art. 325
+
+(Procedura dinanzi al Giudice per la Terza Istanza Penale ai sensi degli articoli 29 e 30 secondo comma della presente legge)
+
+1.
+
+Il ricorso del Procuratore del Fisco avverso il decreto di diniego anche parziale dell’esecuzione della rogatoria nonché quello presentato avverso il decreto di exequatur che non dispone misure coercitive, deve essere indirizzato al Giudice per la Terza Istanza Penale, redatto in forma scritta e contenere:
+
+1) una chiara e dettagliata esposizione dei fatti;
+
+2) i riferimenti probatori ritenuti necessari;
+
+3) le motivazioni in diritto a sostegno dell’istanza;
+
+4) l’indicazione chiara e circostanziata della decisione richiesta.
+
+2.
+
+Il Giudice per la Terza Istanza Penale fissa l’udienza di discussione che si terrà entro e non oltre i venti giorni successivi.
+
+3.
+
+Il Procuratore del Fisco, può presentare ulteriori memorie e deduzioni fino a cinque giorni prima di quello fissato per l’udienza di discussione.
+
+4.
+
+Il Giudice per la Terza Istanza Penale decide con sentenza che deve essere depositata entro dieci giorni dall’udienza di discussione.
+
+5.
+
+La sentenza viene notificata al Procuratore del Fisco. Il fascicolo viene poi trasmesso al Commissario della Legge, Giudice delle rogatorie, per l’esecuzione dei provvedimenti quali risultanti a seguito della definitiva sentenza.
+
+#### Art. 336
+
+5 Testo originario (Legge n.104/2009):
+
+#### Art. 32
+
+(Procedura diretta dinanzi al Giudice per la Terza Istanza Penale)
+
+Modifiche legislative Legge 23 luglio 2010 n.128, Articolo 8 Il titolo dell’articolo 32 è così modificato:
+
+“Art. 32 (Procedura dinanzi al Giudice per la Terza Istanza Penale ai sensi degli articoli 29 e 30 secondo comma della presente legge).”.
+
+[ABROGATO]
+
+## TITOLO III
+
+ROGATORIE ALL'ESTERO
+
+#### Art. 34
+
+(Trasmissione di rogatorie ad autorità straniere)
+
+1.
+
+Fatte salve le differenti disposizioni contenute nelle convenzioni internazionali in vigore per la Repubblica che prevedono la trasmissione diretta fra autorità giudiziarie, il magistrato titolare delle indagini qualora ciò sia necessario per lo svolgimento delle stesse, inoltra alle autorità straniere competenti le richieste relative ai procedimenti penali che abbiano per oggetto il compimento di atti istruttori o la trasmissione di mezzi di prova, fascicoli o documenti, trasmettendo le stesse alla Segreteria di Stato alla Giustizia la quale provvede all'inoltro per via diplomatica, al Ministero di Giustizia dello Stato richiesto.
+
+2.
+
+Qualora lo Stato richiesto, per dare corso alla richiesta di rogatoria, richieda una garanzia di reciprocità, il Segretario di Stato per la Giustizia, previa delibera congressuale in tal senso, nel rispetto dei limiti previsti dalla presente legge, garantisce o meno la reciprocità allo Stato richiesto.
+
+#### Art. 357
+
+6 Testo originario (Legge n.104/2009):
+
+#### Art. 33
+
+(Procedura di ultimo grado dinanzi al Giudice per la Terza Istanza Penale)
+
+1.
+
+Entro il termine di 30 giorni dal ricevimento della notifica dell’ordinanza del Giudice delle Appellazioni Penale, gli interessati, tramite un Avvocato abilitato all’esercizio della professione forense nella Repubblica di San Marino presso il quale devono eleggere domicilio legale, ed il Procuratore del Fisco, possono proporre per motivi di legittimità ricorso al Giudice di Terza Istanza Penale.
+
+2.
+
+Il ricorso, indirizzato al Giudice per la Terza Istanza Penale e redatto in forma scritta, deve contenere:
+
+1) una chiara e dettagliata esposizione dei fatti;
+
+2) i riferimenti probatori ritenuti necessari dal ricorrente;
+
+3) le motivazioni in diritto a sostegno dell’istanza;
+
+4) l’indicazione chiara e circostanziata della decisione richiesta.
+
+3.
+
+Il Commissario della Legge, Giudice delle rogatorie, dispone la notifica del ricorso a tutti gli interessati, al Procuratore del Fisco, eseguite le quali trasmette il fascicolo al Giudice per la Terza Istanza Penale.
+
+4.
+
+Il Giudice per la Terza Istanza Penale accorda agli interessati ed al Procuratore del Fisco, il termine di dieci giorni per il deposito di eventuali memorie e deduzioni.
+
+5.
+
+Decorso il termine di cui al comma precedente il Giudice per la Terza Istanza Penale fissa l’udienza di discussione che dovrà tenersi entro e non oltre i venti giorni successivi.
+
+6.
+
+Il Giudice per la Terza Istanza Penale decide con sentenza che deve essere depositata entro dieci giorni dall’udienza di discussione.
+
+7.
+
+La sentenza viene notificata agli interessati e al Procuratore del Fisco. Il fascicolo viene poi trasmesso al Commissario della Legge, Giudice delle rogatorie, per l’esecuzione dei provvedimenti quali risultanti a seguito della definitiva sentenza di Terzo Grado.
+
+Modifiche legislative Legge 23 luglio 2010 n.128, Articolo 9 L’articolo 33 della Legge 30 luglio 2009 n.104 è abrogato. 7 Testo originario (Legge n.104/2009):
+
+#### Art. 35
+
+(Limiti di utilizzazione degli atti compiuti da uno Stato estero)
+
+(Limiti di utilizzazione degli atti compiuti da uno Stato estero)
+
+1.
+
+Fermo quanto stabilito dalle disposizioni di legge vigenti circa la validità e utilizzabilità di atti, non è consentita l’utilizzazione degli atti di assistenza giudiziaria richiesti e compiuti all’estero in violazione delle condizioni e limiti eventualmente posti dallo Stato estero.
+
+2.
+
+Tutti i termini per eventuali reclami conseguenti ai sequestri avvenuti all’estero in regime di segretezza, sono sospesi e cominciano a decorrere dalla comunicazione alle parti della cessazione del regime di segretezza.
+
+3.
+
+Avverso il decreto di formale acquisizione probatoria che dispone misure coercitive, gli interessati ed il Procuratore del Fisco, possono proporre per i motivi previsti dal diritto interno, reclamo in forma scritta al Giudice delle Appellazioni Penali entro il termine di dieci giorni dal ricevimento della notifica del decreto, conclusa l’eventuale fase svolta in regime di segretezza.
+
+Eventuali impugnazioni sono regolate dalle norme procedurali ordinarie.
+
+#### Art. 36
+
+(Immunità temporanea della persona citata quale teste, perito o imputato)
+
+1.
+
+Nei casi in cui la rogatoria ha ad oggetto la citazione di un testimone, di un perito o di un imputato davanti all'autorità giudiziaria sammarinese, la persona citata, qualora compaia, non può essere sottoposta a restrizione della libertà personale in esecuzione di una pena o di una misura di sicurezza né assoggettata ad altre misure restrittive della libertà personale per fatti anteriori alla notifica della citazione.
+
+2.
+
+L'immunità prevista dal comma 1 cessa qualora il testimone, il perito
+
+1.
+
+Fermo quanto stabilito dalle disposizioni di legge vigenti circa la validità e utilizzabilità di atti, non è consentita l’utilizzazione degli atti d’assistenza giudiziaria richiesti e compiuti all’estero in violazione delle condizioni e limiti eventualmente posti dallo Stato estero.
+
+2.
+
+Tutti i termini per eventuali reclami conseguenti ai sequestri avvenuti all’estero in regime di segretezza, sono sospesi e cominciano a decorrere dalla comunicazione alle parti della cessazione del regime di segretezza.
+
+3.
+
+Avverso il decreto di formale acquisizione probatoria che dispone misure coercitive, gli interessati ed il Procuratore del Fisco, possono proporre per i motivi previsti dal diritto interno, reclamo in forma scritta al Giudice delle Appellazioni Penali entro il termine di dieci giorni dal ricevimento della notifica del decreto, conclusa l’eventuale fase svolta in regime di segretezza. Si applica la procedura delineata dall’articolo 31 della presente legge e, in caso di ulteriore ricorso in terza istanza, quella prevista dall’articolo 33 della presente legge.
+
+Modifiche legislative Legge 23 luglio 2010 n.128, Articolo 10 L’articolo 35 della Legge 30 luglio 2009 n.104 è così modificato:
+
+“(Limiti di utilizzazione degli atti compiuti da uno stato estero)
+
+1.
+
+Fermo quanto stabilito dalle disposizioni di legge vigenti circa la validità e utilizzabilità di atti, non è consentita l’utilizzazione degli atti di assistenza giudiziaria richiesti e compiuti all’estero in violazione delle condizioni e limiti eventualmente posti dallo Stato estero.
+
+2.
+
+Tutti i termini per eventuali reclami conseguenti ai sequestri avvenuti all’estero in regime di segretezza, sono sospesi e cominciano a decorrere dalla comunicazione alle parti della cessazione del regime di segretezza.
+
+3.
+
+Avverso il decreto di formale acquisizione probatoria che dispone misure coercitive, gli interessati ed il Procuratore del Fisco, possono proporre per i motivi previsti dal diritto interno, reclamo in forma scritta al Giudice delle Appellazioni Penali entro il termine di dieci giorni dal ricevimento della notifica del decreto, conclusa l’eventuale fase svolta in regime di segretezza. Eventuali impugnazioni sono regolate dalle norme procedurali ordinarie.”.
+
+o l'imputato, avendone avuta la possibilità, non ha lasciato il territorio dello Stato trascorsi quindici giorni dal momento in cui la sua presenza non è più richiesta dall'autorità giudiziaria ovvero, avendolo lasciato, vi ha fatto volontariamente ritorno.
+
+#### Art. 37
+
+(Norme di coordinamento)
+
+1.
+
+All’articolo 5 della Legge 17 giugno 2008 n.93 è aggiunto il seguente comma:
+
+“7.
+
+In caso di segretezza dell’istruttoria, qualora il Giudice inquirente richieda assistenza giudiziaria ad un’Autorità estera, il termine di segretezza dell’istruttoria previsto al comma terzo, è sospeso dal giorno dell’invio della rogatoria al giorno in cui perviene la risposta.”.
+
+2.
+
+All’articolo 8 della Legge 17 giugno 2008 n.93 è aggiunto il seguente comma:
+
+“6.
+
+Ai sensi dell’articolo 36, comma 5 della Legge 17 novembre 2005 n.165, il segreto bancario non può essere opposto nel dibattimento. E’ abrogata ogni altra contraria disposizione di legge.”
+
+#### Art. 38
+
+(Abrogazioni)
+
+1.
+
+È abrogata ogni norma in contrasto con la presente legge.
+
+#### Art. 39
+
+(Disposizioni finali)
+
+1.
+
+La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
+
+ALTRE NORME LEGGE 23 LUGLIO 2010 N.128 MODIFICHE ALLA LEGGE 30 LUGLIO 2009 N. 104 (LEGGE SULLE ROGATORIE INTERNAZIONALI IN MATERIA PENALE)
+
+#### Art. 11
+
+1.
+
+Le disposizioni della presente legge si applicano con riferimento ai decreti di exequatur emessi successivamente all’entrata in vigore della presente legge.

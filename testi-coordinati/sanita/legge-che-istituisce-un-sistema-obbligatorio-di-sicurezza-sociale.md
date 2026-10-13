@@ -1,0 +1,1151 @@
+---
+title: "Legge che istituisce un sistema obbligatorio di Sicurezza Sociale (aggiornato al 14 settembre 2022)"
+identifier: "documento17134822"
+type: consolidated_text
+jurisdiction: sm
+language: it
+last_amended: 2022-09-14
+status: in_force
+category: "1 - Sanità"
+note: "Testo coordinato con valore ricognitivo (art. 82 Legge 22 dicembre 2015 n.189); non costituisce fonte normativa."
+source: "https://www.consigliograndeegenerale.sm/on-line/documento17134822.html"
+retrieved: 2026-10-13
+---
+
+# Legge che istituisce un sistema obbligatorio di Sicurezza Sociale (aggiornato al 14 settembre 2022)
+
+TESTO COORDINATO LEGGE 22 DICEMBRE 1955 n. 42 LEGGE CHE ISTITUISCE UN SISTEMA OBBLIGATORIO DI SICUREZZA SOCIALE (Aggiornato al 14/09/2022)
+
+Testo coordinato con le modifiche derivanti dalla Legge 28 settembre 1956, n. 31, dalla Legge 2 luglio 1969, n.37, dal Decreto 22 luglio 1957, n. 8, dalla Legge 18 giugno 1958, n. 17, dal Decreto 9 agosto 1961, n. 20, dalla Legge 30 giugno 1964, n. 37, dalla Legge 27 ottobre 1972, n. 32, dalla Legge 17 giugno 1974, n. 43, dalla Legge 13 aprile 1976, n. 9 e dalla Legge 22 luglio 2014 n.114.
+
+LEGGI CITATE NEL TESTO COORDINATO Legge 16 marzo 1922 n. 10 Legge 24 gennaio 1939 n. 2 Legge 27 gennaio 1942 n. 1 Legge 19 febbraio 1946 n. 8 Legge 9 marzo 1950 n. 10 Legge 22 dicembre 1955 n. 42 Legge 28 settembre 1956, n. 31 Decreto 22 luglio 1957 n. 8 Legge 29 agosto 1958 n. 24 Legge 18 giugno 1958 n. 17 Decreto 9 agosto 1961 n. 20 Legge 30 giugno 1964 n. 37 Legge 7 marzo 1969 n.13 Legge 2 luglio 1969 n.37 Legge 27 ottobre 1972 n. 32 Legge 17 giugno 1974 n. 43 Legge 13 aprile 1976 n. 9 Decreto 26 aprile 1976 n.15 Legge 11 febbraio 1983 n.15.
+
+Legge 12 novembre 1985 n.135 Legge 22 luglio 2014 n.114
+
+TESTO COORDINATO LEGGE 22 DICEMBRE 1955 n. 42 LEGGE CHE ISTITUISCE UN SISTEMA OBBLIGATORIO DI SICUREZZA SOCIALE
+
+## TITOLO I
+
+Istituzione di un sistema obbligatorio di Sicurezza Sociale
+
+#### Art.1
+
+E' istituito un sistema obbligatorio di Sicurezza Sociale che contempla l'erogazione di prestazioni sanitarie, di prestazioni economiche temporanee, di prestazioni economiche vitalizie, di assegni famigliari, di prestazioni assistenziali.
+
+Esso trae ispirazioni dai principi statuari della Repubblica e dalle nuove esigenze della vita civile.
+
+## TITOLO II
+
+### Capo I°
+
+Prestazioni Sanitarie Art. 2 1 [Abrogato] Art.3 2
+
+Testo originario “A decorrere dal 1° febbraio 1956 hanno diritto alle prestazioni sanitarie, con le modalità ed entro i limiti di cui alla presente legge, tutti i cittadini sammarinesi colpiti da malattia, quale ne sia l'età, il sesso, la condizione, l'attività, il reddito, indipendentemente dal fatto che sui loro redditi, o su quelli delle persone a cui carico essi vivono, sia stata pagata l'imposta per la Sicurezza Sociale di cui agli articoli 14 e seguenti della presente legge.
+
+Hanno altresì diritto alle prestazioni predette, negli stessi termini vigenti per i cittadini, gli stranieri e gli apolidi che siano in possesso del permesso di soggiorno almeno da un anno.”
+
+Modifiche legislative LEGGE 18 giugno 1958, n. 17, articolo 1:
+
+All'art. 2 della legge sulla Sicurezza Sociale 22 dicembre 1955, n. 42, viene aggiunto il seguente comma:
+
+"La condizione del possesso del permesso di soggiorno almeno da un anno non è applicabile nei confronti dei dipendenti dell'Amministrazione dello Stato e dei loro familiari residenti nel territorio della Repubblica, nè nei confronti dei nuclei familiari colonici dal momento in cui vengono immessi nella conduzione del fondo".
+
+LEGGE 2 luglio 1969, n.37, articolo 1 [abrogata dalla Legge 13 aprile 1976, n. 9] [Legge 13 aprile 1976 n.9 abrogata dalla Legge 22 luglio 2014 n.114]:
+
+“L'articolo due della legge 22 dicembre n.42 è abrogato.”
+
+LEGGE 13 aprile 1976, n. 9, articolo 1 [Legge 13 aprile 1976 n.9 abrogata dalla Legge 22 luglio 2014 n.114] “L'articolo due della legge 22 dicembre 1955 n. 42 è abrogato”
+
+Si veda Legge 7 marzo 1969 n.13, articolo 1 “In deroga a quanto stabilito all'art. 3 della legge 22 dicembre 1955 n. 42, in favore degli aventi diritto alla assistenza sanitaria effettivamente residenti in Repubblica che trovandosi fuori territorio vengono colpiti da lesioni traumatiche comunque prodotte che comportino ricovero urgente ospedaliero, l'Istituto emetterà apposita impegnativa di ricovero
+
+Le prestazioni sanitarie garantiscono:
+
+a) accertamenti diagnostici;
+
+b) assistenza medico-generica;
+
+c) assistenza medico- specialistica;
+
+d) ricoveri ospedalieri e interventi chirurgici;
+
+e) assistenza antitubercolare;
+
+f) fornitura di medicinali;
+
+g) assistenza ostetrica;
+
+h) fornitura di protesi da lavoro.
+
+Le prestazioni sanitarie vengono erogate gratuitamente e in forma diretta tramite l'Ospedale e le Farmacie di Stato gestiti dall'Istituto per la Sicurezza Sociale di cui all'art. 53 della presente legge, tramite i medici condotti e le ostetriche condotte alle dipendenze dell'Istituto per la Sicurezza Sociale, nonchè tramite le case di cura e i medici specialisti convenzionati con l'Istituto o presso i quali l'assistito sarà avviato a cura dell'Istituto stesso.
+
+Ad eccezione delle spese di viaggio di cui agli articoli 6 ed 8 della presente legge, non è ammesso il rimborso di spese sostenute in proprio dall'assistito per prestazioni sanitarie di qualsiasi natura esse siano.
+
+#### Art.4
+
+Gli accertamenti diagnostici di cui al precedente articolo consistono in:
+
+\- indagini radiografiche;
+
+\- analisi di laboratorio;
+
+\- esami elettrocardiografici;
+
+\- metabolismo basale.
+
+Per effettuare tali accertamenti l'avente diritto alle prestazioni sanitarie dovrà farsi rilasciare apposita autorizzazione dal medico condotto di cui all'art. 5 della presente legge.
+
+L'autorizzazione dovrà essere vistata dall'Istituto per la Sicurezza Sociale.
+
+Gli accertamenti diagnostici di cui al presente articolo saranno eseguiti presso l'Ospedale di Stato gestito dall'Istituto per la Sicurezza Sociale.
+
+assumendone l'onere, fatto salvo il diritto di rivalsa di cui all'art. 68 della legge sopra richiamata, nella misura fissata dalla eventuale convenzione o da quella vigente per ricovero analogo con Ospedale di pari categoria.”
+
+LEGGE 12 novembre 1985 n.135, articolo 1:
+
+“In deroga a quanto stabilito all'art. 3 della Legge 22 dicembre 1955 n.42, i lavoratori dipendenti ed autonomi che si trovano fuori del territorio della Repubblica a svolgere un'attività di carattere temporaneo, hanno diritto alle prestazioni sanitarie urgenti a carico dell'Istituto per la Sicurezza Sociale.
+
+Detto diritto sussiste purchè i lavoratori non abbiano titolo ad analoghe prestazioni in base alla legislazione vigente nello Stato in cui si sono ammalati od infortunati e purchè l'Istituto per la Sicurezza Sociale sia stato preventivamente reso edotto dell'attività temporanea suddetta da svolgere all'estero, come stabilito dall'ultimo comma dell'art. 17 della Legge 11 febbraio 1983 n.15.
+
+Il diritto alle suddette prestazioni è altresì subordinato al rispetto delle norme vigenti in materia di invio al lavoro dipendente ed a quelle di esercizio delle attività autonome.”
+
+Art.5 3 L'assistenza medico-generica consiste in cure e visite mediche generiche, in prestazioni di medicina generale, nella terapia ipodermica ed endovenosa e in piccoli interventi chirurgici.
+
+L'assistenza medico generica viene attuata attraverso l'opera dei medici condotti, alle dipendenze dell'Istituto per la Sicurezza Sociale, ognuno dei quali ha una giurisdizione su una parte del territorio della Repubblica, ovvero attraverso quelle strutture sanitarie che verranno stabilite dall'Istituto medesimo, in aderenza all'evolversi delle tecniche e della organizzazione sanitaria.
+
+Il cittadino bisognevole dell'assistenza medico generica dovrà rivolgersi presso il medico condotto o la struttura sanitaria nella cui giurisdizione egli risieda.
+
+E' tuttavia data facoltà di avvalersi - per ogni ciclo di malattia - del medico di un'altra condotta, in luogo di quello nella cui giurisdizione è la residenza dell'assistito.
+
+L'assistenza medico-generica potrà essere svolta sia presso l'ambulatorio medico condotto come presso il domicilio dell'assistito. Essa sarà resa, oltre che in tutte le ore del giorno, anche nelle ore notturne in caso di urgenza
+
+#### Art.6
+
+L'assistenza medico-specialistica viene attuata attraverso l'opera di medici specialisti, convenzionati con l'Istituto per la Sicurezza Sociale. Tale opera - a seconda dei casi - sarà prestata, salvo che nei casi di urgenza, in giorni determinati, o presso gli studi e gli ambulatori degli specialisti convenzionati, o presso l'Ospedale di Stato.
+
+L'assistenza odontoiatrica consiste esclusivamente in cure conservative e chirurgiche. Da essa sono escluse le applicazioni di protesi dentarie.
+
+Testo originario “L'assistenza medico-generica consiste in cure e visite mediche generiche, in prestazioni di medicina generale, nella terapia ipodermica ed endovenosa e in piccoli interventi chirurgici.
+
+L'assistenza medico-generica viene attuata attraverso l'opera di medici condotti, alle dipendenze dell'Istituto per la Sicurezza Sociale, ognuno dei quali ha giurisdizione su una parte del territorio della Repubblica.
+
+Il cittadino bisognevole dell'assistenza medico-generica dovrà rivolgersi presso il medico condotto nella cui giurisdizione egli risiede.
+
+E' tuttavia data facoltà di avvalersi - per ogni ciclo di malattia - del medico di un'altra condotta, in luogo di quello nella cui giurisdizione è la residenza dell'assistito.
+
+L'assistenza medico-generica potrà essere svolta sia presso l'ambulatorio del medico condotto come presso il domicilio dell'assistito. Essa sarà resa, oltre che in tutte le ore del giorno, anche nelle ore notturne in caso di urgenza.”
+
+Modifiche legislative LEGGE 17 giugno 1974, n. 43, articolo 1:
+
+Gli artt. 5 e 58 della legge 22 dicembre 1955 n. 42 istitutiva di un sistema obbligatorio di Sicurezza Sociale sono così modificati:
+
+"Art. 5 - L'assistenza medico-generica consiste in cure e visite mediche generiche, in prestazioni di medicina generale, nella terapia ipodermica ed endovenosa e in piccoli interventi chirurgici.
+
+L'assistenza medico generica viene attuata attraverso l'opera dei medici condotti, alle dipendenze dell'Istituto per la Sicurezza Sociale, ognuno dei quali ha una giurisdizione su una parte del territorio della Repubblica, ovvero attraverso quelle strutture sanitarie che verranno stabilite dall'Istituto medesimo, in aderenza all'evolversi delle tecniche e della organizzazione sanitaria. Il cittadino bisognevole dell'assistenza medico generica dovrà rivolgersi presso il medico condotto o la struttura sanitaria nella cui giurisdizione egli risieda.
+
+E' tuttavia data facoltà di avvalersi - per ogni ciclo di malattia - del medico di un'altra condotta, in luogo di quello nella cui giurisdizione è la residenza dell'assistito.
+
+L'assistenza medico-generica potrà essere svolta sia presso l'ambulatorio medico condotto come presso il domicilio dell'assistito. Essa sarà resa, oltre che in tutte le ore del giorno, anche nelle ore notturne in caso di urgenza". omissis
+
+Qualora l'assistito, per avvalersi della assistenza medico- specialistica, sia costretto a recarsi fuori del territorio della Repubblica, o a sostenere comunque spese di viaggio, egli avrà diritto al completo rimborso delle spese a tal fine incontrate. Per usufruire dell'assistenza medicospecialistica l'assistito dovrà farsi rilasciare apposita richiesta dal medico condotto di cui all'art. 5.
+
+La richiesta dovrà essere autorizzata dall'Istituto per la Sicurezza Sociale.
+
+Nel caso che l'assistenza necessaria sia quella odontoiatrica l'autorizzazione, sarà rilasciata allo assistito direttamente dall'Istituto per la Sicurezza Sociale senza la preventiva richiesta del medico condotto.
+
+#### Art.7
+
+I ricoveri ospedalieri saranno effettuati presso l'Ospedale di Stato gestito dall'Istituto per la Sicurezza Sociale nei casi di malattia acuta, non curabile a domicilio, e nei casi in cui si rendano necessari interventi chirurgici.
+
+I ricoveri ospedalieri - salvo i casi di urgenza - dovranno essere richiesti a favore dell'assistito dal medico condotto di cui all'art. 5. La richiesta dovrà essere autorizzata dall'Istituto per la Sicurezza Sociale.
+
+#### Art.8
+
+L'assistenza antitubercolare consiste - oltre che nel ricovero d'urgenza - nella cura domiciliare, ovvero nel ricovero sanatoriale (comprensivo di tutte le cure, gli interventi e i mezzi terapeutici necessari alla guarigione dell'ammalato) che, a seconda dei casi, saranno disposti in relazione alla gravità dell'affezione tubercolare dall'Istituto per la Sicurezza Sociale.
+
+I ricoveri sanatoriali saranno effettuati presso case di cura convenzionate con l'Istituto per la Sicurezza Sociale e dovranno essere - al pari della cura domiciliare - autorizzati dallo specialista fisiatra convenzionato con il predetto istituto. L'autorizzazione dovrà essere sottoposta al visto dello Istituto.
+
+Le dimissioni dalla casa di cura, ovvero la cessazione della cura domiciliare, saranno disposte dall'Istituto per la Sicurezza Sociale con apposita dichiarazione di guarigione, o di stabilizzazione clinica, o di prosecuzione della cura in ambulatorio.
+
+Qualora le dimissioni dalla casa di cura, ovvero la cessazione della cura domiciliare, avvengano per prosecuzione della cura in ambulatorio, l'assistito usufruirà delle necessarie prestazioni.
+
+Le spese di viaggio connesse al ricovero sanatoriale dell'assistito sono a totale carico dell'Istituto per la Sicurezza Sociale.
+
+#### Art.9
+
+La fornitura dei medicinali viene effettuata tramite le tre farmacie di Stato, gestite dall'Istituto per la Sicurezza Sociale e operanti in Città, Borgo e Serravalle, dietro presentazione della relativa prescrizione, che dovrà essere redatta su appositi ricettari dell'Istituto per la Sicurezza Sociale e che sarà rilasciata all'assistito dal medico condotto di cui all'articolo 5, ovvero da uno dei medici specialisti convenzionati con l'Istituto per la Sicurezza Sociale.
+
+Dalla fornitura dei medicinali sono esclusi gli apparecchi di protesi di qualsiasi natura, gli oggetti di gomma, gli strumenti curativi e simili, gli elementi dietetici per lattanti non aventi carattere medicamentoso, gli articoli di profumeria.
+
+#### Art. 10
+
+L'assistenza ostetrica viene svolta in caso di parto o di aborto spontaneo tramite l'opera di ostetriche condotte alle dipendenze dell'Istituto per la Sicurezza Sociale, ognuna delle quali ha giurisdizione su una parte del territorio della Repubblica.
+
+L'assistita dovrà rivolgersi presso l'ostetrica condotta, nella cui giurisdizione essa risiede.
+
+E' tuttavia data facoltà di avvalersi dell'ostetrica di un’altra condotta, in luogo di quella nella cui giurisdizione è la residenza dell'assistita.
+
+Le ostetriche condotte potranno essere convocate al domicilio dell'assistita in qualsiasi ore del giorno e, in caso d'urgenza, anche di notte.
+
+Il ricovero nell'Ospedale di Stato dell'assistita è ammesso solo nei casi di parto distocico o, comunque, di evidente gravità. In questi casi valgono le disposizioni di cui all'ultimo comma dell'art. 7 della presente legge.
+
+L'assistenza ostetrica comprende anche la fornitura gratuita del pacco ostetrico che potrà essere prelevato non prima del sesto mese compiuto di gestazione presso una delle farmacie di Stato, dietro presentazione di richiesta compilata su apposito modulo dall'ostetrica condotta.
+
+#### Art.114
+
+La fornitura di protesi da lavoro verrà effettuata dall'Istituto per la Sicurezza Sociale solo nei casi in cui la fornitura stessa si sia resa necessaria a seguito di inabilità prodotta da un infortunio avvenuto per causa violenta in occasione di lavoro.
+
+Nei casi di cui sopra l'Istituto per la Sicurezza Sociale è tenuto, oltre alla prima fornitura delle protesi da lavoro, anche alla rinnovazione di esse, purchè però sia trascorso il termine stabilito dallo Istituto medesimo. E ciò allo scopo di garantire la buona manutenzione degli apparecchi da parte dell'interessato.
+
+Alla fornitura di protesi da lavoro hanno diritto:
+
+a) i lavoratori dipendenti ed indipendenti;
+
+b) coloro che per incarico o interesse della azienda esercitano funzioni di direzione o di sorveglianza dei lavori, anche se a questi materialmente non partecipano.
+
+#### Art.12
+
+L'Istituto per la Sicurezza Sociale ha il diritto di controllare con i mezzi diagnostici che riterrà opportuni le diagnosi, le prescrizioni di medicinali, le cure, le autorizzazioni.
+
+Gli aventi titolo alle prestazioni sanitarie, i medici dipendenti dall'Istituto per la Sicurezza Sociale o con esso convenzionati e le ostetriche condotte non possono rifiutarsi di sottostare al controllo di cui al comma precedente.
+
+L'assistito che, senza giustificato motivo, si rifiuti di sottoporsi al controllo è punito con una sospensione dal diritto alle prestazioni sanitarie per un periodo da uno a dieci mesi.
+
+I medici - dipendenti dall'Istituto per la Sicurezza Sociale o con esso convenzionati - e le ostetriche condotte, che si rifiutino di fornire gli elementi per il controllo di cui al primo comma del presente articolo, sono puniti con una ammenda da L.1000 a L.10.000 e, nei casi di particolare gravità
+
+riconosciuti tali dalla Commissione per l'Assistenza, con la sospensione a tempo o il licenziamento in tronco, ovvero la rescissione della convenzione.
+
+#### Art.13
+
+Chiunque simuli malattie per ottenere a sé o ad altri indebite prestazioni, oltre alle sanzioni previste dalla legge penale per l'eventuale azione dolosa, è punito con la multa da L.1000 a L.5000.
+
+I medici - dipendenti dall'Istituto per la Sicurezza Sociale o con esso convenzionati - e le ostetriche condotte che rilascino falsi certificati di malattia o false prescrizioni di medicinali per ottenere ad altri indebite prestazioni o per lucrare gli onorari o che rifiutino o che condizionino le loro prestazioni professionali al pagamento di onorari o di compensi di qualsiasi specie, oltre alle sanzioni previste dalla legge penale per l'eventuale azione dolosa, sono puniti con una multa da L.5.000 a L.20.000 e, nei casi di particolare gravità riconosciuti tali dalla Commissione per l'Assistenza, con la sospensione a tempo o il licenziamento in tronco, ovvero la rescissione della convenzione.
+
+### Capo II
+
+Finanziamento delle prestazioni sanitarie
+
+#### Art.14
+
+Le spese per l'erogazione delle prestazioni sanitarie saranno coperte:
+
+a) da una imposta per la sicurezza sociale;
+
+b) da un contributo dello Stato.
+
+#### Art.15
+
+L'imposta per la sicurezza sociale consiste:
+
+a) in una imposizione normale proporzionale che viene applicata a tutti i redditi attualmente soggetti all'imposta sul reddito nonché al reddito agrario afferente ai coloni e ai redditi della categoria VI di cui all'art.3 della legge 16 marzo 1922, n. 10. Le aliquote di tale imposizione variano nel modo appresso indicato:
+
+\- Gruppo I (salariati dipendenti da industrie; salariati dipendenti dallo Stato; impiegati dipendenti da industrie, banche, ecc.; impiegati dipendenti dallo Stato; salariati dipendenti dall'artigianato; lavoratori della mensa; Gendarmeria e corpi armati; operai e impiegati comunque dipendenti da terzi; attività commerciali ambulanti): 3%;
+
+\- Gruppo II (reddito di lavoro colonico; reddito agrario afferente al colono; cooperative scalpellini, muratori, ecc.; libere professioni, arti, ecc.; fabbricati civili): 4%;
+
+\- Gruppo III (reddito dominicale del proprietario coltivatore; reddito agrario afferente al proprietario coltivatore): 5%;
+
+\- Gruppo IV (commerci ed attività artigianali; fabbricati industriali): 6%;
+
+\- Gruppo V (industrie ed altri enti soggetti a bilancio; reddito dominicale del proprietario non coltivatore; reddito agrario afferente al proprietario non coltivatore; capitali puri): 7%;
+
+b) in una imposizione complementare progressiva che viene applicata agli stessi redditi attualmente soggetti all'imposta complementare.
+
+Le aliquote e i criteri di tale imposizione sono quelli stessi attualmente vigenti per l'imposta complementare.
+
+L'imposta per la Sicurezza Sociale - limitatamente ai redditi di cui al gruppo I della lettera a) ed eccezion fatta di quelli relativi alle attività commerciali ambulanti - è riscossa direttamente dallo Istituto per la Sicurezza Sociale, mediante applicazione a carico dei datori di lavoro di un contributo pari al 3% della retribuzione dei lavoratori dipendenti e con diritto di rivalsa su questi ultimi da parte dei datori di lavoro stessi.
+
+Agli effetti degli obblighi derivanti ai datori di lavoro dal precedente comma, valgono, in quanto applicabili, le norme di cui al Capo IV del Titolo III della presente legge.
+
+Art. 16 5 Nella determinazione dei redditi da assoggettarsi all'imposta per la Sicurezza Sociale vanno tenuti presenti, oltre ai redditi soggetti all'imposizione normale, anche i redditi che si producono all'estero ma sono goduti nello Stato. [Abrogato]
+
+#### Art. 17
+
+Per quanto non contemplato negli art. 15 e 16 della presente legge e in quanto con questi non contrastino, si fa espresso richiamo alla legge 16 marzo 1922, n.10.
+
+#### Art. 18
+
+Il contributo dello Stato di cui all'art. 14 verrà stabilito annualmente in occasione della compilazione del bilancio preventivo dello Stato, dietro proposta della Commissione per l'Assistenza sulla base di una relazione presentata dall'Istituto per la Sicurezza Sociale.
+
+## TITOLO III 6
+
+### Capo I
+
+Prestazioni economiche temporanee
+
+Testo originario “Nella determinazione dei redditi da assoggettarsi all'imposta per la Sicurezza Sociale vanno tenuti presenti, oltre ai redditi soggetti all'imposizione normale, anche i redditi che si producono all'estero ma sono goduti nello Stato.
+
+L'imposta per la Sicurezza Sociale è dovuta dal 1° Gennaio 1956, e si applica anche agli stranieri e agli apolidi i quali siano in possesso del permesso di soggiorno almeno da un anno.”
+
+Modifiche legislative:
+
+LEGGE 2 luglio 1969, n.37, articolo 11 [abrogata dalla Legge 13 aprile 1976, n. 9] [Legge 13 aprile 1976 n.9 abrogata dalla Legge 22 luglio 2014 n.114] “E' abrogato il secondo comma dell'art.16 della Legge 22 dicembre 1955, n.42.”
+
+LEGGE 13 aprile 1976, n. 9, Art. 11 [Legge 13 aprile 1976 n.9 abrogata dalla Legge 22 luglio 2014 n.114] “E' abrogato il secondo comma dell'art. 16 della legge 22 dicembre 1955, n. 42.”
+
+Legge 22 luglio 2014 n.114, articolo 8:
+
+1\. Vengono abrogati:
+
+\- il secondo comma dell'articolo 16 della Legge 22 dicembre 1955 n.42
+
+\- omissis –
+
+#### Art. 19
+
+Hanno diritto alle prestazioni economiche temporanee, con le modalità ed entro i limiti di cui alla presente legge, tutti coloro - siano o no cittadini sammarinesi - che prestano la loro opera in qualità di lavoratori dipendenti dallo Stato o da imprenditori (cittadini sammarinesi, stranieri o apolidi, persone fisiche o giuridiche) che comunque svolgono una attività nell'ambito del territorio della Repubblica.
+
+Ai fini della presente legge sono lavoratori dipendenti coloro che - quale che ne sia l'età, il sesso, la condizione, il reddito - fuori del proprio domicilio o in questo ultimo, prestino in modo permanente, avventizio, temporaneo, occasionale, eccezionale la propria opera manuale o intellettuale dietro retribuzione e alle dipendenze e sotto la direzione di un datore di lavoro.
+
+Sono considerati lavoratori dipendenti anche:
+
+a) i familiari del datore di lavoro, purché esplichino attività retribuita in stato di subordinazione presso il loro congiunto;
+
+b) gli addetti ai servizi familiari che prestino la loro opera presso un nucleo famigliare per almeno quattro ore al giorno.
+
+Quale sia la durata della prestazione non sono considerati lavoratori dipendenti coloro che attendono ai servizi famigliari presso persone cui siano uniti da vincolo di parentela o di affinità entro il terzo grado. Sono servizi famigliari quelli resi presso una famiglia dal personale domestico propriamente detto, da istitutori, persone di compagnia, bambinaie, portieri, autisti, stallieri;
+
+c) i religiosi, quando però l'attività retribuita da essi esplicata alle dipendenze di terzi non si concreti nell'esplicazione del solo ministero spirituale;
+
+d) i soci delle società regolarmente costituite, ove entrino in regolare rapporto di lavoro con la società. Gli amministratori, i consiglieri delegati o di amministrazione e in genere tutti coloro che hanno, in virtu' di cariche sociali, la rappresentanza e l'amministrazione della società, non possono essere considerati dipendenti dalla società stessa, se non nel caso che il rapporto di lavoro preesista al momento della nomina ad amministratore o consigliere e perduri distintamente dopo la nomina in tutti i suoi effetti, ovvero sia insorto distintamente al momento stesso della nomina a carica sociale per effetto dall'atto costitutivo della società;
+
+e) i soci di società cooperative di lavoro e di produzione anche di fatto, costituite totalmente o in parte da prestatori d'opera, quando i soci stessi siano impiegati in lavori assunti dalla società;
+
+f) gli apprendisti comunque retribuiti;
+
+g) i lavoratori a domicilio che eseguono lavoro salariato per conto di un imprenditore nella propria abitazione o in locali che non siano di pertinenza dell'imprenditore, né sottoposti a sua vigilanza diretta. Non sono considerati lavoratori dipendenti quei lavoratori a domicilio che non hanno vincolo di subordinazione con un imprenditore, e quei lavoratori a domicilio che, nella propria attività, si fanno coadiuvare da altre persone, nel qual caso assumono essi, nei confronti di queste, agli effetti della presente legge, la veste e gli obblighi del datore di lavoro.
+
+#### Art. 20
+
+Le prestazioni economiche temporanee garantiscono;
+
+a) una indennità giornaliera per inabilità temporanea al lavoro;
+
+b) una indennità giornaliera in caso di disoccupazione.
+
+### Capo II 7
+
+Indennità per la inabilità temporanea al lavoro Art. 21 8 L'indennità giornaliera di cui alla lettera a) del precedente articolo viene corrisposta a decorrere dal 1° febbraio 1956 ogni qualvolta gli interessati si trovino, a causa di malattia, in stato di inabilità temporanea assoluta che importi l'astensione totale e di fatto dal loro lavoro abituale per più di tre giorni.
+
+Nei casi di gravidanza e puerperio lo stato di inabilità temporanea assoluta di cui al precedente comma si presume esistente per i 3 mesi che precedono la data presunta del parto e per i due mesi successivi al parto stesso, periodi, questi, durante i quali è vietato adibire la donna al lavoro.
+
+L'indennità giornaliera sarà corrisposta per tutta la durata dell'inabilità temporanea, a partire dal primo giorno di questa, sempre che il lavoratore abbia ottemperato alle norme di cui artt. 24 e 25 della presente legge. Qualora il lavoratore non si sia attenuto alle predette norme, l'indennità sarà corrisposta dalla data in cui il lavoratore avrà provveduto a far constatare, per la prima volta, lo stato di inabilità temporanea da parte del medico condotto. Il lavoratore, in stato di inabilità temporanea, è tenuto - pena la sospensione dal beneficio dell'indennità - a sottoporsi a visita medica almeno una volta alla settimana.
+
+Nei casi di gravidanza e puerperio l'indennità sarà erogata a condizione che la lavoratrice - all'atto in cui richiede l'erogazione dell'indennità - risulti occupata, ovvero iscritta nelle liste dei disoccupati presso l'Ufficio di Collocamento, almeno da sei mesi.
+
+Testo originario “L'indennità giornaliera di cui alla lettera a) del precedente articolo viene corrisposta a decorrere dal 1° febbraio 1956 ogni qualvolta gli interessati si trovino, a causa di malattia, in stato di inabilità temporanea assoluta che importi l'astensione totale e di fatto dal loro lavoro abituale per più di tre giorni.
+
+Nei casi di gravidanza e puerperio lo stato di inabilità temporanea assoluta di cui al precedente comma si presume esistente per i 3 mesi che precedono la data presunta del parto e per i due mesi successivi al parto stesso, periodi, questi, durante i quali è vietato adibire la donna al lavoro.
+
+L'indennità giornaliera sarà corrisposta per tutta la durata dell'inabilità temporanea, a partire dal primo giorno di questa, sempre che il lavoratore abbia ottemperato alle norme di cui artt. 24 e 25 della presente legge. Qualora il lavoratore non si sia attenuto alle predette norme, l'indennità sarà corrisposta dalla data in cui il lavoratore avrà provveduto a far constatare, per la prima volta, lo stato di inabilità temporanea da parte del medico condotto. Il lavoratore, in stato di inabilità temporanea, è tenuto - pena la sospensione dal beneficio dell'indennità - a sottoporsi a visita medica almeno una volta alla settimana.
+
+Nei casi di gravidanza e puerperio l'indennità sarà erogata a condizione che la lavoratrice - all'atto in cui richiede l'erogazione dell'indennità - risulti occupata, ovvero iscritta nelle liste dei disoccupati presso l'Ufficio di Collocamento, almeno da sei mesi.
+
+Nel caso che il parto avvenga in data successiva a quella specificata nel certificato di cui all'art. 25, l'erogazione dell'indennità giornaliera relativa al periodo di gravidanza viene sospesa allo scadere dei primi tre mesi di assenza dal lavoro e viene ripresa a decorrere dal primo giorno di puerperio per la durata di due mesi.
+
+L'assistito non potrà comunque godere dell'indennità giornaliera di cui al presente articolo per più di 180 giorni ad anno solare quali che siano il numero, la durata e le cause dei periodi di inabilità temporanea da lui sofferti nel corso dell'anno stesso.”
+
+Modifiche legislative LEGGE 27 ottobre 1972, n. 32, articolo 1 comma primo:
+
+I corrispondenti articoli della legge 22 dicembre 1955 n. 42 sono modificati nel modo seguente:
+
+1) L'ultimo comma dell'art. 21 è così modificato: "L'assistito potrà godere dell'indennità giornaliera di cui al presente articolo per un periodo di 365 giorni all'anno". omissis”
+
+Nel caso che il parto avvenga in data successiva a quella specificata nel certificato di cui all'art. 25, l'erogazione dell'indennità giornaliera relativa al periodo di gravidanza viene sospesa allo scadere dei primi tre mesi di assenza dal lavoro e viene ripresa a decorrere dal primo giorno di puerperio per la durata di due mesi.
+
+L'assistito potrà godere dell'indennità giornaliera di cui al presente articolo per un periodo di 365 giorni all'anno.
+
+#### Art. 22
+
+Nei casi in cui l'inabilità di cui al primo comma dell'art. 21 sia dovuta a malattia tubercolare, l'indennità sarà erogata anche per la durata dei sei mesi successivi alla dichiarazione di guarigione, stabilizzazione clinica, prosecuzione della cura in ambulatorio.
+
+In tali casi, l'indennità sarà corrisposta anche se l'assistito abbia ripreso la sua normale attività lavorativa prima dello scadere dei sei mesi.
+
+All'indennità erogata a norma del presente articolo non si applica la disposizione di cui all'ultimo comma del precedente articolo 21.
+
+Art. 23 9
+
+Testo originario “L'indennità economica di cui alla lettera a) dell'art. 20 è pari al 50 % della retribuzione giornaliera corrisposta al lavoratore nel periodo precedente lo inizio dello stato d'inabilità temporanea, e viene erogata anche nei giorni festivi.
+
+L'indennità è ridotta alla metà quando il lavoratore usufruisca di ricovero ospedaliero o sanatoriale.
+
+L'indennità viene corrisposta dall'Istituto per la Sicurezza Sociale con pagamento settimanale posticipato.
+
+Per retribuzione giornaliera corrisposta al lavoratore nel periodo precedente l'inizio dello stato di inabilità temporanea s'intende:
+
+\- per i lavoratori retribuiti a giornata o a settimana, il complesso della retribuzione percepita nell'ultima settimana precedente la malattia diviso per 7;
+
+\- per i lavoratori retribuiti a periodi di paga diversi, il complesso della retribuzione da loro percepita nell'ultima quattordicina, quindicina o mese precedente la malattia diviso rispettivamente per 14, 15 o 30;
+
+\- per i lavoratori retribuiti esclusivamente a cottimo o ad opera e per i lavoratori a domicilio, il complesso della retribuzione da loro percepita nell'ultimo periodo precedente la malattia diviso per il numero di giornate normali lavorative occorrenti in media per l'esecuzione del lavoro. Tale numero medio di giornate lavorative sarà stabilito dall'Istituto per la Sicurezza Sociale d'intesa con le organizzazioni sindacali - regolarmente riconosciute - dei lavoratori interessati;
+
+\- per i lavoratori retribuiti a giornata, settimana, quattordicina, quindicina o mese - qualora il rapporto di lavoro abbia avuto inizio nel corso del periodo di paga in cui è insorta la malattia – il complesso della retribuzione da loro percepita dallo inizio del rapporto di lavoro fino al giorno d'insorgenza della malattia diviso per i giorni relativi;
+
+\- per i lavoratori retribuiti esclusivamente a cottimo od a opera o per i lavoratori a domicilio - qualora il rapporto di lavoro abbia avuto inizio nel corso del periodo di paga in cui è insorta la malattia - il complesso della retribuzione loro spettante per il lavoro eseguito diviso per il numero di giornate normali lavorative occorrenti in media per l'esecuzione del lavoro. Il calcolo della retribuzione, così come il numero medio di giornate lavorative, sarà stabilito dall'Istituto per la Sicurezza Sociale d'intesa con le organizzazioni sindacali - regolarmente riconosciute - dei lavoratori interessati.
+
+Per complesso della retribuzione si intende tutto ciò che il lavoratore ha percepito in danaro o in natura direttamente dal datore di lavoro per compenso dell'opera prestata, al netto di ogni ritenuta.
+
+Non debbono computarsi le somme corrisposte al lavoratore a titolo di:
+
+a) assegni familiari;
+
+b) gratificazione annuale o periodica, quali le mensilità e le settimane eccedenti le normali, come la tredicesima e la doppia mensilità e la 53° settimana;
+
+c) diaria o indennità di trasporto che abbiano carattere di rimborso di spese sostenute dal lavoratore per l'esecuzione o in occasione del lavoro;
+
+d) compensi per ferie non godute;
+
+e) indennità sostitutiva del preavviso e di anzianità.”
+
+L'indennità economica di cui alla lettera a) dell'articolo 20 è pari al 65% fino a 15 giorni di inabilità, al 70% da 16 a 60 giorni di inabilità ed all'80% oltre 60 giorni di inabilità della retribuzione giornaliera corrisposta al lavoratore nel periodo precedente l'inizio della inabilità, e viene erogata anche nei giorni festivi. La percentuale da applicarsi è quella relativa al periodo totale di inabilità temporanea.
+
+La indennità di cui sopra è corrisposta anche in caso di ricovero ospedaliero sanatoriale.
+
+Per retribuzione giornaliera corrisposta al lavoratore nel periodo precedente l'inizio dello stato di inabilità temporanea s'intende:
+
+\- per i lavoratori retribuiti a giornata o a settimana, il complesso della retribuzione percepita negli ultimi otto periodi di paga settimanale precedenti la malattia diviso per 56;
+
+\- per i lavoratori retribuiti a quattordicina o a quindicina, il complesso della retribuzione percepita negli ultimi quattro periodi di paga precedenti la malattia diviso rispettivamente per 56 o per 60;
+
+\- per i lavoratori retribuiti a mese, il complesso della retribuzione percepita negli ultimi due periodi di paga mensili precedenti la malattia diviso per 60;
+
+Modifiche legislative LEGGE 28 settembre 1956, n. 31, articolo 1:
+
+“Il comma IV° dell'art. 23 della legge 22 dicembre 1955, n. 42, è sostituito dal seguente:
+
+Per retribuzione giornaliera corrisposta al lavoratore nel periodo precedente l'inizio dello stato di inabilità temporanea s'intende:
+
+\- per i lavoratori retribuiti a giornata o a settimana, il complesso della retribuzione percepita negli ultimi otto periodi di paga settimanale precedenti la malattia diviso per 56;
+
+\- per i lavoratori retribuiti a quattordicina o a quindicina, il complesso della retribuzione percepita negli ultimi quattro periodi di paga precedenti la malattia diviso rispettivamente per 56 o per 60;
+
+\- per i lavoratori retribuiti a mese, il complesso della retribuzione percepita negli ultimi due periodi di paga mensili precedenti la malattia diviso per 60;
+
+\- per i lavoratori retribuiti a giornata, settimana, quattordicina, quindicina o mese, qualora tra l'inizio dell'ultimo rapporto di lavoro e l'insorgenza della malattia sia trascorso un lasso di tempo inferiore ai periodi di paga sopra indicati, il complesso della retribuzione da loro percepita dall'inizio dell'ultimo rapporto di lavoro fino al giorno d'insorgenza della malattia diviso per i giorni relativi;
+
+\- per i lavoratori retribuiti esclusivamente a cottimo o ad opera e per i lavoratori a domicilio, il complesso della retribuzione da loro percepita nell'ultimo periodo precedente la malattia diviso per il numero di giornate normali lavorative occorrenti in media per l'esecuzione del lavoro.
+
+Tale numero medio di giornate lavorative sarà stabilito dall'Istituto per la Sicurezza Sociale d'intesa con le organizzazioni sindacali, regolarmente riconosciute, dei lavoratori interessati.”
+
+DECRETO 22 luglio 1957, n. 8, articolo 1 [abrogato dalla Legge 27 ottobre 1972, n. 32]:
+
+“Il comma 1° dell'art. 23 della legge 22 dicembre 1955, n. 42 è sostituito dal seguente:
+
+L'indennità economica di cui alla lettera a) dell'art. 20 è pari al 60% (sessanta per cento) della retribuzione giornaliera corrisposta al lavoratore nel periodo precedente l'inizio dello stato di inabilità temporanea e viene erogata anche nei giorni festivi.”
+
+DECRETO 9 agosto 1961, n. 20, articolo 1 [abrogato dalla Legge 27 ottobre 1972, n. 32] Il secondo comma dell'art. 23 della legge 22 dicembre 1955, n. 42, è sostituito dal seguente:
+
+"L'indennità è ridotta al 40% della retribuzione giornaliera quando il lavoratore usufruisca di ricovero ospedaliero o sanatoriale".
+
+LEGGE 27 ottobre 1972, n. 32, articolo 1 comma primo:
+
+“I corrispondenti articoli della legge 22 dicembre 1955 n. 42 sono modificati nel modo seguente: omissis
+
+2)
+
+Il primo comma dell'art. 23 è così modificato: "L'indennità economica di cui alla lettera a) dell'articolo 20 è pari al 65% fino a 15 giorni di inabilità, al 70% da 16 a 60 giorni di inabilità ed all'80% oltre 60 giorni di inabilità della retribuzione giornaliera corrisposta al lavoratore nel periodo precedente l'inizio della inabilità, e viene erogata anche nei giorni festivi. La percentuale da applicarsi è quella relativa al periodo totale di inabilità temporanea".
+
+3)
+
+Il secondo comma dell'art. 23 è così modificato: "La indennità di cui sopra è corrisposta anche in caso di ricovero ospedaliero sanatoriale".
+
+\- per i lavoratori retribuiti a giornata, settimana, quattordicina, quindicina o mese, qualora tra l'inizio dell'ultimo rapporto di lavoro e l'insorgenza della malattia sia trascorso un lasso di tempo inferiore ai periodi di paga sopra indicati, il complesso della retribuzione da loro percepita dall'inizio dell'ultimo rapporto di lavoro fino al giorno d'insorgenza della malattia diviso per i giorni relativi;
+
+\- per i lavoratori retribuiti esclusivamente a cottimo o ad opera e per i lavoratori a domicilio, il complesso della retribuzione da loro percepita nell'ultimo periodo precedente la malattia diviso per il numero di giornate normali lavorative occorrenti in media per l'esecuzione del lavoro.
+
+Tale numero medio di giornate lavorative sarà stabilito dall'Istituto per la Sicurezza Sociale d'intesa con le organizzazioni sindacali, regolarmente riconosciute, dei lavoratori interessati.
+
+Per complesso della retribuzione si intende tutto ciò che il lavoratore ha percepito in danaro o in natura direttamente dal datore di lavoro per compenso dell'opera prestata, al netto di ogni ritenuta.
+
+Non debbono computarsi le somme corrisposte al lavoratore a titolo di:
+
+a) assegni familiari;
+
+b) gratificazione annuale o periodica, quali le mensilità e le settimane eccedenti le normali, come la tredicesima e la doppia mensilità e la 53° settimana;
+
+c) diaria o indennità di trasporto che abbiano carattere di rimborso di spese sostenute dal lavoratore per l'esecuzione o in occasione del lavoro;
+
+d) compensi per ferie non godute;
+
+e) indennità sostitutiva del preavviso e di anzianità.
+
+#### Art. 24
+
+Il lavoratore - in caso di assenza dal lavoro a causa di inabilità temporanea dovuta a malattia comune, malattia tubercolare, malattia professionale, infortunio sul lavoro - deve far pervenire al proprio datore apposita dichiarazione medica attestante lo stato di inabilità temporanea al lavoro.
+
+Tale dichiarazione dovrà essere redatta su appositi moduli dell'Istituto per la Sicurezza Sociale dal medico curante.
+
+Il lavoratore dovrà avere cura affinchè tale dichiarazione - che vale anche come giustificativo dell'assenza dal lavoro - venga rimessa al proprio datore di lavoro non oltre il terzo giorno successivo a quello in cui il lavoratore ha iniziato l'assenza.
+
+Avvenuta la guarigione, il medico curante che la constata, compilerà apposita dichiarazione precisando il giorno in cui il lavoratore può riprendere il lavoro. Tale dichiarazione dovrà essere immediatamente rimessa dal medico al lavoratore, che dovrà consegnarla al proprio datore di lavoro.
+
+Nel caso che il periodo di inabilità temporanea si inizi con un ricovero di urgenza presso l'Ospedale, la dichiarazione di cui al primo comma del presente articolo sarà redatta dall'Ospedale il quale provvederà direttamente - sostituendosi al lavoratore - a rimettere la dichiarazione stessa al datore di lavoro entro i termini di cui al terzo comma del presente articolo.
+
+Nel caso che la cessazione del periodo d'inabilità temporanea avvenga con le dimissioni del lavoratore dall'Ospedale di Stato, la dichiarazione di cui al quarto comma sarà redatta dall'Ospedale.
+
+#### Art. 25
+
+La lavoratrice - entro i primi tre giorni del periodo di astensione obbligatoria dal lavoro per gravidanza - deve far pervenire al proprio datore di lavoro apposita dichiarazione, che dovrà essere
+
+redatta, su appositi moduli dell'Istituto per la Sicurezza Sociale, dall'ostetrica condotta e nella quale, fra l'altro, dovrà risultare la data presunta del parto.
+
+Al termine dei due mesi successivi al parto, lo Istituto per la Sicurezza Sociale rimetterà alla lavoratrice apposita dichiarazione di fine del periodo di astensione obbligatoria dal lavoro.
+
+Tale dichiarazione dovrà essere rimessa dalla interessata al proprio datore di lavoro a giustificazione della sua ripresa del lavoro.
+
+#### Art. 26
+
+Il datore di lavoro - in caso di assenza dal lavoro del dipendente a causa di inabilità temporanea dovuta a malattia comune, malattia tubercolare, malattia professionale, infortunio sul lavoro, gravidanza e puerperio entro due giorni dalla ricezione della dichiarazione di cui agli art. 24 e 25 dovrà compilare e rimettere, a mezzo di raccomandata postale o a mano, all'Istituto per la Sicurezza Sociale, l'apposito modulo- questionario predisposto da quest'ultimo e contenente i dati salariali relativi al lavoratore di cui trattasi. Il datore di lavoro che fornisca all'Istituto per la Sicurezza Sociale dati inesatti o comunque non rispondenti alla realtà è punito con una ammenda da L. 5.000 a L.
+
+20.000.
+
+#### Art. 27
+
+Indipendentemente da quanto disposto all'art. 24 della presente legge e all'art. 11 della legge 24 gennaio 1939, n. 2, il datore di lavoro è tenuto a denunciare all'Istituto per la Sicurezza Sociale gli uni da cui siano colpiti i dipendenti prestatori d'opera e che siano prognosticati non guaribili entro tre giorni.
+
+La denuncia dell'infortunio deve essere fatta entro due giorni da quello in cui il datore di lavoro ne ebbe notizia.
+
+#### Art. 28
+
+Qualora nel corso di un periodo di inabilità temporanea - dovuto a malattia comune, malattia tubercolare, malattia professionale, infortunio sul lavoro, gravidanza e puerperio - si verifichi un ricovero dell'assistito presso l'Ospedale di Stato ovvero una dimissione dall'Ospedale di Stato che non implichi cessazione dello stato d'inabilità temporanea, l'Ospedale di Stato è tenuto a darne immediata comunicazione all'Istituto per la Sicurezza Sociale.
+
+#### Art. 29
+
+L'Istituto per la Sicurezza Sociale ha diritto di controllare, con i mezzi diagnostici che crederà opportuni, al domicilio del lavoratore o convocando quest'ultimo, l'esistenza, la natura, l'entità il perdurare della causa d'inabilità temporanea al lavoro.
+
+Il lavoratore non può rifiutarsi di sottoporsi o di presentarsi al controllo di cui sopra, sotto pena della sanzione di cui all'art. 31 della presente legge.
+
+#### Art. 30
+
+Sono cause di decadenza dal diritto a percepire l'indennità di cui alla lettera a) dell'art. 20 per tutta la durata dell'inabilità:
+
+a) la simulazione o il prolungamento intenzionale della malattia;
+
+b) l'ottenimento fraudolento di indebite prestazioni sanitarie;
+
+c) l'alterazione e la falsificazione di certificati medici o di qualsiasi altra documentazione richiesta;
+
+d) il procurato aborto ove sussistano gli estremi del reato.
+
+Nei casi di cui sopra è riservata all'Istituto per la Sicurezza Sociale l'azione di recupero delle somme erogate prima dell'accertamento dei fatti che hanno determinato la decadenza del lavoratore dal diritto all'indennità.
+
+L'azione di recupero sarà effettuata dall'Istituto mediante trattenuta sulle successive prestazioni economiche - di qualsiasi tipo esse siano - di spettanza dell'interessato a norma della presente legge.
+
+#### Art. 31
+
+La corresponsione dell'indennità viene sospesa nei confronti del lavoratore che:
+
+a) ometta di presentarsi o rifiuti di sottoporsi alla visita medica di controllo;
+
+b) esegua lavori retribuiti durante il periodo di malattia in cui è stato dichiarato non idoneo al lavoro o incapace di attendere alle normali occupazioni;
+
+c) esca di casa senza regolare permesso medico;
+
+d) ometta di far constatare dal medico curante, almeno una volta la settimana, il suo stato di inabilità temporanea al lavoro.
+
+### Capo III
+
+Indennità in caso di disoccupazione
+
+#### Art. 32
+
+Sussiste il diritto all'indennità giornaliera di cui alla lettera b) dell'art. 20 quando il lavoratore abbia compiuto un anno di vita lavorativa nel biennio precedente il periodo di disoccupazione.
+
+Per vita lavorativa s'intende quanto stabilito all'art. 44 della presente legge.
+
+L'indennità stabilita è pari al 40% della retribuzione della categoria alla quale ha appartenuto in prevalenza il lavoratore nell'ultimo mese, e viene corrisposta anche nei giorni festivi.
+
+L'indennità viene corrisposta a partire dall'undicesimo giorno di disoccupazione e per un massimo di 90 giorni.
+
+### Capo IV
+
+Finanziamento delle prestazioni economiche temporanee
+
+#### Art. 33
+
+Le spese per l'erogazione delle prestazioni economiche temporanee saranno coperte da un contributo per la Sicurezza Sociale che verrà applicato a decorrere dal 1° gennaio 1956 e che è stabilito in misura percentuale della retribuzione dei lavoratori dipendenti. Tale contributo è a totale ed esclusivo carico dei relativi datori di lavoro, senza diritto di rivalsa da parte di questi ultimi sui lavoratori alle loro dipendenze.
+
+La misura del contributo per la sicurezza sociale sarà fissata annualmente entro il 31 dicembre di ciascun anno dal Consiglio Grande e Generale.
+
+#### Art. 34
+
+Ai fini del precedente articolo, per lavoratori dipendenti si intendono quelli indicati all'art. 19 della presente legge, mentre per retribuzione dei lavoratori dipendenti s'intende tutto ciò che il lavoratore ha percepito in denaro o in natura direttamente dal datore di lavoro per il compenso dell'opera prestata, al lordo di qualsiasi ritenuta.
+
+Pertanto, nella determinazione della retribuzione, in aggiunta al salario e allo stipendio, debbono computarsi tutte le somme corrisposte al lavoratore a titolo:
+
+1) di compenso per lavoro straordinario, qualunque ne sia la natura o la durata, per lavoro notturno, per lavoro festivo;
+
+2) di provvigione, di cointeressenza, di partecipazione agli utili, al prodotto, di percentuale di servizio, di assegno, di carica o di grado;
+
+3) di premio, d'indennità o di assegno particolare che il datore di lavoro ordinariamente corrisponde ai lavoratori occupati in determinate condizioni di lavoro, di tempo e di località, come gli assegni variabili e le competenze accessorie, le indennità chilometriche a tempo determinato, i premi di economia di combustibile e per recupero di ritardi e simili per il personale delle imprese di trasporto, le indennità di residenza, di località disagiata, di sottosuolo, di montagna, di zona malarica, di lavori pericolosi o dannosi e simili;
+
+4) di gratificazione annuale e periodica quali le mensilità e le settimane eccedenti le normali, come la tredicesima e la doppia mensilità e la 53° settimana, escluse la gratificazione e le elargizioni concesse una volta tanto dal datore di lavoro;
+
+5) di compenso per ferie o festività nazionali godute e non godute;
+
+6) di indennità di presenza, di premio di assiduità, operosità e simili, di carovita, comunque denominati, anche se esclusi da disposizioni di legge e di contratto;
+
+7) di indennità di cassa, di rappresentanza e di sfollamento;
+
+8) di indennità vestiario.
+
+Non debbono invece computarsi le somme corrisposte al lavoratore a titolo:
+
+\- di assegni famigliari;
+
+\- di indennità sostitutiva del preavviso e di anzianità;
+
+\- di prestazioni a carico di gestioni previdenziali e assistenziali;
+
+\- di diaria o indennità di trasferta che abbiano carattere di rimborso di spese sostenute dal lavoratore per l'esecuzione o in occasione del lavoro.
+
+Nei lavori eseguiti a cottimo il guadagno di cottimo da considerarsi retribuzione deve essere depurato delle spese di strumenti di lavoro e simili, eventualmente addossate al cottimista, anche se determinate in misura forfetaria. Analogamente dovrà provvedersi nei lavori retribuiti a provvigione, per la determinazione dell'importo della provvigione.
+
+Se la retribuzione consiste in tutto o in parte nella gratuità del vitto e dell'alloggio o in altre prestazioni in natura, il valore di esse è determinato in ragione dei prezzi medi locali dall'Istituto per la Sicurezza Sociale d'intesa con le organizzazione sindacali - regolarmente riconosciute – dei lavoratori interessati.
+
+Nei casi in cui non sia possibile o agevole la determinazione della retribuzione, sia per le voci che la compongono, sia per il sistema di corresponsione, come pure in tutti i casi in cui le categorie interessate o l'Istituto per la Sicurezza Sociale lo ritengano conveniente, potranno essere adottate, dalla Commissione per l'Assistenza, tabelle di retribuzione medie convenzionali cui riferire il contributo di cui all'art. 33 della presente legge.
+
+#### Art. 35
+
+Agli effetti degli obblighi derivanti dall'art. 33 della presente legge, sono datori di lavoro coloro che, in qualità di cittadini sammarinesi, stranieri o apolidi, impiegano nel territorio della Repubblica persone, di qualsiasi nazionalità esse siano, alle proprie dipendenze per lavori da eseguire per proprio conto mediante retribuzione, in qualsiasi forma, misura e momento questa venga corrisposta.
+
+Anche lo Stato, gli enti pubblici e parastatali, le istituzioni di beneficenza e di assistenza e, in genere, le persone giuridiche sono considerati datori di lavoro nei confronti di coloro che vengano assunti in lavori o attività direttamente eseguiti dalle predette amministrazioni e persone giuridiche.
+
+Sono datori di lavoro coloro che, assumendo lavori da privati committenti o da amministrazioni statali e pubbliche, rivestano la figura di imprenditori di opere di appalto, di subappaltatori o di concessionari. Le società regolarmente costituite, le società cooperative di lavoro e di produzione anche di fatto e le società di fatto assimilabili per scopi e struttura alle predette cooperative, costituite totalmente o prevalentemente da prestatori d'opera, sono considerate datori di lavoro, e, come tali, tenute al versamento del contributo di cui all'art. 33 per i propri soci addetti ai lavori.
+
+Le organizzazioni politiche e sindacali sono datori di lavoro nei confronti delle persone che entrino in regolari rapporti di dipendenza con esse.
+
+Quando lavoratori retribuiti a cottimo, per la esecuzione dei lavori cui sono adibite si avvalgono, nello stabilimento, officina, cantiere del datore di lavoro e col consenso di questo, dell'opera retribuita di altri lavoratori, gli obblighi contributivi di cui all'art. 33 sono a carico del datore di lavoro predetto.
+
+Art. 36 10 [Abrogato] 10
+
+Testo originario “I contributi per i lavoratori dipendenti di cui all'articolo 33 devono essere versati a cura dei datori di lavoro entro e non oltre il quinto giorno successivo al periodo di paga cui si riferiscono, mediante pagamento, sul conto corrente postale intestato all'Istituto per la Sicurezza Sociale, dell'importo percentuale dovuto sulla retribuzione effettiva o media corrisposta o calcolata in relazione alle giornate di lavoro effettuate nel periodo di paga.
+
+Il versamento sarà fatto sulla base di elenchi settimanali, quindicinali o mensili di denuncia predisposti e forniti dall'Istituto per la Sicurezza Sociale, al quale dovranno essere trasmessi, nel numero di copie prescritte, assieme all'importo dei contributi dovuti. Tali elenchi dovranno contenere l'indicazione della ditta datrice di lavoro, le generalità del lavoratore, la qualifica contrattuale, la retribuzione effettiva a lui corrisposta nel periodo di paga a cui il versamento dei contributi si riferisce, o quella media stabilita a norma dell'art. 34, nonchè l'indicazione delle ore di presenza al lavoro - o considerate tali agli effetti della retribuzione - prestate nel periodo di paga a titolo di lavoro ordinario, straordinario, notturno, festivo o per cottimo.
+
+Gli elenchi di denuncia dovranno essere controfirmati - nei luoghi di lavoro dove questa è regolarmente costituita - dalla commissione interna aziendale.”
+
+Modifiche legislative LEGGE 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.”
+
+#### Art. 37
+
+Il versamento dei contributi deve avvenire anche nei casi in cui, nonostante l'assenza dal lavoro del dipendente, continua la corresponsione totale o ridotta della retribuzione. Nella denuncia dovranno perciò essere indicate, come giornate di lavoro, agli effetti della vita lavorativa, i periodi comunque retribuiti.
+
+Il versamento del contributo deve avvenire anche quando, nello stesso periodo di lavoro, il lavoratore presti la sua opera successivamente o contemporaneamente per altre occupazioni principali o sussidiarie presso altri datori di lavoro. In tali casi ciascun datore di lavoro deve provvedere al versamento del contributo in relazione alle giornate di lavoro o frazioni di esse effettuate dal proprio dipendente e in relazione alla retribuzione corrisposta.
+
+#### Art. 3811
+
+Nel caso di mancato o tardivo versamento di contributi, il datore di lavoro è tenuto:
+
+a) al pagamento - in aggiunta ai contributi omessi - di una penale pari alla somma dell'importo dei contributi non versati;
+
+b) al contemporaneo pagamento degli interessi di mora nella misura del saggio legale in materia civile.
+
+Tali interessi decorrono dal primo giorno del periodo di paga successivo a quello in cui i singoli contributi dovevano essere versati.
+
+I contributi si prescrivono col decorso di cinque anni dal giorno in cui dovevano essere versati. [abrogato]
+
+#### Art. 39
+
+I crediti di qualsiasi specie verso il datore di lavoro, derivanti dal mancato versamento dei contributi, dei relativi interessi e delle somme supplementari a titolo di penale hanno privilegio sulla generalità dei mobili e degli immobili del debitore nello stesso grado rispetto ai crediti dello Stato ai quali sono tuttavia posposti.
+
+#### Art. 40
+
+11
+
+Testo originario “Nel caso di mancato o tardivo versamento di contributi, il datore di lavoro è tenuto:
+
+a) al pagamento - in aggiunta ai contributi omessi - di una penale pari alla somma dell'importo dei contributi non versati;
+
+b) al contemporaneo pagamento degli interessi di mora nella misura del saggio legale in materia civile.
+
+Tali interessi decorrono dal primo giorno del periodo di paga successivo a quello in cui i singoli contributi dovevano essere versati.
+
+I contributi si prescrivono col decorso di cinque anni dal giorno in cui dovevano essere versati.
+
+Chiunque fa dichiarazioni false o compie atti fraudolenti al fine di evadere dagli oneri contributivi è punito con una multa da L. 1.000 a L. 10.000, salvo che il fatto non costituisca reato più grave.”
+
+Modifiche legislative Legge 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.”
+
+I lavoratori dipendenti - ad eccezione di quelli indicati alle lettere b) e g) dell'art. 19 - devono essere iscritti, a cura del proprio datore di lavoro, sui libri matricola e paga dell'azienda, l'obbligo della tenuta dei quali e le modalità della tenuta stessa restano regolati dagli articoli da 7 a 10 della legge 24 gennaio 1939, n. 2, con tutti gli incombenti che tali articoli prescrivono.
+
+I datori di lavoro dei lavoratori dipendenti di cui alla lettera a) dell'art. 19 - non essendo obbligati alla tenuta dei libri paga e matricola - devono denunciare all'Istituto per la Sicurezza Sociale, entro cinque giorni dalla data di assunzione o di licenziamento del personale predetto, i nominativi dei lavoratori assunti o licenziati.
+
+I lavoratori dipendenti di cui alla lettera g) dell'art. 19 devono denunciare all'Istituto per la Sicurezza Sociale la loro qualifica prima d'iniziare l'esercizio della loro attività in forma casalinga.
+
+Nella denuncia deve essere indicato il loro nome, cognome, paternità, domicilio, nonchè la specie del lavoro che eseguono.
+
+La denuncia deve essere rinnovata entro il mese di gennaio di ogni anno.
+
+## TITOLO IV
+
+### Capo I
+
+Prestazioni economiche vitalizie
+
+#### Art. 4112
+
+[Abrogato] Art. 42 13 12
+
+Testo originario “Hanno diritto di usufruire delle varie forme di previdenza di cui all'art. 42, purchè abbiano compiuto i 14 anni di età, le seguenti persone:
+
+a) i lavoratori dipendenti da terzi, esclusi i dipendenti statali;
+
+b) i lavoratori a domicilio;
+
+c) i coloni, gli affittuari e i coltivatori diretti.
+
+Con successivi provvedimenti le singole forme di previdenza contemplate dalla presente legge potranno essere estese ad altre categorie di lavoratori.”
+
+Modifiche legislative Legge 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.” 13
+
+Testo originario “Con il sistema di previdenza sociale si provvede:
+
+a) a concedere rendite in caso di invalidità permanente dovuta a cause professionali o comuni;
+
+b) a concedere rendite ai familiari dei lavoratori in caso di morte per cause professionali o comuni, e a concedere negli stessi casi assegni funerari;
+
+c) a concedere pensioni di vecchiaia per coloro che, ad una determinata età, si ritirano dal lavoro.”
+
+Modifiche legislative LEGGE 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.”
+
+[Abrogato] Art. 43 14 [Abrogato] Art. 44 15 [Abrogato] Art. 45 16 14
+
+Testo originario “Ai fini delle prestazioni e dei contributi previdenziali per i lavoratori di cui alla lettera a) dell'art. 41 verranno compilate apposite tabelle di retribuzione giornaliera, distinte per ramo di attività economica e per categorie; per i lavoratori di cui alle lettere b) e c) dello stesso articolo verranno invece stabilite tabelle in base ai redditi annui di ciascuna categoria, tenendo conto del luogo di residenza.
+
+Le tabelle delle retribuzioni e dei redditi verranno compilate all'inizio di ogni anno, in base agli effettivi salari o redditi medi goduti dalle varie categorie nel mese di dicembre dell'anno precedente.
+
+Le variazioni delle predette tabelle saranno operative anche nei confronti delle indennità, pensioni o rendite in corso di godimento all'inizio dell'anno.”
+
+Modifiche legislative LEGGE 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.” 15
+
+Testo originario “Agli effetti delle prestazioni previdenziali, la vita lavorativa s'inizia col versamento del primo contributo giornaliero o con l'inizio dell'anno per cui risulta versato il primo contributo annuo.
+
+Si considera compiuto un anno di vita lavorativa quando risultino versati o dovuti 300 contributi giornalieri, ovvero un contributo annuo.
+
+Per i lavoratori di cui alla lettera a) dell'art. 41 i periodi d'inabilità temporanea o di disoccupazione involontaria, si considerano come coperti di contributi, secondo le norme che verranno stabilite nel regolamento.”
+
+Modifiche legislative Legge 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.” 16
+
+Testo originario “Il diritto alla rendita sussiste qualora la capacità di lavoro risulti ridotta in misura superiore al 20%, se l'invalidità è dovuta a causa professionale, ovvero al 66% se l'invalidità è dovuta a causa comune.
+
+Nel secondo caso devono risultare compiuti almeno due anni di vita lavorativa nei quattro anni precedenti la invalidità; tali periodi possono essere prolungati in sede regolamentare per coloro che abbiano superato l'età di anni 60.
+
+La rendita annua in caso d'invalidità totale è pari al 60% della retribuzione o del reddito della categoria a cui ha appartenuto in prevalenza il lavoratore nell'ultimo anno di vita lavorativa, ed è ragguagliata per i lavoratori di cui alla lettera a) dell'art. 41, a 300 giornate lavorative e per gli altri lavoratori di cui alle lettere b) e c) al reddito annuo.
+
+La rendita, in caso di invalidità parziale, è pari ad una aliquota della rendita stabilita nel modo che precede, in relazione al grado di invalidità.
+
+Qualora l'invalido, oltre che aver perduto l'intera capacità lavorativa, abbia necessità di una persona che l'assista in permanenza, la rendita è elevata al 100% della retribuzione o del reddito.
+
+I criteri per valutare il grado d'invalidità verranno stabiliti dal regolamento il quale fisserà anche le norme per la revisione periodica in tale grado.
+
+La rendita d'invalidità non è reversibile.”
+
+[Abrogato] Art. 46 17 [Abrogato] Art. 47 18 Modifiche legislative Legge 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.” 17
+
+Testo originario “Il diritto dei superstiti del lavoratore alla rendita di famiglia sussiste quando all'atto della morte risultino compiuti, nei quattro anni precedenti, almeno due anni di vita lavorativa.
+
+Tale condizione non è richiesta se la morte è dovuta a causa professionale.
+
+La rendita di famiglia è commisurata alle seguenti aliquote della rendita che spetterebbe al lavoratore in caso di invalidità totale: 50% al coniuge; 20% a ciascun figlio, ovvero il 40% se il figlio è orfano di entrambi i genitori. .
+
+In ogni caso la rendita di famiglia non può superare il 90% della rendita d'invalidità totale.
+
+Il coniuge ha diritto alla quota di rendita di famiglia solo se non sia separato per sua colpa e se in seguito non passi a seconde nozze.
+
+Se il coniuge superstite è il marito, dovrà risultare che il deceduto era invalido in misura superiore al 60%.
+
+I figli hanno diritto alle quote di rendita di famiglia solo se non abbiano superato i 18 anni di età, ovvero se siano invalidi al lavoro in misura superiore al 66%.
+
+Ai superstiti del lavoratore, ovvero alle persone che provvedono alla sepoltura, viene erogato un assegno funerario di L. 10.000, purchè all'atto del decesso, se questo non è dovuto a cause professionali, siano stati compiuti almeno tre mesi di vita lavorativa nei sei mesi precedenti il caso.”
+
+Modifiche legislative:
+
+LEGGE 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.” 18
+
+Testo originario Il diritto alla pensione di vecchiaia sussiste quando il lavoratore si trova in queste condizioni:
+
+a) si sia definitivamente ritirato dal lavoro;
+
+b) abbia compiuto i 70 anni di età;
+
+c) abbia raggiunto almeno dieci anni di vita lavorativa.
+
+In progresso di tempo il limite di età per il diritto alla pensione potrà venire ridotto.
+
+La misura della pensione annua è pari alle seguenti aliquote della retribuzione, ragguagliata a 300 giornate lavorative, o del reddito annuo della categoria a cui ha appartenuto in prevalenza il lavoratore negli ultimi tre anni di vita lavorativa: 40% con meno di vent'anni di vita lavorativa; 50% da venti a ventinove anni compiuti di vita lavorativa; 60% con trenta anni e più di vita lavorativa.
+
+La pensione di vecchiaia non è reversibile.
+
+Il lavoratore che si ritiri dal lavoro senza aver raggiunto i termini per avere diritto alla rendita d'invalidità o alla pensione di vecchiaia, può continuare volontariamente a versare le contribuzioni relative a quest'ultima prestazione, sino al compimento dei requisiti mancanti per ottenerla.
+
+Modifiche legislative Legge 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.”
+
+[Abrogato]
+
+### Capo II
+
+Finanziamento delle prestazioni economiche vitalizie Art. 48 19 [Abrogato] Art. 49 20 [Abrogato]
+
+## TITOLO V
+
+Assegni familiari
+
+#### Art. 50
+
+Fino a quando non sarà diversamente stabilito, l'erogazione degli assegni familiari rimane regolata dalle norme di cui alla legge 19 febbraio 1946, n. 8, e successive modificazioni.
+
+## TITOLO VI
+
+19
+
+Testo originario “Alle prestazioni di carattere previdenziale si provvede:
+
+a) con i contributi dei lavoratori e dei datori di lavoro;
+
+b) con il concorso dello Stato.
+
+I contributi verranno stabiliti in misura percentuale delle retribuzioni e dei redditi.
+
+Tale misura percentuale sarà unica per i lavoratori di tutte le categorie e sarà determinata per ogni triennio in modo da coprire, insieme col concorso dello Stato, le spese di tale periodo ed a permettere la formazione di un fondo di riserva per i rischi eventuali.
+
+Per i lavoratori di cui alle lettere b) e c) dell'articolo 41 il regolamento potrà fissare norme particolari perchè una parte dei contributi previdenziali sia corrisposta rispettivamente da chi commissiona il lavoro ovvero dal proprietario del terreno concesso a colonia o in affitto.
+
+Il concorso dello Stato verrà pure stabilito per ogni triennio e sarà distinto per le varie forme di assicurazione e di assistenza.”
+
+Modifiche legislative Legge 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.” 20
+
+Testo originario “Per i lavoratori di cui alla lettera a) dell'articolo 41 i contributi saranno riscossi con elenchi mensili nominativi dei salari corrisposti da ciascun datore di lavoro.
+
+Per i lavoratori di cui alle lettere b) e c) dell'art. 41 i contributi saranno riscossi in base alla compilazione di appositi ruoli.
+
+Il regolamento stabilirà le necessarie norme di dettaglio.
+
+Modifiche legislative Legge 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.”
+
+Prestazioni assistenziali
+
+#### Art. 51
+
+Alle persone che si trovino prive di mezzi di sussistenza, che non siano in grado di lavorare e che non godano di prestazioni previdenziali, potranno essere accordati sussidi giornalieri proporzionati alle esigenze.
+
+L'entità di tali sussidi e le modalità della loro erogazione verranno stabilite anno per anno dalla Commissione per l'Assistenza.
+
+#### Art. 52
+
+Oltre alle prestazioni previste dalla presente legge saranno corrisposte a carico dello Stato: l'assistenza alla prima infanzia mediante la creazione di giardini d'infanzia o il concorso agli asili infantili attualmente esistenti; il mantenimento della colonia marina; la somministrazione della refezione scolastica, dei libri e quaderni ai bambini poveri.
+
+## TITOLO VII
+
+Istituto per la Sicurezza Sociale Art. 53 21 [Abrogato] L'Istituto provvede ad assolvere ai compiti di cui all'art. 1 della presente legge mediante la gestione diretta dell'Ospedale e delle farmacie di Stato e la riscossione dell'imposta e dei contributi per la Sicurezza Sociale, nonchè dei contributi statali a tal fine stanziati in bilancio.
+
+Art. 54 22
+
+21
+
+Testo originario “Al fine di attuare, nei limiti della sua competenza, le norme legislative e regolamentari relative al sistema obbligatorio di Sicurezza Sociale, è costituito un ente statale con gestione autonoma, denominato "Istituto per la Sicurezza Sociale".
+
+L'Istituto provvede ad assolvere ai compiti di cui all'art. 1 della presente legge mediante la gestione diretta dell'Ospedale e delle farmacie di Stato e la riscossione dell'imposta e dei contributi per la Sicurezza Sociale, nonchè dei contributi statali a tal fine stanziati in bilancio.”
+
+Modifiche legislative Legge 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.” 22
+
+Testo originario “L'Istituto per la Sicurezza Sociale è sottoposto alla vigilanza della Commissione per l'Assistenza, alla quale è demandato il compito di:
+
+a) proporre al Congresso di Stato le somme da stanziarsi annualmente nel bilancio dello Stato, quale contributo di quest'ultimo al finanziamento del piano di Sicurezza Sociale;
+
+b) rivedere e controllare i bilanci preventivi e consuntivi dell'Istituto, e presentarli per l'approvazione al Congresso di Stato che li sottoporrà all'esame definitivo del Consiglio Grande e Generale;
+
+c) fare proposte al Congresso di Stato per la designazione del personale facente parte dei ruoli organici dell'Istituto, personale che sarà nominato dal Consiglio Grande e Generale;
+
+d) pronunciarsi sui ricorsi amministrativi presentati dagli interessati contro i provvedimenti adottati dall'Istituto;
+
+[Abrogato] Art. 55 23 [Abrogato]
+
+## TITOLO VIII
+
+Ricorsi e controversie Art. 56 24 Contro i provvedimenti dell'Istituto per la Sicurezza Sociale inerenti alla concessione di prestazioni ed in genere all'attuazione delle disposizioni previste nella presente legge e successive norme è ammesso ricorso in via amministrativa, entro trenta giorni dalla comunicazione del provvedimento impugnato, alla [Commissione Esecutiva di cui all’art. 7 della Legge 30 giugno 1964, n. 37] che deve pronunciarsi sul ricorso stesso entro i successivi trenta giorni.
+
+Contro la decisione della [Commissione Esecutiva di cui all’art. 7 della Legge 30 giugno 1964, n. 37] l'interessato ha facoltà di ricorrere alla magistratura ordinaria entro i normali termini di legge.
+
+Il ricorso amministrativo di cui al primo comma è condizione di proponibilità dell'azione presso la magistratura ordinaria. Esso deve essere redatto in carta libera, indirizzato all'Istituto per la
+
+e) proporre al Congresso di Stato per l'approvazione da parte del Consiglio Grande e Generale i capitolati, la convenzione e i regolamenti che dovranno regolare i rapporti tra l'Istituto e il personale, sanitario e non, alle sue dipendenze o con esso convenzionato;
+
+f) adempire a tutti gli altri compiti ad essa affidati da leggi e regolamenti riguardanti la attuazione del piano di Sicurezza Sociale.
+
+Il Consiglio Grande e Generale nominerà tre sindaci con il compito di esercitare la vigilanza contabile e amministrativa sull'Istituto, di procedere a verifiche ed ispezioni di cassa, nonchè al controllo dei bilanci.”
+
+Modifiche legislative Legge 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.” 23
+
+Testo originario L'Istituto per la Sicurezza Sociale è retto da un Direttore che ha la legale rappresentanza dell'Istituto.
+
+Il Direttore è a capo dei servizi dell'Istituto ed ha tutti i poteri necessari per l'amministrazione e l'organizzazione di esso.
+
+Egli provvede anche a presentare alla Commissione per l'Assistenza i bilanci preventivi e consuntivi annuali dell'Istituto accompagnati da una relazione sull'andamento della gestione.
+
+L'esercizio finanziario dell'Istituto per la Sicurezza Sociale comincia col 1° gennaio e termina col 31 dicembre di ogni anno.
+
+Modifiche legislative Legge 30 giugno 1964, n. 37, articolo 90 comma primo:
+
+“Sono abrogati gli articoli 38, ultimo comma, 36, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, primo comma, 54 e 55 della legge 22 dicembre 1955, n. 42, nonchè gli articoli 1, 2, 5, 6, 7, 8, commi primo, secondo e quarto, 15, 16, 17, 19, 20, 21 e 22 della legge 29 agosto 1958, n. 24.” 24
+
+LEGGE 30 giugno 1964, n. 37, articolo 90 secondo comma:
+
+Nella legge 22 dicembre 1955, n. 42:
+
+a) all'art. 56 la Commissione per l'Assistenza si intende sostituita dalla Commissione Esecutiva di cui all'art. 7 della presente legge; omissis
+
+Sicurezza Sociale - al quale compete l'istruttoria del ricorso stesso - e deve essere corredato di tutti quegli elementi dai quali emerga la fondatezza della richiesta dell'interessato.
+
+Il ricorso in sede amministrativa, analogamente a quello dinanzi alla magistratura ordinaria, ha effetto sospensivo dei termini di prescrizione.
+
+## TITOLO IX
+
+Vigilanza
+
+#### Art. 57
+
+La vigilanza sull'applicazione delle norme di cui alla presente legge viene realizzata attraverso:
+
+a) il controllo democratico di massa;
+
+b) l'Ispettorato del Lavoro;
+
+c) l'Istituto per la Sicurezza Sociale.
+
+Art. 58 25 Il controllo democratico di massa viene effettuato attraverso apposite assemblee e riunioni degli assistiti che saranno periodicamente convocate dall'Istituto per la Sicurezza Sociale e nel corso delle quali sarà data la possibilità agli interessati di denunciare abusi e infrazioni, da chiunque compiuti, nonchè di suggerire i mezzi più idonei per evitare il ripetersi delle eventuali violazioni alle norme della presente legge.
+
+Il controllo democratico di massa ha per fine, inoltre, la partecipazione della generalità degli assistiti alla determinazione delle scelte programmatiche nonchè la verifica del corretto funzionamento dei servizi.
+
+Il rapporto fra gli assistiti e l'Istituto si esplica a mezzo di appositi comitati locali liberamente eletti dalla assemblea degli assistiti indetta dalla Presidenza dell'I.S.S. di intesa con le Giunte di Castello entro il mese di Ottobre di ogni anno
+
+#### Art. 59
+
+All'Ispettorato del Lavoro è affidato il compito di vigilare sull'applicazione delle norme di cui alla presente legge nelle aziende di qualsiasi natura, negli uffici, nell'agricoltura e in genere ovunque 25
+
+Testo originario “Il controllo democratico di massa viene effettuato attraverso apposite assemblee e riunioni degli assistiti che saranno periodicamente convocate dell'Istituto per la Sicurezza Sociale e nel corso delle quali sarà data la possibilità agli interessati di denunciare abusi e infrazioni, da chiunque compiuti, nonchè di suggerire i mezzi più idonei per evitare il ripetersi delle eventuali violazioni alle norme della presente legge.”
+
+Modifiche legislative Gli artt. 5 e 58 della legge 22 dicembre 1955 n. 42 istitutiva di un sistema obbligatorio di Sicurezza Sociale sono così modificati: omissis "Art. 58 - Il controllo democratico di massa viene effettuato attraverso apposite assemblee e riunioni degli assistiti che saranno periodicamente convocate dall'Istituto per la Sicurezza Sociale e nel corso delle quali sarà data la possibilità agli interessati di denunciare abusi e infrazioni, da chiunque compiuti, nonchè di suggerire i mezzi più idonei per evitare il ripetersi delle eventuali violazioni alle norme della presente legge.
+
+Il controllo democratico di massa ha per fine, inoltre, la partecipazione della generalità degli assistiti alla determinazione delle scelte programmatiche nonchè la verifica del corretto funzionamento dei servizi.
+
+Il rapporto fra gli assistiti e l'Istituto si esplica a mezzo di appositi comitati locali liberamente eletti dalla assemblea degli assistiti indetta dalla Presidenza dell'I.S.S. di intesa con le Giunte di Castello entro il mese di Ottobre di ogni anno".
+
+è prestato un lavoro stipendiato o salariato oppure anche autonomo, purchè preso in considerazione dalle leggi in materia di Previdenza e Assistenza.
+
+Gli Ispettori del Lavoro sono autorizzati a visitare in qualunque ora del giorno, e, ove occorra, della notte, gli opifici, i cantieri e in genere i locali adibiti all'esercizio delle aziende industriali, commerciali, agricole e i locali attinenti, esclusi quelli destinati ad abitazioni; ad esaminare i libri di matricola e paga, i documenti attestanti gli adempimenti contributivi, i regolamenti interni e tutti gli altri libri che abbiano carattere probatorio e che possano comunque costituire prova, a controllare i libretti di lavoro e a interrogare, oltre gli esercenti dell'azienda, il personale direttivo, amministrativo e operaio delle aziende stesse e, in genere, tutti coloro che per il loro ufficio siano ritenuti in grado di dare informazioni utili.
+
+Gli Ispettori, per adempire al loro ufficio, debbono, a richiesta, mostrare la carta di riconoscimento.
+
+Quando incontrino opposizioni od ostacoli nell'esercizio delle loro funzioni, possono richiedere l'intervento della Forza Pubblica.
+
+#### Art. 60
+
+In caso di constatata inosservanza delle norme di legge sulla sicurezza sociale l'Ispettorato del Lavoro ha facoltà di diffidare con apposita prescrizione il datore di lavoro, fissando un termine per la regolarizzazione.
+
+Le prescrizioni devono essere firmate dal funzionario che le compila e dal datore di lavoro o dal lavoratore autonomo o dalla persona che egli rappresenta all'atto della visita e al quale viene consegnata una delle copie, che deve essere conservata sul luogo di lavoro ed esibita a richiesta nelle successive visite ispettive.
+
+In caso di rifiuto a firmare il foglio, questo verrà inviato d'ufficio.
+
+Gli Ispettori intimano le prescrizioni e, in caso di inadempienza, accertino le contravvenzioni alle disposizioni in materia di previdenza e assistenza, mediante processo verbale, in cui sarà determinata:
+
+a) la natura del fatto con le sue circostanze e, specialmente, quelle di tempo e di luogo;
+
+b) le disposizioni di legge o di regolamento alle quali si è contravvenuto e tutti gli elementi necessari per il giudizio sulla contravvenzione.
+
+Della contravvenzione elevata deve essere data immediata comunicazione al contravvenuto, il quale ha diritto di fare inserire nel processo verbale le dichiarazioni che crederà convenienti nel suo interesse; quando si rifiuta di firmare il processo verbale, l'Ispettore ne fa menzione indicando le ragioni del rifiuto.
+
+Il verbale di contravvenzione, sottoscritto dal convenuto o dal suo rappresentante deve essere rimesso dall'Ispettorato alla competente autorità giudiziaria e comunicato, in copia, all'Istituto per la Sicurezza Sociale.
+
+I verbali dell'Ispettorato hanno valore probatorio ai fini procedurali dell'azione giudiziaria.
+
+#### Art. 61
+
+Nelle contravvenzioni prevedute dalle leggi in materia di sicurezza sociale il contravventore, prima dell'apertura del dibattimento del giudizio, può presentare domanda di oblazione all'Istituto per la Sicurezza Sociale, il quale determina la somma da pagarsi entro i limiti, minimo e massimo, dell'ammenda stabiliti dalle leggi.
+
+La deliberazione dell'Istituto per la Sicurezza Sociale è notificata al contravventore con la fissazione del termine per il pagamento. Se questo non è effettuato nel termine stabilito, ha luogo il procedimento giudiziario.
+
+I proventi delle pene pecuniarie per infrazioni alle leggi previdenziali sono devoluti a beneficio dell'Istituto per la Sicurezza Sociale.
+
+#### Art. 62
+
+L'Istituto per la Sicurezza Sociale ha facoltà di fare eseguire da propri funzionari ispezioni presso le aziende e i datori di lavoro in genere per accertare l'osservanza delle leggi e dei regolamenti relativi all'attuazione del sistema obbligatorio di sicurezza sociale, nonchè allo scopo di controllare la esistenza degli elementi che determinano gli adempimenti contributivi o il titolo alle varie prestazioni previdenziali e assistenziali o il mantenimento in essere o la variazione di quelle già concesse.
+
+L'Istituto, ove occorra, può chiedere anche l'intervento dell'Ispettorato del Lavoro e della Forza Pubblica.
+
+#### Art. 63
+
+I datori di lavoro e i lavoratori che rifiutino di fornire agli Ispettori del lavoro o ai funzionari dell'Istituto per la Sicurezza Sociale le notizie da essi richieste o l'esibizione dei documenti di lavoro o l'accesso nei locali di lavoro per i sopralluoghi che si rendessero necessari per l'azione di vigilanza, sono puniti, salvo che il fatto non costituisca reato più grave, o non sia diversamente punito in relazione alle singole forme di previdenza e di assistenza, con una [ammenda] 26 da L. 1.000 a L.
+
+10.000.
+
+## TITOLO X
+
+Disposizioni generali
+
+#### Art. 64
+
+L'Ospedale della Misericordia, la sede degli uffici amministrativi dell'Ospedale, la Farmacia interna e la Farmacia esterna dell'Ospedale con le attrezzature di qualsiasi specie in essi contenute, di proprietà della Congregazione di Assistenza (compresi le mura, le dipendenze, gli accessori, gli impianti tecnici, gli apparecchi e strumenti sanitari, i medicinali, il mobilio, le macchine da scrivere, gli schedari, la biancheria e quanto atro comunque serva agli scopi e al normale funzionamento dell'Ospedale, dei suoi uffici e delle farmacie) divengono proprietà di tutto il popolo sammarinese e per esso dello Stato.
+
+La gestione dell'Ospedale della Misericordia, della farmacia interna e della Farmacia esterna dell'Ospedale, già di proprietà della Congregazione di Assistenza, viene affidata dallo Stato a decorrere dal 1° febbraio 1956 all'Istituto per la Sicurezza Sociale.
+
+Le spese relative alla manutenzione straordinaria dell'Ospedale, della sede dell'Istituto e delle farmacie statali sono a carico dello Stato, mentre quelle relative alla manutenzione ordinaria sono a carico dell'Istituto per la Sicurezza Sociale.
+
+26
+
+Legge 30 giugno 1964, n. 37, articolo 90 secondo comma:
+
+Nella legge 22 dicembre 1955, n. 42: omissis
+
+b) all'art. 63 si intende sostituita la pena dell'ammenda a quella della multa.
+
+#### Art. 65
+
+A decorrere dal 1° febbraio 1956 è fatto divieto ai privati di gestire farmacie nel territorio della Repubblica.
+
+A partire da tale data la fornitura agli assistiti di prodotti, medicinali di qualsiasi specie, nonchè la vendita dei prodotti stessi ai non assistiti potrà avvenire solo attraverso le farmacie di Stato, gestite dall'istituto per la Sicurezza Sociale.
+
+A tal fine l'Istituto per la Sicurezza Sociale - per far fronte al fabbisogno di medicinali delle farmacie e dell'Ospedale da esso gestiti - si approvvigionerà direttamente, per quanto possibile, presso le case produttrici di medicinali.
+
+#### Art. 66
+
+Ai fini della presente legge per malattia deve intendersi ogni alterazione dello stato di salute da cui derivi inabilità - che richieda assistenza medica o ostetrica, ovvero somministrazione di mezzi terapeutici. Pertanto - oltre a quelle comuni - sono da considerarsi malattie anche:
+
+a) le malattie tubercolari;
+
+b) le malattie professionali;
+
+c) gli infortuni sul lavoro;
+
+d) la gravidanza e il puerperio nei limiti di tempo di cui al secondo comma dell'art. 21.
+
+Ai fini della presente legge per infortuni devono intendersi quelli avvenuti per causa violenta e in occasione di lavoro.
+
+#### Art. 67
+
+Le esenzioni fiscali da ogni e qualsiasi tassa previste dall'art. 71 della legge 24 gennaio 1939, n. 2, si applicano anche a tutte le domande e gli atti concernenti l'assistenza e previdenza, a quelli relativi ai pagamenti d'indennità, assegni e prestazioni in genere di carattere economico, ai processi verbali, ai certificati, atti di notorietà, e quanti altri documenti occorrono in dipendenza delle relative norme di legge.
+
+Le esenzioni delle tasse di bollo e di registro e da ogni tassa giudiziaria di cui al citato art. 71, sono estese anche a tutti gli atti dei procedimenti contenziosi, ai provvedimenti di qualunque natura relativi ai procedimenti stessi, nonchè a tutti gli atti o scritti o documenti prodotti dalle parti nelle controversie che, in dipendenza delle leggi in materia di assistenza e previdenza, sorgano fra i lavoratori aventi causa e l'Istituto per la Sicurezza Sociale o le persone tenute agli adempimenti previdenziali.
+
+Tutti gli atti e contratti relativi alla gestione dell'istituto per la Sicurezza Sociale sono esenti da tasse di bollo, registro e ipotecarie.
+
+L'Istituto è esente da qualsiasi imposta o tassa ed usufruisce della franchigia postale al pari dell'amministrazione dello Stato.
+
+Le indennità, gli assegni e le prestazioni in genere di carattere economico di cui alla presente legge, non sono soggetti alla imposta sul reddito.
+
+Sono esenti dalla tassa di successione le somme dovute agli eredi e beneficiari di aventi titolo alle prestazioni previdenziali o assistenziali.
+
+#### Art. 68
+
+Le indennità, gli assegni e le prestazioni in genere di carattere economico di cui alla presente legge non sono cedibili, né sequestrabili, né pignorabili.
+
+L'assistito, in casi di malattia o di infortunio che abbiano dato luogo a suo favore a rifusione di danni da parte di terzi, è tenuto a rimborsare lo Istituto dell'ammontare delle indennità corrisposte e delle spese delle assistenze prestate fino alla concorrenza della somma che il terzo gli ha versato a titolo di risarcimento.
+
+L'Istituto per la Sicurezza Sociale ha il diritto di trattenere sulle indennità, gli assegni e le prestazioni in genere di carattere economico l'ammontare delle somme ad esso dovute in virtu' del presente articolo, nonchè quelle dovute in forza di provvedimenti della competente autorità giudiziaria e quelle di cui al penultimo comma dell'art. 30.
+
+#### Art. 69
+
+I lavoratori che - alla data di pubblicazione della presente legge nel Bollettino Ufficiale beneficiano, per legge o per contratto, a carico del proprio datore di lavoro, di prestazioni economiche temporanee di miglior favore (diverse però da quelle di cui al 1° comma dell'art. 21 della legge 27 gennaio 1942, n. 1, mantengono il trattamento in atto.
+
+In tali casi l'indennità di cui alla lettera a) dell'art. 20 sarà versata dall'Istituto per la Sicurezza Sociale ai datori di lavoro di cui al presente comma nella misura e per la durata previste dalla presente legge.
+
+## TITOLO XI
+
+Norme transitorie e finali
+
+#### Art. 70
+
+I medicinali, gli strumenti curativi e gli articoli di profumeria contenuti, alla data di pubblicazione della presente legge sul Bollettino Ufficiale, nella Farmacia di Borgo, di proprietà del Dr. Faust Amadori, e nella Farmacia di Serravalle, di proprietà del Dr. Francesco Santolini, verranno acquistati dall'Istituto per la Sicurezza Sociale al prezzo all'ingrosso di tali prodotti, risultante – per quanto possibile - dalle fatture relative in possesso del Dr. Faust Amadori e del Dr. Francesco Santolini.
+
+E' in facoltà dello Stato acquistare il mobilio e gli scaffali contenuti, alla data di pubblicazione della presente legge sul Bollettino Ufficiale, nelle predette farmacie di Borgo e di Serravalle, con quanto altro comunque serva agli scopi e al normale funzionamento di una farmacia.
+
+E' in facoltà del Dr. Faust Amadori e del Dr. Francesco Santolini di cedere allo Stato gli immobili delle farmacie di loro proprietà, compresi le mura, le dipendenze, gli accessori e gli impianti tecnici in esse contenuti. In tale ipotesi il prezzo di cessione sarà stabilito dal Governo sentita la Commissione per l'Assistenza, su proposta di una apposita commissione di stima, in cui i membri saranno nominati con Decreto Reggenziale.
+
+Nella formulazione delle sue proposte la commissione di stima si atterrà ai prezzi vigenti di mercato.
+
+Le spese per il funzionamento della commissione di stima saranno a carico del Dr. Faust Amadori e dal Dr. Francesco Santolini.
+
+Lo Stato e l'Istituto per la Sicurezza Sociale non subentrano negli obblighi di qualsiasi natura contratti nei confronti di terzi dal Dr. Faust Amadori e dal Dr. Francesco Santolini e relativi alla gestione delle farmacie già di loro proprietà.
+
+A partire dalla data di pubblicazione sul Bollettino Ufficiale della presente legge, gli ordinativi e gli acquisti di qualsiasi genere, relativi alla gestione delle farmacie di Borgo e di Serravalle, sono sottoposti ad autorizzazione governativa.
+
+Il valore dei medicinali, degli strumenti curativi e degli articoli di profumeria acquistati senza la predetta autorizzazione non sarà rimborsato dall'Istituto per la Sicurezza Sociale.
+
+Qualora i beni di cui al secondo e terzo comma del presente articolo divengano proprietà dello Stato, la gestione di essi viene affidata, a decorrere dal 1° febbraio 1956, all'Istituto per la Sicurezza Sociale.
+
+In caso contrario, lo Stato metterà a disposizione dell'Istituto per la Sicurezza Sociale in Borgo e in Serravalle, a decorrere dal 1° febbraio 1956, locali e attrezzature idonei per l'esercizio in tali centri di farmacie da parte dell'Istituto.
+
+In tal caso le spese relative faranno carico allo Stato.
+
+#### Art. 71
+
+Salvo quanto disposto nel comma successivo, l'Istituto per la Sicurezza Sociale subentra alla Congregazione di Assistenza negli obblighi da questa contratti nei confronti di terzi e relativi alla gestione dell'Ospedale della Misericordia e delle Farmacie, interna ed esterna, dell'Ospedale stesso, purchè abbiano una scadenza successiva al 1° febbraio 1956.
+
+Dagli obblighi di cui al precedente comma sono comunque esclusi quelli eventualmente contratti dalla Congregazione di Assistenza nei confronti del personale sanitario e non dell'Ospedale.
+
+A partire dalla data di pubblicazione sul Bollettino Ufficiale della presente legge è fatto divieto alla Congregazione di Assistenza di alienare i beni di cui all'art. 64 che per effetto della presente legge divengano proprietà statale.
+
+#### Art. 72
+
+In deroga a quanto disposto all'art. 17, e limitatamente all'imposta per la Sicurezza Sociale dovuta per l'anno 1956, il termine entro il quale l'Ufficio Tributario è autorizzato ad effettuare gli accertamenti e le notifiche è prorogato al 30 marzo 1956.
+
+#### Art. 73
+
+Per l'esercizio finanziario in corso il contributo dello Stato di cui all'art. 14 della presente legge sarà pari a L. 7 milioni.
+
+Tale cifra verrà stralciata per l'ammontare di L. 6.400.000, dallo stanziamento effettuato nel capitolo XI del bilancio preventivo dello Stato (esercizio 1° aprile 1955 - 31 marzo 1956) e per l'ammontare di L. 600.000 dallo stanziamento effettuato nel capitolo V del bilancio preventivo dello Stato (esercizio 1° aprile 1955 - 31 marzo 1956).
+
+Allo Stato faranno inoltre carico le spese relative al primo impianto dell'Istituto per la Sicurezza Sociale che saranno stralciate dal capitolo IX del bilancio preventivo dello Stato (esercizio 1° aprile 1955 - 31 marzo 1956).
+
+#### Art. 74
+
+In deroga a quanto stabilito dall'art. 33 della presente legge il contributo per la Sicurezza Sociale è stabilito nella misura del 4% della retribuzione dei lavori dipendenti.
+
+#### Art. 75
+
+Particolari accordi da stipularsi con gli Stati interessati regoleranno l'erogazione delle prestazioni previdenziali e assistenziali ai cittadini sammarinesi residenti all'estero, agli stranieri residenti a San Marino che non hanno titolo ai benefici previdenziali e assistenziali di cui alla presente legge, ai cittadini sammarinesi e agli stranieri residenti sul territorio della Repubblica con protezione previdenziale costituita all'estero.
+
+In mancanza di tali accordi, rimangono provvisoriamente in vigore le convenzioni attualmente vigenti e i contratti stipulati dalla Congregazione di Assistenza con gli enti mutualistici italiani.
+
+#### Art. 7627
+
+A decorrere dal 1° febbraio 1956 sono abrogate le norme della legge 24 gennaio 1939, n. 2 e successive modifiche che si riferiscono all'erogazione di una indennità giornaliera per l'inabilità temporanea, alle cure mediche e chirurgiche, alla fornitura degli apparecchi di protesi a favore dei lavoratori infortunati sul lavoro o affetti da malattie professionali.
+
+Indipendentemente da quanto sopra disposto restano invariati gli adempimenti, i termini, le modalità stabiliti dagli artt. 5 e 11 della legge 24 gennaio 1939, n. 2.
+
+Il contributo dovuto dai datori di lavoro all'I.N.A.I.L. è sospeso a decorrere dal 1° febbraio
+
+1956.Con effetto da tale data, tale contributo sarà ripristinato con apposito Decreto Reggenziale che ne stabilirà anche la nuova misura.
+
+E' altresì abrogata la legge 9 marzo 1950, n. 10, e ogni altra disposizione che comunque contrasti con le norme della presente legge.
+
+#### Art. 77
+
+La data di entrata in vigore delle norme della presente legge contenute nel capo III del titolo III, nel titolo IV e nel titolo VI sarà stabilita con apposito Decreto Reggenziale.
+
+Tutte le altre norme entrano in vigore con la pubblicazione della presente legge sul Bollettino Ufficiale.
