@@ -1223,29 +1223,17 @@ CERTIFICATORI ENERGETICI – REGISTRO DEI CERTIFICATORI ENERGETICI
 
 (Soggetti certificatori accreditati)
 
-1.
+1\. È istituita la figura del Certificatore Energetico (CE), inteso quale tecnico, esperto in materia di energetica edilizia, di impianti termici e di utilizzo di fonti di energia rinnovabili e assimilate, abilitato tramite appositi corsi di formazione allo svolgimento delle attività e funzioni di verifica e controllo previste dal presente Capo.
 
-È istituita la figura del Certificatore Energetico (CE), inteso quale tecnico, esperto in materia di energetica edilizia, di impianti termici e di utilizzo di fonti di energia rinnovabili e assimilate, abilitato tramite appositi corsi di formazione allo svolgimento delle attività e funzioni di verifica e controllo previste dal presente Capo.
+2\. Lo svolgimento delle attività di cui al comma precedente é consentito solo ai tecnici iscritti in apposito Registro.
 
-2.
+3\. L’istituzione del Registro dei Certificatori Energetici (CE), le qualificazioni professionali e le attività di formazione necessarie per il conseguimento del titolo di CE e per l’iscrizione al Registro di cui al comma precedente sono regolate da quanto previsto al presente Capo.
 
-Lo svolgimento delle attività di cui al comma precedente é consentito solo ai tecnici iscritti in apposito Registro.
+4\. Il Certificatore Energetico (CE), verifica la conformità alle prescrizioni normative della prestazione energetica di un edificio o unità immobiliare utilizzando una procedura di calcolo standardizzato che preveda uno o più descrittori nonché mediante l’effettuazione di ispezioni in cantiere.
 
-3.
+5\. La certificazione energetica è effettuata dal CE in maniera indipendente.
 
-L’istituzione del Registro dei Certificatori Energetici (CE), le qualificazioni professionali e le attività di formazione necessarie per il conseguimento del titolo di CE e per l’iscrizione al Registro di cui al comma precedente sono regolate da quanto previsto al presente Capo.
-
-4.
-
-Il Certificatore Energetico (CE), verifica la conformità alle prescrizioni normative della prestazione energetica di un edificio o unità immobiliare utilizzando una procedura di calcolo standardizzato che preveda uno o più descrittori nonché mediante l’effettuazione di ispezioni in cantiere.
-
-5.
-
-La certificazione energetica è effettuata dal CE in maniera indipendente.
-
-6.
-
-I soggetti coinvolti nella procedura di certificazione energetica devono garantire indipendenza e imparzialità di giudizio attraverso l’assenza di conflitto d’interessi in relazione alla proprietà, progettazione, costruzione, esercizio ed amministrazione dell’edificio e degli impianti ad esso asserviti.
+6\. I soggetti coinvolti nella procedura di certificazione energetica devono garantire indipendenza e imparzialità di giudizio attraverso l’assenza di conflitto d’interessi in relazione alla proprietà, progettazione, costruzione, esercizio ed amministrazione dell’edificio e degli impianti ad esso asserviti.
 
 #### Art.11
 
@@ -1481,13 +1469,9 @@ h) informare gli utenti sulle innovazioni tecnologiche per il risparmio energeti
 
 i) curare la redazione e presentazione all’Ufficio per l’Edilizia delle pratiche relative alle procedure energetiche degli edifici di proprietà pubblica ed effettuare diagnosi energetiche per gli edifici esistenti di proprietà pubblica.
 
-3.
+3\. Nell’ambito della definizione dei profili di ruolo e del fabbisogno di cui al Titolo V della Legge n.188/2011 sono individuate le caratteristiche professionali, i titoli di studio, il grado di professionalità, autonomia e responsabilità nonché l’entità delle risorse necessarie, nell’ambito delle predette due Unità Organizzative, al fine dell’espletamento delle attività rispettivamente previste dai superiori commi 2 e 3.
 
-Nell’ambito della definizione dei profili di ruolo e del fabbisogno di cui al Titolo V della Legge n.188/2011 sono individuate le caratteristiche professionali, i titoli di studio, il grado di professionalità, autonomia e responsabilità nonché l’entità delle risorse necessarie, nell’ambito delle predette due Unità Organizzative, al fine dell’espletamento delle attività rispettivamente previste dai superiori commi 2 e 3.
-
-4.
-
-Sino all’avvio dell’Ufficio per l’Edilizia, le attività di cui al superiore comma 2 nonché tutte quelle previste dalla presente legge in capo all’Ufficio per l’Edilizia sono svolte dall’Ufficio Urbanistica - Servizio Gestione Procedure Energetiche (GPE) secondo quanto previsto dall’articolo 16, comma 3 della Legge 7 maggio 2008 n.72 e dall’articolo 10, comma 4 del Decreto Delegato 21 settembre 2009 n.127 nonché sulla base dei Regolamenti eventualmente adottati dall’Autorità a mente del superiore articolo 2, comma 1, lettera g).
+4\. Sino all’avvio dell’Ufficio per l’Edilizia, le attività di cui al superiore comma 2 nonché tutte quelle previste dalla presente legge in capo all’Ufficio per l’Edilizia sono svolte dall’Ufficio Urbanistica - Servizio Gestione Procedure Energetiche (GPE) secondo quanto previsto dall’articolo 16, comma 3 della Legge 7 maggio 2008 n.72 e dall’articolo 10, comma 4 del Decreto Delegato 21 settembre 2009 n.127 nonché sulla base dei Regolamenti eventualmente adottati dall’Autorità a mente del superiore articolo 2, comma 1, lettera g).
 
 5\. Sino all’avvio dell’UPA, le attività di cui al superiore comma 3 nonché tutte quelle previste dalla presente legge in capo all’UPA sono svolte dallo Sportello per l’Energia di cui all’articolo 29 della Legge 7 maggio 2008 n.72 ed al Decreto Delegato 25 giugno 2009 n.91.
 
@@ -1623,9 +1607,7 @@ d) l’impianto idrico così formato non può essere collegato alla normale rete
 
 (Utilizzo delle acque meteoriche)
 
-1.
-
-Al fine della riduzione del consumo di acqua potabile, soprattutto per quanto riguarda l’irrigazione del verde pertinenziale, la pulizia di cortili e passaggi, il lavaggio auto, le reti di adduzione di W.C. e lavatrici, tutti gli edifici o unità immobiliari di nuova costruzione con una superficie coperta superiore a 100 m2, sono dotati di sistema di raccolta ed accumulo per la raccolta delle acque meteoriche di dimensioni non inferiori a 4 m3 per ogni 100 m2 di superficie complessiva della copertura, fino ad un massimo obbligatorio di 15 m3.
+1\. Al fine della riduzione del consumo di acqua potabile, soprattutto per quanto riguarda l’irrigazione del verde pertinenziale, la pulizia di cortili e passaggi, il lavaggio auto, le reti di adduzione di W.C. e lavatrici, tutti gli edifici o unità immobiliari di nuova costruzione con una superficie coperta superiore a 100 m2, sono dotati di sistema di raccolta ed accumulo per la raccolta delle acque meteoriche di dimensioni non inferiori a 4 m3 per ogni 100 m2 di superficie complessiva della copertura, fino ad un massimo obbligatorio di 15 m3.
 
 2\. Il sistema di raccolta ed accumulo è dotato di sistema di filtratura per l’acqua in entrata, sfioratore sifonato collegato alla fognatura per smaltire l’eventuale acqua in eccesso e di adeguato sistema di pompaggio per fornire l’acqua alla pressione necessaria agli usi suddetti. E’ obbligatorio collegare con una rete propria il sistema di raccolta ad accumulo con le adduzioni di W.C. e lavatrici, per i quali è ammesso installare un sistema by-pass, sistema di raccolta-rete acqua potabile, al fine di garantire una fornitura continua di acqua ai W.C. e lavatrici.
 
@@ -1643,9 +1625,7 @@ SANZIONI
 
 (Sanzioni e Procedura di applicazione delle sanzioni)
 
-1.
-
-Alla violazione di quanto previsto dalla presente legge e decreti delegati attuativi si applicano le seguenti sanzioni:
+1\. Alla violazione di quanto previsto dalla presente legge e decreti delegati attuativi si applicano le seguenti sanzioni:
 
 a) I progettisti dei progetti che risultino, a seguito di verifica, controllo o ispezione non rispondenti ai limiti di legge sono puniti con una sanzione amministrativa di € 10,00 per ogni m2 di superficie utile energetica dell’edificio o unità immobiliare interessata, con il minimo di € 2.000,00. L’Ufficio per l’Edilizia provvede, se dal caso, alla sospensione del trasgressore dal Registro dei Certificatori Energetici per un periodo da tre mesi ai dodici mesi a seconda della gravità e dell’eventuale recidiva, dandone comunicazione all’Ordine o al Collegio Professionale competente.
 
@@ -1659,45 +1639,27 @@ La facoltà di oblazione volontaria di cui all’articolo 33 comma primo, letter
 
 Le sanzioni di cui al presente articolo sono aggiornate tramite apposito decreto delegato.
 
-2.
+2\. A seguito dell’accertamento delle violazioni di cui al precedente comma da parte dell’Ufficio per l’Edilizia, il Dirigente dell’Ufficio diffida il trasgressore a regolarizzare la propria posizione entro un termine non superiore ai due mesi eventualmente prorogabili in caso di motivate esigenze legate alla particolare complessità dell’intervento.
 
-A seguito dell’accertamento delle violazioni di cui al precedente comma da parte dell’Ufficio per l’Edilizia, il Dirigente dell’Ufficio diffida il trasgressore a regolarizzare la propria posizione entro un termine non superiore ai due mesi eventualmente prorogabili in caso di motivate esigenze legate alla particolare complessità dell’intervento.
+3\. Trascorso il termine di adeguamento indicato nella diffida senza che il trasgressore abbia provveduto ad ottemperare alle prescrizioni impartitegli, il Dirigente dell’Ufficio per l’Edilizia commina la sanzione pecuniaria e, nei casi previsti, ordina la sospensione dei lavori.
 
-3.
+4\. I provvedimenti sopra indicati esplicitano le motivazioni sottese all’adozione degli stessi e sono comunicati al destinatario a mezzo di lettera raccomandata con avviso di ricevimento.
 
-Trascorso il termine di adeguamento indicato nella diffida senza che il trasgressore abbia provveduto ad ottemperare alle prescrizioni impartitegli, il Dirigente dell’Ufficio per l’Edilizia commina la sanzione pecuniaria e, nei casi previsti, ordina la sospensione dei lavori.
-
-4.
-
-I provvedimenti sopra indicati esplicitano le motivazioni sottese all’adozione degli stessi e sono comunicati al destinatario a mezzo di lettera raccomandata con avviso di ricevimento.
-
-5.
-
-Sino all’avvio dell’Ufficio per l’Edilizia e conformemente a quanto previsto dall’articolo 18, comma 5, le diffide ed i provvedimenti sanzionatori di cui rispettivamente ai superiori commi 2 e 3 nonché i provvedimenti di sospensione dei lavori di cui al superiore comma 1 ed al seguente articolo 29, comma 5 sono adottatati dal Dirigente dell’Ufficio Urbanistica su proposta del Responsabile del Servizio GPE. A seguito dell’avvio dell’Ufficio per l’Edilizia, i predetti provvedimenti sono adottati dal Dirigente dell’Ufficio su proposta del Responsabile preposto al settore della gestione, controllo e verifica delle procedure di attestazione certificazione energetica.
+5\. Sino all’avvio dell’Ufficio per l’Edilizia e conformemente a quanto previsto dall’articolo 18, comma 5, le diffide ed i provvedimenti sanzionatori di cui rispettivamente ai superiori commi 2 e 3 nonché i provvedimenti di sospensione dei lavori di cui al superiore comma 1 ed al seguente articolo 29, comma 5 sono adottatati dal Dirigente dell’Ufficio Urbanistica su proposta del Responsabile del Servizio GPE. A seguito dell’avvio dell’Ufficio per l’Edilizia, i predetti provvedimenti sono adottati dal Dirigente dell’Ufficio su proposta del Responsabile preposto al settore della gestione, controllo e verifica delle procedure di attestazione certificazione energetica.
 
 #### Art.29
 
 (Controllo e verifica degli interventi a carattere energetico negli edifici e sugli impianti termici)
 
-1.
+1\. Le attività di controllo e verifica degli interventi negli edifici e sugli impianti termici previsti dalla presente legge sono coordinate e controllate dall’Ufficio per l’Edilizia. I controlli e le verifiche sono finalizzati alla verifica ispettiva e/o sperimentale delle prestazioni energetiche delle strutture edilizie e degli impianti termici, anche in relazione al possibile decadimento delle stesse nel tempo.
 
-Le attività di controllo e verifica degli interventi negli edifici e sugli impianti termici previsti dalla presente legge sono coordinate e controllate dall’Ufficio per l’Edilizia. I controlli e le verifiche sono finalizzati alla verifica ispettiva e/o sperimentale delle prestazioni energetiche delle strutture edilizie e degli impianti termici, anche in relazione al possibile decadimento delle stesse nel tempo.
+2\. Per lo svolgimento delle procedure di controllo e verifica, così come per l’attività di consulenza specialistica, l’Ufficio per l’Edilizia, si può avvalere, di Certificatori Energetici iscritti nel Registro CE, di professionisti o di Enti pubblici o privati, nazionali o esteri.
 
-2.
+3\. L’Ufficio per l’Edilizia predispone annualmente il piano di verifiche e controlli a campione da effettuarsi su edifici e impianti termici. Il piano deve garantire un’adeguata ripartizione degli interventi di controllo e verifica tra le diverse tipologie di intervento e tra le diverse destinazioni d’uso degli edifici e unità immobiliari.
 
-Per lo svolgimento delle procedure di controllo e verifica, così come per l’attività di consulenza specialistica, l’Ufficio per l’Edilizia, si può avvalere, di Certificatori Energetici iscritti nel Registro CE, di professionisti o di Enti pubblici o privati, nazionali o esteri.
+4\. Le azioni di controllo si concludono con un "rapporto di verifica energetica" indicante le attività svolte e i loro esiti.
 
-3.
-
-L’Ufficio per l’Edilizia predispone annualmente il piano di verifiche e controlli a campione da effettuarsi su edifici e impianti termici. Il piano deve garantire un’adeguata ripartizione degli interventi di controllo e verifica tra le diverse tipologie di intervento e tra le diverse destinazioni d’uso degli edifici e unità immobiliari.
-
-4.
-
-Le azioni di controllo si concludono con un "rapporto di verifica energetica" indicante le attività svolte e i loro esiti.
-
-5.
-
-Il CE ha il compito di esaminare la correttezza delle procedure amministrative seguite e la rispondenza alle prescrizioni della presente legge delle metodologie di calcolo e di verifica impiegate dai tecnici incaricati del progetto degli isolamenti termici e degli impianti termici, anche in contraddittorio con gli stessi. In corso di esecuzione dei lavori, può svolgere ispezioni tecniche in cantiere, volte alla verifica della conformità ai progetti, delle opere, degli impianti termici e degli impianti che utilizzano FER o assimilate. Tali ispezioni sono svolte personalmente dal CE alla presenza del direttore dei lavori o di un tecnico da questi espressamente delegato ai rapporti con il CE.
+5\. Il CE ha il compito di esaminare la correttezza delle procedure amministrative seguite e la rispondenza alle prescrizioni della presente legge delle metodologie di calcolo e di verifica impiegate dai tecnici incaricati del progetto degli isolamenti termici e degli impianti termici, anche in contraddittorio con gli stessi. In corso di esecuzione dei lavori, può svolgere ispezioni tecniche in cantiere, volte alla verifica della conformità ai progetti, delle opere, degli impianti termici e degli impianti che utilizzano FER o assimilate. Tali ispezioni sono svolte personalmente dal CE alla presenza del direttore dei lavori o di un tecnico da questi espressamente delegato ai rapporti con il CE.
 
 Qualora, nel corso della propria azione di verifica e controllo, il CE riscontri significativi errori di valutazione da parte dei progettisti o significative discrepanze tra i progetti delle strutture e degli impianti e le opere realizzate o in corso di realizzazione, invia all’Ufficio per l’Edilizia una relazione di contestazione contenente le indicazioni necessarie per la correzione degli errori o manchevolezze riscontrati, accompagnata da una relazione che documenta le attività di controllo e verifiche svolte. La relazione di contestazione è inviata per conoscenza al committente delle opere. A seguito della relazione di contestazione l’Ufficio per l’Edilizia sospende i lavori sino all’attuazione, da parte dei progettisti e/o esecutori delle opere, dei provvedimenti correttivi richiesti dal CE.
 
@@ -1763,9 +1725,7 @@ e) impianti di micro-cogenerazione ad alto rendimento e relativi studi di fattib
 
 (Incentivi per impianti a biomasse e per la produzione di energia da FER nel settore agricolo)
 
-1.
-
-Al fine di promuovere i progetti innovativi finalizzati alla valorizzazione, produzione, distribuzione, trasformazione di biomasse derivanti da attività forestali ed agricole, sono previsti incentivi, definiti con decreto delegato che stabilisce le modalità, i termini e i criteri tecnici da adottare.
+1\. Al fine di promuovere i progetti innovativi finalizzati alla valorizzazione, produzione, distribuzione, trasformazione di biomasse derivanti da attività forestali ed agricole, sono previsti incentivi, definiti con decreto delegato che stabilisce le modalità, i termini e i criteri tecnici da adottare.
 
 2\. Sono incentivabili le seguenti categorie di intervento:
 
@@ -1795,9 +1755,9 @@ c) installazione di impianti finalizzati al recupero di oli vegetali esausti con
 
 7\. Nel caso in cui l’impianto a fonti rinnovabili incentivato venga ceduto ad nuovo proprietario, esso diventa beneficiario del Conto Energia.
 
-8\. Gli incentivi di cui al presente articolo non sono cumulabili con quelli di cui all’articolo 33.
+8\. Gli incentivi di cui al presente articolo non sono cumulabili con quelli di cui all’articolo
 
-9\. Al fine di incentivare la mobilità sostenibile è istituita una tassazione sulla tariffa incentivante erogata dall’A.A.S.S. a partire dal 1° gennaio 2021, derivante dalla produzione di energia elettrica da impianti fotovoltaici di potenza superiore a 20 kW che beneficiano degli incentivi erogati per mezzo dello strumento “Conto Energia”. L’Autorità di Regolazione per i Servizi Pubblici e l’Energia stabilisce entro il 31 gennaio di ogni anno la percentuale di tassazione sulla tariffa incentivante erogata non inferiore al 20%. I proventi derivanti dalla presente tassazione possono essere destinati a spesa ed imputati sul capitolo 2-5-6435 “Fondo per gli interventi finalizzati al risparmio energetico, idrico, alla produzione di energia da fonti rinnovabili e al contenimento delle fonti di inquinamento ai sensi dell’articolo 27 della Legge n.30/1998.
+33\. 9. Al fine di incentivare la mobilità sostenibile è istituita una tassazione sulla tariffa incentivante erogata dall’A.A.S.S. a partire dal 1° gennaio 2021, derivante dalla produzione di energia elettrica da impianti fotovoltaici di potenza superiore a 20 kW che beneficiano degli incentivi erogati per mezzo dello strumento “Conto Energia”. L’Autorità di Regolazione per i Servizi Pubblici e l’Energia stabilisce entro il 31 gennaio di ogni anno la percentuale di tassazione sulla tariffa incentivante erogata non inferiore al 20%. I proventi derivanti dalla presente tassazione possono essere destinati a spesa ed imputati sul capitolo 2-5-6435 “Fondo per gli interventi finalizzati al risparmio energetico, idrico, alla produzione di energia da fonti rinnovabili e al contenimento delle fonti di inquinamento ai sensi dell’articolo 27 della Legge n.30/1998.
 
 #### Art. 36
 
@@ -1871,31 +1831,21 @@ NORME FINALI E TRANSITORIE
 
 (Procedure energetiche in ambito edilizio)
 
-1.
-
-Il deposito presso l'Ufficio per l'Edilizia della relazione tecnica di cui all’articolo 5, della documentazione tecnica e degli elaborati grafici previsti dalla presente legge costituisce adempimento necessario per poter eseguire l'inizio dei lavori ai sensi della Legge n. 87/1995.
+1\. Il deposito presso l'Ufficio per l'Edilizia della relazione tecnica di cui all’articolo 5, della documentazione tecnica e degli elaborati grafici previsti dalla presente legge costituisce adempimento necessario per poter eseguire l'inizio dei lavori ai sensi della Legge n. 87/1995.
 
 2\. l’Ufficio per l’Edilizia predispone un apposito modulo, sottoscritto dal progettista e dal certificatore energetico, qualora gli interventi edilizi o impiantistici non rientrino nell’ambito di applicazione della presente legge. Tale modulo va presentato presso l’Ufficio per l’Edilizia, che ne cura l’archiviazione e ne produce copia vidimata da consegnare all’Ufficio per l’Edilizia unitamente alla documentazione necessaria per ottenere il rilascio del titolo edificatorio ai sensi della Legge n. 87/1995.
 
-3.
+3\. L’ Attestato di prestazione Energetica (APE), rilasciato in via telematica dall’Ufficio per l’Edilizia, costituisce documento necessario per ottenere la conformità edilizia ed abitabilità secondo quanto previsto dall’art 174 della Legge n. 87/1995.
 
-L’ Attestato di prestazione Energetica (APE), rilasciato in via telematica dall’Ufficio per l’Edilizia, costituisce documento necessario per ottenere la conformità edilizia ed abitabilità secondo quanto previsto dall’art 174 della Legge n. 87/1995.
+4\. L'APE non è necessario per ottenere la conformità edilizia ed abitabilità, secondo quanto previsto dall’art 174 della Legge n. 87/1995, qualora sia stato prodotto il modulo dichiarazione per cui l’intervento edilizio richiesto non rientra nell’ambito di applicazione della presente legge, come da precedente comma 2. L’Ufficio per l’Edilizia esegue la verifica di presenza del medesimo modulo prima del rilascio della conformità edilizia.
 
-4.
-
-L'APE non è necessario per ottenere la conformità edilizia ed abitabilità, secondo quanto previsto dall’art 174 della Legge n. 87/1995, qualora sia stato prodotto il modulo dichiarazione per cui l’intervento edilizio richiesto non rientra nell’ambito di applicazione della presente legge, come da precedente comma 2. L’Ufficio per l’Edilizia esegue la verifica di presenza del medesimo modulo prima del rilascio della conformità edilizia.
-
-5.
-
-Ulteriori dettagli relativi alla gestione delle procedure energetiche o delle procedure per l’ottenimento degli incentivi in ambito edilizio verranno stabiliti in apposito regolamento emanato dall’Autorità in accordo con l’Ufficio per l’Edilizia e l’UPA per quanto di rispettiva competenza.
+5\. Ulteriori dettagli relativi alla gestione delle procedure energetiche o delle procedure per l’ottenimento degli incentivi in ambito edilizio verranno stabiliti in apposito regolamento emanato dall’Autorità in accordo con l’Ufficio per l’Edilizia e l’UPA per quanto di rispettiva competenza.
 
 #### Art. 40
 
 (Commissione per l’efficienza energetica in edilizia)
 
-1.
-
-È istituita la Commissione per l’efficienza energetica in edilizia che risulta così composta:
+1\. È istituita la Commissione per l’efficienza energetica in edilizia che risulta così composta:
 
 a) il Dirigente dell'UPA, in qualità di coordinatore;
 
@@ -1907,17 +1857,13 @@ d) il Dirigente dell’A.A.S.S., o un suo delegato;
 
 e) il Dirigente dell’Ufficio per l’Edilizia, o un suo delegato.
 
-2.
-
-Un funzionario dell’Ufficio per l‘Edilizia svolge compiti di segreteria della Commissione per l’efficienza energetica in edilizia, accettando quesiti e problematiche posti da professionisti esterni, curandone l’istruzione affinché siano analizzati dalla Commissione per l’efficienza energetica in edilizia, che delibererà in merito. La Commissione per l’efficienza energetica in edilizia ha il compito di dirimere problematiche inerenti questioni energetiche e di efficientamento in ambito edilizio, produrre pareri ed eventuali deroghe alla presente legge per casi particolari e non esplicitamente richiamati dalla medesima.
+2\. Un funzionario dell’Ufficio per l‘Edilizia svolge compiti di segreteria della Commissione per l’efficienza energetica in edilizia, accettando quesiti e problematiche posti da professionisti esterni, curandone l’istruzione affinché siano analizzati dalla Commissione per l’efficienza energetica in edilizia, che delibererà in merito. La Commissione per l’efficienza energetica in edilizia ha il compito di dirimere problematiche inerenti questioni energetiche e di efficientamento in ambito edilizio, produrre pareri ed eventuali deroghe alla presente legge per casi particolari e non esplicitamente richiamati dalla medesima.
 
 #### Art. 41
 
 (Regime transitorio)
 
-1.
-
-Le procedure di qualificazione/riqualificazione e certificazione energetica avviate prima dell'emissione da parte dell'Autorità del Regolamento tecnico che disciplina le deroghe agli obblighi di cui all'Allegato 2 punti 15) e 16) sono evase sulla base della normativa energetica previgente. A tal fine a far fede è la data di presentazione della richiesta del titolo autorizzativo edificatorio.
+1\. Le procedure di qualificazione/riqualificazione e certificazione energetica avviate prima dell'emissione da parte dell'Autorità del Regolamento tecnico che disciplina le deroghe agli obblighi di cui all'Allegato 2 punti 15) e 16) sono evase sulla base della normativa energetica previgente. A tal fine a far fede è la data di presentazione della richiesta del titolo autorizzativo edificatorio.
 
 #### Art. 42
 
@@ -1957,11 +1903,9 @@ Le procedure di qualificazione/riqualificazione e certificazione energetica avvi
 
 \- Decreto Delegato 25 luglio 2013 n. 97 articolo 12, comma 2;
 
-\- Decreto Delegato 27 aprile 2012 n. 44 articoli 131, 132, 133, 134, 135, commi 3, 4 e 6.
+\- Decreto Delegato 27 aprile 2012 n. 44 articoli 131, 132, 133, 134, 135, commi 3, 4 e
 
-#### Art. 44
-
-(Entrata in vigore)
+6\. Art. 44 (Entrata in vigore)
 
 1\. La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
 
@@ -3475,9 +3419,7 @@ All'interno del Regolamento sopra citato sono specificati i casi in cui le richi
 
 1\. Per gli impianti classificati nel Plafond dell’anno 2014, le tariffe sono individuate dalla Tabella 1.
 
-2.
-
-Per gli impianti classificati nel Plafond dell’anno 2015, relativamente ai primi 500 kW classificati, le tariffe sono individuate dalla Tabella 2.
+2\. Per gli impianti classificati nel Plafond dell’anno 2015, relativamente ai primi 500 kW classificati, le tariffe sono individuate dalla Tabella 2.
 
 3\. Per gli impianti classificati nel Plafond dell’anno 2015, relativamente ai kW successivi ai primi 500, le tariffe sono individuate dalla Tabella 3.
 
@@ -3775,9 +3717,7 @@ ALLEGATO 2 (Al Decreto Delegato 24 luglio 2014 n.120 – IV Conto Energia)
 
 MODALITÀ DI POSIZIONAMENTO DEI MODULI SUGLI EDIFICI AI FINI DELL’ACCESSO ALLA CORRISPONDENTE TARIFFA
 
-1.
-
-I moduli e i componenti dell’impianto, ai fini della qualificazione dello stesso come impianto fotovoltaico “su edificio”, devono essere installati secondo quanto previsto nella seguente tabella:
+1\. I moduli e i componenti dell’impianto, ai fini della qualificazione dello stesso come impianto fotovoltaico “su edificio”, devono essere installati secondo quanto previsto nella seguente tabella:
 
 ALLEGATO 3 (Al Decreto Delegato 24 luglio 2014 n.120 – IV Conto Energia)
 
@@ -3881,11 +3821,11 @@ I consumi energetici in oggetto sono misurati in kWhprimari/anno o in corrispond
 
 (Opere oggetto di contributo)
 
-1\. I contributi a fondo perduto, di cui all’articolo 6, comma 1, lettere a) e b) finanziano le spese di diagnosi energetica, progettazione, dei materiali e della manodopera impiegata esclusivamente per l’esecuzione delle opere di efficientamento energetico dell’edificio esistente attraverso interventi di isolamento termico dell’involucro dell’edificio (anche attraverso la completa sostituzione di quest’ultimo), di abbattimento dei ponti termici, di sostituzione o adeguamento degli infissi, di adeguamento, ristrutturazione o sostituzione dell’impianto termico incluso l’impianto per la produzione di acqua calda sanitaria. Sono comprese le opere provvisionali e accessorie strettamente necessarie alla realizzazione degli interventi. Gli oneri relativi alla realizzazione della diagnosi energetica e alla progettazione sono computabili fino ad un massimo del 10% del costo complessivo delle opere di cui al presente comma e di cui al successivo comma 3.
+1\. I contributi a fondo perduto, di cui all’articolo 6, comma 1, lettere a) e b) finanziano le spese di diagnosi energetica, progettazione, dei materiali e della manodopera impiegata esclusivamente per l’esecuzione delle opere di efficientamento energetico dell’edificio esistente attraverso interventi di isolamento termico dell’involucro dell’edificio (anche attraverso la completa sostituzione di quest’ultimo), di abbattimento dei ponti termici, di sostituzione o adeguamento degli infissi, di adeguamento, ristrutturazione o sostituzione dell’impianto termico incluso l’impianto per la produzione di acqua calda sanitaria. Sono comprese le opere provvisionali e accessorie strettamente necessarie alla realizzazione degli interventi. Gli oneri relativi alla realizzazione della diagnosi energetica e alla progettazione sono computabili fino ad un massimo del 10% del costo complessivo delle opere di cui al presente comma e di cui al successivo comma
 
-2\. I contributi a fondo perduto di cui all’articolo 6, comma 1, lettera c) finanziano le spese di diagnosi energetica, progettazione, dei materiali e della manodopera impiegata esclusivamente per l’esecuzione delle opere di efficientamento energetico dell’edificio esistente attraverso l’installazione di impianti FER e del relativo impianto termico che benefici di tale produzione di energia rinnovabile. Sono comprese le opere provvisionali e accessorie strettamente necessarie alla realizzazione degli interventi. Gli oneri relativi la diagnosi energetica e la progettazione sono computabili fino ad un massimo del 10% del costo complessivo delle opere di cui al presente comma e di cui al successivo comma 3.
+3\. 2. I contributi a fondo perduto di cui all’articolo 6, comma 1, lettera c) finanziano le spese di diagnosi energetica, progettazione, dei materiali e della manodopera impiegata esclusivamente per l’esecuzione delle opere di efficientamento energetico dell’edificio esistente attraverso l’installazione di impianti FER e del relativo impianto termico che benefici di tale produzione di energia rinnovabile. Sono comprese le opere provvisionali e accessorie strettamente necessarie alla realizzazione degli interventi. Gli oneri relativi la diagnosi energetica e la progettazione sono computabili fino ad un massimo del 10% del costo complessivo delle opere di cui al presente comma e di cui al successivo comma
 
-3\. Sono altresì oggetto di contributo, se previste contestualmente ad interventi di riqualificazione energetica di cui alle lettere a) e b) del comma 1, dell’articolo 6 e con le
+3\. 3. Sono altresì oggetto di contributo, se previste contestualmente ad interventi di riqualificazione energetica di cui alle lettere a) e b) del comma 1, dell’articolo 6 e con le
 
 stesse percentuali individuate da tale articolo, opere finalizzate alla protezione esterna dell’edificio dall’irraggiamento estivo quali frangisole, pareti ventilate e cool roof, gli interventi all’impianto idrico-sanitario di cui all’articolo 26 della Legge 3 aprile 2014 n.48, l’installazione dei dispositivi di ancoraggio in copertura (linee vita) se progettati e realizzati secondo le normative europee vigenti, gli impianti FER che non ricadano negli interventi di cui al precedente articolo 6, comma 1, lettera c) e che non beneficino degli incentivi previsti dal “conto energia” o di altre forme di incentivazione. In caso di impianti FER da installare su coperture sprovviste di isolamento termico e in assenza di sottotetto coibentabile, l’intervento di efficientamento deve comprendere, se tecnicamente realizzabili e qualora producano un effettivo miglioramento energetico, le opere di coibentazione della copertura stessa almeno per l’area interessata dall’installazione dell’impianto. La copertura così coibentata deve raggiungere i requisiti di trasmittanza termica minima secondo quanto stabilito dalla Legge 48/2014. I contributi alle spese relative alle opere di cui al presente comma non possono costituire ulteriore contributo rispetto ai massimi complessivi previsti allo stesso articolo.
 
@@ -4155,9 +4095,9 @@ a) riduzione del fabbisogno annuo di energia termica utile per la climatizzazion
 
 b) miglioramento del rendimento globale medio stagionale dell’impianto di riscaldamento (ηg) non inferiore al 20%.
 
-Gli interventi di riqualificazione energetica che non raggiungono i predetti requisiti minimi sono computabili ai fini del calcolo della riduzione del fabbisogno energetico e di consumo di energia primaria invernale di cui al comma 1, mentre le relative spese non sono conteggiabili ai fini dell’ottenimento dei contributi a fondo perduto di cui al comma 1.
+Gli interventi di riqualificazione energetica che non raggiungono i predetti requisiti minimi sono computabili ai fini del calcolo della riduzione del fabbisogno energetico e di consumo di energia primaria invernale di cui al comma 1, mentre le relative spese non sono conteggiabili ai fini dell’ottenimento dei contributi a fondo perduto di cui al comma
 
-2\. Ai fini dell’ottenimento del contributo a fondo perduto di cui al comma 1, le unità immobiliari devono essere poste all’interno di edifici classificati, ai sensi dell’articolo 3, comma 2, lettera aa) della legge n.48/2014, nelle categorie E.1, E.2, E.4(3) limitatamente ai bar ed E.5 limitatamente ai negozi. Le predette unità immobiliari al momento della richiesta degli incentivi di cui al presente capo, dovranno essere munite di allibramento catastale aggiornato o di certificazione di avvenuto deposito dell'allibramento nonché provviste di impianto di riscaldamento e in caso di impianto a gas, con contratto di fornitura gas, anche non più attivo.
+1\. 2. Ai fini dell’ottenimento del contributo a fondo perduto di cui al comma 1, le unità immobiliari devono essere poste all’interno di edifici classificati, ai sensi dell’articolo 3, comma 2, lettera aa) della legge n.48/2014, nelle categorie E.1, E.2, E.4(3) limitatamente ai bar ed E.5 limitatamente ai negozi. Le predette unità immobiliari al momento della richiesta degli incentivi di cui al presente capo, dovranno essere munite di allibramento catastale aggiornato o di certificazione di avvenuto deposito dell'allibramento nonché provviste di impianto di riscaldamento e in caso di impianto a gas, con contratto di fornitura gas, anche non più attivo.
 
 3\. I consumi energetici in oggetto sono misurati in kWhprimario/anno o in corrispondenti kWhel/anno con la seguente proporzione: 1kWhprimario = 0,39 kWhel. Nel caso in cui gli interventi edilizi di cui al comma 1 comportino aumento di superficie utile energetica così come definita all’articolo 3 della Legge n.48/2014, i consumi energetici sono riferiti all’unità di superficie e nello specifico al metro quadrato di superficie utile termica ed altresì i valori dei coefficienti di spesa espressi in €/kWhprimarioanno risparmiato e €/kWhelanno risparmiato sono riferiti alla superficie utile termica ante operam.
 
@@ -4543,9 +4483,7 @@ d) ulteriore documentazione stabilita dall’Autorità;
 
 e) copia del titolo autorizzativo edilizio o copia della ricevuta della presentazione della pratica di manutenzione ordinaria.
 
-2.
-
-La documentazione di cui al comma 1 si aggiunge a quella già prevista ai commi 1, 2, 3, 4 e 5 dell’articolo 5 dalla Legge n. 48/2014 per la presentazione della pratica energetica.
+2\. La documentazione di cui al comma 1 si aggiunge a quella già prevista ai commi 1, 2, 3, 4 e 5 dell’articolo 5 dalla Legge n. 48/2014 per la presentazione della pratica energetica.
 
 #### Art. 24
 
@@ -4767,9 +4705,9 @@ DISPOSIZIONI FINALI, NORME TRANSITORIE ED ABROGAZIONI
 
 4\. L’avvenuto pagamento delle imposte è provato dalla quietanza rilasciata dall’Ufficio ovvero dalla quietanza comprovante l’avvenuto versamento sul conto bancario di cui al comma 3.
 
-5\. La quietanza è allegata, a pena di irricevibilità, della documentazione di cui al comma 2.
+5\. La quietanza è allegata, a pena di irricevibilità, della documentazione di cui al comma
 
-6\. Comma soppresso.
+2\. 6. Comma soppresso.
 
 #### Art. 41
 
@@ -4785,9 +4723,7 @@ DISPOSIZIONI FINALI, NORME TRANSITORIE ED ABROGAZIONI
 
 (Abrogazioni)
 
-1.
-
-Sono abrogate le norme in contrasto con il presente decreto delegato ed in particolare è abrogato il Decreto Delegato n. 5/2015 ad esclusione degli articoli 6, 7, 9 e 10 per la sola applicazione degli incentivi di cui al Capo VI del presente decreto delegato.
+1\. Sono abrogate le norme in contrasto con il presente decreto delegato ed in particolare è abrogato il Decreto Delegato n. 5/2015 ad esclusione degli articoli 6, 7, 9 e 10 per la sola applicazione degli incentivi di cui al Capo VI del presente decreto delegato.
 
 Allegato A al Decreto Delegato 24 maggio 2017 n.51 ALLEGATO A
 

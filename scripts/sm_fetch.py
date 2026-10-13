@@ -183,7 +183,8 @@ def coordinati_from_schede(acts):
     found = {}
     for fn in os.listdir(os.path.join(RAW, "schede")):
         t = open(os.path.join(RAW, "schede", fn)).read()
-        for title, did in re.findall(r'<a alt="[^"]*" title="([^"]*)" href="documento(\d+)\.html"', t):
+        for title, did in re.findall(r'TESTO COORDINATO(?:\s*\d+)?:</span>\s*<a alt="[^"]*" title="([^"]*)" '
+                                     r'href="documento(\d+)\.html"', t):
             found.setdefault(did, htmlmod.unescape(title).strip())
     return found
 

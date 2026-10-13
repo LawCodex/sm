@@ -41,9 +41,7 @@ Sono cittadini sammarinesi per origine:
 
 (Della cittadinanza per naturalizzazione)
 
-1.
-
-Possono divenire cittadini sammarinesi per naturalizzazione i cittadini stranieri o apolidi, in esito al procedimento di cui all’articolo 2-ter, in base ai seguenti criteri:
+1\. Possono divenire cittadini sammarinesi per naturalizzazione i cittadini stranieri o apolidi, in esito al procedimento di cui all’articolo 2-ter, in base ai seguenti criteri:
 
 a) essere iscritti nei registri della popolazione residente al momento della domanda ed essere, a tale data, effettivamente residenti nel territorio della Repubblica;
 
@@ -61,71 +59,43 @@ e) non avere ricevuto la comunicazione giudiziaria, in Repubblica o all’estero
 
 f) [abrogata]
 
-g)
+g) prestare giuramento di fedeltà alla Repubblica avanti ai Capitani Reggenti ed al Segretario di Stato per gli Affari Interni. g bis) attestare la conoscenza della lingua italiana e il superamento di un test di conoscenza della storia e delle Istituzioni sammarinesi, di cui all’articolo 2-quater, comma 1.
 
-prestare giuramento di fedeltà alla Repubblica avanti ai Capitani Reggenti ed al Segretario di Stato per gli Affari Interni. g bis) attestare la conoscenza della lingua italiana e il superamento di un test di conoscenza della storia e delle Istituzioni sammarinesi, di cui all’articolo 2-quater, comma 1.
-
-2.
-
-Possono richiedere la natura originaria della cittadinanza sammarinese coloro i quali divengono cittadini sammarinesi naturalizzati, se figli di madre nata sammarinese per origine che abbia o non abbia beneficiato delle leggi sul reintegro e sulla riassunzione nella cittadinanza. A tal fine si applica il procedimento di cui all’articolo 2-ter, comma 15. 2 bis. Coloro che, per almeno diciotto anni continuativi, abbiano risieduto anagraficamente ed effettivamente nel territorio della Repubblica dalla nascita e senza interruzione, possono richiedere di assumere la cittadinanza sammarinese per naturalizzazione, secondo il procedimento di cui all’articolo 2-ter.
+2\. Possono richiedere la natura originaria della cittadinanza sammarinese coloro i quali divengono cittadini sammarinesi naturalizzati, se figli di madre nata sammarinese per origine che abbia o non abbia beneficiato delle leggi sul reintegro e sulla riassunzione nella cittadinanza. A tal fine si applica il procedimento di cui all’articolo 2-ter, comma 15. 2 bis. Coloro che, per almeno diciotto anni continuativi, abbiano risieduto anagraficamente ed effettivamente nel territorio della Repubblica dalla nascita e senza interruzione, possono richiedere di assumere la cittadinanza sammarinese per naturalizzazione, secondo il procedimento di cui all’articolo 2-ter.
 
 ### Art. 2 bis
 
 (Effetti sui figli minori)
 
-1.
+1\. Gli effetti della naturalizzazione si estendono automaticamente ai figli minori del genitore naturalizzato che ne abbia fatto domanda purché siano residenti alla data della domanda.
 
-Gli effetti della naturalizzazione si estendono automaticamente ai figli minori del genitore naturalizzato che ne abbia fatto domanda purché siano residenti alla data della domanda.
+2\. Il comma 1 si applica anche al minore il cui genitore, che avrebbe avuto diritto alla naturalizzazione avendone i requisiti previsti dalle lettere b) e c) dell’articolo 2, comma 1, sia deceduto prima della presentazione della domanda, a condizione che fosse residente in Repubblica alla data della morte.
 
-2.
-
-Il comma 1 si applica anche al minore il cui genitore, che avrebbe avuto diritto alla naturalizzazione avendone i requisiti previsti dalle lettere b) e c) dell’articolo 2, comma 1, sia deceduto prima della presentazione della domanda, a condizione che fosse residente in Repubblica alla data della morte.
-
-3.
-
-La domanda di naturalizzazione per i minori di cui al presente articolo è presentata da chi esercita la potestà genitoriale o dal tutore ovvero dal procuratore speciale nominato dal Commissario della Legge quale giudice tutelare. Costoro prestano, per conto dei minori, il giuramento di cui all’articolo 2, comma 1, lettera g).
+3\. La domanda di naturalizzazione per i minori di cui al presente articolo è presentata da chi esercita la potestà genitoriale o dal tutore ovvero dal procuratore speciale nominato dal Commissario della Legge quale giudice tutelare. Costoro prestano, per conto dei minori, il giuramento di cui all’articolo 2, comma 1, lettera g).
 
 ### Art. 2 ter
 
 (Procedimento per l’acquisto della cittadinanza per naturalizzazione)
 
-1.
+1\. La domanda ed i certificati di cui al comma 3 sono depositati presso l’Ufficio Stato Civile, Servizi Demografici ed Elettorali, di seguito indicato come “Ufficio Stato Civile”, che ne rilascia ricevuta.
 
-La domanda ed i certificati di cui al comma 3 sono depositati presso l’Ufficio Stato Civile, Servizi Demografici ed Elettorali, di seguito indicato come “Ufficio Stato Civile”, che ne rilascia ricevuta.
+2\. A pena di irricevibilità, la domanda contiene, oltre a quanto previsto dal comma 3, le generalità esatte e complete del richiedente ed eventualmente anche dei minori ai quali si richiede di estendere la naturalizzazione. Alla domanda, sempre a pena di irricevibilità, è allegata l’attestazione di avvenuto pagamento dei diritti di ufficio.
 
-2.
+3\. La domanda contiene l’indicazione dei requisiti in base ai quali l’interessato richiede la cittadinanza per naturalizzazione ed è comprensiva dei certificati che ne comprovano la sussistenza, secondo quanto previsto da apposito regolamento del Congresso di Stato.
 
-A pena di irricevibilità, la domanda contiene, oltre a quanto previsto dal comma 3, le generalità esatte e complete del richiedente ed eventualmente anche dei minori ai quali si richiede di estendere la naturalizzazione. Alla domanda, sempre a pena di irricevibilità, è allegata l’attestazione di avvenuto pagamento dei diritti di ufficio.
+4\. Entro dieci giorni dal ricevimento della domanda l’Ufficiale di Stato Civile richiede al Comandante della Gendarmeria riferimento espresso in forma scritta, da inoltrarsi nel termine di trenta giorni, ai fini della valutazione di cui al comma 5; pervenuto il suddetto parere, l’Ufficiale di Stato Civile trasmette la domanda e la relativa documentazione al collegio di cui al comma 5.
 
-3.
-
-La domanda contiene l’indicazione dei requisiti in base ai quali l’interessato richiede la cittadinanza per naturalizzazione ed è comprensiva dei certificati che ne comprovano la sussistenza, secondo quanto previsto da apposito regolamento del Congresso di Stato.
-
-4.
-
-Entro dieci giorni dal ricevimento della domanda l’Ufficiale di Stato Civile richiede al Comandante della Gendarmeria riferimento espresso in forma scritta, da inoltrarsi nel termine di trenta giorni, ai fini della valutazione di cui al comma 5; pervenuto il suddetto parere, l’Ufficiale di Stato Civile trasmette la domanda e la relativa documentazione al collegio di cui al comma 5.
-
-5.
-
-La domanda è esaminata da un collegio composto da un Commissario della Legge indicato dal Dirigente del Tribunale, dall’Ufficiale di Stato Civile, dal Dirigente dell’UO Ufficio Segreteria Istituzionale e dal Comandante della Gendarmeria; il collegio accerta la sussistenza dei requisiti di cui all’articolo 2, comma 1, lettere a), b), c), d),
+5\. La domanda è esaminata da un collegio composto da un Commissario della Legge indicato dal Dirigente del Tribunale, dall’Ufficiale di Stato Civile, dal Dirigente dell’UO Ufficio Segreteria Istituzionale e dal Comandante della Gendarmeria; il collegio accerta la sussistenza dei requisiti di cui all’articolo 2, comma 1, lettere a), b), c), d),
 
 e) e g bis) e valuta la sussistenza di motivi di ordine e sicurezza pubblica che ostino alla concessione della cittadinanza.
 
-6.
+6\. In esito all’esame di cui al comma 5 il collegio adotta atto di accertamento, positivo o negativo, che è comunicato all’interessato anche ai fini dell’eventuale ricorso ai sensi della Legge 28 giugno 1989 n.68. Gli atti di accertamento positivo sono trasmessi all’Ufficio Segreteria Istituzionale per gli adempimenti conseguenti.
 
-In esito all’esame di cui al comma 5 il collegio adotta atto di accertamento, positivo o negativo, che è comunicato all’interessato anche ai fini dell’eventuale ricorso ai sensi della Legge 28 giugno 1989 n.68. Gli atti di accertamento positivo sono trasmessi all’Ufficio Segreteria Istituzionale per gli adempimenti conseguenti.
+7\. Il Consiglio Grande e Generale concede la cittadinanza per naturalizzazione con propria deliberazione assunta mediante presa d’atto degli atti di accertamento di cui al comma 6 di norma entro i mesi di febbraio e settembre di ogni anno. La deliberazione di cui al presente comma costituisce causa di archiviazione del procedimento giudiziario pendente per l’accertamento dello stato di apolidia.
 
-7.
+8\. L’Ufficio Segreteria Istituzionale, in vista della seduta consiliare di adozione della deliberazione di cui al comma 7, forma apposito elenco delle domande di naturalizzazione che sono state oggetto di accertamento positivo da parte del collegio, esaminate sino al giorno precedente la data della seduta dell’Ufficio di Presidenza prevista per le sessioni consiliari di norma nei mesi di febbraio e settembre di ogni anno.
 
-Il Consiglio Grande e Generale concede la cittadinanza per naturalizzazione con propria deliberazione assunta mediante presa d’atto degli atti di accertamento di cui al comma 6 di norma entro i mesi di febbraio e settembre di ogni anno. La deliberazione di cui al presente comma costituisce causa di archiviazione del procedimento giudiziario pendente per l’accertamento dello stato di apolidia.
-
-8.
-
-L’Ufficio Segreteria Istituzionale, in vista della seduta consiliare di adozione della deliberazione di cui al comma 7, forma apposito elenco delle domande di naturalizzazione che sono state oggetto di accertamento positivo da parte del collegio, esaminate sino al giorno precedente la data della seduta dell’Ufficio di Presidenza prevista per le sessioni consiliari di norma nei mesi di febbraio e settembre di ogni anno.
-
-9.
-
-La deliberazione di concessione della cittadinanza per naturalizzazione adottata dal Consiglio Grande e Generale è inviata dall’Ufficio Segreteria Istituzionale all’Ufficio Stato Civile e a ciascun interessato per la prestazione del giuramento di fedeltà alla Repubblica prescritto dalla Rubrica XL del Libro V delle Leges Statutae.
+9\. La deliberazione di concessione della cittadinanza per naturalizzazione adottata dal Consiglio Grande e Generale è inviata dall’Ufficio Segreteria Istituzionale all’Ufficio Stato Civile e a ciascun interessato per la prestazione del giuramento di fedeltà alla Repubblica prescritto dalla Rubrica XL del Libro V delle Leges Statutae.
 
 10\. Effettuato il giuramento di cui al comma 9, l’Ufficiale di Stato Civile provvede al più presto ad iscrivere ciascun interessato nei registri della cittadinanza, dandone comunicazione all’autorità estera competente.
 
@@ -143,9 +113,7 @@ La deliberazione di concessione della cittadinanza per naturalizzazione adottata
 
 (Conoscenza della lingua italiana, della storia e delle Istituzioni sammarinesi)
 
-1.
-
-Ai fini dell’ottenimento della cittadinanza per naturalizzazione, l’interessato deve:
+1\. Ai fini dell’ottenimento della cittadinanza per naturalizzazione, l’interessato deve:
 
 a) dimostrare una conoscenza della lingua italiana non inferiore al livello B1 del Quadro Comune Europeo di Riferimento per le Lingue (QCER) da comprovarsi mediante:
 
@@ -155,17 +123,11 @@ a) dimostrare una conoscenza della lingua italiana non inferiore al livello B1 d
 
 b) superare un test di conoscenza della storia e delle Istituzioni sammarinesi; le modalità di svolgimento e la composizione della commissione esaminatrice sono stabilite mediante regolamento del Congresso di Stato.
 
-2.
+2\. I minori, ai quali si estendono automaticamente gli effetti della naturalizzazione ai sensi dell’articolo 2-bis, comma 1, sono esentati dagli adempimenti previsti al comma 1.
 
-I minori, ai quali si estendono automaticamente gli effetti della naturalizzazione ai sensi dell’articolo 2-bis, comma 1, sono esentati dagli adempimenti previsti al comma 1.
+3\. Per i minori di cui all’articolo 2-bis, comma 2, in età scolare, è richiesto il requisito della frequenza di un istituto scolastico in lingua italiana riconosciuto dalla Repubblica di San Marino o dalla Repubblica Italiana. Per gli stessi è prevista l’esenzione dal superamento del test di conoscenza della storia e Istituzioni sammarinesi di cui al comma 1, lettera b).
 
-3.
-
-Per i minori di cui all’articolo 2-bis, comma 2, in età scolare, è richiesto il requisito della frequenza di un istituto scolastico in lingua italiana riconosciuto dalla Repubblica di San Marino o dalla Repubblica Italiana. Per gli stessi è prevista l’esenzione dal superamento del test di conoscenza della storia e Istituzioni sammarinesi di cui al comma 1, lettera b).
-
-4.
-
-Sono esentati dagli adempimenti di cui al comma 1 coloro:
+4\. Sono esentati dagli adempimenti di cui al comma 1 coloro:
 
 a) che hanno raggiunto l’ottantesimo anno di età; oppure:
 
@@ -191,23 +153,15 @@ I coniugi stranieri di cittadini sammarinesi residenti sono iscritti nei Registr
 
 (Assunzione o riassunzione della cittadinanza)
 
-1.
+1\. I figli maggiorenni di un solo genitore, cittadino sammarinese o cittadina sammarinese per origine, divenuto forense a seguito di matrimonio, e che non ha riassunto la cittadinanza sammarinese, possono assumere la cittadinanza sammarinese, purché, al momento della domanda, siano residenti anagraficamente ed effettivamente in Repubblica da almeno sei anni continuativi. La cittadinanza sammarinese così ottenuta si trasmette anche ai figli minori purché residenti, qualora abbiano risieduto anagraficamente ed effettivamente per almeno cinque anni continuativi nel territorio della Repubblica. La cittadinanza può essere richiesta anche dal figlio il cui genitore sia deceduto senza aver presentato domanda, pur avendone avuto diritto ai sensi del presente comma.
 
-I figli maggiorenni di un solo genitore, cittadino sammarinese o cittadina sammarinese per origine, divenuto forense a seguito di matrimonio, e che non ha riassunto la cittadinanza sammarinese, possono assumere la cittadinanza sammarinese, purché, al momento della domanda, siano residenti anagraficamente ed effettivamente in Repubblica da almeno sei anni continuativi. La cittadinanza sammarinese così ottenuta si trasmette anche ai figli minori purché residenti, qualora abbiano risieduto anagraficamente ed effettivamente per almeno cinque anni continuativi nel territorio della Repubblica. La cittadinanza può essere richiesta anche dal figlio il cui genitore sia deceduto senza aver presentato domanda, pur avendone avuto diritto ai sensi del presente comma.
+2\. Nei casi di cui al comma 1, la richiesta di assunzione della cittadinanza sammarinese è presentata all’Ufficiale di Stato Civile.
 
-2.
-
-Nei casi di cui al comma 1, la richiesta di assunzione della cittadinanza sammarinese è presentata all’Ufficiale di Stato Civile.
-
-3.
-
-Il cittadino per origine, divenuto forense a seguito di matrimonio, riassume la cittadinanza mediante presentazione di richiesta all’Ufficiale di Stato Civile o avanti
+3\. Il cittadino per origine, divenuto forense a seguito di matrimonio, riassume la cittadinanza mediante presentazione di richiesta all’Ufficiale di Stato Civile o avanti
 
 all’Autorità diplomatica o consolare sammarinese, che provvede all’inoltro all’Ufficiale di Stato Civile.
 
-4.
-
-Condizione per l’accoglimento delle istanze di assunzione o riassunzione della cittadinanza sammarinese è non aver riportato, in Repubblica o all’estero, condanna per reato non colposo alla pena della prigionia o della interdizione superiore ad un anno.
+4\. Condizione per l’accoglimento delle istanze di assunzione o riassunzione della cittadinanza sammarinese è non aver riportato, in Repubblica o all’estero, condanna per reato non colposo alla pena della prigionia o della interdizione superiore ad un anno.
 
 ### Art.6
 
@@ -291,23 +245,15 @@ LEGGE 2 AGOSTO 2019 n.121 INTEGRAZIONI ALLA LEGGE 30 NOVEMBRE 2000 N.114 (LEGGE 
 
 (Norma di sanatoria)
 
-1.
+1\. L’Ufficiale di Stato Civile, su istanza degli interessati, è autorizzato a riscrivere nel Registro di Cittadinanza di questa Repubblica coloro che sono stati cancellati per non aver reso entro i termini richiesti dalla legge, la dichiarazione di mantenimento della cittadinanza prevista all’articolo 1, numero 3 della Legge n.114/2000 e successive modifiche.
 
-L’Ufficiale di Stato Civile, su istanza degli interessati, è autorizzato a riscrivere nel Registro di Cittadinanza di questa Repubblica coloro che sono stati cancellati per non aver reso entro i termini richiesti dalla legge, la dichiarazione di mantenimento della cittadinanza prevista all’articolo 1, numero 3 della Legge n.114/2000 e successive modifiche.
+2\. Parimenti potranno essere iscritti, su istanza degli interessati nel medesimo Registro, coloro che non hanno utilmente inoltrato domanda di accertamento di discendenza o la cui domanda non è stata accolta per la decorrenza dei termini previsti per rendere la dichiarazione di cui al comma 1.
 
-2.
-
-Parimenti potranno essere iscritti, su istanza degli interessati nel medesimo Registro, coloro che non hanno utilmente inoltrato domanda di accertamento di discendenza o la cui domanda non è stata accolta per la decorrenza dei termini previsti per rendere la dichiarazione di cui al comma 1.
-
-3.
-
-I figli di madre sammarinese o di cittadina sammarinese per origine, divenuta forense a seguito di matrimonio, e che non ha riassunto la cittadinanza sammarinese e padre non sammarinese che, all’entrata in vigore della Legge 30 novembre 2000 n.114, avevano già compiuto da oltre dodici mesi la maggiore età e non hanno quindi potuto beneficiare della possibilità di scegliere la cittadinanza materna, possono presentare istanza per l’iscrizione nei Registri della Cittadinanza.
+3\. I figli di madre sammarinese o di cittadina sammarinese per origine, divenuta forense a seguito di matrimonio, e che non ha riassunto la cittadinanza sammarinese e padre non sammarinese che, all’entrata in vigore della Legge 30 novembre 2000 n.114, avevano già compiuto da oltre dodici mesi la maggiore età e non hanno quindi potuto beneficiare della possibilità di scegliere la cittadinanza materna, possono presentare istanza per l’iscrizione nei Registri della Cittadinanza.
 
 La cittadinanza può essere richiesta anche dal figlio il cui genitore sia deceduto senza aver presentato domanda, pur avendone avuto diritto ai sensi del presente articolo.
 
-4.
-
-La dichiarazione di voler ottenere la cittadinanza di cui ai commi 1, 2 e 3 può essere resa entro il 31 ottobre 2021 in una delle seguenti modalità:
+4\. La dichiarazione di voler ottenere la cittadinanza di cui ai commi 1, 2 e 3 può essere resa entro il 31 ottobre 2021 in una delle seguenti modalità:
 
 a) mediante la trasmissione, anche per via telematica, di apposito modulo, unitamente a copia di un documento di identità, sottoscritti dal richiedente, al Dipartimento Affari Esteri della Repubblica di San Marino, che ne cura l’inoltro all’Ufficio di Stato Civile.
 
@@ -323,17 +269,11 @@ LEGGE 25 febbraio 2026 n.27 MODIFICA DELLE NORME RELATIVE ALLA CITTADINANZA PER 
 
 (Disposizioni transitorie)
 
-1.
+1\. Nelle more di una revisione organica e complessiva della disciplina sammarinese in materia di cittadinanza e alla luce delle modifiche introdotte con la presente legge, l’Ufficiale di Stato Civile non procede alla cancellazione dai registri della Cittadinanza della Repubblica dei cittadini sammarinesi per origine che, ai sensi dell’articolo 1, primo comma, punto 2 della Legge n.114/2000 e successive modifiche, non hanno reso, nel termine perentorio previsto, la dichiarazione di voler mantenere la cittadinanza sammarinese ai sensi dell’articolo 3 e successive modifiche della medesima legge.
 
-Nelle more di una revisione organica e complessiva della disciplina sammarinese in materia di cittadinanza e alla luce delle modifiche introdotte con la presente legge, l’Ufficiale di Stato Civile non procede alla cancellazione dai registri della Cittadinanza della Repubblica dei cittadini sammarinesi per origine che, ai sensi dell’articolo 1, primo comma, punto 2 della Legge n.114/2000 e successive modifiche, non hanno reso, nel termine perentorio previsto, la dichiarazione di voler mantenere la cittadinanza sammarinese ai sensi dell’articolo 3 e successive modifiche della medesima legge.
+2\. La disposizione di cui al comma 1 ha efficacia ex tunc.
 
-2.
-
-La disposizione di cui al comma 1 ha efficacia ex tunc.
-
-3.
-
-Coloro che sono stati cancellati dai registri della Cittadinanza della Repubblica nei ventiquattro mesi precedenti l’entrata in vigore della presente legge, per non aver adempiuto, ai sensi dell’articolo 2, comma 1, lettera f) della Legge n.114/2000 e successive modifiche, agli obblighi previsti, sono reinseriti nei predetti registri su richiesta, a condizione che risultino residenti al momento della domanda.
+3\. Coloro che sono stati cancellati dai registri della Cittadinanza della Repubblica nei ventiquattro mesi precedenti l’entrata in vigore della presente legge, per non aver adempiuto, ai sensi dell’articolo 2, comma 1, lettera f) della Legge n.114/2000 e successive modifiche, agli obblighi previsti, sono reinseriti nei predetti registri su richiesta, a condizione che risultino residenti al momento della domanda.
 
 REGOLAMENTO 19 marzo 2026 n.4 DISPOSIZIONI ATTUATIVE DELLE NORME RELATIVE ALLA CITTADINANZA DI CUI ALLA LEGGE 30 NOVEMBRE 2000 N.114 E SUCCESSIVE MODIFICHE
 
@@ -345,9 +285,7 @@ DISPOSIZIONI GENERALI
 
 (Finalità e oggetto)
 
-1.
-
-Il presente regolamento individua gli uffici pubblici competenti a rilasciare l’attestazione di residenza anagrafica ed effettiva, definisce gli adempimenti a carico dei soggetti che intendono acquisire la cittadinanza sammarinese per naturalizzazione, disciplina il funzionamento del collegio di cui all’articolo 2-ter, commi 5 e 6, della Legge 30 novembre 2000 n.114 e successive modifiche e stabilisce le modalità di svolgimento del test di conoscenza della storia e delle Istituzioni sammarinesi nonché la composizione della relativa commissione esaminatrice ai sensi dell’articolo 2-quater, comma 1, lettera b) della Legge n.114/2000 e successive modifiche.
+1\. Il presente regolamento individua gli uffici pubblici competenti a rilasciare l’attestazione di residenza anagrafica ed effettiva, definisce gli adempimenti a carico dei soggetti che intendono acquisire la cittadinanza sammarinese per naturalizzazione, disciplina il funzionamento del collegio di cui all’articolo 2-ter, commi 5 e 6, della Legge 30 novembre 2000 n.114 e successive modifiche e stabilisce le modalità di svolgimento del test di conoscenza della storia e delle Istituzioni sammarinesi nonché la composizione della relativa commissione esaminatrice ai sensi dell’articolo 2-quater, comma 1, lettera b) della Legge n.114/2000 e successive modifiche.
 
 ## CAPO II
 
@@ -357,25 +295,17 @@ DISPOSIZIONI RELATIVE AGLI ADEMPIMENTI PREVISTI PER COLORO CHE INTENDONO ACQUISI
 
 (Uffici pubblici competenti ad attestare la residenza anagrafica ed effettiva)
 
-1.
-
-Ai fini dell’attestazione della residenza anagrafica ed effettiva, di cui all’articolo 2, comma 1, lettera b) della Legge n.114/2000 e successive modifiche, il certificato di residenza anagrafica è rilasciato dall’UO Stato Civile, Servizi Demografici ed Elettorali (di seguito, brevemente, Ufficio Stato Civile) mentre l’attestazione di residenza effettiva è rilasciata dal Corpo della Gendarmeria – Ufficio Comando.
+1\. Ai fini dell’attestazione della residenza anagrafica ed effettiva, di cui all’articolo 2, comma 1, lettera b) della Legge n.114/2000 e successive modifiche, il certificato di residenza anagrafica è rilasciato dall’UO Stato Civile, Servizi Demografici ed Elettorali (di seguito, brevemente, Ufficio Stato Civile) mentre l’attestazione di residenza effettiva è rilasciata dal Corpo della Gendarmeria – Ufficio Comando.
 
 ### Art. 3
 
 (Domanda di naturalizzazione)
 
-1.
+1\. La domanda di naturalizzazione è presentata all’Ufficio Stato Civile su moduli a tale scopo predisposti.
 
-La domanda di naturalizzazione è presentata all’Ufficio Stato Civile su moduli a tale scopo predisposti.
+2\. La domanda contiene le generalità esatte e complete dell’interessato nonché l’indicazione della residenza anagrafica e dei requisiti in base ai quali l’interessato richiede di acquisire la cittadinanza per naturalizzazione.
 
-2.
-
-La domanda contiene le generalità esatte e complete dell’interessato nonché l’indicazione della residenza anagrafica e dei requisiti in base ai quali l’interessato richiede di acquisire la cittadinanza per naturalizzazione.
-
-3.
-
-Fatte salve le esenzioni previste dall’articolo 2-quater della Legge n.114/2000 e successive modifiche, l’interessato è tenuto a produrre la seguente documentazione:
+3\. Fatte salve le esenzioni previste dall’articolo 2-quater della Legge n.114/2000 e successive modifiche, l’interessato è tenuto a produrre la seguente documentazione:
 
 a) attestazione di residenza effettiva;
 
@@ -391,9 +321,7 @@ nella Repubblica di San Marino, nel caso di cui all’articolo 2, comma 1, lette
 
 e) certificato penale generale e certificato dei carichi pendenti della Repubblica di San Marino.
 
-4.
-
-Il richiedente è tenuto, altresì, ad allegare alla domanda di naturalizzazione, certificazione o dichiarazione giurata e per iscritto sotto la sua responsabilità civile e penale:
+4\. Il richiedente è tenuto, altresì, ad allegare alla domanda di naturalizzazione, certificazione o dichiarazione giurata e per iscritto sotto la sua responsabilità civile e penale:
 
 a) certificato penale generale o documento equipollente e certificato dei carichi pendenti del Paese di appartenenza;
 
@@ -401,9 +329,7 @@ b) attestazione di non pendenza del procedimento di separazione coniugale o di n
 
 c) dichiarazione di non avere ricevuto la comunicazione giudiziaria, in Repubblica o all’estero, o comunicazione equivalente, per reato non colposo che preveda la pena edittale nei termini di cui all’articolo 2, comma 1, lettera c) della Legge n.114/2000 e successive modifiche.
 
-5.
-
-La domanda può altresì contenere la richiesta di estensione della naturalizzazione per il figlio minore. In tale ipotesi, colui che esercita la potestà genitoriale sul minore, in relazione al quale richiede di estendere gli effetti della naturalizzazione:
+5\. La domanda può altresì contenere la richiesta di estensione della naturalizzazione per il figlio minore. In tale ipotesi, colui che esercita la potestà genitoriale sul minore, in relazione al quale richiede di estendere gli effetti della naturalizzazione:
 
 a) indica le generalità esatte e complete del minore. Nell’ipotesi di cui all’articolo 2 bis, comma 2, della Legge n.114/2000, indica altresì le generalità esatte e complete del genitore che avrebbe avuto diritto alla naturalizzazione e che sia deceduto prima della presentazione della domanda; per il minore in età scolare, allega l’attestazione di frequenza di un istituto scolastico in lingua italiana riconosciuto dalla Repubblica di San Marino o dallo Stato Italiano;
 
@@ -411,37 +337,25 @@ b) allega il certificato di residenza anagrafica ed effettiva del minore;
 
 c) indica le generalità esatte e complete del genitore dal quale discendono gli effetti della naturalizzazione, nel caso in cui sia persona distinta rispetto a colui che esercita la potestà.
 
-6.
+6\. Il richiedente è tenuto ad allegare alla domanda la ricevuta, in originale o copia autentica, attestante il pagamento del diritto di pratica di cui all’articolo 5.
 
-Il richiedente è tenuto ad allegare alla domanda la ricevuta, in originale o copia autentica, attestante il pagamento del diritto di pratica di cui all’articolo 5.
+7\. Le attestazioni e i certificati allegati devono recare una data non anteriore a tre mesi rispetto a quella di presentazione della domanda, fatti salvi i disposti di cui all’articolo 18, comma 2, della Legge 5 ottobre 2011 n.159. Restano escluse da tale limite temporale le attestazioni di cui al comma 3, lettere b) e c) del presente articolo, che, una volta rilasciate, non sono soggette a scadenza.
 
-7.
-
-Le attestazioni e i certificati allegati devono recare una data non anteriore a tre mesi rispetto a quella di presentazione della domanda, fatti salvi i disposti di cui all’articolo 18, comma 2, della Legge 5 ottobre 2011 n.159. Restano escluse da tale limite temporale le attestazioni di cui al comma 3, lettere b) e c) del presente articolo, che, una volta rilasciate, non sono soggette a scadenza.
-
-8.
-
-Del deposito della domanda l’Ufficio Stato Civile rilascia apposita ricevuta.
+8\. Del deposito della domanda l’Ufficio Stato Civile rilascia apposita ricevuta.
 
 ### Art. 4
 
 (Verifiche dell’Ufficiale di Stato Civile)
 
-1.
+1\. Nel caso di cui all’articolo 2, comma 1, lettera b), numero 1 della Legge n.114/2000 e successive modifiche, l’Ufficiale di Stato Civile accerta la condizione di adottato in forza dell’istituto dell’adoptio semiplena.
 
-Nel caso di cui all’articolo 2, comma 1, lettera b), numero 1 della Legge n.114/2000 e successive modifiche, l’Ufficiale di Stato Civile accerta la condizione di adottato in forza dell’istituto dell’adoptio semiplena.
-
-2.
-
-Nel caso di cui all’articolo 2 bis, comma 2 della Legge n.114/2000, l’Ufficiale di Stato Civile accerta, in relazione al genitore deceduto, la sussistenza degli specifici requisiti ivi previsti.
+2\. Nel caso di cui all’articolo 2 bis, comma 2 della Legge n.114/2000, l’Ufficiale di Stato Civile accerta, in relazione al genitore deceduto, la sussistenza degli specifici requisiti ivi previsti.
 
 ### Art. 5
 
 (Diritto di pratica)
 
-1.
-
-Per la presentazione della domanda è dovuto un diritto di pratica il cui ammontare è indicato nell’ordinanza del Congresso di Stato ai sensi dell’articolo 46, comma 4 della Legge 5 ottobre 2011 n.160 e successive modifiche.
+1\. Per la presentazione della domanda è dovuto un diritto di pratica il cui ammontare è indicato nell’ordinanza del Congresso di Stato ai sensi dell’articolo 46, comma 4 della Legge 5 ottobre 2011 n.160 e successive modifiche.
 
 ## CAPO III
 
@@ -451,57 +365,35 @@ DISPOSIZIONI RELATIVE AL FUNZIONAMENTO DEL COLLEGIO DI CUI ALL’ARTICOLO 2TER, 
 
 (Convocazione del collegio)
 
-1.
+1\. Le riunioni del collegio sono presiedute e convocate dal Commissario della Legge, con avviso inviato mediante lettera raccomandata ai membri presso il domicilio eletto o a mezzo posta elettronica almeno cinque giorni prima della riunione.
 
-Le riunioni del collegio sono presiedute e convocate dal Commissario della Legge, con avviso inviato mediante lettera raccomandata ai membri presso il domicilio eletto o a mezzo posta elettronica almeno cinque giorni prima della riunione.
+2\. Nei casi di urgenza la convocazione può essere effettuata senza rispetto del termine di cui al comma 1, purché con un giorno almeno di preavviso.
 
-2.
+3\. Il collegio si riunisce in tempo utile per la seduta del Consiglio Grande e Generale prevista per la deliberazione di presa d’atto degli atti di accertamento positivo e ogni qualvolta lo ritenga opportuno.
 
-Nei casi di urgenza la convocazione può essere effettuata senza rispetto del termine di cui al comma 1, purché con un giorno almeno di preavviso.
-
-3.
-
-Il collegio si riunisce in tempo utile per la seduta del Consiglio Grande e Generale prevista per la deliberazione di presa d’atto degli atti di accertamento positivo e ogni qualvolta lo ritenga opportuno.
-
-4.
-
-Le riunioni del collegio non sono pubbliche.
+4\. Le riunioni del collegio non sono pubbliche.
 
 ### Art. 7
 
 (Verbalizzazione e validità delle riunioni)
 
-1.
+1\. Le funzioni di segreteria sono affidate a un dipendente dell’UO Ufficio Segreteria Istituzionale. Detto dipendente funge anche da segretario verbalizzante delle riunioni.
 
-Le funzioni di segreteria sono affidate a un dipendente dell’UO Ufficio Segreteria Istituzionale. Detto dipendente funge anche da segretario verbalizzante delle riunioni.
+2\. Il verbale deve riportare la deliberazione del collegio e una traccia sintetica del dibattito in relazione alla trattazione di ciascuna domanda per l’acquisizione della cittadinanza per naturalizzazione.
 
-2.
+3\. Ogni membro del collegio ha diritto di dettare a verbale affermazioni, pareri e prese di posizione.
 
-Il verbale deve riportare la deliberazione del collegio e una traccia sintetica del dibattito in relazione alla trattazione di ciascuna domanda per l’acquisizione della cittadinanza per naturalizzazione.
+4\. Per la validità delle riunioni è necessaria la presenza di tutti i membri del collegio.
 
-3.
-
-Ogni membro del collegio ha diritto di dettare a verbale affermazioni, pareri e prese di posizione.
-
-4.
-
-Per la validità delle riunioni è necessaria la presenza di tutti i membri del collegio.
-
-5.
-
-Le deliberazioni del collegio sono prese all’unanimità.
+5\. Le deliberazioni del collegio sono prese all’unanimità.
 
 ### Art. 8
 
 (Sostituzione ed astensione dei membri del collegio)
 
-1.
+1\. Il membro del collegio che, a causa di comprovati gravi motivi, non partecipa alla riunione convocata dal Commissario della Legge è sostituito da funzionario dallo stesso delegato.
 
-Il membro del collegio che, a causa di comprovati gravi motivi, non partecipa alla riunione convocata dal Commissario della Legge è sostituito da funzionario dallo stesso delegato.
-
-2.
-
-In caso di conflitto di interessi si applica l’articolo 9 della Legge 5 settembre 2014 n.141.
+2\. In caso di conflitto di interessi si applica l’articolo 9 della Legge 5 settembre 2014 n.141.
 
 ## CAPO IV
 
@@ -511,13 +403,9 @@ DISPOSIZIONI RELATIVE ALLO SVOLGIMENTO DEL TEST DI CONOSCENZA DELLA STORIA E DEL
 
 (Commissione esaminatrice per il test di conoscenza della storia e delle Istituzioni sammarinesi)
 
-1.
+1\. È istituita la Commissione esaminatrice per il test di conoscenza della storia e delle Istituzioni sammarinesi quale organo collegiale preposto all’organizzazione, alla somministrazione, alla correzione e alla valutazione del test di conoscenza della storia e delle Istituzioni sammarinesi.
 
-È istituita la Commissione esaminatrice per il test di conoscenza della storia e delle Istituzioni sammarinesi quale organo collegiale preposto all’organizzazione, alla somministrazione, alla correzione e alla valutazione del test di conoscenza della storia e delle Istituzioni sammarinesi.
-
-2.
-
-La Commissione esaminatrice è composta dai seguenti membri:
+2\. La Commissione esaminatrice è composta dai seguenti membri:
 
 a) il Direttore del Dipartimento Affari Istituzionali ed Affari Interni o suo delegato con funzione di Presidente;
 
@@ -529,13 +417,9 @@ c) il Direttore del Dipartimento Istruzione e Cultura o suo delegato.
 
 (Struttura e modalità di somministrazione del test)
 
-1.
+1\. Il test di conoscenza della storia e delle Istituzioni sammarinesi è somministrato in forma scritta. Al fine di garantire oggettività nella valutazione, il test prevede domande a risposta multipla.
 
-Il test di conoscenza della storia e delle Istituzioni sammarinesi è somministrato in forma scritta. Al fine di garantire oggettività nella valutazione, il test prevede domande a risposta multipla.
-
-2.
-
-Le domande del test riguardano tassativamente le seguenti tematiche:
+2\. Le domande del test riguardano tassativamente le seguenti tematiche:
 
 a) storia di San Marino;
 
@@ -543,45 +427,29 @@ b) Istituzioni sammarinesi;
 
 c) cittadinanza e valori.
 
-3.
-
-Il materiale didattico relativo alle tematiche di cui al comma 2 è reso pubblico dal Dipartimento Affari Istituzionali ed Affari Interni.
+3\. Il materiale didattico relativo alle tematiche di cui al comma 2 è reso pubblico dal Dipartimento Affari Istituzionali ed Affari Interni.
 
 ### Art. 11
 
 (Pianificazione e pubblicità del test)
 
-1.
+1\. I test sono organizzati, compatibilmente con il numero degli iscritti, preferibilmente due volte ogni anno, nei mesi di aprile e novembre.
 
-I test sono organizzati, compatibilmente con il numero degli iscritti, preferibilmente due volte ogni anno, nei mesi di aprile e novembre.
+2\. La Commissione esaminatrice definisce preventivamente le modalità di iscrizione al test, dello svolgimento dello stesso, nonché la data, l’ora e il luogo di somministrazione.
 
-2.
+3\. Il punteggio minimo necessario per il superamento del test è pari ai 2/3 delle domande somministrate.
 
-La Commissione esaminatrice definisce preventivamente le modalità di iscrizione al test, dello svolgimento dello stesso, nonché la data, l’ora e il luogo di somministrazione.
+4\. Le informazioni di cui ai commi 2 e 3, sono rese pubbliche a cura del Dipartimento Affari Istituzionali ed Affari Interni.
 
-3.
-
-Il punteggio minimo necessario per il superamento del test è pari ai 2/3 delle domande somministrate.
-
-4.
-
-Le informazioni di cui ai commi 2 e 3, sono rese pubbliche a cura del Dipartimento Affari Istituzionali ed Affari Interni.
-
-5.
-
-Unitamente alla domanda di ammissione al test deve essere corrisposto, ogni qualvolta viene presentata la stessa, un diritto di pratica il cui ammontare è indicato nell’ordinanza del Congresso di Stato ai sensi dell’articolo 46, comma 4 della Legge n.160/2011 e successive modifiche.
+5\. Unitamente alla domanda di ammissione al test deve essere corrisposto, ogni qualvolta viene presentata la stessa, un diritto di pratica il cui ammontare è indicato nell’ordinanza del Congresso di Stato ai sensi dell’articolo 46, comma 4 della Legge n.160/2011 e successive modifiche.
 
 ### Art. 12
 
 (Verbalizzazione)
 
-1.
+1\. Di ogni seduta della Commissione esaminatrice è redatto un processo verbale a cura del segretario verbalizzante, nel quale si dà atto, in forma sintetica della discussione e, in modo completo, delle deliberazioni assunte.
 
-Di ogni seduta della Commissione esaminatrice è redatto un processo verbale a cura del segretario verbalizzante, nel quale si dà atto, in forma sintetica della discussione e, in modo completo, delle deliberazioni assunte.
-
-2.
-
-Il verbale deve contenere:
+2\. Il verbale deve contenere:
 
 a) il luogo, la data e l’ora di inizio e termine della seduta;
 
@@ -591,73 +459,49 @@ c) l’ordine del giorno;
 
 d) i risultati delle votazioni e l’esito di ciascuna decisione.
 
-3.
+3\. Con la sottoscrizione del Presidente e del segretario verbalizzante i verbali si intendono approvati.
 
-Con la sottoscrizione del Presidente e del segretario verbalizzante i verbali si intendono approvati.
-
-4.
-
-Le decisioni della Commissione esaminatrice sono prese a maggioranza assoluta.
+4\. Le decisioni della Commissione esaminatrice sono prese a maggioranza assoluta.
 
 ### Art. 13
 
 (Comunicazione dei risultati)
 
-1.
-
-L’esito dei test è trasmesso ai singoli candidati entro trenta giorni dalla data di svolgimento del test, mediante posta elettronica o altro mezzo idoneo a garantirne la
+1\. L’esito dei test è trasmesso ai singoli candidati entro trenta giorni dalla data di svolgimento del test, mediante posta elettronica o altro mezzo idoneo a garantirne la
 
 tracciabilità, al fine di consentire loro di procedere con la presentazione della domanda di naturalizzazione.
 
-2.
+2\. I risultati finali della Commissione esaminatrice relativi alla sessione sono trasmessi all’Ufficio Stato Civile, che ne cura la conservazione.
 
-I risultati finali della Commissione esaminatrice relativi alla sessione sono trasmessi all’Ufficio Stato Civile, che ne cura la conservazione.
-
-3.
-
-L’Ufficio Stato Civile provvede a integrare la documentazione della domanda di naturalizzazione con l’esito del test, al fine dell’invio al Collegio di cui all’articolo 2-ter, comma 5 della Legge n.114/2000.
+3\. L’Ufficio Stato Civile provvede a integrare la documentazione della domanda di naturalizzazione con l’esito del test, al fine dell’invio al Collegio di cui all’articolo 2-ter, comma 5 della Legge n.114/2000.
 
 ### Art. 14
 
 (Segreteria e compiti)
 
-1.
+1\. Le funzioni di segretario verbalizzante della Commissione esaminatrice sono svolte da uno dei suoi membri.
 
-Le funzioni di segretario verbalizzante della Commissione esaminatrice sono svolte da uno dei suoi membri.
-
-2.
-
-Il segretario verbalizzante provvede alla redazione dei verbali, all’invio delle convocazioni su disposizione del Presidente ed alla trasmissione dei risultati.
+2\. Il segretario verbalizzante provvede alla redazione dei verbali, all’invio delle convocazioni su disposizione del Presidente ed alla trasmissione dei risultati.
 
 ### Art. 15
 
 (Convocazione e ordine del giorno)
 
-1.
-
-La Commissione esaminatrice è convocata dal Presidente mediante atto formale, inviato ai membri almeno cinque giorni lavorativi prima della data fissata per la riunione.
+1\. La Commissione esaminatrice è convocata dal Presidente mediante atto formale, inviato ai membri almeno cinque giorni lavorativi prima della data fissata per la riunione.
 
 In caso di comprovata urgenza, il termine può essere ridotto a ventiquattro ore.
 
-2.
+2\. L'avviso di convocazione deve indicare il luogo, la data, l'ora della riunione e l’elenco degli argomenti da trattare (ordine del giorno).
 
-L'avviso di convocazione deve indicare il luogo, la data, l'ora della riunione e l’elenco degli argomenti da trattare (ordine del giorno).
-
-3.
-
-In caso di conflitto di interessi si applica l’articolo 9 della Legge n.141/2014.
+3\. In caso di conflitto di interessi si applica l’articolo 9 della Legge n.141/2014.
 
 ### Art. 16
 
 (Funzionamento durante le operazioni d’esame)
 
-1.
+1\. Durante le operazioni di somministrazione e correzione del test, la Commissione esaminatrice opera assicurando la presenza simultanea di almeno due membri.
 
-Durante le operazioni di somministrazione e correzione del test, la Commissione esaminatrice opera assicurando la presenza simultanea di almeno due membri.
-
-2.
-
-I membri della Commissione esaminatrice sono tenuti a mantenere riservate le operazioni svolte e le decisioni adottate fino alla pubblicazione ufficiale dei risultati.
+2\. I membri della Commissione esaminatrice sono tenuti a mantenere riservate le operazioni svolte e le decisioni adottate fino alla pubblicazione ufficiale dei risultati.
 
 ## CAPO V
 
@@ -667,6 +511,4 @@ DISPOSIZIONI FINALI
 
 (Abrogazione)
 
-1.
-
-È abrogato il Regolamento 15 aprile 2016 n.8.
+1\. È abrogato il Regolamento 15 aprile 2016 n.8.

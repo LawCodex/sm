@@ -1422,69 +1422,39 @@ LEGGE 4 FEBBRAIO 2010 N.35 - MODIFICA AL REGOLAMENTO DI POLIZIA MORTUARIA DEL 15
 
 (Finalità)
 
-1.
+1\. Al fine di assicurare la sepoltura nei cimiteri della Repubblica, nella forma della tumulazione, a tutti coloro che ne hanno diritto ai sensi dell’articolo 32 della Legge 15 marzo 1910 – Regolamento di Polizia Mortuaria, le concessioni in uso dei loculi, degli ossari e delle nicchie cinerarie sono a tempo determinato e la modalità di tumulazione nei loculi può essere sia stagna che areata.
 
-Al fine di assicurare la sepoltura nei cimiteri della Repubblica, nella forma della tumulazione, a tutti coloro che ne hanno diritto ai sensi dell’articolo 32 della Legge 15 marzo 1910 – Regolamento di Polizia Mortuaria, le concessioni in uso dei loculi, degli ossari e delle nicchie cinerarie sono a tempo determinato e la modalità di tumulazione nei loculi può essere sia stagna che areata.
+2\. Con la presente legge vengono aggiornate alcune norme per tutte le sepolture e dettate disposizioni che disciplinano il ricorso alla pratica della cremazione, nonché, nel rispetto della volontà del defunto, la destinazione delle ceneri.
 
-2.
+3\. Lo Stato, in attuazione del principio della libertà di culto sancito nella Legge 8 luglio 1974 n. 59 – Dichiarazione dei diritti del cittadino e dei principi fondamentali dell’ordinamento sammarinese, consente il ricorso a pratiche di sepoltura conformi alla religione professata in vita dal defunto, nel rispetto e nei limiti di quanto previsto al successivo articolo 13.
 
-Con la presente legge vengono aggiornate alcune norme per tutte le sepolture e dettate disposizioni che disciplinano il ricorso alla pratica della cremazione, nonché, nel rispetto della volontà del defunto, la destinazione delle ceneri.
-
-3.
-
-Lo Stato, in attuazione del principio della libertà di culto sancito nella Legge 8 luglio 1974 n. 59 – Dichiarazione dei diritti del cittadino e dei principi fondamentali dell’ordinamento sammarinese, consente il ricorso a pratiche di sepoltura conformi alla religione professata in vita dal defunto, nel rispetto e nei limiti di quanto previsto al successivo articolo 13.
-
-4.
-
-Le definizioni dei termini di cui alla presente legge sono contenute nell’allegato 1.
+4\. Le definizioni dei termini di cui alla presente legge sono contenute nell’allegato 1.
 
 ##### Art. 2
 
 (Requisiti delle sepolture e caratteristiche delle concessioni)
 
-1.
+1\. I loculi individuali, ipogei od epigei, possono essere in colombario a più file e più colonne, o vani distinti parte di tomba, sepolcro o altra tipologia di sepoltura.
 
-I loculi individuali, ipogei od epigei, possono essere in colombario a più file e più colonne, o vani distinti parte di tomba, sepolcro o altra tipologia di sepoltura.
+2\. Ogni loculo è realizzato in modo che l’eventuale tumulazione od estumulazione di un feretro possa avvenire senza che sia movimentato un altro feretro.
 
-2.
+3\. Ogni nuova fossa per inumazione deve avere le caratteristiche stabilite nell’allegato 2 alla presente legge. Nella pianificazione cimiteriale l’area minima da destinare a campi comuni di inumazione è pari a quella necessaria a garantire la disponibilità di un numero di fosse superiore alle inumazioni in campo comune dell’ultimo decennio, aumentate del trenta per cento, per tener conto di sepolture di salme non mineralizzate ed eventi eccezionali.
 
-Ogni loculo è realizzato in modo che l’eventuale tumulazione od estumulazione di un feretro possa avvenire senza che sia movimentato un altro feretro.
+4\. In ogni loculo, ossario o nicchia cineraria di nuova costruzione devono essere garantite misure di ingombro interno minime individuate nell’allegato 3 alla presente legge.
 
-3.
+5\. Ogni nuovo loculo, sia esso areato o stagno, verrà autorizzato se il progetto risponde a requisiti tecnico-costruttivi stabiliti nell’allegato 3. I loculi stagni già esistenti possono essere trasformati in areati, purché rispondenti agli specifici requisiti stabiliti nell’allegato 3.
 
-Ogni nuova fossa per inumazione deve avere le caratteristiche stabilite nell’allegato 2 alla presente legge. Nella pianificazione cimiteriale l’area minima da destinare a campi comuni di inumazione è pari a quella necessaria a garantire la disponibilità di un numero di fosse superiore alle inumazioni in campo comune dell’ultimo decennio, aumentate del trenta per cento, per tener conto di sepolture di salme non mineralizzate ed eventi eccezionali.
+6\. Per le inumazioni e le cremazioni, nonché per le tumulazioni nei loculi areati per i quali sono state adottate soluzioni idonee a neutralizzare gli effetti dei gas e raccogliere e neutralizzare i liquidi provenienti dai processi putrefattivi, la cassa metallica è vietata e quella di legno deve possedere le caratteristiche stabilite dall’allegato 4 alla presente legge.
 
-4.
+7\. I cadaveri destinati alla tumulazione in loculi stagni devono essere racchiusi in duplice cassa, una di legno e l’altra di metallo, aventi le caratteristiche costruttive e di confezionamento previste dall’allegato 4.
 
-In ogni loculo, ossario o nicchia cineraria di nuova costruzione devono essere garantite misure di ingombro interno minime individuate nell’allegato 3 alla presente legge.
+8\. Le concessioni possono riguardare loculi individuali (loculi, ossari, nicchie per singole urne cinerarie, e similari) o loculi a più posti (biloculi, triloculi, loculi a più di tre posti, ossari plurimi e similari).
 
-5.
+9\. In ogni loculo individuale è posto un solo feretro; soltanto madre e neonato, morti in concomitanza del parto, possono essere chiusi in una stessa cassa.
 
-Ogni nuovo loculo, sia esso areato o stagno, verrà autorizzato se il progetto risponde a requisiti tecnico-costruttivi stabiliti nell’allegato 3. I loculi stagni già esistenti possono essere trasformati in areati, purché rispondenti agli specifici requisiti stabiliti nell’allegato 3.
+10\. Nel loculo, indipendentemente dalla presenza del feretro, possono essere collocati, in relazione alla capienza, una o più cassette di ossa, urne cinerarie, un contenitore di salma non mineralizzata.
 
-6.
-
-Per le inumazioni e le cremazioni, nonché per le tumulazioni nei loculi areati per i quali sono state adottate soluzioni idonee a neutralizzare gli effetti dei gas e raccogliere e neutralizzare i liquidi provenienti dai processi putrefattivi, la cassa metallica è vietata e quella di legno deve possedere le caratteristiche stabilite dall’allegato 4 alla presente legge.
-
-7.
-
-I cadaveri destinati alla tumulazione in loculi stagni devono essere racchiusi in duplice cassa, una di legno e l’altra di metallo, aventi le caratteristiche costruttive e di confezionamento previste dall’allegato 4.
-
-8.
-
-Le concessioni possono riguardare loculi individuali (loculi, ossari, nicchie per singole urne cinerarie, e similari) o loculi a più posti (biloculi, triloculi, loculi a più di tre posti, ossari plurimi e similari).
-
-9.
-
-In ogni loculo individuale è posto un solo feretro; soltanto madre e neonato, morti in concomitanza del parto, possono essere chiusi in una stessa cassa.
-
-10.
-
-Nel loculo, indipendentemente dalla presenza del feretro, possono essere collocati, in relazione alla capienza, una o più cassette di ossa, urne cinerarie, un contenitore di salma non mineralizzata.
-
-11.
-
-La durata della concessione è pari a:
+11\. La durata della concessione è pari a:
 
 a) 90 anni, salvo rinnovo, nel caso di loculi a più di 3 posti feretro;
 
@@ -1500,21 +1470,15 @@ f) 20 anni, salvo un rinnovo, per ossari, nicchie cinerarie individuali, a condi
 
 g) 40 anni, salvo un rinnovo, nel caso di ossario plurimo in cui permangano tumulate urne cinerarie o cassette di ossa.
 
-12.
-
-Il rinnovo della concessione è effettuato su richiesta di avente titolo, se la salma presente non è ancora mineralizzata o se è stata tumulata nello stesso loculo una ulteriore salma, e sempre che l'Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria valuti favorevolmente tale richiesta.
+12\. Il rinnovo della concessione è effettuato su richiesta di avente titolo, se la salma presente non è ancora mineralizzata o se è stata tumulata nello stesso loculo una ulteriore salma, e sempre che l'Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria valuti favorevolmente tale richiesta.
 
 ##### Art. 3
 
 (Concessioni cimiteriali, rinnovo e decadenza)
 
-1.
+1\. I loculi individuali vengono dati in concessione unicamente al momento del decesso per tumularvi feretri, salvo quanto disposto dai successivi commi.
 
-I loculi individuali vengono dati in concessione unicamente al momento del decesso per tumularvi feretri, salvo quanto disposto dai successivi commi.
-
-2.
-
-In deroga al principio generale di cui al comma 1, l'Ufficiale di Stato Civile Dirigente la Polizia Mortuaria può cedere in uso:
+2\. In deroga al principio generale di cui al comma 1, l'Ufficiale di Stato Civile Dirigente la Polizia Mortuaria può cedere in uso:
 
 a) un ulteriore loculo individuale attiguo al precedente, al coniuge superstite o convivente more uxorio del defunto che ne faccia contestuale richiesta;
 
@@ -1526,9 +1490,7 @@ d) su richiesta di persona di età superiore ad anni settanta che dimostri di es
 
 La facoltà di cui al comma che precede è riconosciuta al convivente more uxorio in caso di convivenza durata ininterrottamente per quindici anni e comprovata dallo stato di famiglia o, in mancanza di certificazioni anagrafiche, da un atto di notorietà.
 
-4.
-
-È consentito seppellire in un loculo individuale feretri, contenitori di salme non mineralizzate, cassette di ossa, urne cinerarie:
+4\. È consentito seppellire in un loculo individuale feretri, contenitori di salme non mineralizzate, cassette di ossa, urne cinerarie:
 
 a) di aventi titolo alla sepoltura, nei limiti del contratto di concessione, secondo l’ordine temporale di decesso;
 
@@ -1538,17 +1500,11 @@ Salvo non sia esplicitamente previsto dall’atto di concessione, ogni sepoltura
 
 appartenenti alla famiglia del concessionario fondatore o a lui subentrati per successione ereditaria.
 
-5.
+5\. Non può essere fatta concessione per sepoltura a persone che mirino a farne oggetto di lucro o di speculazione. La concessione non può in alcun modo né a qualsiasi titolo essere oggetto di cessione tra privati. Con la disponibilità del concessionario alla sepoltura “provvisoria” in loculo individuale, si determina la sola occupazione temporanea del posto.
 
-Non può essere fatta concessione per sepoltura a persone che mirino a farne oggetto di lucro o di speculazione. La concessione non può in alcun modo né a qualsiasi titolo essere oggetto di cessione tra privati. Con la disponibilità del concessionario alla sepoltura “provvisoria” in loculo individuale, si determina la sola occupazione temporanea del posto.
+6\. L’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria è delegato alla stipula degli atti di concessione di ogni tipo di sepoltura e riscuote le tariffe fissate con delibera del Congresso di Stato.
 
-6.
-
-L’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria è delegato alla stipula degli atti di concessione di ogni tipo di sepoltura e riscuote le tariffe fissate con delibera del Congresso di Stato.
-
-7.
-
-Se entro il termine di durata della concessione l’avente titolo non abbia presentato domanda di rinnovo, o di raccolta e traslazione delle spoglie mortali per altra sepoltura o per la cremazione, l’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria dispone:
+7\. Se entro il termine di durata della concessione l’avente titolo non abbia presentato domanda di rinnovo, o di raccolta e traslazione delle spoglie mortali per altra sepoltura o per la cremazione, l’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria dispone:
 
 a) la raccolta delle ossa e delle ceneri e la loro collocazione rispettivamente in ossario comune o in cinerario comune, fatto salvo quanto disposto dall’articolo 4, comma 9;
 
@@ -1564,21 +1520,13 @@ c) se prevista la inumazione dal contratto di concessione:
 
 L’inumazione è consentita unicamente in fosse di specifici campi per la reinumazione, con durata di sepoltura di 5 anni, riducibili a 2 anni con l’addizione di sostanze biodegradanti.
 
-8.
+8\. È facoltà del concessionario o dell’avente titolo subentrato nella concessione alla morte del primo concessionario, rinunciare alla concessione di sepoltura, purché provveda a renderla libera da feretri, contenitori di salme non mineralizzate, cassette di ossa o urne cinerarie. In tal caso è dovuto un indennizzo proporzionale al tempo di residua concessione e alla tariffa vigente al momento della domanda, secondo criteri stabiliti con delibera del Congresso di Stato.
 
-È facoltà del concessionario o dell’avente titolo subentrato nella concessione alla morte del primo concessionario, rinunciare alla concessione di sepoltura, purché provveda a renderla libera da feretri, contenitori di salme non mineralizzate, cassette di ossa o urne cinerarie. In tal caso è dovuto un indennizzo proporzionale al tempo di residua concessione e alla tariffa vigente al momento della domanda, secondo criteri stabiliti con delibera del Congresso di Stato.
+9\. La concessione del loculo rilasciata in deroga a fini di ricongiungimento familiare ai sensi dell’articolo 3 comma 2 decade qualora, dopo il decesso, la sepoltura del coniuge o, ricorrendone il caso, del convivente more uxorio, avvenga in altro cimitero della Repubblica o fuori territorio.
 
-9.
+10\. Ogni loculo o altra sepoltura la cui concessione si estingua al termine naturale, o che sia rinunciata dal concessionario o di cui sia stata pronunciata revoca o decadenza, ritorna nella piena disponibilità della Ecc.ma Camera e l’Ufficiale di Stato Civile Dirigente la Polizia Mortuaria può procedere a nuova concessione, dopo aver adottato tutti i provvedimenti atti a rendere disponibile il loculo o la sepoltura.
 
-La concessione del loculo rilasciata in deroga a fini di ricongiungimento familiare ai sensi dell’articolo 3 comma 2 decade qualora, dopo il decesso, la sepoltura del coniuge o, ricorrendone il caso, del convivente more uxorio, avvenga in altro cimitero della Repubblica o fuori territorio.
-
-10.
-
-Ogni loculo o altra sepoltura la cui concessione si estingua al termine naturale, o che sia rinunciata dal concessionario o di cui sia stata pronunciata revoca o decadenza, ritorna nella piena disponibilità della Ecc.ma Camera e l’Ufficiale di Stato Civile Dirigente la Polizia Mortuaria può procedere a nuova concessione, dopo aver adottato tutti i provvedimenti atti a rendere disponibile il loculo o la sepoltura.
-
-11.
-
-La decadenza della concessione sussiste ed è dichiarata nei seguenti casi:
+11\. La decadenza della concessione sussiste ed è dichiarata nei seguenti casi:
 
 a) quando la sepoltura individuale non sia stata occupata da salma, salma non mineralizzata, ceneri od ossa per le quali era stata richiesta, entro 30 giorni dal decesso, esumazione, estumulazione, cremazione, nonché nel caso di cui al comma 9;
 
@@ -1588,49 +1536,31 @@ c) quando non si siano osservati gli obblighi relativi alla manutenzione della s
 
 d) quando vi sia grave inadempienza ad ogni altro obbligo previsto nell’atto di concessione.
 
-12.
+12\. La pronuncia della decadenza della concessione è dichiarata d'ufficio nei casi di cui alle lettere a) e b) del comma precedente e previa diffida al concessionario o all'avente titolo, in quanto reperibile, per i casi di cui alle lettere c) ed d) del medesimo comma. In casi di irreperibilità la diffida viene pubblicata all’albo del Palazzo Pubblico per la durata di 30 giorni consecutivi. Si ha irreperibilità quando, tenuto conto degli atti dell'Ufficio di Stato Civile, il concessionario o l’avente titolo non risultino rintracciabili.
 
-La pronuncia della decadenza della concessione è dichiarata d'ufficio nei casi di cui alle lettere a) e b) del comma precedente e previa diffida al concessionario o all'avente titolo, in quanto reperibile, per i casi di cui alle lettere c) ed d) del medesimo comma. In casi di irreperibilità la diffida viene pubblicata all’albo del Palazzo Pubblico per la durata di 30 giorni consecutivi. Si ha irreperibilità quando, tenuto conto degli atti dell'Ufficio di Stato Civile, il concessionario o l’avente titolo non risultino rintracciabili.
-
-13.
-
-La decadenza ha effetto dal momento in cui è emanato il provvedimento che la dichiara. Pronunciata la decadenza della concessione si dispone, ove ricorra la circostanza, la inumazione del feretro o del contenitore di salma non mineralizzata, lo sversamento delle ceneri in cinerario comune, la collocazione delle ossa in ossario comune, con oneri integralmente a carico dei concessionari o degli altri aventi titolo, fatto salvo quanto previsto dall’articolo 4, comma 9.
+13\. La decadenza ha effetto dal momento in cui è emanato il provvedimento che la dichiara. Pronunciata la decadenza della concessione si dispone, ove ricorra la circostanza, la inumazione del feretro o del contenitore di salma non mineralizzata, lo sversamento delle ceneri in cinerario comune, la collocazione delle ossa in ossario comune, con oneri integralmente a carico dei concessionari o degli altri aventi titolo, fatto salvo quanto previsto dall’articolo 4, comma 9.
 
 ##### Art. 4
 
 (Esumazioni ed estumulazioni)
 
-1.
+1\. Le estumulazioni di feretri si suddividono in ordinarie e straordinarie. Quelle straordinarie si effettuano su disposizione dell’Autorità Giudiziaria o sulla base di richiesta di avente titolo per far posto a nuova sepoltura, o consentire il trasferimento delle spoglie mortali in altra sepoltura dentro o fuori i cimiteri della Repubblica o ancora per dar luogo a cremazione.
 
-Le estumulazioni di feretri si suddividono in ordinarie e straordinarie. Quelle straordinarie si effettuano su disposizione dell’Autorità Giudiziaria o sulla base di richiesta di avente titolo per far posto a nuova sepoltura, o consentire il trasferimento delle spoglie mortali in altra sepoltura dentro o fuori i cimiteri della Repubblica o ancora per dar luogo a cremazione.
-
-2.
-
-Entro il mese di settembre di ogni anno l’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria cura la stesura dell’elenco delle concessioni temporanee che scadono nell’anno successivo. Tale elenco è esposto all’albo del cimitero interessato per un anno.
+2\. Entro il mese di settembre di ogni anno l’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria cura la stesura dell’elenco delle concessioni temporanee che scadono nell’anno successivo. Tale elenco è esposto all’albo del cimitero interessato per un anno.
 
 Se non intervengono disposizioni da parte degli aventi titolo si procede nei modi stabiliti dall’articolo 3, comma 7.
 
-3.
-
-Le estumulazioni ordinarie si possono effettuare in ogni tempo dell’anno e i feretri vengono estumulati secondo la programmazione del servizio cimiteriale, tenuto conto delle richieste.
+3\. Le estumulazioni ordinarie si possono effettuare in ogni tempo dell’anno e i feretri vengono estumulati secondo la programmazione del servizio cimiteriale, tenuto conto delle richieste.
 
 4\. Le estumulazioni straordinarie richieste dai familiari sono subordinate all’autorizzazione del Dirigente la Polizia Mortuaria, previo nulla osta del Dirigente del Dipartimento di Sanità Pubblica e del Dirigente dell’Unità Organizzativa Complessa – Medicina Generale.
 
-5.
+5\. Le estumulazioni straordinarie possono eseguirsi in ogni tempo dell’anno.
 
-Le estumulazioni straordinarie possono eseguirsi in ogni tempo dell’anno.
+6\. Le ossa risultanti da una estumulazione possono essere raccolte in cassette di zinco o altro materiale consentito di adeguata durabilità, e quindi essere tumulate negli ossari, nei loculi o altre sepolture. Se richiesto dagli aventi titolo possono anche essere cremate e collocate in urna cineraria.
 
-6.
+7\. Le salme non mineralizzate destinate a tumulazione devono essere riposte così come previsto dall’allegato 5.
 
-Le ossa risultanti da una estumulazione possono essere raccolte in cassette di zinco o altro materiale consentito di adeguata durabilità, e quindi essere tumulate negli ossari, nei loculi o altre sepolture. Se richiesto dagli aventi titolo possono anche essere cremate e collocate in urna cineraria.
-
-7.
-
-Le salme non mineralizzate destinate a tumulazione devono essere riposte così come previsto dall’allegato 5.
-
-8.
-
-Le salme non mineralizzate provenienti da esumazione possono:
+8\. Le salme non mineralizzate provenienti da esumazione possono:
 
 a) essere inumate, tumulate, cremate, secondo quanto richiesto all'Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria prima della esumazione sulla base della volontà espressa dal defunto o dall'avente titolo;
 
@@ -1638,25 +1568,17 @@ b) in assenza di richiesta di un avente titolo all'Ufficiale di Stato Civile - D
 
 almeno due anni di permanenza in deposito per consentire ad eventuali aventi diritto di disporne la tumulazione in idonea sepoltura, previo pagamento degli oneri corrispondenti.
 
-9.
+9\. Le ossa non richieste, rinvenute in occasione di esumazione o estumulazione ordinarie, sono collocate in cassetta di ossa e tali cassette restano collocate a deposito in cimitero, per non meno di due anni, per consentire ad eventuali aventi diritto di disporne la tumulazione in idonea sepoltura, previo pagamento degli oneri corrispondenti. Decorsi i due anni i Servizi cimiteriali provvedono a deporre le ossa in ossario comune.
 
-Le ossa non richieste, rinvenute in occasione di esumazione o estumulazione ordinarie, sono collocate in cassetta di ossa e tali cassette restano collocate a deposito in cimitero, per non meno di due anni, per consentire ad eventuali aventi diritto di disporne la tumulazione in idonea sepoltura, previo pagamento degli oneri corrispondenti. Decorsi i due anni i Servizi cimiteriali provvedono a deporre le ossa in ossario comune.
+10\. La traslazione di spoglie mortali da un cimitero ad un altro della Repubblica è consentita unicamente se nel nuovo cimitero l’avente titolo ha già disponibilità di sepoltura.
 
-10.
-
-La traslazione di spoglie mortali da un cimitero ad un altro della Repubblica è consentita unicamente se nel nuovo cimitero l’avente titolo ha già disponibilità di sepoltura.
-
-11.
-
-Per le esumazioni e le estumulazioni si seguono le prescrizioni stabilite dal Dirigente del Dipartimento di Sanità Pubblica, sentito il Dirigente dell’Unità Organizzativa Complessa-Medicina Generale.
+11\. Per le esumazioni e le estumulazioni si seguono le prescrizioni stabilite dal Dirigente del Dipartimento di Sanità Pubblica, sentito il Dirigente dell’Unità Organizzativa Complessa-Medicina Generale.
 
 ##### Art. 5
 
 (Cremazione)
 
-1.
-
-La cremazione della salma è consentita soltanto quando risulti chiara la volontà di ricorrere a tale pratica, espressa dal defunto o dai suoi familiari, così come risultano dagli atti dell’Ufficio di Stato Civile o da atto sostitutivo di atto notorio. Tale volontà deve risultare attraverso una delle seguenti modalità:
+1\. La cremazione della salma è consentita soltanto quando risulti chiara la volontà di ricorrere a tale pratica, espressa dal defunto o dai suoi familiari, così come risultano dagli atti dell’Ufficio di Stato Civile o da atto sostitutivo di atto notorio. Tale volontà deve risultare attraverso una delle seguenti modalità:
 
 a) disposizione testamentaria del defunto;
 
@@ -1668,45 +1590,29 @@ d) volontà del coniuge, o in difetto, del parente più prossimo e in caso di co
 
 e) volontà manifestata dai legali rappresentanti per i minori e per le persone interdette.
 
-2.
+2\. Le manifestazioni di volontà di cui alle lettere a), b) e c), non saranno efficaci qualora venga presentata una dichiarazione autografa del defunto contraria alla cremazione che riporti data successiva a quella delle disposizioni stesse.
 
-Le manifestazioni di volontà di cui alle lettere a), b) e c), non saranno efficaci qualora venga presentata una dichiarazione autografa del defunto contraria alla cremazione che riporti data successiva a quella delle disposizioni stesse.
+3\. Se non vi è coniuge, figlio o genitore in vita, presentandosi il caso, la volontà di cui al comma 1 è possibile sia espressa dal convivente more uxorio.
 
-3.
-
-Se non vi è coniuge, figlio o genitore in vita, presentandosi il caso, la volontà di cui al comma 1 è possibile sia espressa dal convivente more uxorio.
-
-4.
-
-Nel caso di salme non riconosciute o reclamate l’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria può autorizzare la cremazione a cura e spese dello Stato, previo nulla osta del Commissario della Legge.
+4\. Nel caso di salme non riconosciute o reclamate l’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria può autorizzare la cremazione a cura e spese dello Stato, previo nulla osta del Commissario della Legge.
 
 ##### Art. 6
 
 (Richiesta di cremazione e autorizzazione)
 
-1.
-
-Fatto salvo il caso di cui al successivo articolo 7, la richiesta di cremazione dovrà essere presentata per iscritto da un familiare del defunto, da persona da lui
+1\. Fatto salvo il caso di cui al successivo articolo 7, la richiesta di cremazione dovrà essere presentata per iscritto da un familiare del defunto, da persona da lui
 
 espressamente delegata, contestualmente alla denuncia di morte, all’ Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria. La richiesta di cremazione contiene anche l’indicazione della destinazione delle ceneri e dell’eventuale persona affidataria.
 
-2.
+2\. L’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria concede l’autorizzazione se la richiesta è corredata da certificato in carta libera redatto dal medico curante o dal medico necroscopo, dal quale risulti escluso il sospetto di morte dovuta a reato. In caso contrario l’ Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria provvede all’inoltro della richiesta al Commissario della Legge. Dopo aver escluso il sospetto di morte per causa criminosa, il Commissario della Legge, verificata l’assenza di altri impedimenti e sentiti se del caso i familiari, rilascia il nulla osta alla cremazione, trasmettendolo all’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria.
 
-L’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria concede l’autorizzazione se la richiesta è corredata da certificato in carta libera redatto dal medico curante o dal medico necroscopo, dal quale risulti escluso il sospetto di morte dovuta a reato. In caso contrario l’ Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria provvede all’inoltro della richiesta al Commissario della Legge. Dopo aver escluso il sospetto di morte per causa criminosa, il Commissario della Legge, verificata l’assenza di altri impedimenti e sentiti se del caso i familiari, rilascia il nulla osta alla cremazione, trasmettendolo all’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria.
+3\. L’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria contestualmente al rilascio dell’autorizzazione alla cremazione, prende atto della destinazione delle ceneri e dell’eventuale persona affidataria e autorizza la dispersione delle ceneri, qualora richiesta, sulla base delle disposizioni vigenti.
 
-3.
-
-L’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria contestualmente al rilascio dell’autorizzazione alla cremazione, prende atto della destinazione delle ceneri e dell’eventuale persona affidataria e autorizza la dispersione delle ceneri, qualora richiesta, sulla base delle disposizioni vigenti.
-
-4.
-
-Le dichiarazioni rese dai familiari comportano la loro responsabilità in ordine a quanto dichiarato. Se prima della cremazione, della dispersione o affidamento delle ceneri l’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria fosse portato a conoscenza da familiare o altra persona informata dei fatti di una dichiarazione mendace o non pienamente corrispondente alla verità, egli è tenuto a sospendere l’efficacia degli atti autorizzatori e a darne comunicazione al Commissario della Legge che si pronuncerà in merito e darà o meno il proprio nulla osta alla prosecuzione della pratica funebre originariamente richiesta.
+4\. Le dichiarazioni rese dai familiari comportano la loro responsabilità in ordine a quanto dichiarato. Se prima della cremazione, della dispersione o affidamento delle ceneri l’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria fosse portato a conoscenza da familiare o altra persona informata dei fatti di una dichiarazione mendace o non pienamente corrispondente alla verità, egli è tenuto a sospendere l’efficacia degli atti autorizzatori e a darne comunicazione al Commissario della Legge che si pronuncerà in merito e darà o meno il proprio nulla osta alla prosecuzione della pratica funebre originariamente richiesta.
 
 Art. 7 36 (Dichiarazione in vita)
 
-1.
-
-Presso l’Ufficio di Stato Civile possono essere raccolte le dichiarazioni rese in vita da coloro che desiderano ricorrere alla cremazione e indicare la destinazione delle proprie ceneri: l’Ufficiale di Stato Civile è tenuto a raccogliere le dichiarazioni in vita di coloro che rientrano nella previsione dell’articolo 2, comma 4, della Legge n.105/1988.
+1\. Presso l’Ufficio di Stato Civile possono essere raccolte le dichiarazioni rese in vita da coloro che desiderano ricorrere alla cremazione e indicare la destinazione delle proprie ceneri: l’Ufficiale di Stato Civile è tenuto a raccogliere le dichiarazioni in vita di coloro che rientrano nella previsione dell’articolo 2, comma 4, della Legge n.105/1988.
 
 36
 
@@ -1716,9 +1622,7 @@ Testo originario (Legge 4 febbaio 2010 n. 35), Art. 7 commi 1 e 3:
 
 Presso l’Ufficio di Stato Civile possono essere raccolte le dichiarazioni rese in vita da coloro che desiderano ricorrere alla cremazione e indicare la destinazione delle proprie ceneri.”
 
-3.
-
-Alla morte del dichiarante, l’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria provvederà agli adempimenti necessari al rilascio dell’autorizzazione, come disposto dai commi 2 e 3 dell’articolo 6 della presente legge.”
+3\. Alla morte del dichiarante, l’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria provvederà agli adempimenti necessari al rilascio dell’autorizzazione, come disposto dai commi 2 e 3 dell’articolo 6 della presente legge.”
 
 Modifiche legislative:
 
@@ -1732,33 +1636,21 @@ I commi 1 e 3 dell’articolo 7 della Legge n.35/2010 sono modificati come segue
 
 3\. L’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria – ricevuto l’atto o il certificato di morte di colui che in vita ha reso la dichiarazione, comunica a uno dei familiari più prossimi del defunto, risultante dagli atti dell’Ufficio, la volontà di cremazione espressa dal de cuius, affinché il familiare provveda agli adempimenti necessari al rilascio dell’autorizzazione alla cremazione come disposto dai commi 2 e 3 dell’articolo 6. Nel caso il familiare non provveda agli adempimenti entro un congruo termine, l’Ufficiale autorizza la tumulazione provvisoria della salma rimettendo al Commissario della Legge la decisione in merito.”
 
-2.
+2\. Le dichiarazioni di cui sopra verranno conservate in apposito registro e potranno essere in ogni momento revocate dal dichiarante.
 
-Le dichiarazioni di cui sopra verranno conservate in apposito registro e potranno essere in ogni momento revocate dal dichiarante.
+3\. L’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria – ricevuto l’atto o il certificato di morte di colui che in vita ha reso la dichiarazione, comunica a uno dei familiari più prossimi del defunto, risultante dagli atti dell’Ufficio, la volontà di cremazione espressa dal de cuius, affinché il familiare provveda agli adempimenti necessari al rilascio dell’autorizzazione alla cremazione come disposto dai commi 2 e 3 dell’articolo 6. Nel caso il familiare non provveda agli adempimenti entro un congruo termine, l’Ufficiale autorizza la tumulazione provvisoria della salma rimettendo al Commissario della Legge la decisione in merito.
 
-3.
-
-L’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria – ricevuto l’atto o il certificato di morte di colui che in vita ha reso la dichiarazione, comunica a uno dei familiari più prossimi del defunto, risultante dagli atti dell’Ufficio, la volontà di cremazione espressa dal de cuius, affinché il familiare provveda agli adempimenti necessari al rilascio dell’autorizzazione alla cremazione come disposto dai commi 2 e 3 dell’articolo 6. Nel caso il familiare non provveda agli adempimenti entro un congruo termine, l’Ufficiale autorizza la tumulazione provvisoria della salma rimettendo al Commissario della Legge la decisione in merito.
-
-4.
-
-Qualora la dichiarazione sia contenuta in una disposizione testamentaria e questa venga rinvenuta successivamente alla sepoltura della salma, i familiari del defunto dovranno richiedere l’autorizzazione dell'Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria secondo la presente legge, affinché sia autorizzata la estumulazione o esumazione straordinaria per consentire la cremazione.
+4\. Qualora la dichiarazione sia contenuta in una disposizione testamentaria e questa venga rinvenuta successivamente alla sepoltura della salma, i familiari del defunto dovranno richiedere l’autorizzazione dell'Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria secondo la presente legge, affinché sia autorizzata la estumulazione o esumazione straordinaria per consentire la cremazione.
 
 ##### Art. 8
 
 (Destinazione delle ceneri)
 
-1.
+1\. Le ceneri derivanti dalla cremazione vengono raccolte in apposita urna cineraria recante all’esterno il nome, il cognome, la data di nascita e di morte del defunto.
 
-Le ceneri derivanti dalla cremazione vengono raccolte in apposita urna cineraria recante all’esterno il nome, il cognome, la data di nascita e di morte del defunto.
+2\. Salvo il caso di dispersione delle ceneri o il caso di trasporto dell’urna fuori del territorio della Repubblica, l’urna cineraria deve essere tumulata o inumata nei cimiteri della Repubblica o nei cimiteri fuori della Repubblica o, qualora il defunto o i suoi familiari esprimano diversa volontà, conservata o inumata in luoghi privati o le ceneri disperse. La dispersione o l’affido familiare delle ceneri sono consentiti nel caso di volontà del defunto espressa in forma scritta o con la dichiarazione in vita di cui all'articolo 7. Sono altresì consentiti la dispersione o l’affido per volere di tutti i familiari aventi titolo, espresso in forma scritta all'Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria, all'atto della richiesta di cremazione; in caso di disaccordo valgono le stesse disposizioni previste dal comma 1 lettera d) dell’articolo 5.
 
-2.
-
-Salvo il caso di dispersione delle ceneri o il caso di trasporto dell’urna fuori del territorio della Repubblica, l’urna cineraria deve essere tumulata o inumata nei cimiteri della Repubblica o nei cimiteri fuori della Repubblica o, qualora il defunto o i suoi familiari esprimano diversa volontà, conservata o inumata in luoghi privati o le ceneri disperse. La dispersione o l’affido familiare delle ceneri sono consentiti nel caso di volontà del defunto espressa in forma scritta o con la dichiarazione in vita di cui all'articolo 7. Sono altresì consentiti la dispersione o l’affido per volere di tutti i familiari aventi titolo, espresso in forma scritta all'Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria, all'atto della richiesta di cremazione; in caso di disaccordo valgono le stesse disposizioni previste dal comma 1 lettera d) dell’articolo 5.
-
-3.
-
-La dispersione delle ceneri in natura all’aperto, è libera ed è consentita nel rispetto delle seguenti condizioni:
+3\. La dispersione delle ceneri in natura all’aperto, è libera ed è consentita nel rispetto delle seguenti condizioni:
 
 a) in aree all’aperto, a distanza di oltre 200 metri da centri e da insediamenti abitativi;
 
@@ -1770,105 +1662,69 @@ La dispersione delle ceneri all’interno di aree private aperte è consentita s
 
 La dispersione delle ceneri è in ogni caso vietata nei centri abitati.
 
-4.
+4\. L’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria prende atto della destinazione delle ceneri che dovrà essere dichiarata contestualmente alla richiesta di cremazione, ne autorizza il trasporto e, in relazione alla richiesta degli aventi titolo, autorizza a seconda dei casi la inumazione, la tumulazione o la conservazione dell’urna, ovvero la dispersione delle ceneri.
 
-L’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria prende atto della destinazione delle ceneri che dovrà essere dichiarata contestualmente alla richiesta di cremazione, ne autorizza il trasporto e, in relazione alla richiesta degli aventi titolo, autorizza a seconda dei casi la inumazione, la tumulazione o la conservazione dell’urna, ovvero la dispersione delle ceneri.
-
-5.
-
-La dispersione delle ceneri in un cimitero può essere effettuata all’interno del giardino delle rimembranze, area specificatamente dedicata a tale pratica funebre in forma duratura, in almeno un cimitero della Repubblica. La sepoltura di urne cinerarie in campi comuni è possibile, per una durata decennale, non rinnovabile, in piena terra.
+5\. La dispersione delle ceneri in un cimitero può essere effettuata all’interno del giardino delle rimembranze, area specificatamente dedicata a tale pratica funebre in forma duratura, in almeno un cimitero della Repubblica. La sepoltura di urne cinerarie in campi comuni è possibile, per una durata decennale, non rinnovabile, in piena terra.
 
 In quest’ultimo caso è obbligo l’uso di urne di materiali non deperibili in tale arco di
 
 tempo. Al momento della esumazione l’avente titolo disporrà per la futura collocazione dell’urna cineraria o per la dispersione delle ceneri in cinerario comune.
 
-6.
-
-Chi è autorizzato alla dispersione delle ceneri attesta sotto la sua responsabilità il luogo e la data dell’avvenuta dispersione, consegnando apposito verbale all’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria che ha rilasciato l’autorizzazione, entro 30 giorni dalla data dell’autorizzazione stessa.
+6\. Chi è autorizzato alla dispersione delle ceneri attesta sotto la sua responsabilità il luogo e la data dell’avvenuta dispersione, consegnando apposito verbale all’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria che ha rilasciato l’autorizzazione, entro 30 giorni dalla data dell’autorizzazione stessa.
 
 ##### Art. 9
 
 (Affidamento delle ceneri)
 
-1.
+1\. Qualora la volontà del defunto o dei suoi familiari sia quella di conservare le ceneri presso luogo privato, l’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria riporta nell’autorizzazione alla cremazione l’indicazione del luogo in cui le ceneri verranno conservate e la persona cui verranno affidate.
 
-Qualora la volontà del defunto o dei suoi familiari sia quella di conservare le ceneri presso luogo privato, l’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria riporta nell’autorizzazione alla cremazione l’indicazione del luogo in cui le ceneri verranno conservate e la persona cui verranno affidate.
+2\. Nel caso in cui la persona affidataria sia defunta, assente o non accetti di conservare le ceneri, l’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria procederà alla conservazione dell’urna cineraria nei cimiteri della Repubblica.
 
-2.
+3\. Ogni variazione del luogo di custodia o della persona affidataria delle ceneri, dovrà essere comunicata all’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria da parte dell’affidatario.
 
-Nel caso in cui la persona affidataria sia defunta, assente o non accetti di conservare le ceneri, l’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria procederà alla conservazione dell’urna cineraria nei cimiteri della Repubblica.
+4\. È consentito l’affidamento familiare anche al convivente more uxorio di un’urna cineraria, purché in attuazione della volontà espressa dal defunto. In tal caso, qualora necessario, potranno essere impartite all’affidatario specifiche disposizioni da parte dell'Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria.
 
-3.
+5\. La figura dell’affidatario è altresì richiesta qualora la volontà del defunto o dei suoi familiari sia quella di procedere alla dispersione delle ceneri in natura: in tal caso l’affidatario procederà alla dispersione nel luogo autorizzato dall’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria.
 
-Ogni variazione del luogo di custodia o della persona affidataria delle ceneri, dovrà essere comunicata all’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria da parte dell’affidatario.
-
-4.
-
-È consentito l’affidamento familiare anche al convivente more uxorio di un’urna cineraria, purché in attuazione della volontà espressa dal defunto. In tal caso, qualora necessario, potranno essere impartite all’affidatario specifiche disposizioni da parte dell'Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria.
-
-5.
-
-La figura dell’affidatario è altresì richiesta qualora la volontà del defunto o dei suoi familiari sia quella di procedere alla dispersione delle ceneri in natura: in tal caso l’affidatario procederà alla dispersione nel luogo autorizzato dall’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria.
-
-6.
-
-Qualora la destinazione delle ceneri sia la dispersione e l’affidatario non sia stato individuato, sia defunto, assente o non accetti, la dispersione delle ceneri è eseguita dal coniuge o da altro familiare avente diritto o, in mancanza, dal personale autorizzato dall’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria.
+6\. Qualora la destinazione delle ceneri sia la dispersione e l’affidatario non sia stato individuato, sia defunto, assente o non accetti, la dispersione delle ceneri è eseguita dal coniuge o da altro familiare avente diritto o, in mancanza, dal personale autorizzato dall’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria.
 
 ##### Art. 10
 
 (Trasporto di urne cinerarie)
 
-1.
-
-Il trasporto dell’urna cineraria è autorizzato dall’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria e non è soggetto alle misure igieniche precauzionali previste per il trasporto delle salme.
+1\. Il trasporto dell’urna cineraria è autorizzato dall’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria e non è soggetto alle misure igieniche precauzionali previste per il trasporto delle salme.
 
 ##### Art. 11
 
 (Cinerari comuni)
 
-1.
+1\. I cimiteri della Repubblica dovranno essere dotati di un cinerario comune destinato alla raccolta e alla conservazione collettiva e perpetua delle ceneri, per consentire tale forma di dispersione quando richiesta, o non sia stata indicata la destinazione.
 
-I cimiteri della Repubblica dovranno essere dotati di un cinerario comune destinato alla raccolta e alla conservazione collettiva e perpetua delle ceneri, per consentire tale forma di dispersione quando richiesta, o non sia stata indicata la destinazione.
-
-2.
-
-L’ossario comune può fungere anche da cinerario comune per la dispersione delle ceneri, in attesa della costruzione di quest’ultimo.
+2\. L’ossario comune può fungere anche da cinerario comune per la dispersione delle ceneri, in attesa della costruzione di quest’ultimo.
 
 ##### Art. 12
 
 (Rimborsi)
 
-1.
+1\. Fino alla costruzione di un impianto di cremazione in Repubblica o alla stipula di apposite convenzioni con uno o più Enti di cremazione, selezionati secondo criteri di vicinanza ed economicità, viene riconosciuto un rimborso per le spese di cremazione pari a € 1.000,00, se l’autorizzazione alla cremazione è rilasciata dall’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria. 37
 
-Fino alla costruzione di un impianto di cremazione in Repubblica o alla stipula di apposite convenzioni con uno o più Enti di cremazione, selezionati secondo criteri di vicinanza ed economicità, viene riconosciuto un rimborso per le spese di cremazione pari a € 1.000,00, se l’autorizzazione alla cremazione è rilasciata dall’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria. 37
-
-2.
-
-Il rimborso è dovuto al familiare dell’avente diritto alla sepoltura in Repubblica ai sensi dell’art. 32 della Legge 15 marzo 1910 – Regolamento di Polizia Mortuaria, che ha sostenuto le spese di cremazione. L’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria provvede al rimborso dietro presentazione della documentazione attestante l’avvenuta cremazione.
+2\. Il rimborso è dovuto al familiare dell’avente diritto alla sepoltura in Repubblica ai sensi dell’art. 32 della Legge 15 marzo 1910 – Regolamento di Polizia Mortuaria, che ha sostenuto le spese di cremazione. L’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria provvede al rimborso dietro presentazione della documentazione attestante l’avvenuta cremazione.
 
 ##### Art. 13
 
 (Libertà di culto)
 
-1.
+1\. Nei cimiteri della Repubblica, compatibilmente con le loro caratteristiche dimensionali ed architettoniche, possono essere previste aree destinate alla sepoltura per professanti un culto diverso da quello cattolico. In tali aree la sepoltura può essere effettuata in conformità alle prescrizioni della religione professata in vita dal defunto, senza pregiudizio per l’ordine pubblico, la sicurezza e la salute delle persone.
 
-Nei cimiteri della Repubblica, compatibilmente con le loro caratteristiche dimensionali ed architettoniche, possono essere previste aree destinate alla sepoltura per professanti un culto diverso da quello cattolico. In tali aree la sepoltura può essere effettuata in conformità alle prescrizioni della religione professata in vita dal defunto, senza pregiudizio per l’ordine pubblico, la sicurezza e la salute delle persone.
+2\. Il nulla osta alla sepoltura con modalità diverse da quelle previste nella Legge 15 marzo 1910 – Regolamento di Polizia Mortuaria, nella presente legge e successive modifiche, è rilasciato dal Commissario della Legge.
 
-2.
-
-Il nulla osta alla sepoltura con modalità diverse da quelle previste nella Legge 15 marzo 1910 – Regolamento di Polizia Mortuaria, nella presente legge e successive modifiche, è rilasciato dal Commissario della Legge.
-
-3.
-
-La individuazione e la delimitazione delle aree di cui al primo comma, viene deliberata dal Congresso di Stato.
+3\. La individuazione e la delimitazione delle aree di cui al primo comma, viene deliberata dal Congresso di Stato.
 
 ##### Art. 14
 
 (Modifiche dell’art. 263 del Codice Penale - Legge 25 febbraio 1974, n. 17)
 
-1.
-
-All’articolo 263 del Codice Penale sono aggiunti i seguenti commi:
+1\. All’articolo 263 del Codice Penale sono aggiunti i seguenti commi:
 
 “Non costituisce reato la dispersione delle ceneri di cadavere autorizzata dall’Ufficiale di Stato Civile, sulla base di espressa volontà del defunto o dei familiari aventi titolo.
 
@@ -1878,9 +1734,7 @@ La dispersione delle ceneri non autorizzata dall’Ufficiale di Stato Civile o e
 
 (Copertura finanziaria)
 
-1.
-
-Gli oneri derivanti dalla presente legge sono imputati sul Capitolo 1.1.1767 “Oneri per cremazione”.
+1\. Gli oneri derivanti dalla presente legge sono imputati sul Capitolo 1.1.1767 “Oneri per cremazione”.
 
 ##### Art. 16
 
@@ -1890,49 +1744,31 @@ Gli oneri derivanti dalla presente legge sono imputati sul Capitolo 1.1.1767 “
 
 Si veda Legge 23 dicembre 2020 n.223 Art. 77 comma 5 “Il rimborso per le spese di cremazione di cui all’articolo 12, comma 1 della Legge 4 febbraio 2010 n.35 è disposto nella misura di euro 500,00 a partire dalle istanze depositate dal 1° febbraio 2021.”
 
-1.
+1\. I trasporti di feretro interamente svolgentisi all’interno del territorio della Repubblica necessitano di preventiva autorizzazione alla sepoltura dell’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria.
 
-I trasporti di feretro interamente svolgentisi all’interno del territorio della Repubblica necessitano di preventiva autorizzazione alla sepoltura dell’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria.
+2\. Per il trasporto funebre all’interno del territorio della Repubblica di persone decedute in abitazione, morte in situazioni per le quali è necessario il trasferimento alla morgue, o decedute in luogo pubblico o sulla pubblica via l’autorizzazione al trasporto è resa dal medico intervenuto, che dichiara che questo possa essere svolto senza pregiudizio della pubblica salute e, laddove sia intervenuta l’Autorità di polizia o quella Giudiziaria, previa disposizione di queste ultime.
 
-2.
+3\. Il trasporto di salma deve avvenire con l’utilizzo di autofunebre. Il trasporto di altre spoglie mortali deve avvenire, a cura degli interessati, in forma decorosa, con mezzi di loro scelta e con l’uso di contenitori adeguati alla necessità e rispondenti alle caratteristiche previste dalla presente legge.
 
-Per il trasporto funebre all’interno del territorio della Repubblica di persone decedute in abitazione, morte in situazioni per le quali è necessario il trasferimento alla morgue, o decedute in luogo pubblico o sulla pubblica via l’autorizzazione al trasporto è resa dal medico intervenuto, che dichiara che questo possa essere svolto senza pregiudizio della pubblica salute e, laddove sia intervenuta l’Autorità di polizia o quella Giudiziaria, previa disposizione di queste ultime.
+4\. Per il trasporto internazionale di spoglie mortali, intendendosi per tale quello diretto fuori del territorio della Repubblica o in arrivo in esso, valgono le norme in materia previste da Convenzioni o Accordi internazionali a cui abbia aderito la Repubblica di San Marino.
 
-3.
+5\. In assenza di adesione a Convenzioni o Accordi di cui al comma precedente si applicano le norme dello Stato di partenza e di arrivo.
 
-Il trasporto di salma deve avvenire con l’utilizzo di autofunebre. Il trasporto di altre spoglie mortali deve avvenire, a cura degli interessati, in forma decorosa, con mezzi di loro scelta e con l’uso di contenitori adeguati alla necessità e rispondenti alle caratteristiche previste dalla presente legge.
-
-4.
-
-Per il trasporto internazionale di spoglie mortali, intendendosi per tale quello diretto fuori del territorio della Repubblica o in arrivo in esso, valgono le norme in materia previste da Convenzioni o Accordi internazionali a cui abbia aderito la Repubblica di San Marino.
-
-5.
-
-In assenza di adesione a Convenzioni o Accordi di cui al comma precedente si applicano le norme dello Stato di partenza e di arrivo.
-
-6.
-
-Le autorizzazioni di competenza dell’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria di cui ai commi che precedono, vengono rilasciate previa acquisizione di nulla osta da parte dei competenti Servizi Sanitari.
+6\. Le autorizzazioni di competenza dell’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria di cui ai commi che precedono, vengono rilasciate previa acquisizione di nulla osta da parte dei competenti Servizi Sanitari.
 
 ##### Art. 17
 
 (Modifiche, adeguamenti ed abrogazioni)
 
-1.
-
-Con successivo decreto delegato:
+1\. Con successivo decreto delegato:
 
 a) è aggiornato il “Regolamento di Polizia Mortuaria 15 marzo 1910” alle evoluzioni intervenute nella società e nella organizzazione dei servizi;
 
 b) è adottato il piano dei cimiteri della Repubblica.
 
-2.
+2\. Con decreto delegato è possibile modificare i contenuti degli allegati 1,2,3,4 e 5 alla presente legge, per adeguarli alle necessarie evoluzioni tecniche e gestionali.
 
-Con decreto delegato è possibile modificare i contenuti degli allegati 1,2,3,4 e 5 alla presente legge, per adeguarli alle necessarie evoluzioni tecniche e gestionali.
-
-3.
-
-Sono abrogate le seguenti norme del “Regolamento di Polizia Mortuaria 15 marzo 1910”, nonché quelle che in ogni caso sono in contrasto, a decorrere da date compatibili con quelle di cui all’articolo 19:
+3\. Sono abrogate le seguenti norme del “Regolamento di Polizia Mortuaria 15 marzo 1910”, nonché quelle che in ogni caso sono in contrasto, a decorrere da date compatibili con quelle di cui all’articolo 19:
 
 a) Art. 3 comma 2 lettera a), Art. 80 e ogni riferimento concernente le funzioni prima attribuite ai Parroci;
 
@@ -1950,43 +1786,27 @@ f) Artt. 111, 112, 113, 114, 115.
 
 (Disposizioni finali e transitorie)
 
-1.
-
-Le concessioni in uso di loculi cimiteriali stipulate anteriormente all’entrata in vigore della presente legge, decadranno secondo quanto stabilito da apposito decreto
+1\. Le concessioni in uso di loculi cimiteriali stipulate anteriormente all’entrata in vigore della presente legge, decadranno secondo quanto stabilito da apposito decreto
 
 delegato, emanato previa ricognizione generale delle concessioni in essere ad opera dell’Ufficio di Stato Civile.
 
-2.
+2\. Il decreto disciplinerà la decadenza delle concessioni in uso secondo il principio di gradualità e in base ai criteri di cui alla presente legge, a partire dalle sepolture più risalenti, tenuto conto dei risultati della ricognizione.
 
-Il decreto disciplinerà la decadenza delle concessioni in uso secondo il principio di gradualità e in base ai criteri di cui alla presente legge, a partire dalle sepolture più risalenti, tenuto conto dei risultati della ricognizione.
+3\. Le prescrizioni di cui all'allegato 3 alla presente legge relative alle dimensioni dei loculi, degli ossari e delle nicchie cinerarie, si applicano alle nuove strutture che, alla data di entrata in vigore della presente legge, non siano già state oggetto di progettazione approvata o di concessione edilizia.
 
-3.
+4\. Le nuove concessioni di loculi conseguenti alla traslazione di un feretro tumulato “in provvisorio” antecedentemente alla entrata in vigore della presente legge sono rilasciate secondo le disposizioni vigenti all’epoca del decesso e decadranno in base a quanto specificato al comma 1 del presente articolo.
 
-Le prescrizioni di cui all'allegato 3 alla presente legge relative alle dimensioni dei loculi, degli ossari e delle nicchie cinerarie, si applicano alle nuove strutture che, alla data di entrata in vigore della presente legge, non siano già state oggetto di progettazione approvata o di concessione edilizia.
-
-4.
-
-Le nuove concessioni di loculi conseguenti alla traslazione di un feretro tumulato “in provvisorio” antecedentemente alla entrata in vigore della presente legge sono rilasciate secondo le disposizioni vigenti all’epoca del decesso e decadranno in base a quanto specificato al comma 1 del presente articolo.
-
-5.
-
-Per tumulazione “in provvisorio” di feretro si intende quella eseguita fino al quindicesimo giorno successivo alla pubblicazione della presente legge, in assenza di disponibilità da parte della Ecc.ma Camera di loculi in un cimitero della Repubblica.
+5\. Per tumulazione “in provvisorio” di feretro si intende quella eseguita fino al quindicesimo giorno successivo alla pubblicazione della presente legge, in assenza di disponibilità da parte della Ecc.ma Camera di loculi in un cimitero della Repubblica.
 
 ##### Art. 19
 
 (Entrata in vigore, decorrenza degli effetti, modifiche)
 
-1.
+1\. La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
 
-La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
+2\. Le disposizioni di cui all’articolo 2, salvo il comma 11, e agli articoli 4, 13 e 16 si applicano a partire dal 120° giorno successivo a quello di pubblicazione della presente legge.
 
-2.
-
-Le disposizioni di cui all’articolo 2, salvo il comma 11, e agli articoli 4, 13 e 16 si applicano a partire dal 120° giorno successivo a quello di pubblicazione della presente legge.
-
-3.
-
-Per tutto il periodo indicato nel comma che precede, possono essere apportate modifiche ed integrazioni alla presente legge con decreto delegato.
+3\. Per tutto il periodo indicato nel comma che precede, possono essere apportate modifiche ed integrazioni alla presente legge con decreto delegato.
 
 ALLEGATO 1 DEFINIZIONI
 
@@ -2074,37 +1894,21 @@ fino al secondo grado compreso, nonché il convivente more uxorio avente le cara
 
 ALLEGATO 2 AREE E FOSSE PER INUMAZIONE, LORO CARATTERISTICHE E UTILIZZO
 
-1.
+1\. Le aree destinate all’inumazione sono ubicate in suolo idoneo per struttura geologi ca e mineralogica, per proprietà meccaniche e fisiche, tali da favorire il processo di scheletrizzazione dei cadaveri. Il fondo della fossa per inumazione deve distare almeno 0,50 metri dalla falda freatica.
 
-Le aree destinate all’inumazione sono ubicate in suolo idoneo per struttura geologi ca e mineralogica, per proprietà meccaniche e fisiche, tali da favorire il processo di scheletrizzazione dei cadaveri. Il fondo della fossa per inumazione deve distare almeno 0,50 metri dalla falda freatica.
+2\. Le aree di inumazione sono divise in riquadri e le fosse sono chiaramente identificate sulla planimetria; i vialetti fra le fosse non devono invadere lo spazio destinato all’accoglimento dei cadaveri.
 
-2.
+3\. Le fosse per inumazione di cadaveri di persone di oltre sette anni di età hanno una profondità compresa fra 1,50 e 2 metri. Nella parte più profonda hanno la lunghezza di almeno 2,20 metri e la larghezza di almeno 0,80 metri e distano l’una dall’altra almeno 0,30 metri per ogni lato.
 
-Le aree di inumazione sono divise in riquadri e le fosse sono chiaramente identificate sulla planimetria; i vialetti fra le fosse non devono invadere lo spazio destinato all’accoglimento dei cadaveri.
+4\. Le fosse per inumazione di cadaveri di bambini di età inferiore ai sette anni hanno una profondità compresa fra 1 e 1,50 metri. Nella parte più profonda hanno la lunghezza di 1,50 metri e la larghezza di 0,50 metri e distano l’una dall’altra almeno 0,30 metri per ogni lato.
 
-3.
+5\. La superficie della fossa lasciata scoperta per favorire l’azione degli agenti atmosferici nel terreno è pari ad almeno 0,60 metri quadrati per fossa di adulti e a 0,30 metri quadrati per fossa di bambini.
 
-Le fosse per inumazione di cadaveri di persone di oltre sette anni di età hanno una profondità compresa fra 1,50 e 2 metri. Nella parte più profonda hanno la lunghezza di almeno 2,20 metri e la larghezza di almeno 0,80 metri e distano l’una dall’altra almeno 0,30 metri per ogni lato.
+6\. Per i nati morti e i prodotti abortivi, per i quali è richiesta l’inumazione, si utilizzano fosse di misure adeguate alla dimensione del feretro con una distanza tra l’una e l’altra fossa di non meno di 0,30 metri per ogni lato.
 
-4.
+7\. Per l’inumazione di parti anatomiche riconoscibili si utilizzano fosse di misure adeguate alla dimensione del contenitore senza obbligo di distanze l’una dall’altra purché ad una profondità di almeno 0,70 metri.
 
-Le fosse per inumazione di cadaveri di bambini di età inferiore ai sette anni hanno una profondità compresa fra 1 e 1,50 metri. Nella parte più profonda hanno la lunghezza di 1,50 metri e la larghezza di 0,50 metri e distano l’una dall’altra almeno 0,30 metri per ogni lato.
-
-5.
-
-La superficie della fossa lasciata scoperta per favorire l’azione degli agenti atmosferici nel terreno è pari ad almeno 0,60 metri quadrati per fossa di adulti e a 0,30 metri quadrati per fossa di bambini.
-
-6.
-
-Per i nati morti e i prodotti abortivi, per i quali è richiesta l’inumazione, si utilizzano fosse di misure adeguate alla dimensione del feretro con una distanza tra l’una e l’altra fossa di non meno di 0,30 metri per ogni lato.
-
-7.
-
-Per l’inumazione di parti anatomiche riconoscibili si utilizzano fosse di misure adeguate alla dimensione del contenitore senza obbligo di distanze l’una dall’altra purché ad una profondità di almeno 0,70 metri.
-
-8.
-
-Per le inumazioni di cadavere si utilizza la sola cassa di legno.
+8\. Per le inumazioni di cadavere si utilizza la sola cassa di legno.
 
 ALLEGATO 3 REQUISITI DEI LOCULI DESTINATI A TUMULAZIONE
 
@@ -2298,89 +2102,55 @@ c) lesioni encefaliche in individui sottoposti a manovre rianimatorie.
 
 (Criteri per l’accertamento di morte)
 
-1.
+1\. Nei casi di cui all’articolo 2, comma 1, lettera b), la condizione di cui all’articolo 1, comma 1, lettera a), si intende dimostrata quando un medico rileva per dodici minuti, dopo la fine di eventuali sforzi rianimatori, l’assenza di battito cardiaco, di polso periferico e di attività elettrica cardiaca all’elettrocardiogramma.
 
-Nei casi di cui all’articolo 2, comma 1, lettera b), la condizione di cui all’articolo 1, comma 1, lettera a), si intende dimostrata quando un medico rileva per dodici minuti, dopo la fine di eventuali sforzi rianimatori, l’assenza di battito cardiaco, di polso periferico e di attività elettrica cardiaca all’elettrocardiogramma.
+2\. Nei casi di cui all’articolo 2, comma 1, lettera c), la condizione di cui all’articolo 1, comma 1, lettera a), si intende dimostrata quando sussistono simultaneamente le condizioni clinicolaboratoristiche riportate nella tabella A e la conferma di almeno un esame strumentale tra quelli riportati nella tabella B.
 
-2.
+3\. La durata dell’osservazione di cui al comma 2 non può essere inferiore alle sei ore, fatto salvo quanto previsto dal comma 1.
 
-Nei casi di cui all’articolo 2, comma 1, lettera c), la condizione di cui all’articolo 1, comma 1, lettera a), si intende dimostrata quando sussistono simultaneamente le condizioni clinicolaboratoristiche riportate nella tabella A e la conferma di almeno un esame strumentale tra quelli riportati nella tabella B.
-
-3.
-
-La durata dell’osservazione di cui al comma 2 non può essere inferiore alle sei ore, fatto salvo quanto previsto dal comma 1.
-
-4.
-
-La verifica delle condizioni di cui al comma 2 deve essere ripetuta secondo i tempi stabiliti nella tabella C.
+4\. La verifica delle condizioni di cui al comma 2 deve essere ripetuta secondo i tempi stabiliti nella tabella C.
 
 ##### Art.4
 
 (Obblighi dei sanitari)
 
-1.
+1\. Nei casi di cui all’articolo 2 comma 1, lettere a) e b), la constatazione della morte spetta al medico curante o di continuità assistenziale o al medico di reparto ospedaliero, mentre l’accertamento spetta al medico necroscopo.
 
-Nei casi di cui all’articolo 2 comma 1, lettere a) e b), la constatazione della morte spetta al medico curante o di continuità assistenziale o al medico di reparto ospedaliero, mentre l’accertamento spetta al medico necroscopo.
+2\. Nei casi di cui all’articolo 2 comma 1, lettera c), la constatazione della morte spetta al medico rianimatore, mentre l’accertamento è svolto da un collegio medico ai sensi dell’articolo 5.
 
-2.
+3\. Il medico che sospetta il realizzarsi, in un paziente, delle condizioni di cui all’articolo 1, comma 1, lettera a), secondo le modalità di cui all’articolo 2, comma 1, lettera c), deve darne comunicazione al Direttore delle Attività Sanitarie e Socio Sanitarie dell’I.S.S..
 
-Nei casi di cui all’articolo 2 comma 1, lettera c), la constatazione della morte spetta al medico rianimatore, mentre l’accertamento è svolto da un collegio medico ai sensi dell’articolo 5.
+4\. Il Direttore delle Attività Sanitarie e Socio Sanitarie dell’I.S.S. convoca il collegio medico per l’accertamento di morte di cui all’articolo 5.
 
-3.
-
-Il medico che sospetta il realizzarsi, in un paziente, delle condizioni di cui all’articolo 1, comma 1, lettera a), secondo le modalità di cui all’articolo 2, comma 1, lettera c), deve darne comunicazione al Direttore delle Attività Sanitarie e Socio Sanitarie dell’I.S.S..
-
-4.
-
-Il Direttore delle Attività Sanitarie e Socio Sanitarie dell’I.S.S. convoca il collegio medico per l’accertamento di morte di cui all’articolo 5.
-
-5.
-
-Al medico che constata la morte e al medico curante spetta la compilazione del certificato di morte secondo il modello che sarà adottato con decreto delegato.
+5\. Al medico che constata la morte e al medico curante spetta la compilazione del certificato di morte secondo il modello che sarà adottato con decreto delegato.
 
 ##### Art.5
 
 (Collegio medico per l’accertamento di morte)
 
-1.
+1\. Il collegio medico per l'accertamento di morte è costituito da un medico specialista in anestesia e rianimazione, un medico specialista in neurologia e un medico di direzione sanitaria o medico con altra specialità, designato dal Direttore delle Attività Sanitarie e Socio Sanitarie al momento della convocazione.
 
-Il collegio medico per l'accertamento di morte è costituito da un medico specialista in anestesia e rianimazione, un medico specialista in neurologia e un medico di direzione sanitaria o medico con altra specialità, designato dal Direttore delle Attività Sanitarie e Socio Sanitarie al momento della convocazione.
+2\. Il medico curante di cui all’articolo 4, comma 1, non può fare parte del collegio medico di cui al comma 1.
 
-2.
+3\. La composizione del collegio medico di cui al comma 1 deve restare invariata per tutto il periodo dell’accertamento.
 
-Il medico curante di cui all’articolo 4, comma 1, non può fare parte del collegio medico di cui al comma 1.
+4\. Il collegio medico di cui al comma 1 verifica la sussistenza delle condizioni di cui all’articolo 3, comma 2, sceglie l’esame strumentale più idoneo e ne valuta la corretta esecuzione.
 
-3.
+5\. I componenti del collegio medico annotano tutte le fasi dell’accertamento nella cartella clinica e dispongono la videoregistrazione dell’esame clinico/strumentale di accertamento.
 
-La composizione del collegio medico di cui al comma 1 deve restare invariata per tutto il periodo dell’accertamento.
-
-4.
-
-Il collegio medico di cui al comma 1 verifica la sussistenza delle condizioni di cui all’articolo 3, comma 2, sceglie l’esame strumentale più idoneo e ne valuta la corretta esecuzione.
-
-5.
-
-I componenti del collegio medico annotano tutte le fasi dell’accertamento nella cartella clinica e dispongono la videoregistrazione dell’esame clinico/strumentale di accertamento.
-
-6.
-
-In caso di non unanimità di valutazione o decisione dei componenti del collegio medico l'accertamento deve essere interrotto e ripetuto successivamente.
+6\. In caso di non unanimità di valutazione o decisione dei componenti del collegio medico l'accertamento deve essere interrotto e ripetuto successivamente.
 
 ##### Art.6
 
 (Riscontro diagnostico)
 
-1.
-
-E’ facoltà del medico che ha constatato la morte, del medico curante, del medico necroscopo, del Direttore del Dipartimento Ospedaliero dell’I.S.S., del Direttore delle Attività Sanitarie e Socio-Sanitarie dell’I.S.S., richiedere il riscontro diagnostico nei casi in cui non sia possibile identificare con presumibile certezza la causa di morte o per motivi di sanità pubblica.
+1\. E’ facoltà del medico che ha constatato la morte, del medico curante, del medico necroscopo, del Direttore del Dipartimento Ospedaliero dell’I.S.S., del Direttore delle Attività Sanitarie e Socio-Sanitarie dell’I.S.S., richiedere il riscontro diagnostico nei casi in cui non sia possibile identificare con presumibile certezza la causa di morte o per motivi di sanità pubblica.
 
 ##### Art.7
 
 (Esclusioni)
 
-1.
-
-I criteri di accertamento di cui all’articolo 3, comma 1, non si applicano agli individui di età inferiore ai dodici mesi e alle donne in stato di gravidanza.
+1\. I criteri di accertamento di cui all’articolo 3, comma 1, non si applicano agli individui di età inferiore ai dodici mesi e alle donne in stato di gravidanza.
 
 ##### Art.8
 
@@ -2424,53 +2194,35 @@ LEGGE 24 SETTEMBRE 2020 n.160 DELLE SEPOLTURE SPECIALI DI RELIGIOSI E RELIGIOSE 
 
 (Della sepoltura dei religiosi e delle religiose)
 
-1.
+1\. A parziale deroga delle disposizioni di cui alla Legge 15 marzo 1910 “Regolamento di Polizia Mortuaria” ed in particolare di quelle di cui al Titolo III – Capo I, i religiosi e le religiose che hanno prestato per almeno dieci anni attività nel territorio della Repubblica di San Marino possono essere sepolti in cappelle laterali o in cripte presenti nelle chiese e luoghi di culto della Repubblica, ovvero in terreni attigui a chiese e luoghi di culto, ove gli stessi hanno prestato la loro attività.
 
-A parziale deroga delle disposizioni di cui alla Legge 15 marzo 1910 “Regolamento di Polizia Mortuaria” ed in particolare di quelle di cui al Titolo III – Capo I, i religiosi e le religiose che hanno prestato per almeno dieci anni attività nel territorio della Repubblica di San Marino possono essere sepolti in cappelle laterali o in cripte presenti nelle chiese e luoghi di culto della Repubblica, ovvero in terreni attigui a chiese e luoghi di culto, ove gli stessi hanno prestato la loro attività.
-
-2.
-
-Alle superiori sepolture si applicano tutte le prescrizioni riguardanti i manufatti destinati a raccogliere le salme nonché le prescrizioni dettate per le aree e fosse destinate all’inumazione previste dalla Legge 4 febbraio 2010 n.35 e successive modifiche.
+2\. Alle superiori sepolture si applicano tutte le prescrizioni riguardanti i manufatti destinati a raccogliere le salme nonché le prescrizioni dettate per le aree e fosse destinate all’inumazione previste dalla Legge 4 febbraio 2010 n.35 e successive modifiche.
 
 ##### Art.2
 
 (Condizioni e procedure di applicazione)
 
-1.
+1\. Le prescrizioni di cui all’articolo 1 si applicano, in mancanza di diverse disposizioni testamentarie o qualsiasi altra espressione di volontà da parte del defunto, previa autorizzazione del parente più prossimo e in caso di concorrenza di più parenti nello stesso grado, della maggioranza degli stessi, mancando la quale l’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria procede a dare sepoltura secondo le ordinarie disposizioni di polizia mortuaria.
 
-Le prescrizioni di cui all’articolo 1 si applicano, in mancanza di diverse disposizioni testamentarie o qualsiasi altra espressione di volontà da parte del defunto, previa autorizzazione del parente più prossimo e in caso di concorrenza di più parenti nello stesso grado, della maggioranza degli stessi, mancando la quale l’Ufficiale di Stato Civile – Dirigente la Polizia Mortuaria procede a dare sepoltura secondo le ordinarie disposizioni di polizia mortuaria.
+2\. Per avviare l’iter procedurale, il legale rappresentante dell’Ente religioso deve presentare apposita richiesta presso l’Ufficio di Stato Civile a cui deve essere allegata la sottoscrizione da parte di almeno cento cittadini sammarinesi o residenti in Repubblica.
 
-2.
+3\. Qualora il luogo individuato per la sepoltura sia di proprietà dell’Eccellentissima Camera il Congresso di Stato dovrà emanare apposita delibera autorizzativa.
 
-Per avviare l’iter procedurale, il legale rappresentante dell’Ente religioso deve presentare apposita richiesta presso l’Ufficio di Stato Civile a cui deve essere allegata la sottoscrizione da parte di almeno cento cittadini sammarinesi o residenti in Repubblica.
-
-3.
-
-Qualora il luogo individuato per la sepoltura sia di proprietà dell’Eccellentissima Camera il Congresso di Stato dovrà emanare apposita delibera autorizzativa.
-
-4.
-
-Il Dirigente la Polizia Mortuaria – Ufficiale di Stato Civile rilascia il permesso di sepoltura a seguito di richiesta e ottenimento dei nulla osta emessi dal Dipartimento di Prevenzione ISS per le prescrizioni igienico-sanitarie e dall’Azienda Autonoma di Stato per i Lavori Pubblici per quanto attiene alle caratteristiche di idoneità del terreno e dell’area e l’assenza di vincoli urbanistici, architettonici o paesaggistici.
+4\. Il Dirigente la Polizia Mortuaria – Ufficiale di Stato Civile rilascia il permesso di sepoltura a seguito di richiesta e ottenimento dei nulla osta emessi dal Dipartimento di Prevenzione ISS per le prescrizioni igienico-sanitarie e dall’Azienda Autonoma di Stato per i Lavori Pubblici per quanto attiene alle caratteristiche di idoneità del terreno e dell’area e l’assenza di vincoli urbanistici, architettonici o paesaggistici.
 
 ##### Art.3
 
 (Tutela del diritto alla libertà di culto)
 
-1.
-
-In conformità con quanto previsto dalla Legge 8 luglio 1974 n.59 “Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell’Ordinamento Sammarinese”, la presente legge si applica anche alla sepoltura per ministri di culto diverso da quello cattolico.
+1\. In conformità con quanto previsto dalla Legge 8 luglio 1974 n.59 “Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell’Ordinamento Sammarinese”, la presente legge si applica anche alla sepoltura per ministri di culto diverso da quello cattolico.
 
 ##### Art.4
 
 (Entrata in vigore e ambito di applicazione)
 
-1.
+1\. La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione e si applica anche ai religiosi e alle religiose già deceduti a condizione che non vi siano prescrizioni igienico-sanitarie che ne impediscono l’esumazione/estumulazione anche straordinaria e il successivo trasferimento/traslazione nel luogo prescelto per la sepoltura speciale di cui alla presente legge.
 
-La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione e si applica anche ai religiosi e alle religiose già deceduti a condizione che non vi siano prescrizioni igienico-sanitarie che ne impediscono l’esumazione/estumulazione anche straordinaria e il successivo trasferimento/traslazione nel luogo prescelto per la sepoltura speciale di cui alla presente legge.
-
-2.
-
-Con successivo decreto delegato sono disciplinati gli aspetti applicativi della presente legge, le eventuali prescrizioni di polizia mortuaria e l’adeguamento della normativa urbanistica.
+2\. Con successivo decreto delegato sono disciplinati gli aspetti applicativi della presente legge, le eventuali prescrizioni di polizia mortuaria e l’adeguamento della normativa urbanistica.
 
 DECRETO DELEGATO 30 settembre 2021 n.171 DISPOSIZIONI RELATIVE ALLE SEPOLTURE SPECIALI DI RELIGIOSI E RELIGIOSE
 
@@ -2478,65 +2230,41 @@ DECRETO DELEGATO 30 settembre 2021 n.171 DISPOSIZIONI RELATIVE ALLE SEPOLTURE SP
 
 (Finalità)
 
-1.
-
-Il presente decreto delegato disciplina gli aspetti applicativi della Legge 24 settembre 2020 n.160, le prescrizioni di polizia mortuaria, di edilizia e di urbanistica relativi alle sepolture speciali di religiosi e religiose.
+1\. Il presente decreto delegato disciplina gli aspetti applicativi della Legge 24 settembre 2020 n.160, le prescrizioni di polizia mortuaria, di edilizia e di urbanistica relativi alle sepolture speciali di religiosi e religiose.
 
 ##### Art. 2
 
 (Disposizioni generali)
 
-1.
+1\. L’inumazione e le tumulazioni in aree esterne, le tumulazioni in loculi o spazi già esistenti e in loculi nuovi sono subordinate all’autorizzazione dell’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria ai sensi dell’articolo 2 della Legge n.160/2020. Per l’avvio dell’iter di cui all’articolo 2, comma 2, della summenzionata legge, il legale rappresentante dell’Ente religioso deve altresì allegare alla richiesta il nulla osta della proprietà del luogo di sepoltura.
 
-L’inumazione e le tumulazioni in aree esterne, le tumulazioni in loculi o spazi già esistenti e in loculi nuovi sono subordinate all’autorizzazione dell’Ufficiale di Stato Civile - Dirigente la Polizia Mortuaria ai sensi dell’articolo 2 della Legge n.160/2020. Per l’avvio dell’iter di cui all’articolo 2, comma 2, della summenzionata legge, il legale rappresentante dell’Ente religioso deve altresì allegare alla richiesta il nulla osta della proprietà del luogo di sepoltura.
+2\. Per sepolture in Zona A “zone omogenee di carattere storico ambientale” di cui all’articolo 33 della Legge n.7/1992 nonché sugli immobili, complessi, organismi e manufatti di valore monumentale inseriti nell’elenco di cui alla Legge 28 ottobre 2005 n.147, il Dirigente la Polizia Mortuaria - Ufficiale di Stato Civile rilascia il permesso di sepoltura a seguito di richiesta e ottenimento dell’autorizzazione della Commissione per la Conservazione dei Monumenti e degli Oggetti d’Antichità e d’Arte, ad integrazione dei nulla osta previsti dall’articolo 2, comma 4, della Legge n. 160/2020.
 
-2.
+3\. Nei casi in cui l’inumazione o la tumulazione avvenga in aree esterne ai luoghi di culto, l’autorizzazione del Dirigente la Polizia Mortuaria - Ufficiale di Stato Civile è altresì subordinata ai pareri favorevoli del Servizio di Protezione Civile, dell’Ufficio Gestione Risorse Ambientali ed Agricole e del Comitato Tecnico Scientifico di cui alla Legge 16 novembre 1995 n. 126 e successive modifiche.
 
-Per sepolture in Zona A “zone omogenee di carattere storico ambientale” di cui all’articolo 33 della Legge n.7/1992 nonché sugli immobili, complessi, organismi e manufatti di valore monumentale inseriti nell’elenco di cui alla Legge 28 ottobre 2005 n.147, il Dirigente la Polizia Mortuaria - Ufficiale di Stato Civile rilascia il permesso di sepoltura a seguito di richiesta e ottenimento dell’autorizzazione della Commissione per la Conservazione dei Monumenti e degli Oggetti d’Antichità e d’Arte, ad integrazione dei nulla osta previsti dall’articolo 2, comma 4, della Legge n. 160/2020.
+4\. Le eventuali opere edili necessarie alla tumulazione in loculi nuovi e all’inumazione sono soggette ai requisiti dimensionali e materici di cui all’Allegato 3 della Legge 4 febbraio 2010 n.35.
 
-3.
+5\. Nei casi in cui la tumulazione avvenga in loculi o spazi già esistenti non è richiesto il rispetto dei requisiti di cui al comma 4.
 
-Nei casi in cui l’inumazione o la tumulazione avvenga in aree esterne ai luoghi di culto, l’autorizzazione del Dirigente la Polizia Mortuaria - Ufficiale di Stato Civile è altresì subordinata ai pareri favorevoli del Servizio di Protezione Civile, dell’Ufficio Gestione Risorse Ambientali ed Agricole e del Comitato Tecnico Scientifico di cui alla Legge 16 novembre 1995 n. 126 e successive modifiche.
-
-4.
-
-Le eventuali opere edili necessarie alla tumulazione in loculi nuovi e all’inumazione sono soggette ai requisiti dimensionali e materici di cui all’Allegato 3 della Legge 4 febbraio 2010 n.35.
-
-5.
-
-Nei casi in cui la tumulazione avvenga in loculi o spazi già esistenti non è richiesto il rispetto dei requisiti di cui al comma 4.
-
-6.
-
-La costruzione, la ristrutturazione o la trasformazione di loculi o manufatti esistenti sono soggette al rilascio preventivo del titolo abilitativo ai sensi del Capo III,
+6\. La costruzione, la ristrutturazione o la trasformazione di loculi o manufatti esistenti sono soggette al rilascio preventivo del titolo abilitativo ai sensi del Capo III,
 
 #### Sezione I della Legge 14 dicembre 2017 n.140. Nel periodo necessario al
 
 perfezionamento di tale autorizzazione, il feretro è tumulato in sepoltura provvisoria.
 
-7.
+7\. La tumulazione provvisoria di cui al comma 6, ossia la tumulazione temporanea di una salma in un loculo non di proprietà in attesa della sua traslazione, avviene alle stesse condizioni previste dalla Legge per la tumulazione definitiva. Non è consentita l’inumazione provvisoria.
 
-La tumulazione provvisoria di cui al comma 6, ossia la tumulazione temporanea di una salma in un loculo non di proprietà in attesa della sua traslazione, avviene alle stesse condizioni previste dalla Legge per la tumulazione definitiva. Non è consentita l’inumazione provvisoria.
-
-8.
-
-Nell’ambito di cui al presente decreto delegato può essere eseguito, tra tumulazioni ed inumazioni, interne ed esterne, il numero massimo di tre salme nella medesima area.
+8\. Nell’ambito di cui al presente decreto delegato può essere eseguito, tra tumulazioni ed inumazioni, interne ed esterne, il numero massimo di tre salme nella medesima area.
 
 ##### Art. 3
 
 (Sepoltura in area esterna)
 
-1.
+1\. La tumulazione e l’inumazione in area esterna sono consentite previo l’ottenimento delle autorizzazioni e dei pareri di cui all’articolo 2 e secondo le prescrizioni del presente articolo.
 
-La tumulazione e l’inumazione in area esterna sono consentite previo l’ottenimento delle autorizzazioni e dei pareri di cui all’articolo 2 e secondo le prescrizioni del presente articolo.
+2\. Le sepolture devono essere realizzate nell’ambito delle pertinenze esterne del luogo di culto, entro 30 metri dai muri perimetrali dell’edificio principale sede del luogo di culto.
 
-2.
-
-Le sepolture devono essere realizzate nell’ambito delle pertinenze esterne del luogo di culto, entro 30 metri dai muri perimetrali dell’edificio principale sede del luogo di culto.
-
-3.
-
-Le aree di cui al comma 2:
+3\. Le aree di cui al comma 2:
 
 a) devono essere recintate;
 
@@ -2546,17 +2274,11 @@ b) non devono essere in corrispondenza delle falde acquifere.
 
 (Particolari disposizioni urbanistiche ed edilizie)
 
-1.
+1\. L’intervento di cui all’articolo 3 non costituisce variante di Piano Particolareggiato.
 
-L’intervento di cui all’articolo 3 non costituisce variante di Piano Particolareggiato.
+2\. Nei casi di realizzazione di un manufatto la cui superficie sia inferiore a 25 mq, lo stesso non è soggetto alla Valutazione d’Impatto Ambientale di cui al Decreto Delegato 27 aprile 2012 n.44 e successive modifiche.
 
-2.
-
-Nei casi di realizzazione di un manufatto la cui superficie sia inferiore a 25 mq, lo stesso non è soggetto alla Valutazione d’Impatto Ambientale di cui al Decreto Delegato 27 aprile 2012 n.44 e successive modifiche.
-
-3.
-
-È fatto divieto di eseguire sepolture nelle aree definite beni geologico-paesistici, riserve naturali e riserve naturali integrali ai sensi dalla Legge 126/1995 e successive modifiche.
+3\. È fatto divieto di eseguire sepolture nelle aree definite beni geologico-paesistici, riserve naturali e riserve naturali integrali ai sensi dalla Legge 126/1995 e successive modifiche.
 
 ##### Art. 5
 
@@ -2570,6 +2292,4 @@ LEGGE 23 DICEMBRE 2020 n.223 BILANCI DI PREVISIONE DELLO STATO E DEGLI ENTI PUBB
 
 (Interventi sulla spesa corrente e sulla spesa del personale pubblico e delle società controllate direttamente o indirettamente dallo Stato) omissis
 
-5.
-
-Il rimborso per le spese di cremazione di cui all’articolo 12, comma 1 della Legge 4 febbraio 2010 n.35 è disposto nella misura di euro 500,00 a partire dalle istanze depositate dal 1° febbraio 2021.
+5\. Il rimborso per le spese di cremazione di cui all’articolo 12, comma 1 della Legge 4 febbraio 2010 n.35 è disposto nella misura di euro 500,00 a partire dalle istanze depositate dal 1° febbraio 2021.

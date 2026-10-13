@@ -36,41 +36,27 @@ FINALITÀ E PRINCIPI
 
 (Finalità)
 
-1.
+1\. In applicazione del Titolo III e del Titolo V della Legge 31 luglio 2009 n.105 Legge Quadro per la Riforma della Pubblica Amministrazione con l’obiettivo di migliorare l’organizzazione dei servizi di competenza dello Stato a favore dell’utenza, la presente legge riforma la struttura, l’organizzazione ed il modello organizzativo, ridefinisce i ruoli e gli ambiti di gestione con nuovi strumenti di governance secondo i principi di autonomia e separazione delle competenze previsti dall’ordinamento.
 
-In applicazione del Titolo III e del Titolo V della Legge 31 luglio 2009 n.105 Legge Quadro per la Riforma della Pubblica Amministrazione con l’obiettivo di migliorare l’organizzazione dei servizi di competenza dello Stato a favore dell’utenza, la presente legge riforma la struttura, l’organizzazione ed il modello organizzativo, ridefinisce i ruoli e gli ambiti di gestione con nuovi strumenti di governance secondo i principi di autonomia e separazione delle competenze previsti dall’ordinamento.
+2\. La struttura ed il modello organizzativo sono volti a realizzare il coordinamento e a favorire l’innovazione, l’integrazione e la collaborazione tra le varie componenti funzionali, che si realizzi sul piano strutturale e di conseguenza nelle regole e nelle procedure dell’attività complessivamente svolta. Le attribuzioni e responsabilità dei diversi ruoli nella Pubblica Amministrazione, in coerenza con la Legge Quadro 31 luglio 2009 n.105, si basano su un modello organizzativo in cui è definito il funzionamento sia secondo la linea verticale gerarchico/funzionale sia secondo la linea orizzontale afferente ai processi organizzativi e alla gestione di progetti.
 
-2.
+3\. La presente legge riforma la struttura amministrativa della PA intesa come articolazione in uffici e servizi e loro nuova configurazione, con l’obiettivo di favorire l’evoluzione più appropriata in relazione ai mutamenti della società e della legislazione.
 
-La struttura ed il modello organizzativo sono volti a realizzare il coordinamento e a favorire l’innovazione, l’integrazione e la collaborazione tra le varie componenti funzionali, che si realizzi sul piano strutturale e di conseguenza nelle regole e nelle procedure dell’attività complessivamente svolta. Le attribuzioni e responsabilità dei diversi ruoli nella Pubblica Amministrazione, in coerenza con la Legge Quadro 31 luglio 2009 n.105, si basano su un modello organizzativo in cui è definito il funzionamento sia secondo la linea verticale gerarchico/funzionale sia secondo la linea orizzontale afferente ai processi organizzativi e alla gestione di progetti.
+4\. Con la presente legge sono altresì introdotti i Profili di Ruolo ed il fabbisogno delle risorse professionali che, unitamente alle funzioni delle Unità Organizzative ed ai nuovi titoli di studio, contribuiscono a definire un modello organizzativo flessibile basato sulla professionalità quale fattore imprescindibile per l’efficienza e l’autorevolezza del sistema pubblico.
 
-3.
-
-La presente legge riforma la struttura amministrativa della PA intesa come articolazione in uffici e servizi e loro nuova configurazione, con l’obiettivo di favorire l’evoluzione più appropriata in relazione ai mutamenti della società e della legislazione.
-
-4.
-
-Con la presente legge sono altresì introdotti i Profili di Ruolo ed il fabbisogno delle risorse professionali che, unitamente alle funzioni delle Unità Organizzative ed ai nuovi titoli di studio, contribuiscono a definire un modello organizzativo flessibile basato sulla professionalità quale fattore imprescindibile per l’efficienza e l’autorevolezza del sistema pubblico.
-
-5.
-
-Contribuiscono a formare il quadro normativo della riforma, nuove regole per il progressivo allineamento del trattamento normativo e retributivo del settore pubblico al settore privato, nella salvaguardia dei diritti acquisiti, e atte a contrastare la formazione di nuovo precariato.
+5\. Contribuiscono a formare il quadro normativo della riforma, nuove regole per il progressivo allineamento del trattamento normativo e retributivo del settore pubblico al settore privato, nella salvaguardia dei diritti acquisiti, e atte a contrastare la formazione di nuovo precariato.
 
 #### Art. 2
 
 (Gestione budgetaria e riforma della contabilità pubblica e del bilancio)
 
-1.
-
-Per il raggiungimento delle finalità di cui alla presente legge, l’amministrazione dovrà dotarsi di regole interne, strumenti e metodologie appropriate per la programmazione e la gestione delle risorse economico-finanziarie su base budgetaria; a tale impostazione dovrà ispirarsi la legge di riforma dell’Ordinamento Contabile dello Stato, la quale dovrà ridefinire anche ruoli e poteri in merito alla gestione della spesa, in coerenza con gli indirizzi di separazione dei poteri di cui al Titolo V della Legge Qualificata n.184/2005 e con il modello organizzativo della presente legge.
+1\. Per il raggiungimento delle finalità di cui alla presente legge, l’amministrazione dovrà dotarsi di regole interne, strumenti e metodologie appropriate per la programmazione e la gestione delle risorse economico-finanziarie su base budgetaria; a tale impostazione dovrà ispirarsi la legge di riforma dell’Ordinamento Contabile dello Stato, la quale dovrà ridefinire anche ruoli e poteri in merito alla gestione della spesa, in coerenza con gli indirizzi di separazione dei poteri di cui al Titolo V della Legge Qualificata n.184/2005 e con il modello organizzativo della presente legge.
 
 #### Art. 3
 
 (Definizioni)
 
-1.
-
-Nella presente legge si intende:
+1\. Nella presente legge si intende:
 
 a) per “amministrazione”, l’insieme degli organi, uffici, servizi, enti pubblici ed aziende dello Stato e le pertinenti attività del Settore Pubblico Allargato;
 
@@ -82,17 +68,11 @@ d) per “Enti”, gli Enti pubblici e le Aziende di Stato;
 
 e) per modello organizzativo della Pubblica Amministrazione, l’insieme delle dipendenze gerarchiche, dei ruoli e dei principali processi decisionali per la gestione della Pubblica Amministrazione, anche in rapporto con il Settore Pubblico Allargato, con funzioni di linea verticale o gerarchica e di linea orizzontale o trasversale.
 
-2.
+2\. Sono funzioni di linea verticale, le attività, attribuzioni, competenze e responsabilità settoriali e specialistiche esercitate per via gerarchico/funzionale in un rapporto formale di dipendenza gerarchica o funzionale.
 
-Sono funzioni di linea verticale, le attività, attribuzioni, competenze e responsabilità settoriali e specialistiche esercitate per via gerarchico/funzionale in un rapporto formale di dipendenza gerarchica o funzionale.
+3\. Il Riporto Funzionale, si realizza al di fuori della linea verticale in ragione del rapporto fra una autorità alla quale è riconosciuta una competenza formale ed altri organi, per le materie attinenti la competenza stessa in relazione alle quali emana direttive ed indirizzi ed esercita attività di coordinamento e di controllo.
 
-3.
-
-Il Riporto Funzionale, si realizza al di fuori della linea verticale in ragione del rapporto fra una autorità alla quale è riconosciuta una competenza formale ed altri organi, per le materie attinenti la competenza stessa in relazione alle quali emana direttive ed indirizzi ed esercita attività di coordinamento e di controllo.
-
-4.
-
-Sono funzioni di linea orizzontale le attività, attribuzioni, competenze e responsabilità di indirizzo, coordinamento, consulenza, supporto metodologico che stimolano ed influenzano l’organizzazione dell’attività amministrativa per rendere più efficace il lavoro della linea operativa verticale e a cui quest’ultima deve attenersi.
+4\. Sono funzioni di linea orizzontale le attività, attribuzioni, competenze e responsabilità di indirizzo, coordinamento, consulenza, supporto metodologico che stimolano ed influenzano l’organizzazione dell’attività amministrativa per rendere più efficace il lavoro della linea operativa verticale e a cui quest’ultima deve attenersi.
 
 ## TITOLO II
 
@@ -104,45 +84,27 @@ STRUTTURA ED ORGANIZZAZIONE
 
 (Struttura del Settore Pubblico Allargato)
 
-1.
+1\. La struttura del Settore Pubblico Allargato è composta dalla PA e dai suoi Dipartimenti nonché dagli Enti Pubblici ed Aziende Autonome di Stato e dalle loro articolazioni organizzative interne.
 
-La struttura del Settore Pubblico Allargato è composta dalla PA e dai suoi Dipartimenti nonché dagli Enti Pubblici ed Aziende Autonome di Stato e dalle loro articolazioni organizzative interne.
+2\. Le Aziende Autonome di Stato e gli Enti Pubblici non fanno parte dell’organizzazione dipartimentale della Pubblica Amministrazione, ma sono comunque soggetti alla presente legge per le parti applicabili ivi espressamente regolate, ferme restando le autonomie e le specificità di ciascuno di essi per ciò che concerne la loro articolazione organizzativa interna e le speciali norme regolatrici.
 
-2.
-
-Le Aziende Autonome di Stato e gli Enti Pubblici non fanno parte dell’organizzazione dipartimentale della Pubblica Amministrazione, ma sono comunque soggetti alla presente legge per le parti applicabili ivi espressamente regolate, ferme restando le autonomie e le specificità di ciascuno di essi per ciò che concerne la loro articolazione organizzativa interna e le speciali norme regolatrici.
-
-3.
-
-Le Aziende e gli Enti sono inoltre soggetti ai principi e alle norme di pubblico impiego e dei rapporti di lavoro alle dipendenze dello Stato e sono tenuti ad applicare le disposizioni impartite per il coordinamento organizzativo dell’attività dell’amministrazione complessivamente intesa ed a contribuire al suo generale miglioramento. La presente legge indica gli ambiti di coordinamento delle attività degli
+3\. Le Aziende e gli Enti sono inoltre soggetti ai principi e alle norme di pubblico impiego e dei rapporti di lavoro alle dipendenze dello Stato e sono tenuti ad applicare le disposizioni impartite per il coordinamento organizzativo dell’attività dell’amministrazione complessivamente intesa ed a contribuire al suo generale miglioramento. La presente legge indica gli ambiti di coordinamento delle attività degli
 
 Enti ed Aziende pubbliche con i Dipartimenti e con la Direzione Generale della Funzione Pubblica (di seguito anche DGFP).
 
-4.
+4\. Nel Titolo IV dell’Allegato A alla presente legge sono indicati gli Enti e le Aziende Autonome di Stato con le relative linee di cambiamento, gli indirizzi, le norme di riferimento e di coordinamento ai fini della presente legge nonché le relazioni funzionali con i Dipartimenti della PA e con la PA in generale.
 
-Nel Titolo IV dell’Allegato A alla presente legge sono indicati gli Enti e le Aziende Autonome di Stato con le relative linee di cambiamento, gli indirizzi, le norme di riferimento e di coordinamento ai fini della presente legge nonché le relazioni funzionali con i Dipartimenti della PA e con la PA in generale.
+5\. Fino all’adozione degli atti normativi necessari alle modifiche indicate nell’Allegato A, gli Enti e le Aziende Autonome di Stato restano retti, organizzati e regolati dalle norme di riferimento vigenti alla data di entrata in vigore della presente legge, fatto comunque salvo quanto della presente legge sia ad essi applicabile. Con decreto delegato potranno essere definite le funzioni delle UO in cui gli Enti si articolano in coerenza con la presente legge.
 
-5.
+6\. A decorrere dal 1° gennaio 2012 l’Azienda Autonoma di Stato Filatelica e Numismatica è soppressa quale ente autonomo ed è trasformata nell’Ufficio Filatelico e Numismatico previsto nell’articolo 19 dell’Allegato A.
 
-Fino all’adozione degli atti normativi necessari alle modifiche indicate nell’Allegato A, gli Enti e le Aziende Autonome di Stato restano retti, organizzati e regolati dalle norme di riferimento vigenti alla data di entrata in vigore della presente legge, fatto comunque salvo quanto della presente legge sia ad essi applicabile. Con decreto delegato potranno essere definite le funzioni delle UO in cui gli Enti si articolano in coerenza con la presente legge.
+7\. Le Autorità previste e regolate dalle leggi speciali per aree di attività con specifiche funzioni di autorizzazione, regolamentazione e controllo, sono al di fuori dell’organizzazione dipartimentale.
 
-6.
-
-A decorrere dal 1° gennaio 2012 l’Azienda Autonoma di Stato Filatelica e Numismatica è soppressa quale ente autonomo ed è trasformata nell’Ufficio Filatelico e Numismatico previsto nell’articolo 19 dell’Allegato A.
-
-7.
-
-Le Autorità previste e regolate dalle leggi speciali per aree di attività con specifiche funzioni di autorizzazione, regolamentazione e controllo, sono al di fuori dell’organizzazione dipartimentale.
-
-8.
-
-Le Autorità si rapportano con la DGFP negli ambiti di competenza della stessa.
+8\. Le Autorità si rapportano con la DGFP negli ambiti di competenza della stessa.
 
 Qualora abbiano una struttura organizzativa propria, sono considerate Unità Organizzative ai fini della loro gestione ai sensi delle leggi di riforma della Pubblica Amministrazione. In caso contrario, hanno il supporto operativo delle Unità Organizzative pertinenti in base alle funzioni descritte nell’Allegato A alla presente legge e nelle leggi speciali di riferimento. Per le relative funzioni e responsabilità, non disciplinate dalla presente legge, si rimanda alle leggi istitutive e alle norme speciali vigenti, fermo restando il rapporto con le Segreterie di Stato di riferimento e con il Congresso di Stato.
 
-9.
-
-Restano regolati dalle leggi speciali di riferimento gli enti di diritto privato a partecipazione pubblica. Il personale del Settore Pubblico Allargato può essere temporaneamente distaccato presso questi enti con le forme e le modalità concordate tra le competenti autorità.
+9\. Restano regolati dalle leggi speciali di riferimento gli enti di diritto privato a partecipazione pubblica. Il personale del Settore Pubblico Allargato può essere temporaneamente distaccato presso questi enti con le forme e le modalità concordate tra le competenti autorità.
 
 ### CAPO II
 
@@ -152,29 +114,19 @@ UNITÀ ORGANIZZATIVE
 
 (Unità Organizzative – Missioni e Funzioni)
 
-1.
+1\. Le Unità Organizzative (di seguito anche UO), così come definite dall’articolo 6 della Legge n.105/2009, sono descritte nell’Allegato A alla presente legge attraverso le missioni e funzioni a cui informano il proprio operato ai sensi dell’articolo 13 della medesima legge. Oltre che alle funzioni di cui all’Allegato A, le UO sono tenute ai compiti e alle prescrizioni previste dalle leggi speciali per la loro attività e alle norme generali sull’attività amministrativa.
 
-Le Unità Organizzative (di seguito anche UO), così come definite dall’articolo 6 della Legge n.105/2009, sono descritte nell’Allegato A alla presente legge attraverso le missioni e funzioni a cui informano il proprio operato ai sensi dell’articolo 13 della medesima legge. Oltre che alle funzioni di cui all’Allegato A, le UO sono tenute ai compiti e alle prescrizioni previste dalle leggi speciali per la loro attività e alle norme generali sull’attività amministrativa.
+2\. Le missioni e le funzioni rispondono alle indicazioni della legge di cui al precedente comma e all’obiettivo di esplicitare con trasparenza e chiarezza gli scopi istituzionali e le precise attività che l’amministrazione si pone e svolge nelle sue articolazioni (UO).
 
-2.
+3\. La descrizione delle UO attraverso le funzioni risponde, altresì, agli obiettivi di trasparenza dell’operato di ogni unità funzionale e, dunque, dell’amministrazione complessivamente intesa nonché di configurazione della base normativa ed organizzativa per l’adeguamento dell’attività amministrativa a standard oggettivi che consentano di definire il fabbisogno di personale, di misurare la qualità dei servizi e delle prestazioni nonché il raggiungimento degli obiettivi istituzionali.
 
-Le missioni e le funzioni rispondono alle indicazioni della legge di cui al precedente comma e all’obiettivo di esplicitare con trasparenza e chiarezza gli scopi istituzionali e le precise attività che l’amministrazione si pone e svolge nelle sue articolazioni (UO).
-
-3.
-
-La descrizione delle UO attraverso le funzioni risponde, altresì, agli obiettivi di trasparenza dell’operato di ogni unità funzionale e, dunque, dell’amministrazione complessivamente intesa nonché di configurazione della base normativa ed organizzativa per l’adeguamento dell’attività amministrativa a standard oggettivi che consentano di definire il fabbisogno di personale, di misurare la qualità dei servizi e delle prestazioni nonché il raggiungimento degli obiettivi istituzionali.
-
-4.
-
-La struttura della PA, così come individuata nelle UO di cui all’Allegato A, recepisce la più recente evoluzione dei servizi istituiti ed aggiornati per rispondere a nuove necessità, è diretta a razionalizzare e rendere coerente la distribuzione delle attività, e costituisce la base per gli interventi di innovazione organizzativa e di contenimento dei costi secondo gli indirizzi politici ed i progetti di cambiamento e trasformazione che potranno opportunamente essere adottati con l’introduzione dei presidi strategici previsti dal modello organizzativo di cui alla presente legge.
+4\. La struttura della PA, così come individuata nelle UO di cui all’Allegato A, recepisce la più recente evoluzione dei servizi istituiti ed aggiornati per rispondere a nuove necessità, è diretta a razionalizzare e rendere coerente la distribuzione delle attività, e costituisce la base per gli interventi di innovazione organizzativa e di contenimento dei costi secondo gli indirizzi politici ed i progetti di cambiamento e trasformazione che potranno opportunamente essere adottati con l’introduzione dei presidi strategici previsti dal modello organizzativo di cui alla presente legge.
 
 #### Art. 6
 
 (Descrizione delle UO)
 
-1.
-
-L’Allegato A alla presente legge indica titoli di studio e professionalità richiesti al Dirigente. Fermo restando quanto previsto dall’articolo 6 della Legge 31 luglio 2009 n.108 per i requisiti d’accesso alla posizione dirigenziale, e ferma restando la norma transitoria di cui al comma 7 dell’articolo 23 della medesima legge, l’Allegato A, nell’indicare i titoli di studio per ciascuna UO, può prevedere i titoli di studio specifici oppure una o più classi di laurea magistrale, oppure l’indirizzo o gli indirizzi dei titoli medesimi con l’eventuale specificazione delle discipline. L’indicazione delle lauree magistrali vale anche per le correlative lauree specialistiche o di vecchio ordinamento ai sensi delle norme vigenti sui titoli di studio. L’Allegato A può inoltre prevedere, per alcune UO, il requisito aggiuntivo dell’abilitazione professionale, o il conseguimento di titoli ulteriori rispetto alla laurea. I titoli comunque indicati costituiscono requisito per l’accesso alla posizione dirigenziale a cui si riferiscono. Salva diversa speciale indicazione dell’Allegato A:
+1\. L’Allegato A alla presente legge indica titoli di studio e professionalità richiesti al Dirigente. Fermo restando quanto previsto dall’articolo 6 della Legge 31 luglio 2009 n.108 per i requisiti d’accesso alla posizione dirigenziale, e ferma restando la norma transitoria di cui al comma 7 dell’articolo 23 della medesima legge, l’Allegato A, nell’indicare i titoli di studio per ciascuna UO, può prevedere i titoli di studio specifici oppure una o più classi di laurea magistrale, oppure l’indirizzo o gli indirizzi dei titoli medesimi con l’eventuale specificazione delle discipline. L’indicazione delle lauree magistrali vale anche per le correlative lauree specialistiche o di vecchio ordinamento ai sensi delle norme vigenti sui titoli di studio. L’Allegato A può inoltre prevedere, per alcune UO, il requisito aggiuntivo dell’abilitazione professionale, o il conseguimento di titoli ulteriori rispetto alla laurea. I titoli comunque indicati costituiscono requisito per l’accesso alla posizione dirigenziale a cui si riferiscono. Salva diversa speciale indicazione dell’Allegato A:
 
 a) nel caso in cui siano previste le classi o gli indirizzi, sono ammessi i corsi di laurea ad essi appartenenti con esclusione delle lauree in discipline non attinenti le funzioni dell’UO, qualora non siano accompagnate da titoli aggiuntivi riconosciuti attinenti le funzioni dell’UO;
 
@@ -182,115 +134,69 @@ b) nel caso in cui non siano indicati né titoli specifici né classi o indirizz
 
 c) si applica il comma 7 dell’articolo 23 della Legge n.108/2009 per i dirigenti in ruolo già inquadrati in specifico posto dirigenziale qualora l’ufficio/servizio di riferimento sia previsto come UO nell’Allegato A.
 
-2.
+2\. L’Allegato A prevede inoltre la retribuzione di posizione del Dirigente e del Direttore di Dipartimento ai sensi dell’articolo 19 della Legge 31 luglio 2009 n.108.
 
-L’Allegato A prevede inoltre la retribuzione di posizione del Dirigente e del Direttore di Dipartimento ai sensi dell’articolo 19 della Legge 31 luglio 2009 n.108.
+3\. Qualora l’Allegato A indichi la conoscenza della lingua inglese quale specifico requisito correlato alle funzioni della UO, la conoscenza deve essere adeguata alle specifiche attività da svolgere; per il personale che, alla data di entrata in vigore della presente legge, sia di ruolo nella posizione considerata e non possegga adeguata conoscenza della lingua inglese, quest’ultima può considerarsi sostituita da quella in lingua francese al fine del permanere del personale medesimo nello svolgimento delle funzioni ad esso assegnate nell’UO. Tale disposizione si applica anche al dirigente di ruolo su specifico posto dirigenziale, al fine del permanere del suo incarico nella medesima UO.
 
-3.
+4\. Allo scopo di favorire l’organizzazione delle attività e del personale nel modo più funzionale, le sezioni e le altre forme di suddivisione dei compiti delle UO non sono più previste per legge ma demandate all’autonomia organizzativa dei dirigenti.
 
-Qualora l’Allegato A indichi la conoscenza della lingua inglese quale specifico requisito correlato alle funzioni della UO, la conoscenza deve essere adeguata alle specifiche attività da svolgere; per il personale che, alla data di entrata in vigore della presente legge, sia di ruolo nella posizione considerata e non possegga adeguata conoscenza della lingua inglese, quest’ultima può considerarsi sostituita da quella in lingua francese al fine del permanere del personale medesimo nello svolgimento delle funzioni ad esso assegnate nell’UO. Tale disposizione si applica anche al dirigente di ruolo su specifico posto dirigenziale, al fine del permanere del suo incarico nella medesima UO.
+5\. Il decreto delegato sul fabbisogno integra la descrizione delle UO con i titoli di studio e le professionalità richieste al personale, con eventuali indicazioni per l’organizzazione ed eventuali specifiche disposizioni legate al fabbisogno medesimo.
 
-4.
+6\. L’Allegato A può inoltre prevedere eventuali prescrizioni e disposizioni anche a fini di coordinamento ed indirizzo.
 
-Allo scopo di favorire l’organizzazione delle attività e del personale nel modo più funzionale, le sezioni e le altre forme di suddivisione dei compiti delle UO non sono più previste per legge ma demandate all’autonomia organizzativa dei dirigenti.
+7\. A scopo di chiarimento e di coordinamento, nell’Allegato A può essere precisato che i richiami contenuti nelle norme vigenti ad un ufficio/servizio diversamente denominato, rispetto alla Legge 17 settembre 1993 n. 106 e successive modifiche, sono da intendersi riferiti all’UO indicata in ragione delle funzioni. Tale precisazione è omessa nel caso di chiara riconducibilità della nuova denominazione rispetto a quella precedente.
 
-5.
-
-Il decreto delegato sul fabbisogno integra la descrizione delle UO con i titoli di studio e le professionalità richieste al personale, con eventuali indicazioni per l’organizzazione ed eventuali specifiche disposizioni legate al fabbisogno medesimo.
-
-6.
-
-L’Allegato A può inoltre prevedere eventuali prescrizioni e disposizioni anche a fini di coordinamento ed indirizzo.
-
-7.
-
-A scopo di chiarimento e di coordinamento, nell’Allegato A può essere precisato che i richiami contenuti nelle norme vigenti ad un ufficio/servizio diversamente denominato, rispetto alla Legge 17 settembre 1993 n. 106 e successive modifiche, sono da intendersi riferiti all’UO indicata in ragione delle funzioni. Tale precisazione è omessa nel caso di chiara riconducibilità della nuova denominazione rispetto a quella precedente.
-
-8.
-
-L’eventuale spostamento di attività precedentemente demandate ad uffici/servizi dalle norme previgenti, risulta dalla descrizione delle funzioni delle UO/Enti, a cui l’Allegato A le attribuisce a fini di miglioramento dei servizi all’utenza e di razionalizzazione organizzativa.
+8\. L’eventuale spostamento di attività precedentemente demandate ad uffici/servizi dalle norme previgenti, risulta dalla descrizione delle funzioni delle UO/Enti, a cui l’Allegato A le attribuisce a fini di miglioramento dei servizi all’utenza e di razionalizzazione organizzativa.
 
 #### Art. 7
 
 (Modifiche a UO e funzioni)
 
-1.
-
-La missione è fissata per legge. L’istituzione di nuove UO, anche in virtù di sdoppiamento o di accorpamento di UO esistenti, avviene con legge ordinaria.
+1\. La missione è fissata per legge. L’istituzione di nuove UO, anche in virtù di sdoppiamento o di accorpamento di UO esistenti, avviene con legge ordinaria.
 
 L’accorpamento di UO avviene con decreto delegato, qualora la missione della UO, che risulti dall’accorpamento, derivi dalla sostanziale sommatoria delle missioni delle UO accorpate.
 
-2.
+2\. Per garantire servizi efficienti ed aggiornati rispetto all’evoluzione dei diversi settori di attività dell’amministrazione e rispetto alle esigenze dell’utenza e dello Stato anche nei rapporti internazionali, le funzioni delle UO, in coerenza con la loro missione, sono aggiornate e modificate con decreto delegato, anche per recepire le norme speciali nel frattempo entrate in vigore che abbiano modificato i compiti delle UO.
 
-Per garantire servizi efficienti ed aggiornati rispetto all’evoluzione dei diversi settori di attività dell’amministrazione e rispetto alle esigenze dell’utenza e dello Stato anche nei rapporti internazionali, le funzioni delle UO, in coerenza con la loro missione, sono aggiornate e modificate con decreto delegato, anche per recepire le norme speciali nel frattempo entrate in vigore che abbiano modificato i compiti delle UO.
+3\. In ogni caso, la necessità di aggiornamento e modifica di cui al comma che precede, è verificata in preparazione della definizione periodica del fabbisogno di cui all’articolo 23 della Legge 31 luglio 2009 n.105, in occasione della quale si tiene anche conto di eventuali esternalizzazioni e privatizzazioni.
 
-3.
-
-In ogni caso, la necessità di aggiornamento e modifica di cui al comma che precede, è verificata in preparazione della definizione periodica del fabbisogno di cui all’articolo 23 della Legge 31 luglio 2009 n.105, in occasione della quale si tiene anche conto di eventuali esternalizzazioni e privatizzazioni.
-
-4.
-
-L’esternalizzazione, attraverso cui si demanda a soggetto privato lo svolgimento di una o più attività di competenza di una UO, incide sul fabbisogno ma non modifica l’attribuzione delle pertinenti funzioni alla UO medesima, a cui resta il compito di presidiarle nell’interesse dell’amministrazione. Le esternalizzazioni sono deliberate dal Congresso di Stato, sulla base di appositi progetti organizzativi proposti dalla DGFP, fatti salvi eventuali atti normativi che dovessero rendersi necessari.
+4\. L’esternalizzazione, attraverso cui si demanda a soggetto privato lo svolgimento di una o più attività di competenza di una UO, incide sul fabbisogno ma non modifica l’attribuzione delle pertinenti funzioni alla UO medesima, a cui resta il compito di presidiarle nell’interesse dell’amministrazione. Le esternalizzazioni sono deliberate dal Congresso di Stato, sulla base di appositi progetti organizzativi proposti dalla DGFP, fatti salvi eventuali atti normativi che dovessero rendersi necessari.
 
 #### Art. 8
 
 (Incompatibilità e prescrizioni per le UO)
 
-1.
-
-Le incompatibilità per dipendenti pubblici e dirigenti saranno disciplinate con legge ordinaria da emanarsi entro il 31 dicembre 2011.
+1\. Le incompatibilità per dipendenti pubblici e dirigenti saranno disciplinate con legge ordinaria da emanarsi entro il 31 dicembre 2011.
 
 #### Art. 9
 
 (UO Dipartimenti ed Enti)
 
-1.
+1\. Nell’Allegato A alla presente legge sono indicate le assegnazioni delle UO ai rispettivi Dipartimenti.
 
-Nell’Allegato A alla presente legge sono indicate le assegnazioni delle UO ai rispettivi Dipartimenti.
+2\. L’assegnazione delle UO ai Dipartimenti e le relazioni funzionali degli Enti possono essere modificate con decreto delegato in coerenza con le modifiche di cui all’articolo 7 ed i compiti degli Enti medesimi, tenuto conto degli ambiti di pertinenza di ciascun Dipartimento così come definiti da Legge Qualificata.
 
-2.
-
-L’assegnazione delle UO ai Dipartimenti e le relazioni funzionali degli Enti possono essere modificate con decreto delegato in coerenza con le modifiche di cui all’articolo 7 ed i compiti degli Enti medesimi, tenuto conto degli ambiti di pertinenza di ciascun Dipartimento così come definiti da Legge Qualificata.
-
-3.
-
-Le norme di cui all’Allegato A, costituiscono fonte normativa a tutti gli effetti e pertanto abrogano le corrispondenti norme della Legge 17 settembre 1993 n.106 e successive modifiche, abrogano e modificano le norme speciali in contrasto relative alle UO così come descritte nell’allegato stesso, abrogano le norme istitutive di uffici/servizi non previsti nell’Allegato A.
+3\. Le norme di cui all’Allegato A, costituiscono fonte normativa a tutti gli effetti e pertanto abrogano le corrispondenti norme della Legge 17 settembre 1993 n.106 e successive modifiche, abrogano e modificano le norme speciali in contrasto relative alle UO così come descritte nell’allegato stesso, abrogano le norme istitutive di uffici/servizi non previsti nell’Allegato A.
 
 #### Art. 10
 
 (Assegnazione del personale alle Unità Organizzative)
 
-1.
+1\. Con l’entrata in vigore della presente legge, per effetto del principio di assegnazione e della sostituzione dei posti con i profili di ruolo ed il fabbisogno, sono superate la titolarità ed inamovibilità del posto.
 
-Con l’entrata in vigore della presente legge, per effetto del principio di assegnazione e della sostituzione dei posti con i profili di ruolo ed il fabbisogno, sono superate la titolarità ed inamovibilità del posto.
+2\. Il personale è assegnato alle Unità Organizzative (Dipartimenti, Enti, Servizi e Uffici) per perseguire le funzioni delle stesse e assolvere ai relativi compiti coerentemente con le qualifiche ed i Profili di Ruolo.
 
-2.
+3\. L’assegnazione dei dipendenti alle UO tiene conto delle necessità qualitative e quantitative di personale, rilevate anche in occasione della definizione del fabbisogno, ed è disposta con atto degli organi competenti ai sensi della presente legge e delle norme vigenti nonché in base a regole concordate con le Organizzazioni Sindacali.
 
-Il personale è assegnato alle Unità Organizzative (Dipartimenti, Enti, Servizi e Uffici) per perseguire le funzioni delle stesse e assolvere ai relativi compiti coerentemente con le qualifiche ed i Profili di Ruolo.
+4\. L’assegnazione è modificabile per rispondere alle esigenze di ottimale erogazione dei servizi all’utenza ed organizzazione del lavoro e di funzionale utilizzo del personale.
 
-3.
+5\. I dipendenti, a prescindere dallo status/inquadramento e dal tipo di rapporto, sono assegnati alle posizioni per le quali si determina la necessità anche temporanea nell’ambito delle competenze professionali ed in presenza dei requisiti richiesti, fermo restando in ogni caso il dovere dei dipendenti di collaborare, coadiuvarsi e di supplirsi vicendevolmente per il regolare funzionamento delle attività.
 
-L’assegnazione dei dipendenti alle UO tiene conto delle necessità qualitative e quantitative di personale, rilevate anche in occasione della definizione del fabbisogno, ed è disposta con atto degli organi competenti ai sensi della presente legge e delle norme vigenti nonché in base a regole concordate con le Organizzazioni Sindacali.
+6\. Il personale è assegnato al Dipartimento o Ente oppure alle UO in cui questi si articolano.
 
-4.
+7\. Il Dirigente, nell’organizzare il personale assegnato all’UO diretta, definisce gli ambiti operativi e di responsabilità dei dipendenti all’interno della struttura in coerenza con le funzioni della UO medesima e con la qualifica/PDR per il pubblico impiego, e con la qualifica di appartenenza per il restante personale.
 
-L’assegnazione è modificabile per rispondere alle esigenze di ottimale erogazione dei servizi all’utenza ed organizzazione del lavoro e di funzionale utilizzo del personale.
-
-5.
-
-I dipendenti, a prescindere dallo status/inquadramento e dal tipo di rapporto, sono assegnati alle posizioni per le quali si determina la necessità anche temporanea nell’ambito delle competenze professionali ed in presenza dei requisiti richiesti, fermo restando in ogni caso il dovere dei dipendenti di collaborare, coadiuvarsi e di supplirsi vicendevolmente per il regolare funzionamento delle attività.
-
-6.
-
-Il personale è assegnato al Dipartimento o Ente oppure alle UO in cui questi si articolano.
-
-7.
-
-Il Dirigente, nell’organizzare il personale assegnato all’UO diretta, definisce gli ambiti operativi e di responsabilità dei dipendenti all’interno della struttura in coerenza con le funzioni della UO medesima e con la qualifica/PDR per il pubblico impiego, e con la qualifica di appartenenza per il restante personale.
-
-8.
-
-Le assegnazioni del personale docente della Scuola seguono le disposizioni particolari previste per i vari ordini di Scuola.
+8\. Le assegnazioni del personale docente della Scuola seguono le disposizioni particolari previste per i vari ordini di Scuola.
 
 ## TITOLO III
 
@@ -304,29 +210,19 @@ PRINCIPI DI FUNZIONAMENTO
 
 (Congresso di Stato)
 
-1.
+1\. Il Congresso di Stato e i Segretari di Stato, nell’ambito delle rispettive deleghe, si relazionano ai Dipartimenti e alle Unità Organizzative, di cui hanno responsabilità ai sensi degli articoli 4 e 5 della Legge Costituzionale 15 dicembre 2005 n.183, per le attività specialistiche afferenti agli stessi, si relazionano alla Direzione Generale della Funzione Pubblica per le attività di competenza della stessa e per quelle trasversali a tutti i Dipartimenti inerenti il rapporto di Pubblico Impiego, l’ammodernamento e il miglioramento organizzativo.
 
-Il Congresso di Stato e i Segretari di Stato, nell’ambito delle rispettive deleghe, si relazionano ai Dipartimenti e alle Unità Organizzative, di cui hanno responsabilità ai sensi degli articoli 4 e 5 della Legge Costituzionale 15 dicembre 2005 n.183, per le attività specialistiche afferenti agli stessi, si relazionano alla Direzione Generale della Funzione Pubblica per le attività di competenza della stessa e per quelle trasversali a tutti i Dipartimenti inerenti il rapporto di Pubblico Impiego, l’ammodernamento e il miglioramento organizzativo.
+2\. Il Congresso di Stato definisce gli obiettivi, sia di carattere generale, tenuto conto delle proposte della Direzione Generale della Funzione Pubblica, sia di carattere settoriale o specialistico.
 
-2.
+3\. Il Congresso di Stato esercita inoltre, tramite specifiche attività della Direzione Generale della Funzione Pubblica, funzioni di verifica e controllo in ordine al perseguimento e raggiungimento degli obiettivi.
 
-Il Congresso di Stato definisce gli obiettivi, sia di carattere generale, tenuto conto delle proposte della Direzione Generale della Funzione Pubblica, sia di carattere settoriale o specialistico.
-
-3.
-
-Il Congresso di Stato esercita inoltre, tramite specifiche attività della Direzione Generale della Funzione Pubblica, funzioni di verifica e controllo in ordine al perseguimento e raggiungimento degli obiettivi.
-
-4.
-
-I piani e i progetti settoriali e specialistici competono, in relazione all’ambito di pertinenza, al Direttore di Dipartimento e al Dirigente dell’UO interessata.
+4\. I piani e i progetti settoriali e specialistici competono, in relazione all’ambito di pertinenza, al Direttore di Dipartimento e al Dirigente dell’UO interessata.
 
 #### Art. 12
 
 (Organizzazione Segreterie di Stato)
 
-1.
-
-Allo scopo di attuare la separazione delle competenze politiche da quelle amministrative e di tradurre sul piano organizzativo la distinzione fra l’attività dell’amministrazione e l’attività del Congresso di Stato e delle Segreterie di Stato, sulla base delle funzioni ed attribuzioni per essi previste dalle Leggi Costituzionale n.183/2005 e Qualificata n.184/2005, e tenuto conto di quanto dispongono la presente legge, in merito all’organizzazione dell’amministrazione, e la Legge Quadro 31 luglio 2009 n.105, con decreto delegato:
+1\. Allo scopo di attuare la separazione delle competenze politiche da quelle amministrative e di tradurre sul piano organizzativo la distinzione fra l’attività dell’amministrazione e l’attività del Congresso di Stato e delle Segreterie di Stato, sulla base delle funzioni ed attribuzioni per essi previste dalle Leggi Costituzionale n.183/2005 e Qualificata n.184/2005, e tenuto conto di quanto dispongono la presente legge, in merito all’organizzazione dell’amministrazione, e la Legge Quadro 31 luglio 2009 n.105, con decreto delegato:
 
 a) sono introdotte regole per la gestione contabile ed amministrativa delle spese correnti necessarie per l’espletamento dell’attività delle Segreterie di Stato, con caratteri di trasparenza, certezza e che renda vincolanti i budget di spesa per ciascuna segreteria e per voci di costo, ivi comprese quelle per tutto il personale e le collaborazioni libero professionali. Il Congresso di Stato definisce i budget tenuto conto degli obiettivi previsti dal Programma di Governo, dei settori di pertinenza di ciascuna Segreteria di Stato, delle norme e degli indirizzi di contenimento della spesa.
 
@@ -342,29 +238,17 @@ nell’espletamento delle quali sia necessario assicurare trasparenza, certezza,
 
 (Dipartimenti e UO)
 
-1.
+1\. I Dipartimenti sono costituiti per le finalità previste dall’articolo 8 della Legge 31 luglio 2009 n.105 e, ai sensi della medesima legge, per assicurare l'esercizio organico ed integrato dei settori di competenza, con compiti di supporto, indirizzo, impulso e coordinamento delle Unità Organizzative in cui si articolano i Dipartimenti stessi, per quanto concerne gli aspetti organizzativi, di gestione delle risorse, del rapporto con l’utenza, dell’applicazione delle norme di riferimento e dell’innovazione tecnologica e dei servizi, il miglioramento della funzionalità dell’attività amministrativa, in termini di efficacia ed efficienza, economicità, e sviluppo dei servizi e delle professionalità.
 
-I Dipartimenti sono costituiti per le finalità previste dall’articolo 8 della Legge 31 luglio 2009 n.105 e, ai sensi della medesima legge, per assicurare l'esercizio organico ed integrato dei settori di competenza, con compiti di supporto, indirizzo, impulso e coordinamento delle Unità Organizzative in cui si articolano i Dipartimenti stessi, per quanto concerne gli aspetti organizzativi, di gestione delle risorse, del rapporto con l’utenza, dell’applicazione delle norme di riferimento e dell’innovazione tecnologica e dei servizi, il miglioramento della funzionalità dell’attività amministrativa, in termini di efficacia ed efficienza, economicità, e sviluppo dei servizi e delle professionalità.
+2\. I Direttori di Dipartimento ed i Dirigenti, nelle materie rispettivamente del settore e specialistiche, costituiscono il riferimento amministrativo e tecnico per i Segretari di Stato competenti ed il Congresso di Stato, nonché per l’amministrazione nel suo complesso.
 
-2.
+3\. In relazione alle attività e materie attinenti il funzionamento organizzativo, i Dirigenti e i Direttori di Dipartimento si attengono agli indirizzi e alle direttive della Direzione Generale della Funzione Pubblica e partecipano ai progetti di carattere trasversale secondo i compiti assegnati.
 
-I Direttori di Dipartimento ed i Dirigenti, nelle materie rispettivamente del settore e specialistiche, costituiscono il riferimento amministrativo e tecnico per i Segretari di Stato competenti ed il Congresso di Stato, nonché per l’amministrazione nel suo complesso.
+4\. Il Direttore di Dipartimento costituisce, nella linea verticale, il responsabile organizzativo del dipartimento di pertinenza, assume le decisioni e adotta gli atti previsti dalla presente legge. Favorisce e valorizza l’apporto dei Dirigenti, ricerca la loro condivisione sui piani e sui progetti, anche attraverso il Consiglio di Dipartimento, e porta a sintesi le indicazioni da questi pervenute per realizzare gli obiettivi assegnati al Dipartimento stesso.
 
-3.
+5\. Le Unità Organizzative mantengono la loro autonomia e responsabilità professionale e gestionale e pertanto la competenza nelle specifiche funzioni delle UO e nell’adozione dei conseguenti atti di rilevanza esterna è attribuita ai rispettivi dirigenti. I Dirigenti, attraverso funzioni attuative e proattive, assicurano il miglioramento delle attività della UO diretta e la fattiva collaborazione per il generale funzionamento ed ammodernamento dell’amministrazione.
 
-In relazione alle attività e materie attinenti il funzionamento organizzativo, i Dirigenti e i Direttori di Dipartimento si attengono agli indirizzi e alle direttive della Direzione Generale della Funzione Pubblica e partecipano ai progetti di carattere trasversale secondo i compiti assegnati.
-
-4.
-
-Il Direttore di Dipartimento costituisce, nella linea verticale, il responsabile organizzativo del dipartimento di pertinenza, assume le decisioni e adotta gli atti previsti dalla presente legge. Favorisce e valorizza l’apporto dei Dirigenti, ricerca la loro condivisione sui piani e sui progetti, anche attraverso il Consiglio di Dipartimento, e porta a sintesi le indicazioni da questi pervenute per realizzare gli obiettivi assegnati al Dipartimento stesso.
-
-5.
-
-Le Unità Organizzative mantengono la loro autonomia e responsabilità professionale e gestionale e pertanto la competenza nelle specifiche funzioni delle UO e nell’adozione dei conseguenti atti di rilevanza esterna è attribuita ai rispettivi dirigenti. I Dirigenti, attraverso funzioni attuative e proattive, assicurano il miglioramento delle attività della UO diretta e la fattiva collaborazione per il generale funzionamento ed ammodernamento dell’amministrazione.
-
-6.
-
-In particolare, per il buon funzionamento dell’organizzazione e dell’attività amministrativa specifica e complessivamente intesa, Dirigenti e Direttori di Dipartimento, con le attribuzioni per essi previste e negli ambiti di competenza:
+6\. In particolare, per il buon funzionamento dell’organizzazione e dell’attività amministrativa specifica e complessivamente intesa, Dirigenti e Direttori di Dipartimento, con le attribuzioni per essi previste e negli ambiti di competenza:
 
 a) formulano proposte e contribuiscono alla elaborazione e realizzazione di progetti;
 
@@ -380,57 +264,33 @@ e) garantiscono la circolazione delle informazioni e la comunicazione interna.
 
 (Direttori di Enti e Aziende Autonome del Settore Pubblico Allargato)
 
-1.
+1\. I Direttori degli Enti e Aziende Autonome del Settore Pubblico Allargato, per quanto non espressamente previsto dalla presente legge, sono soggetti alle norme per essi previste dalle speciali norme di riferimento.
 
-I Direttori degli Enti e Aziende Autonome del Settore Pubblico Allargato, per quanto non espressamente previsto dalla presente legge, sono soggetti alle norme per essi previste dalle speciali norme di riferimento.
+2\. Hanno le stesse funzioni e attribuzioni previste per i Direttori di Dipartimento all’articolo 19 della presente legge, con l’esclusione di quanto previsto alle lettere f) e g) del comma 2, per le quali si applicano le speciali norme previste per gli Enti.
 
-2.
+3\. Rispondono ai Segretari di Stato competenti e al Congresso di Stato così come i Direttori di Dipartimento.
 
-Hanno le stesse funzioni e attribuzioni previste per i Direttori di Dipartimento all’articolo 19 della presente legge, con l’esclusione di quanto previsto alle lettere f) e g) del comma 2, per le quali si applicano le speciali norme previste per gli Enti.
+4\. Hanno un riporto funzionale con la Direzione Generale della Funzione Pubblica per l’applicazione delle norme sul personale e si attengono agli indirizzi dalla stessa formulati nelle materie di sua competenza per il buon funzionamento del Settore Pubblico Allargato.
 
-3.
+5\. Per ciò che concerne il personale di appartenenza, il Direttore dell’Ente esercita la funzione di capo del personale ed in tale veste ha un riporto funzionale con la DGFP.
 
-Rispondono ai Segretari di Stato competenti e al Congresso di Stato così come i Direttori di Dipartimento.
-
-4.
-
-Hanno un riporto funzionale con la Direzione Generale della Funzione Pubblica per l’applicazione delle norme sul personale e si attengono agli indirizzi dalla stessa formulati nelle materie di sua competenza per il buon funzionamento del Settore Pubblico Allargato.
-
-5.
-
-Per ciò che concerne il personale di appartenenza, il Direttore dell’Ente esercita la funzione di capo del personale ed in tale veste ha un riporto funzionale con la DGFP.
-
-6.
-
-Ai fini di una coerente applicazione delle norme di contabilità, il Direttore dell’Ente ha relazioni dirette e collabora con le competenti UO del Dipartimento Finanze e Bilancio ed ha un riporto funzionale con il Dipartimento medesimo per ciò che concerne gli aspetti finanziari e di bilancio.
+6\. Ai fini di una coerente applicazione delle norme di contabilità, il Direttore dell’Ente ha relazioni dirette e collabora con le competenti UO del Dipartimento Finanze e Bilancio ed ha un riporto funzionale con il Dipartimento medesimo per ciò che concerne gli aspetti finanziari e di bilancio.
 
 #### Art. 15
 
 (Direzione Generale della Funzione Pubblica)
 
-1.
+1\. La Direzione Generale della Funzione Pubblica, ai sensi dell’articolo 10 della Legge 31 luglio 2009 n.105, assicura l’ottimizzazione dell’attività amministrativa con particolare riferimento al rapporto di impiego, allo sviluppo e alla gestione ottimale delle risorse umane, all’organizzazione del lavoro, a servizi rispondenti alle esigenze dell’utenza, alla semplificazione delle procedure, alla normativa sull’attività amministrativa, all’economicità della gestione, alla circolazione delle informazioni, all’innovazione organizzativa e tecnologica.
 
-La Direzione Generale della Funzione Pubblica, ai sensi dell’articolo 10 della Legge 31 luglio 2009 n.105, assicura l’ottimizzazione dell’attività amministrativa con particolare riferimento al rapporto di impiego, allo sviluppo e alla gestione ottimale delle risorse umane, all’organizzazione del lavoro, a servizi rispondenti alle esigenze dell’utenza, alla semplificazione delle procedure, alla normativa sull’attività amministrativa, all’economicità della gestione, alla circolazione delle informazioni, all’innovazione organizzativa e tecnologica.
+2\. A tale scopo e per l’attuazione degli indirizzi e degli obiettivi di carattere generale impartiti dal Congresso di Stato, elabora le più opportune strategie, emana direttive, adotta indirizzi, assume decisioni e fornisce il supporto tecnico, anche attraverso disposizioni applicative e regolamenti.
 
-2.
+3\. Negli ambiti di cui al comma 1 esercita funzioni di linea verticale nella PA. Negli ambiti relativi al rapporto di impiego e alla corretta e coerente gestione delle risorse umane, nonché alla normativa generale sull’attività amministrativa esercita funzioni di linea verticale anche sugli Enti del Settore Pubblico Allargato.
 
-A tale scopo e per l’attuazione degli indirizzi e degli obiettivi di carattere generale impartiti dal Congresso di Stato, elabora le più opportune strategie, emana direttive, adotta indirizzi, assume decisioni e fornisce il supporto tecnico, anche attraverso disposizioni applicative e regolamenti.
+4\. Esercita funzioni di linea orizzontale per il Settore Pubblico Allargato nella predisposizione di piani e progetti, nel supporto tecnico a progetti di innovazione organizzativa anche settoriali, nel controllo dei processi trasversali inerenti l’organizzazione, nel monitoraggio degli indicatori di prestazione qualitativi e quantitativi delle attività e delle risorse utilizzate.
 
-3.
+5\. La definizione degli obiettivi e la programmazione degli interventi, avviene con il coinvolgimento dei Direttori dei Dipartimenti e dei Dirigenti interessati, nonché con la partecipazione delle Unità Organizzative competenti per materia.
 
-Negli ambiti di cui al comma 1 esercita funzioni di linea verticale nella PA. Negli ambiti relativi al rapporto di impiego e alla corretta e coerente gestione delle risorse umane, nonché alla normativa generale sull’attività amministrativa esercita funzioni di linea verticale anche sugli Enti del Settore Pubblico Allargato.
-
-4.
-
-Esercita funzioni di linea orizzontale per il Settore Pubblico Allargato nella predisposizione di piani e progetti, nel supporto tecnico a progetti di innovazione organizzativa anche settoriali, nel controllo dei processi trasversali inerenti l’organizzazione, nel monitoraggio degli indicatori di prestazione qualitativi e quantitativi delle attività e delle risorse utilizzate.
-
-5.
-
-La definizione degli obiettivi e la programmazione degli interventi, avviene con il coinvolgimento dei Direttori dei Dipartimenti e dei Dirigenti interessati, nonché con la partecipazione delle Unità Organizzative competenti per materia.
-
-6.
-
-La Direzione Generale della Funzione Pubblica, attraverso l’esercizio delle proprie specifiche funzioni ed i pertinenti riporti funzionali, costituisce il referente di tutti gli organi istituzionali ed amministrativi nelle materie di sua competenza.
+6\. La Direzione Generale della Funzione Pubblica, attraverso l’esercizio delle proprie specifiche funzioni ed i pertinenti riporti funzionali, costituisce il referente di tutti gli organi istituzionali ed amministrativi nelle materie di sua competenza.
 
 ### CAPO II
 
@@ -440,45 +300,29 @@ ORGANIZZAZIONE DIPARTIMENTALE
 
 (Funzioni dei Dipartimenti)
 
-1.
-
-Ciascun Dipartimento, oltre a quanto previsto nel presente titolo, è tenuto a realizzare eventuali ulteriori specifici compiti assegnati in ragione delle differenti esigenze organizzative legate alle funzioni delle UO afferenti, alle competenze ad esso attribuite dalla legge, ed ai progetti di sviluppo nell’ambito di competenza.
+1\. Ciascun Dipartimento, oltre a quanto previsto nel presente titolo, è tenuto a realizzare eventuali ulteriori specifici compiti assegnati in ragione delle differenti esigenze organizzative legate alle funzioni delle UO afferenti, alle competenze ad esso attribuite dalla legge, ed ai progetti di sviluppo nell’ambito di competenza.
 
 #### Art. 17
 
 (Organi del Dipartimento)
 
-1.
+1\. Sono organi del Dipartimento il Consiglio di Dipartimento e il Direttore di Dipartimento.
 
-Sono organi del Dipartimento il Consiglio di Dipartimento e il Direttore di Dipartimento.
-
-2.
-
-Per lo svolgimento delle funzioni di pertinenza e delle attività demandate, il Direttore di Dipartimento si avvale della struttura di staff, qualora prevista, degli Organi Collegiali eventualmente afferenti e delle UO del Dipartimento.
+2\. Per lo svolgimento delle funzioni di pertinenza e delle attività demandate, il Direttore di Dipartimento si avvale della struttura di staff, qualora prevista, degli Organi Collegiali eventualmente afferenti e delle UO del Dipartimento.
 
 #### Art. 18
 
 (Consiglio di Dipartimento)
 
-1.
+1\. Il Consiglio di Dipartimento è composto dai Dirigenti delle singole Unità Organizzative ed è presieduto e convocato dal Direttore del Dipartimento. Il Consiglio di Dipartimento si riunisce ogni qual volta sia ritenuto necessario dal Direttore, anche su richiesta dei Dirigenti.
 
-Il Consiglio di Dipartimento è composto dai Dirigenti delle singole Unità Organizzative ed è presieduto e convocato dal Direttore del Dipartimento. Il Consiglio di Dipartimento si riunisce ogni qual volta sia ritenuto necessario dal Direttore, anche su richiesta dei Dirigenti.
+2\. Possono essere chiamati a partecipare alle riunioni Dirigenti di altri Dipartimenti ed Enti, nonché eventuali funzionari ed esperti con competenza nelle materie all’ordine del giorno.
 
-2.
+3\. Il Consiglio di Dipartimento è organo consultivo, propositivo e di condivisione di conoscenze, pratiche e informazioni afferenti il Dipartimento, le Unità Organizzative e le relazioni con altre unità funzionali.
 
-Possono essere chiamati a partecipare alle riunioni Dirigenti di altri Dipartimenti ed Enti, nonché eventuali funzionari ed esperti con competenza nelle materie all’ordine del giorno.
+4\. Il Direttore di Dipartimento adotta le decisioni in esito alla riunione, ricercando la più ampia condivisione e favorendo la partecipazione dei Dirigenti.
 
-3.
-
-Il Consiglio di Dipartimento è organo consultivo, propositivo e di condivisione di conoscenze, pratiche e informazioni afferenti il Dipartimento, le Unità Organizzative e le relazioni con altre unità funzionali.
-
-4.
-
-Il Direttore di Dipartimento adotta le decisioni in esito alla riunione, ricercando la più ampia condivisione e favorendo la partecipazione dei Dirigenti.
-
-5.
-
-Le principali funzioni del Consiglio di Dipartimento sono:
+5\. Le principali funzioni del Consiglio di Dipartimento sono:
 
 a) esaminare i piani e i programmi assegnati al Dipartimento ed alle UO e valutare l’allocazione delle risorse destinate alla loro attuazione;
 
@@ -506,13 +350,9 @@ k) deliberare negli ambiti ad esso demandati dalle leggi e regolamenti vigenti.
 
 (Direttore di Dipartimento)
 
-1.
+1\. Il Direttore di Dipartimento è responsabile, nei confronti dei Segretari di Stato di competenza e del Congresso di Stato, del funzionamento coordinato delle UO del Dipartimento, attraverso l’ottimale utilizzo delle risorse umane, economiche e strumentali nel Dipartimento per l’attuazione degli indirizzi, delle direttive e dei programmi ed il raggiungimento degli obiettivi assegnati. Al Direttore di Dipartimento non compete l’esercizio delle attività inerenti la missione e le funzioni delle UO né l’adozione di atti a rilevanza esterna, nel rispetto dell’autonomia e dell’esclusiva competenza dei dirigenti.
 
-Il Direttore di Dipartimento è responsabile, nei confronti dei Segretari di Stato di competenza e del Congresso di Stato, del funzionamento coordinato delle UO del Dipartimento, attraverso l’ottimale utilizzo delle risorse umane, economiche e strumentali nel Dipartimento per l’attuazione degli indirizzi, delle direttive e dei programmi ed il raggiungimento degli obiettivi assegnati. Al Direttore di Dipartimento non compete l’esercizio delle attività inerenti la missione e le funzioni delle UO né l’adozione di atti a rilevanza esterna, nel rispetto dell’autonomia e dell’esclusiva competenza dei dirigenti.
-
-2.
-
-In particolare:
+2\. In particolare:
 
 a) adotta gli atti ad esso demandati dalle norme, con particolare riferimento al trasferimento delle competenze dal Congresso di Stato all’amministrazione in materia di spesa e personale e in altre materie individuate, in attuazione dei principi contenuti nel Titolo V della Legge Qualificata 15 dicembre 2005 n.184 e in particolare del principio di separazione tra indirizzo politico e gestione amministrativa e previsti dai Titoli II e III della Legge Quadro 31 luglio 2009 n.105;
 
@@ -538,77 +378,45 @@ j) esercita le ulteriori funzioni ad esso attribuite e previste dalle norme vige
 
 (Requisiti ed incarico del Direttore di Dipartimento)
 
-1.
+1\. I requisiti necessari per l’accesso alla posizione di Direttore di Dipartimento sono quelli previsti per l’accesso alla posizione dirigenziale. Il Direttore di Dipartimento deve possedere capacità organizzative e manageriali con conoscenze, esperienza e competenza nel settore di riferimento del Dipartimento.
 
-I requisiti necessari per l’accesso alla posizione di Direttore di Dipartimento sono quelli previsti per l’accesso alla posizione dirigenziale. Il Direttore di Dipartimento deve possedere capacità organizzative e manageriali con conoscenze, esperienza e competenza nel settore di riferimento del Dipartimento.
+2\. L’incarico di Direttore di Dipartimento è conferito a tempo determinato mediante delibera di nomina del Congresso di Stato, ed è regolato da contratto della durata massima di tre anni con possibilità di rinnovo. La nomina ed il relativo contratto scadono comunque con la legislatura.
 
-2.
+3\. Il Congresso di Stato può deliberare, qualora venga meno il rapporto fiduciario, il recesso anticipato dal contratto con il preavviso minimo di un mese. Il Direttore di Dipartimento con il preavviso minimo di tre mesi.
 
-L’incarico di Direttore di Dipartimento è conferito a tempo determinato mediante delibera di nomina del Congresso di Stato, ed è regolato da contratto della durata massima di tre anni con possibilità di rinnovo. La nomina ed il relativo contratto scadono comunque con la legislatura.
+4\. Il Congresso di Stato dichiara la decadenza del Direttore di Dipartimento allorché sia accertato il venir meno delle condizioni essenziali per la permanenza nelle funzioni o siano intervenute cause di incompatibilità.
 
-3.
+5\. La funzione di Direttore di Dipartimento è esercitata a tempo pieno ed in via esclusiva o, in via straordinaria qualora consentito dai programmi, progetti ed attività del periodo considerato, può essere conferita ad un dirigente di una UO del medesimo Dipartimento che la esercita unitamente alla funzione dirigenziale. All’incarico di Direttore di Dipartimento si applicano le incompatibilità generali di cui all’articolo 16 della Legge 31 luglio 2009 n.108. L'incarico è inoltre incompatibile con la carica di membro del Consiglio Grande e Generale, con cariche in organismi direttivi di associazioni di categoria e libero-professionali, sindacali e di partiti e movimenti politici.
 
-Il Congresso di Stato può deliberare, qualora venga meno il rapporto fiduciario, il recesso anticipato dal contratto con il preavviso minimo di un mese. Il Direttore di Dipartimento con il preavviso minimo di tre mesi.
+6\. Si applicano al Direttore di Dipartimento e al relativo contratto di lavoro, le norme previste per la Dirigenza in quanto compatibili. Il riporto al Direttore di Dipartimento previsto in tali norme per i Dirigenti, deve intendersi, per i Direttori di Dipartimento, riferito ai Segretari di Stato competenti e al Congresso di Stato.
 
-4.
+7\. La retribuzione del Direttore di Dipartimento è stabilita nel decreto delegato di cui all’articolo 19 della Legge 31 luglio 2009 n. 108.
 
-Il Congresso di Stato dichiara la decadenza del Direttore di Dipartimento allorché sia accertato il venir meno delle condizioni essenziali per la permanenza nelle funzioni o siano intervenute cause di incompatibilità.
+8\. La nomina a Direttore di Dipartimento, qualora l’incarico sia attribuito in via esclusiva, comporta il distacco per coloro che sono in organico, e la cessazione del precedente incarico per coloro che sono stati assunti a contratto. Si applica il comma 4 dell’articolo 23 della Legge n.108/2009 per la nomina di dirigenti che si trovino nelle condizioni ivi contemplate.
 
-5.
+9\. Per il personale in organico il periodo di distacco viene computato ai fini del trattamento di quiescenza e di previdenza e dell'anzianità di servizio.
 
-La funzione di Direttore di Dipartimento è esercitata a tempo pieno ed in via esclusiva o, in via straordinaria qualora consentito dai programmi, progetti ed attività del periodo considerato, può essere conferita ad un dirigente di una UO del medesimo Dipartimento che la esercita unitamente alla funzione dirigenziale. All’incarico di Direttore di Dipartimento si applicano le incompatibilità generali di cui all’articolo 16 della Legge 31 luglio 2009 n.108. L'incarico è inoltre incompatibile con la carica di membro del Consiglio Grande e Generale, con cariche in organismi direttivi di associazioni di categoria e libero-professionali, sindacali e di partiti e movimenti politici.
+10\. La nomina a Direttore di Dipartimento di lavoratori subordinati esterni all’amministrazione determina, a domanda, il collocamento in aspettativa per l’intera durata dell’incarico. Nel caso in cui il lavoratore riassuma il servizio può ottenere la ricostruzione della carriera, previo versamento delle ritenute di legge in base agli emolumenti spettanti al momento del rientro.
 
-6.
-
-Si applicano al Direttore di Dipartimento e al relativo contratto di lavoro, le norme previste per la Dirigenza in quanto compatibili. Il riporto al Direttore di Dipartimento previsto in tali norme per i Dirigenti, deve intendersi, per i Direttori di Dipartimento, riferito ai Segretari di Stato competenti e al Congresso di Stato.
-
-7.
-
-La retribuzione del Direttore di Dipartimento è stabilita nel decreto delegato di cui all’articolo 19 della Legge 31 luglio 2009 n. 108.
-
-8.
-
-La nomina a Direttore di Dipartimento, qualora l’incarico sia attribuito in via esclusiva, comporta il distacco per coloro che sono in organico, e la cessazione del precedente incarico per coloro che sono stati assunti a contratto. Si applica il comma 4 dell’articolo 23 della Legge n.108/2009 per la nomina di dirigenti che si trovino nelle condizioni ivi contemplate.
-
-9.
-
-Per il personale in organico il periodo di distacco viene computato ai fini del trattamento di quiescenza e di previdenza e dell'anzianità di servizio.
-
-10.
-
-La nomina a Direttore di Dipartimento di lavoratori subordinati esterni all’amministrazione determina, a domanda, il collocamento in aspettativa per l’intera durata dell’incarico. Nel caso in cui il lavoratore riassuma il servizio può ottenere la ricostruzione della carriera, previo versamento delle ritenute di legge in base agli emolumenti spettanti al momento del rientro.
-
-11.
-
-La valutazione dell’operato del Direttore di Dipartimento compete al Congresso di Stato sentita, per gli ambiti di competenza, la Direzione Generale della Funzione Pubblica.
+11\. La valutazione dell’operato del Direttore di Dipartimento compete al Congresso di Stato sentita, per gli ambiti di competenza, la Direzione Generale della Funzione Pubblica.
 
 #### Art. 21
 
 (Sostituzione del Direttore di Dipartimento)
 
-1.
+1\. Il Direttore di Dipartimento può delegare un collega direttore di dipartimento a sostituirlo per l’adozione degli atti di sua competenza, in caso di breve assenza o impedimento.
 
-Il Direttore di Dipartimento può delegare un collega direttore di dipartimento a sostituirlo per l’adozione degli atti di sua competenza, in caso di breve assenza o impedimento.
+2\. In caso di assenza prolungata, il Congresso di Stato può incaricare, nelle funzioni di Direttore di Dipartimento, un Dirigente di Unità Organizzativa del Dipartimento stesso o un membro della Direzione Generale della Funzione Pubblica, i quali esercitano tali funzioni unitamente alle proprie.
 
-2.
-
-In caso di assenza prolungata, il Congresso di Stato può incaricare, nelle funzioni di Direttore di Dipartimento, un Dirigente di Unità Organizzativa del Dipartimento stesso o un membro della Direzione Generale della Funzione Pubblica, i quali esercitano tali funzioni unitamente alle proprie.
-
-3.
-
-Il Dirigente di UO o il funzionario di staff della DGFP che assuma temporaneamente le funzioni di Direttore di Dipartimento per un periodo non inferiore a 26 giorni, percepisce la retribuzione stabilita nel decreto delegato di cui all’articolo 19 della Legge 31 luglio 2009 n. 108.
+3\. Il Dirigente di UO o il funzionario di staff della DGFP che assuma temporaneamente le funzioni di Direttore di Dipartimento per un periodo non inferiore a 26 giorni, percepisce la retribuzione stabilita nel decreto delegato di cui all’articolo 19 della Legge 31 luglio 2009 n. 108.
 
 #### Art. 22
 
 (Norma di Coordinamento: Dipartimento di Polizia)
 
-1.
+1\. Il Dipartimento di Polizia è regolato dalle speciali leggi vigenti ad esso applicabili ed opera nell’ambito delle funzioni amministrative ed operative demandate ai corpi militari e civili, con particolare riferimento alla tutela della sicurezza e dell’ordine pubblico, all’osservanza delle leggi, dei regolamenti e dei provvedimenti della pubblica autorità nonché delle norme di civile convivenza, alla prevenzione e repressione dei reati, anche a supporto degli organi amministrativi, giudiziari ed istituzionali.
 
-Il Dipartimento di Polizia è regolato dalle speciali leggi vigenti ad esso applicabili ed opera nell’ambito delle funzioni amministrative ed operative demandate ai corpi militari e civili, con particolare riferimento alla tutela della sicurezza e dell’ordine pubblico, all’osservanza delle leggi, dei regolamenti e dei provvedimenti della pubblica autorità nonché delle norme di civile convivenza, alla prevenzione e repressione dei reati, anche a supporto degli organi amministrativi, giudiziari ed istituzionali.
-
-2.
-
-Il personale appartenente al Corpo di Polizia Civile è regolato dalle norme di cui alla presente legge nonché dalle leggi e dai contratti vigenti per i dipendenti dello Stato.
+2\. Il personale appartenente al Corpo di Polizia Civile è regolato dalle norme di cui alla presente legge nonché dalle leggi e dai contratti vigenti per i dipendenti dello Stato.
 
 ### CAPO III
 
@@ -618,13 +426,9 @@ DIREZIONE GENERALE DELLA FUNZIONE PUBBLICA: COMPITI ED ORGANI
 
 (Funzioni della Direzione Generale della Funzione Pubblica)
 
-1.
+1\. Nel presente Capo sono descritte le funzioni, i poteri e le responsabilità della DGFP e gli ambiti di attività anche in rapporto con gli altri ruoli e con gli organi collegiali che hanno competenza sul Pubblico Impiego e sull’amministrazione.
 
-Nel presente Capo sono descritte le funzioni, i poteri e le responsabilità della DGFP e gli ambiti di attività anche in rapporto con gli altri ruoli e con gli organi collegiali che hanno competenza sul Pubblico Impiego e sull’amministrazione.
-
-2.
-
-Per il costante miglioramento dell’organizzazione, sono individuate come funzioni strategiche della Direzione Generale della Funzione Pubblica (DGFP) le funzioni, meglio descritte ai successivi articoli, legate a:
+2\. Per il costante miglioramento dell’organizzazione, sono individuate come funzioni strategiche della Direzione Generale della Funzione Pubblica (DGFP) le funzioni, meglio descritte ai successivi articoli, legate a:
 
 a) risorse umane e organizzazione;
 
@@ -634,9 +438,7 @@ c) comunicazione interna ed esterna;
 
 d) norme e contratti.
 
-3.
-
-La DGFP, nel perseguire le finalità ad essa affidate e nel rispetto della presente legge e delle norme vigenti:
+3\. La DGFP, nel perseguire le finalità ad essa affidate e nel rispetto della presente legge e delle norme vigenti:
 
 a) attua i programmi e le direttive del Congresso di Stato e del Segretario con delega alla Funzione Pubblica, promuove ed orienta i programmi e le direttive medesime e, nell’ambito degli stessi, definisce i contenuti del Programma Economico, in termini di priorità e distribuzione delle risorse, per gli ambiti di competenza. Predispone, sulla base del Bilancio di Previsione Annuale e Pluriennale e delle risorse assegnate, i relativi piani e progetti;
 
@@ -666,21 +468,13 @@ l) esercita le ulteriori funzioni ad essa attribuite dalle norme vigenti.
 
 (Risorse Umane e Organizzazione)
 
-1.
+1\. La Direzione Generale della Funzione Pubblica esercita la duplice funzione strategica di presidio dell’organizzazione amministrativa e di gestione e sviluppo delle Risorse Umane, intese come insieme di persone e professionalità che operano nell’amministrazione.
 
-La Direzione Generale della Funzione Pubblica esercita la duplice funzione strategica di presidio dell’organizzazione amministrativa e di gestione e sviluppo delle Risorse Umane, intese come insieme di persone e professionalità che operano nell’amministrazione.
+2\. Nel processo di cambiamento della Pubblica Amministrazione, lo sviluppo e l’organizzazione delle Risorse Umane è funzione strategica quale supporto e agente fondamentale per la realizzazione delle strategie di innovazione e degli indirizzi ed obiettivi, in concorso con la creazione dei Profili di Ruolo finalizzata al cambiamento e alla flessibilità e focalizzata sulle competenze.
 
-2.
+3\. La DGFP indirizza, presidia e controlla l’applicazione delle norme e dei contratti vigenti nella gestione amministrativa del personale del Settore Pubblico Allargato.
 
-Nel processo di cambiamento della Pubblica Amministrazione, lo sviluppo e l’organizzazione delle Risorse Umane è funzione strategica quale supporto e agente fondamentale per la realizzazione delle strategie di innovazione e degli indirizzi ed obiettivi, in concorso con la creazione dei Profili di Ruolo finalizzata al cambiamento e alla flessibilità e focalizzata sulle competenze.
-
-3.
-
-La DGFP indirizza, presidia e controlla l’applicazione delle norme e dei contratti vigenti nella gestione amministrativa del personale del Settore Pubblico Allargato.
-
-4.
-
-La funzione di Sviluppo ed Organizzazione delle Risorse Umane è deputata all’ottimizzazione dei processi di reclutamento, formazione, sviluppo, valutazione e valorizzazione delle risorse umane del Settore Pubblico Allargato e pertanto rientrano in questa funzione le seguenti attività fra loro coordinate:
+4\. La funzione di Sviluppo ed Organizzazione delle Risorse Umane è deputata all’ottimizzazione dei processi di reclutamento, formazione, sviluppo, valutazione e valorizzazione delle risorse umane del Settore Pubblico Allargato e pertanto rientrano in questa funzione le seguenti attività fra loro coordinate:
 
 a) analisi, mappatura e sviluppo delle competenze: in tale ambito, sono definiti il fabbisogno qualitativo di personale, i PDR necessari ed i relativi requisiti;
 
@@ -700,17 +494,11 @@ g) indirizzo, presidio, e controllo delle attività negli ambiti di cui alle let
 
 (Pianificazione e Controllo)
 
-1.
+1\. Riconoscendo la necessità per la Pubblica Amministrazione di strutturare funzioni di supporto, integrazione, coordinamento e controllo mediante l’applicazione di modelli organizzativi consolidati e riconosciuti per le organizzazioni complesse, la Direzione Generale della Funzione Pubblica svolge le funzioni di Pianificazione e Controllo.
 
-Riconoscendo la necessità per la Pubblica Amministrazione di strutturare funzioni di supporto, integrazione, coordinamento e controllo mediante l’applicazione di modelli organizzativi consolidati e riconosciuti per le organizzazioni complesse, la Direzione Generale della Funzione Pubblica svolge le funzioni di Pianificazione e Controllo.
+2\. Questo ambito di presidio ha il compito di pianificare, analizzare gli andamenti e segnalare la necessità di reazioni tempestive per ri-orientare le decisioni e le attività attraverso il monitoraggio di indicatori fondamentali delle prestazioni.
 
-2.
-
-Questo ambito di presidio ha il compito di pianificare, analizzare gli andamenti e segnalare la necessità di reazioni tempestive per ri-orientare le decisioni e le attività attraverso il monitoraggio di indicatori fondamentali delle prestazioni.
-
-3.
-
-La funzione di Pianificazione e Controllo si sviluppa principalmente nei seguenti ambiti e con le seguenti competenze:
+3\. La funzione di Pianificazione e Controllo si sviluppa principalmente nei seguenti ambiti e con le seguenti competenze:
 
 a) pianificazione e programmazione: acquisisce, i dati organizzativi provenienti dalle varie unità funzionali del Settore Pubblico Allargato, emana direttive per la gestione e la rilevazione interna di tutti i dati e costruisce i relativi sistemi di reportistica;
 
@@ -722,9 +510,7 @@ d) rilevazione e analisi: in stretta collaborazione con lo Sviluppo Risorse Uman
 
 e) verifiche di coerenza/audit: controlla la corretta applicazione delle procedure amministrative, anche attraverso attività ispettive.
 
-4.
-
-Nell’ambito delle funzioni di cui sopra rientrano, in collaborazione con la UO Informatica, Tecnologia, Dati e Statistica per tutto il Settore Pubblico Allargato:
+4\. Nell’ambito delle funzioni di cui sopra rientrano, in collaborazione con la UO Informatica, Tecnologia, Dati e Statistica per tutto il Settore Pubblico Allargato:
 
 a) [abrogato]
 
@@ -740,9 +526,7 @@ e) gli indirizzi e le disposizioni di carattere generale circa la promozione, la
 
 (Comunicazione Interna ed Esterna)
 
-1.
-
-La funzione di Comunicazione Interna ed Esterna cura la messa a punto e lo sviluppo dei piani di comunicazione interni ed esterni all’amministrazione, attraverso le modalità e gli strumenti più consoni, principalmente attraverso:
+1\. La funzione di Comunicazione Interna ed Esterna cura la messa a punto e lo sviluppo dei piani di comunicazione interni ed esterni all’amministrazione, attraverso le modalità e gli strumenti più consoni, principalmente attraverso:
 
 a) la pianificazione e realizzazione di un efficace sistema di comunicazione interna in grado di garantire un’ampia circolazione delle informazioni al fine di favorire il coinvolgimento del personale nei progetti di cambiamento organizzativo;
 
@@ -754,9 +538,7 @@ c) la predisposizione, in coerenza con i piani e le procedure stabiliti ed in co
 
 (Norme e Contratti)
 
-1.
-
-Attraverso la funzione Norme e Contratti, la Direzione Generale della Funzione Pubblica, costituisce il punto di riferimento e di supporto a tutto il Settore Pubblico Allargato sugli aspetti giuridici inerenti le materie trasversali di cui alle successive lettere e più precisamente:
+1\. Attraverso la funzione Norme e Contratti, la Direzione Generale della Funzione Pubblica, costituisce il punto di riferimento e di supporto a tutto il Settore Pubblico Allargato sugli aspetti giuridici inerenti le materie trasversali di cui alle successive lettere e più precisamente:
 
 a) presidia e orienta la normativa di pubblico impiego, ne dà attuazione e ne controlla l’applicazione; presidia e orienta i rapporti di lavoro e ne controlla l’applicazione; predispone i contratti individuali; fornisce supporto tecnico-giuridico su tutti gli aspetti normativi ed amministrativi per la gestione delle risorse umane e l’adozione dei relativi atti; predispone i verbali di accordo per la trattativa e la contrattazione con le Organizzazioni Sindacali; cura l’attività inerente ai procedimenti negoziali per la definizione della disciplina del rapporto di lavoro; esercita il coordinamento fra le varie UO del Settore Pubblico Allargato, in relazione all’attuazione dei diritti e doveri del dipendente;
 
@@ -768,9 +550,7 @@ c) fornisce il supporto tecnico-giuridico per l’applicazione delle regole di c
 
 (Composizione e funzionamento della Direzione Generale della Funzione Pubblica)
 
-1.
-
-La Direzione Generale della Funzione Pubblica è organo collegiale composto:
+1\. La Direzione Generale della Funzione Pubblica è organo collegiale composto:
 
 a) dal Direttore della Funzione Pubblica (di seguito anche Direttore FP);
 
@@ -778,45 +558,27 @@ b) dal Direttore delle Risorse Umane e Organizzazione (di seguito anche Direttor
 
 c) dal Direttore della Pianificazione e Controllo (di seguito anche Direttore PC).
 
-2.
+2\. La DGFP si riunisce su convocazione del Direttore della Funzione Pubblica che la presiede e rappresenta e/o su richiesta dei suoi membri. Le riunioni sono valide con la presenza di due membri, purché sia presente il Direttore della Funzione Pubblica, eventualmente sostituito ai sensi dell’articolo 29. Le deliberazioni sono assunte a maggioranza e a parità di voti prevale quello del Direttore della Funzione Pubblica.
 
-La DGFP si riunisce su convocazione del Direttore della Funzione Pubblica che la presiede e rappresenta e/o su richiesta dei suoi membri. Le riunioni sono valide con la presenza di due membri, purché sia presente il Direttore della Funzione Pubblica, eventualmente sostituito ai sensi dell’articolo 29. Le deliberazioni sono assunte a maggioranza e a parità di voti prevale quello del Direttore della Funzione Pubblica.
+3\. Alle riunioni possono essere invitati Dirigenti e Funzionari competenti nelle materie trattate.
 
-3.
+4\. I membri della DGFP non possono prendere parte a discussioni, deliberazioni, atti, contratti e provvedimenti nei quali abbiano interesse personale o l’abbiano il coniuge o parenti ed affini entro il secondo grado.
 
-Alle riunioni possono essere invitati Dirigenti e Funzionari competenti nelle materie trattate.
+5\. La DGFP può distribuire al proprio interno compiti ed attività previsti in capo all’organo collegiale e affidare incarichi speciali a ciascuno dei propri membri nei rispettivi ambiti di competenza. I membri della DGFP possono reciprocamente sostituirsi nelle funzioni demandate a ciascuno di essi per casi di necessità ed incompatibilità, fermo restando quanto previsto dal successivo articolo 29, comma 4, lettere e) e f).
 
-4.
-
-I membri della DGFP non possono prendere parte a discussioni, deliberazioni, atti, contratti e provvedimenti nei quali abbiano interesse personale o l’abbiano il coniuge o parenti ed affini entro il secondo grado.
-
-5.
-
-La DGFP può distribuire al proprio interno compiti ed attività previsti in capo all’organo collegiale e affidare incarichi speciali a ciascuno dei propri membri nei rispettivi ambiti di competenza. I membri della DGFP possono reciprocamente sostituirsi nelle funzioni demandate a ciascuno di essi per casi di necessità ed incompatibilità, fermo restando quanto previsto dal successivo articolo 29, comma 4, lettere e) e f).
-
-6.
-
-La DGFP stabilisce le ulteriori regole relative alla gestione delle attività riconducibili alla sua competenza.
+6\. La DGFP stabilisce le ulteriori regole relative alla gestione delle attività riconducibili alla sua competenza.
 
 #### Art. 29
 
 (Direttore della Funzione Pubblica)
 
-1.
+1\. Il Direttore della Funzione Pubblica, ai sensi dell’articolo 11 della Legge 31 luglio 2009 n.105, presiede e sovraintende a tutte le funzioni della Direzione Generale della Funzione Pubblica, emana le deliberazioni da essa adottate e firma gli atti di competenza della DGFP.
 
-Il Direttore della Funzione Pubblica, ai sensi dell’articolo 11 della Legge 31 luglio 2009 n.105, presiede e sovraintende a tutte le funzioni della Direzione Generale della Funzione Pubblica, emana le deliberazioni da essa adottate e firma gli atti di competenza della DGFP.
+2\. E’ responsabile nei confronti del Congresso di Stato del raggiungimento degli obiettivi assegnati e del perseguimento delle funzioni istituzionali della Direzione Generale della Funzione Pubblica e funge da referente per il Segretario di Stato con delega alla Funzione Pubblica e per il Congresso di Stato nelle materie di competenza.
 
-2.
+3\. Ricopre il ruolo di Direttore del Dipartimento Funzione Pubblica. In tale veste, nei riguardi del Dipartimento e delle sue Unità Organizzative, ha le competenze e le responsabilità previste per i Direttori di Dipartimento.
 
-E’ responsabile nei confronti del Congresso di Stato del raggiungimento degli obiettivi assegnati e del perseguimento delle funzioni istituzionali della Direzione Generale della Funzione Pubblica e funge da referente per il Segretario di Stato con delega alla Funzione Pubblica e per il Congresso di Stato nelle materie di competenza.
-
-3.
-
-Ricopre il ruolo di Direttore del Dipartimento Funzione Pubblica. In tale veste, nei riguardi del Dipartimento e delle sue Unità Organizzative, ha le competenze e le responsabilità previste per i Direttori di Dipartimento.
-
-4.
-
-Inoltre, il Direttore della Funzione Pubblica:
+4\. Inoltre, il Direttore della Funzione Pubblica:
 
 a) presiede gli organi collegiali afferenti la DGFP, salvo delega o disposizione espressa;
 
@@ -836,13 +598,9 @@ g) esercita le ulteriori funzioni ad esso attribuite dalle norme vigenti.
 
 (Direttore Risorse Umane e Organizzazione)
 
-1.
+1\. Il Direttore Risorse Umane e Organizzazione collabora con il Direttore della Funzione Pubblica ed ha la diretta responsabilità e gestione della funzione strategica di cui all’articolo 24.
 
-Il Direttore Risorse Umane e Organizzazione collabora con il Direttore della Funzione Pubblica ed ha la diretta responsabilità e gestione della funzione strategica di cui all’articolo 24.
-
-2.
-
-Nell’ambito delle funzioni ad esso attribuite:
+2\. Nell’ambito delle funzioni ad esso attribuite:
 
 a) dispone, sentiti i Direttori di Dipartimento e degli Enti coinvolti, in merito alla mobilità interdipartimentale del personale di tutto il Settore Pubblico Allargato;
 
@@ -862,13 +620,9 @@ g) esercita le ulteriori funzioni ad esso attribuite dalle norme vigenti. g bis)
 
 (Direttore Pianificazione e Controllo)
 
-1.
+1\. Il Direttore Pianificazione e Controllo collabora con il Direttore della Funzione Pubblica ed ha la diretta responsabilità e gestione della funzione strategica di cui all’articolo 25 della presente legge.
 
-Il Direttore Pianificazione e Controllo collabora con il Direttore della Funzione Pubblica ed ha la diretta responsabilità e gestione della funzione strategica di cui all’articolo 25 della presente legge.
-
-2.
-
-Nell’ambito delle funzioni ad esso attribuite:
+2\. Nell’ambito delle funzioni ad esso attribuite:
 
 a) autorizza e regolamenta l’accesso da parte delle Unità Organizzative ai dati in possesso del Settore Pubblico Allargato ai fini dell’efficienza dell’attività amministrativa, nei termini e con le attribuzioni previsti dalle norme che disciplinano la materia e con le garanzie di riservatezza da queste previste;
 
@@ -888,49 +642,29 @@ g) esercita le ulteriori funzioni ad esso attribuite dalle norme vigenti.
 
 (Requisiti ed incarico dei membri della Direzione Generale della Funzione Pubblica)
 
-1.
+1\. Per ricoprire la posizione di Direttore della Funzione Pubblica, del Direttore Risorse Umane e Organizzazione e del Direttore Pianificazione e Controllo sono richiesti i requisiti previsti per la figura di Direttore di Dipartimento unitamente a comprovate conoscenze, competenze e capacità manageriali, nonché a comprovata esperienza almeno quinquennale in ruoli di gestione o di responsabilità di strutture pubbliche o private.
 
-Per ricoprire la posizione di Direttore della Funzione Pubblica, del Direttore Risorse Umane e Organizzazione e del Direttore Pianificazione e Controllo sono richiesti i requisiti previsti per la figura di Direttore di Dipartimento unitamente a comprovate conoscenze, competenze e capacità manageriali, nonché a comprovata esperienza almeno quinquennale in ruoli di gestione o di responsabilità di strutture pubbliche o private.
+2\. L’incarico è conferito a tempo determinato dal Congresso di Stato ed è regolato da contratto di diritto privato, che disciplina gli aspetti economici e normativi del rapporto e che ha durata massima di 3 anni con possibilità di rinnovo. I Direttori RUO e PC sono nominati dal Congresso di Stato su proposta del Direttore della Funzione Pubblica.
 
-2.
+3\. La nomina comporta il distacco per coloro che sono in organico e la cessazione del precedente incarico per coloro che sono già titolari di contratto. Per il personale in organico il periodo di distacco viene computato ai fini del trattamento di quiescenza e di previdenza e dell'anzianità di servizio.
 
-L’incarico è conferito a tempo determinato dal Congresso di Stato ed è regolato da contratto di diritto privato, che disciplina gli aspetti economici e normativi del rapporto e che ha durata massima di 3 anni con possibilità di rinnovo. I Direttori RUO e PC sono nominati dal Congresso di Stato su proposta del Direttore della Funzione Pubblica.
+4\. La nomina nelle posizioni di cui al presente articolo di lavoratori subordinati esterni all’amministrazione determina, a domanda, il collocamento in aspettativa per l’intera durata dell’incarico. Nel caso in cui il lavoratore riassuma il servizio può ottenere la ricostruzione della carriera, previo versamento delle ritenute di legge in base agli emolumenti spettanti al momento del rientro.
 
-3.
+5\. Le parti possono esercitare il diritto di recesso anticipato con il preavviso minimo di tre mesi.
 
-La nomina comporta il distacco per coloro che sono in organico e la cessazione del precedente incarico per coloro che sono già titolari di contratto. Per il personale in organico il periodo di distacco viene computato ai fini del trattamento di quiescenza e di previdenza e dell'anzianità di servizio.
+6\. Il Congresso di Stato dichiara la decadenza dei membri della Direzione Generale della Funzione Pubblica allorché siano intervenute cause di incompatibilità.
 
-4.
+7\. All’incarico di membro della DGFP si applicano le incompatibilità generali di cui all’articolo 16 della Legge 31 luglio 2009 n.108. L'incarico è inoltre incompatibile con la carica di membro del Consiglio Grande e Generale, con cariche in organismi direttivi di associazioni di categoria e libero-professionali, sindacali e di partiti e movimenti politici. L’incarico del Direttore RUO è soggetto alla rotazione di cui all’articolo 76, comma 6, della presente legge.
 
-La nomina nelle posizioni di cui al presente articolo di lavoratori subordinati esterni all’amministrazione determina, a domanda, il collocamento in aspettativa per l’intera durata dell’incarico. Nel caso in cui il lavoratore riassuma il servizio può ottenere la ricostruzione della carriera, previo versamento delle ritenute di legge in base agli emolumenti spettanti al momento del rientro.
+8\. Il Congresso di Stato, su proposta del Segretario di Stato con delega alla Funzione Pubblica, può revocare l’incarico per il mancato raggiungimento degli obiettivi, non determinato da impedimenti oggettivi, o per il venir meno delle condizioni essenziali per la permanenza nelle funzioni.
 
-5.
-
-Le parti possono esercitare il diritto di recesso anticipato con il preavviso minimo di tre mesi.
-
-6.
-
-Il Congresso di Stato dichiara la decadenza dei membri della Direzione Generale della Funzione Pubblica allorché siano intervenute cause di incompatibilità.
-
-7.
-
-All’incarico di membro della DGFP si applicano le incompatibilità generali di cui all’articolo 16 della Legge 31 luglio 2009 n.108. L'incarico è inoltre incompatibile con la carica di membro del Consiglio Grande e Generale, con cariche in organismi direttivi di associazioni di categoria e libero-professionali, sindacali e di partiti e movimenti politici. L’incarico del Direttore RUO è soggetto alla rotazione di cui all’articolo 76, comma 6, della presente legge.
-
-8.
-
-Il Congresso di Stato, su proposta del Segretario di Stato con delega alla Funzione Pubblica, può revocare l’incarico per il mancato raggiungimento degli obiettivi, non determinato da impedimenti oggettivi, o per il venir meno delle condizioni essenziali per la permanenza nelle funzioni.
-
-9.
-
-Si applicano ai membri della Direzione Generale della Funzione Pubblica e ai relativi contratti le norme previste per la Dirigenza in quanto compatibili. Il riporto al Direttore di Dipartimento previsto in tali norme per i Dirigenti, deve intendersi, per la Direzione Generale della Funzione Pubblica, riferito al Segretario di Stato con delega alla Funzione Pubblica. La valutazione dell’operato dei membri della Direzione Generale della Funzione Pubblica spetta al Congresso di Stato, su relazione del Segretario di Stato con delega alla Funzione Pubblica.
+9\. Si applicano ai membri della Direzione Generale della Funzione Pubblica e ai relativi contratti le norme previste per la Dirigenza in quanto compatibili. Il riporto al Direttore di Dipartimento previsto in tali norme per i Dirigenti, deve intendersi, per la Direzione Generale della Funzione Pubblica, riferito al Segretario di Stato con delega alla Funzione Pubblica. La valutazione dell’operato dei membri della Direzione Generale della Funzione Pubblica spetta al Congresso di Stato, su relazione del Segretario di Stato con delega alla Funzione Pubblica.
 
 #### Art. 33
 
 (Staff della Direzione Generale della Funzione Pubblica)
 
-1.
-
-La Direzione Generale della Funzione Pubblica, per svolgere le attività ad essa demandate, è dotata di uno staff il cui personale è indicato nell’ambito del fabbisogno ed è scelto in via prioritaria nel Settore Pubblico Allargato, dalla Direzione Generale della Funzione Pubblica, sentiti i Direttori di Dipartimento ed Enti interessati. In
+1\. La Direzione Generale della Funzione Pubblica, per svolgere le attività ad essa demandate, è dotata di uno staff il cui personale è indicato nell’ambito del fabbisogno ed è scelto in via prioritaria nel Settore Pubblico Allargato, dalla Direzione Generale della Funzione Pubblica, sentiti i Direttori di Dipartimento ed Enti interessati. In
 
 mancanza di professionalità specialistiche all’interno del Settore Pubblico Allargato, si procede ai sensi delle norme vigenti e per progetti specialistici possono essere instaurate collaborazioni e stipulati contratti di lavoro dipendente di diritto privato, previa autorizzazione del Congresso di Stato.
 
@@ -938,87 +672,53 @@ mancanza di professionalità specialistiche all’interno del Settore Pubblico A
 
 (Progetti DGFP e Gruppi di Lavoro)
 
-1.
+1\. La formalizzazione di Progetti che dipendono dalla competenza della DGFP e la costituzione dei relativi Gruppi di Progetto (di seguito anche GdP), su input ed obiettivi del Congresso di Stato o per autonoma decisione della Direzione Generale sono diretti a migliorare l’attività amministrativa, a realizzare obiettivi di innovazione organizzativa con carattere di trasversalità.
 
-La formalizzazione di Progetti che dipendono dalla competenza della DGFP e la costituzione dei relativi Gruppi di Progetto (di seguito anche GdP), su input ed obiettivi del Congresso di Stato o per autonoma decisione della Direzione Generale sono diretti a migliorare l’attività amministrativa, a realizzare obiettivi di innovazione organizzativa con carattere di trasversalità.
+2\. I Progetti prevedono obiettivi, attività, risorse professionali economiche e strumentali, destinatari, tempi, modalità di realizzazione e verifica, responsabilità e doveri, e quant’altro necessario alla loro definizione.
 
-2.
+3\. In particolare, dipendono dalla DGFP i progetti che abbiano carattere strategico e siano finalizzati a realizzare un cambiamento nell’organizzazione in termini di processi, metodologie, assetti organizzativi; i progetti in cui le azioni e decisioni riguardino in termini trasversali tutta l’organizzazione o che siano rivolti o abbiano influenza su diversi Dipartimenti ed Enti; i progetti volti a garantire omogeneità di applicazione di norme e regolamenti o di comportamenti nelle diverse unità funzionali.
 
-I Progetti prevedono obiettivi, attività, risorse professionali economiche e strumentali, destinatari, tempi, modalità di realizzazione e verifica, responsabilità e doveri, e quant’altro necessario alla loro definizione.
+4\. Definito il progetto in tutti i suoi aspetti, i Direttori di Dipartimento e i Dirigenti delle Unità Organizzative interessati prestano la massima collaborazione anche fornendo le eventuali risorse che si siano stabilite come necessarie per la realizzazione del progetto stesso.
 
-3.
-
-In particolare, dipendono dalla DGFP i progetti che abbiano carattere strategico e siano finalizzati a realizzare un cambiamento nell’organizzazione in termini di processi, metodologie, assetti organizzativi; i progetti in cui le azioni e decisioni riguardino in termini trasversali tutta l’organizzazione o che siano rivolti o abbiano influenza su diversi Dipartimenti ed Enti; i progetti volti a garantire omogeneità di applicazione di norme e regolamenti o di comportamenti nelle diverse unità funzionali.
-
-4.
-
-Definito il progetto in tutti i suoi aspetti, i Direttori di Dipartimento e i Dirigenti delle Unità Organizzative interessati prestano la massima collaborazione anche fornendo le eventuali risorse che si siano stabilite come necessarie per la realizzazione del progetto stesso.
-
-5.
-
-Eventuali Gruppi di Lavoro (di seguito anche GdL) che autonomamente il Direttore di Dipartimento o Ente può attivare all’interno dello stesso, in ambiti e materie settoriali di cui è responsabile, sono di competenza del Direttore di Dipartimento o Ente interessato o del Dirigente incaricato come Responsabile. La DGFP è informata ed eventualmente consultata in merito ai GdL nei confronti dei quali esercita una funzione di coordinamento dando, se del caso, il supporto tecnico previsto ed emanando disposizioni qualora necessarie.
+5\. Eventuali Gruppi di Lavoro (di seguito anche GdL) che autonomamente il Direttore di Dipartimento o Ente può attivare all’interno dello stesso, in ambiti e materie settoriali di cui è responsabile, sono di competenza del Direttore di Dipartimento o Ente interessato o del Dirigente incaricato come Responsabile. La DGFP è informata ed eventualmente consultata in merito ai GdL nei confronti dei quali esercita una funzione di coordinamento dando, se del caso, il supporto tecnico previsto ed emanando disposizioni qualora necessarie.
 
 #### Art. 35
 
 (Gruppi di Progetto DGFP e Responsabili di Progetto)
 
-1.
+1\. Il Gruppo di Progetto non sostituisce l’azione manageriale della dirigenza che si esplica attraverso la linea gerarchica.
 
-Il Gruppo di Progetto non sostituisce l’azione manageriale della dirigenza che si esplica attraverso la linea gerarchica.
+2\. La Direzione Generale della Funzione Pubblica, in particolare attraverso il Direttore Pianificazione e Controllo, indirizza ed approva i Progetti e predispone i più opportuni atti a supporto del buon andamento delle attività dei Gruppi di Progetto.
 
-2.
+3\. Il Responsabile di Progetto (di seguito anche RdP) governa i progetti, svolge una funzione di integrazione e di coordinamento fra i vari Dipartimenti e Unità Organizzative coinvolti e interviene trasversalmente per implementare, sviluppare e finalizzare i progetti. A tali scopi, si riferisce in prima istanza ai Direttori di Dipartimento per tutte le necessità relative al progetto stesso.
 
-La Direzione Generale della Funzione Pubblica, in particolare attraverso il Direttore Pianificazione e Controllo, indirizza ed approva i Progetti e predispone i più opportuni atti a supporto del buon andamento delle attività dei Gruppi di Progetto.
-
-3.
-
-Il Responsabile di Progetto (di seguito anche RdP) governa i progetti, svolge una funzione di integrazione e di coordinamento fra i vari Dipartimenti e Unità Organizzative coinvolti e interviene trasversalmente per implementare, sviluppare e finalizzare i progetti. A tali scopi, si riferisce in prima istanza ai Direttori di Dipartimento per tutte le necessità relative al progetto stesso.
-
-4.
-
-Il RdP è scelto tra i Direttori della DGFP o nominato dal Direttore Pianificazione e Controllo preferibilmente nello staff della DGFP, tra i Direttori di Dipartimento, tra i Dirigenti o i funzionari del Settore Pubblico Allargato o, in caso di necessità, tra esperti
+4\. Il RdP è scelto tra i Direttori della DGFP o nominato dal Direttore Pianificazione e Controllo preferibilmente nello staff della DGFP, tra i Direttori di Dipartimento, tra i Dirigenti o i funzionari del Settore Pubblico Allargato o, in caso di necessità, tra esperti
 
 esterni all’amministrazione, tenuto conto delle capacità necessarie a gestire il progetto il quale, in linea di massima e a regime, deve fare riferimento ai più riconosciuti e diffusi standard.
 
-5.
+5\. Il Direttore PC concorda con il Responsabile di progetto i principali elementi del progetto e la designazione dei partecipanti al GdP.
 
-Il Direttore PC concorda con il Responsabile di progetto i principali elementi del progetto e la designazione dei partecipanti al GdP.
+6\. L’attività e la collaborazione prestata nonché il buon esito del progetto costituiscono elementi utili per il curriculum e la valutazione del RdP, dei partecipanti al GdP, e dei soggetti di cui al comma 4 dell’articolo precedente, anche i fini del compenso di risultato qualora previsto.
 
-6.
+7\. Il RdP valuta il contributo espresso dai partecipanti al GdP in relazione ai compiti assegnati e agli obiettivi conseguiti. Il RdP esterno alla DGFP è valutato dal Direttore PC.
 
-L’attività e la collaborazione prestata nonché il buon esito del progetto costituiscono elementi utili per il curriculum e la valutazione del RdP, dei partecipanti al GdP, e dei soggetti di cui al comma 4 dell’articolo precedente, anche i fini del compenso di risultato qualora previsto.
+8\. La mancanza di collaborazione e l’inottemperanza ai doveri previsti dal Progetto possono costituire violazione che può dar luogo a sanzione disciplinare proporzionata alla gravità della violazione medesima.
 
-7.
-
-Il RdP valuta il contributo espresso dai partecipanti al GdP in relazione ai compiti assegnati e agli obiettivi conseguiti. Il RdP esterno alla DGFP è valutato dal Direttore PC.
-
-8.
-
-La mancanza di collaborazione e l’inottemperanza ai doveri previsti dal Progetto possono costituire violazione che può dar luogo a sanzione disciplinare proporzionata alla gravità della violazione medesima.
-
-9.
-
-Previo confronto con le Organizzazioni Sindacali, sono individuati i criteri per la valorizzazione dei partecipanti ai GdP e dei RdP ed il raggiungimento dei risultati.
+9\. Previo confronto con le Organizzazioni Sindacali, sono individuati i criteri per la valorizzazione dei partecipanti ai GdP e dei RdP ed il raggiungimento dei risultati.
 
 #### Art. 36
 
 (Riporti funzionali)
 
-1.
+1\. Per garantire in tutto il Settore Pubblico Allargato la coerente gestione delle risorse umane e strumentali, queste ultime non specialistiche, la univoca attuazione delle norme di Impiego e dei contratti collettivi, gli Enti e le UO in cui si articolano e con competenza in tali ambiti, hanno un riporto funzionale con la Direzione Generale della Funzione Pubblica.
 
-Per garantire in tutto il Settore Pubblico Allargato la coerente gestione delle risorse umane e strumentali, queste ultime non specialistiche, la univoca attuazione delle norme di Impiego e dei contratti collettivi, gli Enti e le UO in cui si articolano e con competenza in tali ambiti, hanno un riporto funzionale con la Direzione Generale della Funzione Pubblica.
-
-2.
-
-Le modalità operative dei Riporti Funzionali di cui sopra e di eventuali altri che si rivelassero necessari, possono essere definite da apposito Regolamento approvato dal Consiglio di Direzione allargato agli Enti ed emanato dal Direttore della Funzione Pubblica.
+2\. Le modalità operative dei Riporti Funzionali di cui sopra e di eventuali altri che si rivelassero necessari, possono essere definite da apposito Regolamento approvato dal Consiglio di Direzione allargato agli Enti ed emanato dal Direttore della Funzione Pubblica.
 
 #### Art. 37
 
 (Organi afferenti alla Direzione Generale della Funzione Pubblica)
 
-1.
-
-Afferiscono alla Direzione Generale della Funzione Pubblica i seguenti Organi:
+1\. Afferiscono alla Direzione Generale della Funzione Pubblica i seguenti Organi:
 
 a) Consiglio di Direzione;
 
@@ -1044,21 +744,13 @@ della normativa per il miglioramento dell’attività amministrativa anche nei c
 
 (Consiglio di Direzione)
 
-1.
+1\. Il Consiglio di Direzione è composto dal Direttore della Funzione Pubblica che lo convoca e presiede; dai Direttori dei Dipartimenti in cui è articolata la Pubblica Amministrazione e, per gli ambiti pertinenti l’intero Settore Pubblico Allargato, dai Direttori di Enti pubblici ed Aziende Autonome di Stato.
 
-Il Consiglio di Direzione è composto dal Direttore della Funzione Pubblica che lo convoca e presiede; dai Direttori dei Dipartimenti in cui è articolata la Pubblica Amministrazione e, per gli ambiti pertinenti l’intero Settore Pubblico Allargato, dai Direttori di Enti pubblici ed Aziende Autonome di Stato.
+2\. Possono essere chiamati a partecipare alle riunioni, in base alle esigenze previste dall’ordine del giorno e alle specifiche competenze, i membri della Direzione Generale della Funzione Pubblica, i funzionari di staff della DGFP nonché Dirigenti ed esperti del Settore Pubblico Allargato.
 
-2.
+3\. Il Consiglio di Direzione si riunisce periodicamente, anche su richiesta dei suoi membri.
 
-Possono essere chiamati a partecipare alle riunioni, in base alle esigenze previste dall’ordine del giorno e alle specifiche competenze, i membri della Direzione Generale della Funzione Pubblica, i funzionari di staff della DGFP nonché Dirigenti ed esperti del Settore Pubblico Allargato.
-
-3.
-
-Il Consiglio di Direzione si riunisce periodicamente, anche su richiesta dei suoi membri.
-
-4.
-
-Il Consiglio di Direzione ha una funzione propulsiva per il miglioramento dell’azione amministrativa, attraverso attività e compiti di informazione, proposta, condivisione, analisi, approfondimento negli ambiti di competenza di cui di seguito:
+4\. Il Consiglio di Direzione ha una funzione propulsiva per il miglioramento dell’azione amministrativa, attraverso attività e compiti di informazione, proposta, condivisione, analisi, approfondimento negli ambiti di competenza di cui di seguito:
 
 a) piani e progetti: è informato dei piani e progetti definiti dalla Direzione Generale della Funzione Pubblica sulla base degli indirizzi impartiti dal Congresso di Stato, riguardanti il funzionamento dell’attività amministrativa nel suo complesso e di tutti i progetti trasversali e interdipartimentali in essere. Al Consiglio di Direzione afferiscono, qualora la DGFP ne ravveda la necessità, i progetti a valenza dipartimentale che presuppongono l’utilizzo di risorse non allocate nel dipartimento stesso o che comunque possano avere un impatto ed una valenza trasversale. Il Consiglio di Direzione approfondisce i piani e i programmi elaborati, formula proposte e suggerimenti finalizzati ad agevolare il raggiungimento degli obiettivi, analizza le situazioni nelle quali potrebbe essere opportuna l’istituzione di un Gruppo di Progetto interdipartimentale e contribuisce alla decisione in merito;
 
@@ -1066,13 +758,9 @@ b) risorse: promuove e valuta le esigenze di professionalità in termini di fabb
 
 c) coordinamento: individua modalità di coordinamento e condivisione fra Dipartimenti ed Enti del Settore Pubblico Allargato su tutte le materie di pertinenza; acquisisce analisi e proposte e porta a sintesi quanto emerge nei singoli Dipartimenti al fine di migliorare l’attività dell’amministrazione complessivamente intesa.
 
-5.
+5\. Le decisioni di pertinenza del Consiglio di Direzione sono adottate dalla DGFP ed emanate dal Direttore della Funzione Pubblica.
 
-Le decisioni di pertinenza del Consiglio di Direzione sono adottate dalla DGFP ed emanate dal Direttore della Funzione Pubblica.
-
-6.
-
-I membri del Consiglio di Direzione partecipano e contribuiscono, sia nelle fasi preparatorie che in quelle elaborative di piani e progetti, al funzionamento dell’organizzazione e al miglioramento dell’attività amministrativa secondo un’ottica generale e non solo specialistica relativa al Dipartimento diretto.
+6\. I membri del Consiglio di Direzione partecipano e contribuiscono, sia nelle fasi preparatorie che in quelle elaborative di piani e progetti, al funzionamento dell’organizzazione e al miglioramento dell’attività amministrativa secondo un’ottica generale e non solo specialistica relativa al Dipartimento diretto.
 
 #### Art. 39
 
@@ -1082,9 +770,7 @@ I membri del Consiglio di Direzione partecipano e contribuiscono, sia nelle fasi
 
 (Consulta per la Partecipazione dell’Utenza)
 
-1.
-
-La Consulta per la Partecipazione dell’Utenza, di cui fanno parte l’amministrazione e Rappresentanze delle categorie economiche e delle associazioni dei consumatori, è istituita con decreto delegato quale organo propulsivo e consultivo che contribuisce, a favore dell’utenza, alla definizione degli indirizzi per il miglioramento dei servizi pubblici, dell’attività amministrativa e della legislazione.
+1\. La Consulta per la Partecipazione dell’Utenza, di cui fanno parte l’amministrazione e Rappresentanze delle categorie economiche e delle associazioni dei consumatori, è istituita con decreto delegato quale organo propulsivo e consultivo che contribuisce, a favore dell’utenza, alla definizione degli indirizzi per il miglioramento dei servizi pubblici, dell’attività amministrativa e della legislazione.
 
 #### Art. 41
 
@@ -1094,25 +780,15 @@ La Consulta per la Partecipazione dell’Utenza, di cui fanno parte l’amminist
 
 (Commissione Consultiva di Pubblico Impiego)
 
-1.
+1\. La Commissione Consultiva di Pubblico Impiego è composta: dal Direttore Risorse Umane e Organizzazione; da un membro per ciascuna Organizzazione Sindacale giuridicamente riconosciuta e dalle stesse designato; da un numero di membri nominati dal Congresso di Stato, su indicazione della Direzione Generale della Funzione Pubblica, e tale da garantire la pariteticità delle due componenti. Alle riunioni possono essere chiamati a riferire o intervenire anche altri dipendenti o esperti individuati dal Direttore RUO. Essa resta in carica per la durata della legislatura.
 
-La Commissione Consultiva di Pubblico Impiego è composta: dal Direttore Risorse Umane e Organizzazione; da un membro per ciascuna Organizzazione Sindacale giuridicamente riconosciuta e dalle stesse designato; da un numero di membri nominati dal Congresso di Stato, su indicazione della Direzione Generale della Funzione Pubblica, e tale da garantire la pariteticità delle due componenti. Alle riunioni possono essere chiamati a riferire o intervenire anche altri dipendenti o esperti individuati dal Direttore RUO. Essa resta in carica per la durata della legislatura.
+2\. La Commissione Consultiva di Pubblico Impiego è convocata e presieduta dal Direttore RUO, che provvede alla redazione dell’ordine del giorno, anche su richiesta delle Organizzazioni Sindacali. Le sedute della Commissione sono valide quando vi partecipino i due terzi dei suoi componenti.
 
-2.
+3\. Le deliberazioni della Commissione sono adottate a maggioranza assoluta con voto palese. L'astensione dal voto non è ammessa. Tutti i membri hanno diritto di far annotare a verbale i motivi del proprio dissenso. A parità di voti prevale quello del Presidente. Le deliberazioni della Commissione sono trasmesse agli Uffici competenti per l’adozione degli atti conseguenti.
 
-La Commissione Consultiva di Pubblico Impiego è convocata e presieduta dal Direttore RUO, che provvede alla redazione dell’ordine del giorno, anche su richiesta delle Organizzazioni Sindacali. Le sedute della Commissione sono valide quando vi partecipino i due terzi dei suoi componenti.
+4\. La Commissione Consultiva di cui all’articolo 96 della Legge 22 dicembre 1972 n.41 è soppressa e sostituita dalla Commissione Consultiva di Pubblico Impiego, alla quale sono attribuite le sue funzioni per tutto il Settore Pubblico Allargato, con l’esclusione di quelle funzioni che la legge attribuisce espressamente ad altri organi.
 
-3.
-
-Le deliberazioni della Commissione sono adottate a maggioranza assoluta con voto palese. L'astensione dal voto non è ammessa. Tutti i membri hanno diritto di far annotare a verbale i motivi del proprio dissenso. A parità di voti prevale quello del Presidente. Le deliberazioni della Commissione sono trasmesse agli Uffici competenti per l’adozione degli atti conseguenti.
-
-4.
-
-La Commissione Consultiva di cui all’articolo 96 della Legge 22 dicembre 1972 n.41 è soppressa e sostituita dalla Commissione Consultiva di Pubblico Impiego, alla quale sono attribuite le sue funzioni per tutto il Settore Pubblico Allargato, con l’esclusione di quelle funzioni che la legge attribuisce espressamente ad altri organi.
-
-5.
-
-Inoltre, la Commissione Consultiva di Pubblico Impiego:
+5\. Inoltre, la Commissione Consultiva di Pubblico Impiego:
 
 a) agisce e collabora per prevenire e risolvere eventuali contenziosi in materia di applicazione delle norme di legge e di contratto collettivo e degli accordi sul personale e delle prassi amministrative al riguardo;
 
@@ -1126,9 +802,7 @@ d) [abrogato]
 
 (Organi e Norme di Disciplina)
 
-1.
-
-Allo scopo di rendere compatibili e coordinare le vigenti norme di disciplina con i ruoli del modello organizzativo di cui alla presente legge, di dare seguito in tal senso all’articolo 49 della Legge 31 luglio 2009 n.106, nonché di dare attuazione, nella specifica materia, all’articolo 80, primo punto del comma 1, della Legge 22 dicembre
+1\. Allo scopo di rendere compatibili e coordinare le vigenti norme di disciplina con i ruoli del modello organizzativo di cui alla presente legge, di dare seguito in tal senso all’articolo 49 della Legge 31 luglio 2009 n.106, nonché di dare attuazione, nella specifica materia, all’articolo 80, primo punto del comma 1, della Legge 22 dicembre
 
 2010 n.194, il Congresso di Stato è autorizzato ad adottare decreto delegato per l’aggiornamento ed il coordinamento delle norme di disciplina, previo confronto con le Organizzazioni Sindacali, sulla base delle seguenti disposizioni:
 
@@ -1144,9 +818,7 @@ d) le norme e le procedure di disciplina sono riviste, snellite, coordinate e re
 
 (Commissione per Concorsi ed altre forme di selezione)
 
-1.
-
-Le Commissioni di Concorso e delle altre forme di selezione sono disciplinate dalla Legge 31 luglio 2009 n.107, dalla presente legge e dalle norme di attuazione.
+1\. Le Commissioni di Concorso e delle altre forme di selezione sono disciplinate dalla Legge 31 luglio 2009 n.107, dalla presente legge e dalle norme di attuazione.
 
 ## TITOLO IV
 
@@ -1156,13 +828,9 @@ RUOLI E COMPETENZE PER GLI ATTI SUL PERSONALE
 
 (Finalità)
 
-1.
+1\. Le norme di cui al presente Titolo, unitamente a quelle relative alle competenze del management di cui ai precedenti titoli, danno attuazione a quanto disposto dall’articolo 17, comma 2, della Legge Qualificata 15 Dicembre 2005 n.184 e ai principi generali della Riforma della Pubblica Amministrazione, in continuità con l’esperienza maturata dall’applicazione del Regolamento 23 febbraio 2007 n.2.
 
-Le norme di cui al presente Titolo, unitamente a quelle relative alle competenze del management di cui ai precedenti titoli, danno attuazione a quanto disposto dall’articolo 17, comma 2, della Legge Qualificata 15 Dicembre 2005 n.184 e ai principi generali della Riforma della Pubblica Amministrazione, in continuità con l’esperienza maturata dall’applicazione del Regolamento 23 febbraio 2007 n.2.
-
-2.
-
-L’attribuzione delle funzioni amministrative sul personale è diretta a separare le competenze amministrative da quelle politiche, a razionalizzarne la distribuzione e a snellirne le procedure.
+2\. L’attribuzione delle funzioni amministrative sul personale è diretta a separare le competenze amministrative da quelle politiche, a razionalizzarne la distribuzione e a snellirne le procedure.
 
 ### CAPO I
 
@@ -1172,17 +840,13 @@ COMPETENZE RELATIVE AGLI ATTI SUL PERSONALE
 
 (Funzioni di Capo del Personale)
 
-1.
-
-Le funzioni di capo del personale previste dalle normative vigenti, qualora non espressamente attribuite dalla presente legge, sono esercitate:
+1\. Le funzioni di capo del personale previste dalle normative vigenti, qualora non espressamente attribuite dalla presente legge, sono esercitate:
 
 a) dal Direttore RUO per il personale della Pubblica Amministrazione;
 
 b) dai Direttori degli Enti del Settore Pubblico Allargato, per il personale di rispettiva competenza.
 
-2.
-
-I Direttori degli Enti del Settore Pubblico Allargato, in tale veste:
+2\. I Direttori degli Enti del Settore Pubblico Allargato, in tale veste:
 
 a) autorizzano gli atti sul personale in base alle norme vigenti e nel rispetto degli indirizzi e delle direttive di carattere generale impartite dal Congresso di Stato;
 
@@ -1194,29 +858,19 @@ c) trattano con le Organizzazioni Sindacali e stipulano accordi per gli aspetti 
 
 (Competenze amministrative sul Personale)
 
-1.
+1\. L’adozione degli atti sul personale, relativamente alla gestione amministrativa ed operativa, compete ai Direttori con funzioni di capo del personale degli Enti del Settore Pubblico Allargato e, per la Pubblica Amministrazione, al Dirigente dell’UO Gestione Personale e alle pertinenti Commissioni, come previsto dalla presente legge.
 
-L’adozione degli atti sul personale, relativamente alla gestione amministrativa ed operativa, compete ai Direttori con funzioni di capo del personale degli Enti del Settore Pubblico Allargato e, per la Pubblica Amministrazione, al Dirigente dell’UO Gestione Personale e alle pertinenti Commissioni, come previsto dalla presente legge.
+2\. La Direzione Generale della Funzione Pubblica esercita le competenze di indirizzo e controllo sull’applicazione delle regole e direttive generali impartite dal Congresso di Stato e sulla gestione di procedure che riguardano il personale del Settore Pubblico Allargato, affinché sia garantita omogeneità di trattamento ed unitarietà di orientamenti, decisioni e processi.
 
-2.
+3\. Le deliberazioni, gli atti e i provvedimenti relativi al personale del Settore Pubblico Allargato sono emanati dagli organi competenti in attuazione della legge e delle direttive generali impartite dal Congresso di Stato ai sensi dell’articolo 16, comma 2, lettera b), della Legge Qualificata 15 dicembre 2005 n.184, e nei limiti delle risorse umane, materiali ed economico-finanziarie individuate sempre ai sensi dell’articolo 16, comma 2, lettera c), della medesima legge.
 
-La Direzione Generale della Funzione Pubblica esercita le competenze di indirizzo e controllo sull’applicazione delle regole e direttive generali impartite dal Congresso di Stato e sulla gestione di procedure che riguardano il personale del Settore Pubblico Allargato, affinché sia garantita omogeneità di trattamento ed unitarietà di orientamenti, decisioni e processi.
-
-3.
-
-Le deliberazioni, gli atti e i provvedimenti relativi al personale del Settore Pubblico Allargato sono emanati dagli organi competenti in attuazione della legge e delle direttive generali impartite dal Congresso di Stato ai sensi dell’articolo 16, comma 2, lettera b), della Legge Qualificata 15 dicembre 2005 n.184, e nei limiti delle risorse umane, materiali ed economico-finanziarie individuate sempre ai sensi dell’articolo 16, comma 2, lettera c), della medesima legge.
-
-4.
-
-I direttori e dirigenti di cui al comma 1, del presente articolo, danno comunicazione degli atti adottati al Direttore RUO.
+4\. I direttori e dirigenti di cui al comma 1, del presente articolo, danno comunicazione degli atti adottati al Direttore RUO.
 
 #### Art. 48
 
 (Competenze per gli atti sul Personale)
 
-1.
-
-Ai Dirigenti di cui al comma 1, del precedente articolo è trasferita la competenza per l’adozione degli atti riguardanti:
+1\. Ai Dirigenti di cui al comma 1, del precedente articolo è trasferita la competenza per l’adozione degli atti riguardanti:
 
 a) l’inquadramento del personale, in ottemperanza a quanto previsto da apposite leggi e/o da specifici accordi;
 
@@ -1228,39 +882,25 @@ d) la progressione di carriera dei dipendenti pubblici così come regolata dalle
 
 e) le attribuzioni per essi previste dall’articolo 54 della presente legge.
 
-2.
+2\. Nell’ambito delle deroghe di carattere generale e preventivo previste dall’articolo 35, comma 2, della Legge 20 dicembre 2002 n.112 e dall’articolo 6 del Regolamento 23 febbraio 2007 n.2, già concesse e che verranno deliberate, le autorizzazioni per incarichi e sostituzioni sono di competenza dei Direttori degli Enti e, per la PA, del Dirigente UO Gestione Personale PA in base alle direttive impartite dal Direttore RUO.
 
-Nell’ambito delle deroghe di carattere generale e preventivo previste dall’articolo 35, comma 2, della Legge 20 dicembre 2002 n.112 e dall’articolo 6 del Regolamento 23 febbraio 2007 n.2, già concesse e che verranno deliberate, le autorizzazioni per incarichi e sostituzioni sono di competenza dei Direttori degli Enti e, per la PA, del Dirigente UO Gestione Personale PA in base alle direttive impartite dal Direttore RUO.
-
-3.
-
-Sono di competenza del Dirigente UO Gestione Personale PA il conferimento degli incarichi e delle sostituzioni e l’adozione dei relativi atti del personale docente delle Scuole di ogni Ordine e Grado, ivi compreso il personale di cui all’Allegato “F” alla
+3\. Sono di competenza del Dirigente UO Gestione Personale PA il conferimento degli incarichi e delle sostituzioni e l’adozione dei relativi atti del personale docente delle Scuole di ogni Ordine e Grado, ivi compreso il personale di cui all’Allegato “F” alla
 
 Legge Organica per l’insegnamento della Religione Cattolica e del personale docente del Centro di Formazione Professionale reperito a norma del comma 6 dell’articolo 9 della Legge 13 febbraio 1980 n.10, nell’ambito rispettivamente del Piano delle Cattedre di cui all’articolo 15 della Legge 17 luglio 1979 n.41, e del piano annuale di intervento del Centro di Formazione Professionale di cui all’articolo 17 della Legge 13 febbraio 1980 n.10.
 
-4.
+4\. La competenza in capo al Congresso di Stato in materia di approvazione dei Piani Generali delle cattedre per l’insegnamento nelle scuole di ogni ordine e grado è trasferita all’organo collegiale preposto alla definizione degli stessi, di cui al successivo articolo 53, nell’ambito degli indirizzi impartiti dal Congresso di Stato.
 
-La competenza in capo al Congresso di Stato in materia di approvazione dei Piani Generali delle cattedre per l’insegnamento nelle scuole di ogni ordine e grado è trasferita all’organo collegiale preposto alla definizione degli stessi, di cui al successivo articolo 53, nell’ambito degli indirizzi impartiti dal Congresso di Stato.
+5\. La competenza in capo al Congresso di Stato in materia di approvazione del Piano Annuale delle Cattedre per l’insegnamento nel Centro di Formazione Professionale è trasferita al Direttore del Dipartimento a cui afferisce il CFP, nell’ambito degli indirizzi impartiti dal Congresso di Stato.
 
-5.
+6\. La competenza in capo al Congresso di Stato relativa alla deroga di cui all’articolo 35, comma 2, della Legge 16 dicembre 2002 n.112, è trasferita alla Direzione Generale della Funzione Pubblica, sentito il Consiglio di Direzione. Fino alla definizione del fabbisogno conseguente alla presente legge, tale competenza resta in capo al Congresso di Stato.
 
-La competenza in capo al Congresso di Stato in materia di approvazione del Piano Annuale delle Cattedre per l’insegnamento nel Centro di Formazione Professionale è trasferita al Direttore del Dipartimento a cui afferisce il CFP, nell’ambito degli indirizzi impartiti dal Congresso di Stato.
-
-6.
-
-La competenza in capo al Congresso di Stato relativa alla deroga di cui all’articolo 35, comma 2, della Legge 16 dicembre 2002 n.112, è trasferita alla Direzione Generale della Funzione Pubblica, sentito il Consiglio di Direzione. Fino alla definizione del fabbisogno conseguente alla presente legge, tale competenza resta in capo al Congresso di Stato.
-
-7.
-
-La competenza dei distacchi amministrativi rientra, salvo quanto previsto dalla lettera c) del successivo articolo, nelle competenze sulle assegnazioni e sulla mobilità.
+7\. La competenza dei distacchi amministrativi rientra, salvo quanto previsto dalla lettera c) del successivo articolo, nelle competenze sulle assegnazioni e sulla mobilità.
 
 #### Art. 49
 
 (Competenze non trasferite)
 
-1.
-
-Non sono trasferite le competenze sugli atti e provvedimenti non disciplinati dal presente Titolo, fra i quali:
+1\. Non sono trasferite le competenze sugli atti e provvedimenti non disciplinati dal presente Titolo, fra i quali:
 
 a) l’arruolamento, la progressione di carriera e il collocamento in quiescenza degli appartenenti al Corpo della Gendarmeria e del Nucleo Uniformato della Guardia di Rocca, così come disciplinati dagli specifici Regolamenti;
 
@@ -1274,29 +914,21 @@ e) gli incarichi dirigenziali;
 
 f) l’emissione dei bandi per il reclutamento del personale; f bis) i distacchi amministrativi di personale docente presso Segreterie di Stato, Dipartimenti, Articolazioni e Unità Organizzative del Settore Pubblico Allargato.
 
-2.
-
-Gli accordi tra l’amministrazione/Enti e le Organizzazioni Sindacali che comportano modifiche normative e retributive sono sottoscritti dai Segretari di Stato o dagli organi dell’amministrazione/Enti su mandato del Congresso di Stato e sono validi ed efficaci solo a seguito di ratifica dell’accordo da parte del Consiglio Grande e Generale.
+2\. Gli accordi tra l’amministrazione/Enti e le Organizzazioni Sindacali che comportano modifiche normative e retributive sono sottoscritti dai Segretari di Stato o dagli organi dell’amministrazione/Enti su mandato del Congresso di Stato e sono validi ed efficaci solo a seguito di ratifica dell’accordo da parte del Consiglio Grande e Generale.
 
 #### Art. 50
 
 (Presa d’atto del Congresso di Stato)
 
-1.
-
-I provvedimenti inerenti […] il passaggio dalla Dotazione Organica Aggiuntiva alla Dotazione Organica Ordinaria, le progressioni di carriera, non sono più soggetti a presa d’atto da parte del Consiglio Grande e Generale ma a presa d’atto del Congresso di Stato promossa dal Segretario di Stato con delega alla Funzione Pubblica a cui vanno trasmessi gli atti da parte degli uffici competenti.
+1\. I provvedimenti inerenti […] il passaggio dalla Dotazione Organica Aggiuntiva alla Dotazione Organica Ordinaria, le progressioni di carriera, non sono più soggetti a presa d’atto da parte del Consiglio Grande e Generale ma a presa d’atto del Congresso di Stato promossa dal Segretario di Stato con delega alla Funzione Pubblica a cui vanno trasmessi gli atti da parte degli uffici competenti.
 
 #### Art. 51
 
 (Controlli e verifiche)
 
-1.
+1\. La Direzione Generale della Funzione Pubblica, per il tramite del Direttore RUO, esercita controlli e verifiche sugli atti relativi alla gestione amministrativa e contabile del personale del Settore Pubblico Allargato al fine di garantirne l’uniformità.
 
-La Direzione Generale della Funzione Pubblica, per il tramite del Direttore RUO, esercita controlli e verifiche sugli atti relativi alla gestione amministrativa e contabile del personale del Settore Pubblico Allargato al fine di garantirne l’uniformità.
-
-2.
-
-La DGFP dispone controlli ed ispezioni sull'osservanza dei doveri relativi alla presenza in servizio.
+2\. La DGFP dispone controlli ed ispezioni sull'osservanza dei doveri relativi alla presenza in servizio.
 
 ### CAPO II
 
@@ -1306,17 +938,11 @@ ATTI SUL PERSONALE DI COMPETENZA DI COMMISSIONI
 
 (Commissione per la formazione delle graduatorie per incarichi e supplenze nelle scuole di ogni ordine e grado di cui all’articolo 10 della Legge 17 luglio 1979 n.41)
 
-1.
+1\. In applicazione del Titolo V della Legge 15 Dicembre 2005 n.184 e dell’articolo 3 della Legge Quadro 31 luglio 2009 n.105, il primo e secondo comma dell’articolo 10 della Legge 17 luglio 1979 n.41, sono modificati come previsto dai successivi commi.
 
-In applicazione del Titolo V della Legge 15 Dicembre 2005 n.184 e dell’articolo 3 della Legge Quadro 31 luglio 2009 n.105, il primo e secondo comma dell’articolo 10 della Legge 17 luglio 1979 n.41, sono modificati come previsto dai successivi commi.
+2\. Scaduto il termine per la presentazione delle domande, il Direttore RUO, nomina la Commissione per la formazione delle graduatorie per incarichi e supplenze.
 
-2.
-
-Scaduto il termine per la presentazione delle domande, il Direttore RUO, nomina la Commissione per la formazione delle graduatorie per incarichi e supplenze.
-
-3.
-
-La Commissione è così composta:
+3\. La Commissione è così composta:
 
 a) Dirigente Ufficio Gestione Personale PA, o da altro funzionario da lui designato, che la presiede;
 
@@ -1330,9 +956,7 @@ d) tanti rappresentanti delle Organizzazioni Sindacali giuridicamente riconosciu
 
 (Commissione per la formazione annuale del piano generale delle cattedre di cui all’articolo 15 della Legge 17 luglio 1979 n.41)
 
-1.
-
-In applicazione del Titolo V della Legge 15 Dicembre 2005 n.84 e dell’articolo 3 della Legge Quadro 31 luglio 2009 n.105 la Commissione di cui all’articolo 15 della Legge 17 luglio 1979 n.41 è così composta:
+1\. In applicazione del Titolo V della Legge 15 Dicembre 2005 n.84 e dell’articolo 3 della Legge Quadro 31 luglio 2009 n.105 la Commissione di cui all’articolo 15 della Legge 17 luglio 1979 n.41 è così composta:
 
 a) Direttore del Dipartimento Istruzione che la presiede;
 
@@ -1346,9 +970,7 @@ d) tanti rappresentanti delle Organizzazioni Sindacali giuridicamente riconosciu
 
 (Attribuzione delle competenze della Commissione Consultiva Legge n.41/1972)
 
-1.
-
-E’ soppressa la Commissione Consultiva di cui all’articolo 96 della Legge 22 dicembre 1972 n.41. Le competenze per essa previste dalle norme vigenti prima dell’entrata in vigore della presente legge, sono attribuite ai seguenti organi e come di seguito indicato:
+1\. E’ soppressa la Commissione Consultiva di cui all’articolo 96 della Legge 22 dicembre 1972 n.41. Le competenze per essa previste dalle norme vigenti prima dell’entrata in vigore della presente legge, sono attribuite ai seguenti organi e come di seguito indicato:
 
 a) le facoltà e competenze di cui agli articoli 22, 30, 31, 45 e 81 della Legge 22 dicembre 1972 n.41, sono trasferite alla Commissione Consultiva di Pubblico Impiego di cui all’articolo 42 della presente legge, fatta salva la competenza del Direttore RUO su quanto previsto dal comma 3 dell’articolo 16 della Legge 31 luglio 2009 n.108;
 
@@ -1384,127 +1006,79 @@ PROFILI DI RUOLO
 
 (Profilo di Ruolo)
 
-1.
+1\. Il Profilo di Ruolo definisce le caratteristiche professionali del dipendente con rapporto di lavoro di pubblico impiego ed indica il grado di professionalità, autonomia e responsabilità richiesto, prescindendo dalla Unità Organizzativa di assegnazione.
 
-Il Profilo di Ruolo definisce le caratteristiche professionali del dipendente con rapporto di lavoro di pubblico impiego ed indica il grado di professionalità, autonomia e responsabilità richiesto, prescindendo dalla Unità Organizzativa di assegnazione.
+2\. I Profili di Ruolo (di seguito denominati anche PDR) unitamente alle funzioni delle UO, contribuiscono a rendere esplicita e trasparente la configurazione dell’amministrazione e della sua attività e costituiscono la base normativa ed organizzativa per la gestione e lo sviluppo delle professionalità, per la misurazione dei carichi di lavoro e la definizione del fabbisogno, per le selezioni e la valutazione delle prestazioni secondo standard oggettivi ed in coerenza con il modello organizzativo della presente legge.
 
-2.
+3\. I Profili di Ruolo sono declinati, previo confronto con le Organizzazioni Sindacali, mediante decreto delegato sulla base dei modelli di cui all’Allegato B della presente legge e tenuto conto delle norme di cui alla presente legge.
 
-I Profili di Ruolo (di seguito denominati anche PDR) unitamente alle funzioni delle UO, contribuiscono a rendere esplicita e trasparente la configurazione dell’amministrazione e della sua attività e costituiscono la base normativa ed organizzativa per la gestione e lo sviluppo delle professionalità, per la misurazione dei carichi di lavoro e la definizione del fabbisogno, per le selezioni e la valutazione delle prestazioni secondo standard oggettivi ed in coerenza con il modello organizzativo della presente legge.
-
-3.
-
-I Profili di Ruolo sono declinati, previo confronto con le Organizzazioni Sindacali, mediante decreto delegato sulla base dei modelli di cui all’Allegato B della presente legge e tenuto conto delle norme di cui alla presente legge.
-
-4.
-
-I posti con relative qualifiche e mansionari di cui all’Allegato A alla Legge 17 settembre 1993 n.106 e successive modifiche, sono sostituiti dai corrispondenti PDR, in base alla tabella delle corrispondenze allegata al decreto delegato di cui al precedente comma, ma fin dall’entrata in vigore della presente legge, in coerenza con quanto stabilito all’articolo 10, si intendono in ogni caso superati i mansionari. Fino alla loro formale abrogazione, i mansionari costituiscono un riferimento indicativo ed esemplificativo della professionalità e dell’operatività.
+4\. I posti con relative qualifiche e mansionari di cui all’Allegato A alla Legge 17 settembre 1993 n.106 e successive modifiche, sono sostituiti dai corrispondenti PDR, in base alla tabella delle corrispondenze allegata al decreto delegato di cui al precedente comma, ma fin dall’entrata in vigore della presente legge, in coerenza con quanto stabilito all’articolo 10, si intendono in ogni caso superati i mansionari. Fino alla loro formale abrogazione, i mansionari costituiscono un riferimento indicativo ed esemplificativo della professionalità e dell’operatività.
 
 #### Art.56
 
 (Riferimento ai Profili di Ruolo ed inquadramento)
 
-1.
+1\. Il dipendente ricopre posizioni di pubblico impiego con riferimento ad un PDR il quale contraddistingue le caratteristiche professionali del dipendente e previste dal fabbisogno a prescindere dal tipo di inquadramento di cui ai successivi commi 2 e 3 e dall’assunzione in via definitiva o temporanea.
 
-Il dipendente ricopre posizioni di pubblico impiego con riferimento ad un PDR il quale contraddistingue le caratteristiche professionali del dipendente e previste dal fabbisogno a prescindere dal tipo di inquadramento di cui ai successivi commi 2 e 3 e dall’assunzione in via definitiva o temporanea.
-
-2.
-
-All’assunzione a tempo indeterminato consegue l’inquadramento nel pertinente PDR, tenuto conto dell’introduzione del nuovo regime normativo di cui al successivo
+2\. All’assunzione a tempo indeterminato consegue l’inquadramento nel pertinente PDR, tenuto conto dell’introduzione del nuovo regime normativo di cui al successivo
 
 ## Titolo VI.
 
-3.
-
-A fini di semplificazione e di salvaguardia dei diritti acquisiti, il personale in organico resta inquadrato nella propria qualifica, la quale si collega al PDR mediante la tabella delle corrispondenze di cui al comma 4 del precedente articolo, e ciò anche a parziale modifica del comma 1 dell’articolo 20 della Legge n.105/2009.
+3\. A fini di semplificazione e di salvaguardia dei diritti acquisiti, il personale in organico resta inquadrato nella propria qualifica, la quale si collega al PDR mediante la tabella delle corrispondenze di cui al comma 4 del precedente articolo, e ciò anche a parziale modifica del comma 1 dell’articolo 20 della Legge n.105/2009.
 
 #### Art. 57
 
 (Profili di Ruolo: Titoli di Studio e professionali)
 
-1.
+1\. Ai PDR sono associati uno o più titoli di studio.
 
-Ai PDR sono associati uno o più titoli di studio.
+2\. Il titolo di studio può essere definito in relazione al grado e al tipo, oppure solamente in relazione al grado.
 
-2.
+3\. Il titolo di studio indicato nel PDR come “titolo” costituisce il requisito minimo per l’accesso. Nel PDR sono altresì riportati il grado e la tipologia degli eventuali titoli di studio superiori validi per l’accesso.
 
-Il titolo di studio può essere definito in relazione al grado e al tipo, oppure solamente in relazione al grado.
+4\. Per alcuni PDR, oltre al titolo di studio richiesto per l’accesso, è individuato anche il possesso di corsi professionali, diplomi di specializzazione o abilitazione professionale specifica.
 
-3.
+5\. Per determinati PDR il possesso di titolo di studio è tassativo.
 
-Il titolo di studio indicato nel PDR come “titolo” costituisce il requisito minimo per l’accesso. Nel PDR sono altresì riportati il grado e la tipologia degli eventuali titoli di studio superiori validi per l’accesso.
+6\. Per l’accesso ai PDR corrispondenti a qualifiche-livello 9°, è tassativamente richiesto il possesso del diploma di laurea magistrale o specialistica o di vecchio ordinamento.
 
-4.
-
-Per alcuni PDR, oltre al titolo di studio richiesto per l’accesso, è individuato anche il possesso di corsi professionali, diplomi di specializzazione o abilitazione professionale specifica.
-
-5.
-
-Per determinati PDR il possesso di titolo di studio è tassativo.
-
-6.
-
-Per l’accesso ai PDR corrispondenti a qualifiche-livello 9°, è tassativamente richiesto il possesso del diploma di laurea magistrale o specialistica o di vecchio ordinamento.
-
-7.
-
-Per l’assegnazione ad una UO, qualora sia necessario un titolo di studio specifico non declinato dal PDR, questo può essere previsto nell’ambito del fabbisogno della UO medesima.
+7\. Per l’assegnazione ad una UO, qualora sia necessario un titolo di studio specifico non declinato dal PDR, questo può essere previsto nell’ambito del fabbisogno della UO medesima.
 
 #### Art. 58
 
 (Profili di Ruolo e Retribuzione)
 
-1.
+1\. A ciascuno dei PDR, nel decreto di cui al comma 3 dell’articolo 55, è associata una retribuzione rivalutabile e modificabile secondo quanto stabilito dalla presente legge, dal contratto collettivo e dalle norme vigenti.
 
-A ciascuno dei PDR, nel decreto di cui al comma 3 dell’articolo 55, è associata una retribuzione rivalutabile e modificabile secondo quanto stabilito dalla presente legge, dal contratto collettivo e dalle norme vigenti.
-
-2.
-
-Ai sensi dell’articolo 25 della Legge n.105/2009 ed a seguito di quanto dispone l’articolo 60 della presente legge, la struttura retributiva sarà riformata per tenere conto, oltre che delle caratteristiche professionali del PDR, anche di variabili che potranno essere legate alla posizione e alla valutazione.
+2\. Ai sensi dell’articolo 25 della Legge n.105/2009 ed a seguito di quanto dispone l’articolo 60 della presente legge, la struttura retributiva sarà riformata per tenere conto, oltre che delle caratteristiche professionali del PDR, anche di variabili che potranno essere legate alla posizione e alla valutazione.
 
 #### Art. 59
 
 (Altre norme comuni ai PDR)
 
-1.
+1\. I PDR non riportano indicazioni circa orari di lavoro o altre prescrizioni che dipendono dall’UO di assegnazione e che possono essere indicati nel fabbisogno della UO medesima. Tutti i dipendenti sono comunque tenuti all’orario flessibile per specifiche esigenze nell’erogazione dei servizi e ad una organizzazione degli orari di apertura al pubblico confacente alle esigenze dell’utenza.
 
-I PDR non riportano indicazioni circa orari di lavoro o altre prescrizioni che dipendono dall’UO di assegnazione e che possono essere indicati nel fabbisogno della UO medesima. Tutti i dipendenti sono comunque tenuti all’orario flessibile per specifiche esigenze nell’erogazione dei servizi e ad una organizzazione degli orari di apertura al pubblico confacente alle esigenze dell’utenza.
+2\. La formazione, anche se non espressamente prevista dal PDR di appartenenza, è diritto/dovere di tutto il personale.
 
-2.
+3\. Le conoscenze informatiche sono richieste ancorché non espressamente richiamate nei PDR, e fatto salvo che siano previste quali requisiti professionali per l’accesso a specifiche posizioni.
 
-La formazione, anche se non espressamente prevista dal PDR di appartenenza, è diritto/dovere di tutto il personale.
+4\. La conoscenza della lingua inglese costituisce sempre requisito preferenziale fatto salvo che sia prevista quale requisito professionale per l’accesso a specifiche posizioni.
 
-3.
-
-Le conoscenze informatiche sono richieste ancorché non espressamente richiamate nei PDR, e fatto salvo che siano previste quali requisiti professionali per l’accesso a specifiche posizioni.
-
-4.
-
-La conoscenza della lingua inglese costituisce sempre requisito preferenziale fatto salvo che sia prevista quale requisito professionale per l’accesso a specifiche posizioni.
-
-5.
-
-Le conoscenze, quanto meno di base, dell’informatica e della lingua inglese devono progressivamente far parte delle competenze professionali del personale il quale è pertanto tenuto ad acquisirle anche attraverso appositi percorsi formativi predisposti dall’amministrazione.
+5\. Le conoscenze, quanto meno di base, dell’informatica e della lingua inglese devono progressivamente far parte delle competenze professionali del personale il quale è pertanto tenuto ad acquisirle anche attraverso appositi percorsi formativi predisposti dall’amministrazione.
 
 #### Art. 60
 
 (PDR e valutazione)
 
-1.
-
-La valutazione del personale, così come sarà regolamentata in fase successiva ai sensi dell’articolo 25 della Legge 31 luglio 2009 n.105, sarà riferita al PDR e alle specifiche funzioni svolte nell’UO di assegnazione o nell’ambito dei Gruppi di Progetto.
+1\. La valutazione del personale, così come sarà regolamentata in fase successiva ai sensi dell’articolo 25 della Legge 31 luglio 2009 n.105, sarà riferita al PDR e alle specifiche funzioni svolte nell’UO di assegnazione o nell’ambito dei Gruppi di Progetto.
 
 #### Art. 61
 
 (Modifiche dei PDR)
 
-1.
+1\. Le modifiche ai PDR possono essere adottate con decreto delegato previo confronto con le Organizzazioni Sindacali, purché in attuazione delle disposizioni della presente legge.
 
-Le modifiche ai PDR possono essere adottate con decreto delegato previo confronto con le Organizzazioni Sindacali, purché in attuazione delle disposizioni della presente legge.
-
-2.
-
-Con decreto delegato possono, pertanto, essere previsti nuovi PDR, possono essere apportate modifiche ed integrazioni al contenuto dei PDR vigenti, con particolare riferimento alle caratteristiche professionali, a specifiche competenze e capacità, e possono altresì essere soppressi PDR vigenti. Ciò allo scopo di corrispondere alle esigenze di professionalità dell’amministrazione nell’ambito della definizione del fabbisogno, ed anche in relazione alla modifica o soppressione delle funzioni e delle UO o all’introduzione di nuove funzioni o di nuove UO.
+2\. Con decreto delegato possono, pertanto, essere previsti nuovi PDR, possono essere apportate modifiche ed integrazioni al contenuto dei PDR vigenti, con particolare riferimento alle caratteristiche professionali, a specifiche competenze e capacità, e possono altresì essere soppressi PDR vigenti. Ciò allo scopo di corrispondere alle esigenze di professionalità dell’amministrazione nell’ambito della definizione del fabbisogno, ed anche in relazione alla modifica o soppressione delle funzioni e delle UO o all’introduzione di nuove funzioni o di nuove UO.
 
 ### CAPO II
 
@@ -1514,61 +1088,39 @@ FABBISOGNO
 
 (Definizione e caratteristiche del fabbisogno)
 
-1.
+1\. Il fabbisogno definisce le risorse professionali necessarie a perseguire le funzioni delle UO dal punto di vista qualitativo e quantitativo, con riferimento ai PDR per il pubblico impiego e alle altre qualifiche previste dalle norme e dai contratti vigenti per il personale del Settore Pubblico Allargato.
 
-Il fabbisogno definisce le risorse professionali necessarie a perseguire le funzioni delle UO dal punto di vista qualitativo e quantitativo, con riferimento ai PDR per il pubblico impiego e alle altre qualifiche previste dalle norme e dai contratti vigenti per il personale del Settore Pubblico Allargato.
+2\. Il fabbisogno qualitativo declina in concreto le specifiche caratteristiche professionali necessarie al perseguimento delle funzioni di ciascuna UO e, in relazione ai PDR, gli specifici requisiti che conseguano all’assegnazione.
 
-2.
-
-Il fabbisogno qualitativo declina in concreto le specifiche caratteristiche professionali necessarie al perseguimento delle funzioni di ciascuna UO e, in relazione ai PDR, gli specifici requisiti che conseguano all’assegnazione.
-
-3.
-
-Gli elementi qualitativi richiesti dal fabbisogno sono riportati nel fascicolo del dipendente, che deve nel tempo divenire un supporto informatico complessivamente rappresentativo delle caratteristiche professionali presenti nell’amministrazione, con piena disponibilità di accesso del dipendente ai propri dati.
+3\. Gli elementi qualitativi richiesti dal fabbisogno sono riportati nel fascicolo del dipendente, che deve nel tempo divenire un supporto informatico complessivamente rappresentativo delle caratteristiche professionali presenti nell’amministrazione, con piena disponibilità di accesso del dipendente ai propri dati.
 
 #### Art. 63
 
 (Periodicità della definizione del fabbisogno)
 
-1.
+1\. Il fabbisogno è definito con decreto delegato, previo confronto con le Organizzazioni Sindacali.
 
-Il fabbisogno è definito con decreto delegato, previo confronto con le Organizzazioni Sindacali.
+2\. Il fabbisogno è soggetto a revisione ogni tre anni, salvo diverso accordo contenuto nel Contratto Collettivo di Lavoro per il pubblico impiego e da recepire con apposito atto normativo.
 
-2.
+3\. La rilevazione del fabbisogno è contestuale per tutte le figure professionali necessarie alle UO, a prescindere dalle norme e contratti che ne regolano il rapporto di lavoro e pertanto la durata e la scadenza del fabbisogno del personale che svolge funzioni ausiliarie ai sensi del Contratto Privatistico e del personale salariato coincidono con quella del fabbisogno del personale di pubblico impiego.
 
-Il fabbisogno è soggetto a revisione ogni tre anni, salvo diverso accordo contenuto nel Contratto Collettivo di Lavoro per il pubblico impiego e da recepire con apposito atto normativo.
-
-3.
-
-La rilevazione del fabbisogno è contestuale per tutte le figure professionali necessarie alle UO, a prescindere dalle norme e contratti che ne regolano il rapporto di lavoro e pertanto la durata e la scadenza del fabbisogno del personale che svolge funzioni ausiliarie ai sensi del Contratto Privatistico e del personale salariato coincidono con quella del fabbisogno del personale di pubblico impiego.
-
-4.
-
-Nel superiore interesse dell’efficiente e regolare svolgimento dell’attività amministrativa, qualora, durante il periodo che intercorre tra una revisione e la successiva, emergano esigenze urgenti di professionalità non previste dal fabbisogno, quest’ultimo può essere integrato, in via temporanea e comunque fino alla successiva revisione, con atto dei competenti organi della Direzione Generale della Funzione Pubblica previo confronto con le Organizzazioni Sindacali.
+4\. Nel superiore interesse dell’efficiente e regolare svolgimento dell’attività amministrativa, qualora, durante il periodo che intercorre tra una revisione e la successiva, emergano esigenze urgenti di professionalità non previste dal fabbisogno, quest’ultimo può essere integrato, in via temporanea e comunque fino alla successiva revisione, con atto dei competenti organi della Direzione Generale della Funzione Pubblica previo confronto con le Organizzazioni Sindacali.
 
 #### Art. 64
 
 (Fabbisogno e assegnazione)
 
-1.
+1\. Il personale è assegnato alle UO a seguito della periodica definizione del fabbisogno e, durante il periodo della sua vigenza, secondo le regole di cui alla presente legge.
 
-Il personale è assegnato alle UO a seguito della periodica definizione del fabbisogno e, durante il periodo della sua vigenza, secondo le regole di cui alla presente legge.
-
-2.
-
-La DGFP individua le necessità di riconversione professionale ed i relativi percorsi formativi, ai sensi della presente legge e predispone liste di disponibilità e di eventuali esuberi da cui attingere in via preferenziale ed a cui tutti i dipendenti possono accedere per richiedere una diversa assegnazione.
+2\. La DGFP individua le necessità di riconversione professionale ed i relativi percorsi formativi, ai sensi della presente legge e predispone liste di disponibilità e di eventuali esuberi da cui attingere in via preferenziale ed a cui tutti i dipendenti possono accedere per richiedere una diversa assegnazione.
 
 #### Art. 65
 
 (Definizione del primo fabbisogno)
 
-1.
+1\. Tenuto conto di quanto previsto al comma 4 dell’articolo 5 della presente legge, e considerate le esigenze di adattamento, implementazione e di messa a regime che ogni trasformazione strutturale presenta, il primo fabbisogno che sarà definito in tale fase, costituirà lo strumento normativo e tecnico per la transizione da un modello di dotazione organica al modello organizzativo di cui alla presente Riforma.
 
-Tenuto conto di quanto previsto al comma 4 dell’articolo 5 della presente legge, e considerate le esigenze di adattamento, implementazione e di messa a regime che ogni trasformazione strutturale presenta, il primo fabbisogno che sarà definito in tale fase, costituirà lo strumento normativo e tecnico per la transizione da un modello di dotazione organica al modello organizzativo di cui alla presente Riforma.
-
-2.
-
-Il primo fabbisogno, sarà informato ad indirizzi di contenimento e razionalizzazione, e sarà basato sull’analisi delle macro attività riconducibili alle funzioni delle UO e su standard metodologici, in modo da avviare l’applicazione dei criteri e dei principi previsti dal modello organizzativo di cui alla presente legge nell’ambito dei presidi strategici da esso istituiti.
+2\. Il primo fabbisogno, sarà informato ad indirizzi di contenimento e razionalizzazione, e sarà basato sull’analisi delle macro attività riconducibili alle funzioni delle UO e su standard metodologici, in modo da avviare l’applicazione dei criteri e dei principi previsti dal modello organizzativo di cui alla presente legge nell’ambito dei presidi strategici da esso istituiti.
 
 ### CAPO III
 
@@ -1578,33 +1130,19 @@ CONTRASTO ALLA FORMAZIONE DI PRECARIATO
 
 (Ricopertura PDR)
 
-1.
+1\. L’amministrazione provvede attraverso la mobilità ed i concorsi e selezioni di cui alla Legge n.107/2009, al fine di contrastare la formazione di precariato e realizzare gli obiettivi di cui alla presente legge.
 
-L’amministrazione provvede attraverso la mobilità ed i concorsi e selezioni di cui alla Legge n.107/2009, al fine di contrastare la formazione di precariato e realizzare gli obiettivi di cui alla presente legge.
+2\. La DGFP verifica la possibilità di utilizzare la mobilità, così come disciplinata dalle norme ed accordi vigenti e secondo quanto previsto al precedente articolo 64, comma 2, per la ricopertura dei PDR vacanti.
 
-2.
+3\. Per le professionalità mancanti si utilizzano le graduatorie degli idonei in esito a concorsi ed altre forme di selezione, entro il termine della validità di ciascuna graduatoria ai sensi della normativa vigente in materia.
 
-La DGFP verifica la possibilità di utilizzare la mobilità, così come disciplinata dalle norme ed accordi vigenti e secondo quanto previsto al precedente articolo 64, comma 2, per la ricopertura dei PDR vacanti.
+4\. Qualora non siano esperibili le procedure di cui ai precedenti commi, sono emessi entro il primo anno di vigenza del fabbisogno i bandi di concorso per le professionalità mancanti.
 
-3.
+5\. In caso di urgenza e necessità, a cui non sia possibile far fronte con le procedure che precedono, fino alla definizione del successivo fabbisogno è ammesso il ricorso a rapporti di lavoro a tempo determinato ai sensi delle norme vigenti e di quanto previsto al successivo articolo 67.
 
-Per le professionalità mancanti si utilizzano le graduatorie degli idonei in esito a concorsi ed altre forme di selezione, entro il termine della validità di ciascuna graduatoria ai sensi della normativa vigente in materia.
+6\. E’ condizione per l’assunzione a qualunque titolo nel Settore Pubblico Allargato, il preventivo accertamento dell’idoneità psico-fisica “alla mansione” di cui alle norme vigenti.
 
-4.
-
-Qualora non siano esperibili le procedure di cui ai precedenti commi, sono emessi entro il primo anno di vigenza del fabbisogno i bandi di concorso per le professionalità mancanti.
-
-5.
-
-In caso di urgenza e necessità, a cui non sia possibile far fronte con le procedure che precedono, fino alla definizione del successivo fabbisogno è ammesso il ricorso a rapporti di lavoro a tempo determinato ai sensi delle norme vigenti e di quanto previsto al successivo articolo 67.
-
-6.
-
-E’ condizione per l’assunzione a qualunque titolo nel Settore Pubblico Allargato, il preventivo accertamento dell’idoneità psico-fisica “alla mansione” di cui alle norme vigenti.
-
-7.
-
-L’applicazione di sanzioni disciplinari superiori all’ammonizione può costituire:
+7\. L’applicazione di sanzioni disciplinari superiori all’ammonizione può costituire:
 
 a) in caso di comminazione della sanzione della censura: impedimento per avanzamenti di carriera per due anni dall’esecutività del provvedimento sanzionatorio;
 
@@ -1616,13 +1154,9 @@ c) nel caso di comminazione di due sanzioni della censura o della sanzione della
 
 (Formazione preventiva)
 
-1.
+1\. L’amministrazione predispone piani per la formazione preventiva […] per l’accesso a posizioni del Settore Pubblico Allargato, al fine di fornire conoscenze di base sul funzionamento dello Stato e sulle regole di condotta, fatta salva la predisposizione di corsi per l’iscrizione nelle specifiche graduatorie da cui attingere per specifiche professionalità secondo le esigenze dell’amministrazione. I soggetti che non siano in possesso di attestazione di idoneità rilasciata in esito alla formazione preventiva di cui al precedente periodo, accedono alle posizioni di pubblico impiego per le quali tali formazione sia prevista, in via subordinata rispetto a coloro che abbiano conseguito la suddetta idoneità. L’attestazione di idoneità di cui al presente comma non è necessaria per i soggetti che abbiano superato periodi di prova alle dipendenze dell’Amministrazione.
 
-L’amministrazione predispone piani per la formazione preventiva […] per l’accesso a posizioni del Settore Pubblico Allargato, al fine di fornire conoscenze di base sul funzionamento dello Stato e sulle regole di condotta, fatta salva la predisposizione di corsi per l’iscrizione nelle specifiche graduatorie da cui attingere per specifiche professionalità secondo le esigenze dell’amministrazione. I soggetti che non siano in possesso di attestazione di idoneità rilasciata in esito alla formazione preventiva di cui al precedente periodo, accedono alle posizioni di pubblico impiego per le quali tali formazione sia prevista, in via subordinata rispetto a coloro che abbiano conseguito la suddetta idoneità. L’attestazione di idoneità di cui al presente comma non è necessaria per i soggetti che abbiano superato periodi di prova alle dipendenze dell’Amministrazione.
-
-2.
-
-La regolamentazione dei corsi avviene previo confronto con le Organizzazioni Sindacali.
+2\. La regolamentazione dei corsi avviene previo confronto con le Organizzazioni Sindacali.
 
 ## TITOLO VI
 
@@ -1632,91 +1166,57 @@ RAPPORTO D’IMPIEGO
 
 (Indirizzi per la progressiva evoluzione del rapporto di impiego)
 
-1.
+1\. In coerenza con i principi e le disposizioni di cui alla presente legge che dispongono in merito al rapporto di impiego e con l’obiettivo di estendere tali principi anche agli altri ambiti del rapporto di lavoro, il Congresso di Stato è impegnato a valutare con le Organizzazioni Sindacali le modifiche normative e contrattuali utili a realizzare il progressivo allineamento del regime normativo e retributivo dei lavoratori pubblici e privati tenuto conto degli esiti dell’applicazione delle norme di riforma della PA e degli impegni previsti all’articolo 25 della Legge n.105/2009.
 
-In coerenza con i principi e le disposizioni di cui alla presente legge che dispongono in merito al rapporto di impiego e con l’obiettivo di estendere tali principi anche agli altri ambiti del rapporto di lavoro, il Congresso di Stato è impegnato a valutare con le Organizzazioni Sindacali le modifiche normative e contrattuali utili a realizzare il progressivo allineamento del regime normativo e retributivo dei lavoratori pubblici e privati tenuto conto degli esiti dell’applicazione delle norme di riforma della PA e degli impegni previsti all’articolo 25 della Legge n.105/2009.
-
-2.
-
-Nel presente titolo sono introdotte norme tese agli obiettivi di cui al precedente comma e all’articolo 80 della Legge n.194/2010, in attesa degli adempimenti previsti dal medesimo articolo 25 della Legge n.105/2009 per la riforma della struttura retributiva da attuarsi nella seconda fase della riforma della PA ai sensi della medesima legge e secondo gli indirizzi di cui al precedente articolo 58 ultimo comma.
+2\. Nel presente titolo sono introdotte norme tese agli obiettivi di cui al precedente comma e all’articolo 80 della Legge n.194/2010, in attesa degli adempimenti previsti dal medesimo articolo 25 della Legge n.105/2009 per la riforma della struttura retributiva da attuarsi nella seconda fase della riforma della PA ai sensi della medesima legge e secondo gli indirizzi di cui al precedente articolo 58 ultimo comma.
 
 #### Art. 69
 
 (Nuovo regime normativo ed ambito di applicazione)
 
-1.
+1\. All’assunzione definitiva del personale di pubblico impiego consegue l’inquadramento a tempo indeterminato nel corrispondente PDR, ai sensi dell’articolo 56 della presente legge.
 
-All’assunzione definitiva del personale di pubblico impiego consegue l’inquadramento a tempo indeterminato nel corrispondente PDR, ai sensi dell’articolo 56 della presente legge.
+2\. L’assunzione a tempo determinato avviene comunque con riferimento ad un PDR ai sensi del medesimo articolo 56.
 
-2.
+3\. Le norme di cui alle leggi di pubblico impiego, ivi comprese quelle di cui alle Leggi n.105/2009, n.107/2009 e n.108/2009 che facciano riferimento al conseguimento del rapporto di organico/ruolo o allo status d’organico/ruolo, devono intendersi riferite, per il personale di cui ai commi che precedono, al rapporto di lavoro a tempo indeterminato. In particolare, a modifica dell’articolo 5, comma 2, della Legge n.107/2009, al concorso interno sarà ammesso il personale di ruolo ed il personale a tempo indeterminato.
 
-L’assunzione a tempo determinato avviene comunque con riferimento ad un PDR ai sensi del medesimo articolo 56.
-
-3.
-
-Le norme di cui alle leggi di pubblico impiego, ivi comprese quelle di cui alle Leggi n.105/2009, n.107/2009 e n.108/2009 che facciano riferimento al conseguimento del rapporto di organico/ruolo o allo status d’organico/ruolo, devono intendersi riferite, per il personale di cui ai commi che precedono, al rapporto di lavoro a tempo indeterminato. In particolare, a modifica dell’articolo 5, comma 2, della Legge n.107/2009, al concorso interno sarà ammesso il personale di ruolo ed il personale a tempo indeterminato.
-
-4.
-
-Ferma restando l’applicazione di tutte le norme vigenti in materia di pubblico impiego e previste dalla presente legge, l’eventuale ulteriore regolamentazione del rapporto di lavoro a tempo indeterminato è oggetto di contrattazione con le Organizzazioni Sindacali, fatta salva l’eventuale necessità di ratifica da parte del Consiglio Grande e Generale e/o l’adozione di atti normativi.
+4\. Ferma restando l’applicazione di tutte le norme vigenti in materia di pubblico impiego e previste dalla presente legge, l’eventuale ulteriore regolamentazione del rapporto di lavoro a tempo indeterminato è oggetto di contrattazione con le Organizzazioni Sindacali, fatta salva l’eventuale necessità di ratifica da parte del Consiglio Grande e Generale e/o l’adozione di atti normativi.
 
 #### Art. 70
 
 (Nuovo regime retributivo ed ambito di applicazione)
 
-1.
+1\. Al personale di cui all’articolo che precede si applica la retribuzione prevista dal PDR per il quale è effettuata l’assunzione.
 
-Al personale di cui all’articolo che precede si applica la retribuzione prevista dal PDR per il quale è effettuata l’assunzione.
+2\. Fino alla riforma della sua struttura ed ai sensi del comma 1 dell’articolo 58, la retribuzione di cui al comma che precede è composta dal piede retributivo e dagli scatti di anzianità. Tali voci retributive saranno individuate con il duplice obiettivo di ridurre complessivamente gli importi attualmente legati alle qualifiche e di tenere conto delle retribuzioni del settore privato per le medesime o equivalenti professionalità/funzioni previste per il PDR. Questi obiettivi saranno perseguiti con modalità e soluzioni utili a garantire l’equità e la considerazione delle professionalità, dei diversi settori e della specificità delle funzioni, previo confronto con le Organizzazioni Sindacali.
 
-2.
-
-Fino alla riforma della sua struttura ed ai sensi del comma 1 dell’articolo 58, la retribuzione di cui al comma che precede è composta dal piede retributivo e dagli scatti di anzianità. Tali voci retributive saranno individuate con il duplice obiettivo di ridurre complessivamente gli importi attualmente legati alle qualifiche e di tenere conto delle retribuzioni del settore privato per le medesime o equivalenti professionalità/funzioni previste per il PDR. Questi obiettivi saranno perseguiti con modalità e soluzioni utili a garantire l’equità e la considerazione delle professionalità, dei diversi settori e della specificità delle funzioni, previo confronto con le Organizzazioni Sindacali.
-
-3.
-
-Il comma che precede non si applica al personale dirigente, essendo la relativa retribuzione regolata dalla Legge n.108/2009 e dalle relative norme di attuazione.
+3\. Il comma che precede non si applica al personale dirigente, essendo la relativa retribuzione regolata dalla Legge n.108/2009 e dalle relative norme di attuazione.
 
 #### Art. 71
 
 (Disposizioni applicabili al personale d’organico)
 
-1.
-
-Le disposizioni di pubblico impiego, ivi comprese quelle di cui alla presente legge e alle norme di riforma, si applicano anche al personale in ruolo il quale
+1\. Le disposizioni di pubblico impiego, ivi comprese quelle di cui alla presente legge e alle norme di riforma, si applicano anche al personale in ruolo il quale
 
 mantiene il proprio status d’organico e resta inquadrato nella qualifica corrispondente al proprio “posto” d’organico con applicazione dell’articolo 56 della presente legge.
 
-2.
+2\. Al medesimo personale continua ad applicarsi il regime retributivo previgente rispetto a quello previsto dall’articolo 70.
 
-Al medesimo personale continua ad applicarsi il regime retributivo previgente rispetto a quello previsto dall’articolo 70.
+3\. Lo status d’organico del dipendente in ruolo permane, salvo rinuncia/opzione, per tutta la durata del suo rapporto d’impiego con il diritto ad essere inquadrato nelle qualifiche, anziché nei PDR. Pertanto, fermo restando quanto previsto al comma 4, dell’articolo 55 della presente legge, tale status ed inquadramento perdurano anche qualora egli consegua, in base alle norme vigenti, una posizione che faccia riferimento ad un PDR diverso da quello corrispondente alla qualifica di ruolo già posseduta.
 
-3.
+4\. Al personale di ruolo è riconosciuto il trattamento retributivo di miglior favore tra quelli riconducibili, per norma di legge o accordo sindacale valido ed efficace ai sensi dell’articolo 49, comma 2, della presente legge, alla qualifica o al PDR corrispondente, fermo restando che eventuali indennità previste dalle norme già vigenti alla data di entrata in vigore della presente legge, sono comunque connesse all’effettivo svolgimento delle attività per le quali sono state istituite e pertanto sono dovute solo se e per il periodo in cui le attività sono effettivamente svolte.
 
-Lo status d’organico del dipendente in ruolo permane, salvo rinuncia/opzione, per tutta la durata del suo rapporto d’impiego con il diritto ad essere inquadrato nelle qualifiche, anziché nei PDR. Pertanto, fermo restando quanto previsto al comma 4, dell’articolo 55 della presente legge, tale status ed inquadramento perdurano anche qualora egli consegua, in base alle norme vigenti, una posizione che faccia riferimento ad un PDR diverso da quello corrispondente alla qualifica di ruolo già posseduta.
-
-4.
-
-Al personale di ruolo è riconosciuto il trattamento retributivo di miglior favore tra quelli riconducibili, per norma di legge o accordo sindacale valido ed efficace ai sensi dell’articolo 49, comma 2, della presente legge, alla qualifica o al PDR corrispondente, fermo restando che eventuali indennità previste dalle norme già vigenti alla data di entrata in vigore della presente legge, sono comunque connesse all’effettivo svolgimento delle attività per le quali sono state istituite e pertanto sono dovute solo se e per il periodo in cui le attività sono effettivamente svolte.
-
-5.
-
-In virtù delle norme di cui al presente titolo, il regime di organico perdurerà fino ad esaurimento degli aventi diritto.
+5\. In virtù delle norme di cui al presente titolo, il regime di organico perdurerà fino ad esaurimento degli aventi diritto.
 
 #### Art. 72
 
 (Norme comuni ai due regimi normativi e retributivi)
 
-1.
+1\. E’ esclusa l’istituzione di indennità di funzione o comunque legate alla qualifica/PDR.
 
-E’ esclusa l’istituzione di indennità di funzione o comunque legate alla qualifica/PDR.
+2\. Non è altresì ammessa l’istituzione con delibera di qualunque tipo di indennità e compensi similari comunque denominati.
 
-2.
-
-Non è altresì ammessa l’istituzione con delibera di qualunque tipo di indennità e compensi similari comunque denominati.
-
-3.
-
-Si applica in ogni caso l’articolo 49, comma 2, della presente legge.
+3\. Si applica in ogni caso l’articolo 49, comma 2, della presente legge.
 
 ## TITOLO VII
 
@@ -1726,63 +1226,41 @@ NORME TRANSITORIE, DI COORDINAMENTO E FINALI
 
 (Norme transitorie e di Coordinamento: Dipartimenti)
 
-1.
+1\. Le funzioni attribuite al Coordinamento dei Dipartimenti dalla Legge 13 febbraio 1995 n.25 e norme regolamentari applicative, sono di competenza del Consiglio di Direzione.
 
-Le funzioni attribuite al Coordinamento dei Dipartimenti dalla Legge 13 febbraio 1995 n.25 e norme regolamentari applicative, sono di competenza del Consiglio di Direzione.
+2\. Le funzioni attribuite al Consiglio di Dipartimento dal Titolo I della Legge 22 febbraio 1995 n.28 e norme regolamentari applicative, sono di competenza del Consiglio di Dipartimento, di cui all’articolo 18 della presente legge.
 
-2.
+3\. Il Consiglio di Direzione sostituisce il Coordinamento dei Dipartimenti il quale è pertanto soppresso. Eventuali riferimenti al Coordinamento dei Dipartimenti contenuti nelle norme vigenti si devono considerare relativi al Consiglio di Direzione.
 
-Le funzioni attribuite al Consiglio di Dipartimento dal Titolo I della Legge 22 febbraio 1995 n.28 e norme regolamentari applicative, sono di competenza del Consiglio di Dipartimento, di cui all’articolo 18 della presente legge.
-
-3.
-
-Il Consiglio di Direzione sostituisce il Coordinamento dei Dipartimenti il quale è pertanto soppresso. Eventuali riferimenti al Coordinamento dei Dipartimenti contenuti nelle norme vigenti si devono considerare relativi al Consiglio di Direzione.
-
-4.
-
-I Coordinatori di Dipartimento nominati nella corrente legislatura, tenuto conto della necessaria correlazione con le norme sull’organizzazione delle Segreterie di Stato così come indicato dall’articolo 12, restano in carica per tutta la durata della legislatura medesima e acquisiscono le funzioni attribuite ai Direttori di Dipartimento dalla presente legge, indipendentemente dal nuovo assetto organizzativo. Il
+4\. I Coordinatori di Dipartimento nominati nella corrente legislatura, tenuto conto della necessaria correlazione con le norme sull’organizzazione delle Segreterie di Stato così come indicato dall’articolo 12, restano in carica per tutta la durata della legislatura medesima e acquisiscono le funzioni attribuite ai Direttori di Dipartimento dalla presente legge, indipendentemente dal nuovo assetto organizzativo. Il
 
 Congresso di Stato è autorizzato ad emanare le direttive per la gestione amministrativa ed organizzativa dei dipartimenti nel periodo che intercorre dall’entrata in vigore della presente legge fino al termine della legislatura, allo scopo di coordinare le relative competenze con le norme dell’Allegato A e con la struttura del bilancio.
 
-5.
+5\. Fino al termine della legislatura, l’incarico dei Coordinatori di Dipartimento resta regolato, anche ai fini retributivi, dalle disposizioni di cui al Titolo II della Legge n.28/1995, fatta salva l’acquisizione delle funzioni di cui al comma che precede.
 
-Fino al termine della legislatura, l’incarico dei Coordinatori di Dipartimento resta regolato, anche ai fini retributivi, dalle disposizioni di cui al Titolo II della Legge n.28/1995, fatta salva l’acquisizione delle funzioni di cui al comma che precede.
-
-6.
-
-La norma transitoria di cui al comma 6 dell’articolo 23 della Legge n.108/2009 si applica anche ai Coordinatori di Dipartimento già nominati alla data di entrata in vigore della presente legge.
+6\. La norma transitoria di cui al comma 6 dell’articolo 23 della Legge n.108/2009 si applica anche ai Coordinatori di Dipartimento già nominati alla data di entrata in vigore della presente legge.
 
 #### Art. 74
 
 (Norme transitorie e di coordinamento: DGFP)
 
-1.
+1\. Allo scopo di garantire l’ordinaria attività di gestione del personale, fino alla nomina dei membri della Direzione Generale della Funzione Pubblica, gli atti e la partecipazione agli organi collegiali per essa previsti dalla presente legge, sono in via transitoria demandati al Capo del Personale di cui alla Legge n.23/1995.
 
-Allo scopo di garantire l’ordinaria attività di gestione del personale, fino alla nomina dei membri della Direzione Generale della Funzione Pubblica, gli atti e la partecipazione agli organi collegiali per essa previsti dalla presente legge, sono in via transitoria demandati al Capo del Personale di cui alla Legge n.23/1995.
-
-2.
-
-Fino alla entrata in vigore del decreto di cui all’articolo 43 della presente legge, restano vigenti le norme di cui alla Legge n.106/2009.
+2\. Fino alla entrata in vigore del decreto di cui all’articolo 43 della presente legge, restano vigenti le norme di cui alla Legge n.106/2009.
 
 #### Art. 75
 
 (Norme di Coordinamento e transitorie per le UO)
 
-1.
-
-Il Congresso di Stato è autorizzato ad emanare le norme tecniche, attraverso decreto delegato e regolamento, che si rivelassero utili alla pratica applicazione delle disposizioni di cui all’Allegato A al fine di coordinarle con le eventuali speciali norme applicabili alle UO e alla loro attività e ai fini indicati nel comma 4 dell’articolo 73.
+1\. Il Congresso di Stato è autorizzato ad emanare le norme tecniche, attraverso decreto delegato e regolamento, che si rivelassero utili alla pratica applicazione delle disposizioni di cui all’Allegato A al fine di coordinarle con le eventuali speciali norme applicabili alle UO e alla loro attività e ai fini indicati nel comma 4 dell’articolo 73.
 
 #### Art. 76
 
 (Norme transitorie: incompatibilità e obbligo di rotazione)
 
-1.
+1\. Fino all’entrata in vigore delle norme di cui all’articolo 8 della presente legge, restano ferme le incompatibilità generali previste dalle vigenti norme per i dipendenti pubblici e per i Dirigenti e quelle che regolano con carattere di specialità Enti ed UO.
 
-Fino all’entrata in vigore delle norme di cui all’articolo 8 della presente legge, restano ferme le incompatibilità generali previste dalle vigenti norme per i dipendenti pubblici e per i Dirigenti e quelle che regolano con carattere di specialità Enti ed UO.
-
-2.
-
-Inoltre, fino all’entrata in vigore della legge di cui al citato articolo 8, è incompatibile con la carica di membro del Consiglio Grande e Generale e con le cariche in organismi direttivi di associazioni sindacali e di categoria nonché di presidente, segretario politico e membro di segreteria politica di partiti e movimenti politici, lo svolgimento:
+2\. Inoltre, fino all’entrata in vigore della legge di cui al citato articolo 8, è incompatibile con la carica di membro del Consiglio Grande e Generale e con le cariche in organismi direttivi di associazioni sindacali e di categoria nonché di presidente, segretario politico e membro di segreteria politica di partiti e movimenti politici, lo svolgimento:
 
 a) di attività che comportano valutazioni discrezionali in ambito ispettivo e concessorio;
 
@@ -1790,69 +1268,49 @@ b) di attività dirigenziali che hanno influenza sulle assunzioni nel settore pu
 
 c) di attività che assicurano il funzionamento degli organi costituzionali ed istituzionali, e le consultazioni elettorali.
 
-3.
+3\. Al personale appartenente alle forze di polizia si applicano le medesime incompatibilità di cui al comma che precede, con riferimento alle cariche in territorio e fuori territorio, nonché l’incompatibilità con la carica di Capitano di Castello.
 
-Al personale appartenente alle forze di polizia si applicano le medesime incompatibilità di cui al comma che precede, con riferimento alle cariche in territorio e fuori territorio, nonché l’incompatibilità con la carica di Capitano di Castello.
+4\. Qualora non già contemplata dalle speciali norme previgenti, l’incompatibilità con la carica di membro del Consiglio Grande e Generale si applica a partire dalla XXVIII legislatura.
 
-4.
+5\. Le norme di cui all’articolo 8 della presente legge disciplineranno l’obbligo del dipendente di astenersi dallo svolgimento di attività in cui possa configurarsi conflitto di interessi e l’obbligo della rotazione del dirigente in relazione a specifiche UO/Enti.
 
-Qualora non già contemplata dalle speciali norme previgenti, l’incompatibilità con la carica di membro del Consiglio Grande e Generale si applica a partire dalla XXVIII legislatura.
-
-5.
-
-Le norme di cui all’articolo 8 della presente legge disciplineranno l’obbligo del dipendente di astenersi dallo svolgimento di attività in cui possa configurarsi conflitto di interessi e l’obbligo della rotazione del dirigente in relazione a specifiche UO/Enti.
-
-6.
-
-Fino all’entrata in vigore di tali norme, l’obbligo di rotazione del dirigente sussiste solo se espressamente previsto nelle speciali norme di riferimento e/o nell’Allegato A alla presente legge. Nel caso tale obbligo sussista, l’incarico attribuito a qualunque titolo sulla posizione dirigenziale interessata non può superare la durata massima di nove anni consecutivi, fatta salva la eventuale minore durata massima prevista per le UO dalle norme speciali loro applicabili. Il periodo è calcolato a decorrere dalla data di ricopertura della posizione.
+6\. Fino all’entrata in vigore di tali norme, l’obbligo di rotazione del dirigente sussiste solo se espressamente previsto nelle speciali norme di riferimento e/o nell’Allegato A alla presente legge. Nel caso tale obbligo sussista, l’incarico attribuito a qualunque titolo sulla posizione dirigenziale interessata non può superare la durata massima di nove anni consecutivi, fatta salva la eventuale minore durata massima prevista per le UO dalle norme speciali loro applicabili. Il periodo è calcolato a decorrere dalla data di ricopertura della posizione.
 
 #### Art. 77
 
 (Norme di coordinamento per le competenze in ambito informatico)
 
-1.
-
-In applicazione del Titolo V della Legge 15 Dicembre 2005 n.184 e dell’articolo 3 della Legge Quadro 31 luglio 2009 n.105, le competenze in materia informatica di cui all’ articolo 7, Capo II, della Legge 23 maggio 1995 n.71, sono attribuite secondo quanto previsto nella presente legge, intendendosi:
+1\. In applicazione del Titolo V della Legge 15 Dicembre 2005 n.184 e dell’articolo 3 della Legge Quadro 31 luglio 2009 n.105, le competenze in materia informatica di cui all’ articolo 7, Capo II, della Legge 23 maggio 1995 n.71, sono attribuite secondo quanto previsto nella presente legge, intendendosi:
 
 a) di competenza dell’UO Informatica, Tecnologia, Dati e Statistica la gestione dei sistemi informativi automatizzati dell’amministrazione e di informatizzazione degli uffici, con la collaborazione della Commissione Tecnica per l’Innovazione Tecnologica;
 
 b) [abrogato]
 
-2.
-
-Si applicano inoltre le norme di cui all’articolo 41 della presente legge.
+2\. Si applicano inoltre le norme di cui all’articolo 41 della presente legge.
 
 #### Art. 78
 
 (Norme transitorie per le assegnazioni)
 
-1.
-
-Compatibilmente con le modifiche alla struttura introdotte con l’Allegato A, con l’entrata in vigore della presente legge, il personale resta assegnato alle UO in cui si trova allocato in virtù delle norme previgenti. Qualora una UO o un Dipartimento acquisisca funzioni prima di pertinenza di altro ufficio/dipartimento, il personale addetto a tali funzioni è assegnato alla UO/Dipartimento che acquisisce le funzioni medesime con atto e secondo le regole di cui alla presente legge, su segnalazione del Direttore di Dipartimento o Ente interessati.
+1\. Compatibilmente con le modifiche alla struttura introdotte con l’Allegato A, con l’entrata in vigore della presente legge, il personale resta assegnato alle UO in cui si trova allocato in virtù delle norme previgenti. Qualora una UO o un Dipartimento acquisisca funzioni prima di pertinenza di altro ufficio/dipartimento, il personale addetto a tali funzioni è assegnato alla UO/Dipartimento che acquisisce le funzioni medesime con atto e secondo le regole di cui alla presente legge, su segnalazione del Direttore di Dipartimento o Ente interessati.
 
 #### Art. 79
 
 (Norma transitoria: rapporto di lavoro)
 
-1.
-
-In via transitoria fino all’adozione del fabbisogno di cui all’articolo 65, le disposizioni di cui all’articolo 71 potranno essere applicate al personale precario che, alla data di entrata in vigore della presente legge, sia in possesso degli specifici requisiti fissati per la stabilizzazione.
+1\. In via transitoria fino all’adozione del fabbisogno di cui all’articolo 65, le disposizioni di cui all’articolo 71 potranno essere applicate al personale precario che, alla data di entrata in vigore della presente legge, sia in possesso degli specifici requisiti fissati per la stabilizzazione.
 
 #### Art.80
 
 (Verifica delle norme)
 
-1.
-
-Con decreto delegato possono essere introdotte modifiche alle norme di cui alla presente legge ed all’Allegato A, allo scopo di garantire l’appropriatezza e la coerenza dell’intervento di riforma di cui alla presente legge da verificarsi nella fase di attuazione anche in rapporto alle altre norme vigenti.
+1\. Con decreto delegato possono essere introdotte modifiche alle norme di cui alla presente legge ed all’Allegato A, allo scopo di garantire l’appropriatezza e la coerenza dell’intervento di riforma di cui alla presente legge da verificarsi nella fase di attuazione anche in rapporto alle altre norme vigenti.
 
 #### Art.81
 
 (Abrogazioni)
 
-1.
-
-Sono abrogate tutte le norme in contrasto con la presente legge ed in particolare:
+1\. Sono abrogate tutte le norme in contrasto con la presente legge ed in particolare:
 
 a) l’articolo 15, ultimo comma, della Legge 17 luglio 1979 n.41 “Commissione Paritetica per la formazione annuale del piano generale delle cattedre”;
 
@@ -1878,13 +1336,9 @@ j) le norme espressamente o implicitamente abrogate dalle disposizioni della pre
 
 (Entrata in vigore)
 
-1.
+1\. La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
 
-La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
-
-2.
-
-L’applicazione dell’Allegato A alla presente legge decorre dal 1° gennaio 2012, fermo restando che la legge di bilancio di previsione annuale per l’esercizio 2012 e pluriennale 2012-2014 dovrà recepire la nuova struttura di cui all’Allegato medesimo.
+2\. L’applicazione dell’Allegato A alla presente legge decorre dal 1° gennaio 2012, fermo restando che la legge di bilancio di previsione annuale per l’esercizio 2012 e pluriennale 2012-2014 dovrà recepire la nuova struttura di cui all’Allegato medesimo.
 
 Allegato A
 
@@ -1898,31 +1352,19 @@ STRUTTURA DELLA PUBBLICA AMMINISTRAZIONE
 
 (Unità Organizzative del Dipartimento)
 
-1.
+1\. Sono unità Organizzative del Dipartimento Affari Esteri:
 
-Sono unità Organizzative del Dipartimento Affari Esteri:
+a) Direzione Affari Politici e Diplomatici;
 
-a)
+b) Direzione Affari Economici;
 
-Direzione Affari Politici e Diplomatici;
+c) Direzione Affari Giuridici;
 
-b)
-
-Direzione Affari Economici;
-
-c)
-
-Direzione Affari Giuridici;
-
-d)
-
-Direzione Affari Europei;
+d) Direzione Affari Europei;
 
 e) Direzione Cerimoniale Diplomatico.
 
-2.
-
-Dipendono direttamente dal Direttore del Dipartimento, le seguenti funzioni ed il personale ad esse preposto:
+2\. Dipendono direttamente dal Direttore del Dipartimento, le seguenti funzioni ed il personale ad esse preposto:
 
 a) presidiare le attività amministrative, tecniche e contabili di supporto orizzontale al funzionamento delle Unità Organizzative del Dipartimento;
 
@@ -1932,29 +1374,17 @@ c) curare, nell’ambito dell’informazione e comunicazione, i rapporti di info
 
 d) curare tutte le attività di traduzione consecutiva nonché di traduzione e di redazione in lingua straniera dei documenti delle Segreterie di Stato, del Dipartimento Affari Esteri e, ove necessario, delle UO dell’amministrazione.
 
-3.
+3\. L’incarico di Direttore di Dipartimento può essere conferito a personale della carriera diplomatica; in caso contrario la retribuzione del Direttore di Dipartimento è fissata dal Decreto di cui all’articolo 19 della Legge n.108/2009.
 
-L’incarico di Direttore di Dipartimento può essere conferito a personale della carriera diplomatica; in caso contrario la retribuzione del Direttore di Dipartimento è fissata dal Decreto di cui all’articolo 19 della Legge n.108/2009.
+4\. La carriera diplomatica è regolata dalle speciali norme per essa previste. Al personale appartenente alla carriera diplomatica si applicano le incompatibilità e prescrizioni di cui a tali norme, e l’incompatibilità con la carica di membro del Consiglio Grande e Generale, con cariche in associazioni sindacali e di categoria e in partiti e movimenti politici, nonché con l’incarico di Presidente e Vicepresidente delle Comunità dei Sammarinesi all’estero e di delegato o rappresentante delle Comunità presso la Consulta dei Sammarinesi all’estero.
 
-4.
+5\. Tali norme saranno oggetto di revisione allo scopo di definire e regolamentare lo status giuridico e le regole applicabili al personale della carriera diplomatica; fino alla entrata in vigore delle norme di revisione si applicano le retribuzioni corrispondenti ai livelli retributivi di cui all’articolo 10 della Legge n.105/1993.
 
-La carriera diplomatica è regolata dalle speciali norme per essa previste. Al personale appartenente alla carriera diplomatica si applicano le incompatibilità e prescrizioni di cui a tali norme, e l’incompatibilità con la carica di membro del Consiglio Grande e Generale, con cariche in associazioni sindacali e di categoria e in partiti e movimenti politici, nonché con l’incarico di Presidente e Vicepresidente delle Comunità dei Sammarinesi all’estero e di delegato o rappresentante delle Comunità presso la Consulta dei Sammarinesi all’estero.
+6\. E’ abrogato l’articolo 8 della Legge n.105/1993.
 
-5.
+7\. Le unità organizzative di cui ai successivi articoli del presente Capo sono rette, salvo sia in essi diversamente stabilito, da personale della carriera diplomatica. Le norme di revisione di cui al precedente comma 5 disporranno in merito.
 
-Tali norme saranno oggetto di revisione allo scopo di definire e regolamentare lo status giuridico e le regole applicabili al personale della carriera diplomatica; fino alla entrata in vigore delle norme di revisione si applicano le retribuzioni corrispondenti ai livelli retributivi di cui all’articolo 10 della Legge n.105/1993.
-
-6.
-
-E’ abrogato l’articolo 8 della Legge n.105/1993.
-
-7.
-
-Le unità organizzative di cui ai successivi articoli del presente Capo sono rette, salvo sia in essi diversamente stabilito, da personale della carriera diplomatica. Le norme di revisione di cui al precedente comma 5 disporranno in merito.
-
-8.
-
-Al personale della carriera diplomatica e al personale delle UO di cui ai successivi articoli del presente Capo è richiesta adeguata conoscenza della lingua inglese e preferibilmente di ulteriori lingue straniere, nonché disponibilità a recarsi all’estero.
+8\. Al personale della carriera diplomatica e al personale delle UO di cui ai successivi articoli del presente Capo è richiesta adeguata conoscenza della lingua inglese e preferibilmente di ulteriori lingue straniere, nonché disponibilità a recarsi all’estero.
 
 9\. Il personale appartenente alla carriera diplomatica alla data di entrata in vigore della presente legge mantiene i diritti acquisiti secondo quanto sarà disposto con le norme di revisione di cui al precedente comma 5.
 
@@ -1962,13 +1392,9 @@ Al personale della carriera diplomatica e al personale delle UO di cui ai succes
 
 (Direzione Affari Politici e Diplomatici)
 
-1.
+1\. Missione Gestire, sulla base delle direttive impartite dal Segretario di Stato competente, le relazioni con gli Stati Esteri e con gli Organismi Internazionali, seguendo in particolare i rapporti diplomatici e consolari; curare i rapporti con le Comunità sammarinesi all’estero, la tutela dei loro interessi e quelli dei singoli cittadini emigrati.
 
-Missione Gestire, sulla base delle direttive impartite dal Segretario di Stato competente, le relazioni con gli Stati Esteri e con gli Organismi Internazionali, seguendo in particolare i rapporti diplomatici e consolari; curare i rapporti con le Comunità sammarinesi all’estero, la tutela dei loro interessi e quelli dei singoli cittadini emigrati.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Approfondire le questioni inerenti l’attività di politica estera sulla base delle linee politiche decise dai competenti Organi Istituzionali;
 
@@ -2000,13 +1426,9 @@ m) Curare l’espletamento di qualsiasi altra attività od incarico correlati al
 
 (Direzione Affari Economici)
 
-1.
+1\. Missione Gestire, sulla base delle direttive impartite dal Segretario di Stato competente, i rapporti di carattere economico con gli Stati Esteri e con le Organizzazioni Internazionali sostenendo il processo di internazionalizzazione e promozione economica della Repubblica.
 
-Missione Gestire, sulla base delle direttive impartite dal Segretario di Stato competente, i rapporti di carattere economico con gli Stati Esteri e con le Organizzazioni Internazionali sostenendo il processo di internazionalizzazione e promozione economica della Repubblica.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Curare lo studio delle questioni economiche aventi rilevanza sulla politica estera e sulle relazioni internazionali, provvedendo all’elaborazione di analisi e rapporti;
 
@@ -2018,21 +1440,15 @@ d) Curare, in relazione alle competenze dell’UO, la predisposizione di documen
 
 e) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Norme di coordinamento-abrogazione: è abrogata la Legge 17 dicembre 2004 n.173.
+3\. Norme di coordinamento-abrogazione: è abrogata la Legge 17 dicembre 2004 n.173.
 
 #### Art. 4
 
 (Direzione Affari Giuridici)
 
-1.
+1\. Missione Curare gli aspetti giuridici dell’attività della Segreteria di Stato, del Dipartimento e delle UO ad esso afferenti, con riferimento agli Organismi Internazionali e ai rapporti con altri Paesi, per l’affermazione e la tutela degli interessi e delle prerogative della Repubblica. Curare e coordinare la gestione dell’iter adottivo di minori.
 
-Missione Curare gli aspetti giuridici dell’attività della Segreteria di Stato, del Dipartimento e delle UO ad esso afferenti, con riferimento agli Organismi Internazionali e ai rapporti con altri Paesi, per l’affermazione e la tutela degli interessi e delle prerogative della Repubblica. Curare e coordinare la gestione dell’iter adottivo di minori.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Fornire assistenza giuridica alla Segreteria di Stato e alle altre UO del Dipartimento, curando l’istruttoria delle pratiche di competenza in particolare per quanto attiene al diritto internazionale e ai suoi riflessi sul diritto interno;
 
@@ -2048,21 +1464,15 @@ f) Curare, in relazione alle competenze dell’UO, la predisposizione di documen
 
 g) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-L’UO è retta da Dirigente o da personale della carriera diplomatica. In ogni caso sono richiesti il titolo di studio appartenente alla Classe di Laurea magistrale in giurisprudenza e la conoscenza di cui al comma 8 del precedente articolo 1 del presente allegato. Nel caso in cui la UO sia retta da Dirigente, si applicano le norme della Legge n.108/2009 anche ai fini della retribuzione, con retribuzione di posizione.
+3\. L’UO è retta da Dirigente o da personale della carriera diplomatica. In ogni caso sono richiesti il titolo di studio appartenente alla Classe di Laurea magistrale in giurisprudenza e la conoscenza di cui al comma 8 del precedente articolo 1 del presente allegato. Nel caso in cui la UO sia retta da Dirigente, si applicano le norme della Legge n.108/2009 anche ai fini della retribuzione, con retribuzione di posizione.
 
 #### Art. 5
 
 (Direzione Affari Europei)
 
-1.
+1\. Missione Gestire, sulla base delle direttive impartite dal Segretario di Stato competente, i rapporti ed i processi negoziali con l’Unione Europea.
 
-Missione Gestire, sulla base delle direttive impartite dal Segretario di Stato competente, i rapporti ed i processi negoziali con l’Unione Europea.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Supervisionare e gestire l’attività negoziale, in stretta collaborazione con la Missione sammarinese presso l’Unione europea, curando e coordinando tutti gli aspetti connessi al raggiungimento della forma di integrazione che verrà perseguita dallo Stato;
 
@@ -2080,13 +1490,9 @@ f) Curare l’espletamento di qualsiasi altra attività od incarico correlati al
 
 (Direzione Cerimoniale Diplomatico)
 
-1.
+1\. Missione Curare la gestione del protocollo e del servizio cerimoniale dello Stato con particolare riferimento alle visite ufficiali e al cerimoniale della Reggenza.
 
-Missione Curare la gestione del protocollo e del servizio cerimoniale dello Stato con particolare riferimento alle visite ufficiali e al cerimoniale della Reggenza.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Curare tutte le funzioni previste dal Protocollo in occasione delle cerimonie e delle visite che si svolgono a San Marino e delle visite all’estero delle più alte Cariche dello Stato, curando altresì, per quanto di competenza, l’organizzazione delle udienze ufficiali dei Capitani Reggenti;
 
@@ -2106,9 +1512,7 @@ f) Curare l’espletamento di qualsiasi altra attività od incarico correlati al
 
 (Unità Organizzative del Dipartimento)
 
-1.
-
-Sono unità Organizzative del Dipartimento Affari Istituzionali e Giustizia:
+1\. Sono unità Organizzative del Dipartimento Affari Istituzionali e Giustizia:
 
 a) Ufficio Segreteria Istituzionale; [b) Ufficio Segreteria Esecutiva del Congresso di Stato];
 
@@ -2116,13 +1520,9 @@ c) Stato Civile, Servizi Demografici ed Elettorali; [d) Avvocatura dello Stato;]
 
 e) Uffici Giudiziari Tribunale Unico.
 
-2.
+2\. Il Direttore del Dipartimento, oltre alle altre funzioni previste dalla presente legge, coordina le funzioni preposte all’informazione e alla comunicazione delle istituzioni, ferme restando le attribuzioni espressamente previste per le UO del Dipartimento medesimo e per le altre UO dell’amministrazione.
 
-Il Direttore del Dipartimento, oltre alle altre funzioni previste dalla presente legge, coordina le funzioni preposte all’informazione e alla comunicazione delle istituzioni, ferme restando le attribuzioni espressamente previste per le UO del Dipartimento medesimo e per le altre UO dell’amministrazione.
-
-3.
-
-Retribuzione di posizione del Direttore di Dipartimento.
+3\. Retribuzione di posizione del Direttore di Dipartimento.
 
 #### Art. 8
 
@@ -2198,13 +1598,9 @@ b) Norme di coordinamento e di indirizzo.
 
 (Stato Civile, Servizi Demografici ed Elettorali)
 
-1.
+1\. Missione Dare pubblica certezza degli eventi di stato civile che accadono sul territorio della Repubblica o che riguardano cittadini sammarinesi residenti all’estero; dare rilevanza pubblica della popolazione residente sul territorio, della sua composizione e variazione; certificare il corpo elettorale della Repubblica ed attendere ai compiti connessi allo svolgimento delle consultazioni elettorali e referendarie nei modi e tempi stabiliti. Curare il rilascio e la revoca dei documenti personali di riconoscimento.
 
-Missione Dare pubblica certezza degli eventi di stato civile che accadono sul territorio della Repubblica o che riguardano cittadini sammarinesi residenti all’estero; dare rilevanza pubblica della popolazione residente sul territorio, della sua composizione e variazione; certificare il corpo elettorale della Repubblica ed attendere ai compiti connessi allo svolgimento delle consultazioni elettorali e referendarie nei modi e tempi stabiliti. Curare il rilascio e la revoca dei documenti personali di riconoscimento.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Redigere gli atti pubblici relativi agli eventi di Stato Civile e di cittadinanza;
 
@@ -2228,9 +1624,7 @@ j) Raccogliere le dichiarazioni qualificate dell’utenza predisponendo gli atti
 
 k) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente
+3\. Dirigente
 
 a) Titolo di studio: Laurea magistrale in giurisprudenza;
 
@@ -2240,9 +1634,7 @@ c) Prescrizioni speciali
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali
 
@@ -2252,13 +1644,9 @@ b) Norme di coordinamento e di indirizzo
 
 (Avvocatura dello Stato)
 
-1.
+1\. Missione Tutela legale e giurisdizionale degli interessi dello Stato e degli Enti del Settore Pubblico Allargato, cura, assistenza e supporto tecnico-legale dell’attività dei medesimi.
 
-Missione Tutela legale e giurisdizionale degli interessi dello Stato e degli Enti del Settore Pubblico Allargato, cura, assistenza e supporto tecnico-legale dell’attività dei medesimi.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Rappresentare e difendere l’Ecc.ma Camera, gli Uffici e Organi della P.A. e degli Enti del Settore Pubblico Allargato, sia in sede contenziosa dinanzi agli organi della giurisdizione ordinaria civile e penale, sia in sede non contenziosa, nonché nei giudizi dinanzi al Collegio Garante della Costituzionalità delle Norme;
 
@@ -2294,9 +1682,7 @@ c) Prescrizioni speciali
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali: l’Avvocato dello Stato deve essere in possesso di abilitazione professionale;
 
@@ -2306,13 +1692,9 @@ b) Norme di coordinamento e di indirizzo.
 
 (Uffici Giudiziari Tribunale Unico)
 
-1.
+1\. Missione Garantire il supporto amministrativo ed organizzativo necessari allo svolgimento delle attività giudiziarie e delle altre attività affidate alla Magistratura.
 
-Missione Garantire il supporto amministrativo ed organizzativo necessari allo svolgimento delle attività giudiziarie e delle altre attività affidate alla Magistratura.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Assistere la Magistratura nell’esercizio delle funzioni giudiziarie e porre in essere tutti gli atti idonei ad assicurarne lo svolgimento, con particolare riferimento alla verbalizzazione delle udienze, alla dattiloscrizione dei provvedimenti e delle sentenze, alla duplicazione degli atti da notificare, alla trasmissione delle comunicazioni, alla regolare tenuta dei fascicoli e degli incarti processuali;
 
@@ -2338,17 +1720,13 @@ k) Gestire le procedure amministrative relative ai depositi effettuati dai terzi
 
 l) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Cancelliere: responsabile degli atti demandati alla cancelleria:
+3\. Cancelliere: responsabile degli atti demandati alla cancelleria:
 
 a) Titolo di studio: Laurea magistrale in giurisprudenza;
 
 b) Prescrizioni speciali
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali
 
@@ -2362,9 +1740,7 @@ di Dipartimento per il coordinamento e l’organizzazione negli ambiti di rispet
 
 (Unità Organizzative del Dipartimento)
 
-1.
-
-Sono unità Organizzative del Dipartimento Finanze e Bilancio:
+1\. Sono unità Organizzative del Dipartimento Finanze e Bilancio:
 
 a) Ragioneria Generale dello Stato;
 
@@ -2374,21 +1750,15 @@ c) Ufficio del Registro e Conservatoria;
 
 d) Ufficio Registro Automezzi e Trasporti.
 
-2.
-
-Retribuzione di posizione del Direttore di Dipartimento.
+2\. Retribuzione di posizione del Direttore di Dipartimento.
 
 #### Art. 14
 
 (Ragioneria Generale dello Stato)
 
-1.
+1\. Missione Gestire la predisposizione tecnica del bilancio di previsione annuale e pluriennale dello Stato ed elaborare il rendiconto generale dello Stato e gli altri documenti contabili previsti dalla normativa vigente. Curare la gestione economico-finanziaria dello Stato e la gestione economico-contabile della spesa per gli organi dello Stato. Gestire, sotto il profilo amministrativo-contabile, tutte le rilevazioni economico e finanziarie connesse alla riscossione delle entrate e alla liquidazione delle spese attinenti al bilancio dello Stato. Curare la gestione del patrimonio dello Stato. Garantire, per quanto di competenza, le attività legate all’edilizia sociale e residenziale.
 
-Missione Gestire la predisposizione tecnica del bilancio di previsione annuale e pluriennale dello Stato ed elaborare il rendiconto generale dello Stato e gli altri documenti contabili previsti dalla normativa vigente. Curare la gestione economico-finanziaria dello Stato e la gestione economico-contabile della spesa per gli organi dello Stato. Gestire, sotto il profilo amministrativo-contabile, tutte le rilevazioni economico e finanziarie connesse alla riscossione delle entrate e alla liquidazione delle spese attinenti al bilancio dello Stato. Curare la gestione del patrimonio dello Stato. Garantire, per quanto di competenza, le attività legate all’edilizia sociale e residenziale.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) curare l’impostazione e la predisposizione, sulla base di quanto disposto dalla normativa vigente, del bilancio di previsione annuale e pluriennale dello Stato, della relativa relazione tecnico-contabile, degli allegati e delle variazioni di bilancio e collaborare con la Segreteria di Stato competente alla predisposizione del programma economico e alla stesura delle leggi di bilancio;
 
@@ -2438,9 +1808,7 @@ aa) provvedere all’istruzione delle domande per il finanziamento dell’ediliz
 
 bb) curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente
+3\. Dirigente
 
 a) Titolo di studio: Classi di Laurea magistrale in Finanza o in Scienze Statistiche Attuariali e Finanziarie o in Scienze dell’Economia o in Scienze delle Pubbliche Amministrazioni o in Scienze Economiche-Aziendali o in Giurisprudenza;
 
@@ -2456,9 +1824,7 @@ d) disposizioni particolari: è requisito per l’accesso della posizione dirige
 
 e) in luogo dei requisiti, tra loro alternativi, di cui alla lettera d), l’accesso alla posizione dirigenziale è altresì, consentito a soggetti che conseguano l’idoneità in esito a corso di alta formazione in materia di gestione del Bilancio dello Stato e/o delle Aziende Autonome dello Stato e /o di Enti del Settore Pubblico Allargato, organizzato dall’Università degli Studi della Repubblica di San Marino, sentiti l’Ordine degli Avvocati e Notai, l’Ordine dei Dottori Commercialisti e degli Esperti Contabili e la Direzione Generale della Funzione Pubblica della durata di almeno 60 ore.
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali: conoscenza della lingua inglese in relazione alle specifiche attività svolte nell’UO;
 
@@ -2478,13 +1844,9 @@ c) la funzione di cui al comma 2, lettera aa) potrà essere riattribuita ad altr
 
 (Ufficio Tributario)
 
-1.
+1\. Missione Curare la riscossione, il controllo e l’accertamento delle imposte dirette ed indirette di competenza gestendo il relativo contenzioso con il contribuente.
 
-Missione Curare la riscossione, il controllo e l’accertamento delle imposte dirette ed indirette di competenza gestendo il relativo contenzioso con il contribuente.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Curare l’acquisizione, gestione, controllo e verifica delle Dichiarazioni dei redditi, dei Sostituti di imposta e dell'Allegato dell'imposta speciale di bollo sui servizi delle persone fisiche e giuridiche, con relativa definizione delle inadempienze emerse e provvedendo alla conseguente attività di riscossione e di rimborso degli importi di competenza degli utenti, così come di irrogazione delle sanzioni relative all'imposta speciale di bollo;
 
@@ -2530,15 +1892,11 @@ b) Norme di coordinamento e di indirizzo
 
 (Ufficio del Registro e Conservatoria)
 
-1.
-
-Missione Curare il servizio di pubblicità dei Registri Immobiliari, provvedere alla registrazione e alle formalità ipotecarie degli atti pubblici e privati e delle successioni, con liquidazione e riscossione delle relative imposte. Riscuotere le imposte e tasse di competenza.
+1\. Missione Curare il servizio di pubblicità dei Registri Immobiliari, provvedere alla registrazione e alle formalità ipotecarie degli atti pubblici e privati e delle successioni, con liquidazione e riscossione delle relative imposte. Riscuotere le imposte e tasse di competenza.
 
 Esercitare i controlli sugli atti e su repertori notarili.
 
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Curare la registrazione di tutti gli atti depositati in forma pubblica o privata, al fine di attestare l’esistenza degli atti pubblici, conferire la certezza della data agli atti privati e assicurarne la conservazione;
 
@@ -2572,9 +1930,7 @@ o) Curare le formalità concernenti la legalizzazione di atti e documenti;
 
 p) Curare l’espletamento di qualsiasi altra attività correlata alle precedenti o prevista dalla normativa vigente.
 
-3.
-
-Dirigente
+3\. Dirigente
 
 a) Titolo di studio: Laurea magistrale in giurisprudenza con abilitazione professionale;
 
@@ -2584,9 +1940,7 @@ c) Prescrizioni speciali
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali
 
@@ -2596,13 +1950,9 @@ b) Norme di coordinamento e di indirizzo
 
 (Ufficio Filatelico e Numismatico)
 
-1.
+1\. Missione Curare, per conto dello Stato, l’emissione di valori filatelici e numismatici o di altri prodotti aventi contenuto artistico ed afferenti il settore del collezionismo, così da perseguire anche obiettivi di rappresentanza dell’immagine della Repubblica di San Marino.
 
-Missione Curare, per conto dello Stato, l’emissione di valori filatelici e numismatici o di altri prodotti aventi contenuto artistico ed afferenti il settore del collezionismo, così da perseguire anche obiettivi di rappresentanza dell’immagine della Repubblica di San Marino.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Coordinare le attività per lo studio, la progettazione, la realizzazione, la commercializzazione dei valori filatelici e numismatici emessi dalla Repubblica di San Marino, interagendo a tal fine con le competenti autorità italiane, sulla base delle scelte definite dal Comitato Artistico preposto;
 
@@ -2616,9 +1966,7 @@ e) Gestire il magazzino valori di competenza;
 
 f) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente
+3\. Dirigente
 
 a) Titolo di studio: Laurea magistrale;
 
@@ -2628,9 +1976,7 @@ c) Prescrizioni speciali: conoscenza della lingua inglese;
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa:
+4\. Unità Organizzativa:
 
 a) Prescrizioni speciali: conoscenza della lingua inglese in relazione alle specifiche attività svolte nell’UO;
 
@@ -2640,13 +1986,9 @@ b) Norme di coordinamento e di indirizzo: l’Ufficio è supportato da apposito 
 
 (Poste e Telecomunicazioni)
 
-1.
+1\. Missione Esercitare il servizio postale secondo la normativa internazionale e curare la gestione e il coordinamento delle reti di telecomunicazione.
 
-Missione Esercitare il servizio postale secondo la normativa internazionale e curare la gestione e il coordinamento delle reti di telecomunicazione.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Esercitare ed assicurare il servizio postale secondo la normativa internazionale sia per i servizi resi in autonomia che per quelli forniti in collegamento con analoghi soggetti di altri stati;
 
@@ -2674,9 +2016,7 @@ k) Intrattenere rapporti con soggetti esteri con competenze nei settori postali 
 
 l) Curare l'espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente
+3\. Dirigente
 
 a) Titolo di studio: Classi di Laurea magistrale preferibilmente in finanza, o scienze dell’economia, scienze delle pubbliche amministrazioni, scienze economiche-aziendali, o giurisprudenza, o, in subordine, ad indirizzo amministrativo in discipline attinenti le funzioni o in discipline ingegneristiche;
 
@@ -2686,9 +2026,7 @@ c) Prescrizioni speciali: conoscenza della lingua inglese;
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali: conoscenza della lingua inglese in relazione alle specifiche attività svolte nell’UO;
 
@@ -2700,19 +2038,7 @@ b) Norme di coordinamento e di indirizzo: mediante apposita legge sarà istituit
 
 (Unità Organizzative del Dipartimento)
 
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-2.
-
-Sono Unità Organizzative (UO) del Dipartimento Economia:
+2\. Sono Unità Organizzative (UO) del Dipartimento Economia:
 
 Ufficio Attività Economiche;
 
@@ -2844,13 +2170,9 @@ Mediamente Regolamento del Congresso di Stato sono disciplinate, tra l’altro, 
 
 (Ufficio di Stato Brevetti e Marchi)
 
-1.
+1\. Missione Curare i servizi e le funzioni attinenti alle registrazioni dei titoli della proprietà industriale. Sostenere l’innovazione e la capacità competitiva delle imprese mediante accesso al sistema della proprietà industriale e la gestione di programmi e finanziamenti per la ricerca, l’innovazione e il trasferimento tecnologico.
 
-Missione Curare i servizi e le funzioni attinenti alle registrazioni dei titoli della proprietà industriale. Sostenere l’innovazione e la capacità competitiva delle imprese mediante accesso al sistema della proprietà industriale e la gestione di programmi e finanziamenti per la ricerca, l’innovazione e il trasferimento tecnologico.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Curare i servizi e le funzioni connessi alla proprietà industriale in base a quanto disposto dalla normativa di riferimento, provvedendo alla riscossione delle tasse, sopratasse e diritti inerenti;
 
@@ -2870,9 +2192,7 @@ h) Curare servizi di consulenza o gestione, attinenti alla tutela e alla concess
 
 i) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente
+3\. Dirigente
 
 a) Titolo di studio: Classe di Laurea magistrale in giurisprudenza;
 
@@ -2882,9 +2202,7 @@ c) Prescrizioni speciali: conoscenza della lingua inglese;
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali: competenze specifiche: conoscenza della lingua inglese;
 
@@ -2894,13 +2212,9 @@ b) Norme di coordinamento e di indirizzo
 
 (Ufficio per il Lavoro e le Politiche Attive)
 
-1.
+1\. Missione Garantire l’applicazione delle norme in materia di lavoro e di controllo del funzionamento del mercato del lavoro, anche assicurando l’esercizio della relativa attività ispettiva. Facilitare l’inserimento o il reinserimento nel mercato del lavoro degli inoccupati e disoccupati, attuando politiche attive per il lavoro. Favorire la promozione, il sostegno e lo sviluppo dell’occupazione, anche attraverso la predisposizione di servizi specifici. Esercitare la funzione di mediazione tra domanda e offerta di lavoro.
 
-Missione Garantire l’applicazione delle norme in materia di lavoro e di controllo del funzionamento del mercato del lavoro, anche assicurando l’esercizio della relativa attività ispettiva. Facilitare l’inserimento o il reinserimento nel mercato del lavoro degli inoccupati e disoccupati, attuando politiche attive per il lavoro. Favorire la promozione, il sostegno e lo sviluppo dell’occupazione, anche attraverso la predisposizione di servizi specifici. Esercitare la funzione di mediazione tra domanda e offerta di lavoro.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Curare l’accoglienza, l’iscrizione alle Liste di Avviamento al Lavoro e l’inserimento nei pertinenti Profili Professionali degli utenti, nonché svolgere tutte le attività amministrative connesse;
 
@@ -2918,13 +2232,9 @@ g) Curare la corretta applicazione e sviluppo degli accordi occupazionali;
 
 h) Svolgere, anche tramite l’esame delle informazioni disponibili nelle banche dati pubbliche e di strutture pubbliche e private con cui collabora ovvero tramite indagini specifiche, analisi delle dinamiche del mercato del lavoro, delle competenze e dei fabbisogni formativi degli iscritti ed occupazionali delle imprese;
 
-i)
+i) Svolgere l’attività di conciliazione delle vertenze di lavoro demandate dalla legge;
 
-Svolgere l’attività di conciliazione delle vertenze di lavoro demandate dalla legge;
-
-l)
-
-Predisporre, anche in collaborazione con altre UO dell’Amministrazione e Corpi di Polizia, attività finalizzate alla vigilanza e al controllo del rispetto delle norme in materia di lavoro, presidiando la tutela dei lavoratori, provvedendo all’accertamento delle violazioni attraverso ispezioni amministrative presso le imprese ovvero attraverso verifiche documentali, impartendo le necessarie prescrizioni ed applicando le previste sanzioni;
+l) Predisporre, anche in collaborazione con altre UO dell’Amministrazione e Corpi di Polizia, attività finalizzate alla vigilanza e al controllo del rispetto delle norme in materia di lavoro, presidiando la tutela dei lavoratori, provvedendo all’accertamento delle violazioni attraverso ispezioni amministrative presso le imprese ovvero attraverso verifiche documentali, impartendo le necessarie prescrizioni ed applicando le previste sanzioni;
 
 m) Collaborare con gli Uffici amministrativi dell’Istituto per la Sicurezza Sociale per l’esercizio di attività di controllo e di funzioni sanzionatorie in relazione
 
@@ -2964,13 +2274,9 @@ b) Norme di coordinamento e di indirizzo: sono da intendersi effettuati all’ U
 
 (Ufficio Registro Automezzi e Trasporti)
 
-1.
+1\. Missione Sovraintendere ed attuare le politiche dei trasporti dello Stato. Curare i servizi di trasporto pubblico in attuazione delle norme e degli indirizzi. Curare la gestione amministrativa e tecnica delle norme relative al possesso, circolazione e conduzione dei mezzi di trasporto terrestre.
 
-Missione Sovraintendere ed attuare le politiche dei trasporti dello Stato. Curare i servizi di trasporto pubblico in attuazione delle norme e degli indirizzi. Curare la gestione amministrativa e tecnica delle norme relative al possesso, circolazione e conduzione dei mezzi di trasporto terrestre.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) provvede alla elaborazione, disciplina e gestione dei programmi dello Stato in materia di trasporti sia interni che esterni;
 
@@ -3012,9 +2318,7 @@ s) effettuare la gestione, manutenzione e tutte le atre attività inerenti al fu
 
 t) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente
+3\. Dirigente
 
 a) Titolo di studio: Classi di Laurea magistrale preferibilmente in ingegneria meccanica o, in subordine, laurea appartenente alla classe di laurea magistrale in ingegneria civile purché attinente le funzioni, o ad indirizzo amministrativo in discipline attinenti le funzioni;
 
@@ -3024,9 +2328,7 @@ c) Prescrizioni speciali
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali
 
@@ -3036,15 +2338,11 @@ b) Norme di coordinamento e di indirizzo: i richiami nelle norme vigenti all’U
 
 (Centro di Formazione Professionale)
 
-1.
-
-Missione Promuovere ed effettuare attività di formazione professionale al lavoro e sul lavoro.
+1\. Missione Promuovere ed effettuare attività di formazione professionale al lavoro e sul lavoro.
 
 Facilitare, in base ai programmi annuali predisposti dagli Organismi competenti in materia, l’inserimento nel mondo del lavoro degli inoccupati e disoccupati attraverso la predisposizione di corsi di formazione e contribuire alla crescita delle capacità tecnicoprofessionali dei lavoratori già occupati. Svolgere attività di formazione professionale, finalizzate anche al conseguimento di una qualifica professionale. Definire le azioni formative anche in armonia ed integrazione alle attività del sistema scolastico ed universitario, in un’ottica di formazione continua.
 
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Organizzare, sulla base del Piano Annuale di Intervento (di seguito denominato PAI) approvato dalla Commissione per il Lavoro, l’attività di formazione professionale al lavoro (prima formazione) attraverso azioni didattico-formative finalizzate al conseguimento di una qualifica professionale o specializzazione e l’attività di formazione sul lavoro (seconda formazione), anche in ottemperanza agli obblighi previsti dalla normativa vigente;
 
@@ -3054,29 +2352,7 @@ c) Organizzare i corsi di qualifica triennale ai sensi del Decreto Legge 10 magg
 
 d) Organizzare i corsi di formazione sul lavoro (seconda formazione) sulla base di quanto previsto dal PAI, mediante percorsi formativi trasversali, azioni di consolidamento delle competenze, aggiornamento e perfezionamento, riqualificazione ovvero riconversione ed integrazione di corsi di studio, anche per il
 
-e)
-
-f)
-
-g)
-
-3.
-
-a)
-
-b)
-
-c)
-
-d)
-
-4.
-
-a)
-
-b)
-
-conseguimento di certificati abilitanti all’esercizio di specifiche mansioni o professioni, sia nel settore privato che pubblico;
+b) conseguimento di certificati abilitanti all’esercizio di specifiche mansioni o professioni, sia nel settore privato che pubblico;
 
 Curare, in collaborazione con le Associazioni di Categoria, i Sindacati e le Imprese, lo studio e la realizzazione di specifici programmi di formazione;
 
@@ -3094,9 +2370,9 @@ Disposizioni particolari.
 
 Unità Organizzativa Prescrizioni speciali;
 
-Norme di coordinamento e di indirizzo: sono da intendersi effettuati all’UO “Centro di Formazione Professionale” i riferimenti delle vigenti norme all’UO “Centro di Formazione Professionale e per le Politiche Attive del Lavoro”, ad esclusione delle funzioni afferenti all’UO Ufficio per il Lavoro e le Politiche Attive di cui all’articolo 25.
+Norme di coordinamento e di indirizzo: sono da intendersi effettuati all’UO “Centro di Formazione Professionale” i riferimenti delle vigenti norme all’UO “Centro di Formazione Professionale e per le Politiche Attive del Lavoro”, ad esclusione delle funzioni afferenti all’UO Ufficio per il Lavoro e le Politiche Attive di cui all’articolo
 
-### CAPO V – DIPARTIMENTO TERRITORIO E AMBIENTE
+25\. CAPO V – DIPARTIMENTO TERRITORIO E AMBIENTE
 
 #### Art. 28
 
@@ -3506,13 +2782,9 @@ d) le funzioni di cui all’articolo 4 della Legge 20 luglio 2005 n.116 “Comme
 
 (UO Nido per l’Infanzia)
 
-1.
+1\. Missione Curare, in collaborazione con la famiglia e con gli altri servizi rivolti all’infanzia, il benessere e la crescita del bambino, realizzando un contesto educativo e formativo che favorisce lo sviluppo delle potenzialità affettive, relazionali, cognitive e ludiche del bambino nella fascia di età prevista dalla normativa vigente.
 
-Missione Curare, in collaborazione con la famiglia e con gli altri servizi rivolti all’infanzia, il benessere e la crescita del bambino, realizzando un contesto educativo e formativo che favorisce lo sviluppo delle potenzialità affettive, relazionali, cognitive e ludiche del bambino nella fascia di età prevista dalla normativa vigente.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Attuare, in collaborazione con la famiglia e con gli altri servizi rivolti all’infanzia e in conformità con gli orientamenti definiti dal Piano Pedagogico – Educativo, i progetti specifici e la programmazione educativa delle attività volte all’accoglienza, alla cura ed alla promozione dello sviluppo delle potenzialità cognitive, affettive, relazionali e sociali di ciascun bambino;
 
@@ -3538,9 +2810,7 @@ k) Svolgere le attività di coordinamento, programmazione, monitoraggio e verifi
 
 l) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente
+3\. Dirigente
 
 a) Titolo di studio: Classi di Laurea magistrale in scienze pedagogiche, in psicologia e in sociologia e ricerca sociale;
 
@@ -3550,9 +2820,7 @@ c) Prescrizioni speciali
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali
 
@@ -3562,13 +2830,9 @@ b) Norme di coordinamento e di indirizzo
 
 (Scuola d’Infanzia)
 
-1.
+1\. Missione Promuovere ed integrare, in collaborazione con la famiglia, l'opera educativa, socializzatrice e formativa del bambino nella fascia di età prevista dalla normativa vigente.
 
-Missione Promuovere ed integrare, in collaborazione con la famiglia, l'opera educativa, socializzatrice e formativa del bambino nella fascia di età prevista dalla normativa vigente.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Elaborare ed attuare, progetti educativo - didattici funzionali allo sviluppo integrale del bambino, all’acquisizione di tutti i fondamentali tipi di linguaggio, in base agli orientamenti programmatici della scuola dell’infanzia;
 
@@ -3600,9 +2864,7 @@ n) Gestire tutti gli aspetti amministrativi e contabili inerenti l’attività d
 
 o) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente Scolastico
+3\. Dirigente Scolastico
 
 a) Titolo di studio: Laurea magistrale abilitante all’insegnamento ed esperienza quinquennale di docenza;
 
@@ -3612,9 +2874,7 @@ c) Prescrizioni speciali
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali
 
@@ -3624,13 +2884,9 @@ b) Norme di coordinamento e di indirizzo
 
 (Scuola Elementare)
 
-1.
+1\. Missione Promuovere, in collaborazione con la famiglia e gli altri soggetti a valenza formativa, la crescita dell’alunno, lo sviluppo delle sue capacità e attitudini per un suo inserimento attivo e responsabile nella società.
 
-Missione Promuovere, in collaborazione con la famiglia e gli altri soggetti a valenza formativa, la crescita dell’alunno, lo sviluppo delle sue capacità e attitudini per un suo inserimento attivo e responsabile nella società.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Elaborare ed attuare progetti educativo - didattici finalizzati allo sviluppo integrale dell’alunno, all’acquisizione di tutti i fondamentali tipi di linguaggio e di un primo livello di padronanza dei quadri concettuali e delle modalità di indagine critica;
 
@@ -3660,9 +2916,7 @@ m) Gestire tutti gli aspetti amministrativi e contabili inerenti l’attività d
 
 n) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente Scolastico
+3\. Dirigente Scolastico
 
 a) Titolo di studio: Laurea magistrale abilitante all’insegnamento ed esperienza quinquennale di docenza;
 
@@ -3672,9 +2926,7 @@ c) Prescrizioni speciali
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali
 
@@ -3684,15 +2936,11 @@ b) Norme di coordinamento e di indirizzo
 
 (UO Scuola Media)
 
-1.
-
-Missione
+1\. Missione
 
 Curare, in collaborazione con la famiglia e gli altri soggetti sociali a valenza formativa, il proseguimento del processo di istruzione - formazione finalizzato a favorire la progressiva maturazione della coscienza di sé e l’acquisizione di un metodo critico nell’assunzione e decodifica delle informazioni.
 
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Curare, in collaborazione con la famiglia e con gli altri soggetti sociali a valenza formativa presenti nel territorio e nel rispetto della programmazione di Istituto, il proseguimento del processo educativo – formativo;
 
@@ -3724,9 +2972,7 @@ n) Gestire tutti gli aspetti amministrativi e contabili inerenti l’attività d
 
 o) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente Scolastico
+3\. Dirigente Scolastico
 
 a) Titolo di studio: Laurea magistrale abilitante all’insegnamento ed esperienza quinquennale di docenza;
 
@@ -3736,9 +2982,7 @@ c) Prescrizioni speciali
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali
 
@@ -3748,13 +2992,9 @@ b) Norme di coordinamento e di indirizzo
 
 (UO Scuola Superiore)
 
-1.
+1\. Missione Curare la formazione della persona e del cittadino, consolidare le basi formative e metodologiche atte a promuovere la conoscenza critica della realtà, lo sviluppo di un autonomo metodo di apprendimento ai fini della propria realizzazione umana, civile e culturale.
 
-Missione Curare la formazione della persona e del cittadino, consolidare le basi formative e metodologiche atte a promuovere la conoscenza critica della realtà, lo sviluppo di un autonomo metodo di apprendimento ai fini della propria realizzazione umana, civile e culturale.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Garantire, in collaborazione con la famiglia e con gli altri soggetti sociali a valenza formativa e nel rispetto dei programmi didattici previsti dai vari indirizzi di studio, il consolidamento del processo educativo – formativo;
 
@@ -3788,9 +3028,7 @@ o) Gestire tutti gli aspetti amministrativi e contabili inerenti l’attività d
 
 p) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente Scolastico
+3\. Dirigente Scolastico
 
 a) Titolo di studio: Laurea magistrale abilitante all’insegnamento ed esperienza quinquennale di docenza;
 
@@ -3800,9 +3038,7 @@ c) Prescrizioni speciali
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali
 
@@ -3814,21 +3050,15 @@ b) Norme di coordinamento e di indirizzo
 
 (Unità Organizzative del Dipartimento)
 
-1.
-
-Sono Unità organizzative del Dipartimento Cultura e Turismo:
+1\. Sono Unità organizzative del Dipartimento Cultura e Turismo:
 
 a) Istituti Culturali
 
 b) Ufficio del Turismo
 
-2.
+2\. La Direzione del Dipartimento, oltre alle funzioni previste dalla presente legge per tutti i Dipartimenti, ha il compito di coordinare la programmazione degli eventi e delle manifestazioni rapportandosi con gli organi, le UO, i soggetti pubblici e privati di volta in volta interessati.
 
-La Direzione del Dipartimento, oltre alle funzioni previste dalla presente legge per tutti i Dipartimenti, ha il compito di coordinare la programmazione degli eventi e delle manifestazioni rapportandosi con gli organi, le UO, i soggetti pubblici e privati di volta in volta interessati.
-
-3.
-
-Retribuzione di posizione del Direttore di Dipartimento.
+3\. Retribuzione di posizione del Direttore di Dipartimento.
 
 #### Art. 44
 
@@ -3948,13 +3178,9 @@ b) Norme di coordinamento e di indirizzo: l’organizzazione logistica e il rias
 
 (Ufficio del Turismo)
 
-1.
+1\. Missione Assicurare lo sviluppo del Turismo quale fondamentale risorsa della comunità, promuovere la valorizzazione delle risorse turistiche, la qualificazione degli operatori, dei servizi e delle strutture, attuare piani di promozione turistica, coordinando l’attività organizzativa di eventi ed iniziative.
 
-Missione Assicurare lo sviluppo del Turismo quale fondamentale risorsa della comunità, promuovere la valorizzazione delle risorse turistiche, la qualificazione degli operatori, dei servizi e delle strutture, attuare piani di promozione turistica, coordinando l’attività organizzativa di eventi ed iniziative.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Sovrintendere, sulla scorta delle direttive contenute nei piani programmatici, alla promozione turistica e al marketing territoriale turistico, curandone i relativi piani operativi;
 
@@ -4008,9 +3234,7 @@ b) Norme di coordinamento e di indirizzo: le funzioni di cui al comma 2, lettera
 
 (Unità Organizzative del Dipartimento)
 
-1.
-
-Sono unità Organizzative del Dipartimento Funzione Pubblica:
+1\. Sono unità Organizzative del Dipartimento Funzione Pubblica:
 
 a) Ufficio Gestione Personale PA;
 
@@ -4088,13 +3312,9 @@ b) Norme di coordinamento e di indirizzo:
 
 (Ufficio Approvvigionamenti, contratti e protezione dei dati personali)
 
-1.
+1\. Missione Curare l’acquisizione e la gestione di beni e servizi, di interesse trasversale, funzionali a garantire la regolare operatività delle UO della Pubblica Amministrazione, fornendo anche i servizi generali a tal fine necessari. Espletare attività di coordinamento nei confronti delle Stazioni Appaltanti del Settore Pubblico Allargato. Svolgere funzione di referente tecnico qualificato per la predisposizione di atti, modulistica e contrattualistica pubblica, fatte salve le competenze specifiche di altre UO e Dipartimenti, nonché di Responsabile per la Protezione dei Dati Personali.
 
-Missione Curare l’acquisizione e la gestione di beni e servizi, di interesse trasversale, funzionali a garantire la regolare operatività delle UO della Pubblica Amministrazione, fornendo anche i servizi generali a tal fine necessari. Espletare attività di coordinamento nei confronti delle Stazioni Appaltanti del Settore Pubblico Allargato. Svolgere funzione di referente tecnico qualificato per la predisposizione di atti, modulistica e contrattualistica pubblica, fatte salve le competenze specifiche di altre UO e Dipartimenti, nonché di Responsabile per la Protezione dei Dati Personali.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Presidiare le necessità di beni e servizi adeguati per il regolare assolvimento della funzionalità dell'azione amministrativa anche mediante attività di coordinamento, scambio informativo ed erogazione di formazione rivolta alle Stazioni Appaltanti del Settore Pubblico Allargato;
 
@@ -4124,23 +3344,13 @@ n) Curare la gestione amministrativa - contabile relativa alle forniture e servi
 
 o) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente
+3\. Dirigente
 
 a) Titolo di studio: classi di Laurea magistrale ad indirizzo amministrativo b) Retribuzione di posizione:
 
 c) Prescrizioni speciali: possesso dei requisiti di cui all’articolo 38, comma 5 della Legge 21 dicembre 2018 n.171 e obbligo di rotazione, secondo quanto previsto
 
-d)
-
-4.
-
-a)
-
-b)
-
-dall’articolo 76, comma 6, della presente legge n.188/2011 e dell’articolo 2 del Decreto Delegato 19 giugno 2015 n.90 Disposizioni particolari:
+b) dall’articolo 76, comma 6, della presente legge n.188/2011 e dell’articolo 2 del Decreto Delegato 19 giugno 2015 n.90 Disposizioni particolari:
 
 Unità Organizzativa Prescrizioni speciali: le attività di duplicazione, fascicolazione documenti, preparazione pubblicazioni e spedizione saranno centralizzate per l’intero Settore Pubblico Allagato e regolate mediante protocolli operativi che disciplinino, tra l’altro, la ripartizione dei costi di funzionamento fra Pubblica Amministrazione, Aziende Autonome ed Enti Pubblici.
 
@@ -4150,15 +3360,11 @@ Disposizioni e norme di coordinamento: i richiami nelle norme vigenti all’Uffi
 
 (Informatica, Tecnologia, Dati e Statistica)
 
-1.
-
-Missione Gestire la struttura informatica della Pubblica Amministrazione, presidiandone e stimolandone nel tempo l’evoluzione in coerenza con gli standard internazionali.
+1\. Missione Gestire la struttura informatica della Pubblica Amministrazione, presidiandone e stimolandone nel tempo l’evoluzione in coerenza con gli standard internazionali.
 
 Garantire la rilevazione, l’elaborazione e l’analisi dei dati con finalità statistica e di supporto alle funzioni di programmazione economica.
 
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Fornire supporto tecnico in merito alle caratteristiche di attrezzature, software, reti e di innovazione tecnologica;
 
@@ -4198,9 +3404,7 @@ q) Supportare le funzioni di programmazione economica, collaborando con altre UO
 
 r) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente
+3\. Dirigente
 
 a) Titolo di studio: Classi di Laurea magistrale preferibilmente in ingegneria gestionale, in informatica o in ingegneria informatica o in sicurezza informatica o, in subordine, in scienze economiche-aziendali, o in scienze dell’economia, o in scienze statistiche;
 
@@ -4210,9 +3414,7 @@ c) Prescrizioni speciali: conoscenza della lingua inglese;
 
 d) Disposizioni particolari
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali: conoscenza della lingua inglese in relazione alle specifiche attività svolte nell’UO;
 
@@ -4230,13 +3432,9 @@ CORPO DI POLIZIA CIVILE
 
 (Corpo di Polizia Civile)
 
-1.
+1\. Missione Tutelare l’esercizio delle libertà e dei diritti dei cittadini, vigilare sull’osservanza delle leggi, dei regolamenti e dei provvedimenti della pubblica autorità, tutelare l’ordine e la sicurezza pubblica, provvedere alla prevenzione e alla repressione dei reati, vigilare sulla circolazione stradale, prestare soccorso in caso di calamità e di infortuni e svolgere le attività demandate a fini di protezione civile.
 
-Missione Tutelare l’esercizio delle libertà e dei diritti dei cittadini, vigilare sull’osservanza delle leggi, dei regolamenti e dei provvedimenti della pubblica autorità, tutelare l’ordine e la sicurezza pubblica, provvedere alla prevenzione e alla repressione dei reati, vigilare sulla circolazione stradale, prestare soccorso in caso di calamità e di infortuni e svolgere le attività demandate a fini di protezione civile.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Curare, anche tramite apposite attività ispettive e di controllo e in collaborazione con altre UO dell’amministrazione, le attività di verifica e controllo in ordine al rispetto delle norme in materia di disciplina civile e commerciale, nonché all’esercizio di commerci, turismo, industrie e professioni, controlli annonari, pesi e misure, postali e comunicazioni, provvedendo, se previsto dalla vigente normativa, alla relativa attività sanzionatoria;
 
@@ -4268,9 +3466,7 @@ c) Prescrizioni speciali: Qualora la copertura della posizione dirigenziale avve
 
 d) Disposizioni particolari: conoscenza della lingua inglese.
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali: articolo 8 della Legge 21 novembre 1990 n.142; competenze specifiche: conoscenza della lingua inglese in relazione alle specifiche attività svolte nella UO;
 
@@ -4284,13 +3480,9 @@ UNITÀ ORGANIZZATIVE EXTRA-DIPARTIMENTALI
 
 (Authority per l'autorizzazione, l'accreditamento e la qualità dei servizi sanitari, sociosanitari e socio-educativi)
 
-1.
+1\. Missione Presidiare le attività relative all'autorizzazione, all'accreditamento istituzionale delle strutture pubbliche e private, alla pianificazione e controllo del sistema sanitario, socio-sanitario e socio-educativo della Repubblica di San Marino, per garantire prestazioni efficaci e sicure ed il miglioramento continuo della qualità dei presidi sanitari e sociosanitari, nonché lo sviluppo sistematico e programmato dei servizi sanitari e socio-sanitari pubblici. Supportare, quale organismo tecnico, il Congresso di Stato.
 
-Missione Presidiare le attività relative all'autorizzazione, all'accreditamento istituzionale delle strutture pubbliche e private, alla pianificazione e controllo del sistema sanitario, socio-sanitario e socio-educativo della Repubblica di San Marino, per garantire prestazioni efficaci e sicure ed il miglioramento continuo della qualità dei presidi sanitari e sociosanitari, nonché lo sviluppo sistematico e programmato dei servizi sanitari e socio-sanitari pubblici. Supportare, quale organismo tecnico, il Congresso di Stato.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Coordinare e supervisionare, quale organo tecnico, il sistema di autorizzazione ed accreditamento istituzionale delle strutture sanitarie, socio-sanitari e di quelli socioeducative pubbliche e private;
 
@@ -4318,9 +3510,7 @@ l) Collabora con le UO del Settore Pubblico Allargato in relazione alle pertinen
 
 m) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle precedenti o previsti dalla normativa vigente.
 
-3.
-
-Dirigente
+3\. Dirigente
 
 a) Titolo di studio: ai sensi dell’articolo 7 della Legge 25 maggio 2004 n.69;
 
@@ -4330,9 +3520,7 @@ c) Prescrizioni speciali
 
 d) Disposizioni particolari: nomina del Consiglio Grande e Generale su proposta del Congresso di Stato ai sensi dell’articolo 7 della Legge 25 maggio 2004 n. 9.
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali
 
@@ -4380,13 +3568,9 @@ c) Disposizioni e norme di coordinamento.
 
 (Ufficio Segreteria Tecnico-Amministrativa per le pari opportunità, la bioetica e l’inclusione sociale)
 
-1.
+1\. Missione Supportare le Commissioni, le Autorità ed i Comitati operanti nei settori delle pari opportunità, della bioetica, dell’inclusione sociale e dei diritti delle persone con disabilità.
 
-Missione Supportare le Commissioni, le Autorità ed i Comitati operanti nei settori delle pari opportunità, della bioetica, dell’inclusione sociale e dei diritti delle persone con disabilità.
-
-2.
-
-Funzioni
+2\. Funzioni
 
 a) Svolgere le funzioni amministrative, contabili e di segreteria, nonché funzioni di supporto tecnico e giuridico per la Commissione per le Pari Opportunità;
 
@@ -4398,9 +3582,7 @@ d) Svolgere le funzioni di segreteria, amministrative e contabili nonché di sup
 
 e) Svolgere le funzioni amministrative, contabili e di segreteria, nonché funzioni di supporto tecnico e giuridico per la Commissione Sammarinese per l’attuazione della Convenzione ONU sui Diritti delle Persone con Disabilità (CSD ONU);
 
-f)
-
-Svolgere le funzioni di pertinenza connesse all’attuazione della legislazione in materia di protezione delle persone fisiche con riguardo al trattamento di dati personali per le Commissioni, le Autorità ed i Comitati di cui alle lettere a), b), c), d) ed e);
+f) Svolgere le funzioni di pertinenza connesse all’attuazione della legislazione in materia di protezione delle persone fisiche con riguardo al trattamento di dati personali per le Commissioni, le Autorità ed i Comitati di cui alle lettere a), b), c), d) ed e);
 
 g) Supportare le Commissioni ed i Comitati di cui alle lettere a), c), d) ed e) nella predisposizione di relazioni annuali sull’attività svolta da inoltrarsi, per il tramite delle Segretarie di Stato competenti, al Consiglio Grande e Generale;
 
@@ -4416,9 +3598,7 @@ n) Supportare le Commissioni, le Autorità ed i Comitati di riferimento nell’a
 
 o) Curare l’espletamento di qualsiasi altra attività od incarico correlati alle funzioni di cui al presente articolo o previsti dalla normativa vigente.
 
-3.
-
-Dirigente
+3\. Dirigente
 
 a) Titolo di studio: Classi di Laurea magistrale in giurisprudenza;
 
@@ -4428,9 +3608,7 @@ c) Prescrizioni speciali: è richiesto il possesso di abilitazione professionale
 
 d) Disposizioni particolari.
 
-4.
-
-Unità Organizzativa
+4\. Unità Organizzativa
 
 a) Prescrizioni speciali: conoscenza della lingua inglese;
 
@@ -4444,9 +3622,7 @@ ENTI ED AZIENDE DEL SETTORE PUBBLICO ALLARGATO
 
 (Enti e Aziende del Settore Pubblico Allargato)
 
-1.
-
-Fanno parte del Settore Pubblico Allargato i seguenti Enti e Aziende:
+1\. Fanno parte del Settore Pubblico Allargato i seguenti Enti e Aziende:
 
 a) Azienda Autonoma di Stato per i Lavori Pubblici – AASLP;
 
@@ -4524,59 +3700,39 @@ p) Curare l’espletamento di qualsiasi altra attività od incarico correlati al
 
 (Azienda Autonoma di Stato per i Servizi Pubblici - AASS)
 
-1.
+1\. La Missione e le Funzioni dell’AASS sono previste dalle Leggi 26 novembre 1980 n. 88 e 25 maggio 1981 n.41, con riferimento alla pianificazione, sviluppo e gestione delle infrastrutture e dei servizi pubblici affidati dalla normativa vigente, curandone anche gli aspetti amministrativi.
 
-La Missione e le Funzioni dell’AASS sono previste dalle Leggi 26 novembre 1980 n. 88 e 25 maggio 1981 n.41, con riferimento alla pianificazione, sviluppo e gestione delle infrastrutture e dei servizi pubblici affidati dalla normativa vigente, curandone anche gli aspetti amministrativi.
-
-2.
-
-L’AASS ha relazione funzionale con il Dipartimento Territorio e Ambiente.
+2\. L’AASS ha relazione funzionale con il Dipartimento Territorio e Ambiente.
 
 3\. [abrogato]
 
-4.
-
-Al Direttore AASS, oltre alla Legge n.108/2009 e alle norme compatibili di cui alla presente legge, si applicano la Legge 26 novembre 1980 n.88 e la Legge 25 maggio 1981 n.41. La conferma tacita di cui all’articolo 23 della Legge 25 maggio 1981 n.41, come pure quanto previsto dal comma 2 dell’articolo 21 della medesima legge, sono superati ai sensi di quanto previsto dalla Legge 31 luglio 2009 n.108.
+4\. Al Direttore AASS, oltre alla Legge n.108/2009 e alle norme compatibili di cui alla presente legge, si applicano la Legge 26 novembre 1980 n.88 e la Legge 25 maggio 1981 n.41. La conferma tacita di cui all’articolo 23 della Legge 25 maggio 1981 n.41, come pure quanto previsto dal comma 2 dell’articolo 21 della medesima legge, sono superati ai sensi di quanto previsto dalla Legge 31 luglio 2009 n.108.
 
 Titolo di studio: Classi di Laurea magistrale con indirizzo amministrativo o contabile o con indirizzo tecnico nelle discipline ingegneristiche o nelle discipline relative alla gestione del territorio e delle risorse ambientali e rurali, alla geologia, all’architettura.
 
 Retribuzione di posizione.
 
-5.
-
-Il Direttore d’Esercizio ha la responsabilità tecnica in ordine a tutti i servizi erogati dall’Azienda di cui cura l’attività organizzativa ed il coordinamento. Titolo di Studio: Classi di laurea magistrale in ingegneria civile, o in ingegneria elettrica, o in ingegneria gestionale, o in ingegneria meccanica, o in ingegneria per l’ambiente e il territorio o in altre discipline ingegneristiche o nelle discipline relative all’architettura, alla gestione del territorio, alle risorse ambientali, agronomiche o geologiche.
+5\. Il Direttore d’Esercizio ha la responsabilità tecnica in ordine a tutti i servizi erogati dall’Azienda di cui cura l’attività organizzativa ed il coordinamento. Titolo di Studio: Classi di laurea magistrale in ingegneria civile, o in ingegneria elettrica, o in ingegneria gestionale, o in ingegneria meccanica, o in ingegneria per l’ambiente e il territorio o in altre discipline ingegneristiche o nelle discipline relative all’architettura, alla gestione del territorio, alle risorse ambientali, agronomiche o geologiche.
 
 Retribuzione di posizione.
 
-6.
-
-Le funzioni aziendali relative alla programmazione, studi e progetti sono demandate ad un responsabile tecnico, le cui caratteristiche professionali sono previste nell’ambito del fabbisogno, fatti salvi i diritti acquisiti sulla precedente posizione dirigenziale (posta ad esaurimento).
+6\. Le funzioni aziendali relative alla programmazione, studi e progetti sono demandate ad un responsabile tecnico, le cui caratteristiche professionali sono previste nell’ambito del fabbisogno, fatti salvi i diritti acquisiti sulla precedente posizione dirigenziale (posta ad esaurimento).
 
 #### Art. 59
 
 (Istituto Sicurezza Sociale - ISS)
 
-1.
+1\. La Missione e le Funzioni dell’ISS sono determinate dalla Legge 30 novembre 2004 n.165 e dall’Atto Organizzativo dell’ISS.
 
-La Missione e le Funzioni dell’ISS sono determinate dalla Legge 30 novembre 2004 n.165 e dall’Atto Organizzativo dell’ISS.
-
-2.
-
-Per i titoli di studio, i requisiti, le incompatibilità e le prescrizioni speciali applicabili ai Membri del Comitato Esecutivo e ai Dirigenti ISS si rinvia alla Legge 30 novembre 2004 n. 165 e a quanto eventualmente previsto dall’Atto Organizzativo.
+2\. Per i titoli di studio, i requisiti, le incompatibilità e le prescrizioni speciali applicabili ai Membri del Comitato Esecutivo e ai Dirigenti ISS si rinvia alla Legge 30 novembre 2004 n. 165 e a quanto eventualmente previsto dall’Atto Organizzativo.
 
 Anche a fini di coordinamento con le norme sui titoli di studio, il Direttore Amministrativo di cui all’Allegato A della Legge n.165/2004 deve essere in possesso di laurea magistrale conseguita da almeno cinque anni accompagnata da comprovata esperienza in funzioni direttive attinenti le attività demandate dalla medesima legge.
 
-3.
+3\. Le retribuzioni dei Dirigenti ISS restano regolate dalle norme e dai contratti rispettivamente applicabili alle diverse posizioni dirigenziali alla data di entrata in vigore della presente legge, che potranno essere modificate con apposito decreto delegato in linea con le disposizioni di cui all’articolo 19 della Legge n.108/2009.
 
-Le retribuzioni dei Dirigenti ISS restano regolate dalle norme e dai contratti rispettivamente applicabili alle diverse posizioni dirigenziali alla data di entrata in vigore della presente legge, che potranno essere modificate con apposito decreto delegato in linea con le disposizioni di cui all’articolo 19 della Legge n.108/2009.
+4\. Per le incompatibilità e le prescrizioni speciali relative al personale dell’ISS si rinvia alla Legge 30 novembre 2004 n.165, all’Atto Organizzativo dell’ISS e a quanto previsto dalle norme di cui all’articolo 8 della presente legge e dall’articolo 76 della presente legge con riferimento alle attività ivi richiamate.
 
-4.
-
-Per le incompatibilità e le prescrizioni speciali relative al personale dell’ISS si rinvia alla Legge 30 novembre 2004 n.165, all’Atto Organizzativo dell’ISS e a quanto previsto dalle norme di cui all’articolo 8 della presente legge e dall’articolo 76 della presente legge con riferimento alle attività ivi richiamate.
-
-5.
-
-Il personale che la Legge n.106/1993 e successive modifiche indica come “Personale del Dipartimento” Sanità e Sicurezza Sociale è da intendersi quale personale dell’ISS a decorrere dalla prossima legislatura in coerenza con le norme transitorie di cui all’articolo 73 della presente legge.
+5\. Il personale che la Legge n.106/1993 e successive modifiche indica come “Personale del Dipartimento” Sanità e Sicurezza Sociale è da intendersi quale personale dell’ISS a decorrere dalla prossima legislatura in coerenza con le norme transitorie di cui all’articolo 73 della presente legge.
 
 #### Art. 60
 
@@ -4586,87 +3742,53 @@ Il personale che la Legge n.106/1993 e successive modifiche indica come “Perso
 
 (Comitato Olimpico Nazionale Sammarinese - CONS)
 
-1.
+1\. La Missione e le Funzioni del CONS sono previste dalla Legge 13 marzo 1997 n.32. Al CONS sono inoltre demandate la gestione e la manutenzione ordinaria delle strutture e degli impianti sportivi pubblici ivi compresa la struttura del Multieventi Sport Domus.
 
-La Missione e le Funzioni del CONS sono previste dalla Legge 13 marzo 1997 n.32. Al CONS sono inoltre demandate la gestione e la manutenzione ordinaria delle strutture e degli impianti sportivi pubblici ivi compresa la struttura del Multieventi Sport Domus.
+2\. Il CONS ha relazione funzionale con il Dipartimento Turismo e Cultura e con il Dipartimento Istruzione.
 
-2.
+3\. L’incarico di Segretario Generale è elettivo e rientra nell’Allegato F. Al Segretario Generale si applicano le incompatibilità di cui all’articolo 23 della Legge 13 marzo 1997 n.32. Dura in carica per il ciclo olimpico e può essere riconfermato ai sensi dell’articolo 23 della Legge 13 marzo 1997 n.32.
 
-Il CONS ha relazione funzionale con il Dipartimento Turismo e Cultura e con il Dipartimento Istruzione.
-
-3.
-
-L’incarico di Segretario Generale è elettivo e rientra nell’Allegato F. Al Segretario Generale si applicano le incompatibilità di cui all’articolo 23 della Legge 13 marzo 1997 n.32. Dura in carica per il ciclo olimpico e può essere riconfermato ai sensi dell’articolo 23 della Legge 13 marzo 1997 n.32.
-
-4.
-
-Al Personale del CONS è richiesta la conoscenza della lingua inglese in relazione alle specifiche attività svolte.
+4\. Al Personale del CONS è richiesta la conoscenza della lingua inglese in relazione alle specifiche attività svolte.
 
 #### Art. 62
 
 (Università degli Studi)
 
-1.
+1\. La Missione e le Funzioni dell’Università degli Studi sono previste dalla Legge 30 novembre 1995 n.132 e da questa determinate.
 
-La Missione e le Funzioni dell’Università degli Studi sono previste dalla Legge 30 novembre 1995 n.132 e da questa determinate.
+2\. Con apposita legge, la configurazione, l’assetto istituzionale ed organizzativo dell’Università degli Studi saranno oggetto di revisione, fermo restando il carattere di ente pubblico, allo scopo di razionalizzare la struttura e l’organizzazione e di garantire la funzionalità e l’economicità della gestione. La legge definirà i ruoli, le responsabilità e le attribuzioni degli organi e delle figure con competenze gestionali, le relazioni funzionali con la Pubblica Amministrazione, il rapporto di collaborazione di docenti e ricercatori, le speciali regole contabili applicabili con possibilità di ricevere, anche da soggetti privati, finanziamenti, entrate, donazioni, e lasciti e di gestire gli introiti frutto delle attività di ricerca ed innovazione dell’Università.
 
-2.
-
-Con apposita legge, la configurazione, l’assetto istituzionale ed organizzativo dell’Università degli Studi saranno oggetto di revisione, fermo restando il carattere di ente pubblico, allo scopo di razionalizzare la struttura e l’organizzazione e di garantire la funzionalità e l’economicità della gestione. La legge definirà i ruoli, le responsabilità e le attribuzioni degli organi e delle figure con competenze gestionali, le relazioni funzionali con la Pubblica Amministrazione, il rapporto di collaborazione di docenti e ricercatori, le speciali regole contabili applicabili con possibilità di ricevere, anche da soggetti privati, finanziamenti, entrate, donazioni, e lasciti e di gestire gli introiti frutto delle attività di ricerca ed innovazione dell’Università.
-
-3.
-
-Fatto salvo quanto diversamente disposto dalla presente legge, fino all’adozione delle norme di cui al comma che precede, l’Università degli Studi è retta ed
+3\. Fatto salvo quanto diversamente disposto dalla presente legge, fino all’adozione delle norme di cui al comma che precede, l’Università degli Studi è retta ed
 
 organizzata ai sensi delle disposizioni per essa vigenti alla data di entrata in vigore della presente legge.
 
-4.
-
-Al Direttore del Rettorato, si applica oltre alla Legge n.108/2009 e alle norme compatibili di cui alla presente legge, l’Allegato A al Decreto 27 agosto 1997 n.94 e, pertanto, ad esso sono ricondotte le funzioni di capo del personale ai sensi della presente legge, fino alla revisione di cui al secondo comma del presente articolo.
+4\. Al Direttore del Rettorato, si applica oltre alla Legge n.108/2009 e alle norme compatibili di cui alla presente legge, l’Allegato A al Decreto 27 agosto 1997 n.94 e, pertanto, ad esso sono ricondotte le funzioni di capo del personale ai sensi della presente legge, fino alla revisione di cui al secondo comma del presente articolo.
 
 Retribuzione di posizione.
 
-5.
+5\. Le funzioni dell’ente demandate alle altre figure dirigenziali di cui all’Allegato A del Decreto 27 agosto 1997 n.94 sono attribuite a responsabili/esperti, le cui caratteristiche professionali sono previste nell’ambito del fabbisogno, fatti salvi i diritti acquisiti sulle precedenti posizioni dirigenziali poste ad esaurimento.
 
-Le funzioni dell’ente demandate alle altre figure dirigenziali di cui all’Allegato A del Decreto 27 agosto 1997 n.94 sono attribuite a responsabili/esperti, le cui caratteristiche professionali sono previste nell’ambito del fabbisogno, fatti salvi i diritti acquisiti sulle precedenti posizioni dirigenziali poste ad esaurimento.
+6\. L’Università ha relazioni funzionali con il Dipartimento Istruzione ed il Dipartimento Turismo e Cultura.
 
-6.
+7\. Al Personale dell’Università degli Studi è richiesta la conoscenza della lingua inglese in relazione alle specifiche attività svolte.
 
-L’Università ha relazioni funzionali con il Dipartimento Istruzione ed il Dipartimento Turismo e Cultura.
-
-7.
-
-Al Personale dell’Università degli Studi è richiesta la conoscenza della lingua inglese in relazione alle specifiche attività svolte.
-
-8.
-
-Presso l’Università degli Studi nell’ambito del Dipartimento di Studi Storici è istituito il Centro di Ricerca sull’Emigrazione, cui è demandato il compito di mantenere la memoria storica del popolo sammarinese per quanto attiene i fenomeni migratori, assicurandone anche la fruizione e divulgazione, attraverso l’attività di ricerca, ricostruzione, studio anche in collaborazione con le competenti UO della Pubblica Amministrazione ed analoghi enti esteri. L’attività del Centro sarà svolta, anche ai fini didattici in collaborazione con le scuole, ed a fini espositivi con apposita sezione museale. Con regolamento adottato dal Congresso di Stato sarà istituito e disciplinato il Comitato di Coordinamento, di cui faranno parte anche rappresentanze della competente UO del Dipartimento Affari Esteri e della Consulta dei Cittadini Sammarinesi Residenti all’Estero, ed il Consiglio Scientifico composto da esperti nella materia. Con regolamento interno saranno disciplinate le attività.
+8\. Presso l’Università degli Studi nell’ambito del Dipartimento di Studi Storici è istituito il Centro di Ricerca sull’Emigrazione, cui è demandato il compito di mantenere la memoria storica del popolo sammarinese per quanto attiene i fenomeni migratori, assicurandone anche la fruizione e divulgazione, attraverso l’attività di ricerca, ricostruzione, studio anche in collaborazione con le competenti UO della Pubblica Amministrazione ed analoghi enti esteri. L’attività del Centro sarà svolta, anche ai fini didattici in collaborazione con le scuole, ed a fini espositivi con apposita sezione museale. Con regolamento adottato dal Congresso di Stato sarà istituito e disciplinato il Comitato di Coordinamento, di cui faranno parte anche rappresentanze della competente UO del Dipartimento Affari Esteri e della Consulta dei Cittadini Sammarinesi Residenti all’Estero, ed il Consiglio Scientifico composto da esperti nella materia. Con regolamento interno saranno disciplinate le attività.
 
 #### Art. 63
 
 (Istituto Musicale Sammarinese)
 
-1.
+1\. L’Istituto Musicale, ferma restando la sua configurazione di ente pubblico, sarà oggetto di revisione per una sua più consona collocazione nel contesto educativo di riferimento e per il rilascio di titoli di studio riconosciuti, anche attraverso i necessari accordi internazionali, tenuto conto dell’evoluzione avvenuta nel predetto contesto e del rilevante livello didattico-culturale conseguito.
 
-L’Istituto Musicale, ferma restando la sua configurazione di ente pubblico, sarà oggetto di revisione per una sua più consona collocazione nel contesto educativo di riferimento e per il rilascio di titoli di studio riconosciuti, anche attraverso i necessari accordi internazionali, tenuto conto dell’evoluzione avvenuta nel predetto contesto e del rilevante livello didattico-culturale conseguito.
-
-2.
-
-La revisione di cui al precedente comma consentirà all’Istituto di ricevere, anche da soggetti privati, finanziamenti, entrate, donazioni e lasciti e di gestire gli introiti.
+2\. La revisione di cui al precedente comma consentirà all’Istituto di ricevere, anche da soggetti privati, finanziamenti, entrate, donazioni e lasciti e di gestire gli introiti.
 
 Inoltre, preciserà lo stato giuridico del personale e dei docenti, i rapporti con la Pubblica Amministrazione nonché i ruoli, le responsabilità e le attribuzioni degli organi e delle figure con competenze gestionali.
 
-3.
+3\. Fino all’adozione delle norme di cui ai commi che precedono, l’Istituto Musicale resta regolato dalla Legge 20 settembre 1994 n.82. A tale legge si rinvia anche per tutte le disposizioni applicabili al Direttore.
 
-Fino all’adozione delle norme di cui ai commi che precedono, l’Istituto Musicale resta regolato dalla Legge 20 settembre 1994 n.82. A tale legge si rinvia anche per tutte le disposizioni applicabili al Direttore.
+4\. L’Istituto Musicale ha riporto funzionale con il Dipartimento Istruzione, il cui Direttore dispone in merito all’assegnazione del personale del Dipartimento all’Ente ed ha relazione funzionale con il Dipartimento Cultura e Turismo.
 
-4.
-
-L’Istituto Musicale ha riporto funzionale con il Dipartimento Istruzione, il cui Direttore dispone in merito all’assegnazione del personale del Dipartimento all’Ente ed ha relazione funzionale con il Dipartimento Cultura e Turismo.
-
-5.
-
-Al personale dell’Istituto Musicale si applicano comunque le speciali norme ed i contratti pertinenti.
+5\. Al personale dell’Istituto Musicale si applicano comunque le speciali norme ed i contratti pertinenti.
 
 Allegato B OPERATORE AMMINISTRATIVO (OPAMMI)
 
@@ -4710,49 +3832,27 @@ MODIFICHE ALL’ALLEGATO A DELLA LEGGE 5 DICEMBRE 2011 N.188 RELATIVE AL DIPARTI
 
 (Sezione Analisi e Controllo dell’Ufficio Attività Economiche - UAE)
 
-1.
+1\. E’ istituita, all’interno dell’Unità Organizzativa (UO) Ufficio Attività Economiche (in seguito, per brevità, UAE) la Sezione Analisi e Controllo, deputata all’espletamento delle funzioni di cui alle lettere h), i), l), m) ed n) di cui all’articolo 22 dell’Allegato A della Legge n.188/2011 e successive modifiche come novellato dall’articolo 3.
 
-E’ istituita, all’interno dell’Unità Organizzativa (UO) Ufficio Attività Economiche (in seguito, per brevità, UAE) la Sezione Analisi e Controllo, deputata all’espletamento delle funzioni di cui alle lettere h), i), l), m) ed n) di cui all’articolo 22 dell’Allegato A della Legge n.188/2011 e successive modifiche come novellato dall’articolo 3.
+2\. Tutte le notizie, informazioni, i dati e documenti della Sezione Analisi e Controllo concernenti la sua attività informativa e di indagine sono coperti dal segreto d'ufficio ai sensi dell’articolo 192 del Codice Penale. Il personale della sezione nonché i soggetti terzi che collaborano con lo stesso sono tenuti al rispetto del Segreto d'ufficio ai sensi dell’articolo 192 del Codice Penale.
 
-2.
+3\. Il Dirigente dell’UO UAE è il responsabile della trasmissione o ricezione di informazioni da e verso soggetti terzi, indipendentemente che queste costituiscano informative all’autorità politica, denunce di reato all’autorità giudiziaria, informazioni rese ai fini della collaborazione con altri uffici, organi e autorità nel rispetto di accordi sottoscritti ai sensi dell’articolo 41 della Legge 7 agosto 2017 n.94 (in seguito, per brevità, Accordi di Collaborazione), segnalazioni di legge ad altre autorità o soggetti competenti. Il Dirigente dell’UO UAE organizza sotto la propria responsabilità il flusso delle informazioni gestite dall’ufficio avendo possibilità di delegare funzionari dello stesso allo scambio di informazioni con soggetti terzi nel rispetto della presente normativa.
 
-Tutte le notizie, informazioni, i dati e documenti della Sezione Analisi e Controllo concernenti la sua attività informativa e di indagine sono coperti dal segreto d'ufficio ai sensi dell’articolo 192 del Codice Penale. Il personale della sezione nonché i soggetti terzi che collaborano con lo stesso sono tenuti al rispetto del Segreto d'ufficio ai sensi dell’articolo 192 del Codice Penale.
+4\. Ai fini delle segnalazioni all’autorità giudiziaria dei fatti o delle informazioni che possono integrare misfatto l’UO UAE valuta la tempestività delle stesse in base alle esigenze di controllo e integrazione delle informazioni, anche sulla base di specifici protocolli in collaborazione con la stessa autorità giudiziaria.
 
-3.
+5\. Alla Sezione Analisi e Controllo dell’UO UAE sono garantiti gli accessi alle banche dati conservati o utilizzati dall’amministrazione utili all’attività di controllo e all’espletamento delle proprie funzioni.
 
-Il Dirigente dell’UO UAE è il responsabile della trasmissione o ricezione di informazioni da e verso soggetti terzi, indipendentemente che queste costituiscano informative all’autorità politica, denunce di reato all’autorità giudiziaria, informazioni rese ai fini della collaborazione con altri uffici, organi e autorità nel rispetto di accordi sottoscritti ai sensi dell’articolo 41 della Legge 7 agosto 2017 n.94 (in seguito, per brevità, Accordi di Collaborazione), segnalazioni di legge ad altre autorità o soggetti competenti. Il Dirigente dell’UO UAE organizza sotto la propria responsabilità il flusso delle informazioni gestite dall’ufficio avendo possibilità di delegare funzionari dello stesso allo scambio di informazioni con soggetti terzi nel rispetto della presente normativa.
+6\. Il personale della Sezione Analisi e Controllo dell’UO è valutato annualmente per il comportamento ed il rendimento in servizio, secondo i termini dell’articolo 12, comma 1, lettera e) della Legge 21 ottobre 2022 n.145. La valutazione è operata dal competente titolare di incarico di posizione organizzativa (PO), in accordo con il Dirigente dell’UO UAE.
 
-4.
+7\. La valutazione del dipendente titolare di PO relativa alla Sezione Analisi e Controllo è effettuata secondo quanto previsto dall’articolo 3 del Decreto Delegato 24 gennaio 2022 n.10.
 
-Ai fini delle segnalazioni all’autorità giudiziaria dei fatti o delle informazioni che possono integrare misfatto l’UO UAE valuta la tempestività delle stesse in base alle esigenze di controllo e integrazione delle informazioni, anche sulla base di specifici protocolli in collaborazione con la stessa autorità giudiziaria.
+8\. Il titolare di PO, in accordo con il Dirigente dell’UO UAE, predispone appositi piani annuali per la formazione, aggiornamento e specializzazione per il personale dipendente in servizio presso la Sezione Analisi e Controllo in relazione ai singoli profili di ruolo (PDR).
 
-5.
+9\. Al fine di assicurare un adeguato addestramento iniziale, i dipendenti che saranno reclutati e preposti ad attività correlate alle funzioni previste in capo alla Sezione Analisi e Controllo, saranno destinatari, durante il periodo di prova, di una specifica formazione sulle tecniche di analisi, indagine ed attività informativa. Il livello di apprendimento delle conoscenze apprese e delle competenze acquisite durante tale fase di addestramento iniziale sarà oggetto di valutazione ai fini del superamento del periodo di prova.
 
-Alla Sezione Analisi e Controllo dell’UO UAE sono garantiti gli accessi alle banche dati conservati o utilizzati dall’amministrazione utili all’attività di controllo e all’espletamento delle proprie funzioni.
+10\. Per le medesime finalità di cui al comma 9, il personale già in servizio presso l’UO UAE che sarà destinato alla Sezione Analisi e Controllo è tenuto ad effettuare un percorso iniziale di formazione ed eventuale riqualificazione obbligatoria ai sensi dell’articolo 59 della Legge n.188/2011 e dell’articolo 22 del Decreto Delegato 31 maggio 2022 n.86.
 
-6.
-
-Il personale della Sezione Analisi e Controllo dell’UO è valutato annualmente per il comportamento ed il rendimento in servizio, secondo i termini dell’articolo 12, comma 1, lettera e) della Legge 21 ottobre 2022 n.145. La valutazione è operata dal competente titolare di incarico di posizione organizzativa (PO), in accordo con il Dirigente dell’UO UAE.
-
-7.
-
-La valutazione del dipendente titolare di PO relativa alla Sezione Analisi e Controllo è effettuata secondo quanto previsto dall’articolo 3 del Decreto Delegato 24 gennaio 2022 n.10.
-
-8.
-
-Il titolare di PO, in accordo con il Dirigente dell’UO UAE, predispone appositi piani annuali per la formazione, aggiornamento e specializzazione per il personale dipendente in servizio presso la Sezione Analisi e Controllo in relazione ai singoli profili di ruolo (PDR).
-
-9.
-
-Al fine di assicurare un adeguato addestramento iniziale, i dipendenti che saranno reclutati e preposti ad attività correlate alle funzioni previste in capo alla Sezione Analisi e Controllo, saranno destinatari, durante il periodo di prova, di una specifica formazione sulle tecniche di analisi, indagine ed attività informativa. Il livello di apprendimento delle conoscenze apprese e delle competenze acquisite durante tale fase di addestramento iniziale sarà oggetto di valutazione ai fini del superamento del periodo di prova.
-
-10.
-
-Per le medesime finalità di cui al comma 9, il personale già in servizio presso l’UO UAE che sarà destinato alla Sezione Analisi e Controllo è tenuto ad effettuare un percorso iniziale di formazione ed eventuale riqualificazione obbligatoria ai sensi dell’articolo 59 della Legge n.188/2011 e dell’articolo 22 del Decreto Delegato 31 maggio 2022 n.86.
-
-11.
-
-I piani annuali di cui al comma 8 possono prevedere:
+11\. I piani annuali di cui al comma 8 possono prevedere:
 
 a) lo svolgimento di corsi informativi, di aggiornamento, di specializzazione organizzati a cura dell'UO UAE;
 
@@ -4760,14 +3860,8 @@ b) l’organizzazione o partecipazione a corsi, convegni, seminari, conferenze o
 
 c) la partecipazione a corsi, convegni, seminari, conferenze organizzati all’estero da soggetti privati, enti pubblici, agenzie, università, organi collaterali e Forze dell’Ordine.
 
-12.
+12\. I locali della Sezione Analisi e Controllo sono organizzati al fine di tutelare la riservatezza dei dati e delle attività svolte con criteri specifici rispetto a quelli generali dell’UO UAE.
 
-I locali della Sezione Analisi e Controllo sono organizzati al fine di tutelare la riservatezza dei dati e delle attività svolte con criteri specifici rispetto a quelli generali dell’UO UAE.
+13\. Con atto assunto dal titolare di PO, in accordo con il Dirigente dell’UO UAE, da adottarsi entro dodici mesi dalla data di entrata in vigore del presente decreto delegato, è emanata direttiva avente ad oggetto “Istruzioni per il servizio informativo e di indagine della Sezione Analisi e Controllo” con la quale saranno disciplinati, in particolare, l’organizzazione ed esecuzione del servizio, l’introduzione di specifiche norme di condotta per il personale, in servizio e fuori servizio, la gestione e protezione dei dati trattati dall’UO ed i relativi livelli di sicurezza.
 
-13.
-
-Con atto assunto dal titolare di PO, in accordo con il Dirigente dell’UO UAE, da adottarsi entro dodici mesi dalla data di entrata in vigore del presente decreto delegato, è emanata direttiva avente ad oggetto “Istruzioni per il servizio informativo e di indagine della Sezione Analisi e Controllo” con la quale saranno disciplinati, in particolare, l’organizzazione ed esecuzione del servizio, l’introduzione di specifiche norme di condotta per il personale, in servizio e fuori servizio, la gestione e protezione dei dati trattati dall’UO ed i relativi livelli di sicurezza.
-
-14.
-
-La direttiva di cui al comma 13 è adottata nel rispetto di quanto previsto dalle norme di rango primario e secondario. Qualora la predetta direttiva disciplini profili relativi al rapporto di lavoro soggetti a contrattazione collettiva, il titolare di PO ed il Dirigente dell’UO UAE informano la Direzione Generale della Funzione Pubblica (DGFP) ai fini del confronto con le Organizzazioni Sindacali.
+14\. La direttiva di cui al comma 13 è adottata nel rispetto di quanto previsto dalle norme di rango primario e secondario. Qualora la predetta direttiva disciplini profili relativi al rapporto di lavoro soggetti a contrattazione collettiva, il titolare di PO ed il Dirigente dell’UO UAE informano la Direzione Generale della Funzione Pubblica (DGFP) ai fini del confronto con le Organizzazioni Sindacali.

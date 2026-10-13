@@ -1,0 +1,403 @@
+---
+title: "Testo Coordinato in materia di sostegno dei giovani imprenditori e delle nuove attività nei centri storici (aggiornato al 29 settembre 2017)"
+identifier: "documento17104382"
+type: consolidated_text
+jurisdiction: sm
+language: it
+last_amended: 2017-09-29
+status: in_force
+category: "(linked from the archive record of an act, not listed in a category page)"
+note: "Testo coordinato con valore ricognitivo (art. 82 Legge 22 dicembre 2015 n.189); non costituisce fonte normativa."
+source: "https://www.consigliograndeegenerale.sm/on-line/documento17104382.html"
+retrieved: 2026-10-13
+---
+
+# Testo Coordinato in materia di sostegno dei giovani imprenditori e delle nuove attività nei centri storici (aggiornato al 29 settembre 2017)
+
+TESTO COORDINATO LEGGE 4 DICEMBRE 2015 n.178 LEGGE A SOSTEGNO DEI GIOVANI IMPRENDITORI E DELLE NUOVE ATTIVITA’ NEI CENTRI STORICI Testo coordinato con le modifiche derivanti dal Decreto - Legge 31 marzo 2016 n.42 e dalla Legge 29 settembre 2017 n.115 (aggiornato al 29 settembre 2017)
+
+LEGGI CITATE NEL TESTO COORDINATO E NELLE ALTRE NORME IN MATERIA -
+
+Legge 27 luglio 1979 n.50 Legge 13 maggio 1980 n.37 Legge 29 gennaio 1992 n.7 Legge 24 novembre 1997 n.134 Legge 25 maggio 2004 n.70 Legge 23 febbraio 2006 n.47 Decreto Delegato 28 giugno 2010 n.122 Regolamento 11 febbraio 2011 n.2 Legge 5 ottobre 2011 n.158 Legge 22 dicembre 2011 n.200 Decreto Delegato 28 giugno 2013 n.73 Decreto - Legge 31 marzo 2016 n.42 Legge 29 settembre 2017 n.115
+
+TESTO COORDINATO LEGGE 4 DICEMBRE 2015 n.178 LEGGE A SOSTEGNO DEI GIOVANI IMPRENDITORI E DELLE NUOVE ATTIVITA’ NEI CENTRI STORICI Testo coordinato con le modifiche derivanti dal Decreto - Legge 31 marzo 2016 n.42 e dalla Legge 29 settembre 2017 n.115
+
+## CAPO I
+
+OGGETTO E FINALITA’
+
+### Art.1
+
+(Obiettivo della legge)
+
+1\. La presente legge ha come finalità la promozione e il sostegno di nuova imprenditoria giovanile e lo sviluppo di attività nei centri storici.
+
+2\. La legge intende:
+
+a) favorire l’imprenditorialità dei giovani;
+
+b) qualificare la professionalità dei soggetti beneficiari e promuovere la cultura d’impresa;
+
+c) agevolare l’accesso al credito per le imprese di giovani e/o a prevalente partecipazione di giovani;
+
+d) predisporre agevolazioni di natura economica e fiscale in favore delle attività economiche e in favore di pubblici esercizi nei centri storici periferici, con l’obiettivo di rivitalizzare i centri storici periferici attraverso la creazione di nuove attività economiche.
+
+### Art. 2
+
+(Soggetti beneficiari)
+
+1\. Possono accedere ai benefici di cui alla presente legge: le imprese di diritto sammarinese, di nuova costituzione, organizzate in maniera individuale, in forma societaria e in forma cooperativa.
+
+2\. Non sono ritenute ammissibili domande relative ad iniziative imprenditoriali che siano di fatto in continuità con imprese preesistenti salvo che queste non si configurino come rilevamento delle stesse. A tal fine, il rilevamento di imprese di parenti e gli affini fino al 2° grado, del richiedente o dei richiedenti è ammesso ai benefici solo nei casi in cui il subentro sia caratterizzato da elementi di innovatività, come previsto alla lettera h) dell’articolo 4, rispetto all’attività precedentemente svolta.
+
+## CAPO II
+
+INCENTIVI IN FAVORE DI GIOVANI IMPRENDITORI
+
+### Art. 3
+
+(Requisiti)
+
+1\. 2:
+
+Possono accedere ai benefici di cui al presente capo le imprese di cui all’articolo
+
+a) organizzate in maniera individuale, di proprietà esclusiva di giovani con un'età compresa fra i 18 e 40 anni, 45 anni se donna, e che abbiano residenza effettiva nella Repubblica di San Marino;
+
+b) organizzate in forma societaria ed in forma cooperativa dove e almeno il 51% delle quote di partecipazione sia di proprietà di giovani con un'età compresa fra i 18 e 40 anni, 45 anni se donna, e che abbiano residenza effettiva nella Repubblica di San Marino o cittadinanza sammarinese.
+
+### Art. 4
+
+(Benefici)
+
+1\. A favore delle imprese di cui al presente capo, sono previsti i seguenti benefici:
+
+a) Prestito d’onore si configura come strumento diretto a favorire la promozione dell’imprenditorialità dei giovani, attraverso finanziamenti agevolati concessi sull’onore ovvero non assistiti da alcun tipo di garanzia. Il Prestito d’onore può essere erogato fino ad un massimo di euro quindicimila/00, da restituire a partire dal secondo anno di attività in quattro rate costanti semestrali ed entro il 31 dicembre di ogni anno. L’importo concesso con il finanziamento deve essere utilizzato esclusivamente per far fronte alle spese di costituzione, agli investimenti e alla gestione della iniziativa economica. Non sono ammesse le spese per acquisto di immobili e per l’acquisto di autoveicoli, ad esclusione dei casi in cui l’autoveicolo sia lo strumento principale dell’attività da svolgere. Sono ammesse invece le spese per l’affitto di immobili adibiti esclusivamente all’attività di impresa. I beni finanziati dovranno essere destinati, materialmente e giuridicamente, allo svolgimento della attività avviata, per l’intera durata del finanziamento, fatti salvi i casi di sostituzione legati alla funzionalità dei beni stessi.
+
+Si applicano le esenzioni di cui alle Leggi 27 luglio 1979 n.50 e 13 maggio 1980 n.37;
+
+b) incentivi fiscali consistenti nell’applicazione dell’aliquota IGR agevolata pari al 4 % per i primi 6 anni di attività;
+
+c) incentivi contributivi consistenti nello sgravio del 50% sui contributi a carico del datore di lavoro per i dipendenti assunti dalle liste di avviamento al lavoro per un massimo di sei anni.
+
+Qualora la domanda di ammissione sia stata presentata antecedentemente alla data di rilascio della licenza, i sei anni decorrono dalla data di rilascio della licenza; qualora la domanda di ammissione sia stata presentata successivamente alla data del rilascio della licenza, i sei anni decorrono dalla data della delibera di ammissione ai benefici;
+
+d) incentivi finanziari consistenti nella concessione del credito agevolato, garantito da idonee garanzie personali o reali, di cui all’articolo 5, con interessi a carico dello Stato fino alla misura del 60% del progetto finanziabile, calcolato sul tetto massimo di euro centomila/00 per le imprese di servizi e commerciali e di euro duecentomila/00 per le imprese di produzione.
+
+L’erogazione del credito agevolato sugli investimenti ammissibili di cui all’articolo 5 è condizionata all’iscrizione di privilegio sui beni finanziati in favore dello Stato e garantita contro l’azione revocatoria secondo quanto previsto dall’articolo 16 del Decreto Delegato 28 giugno 2013 n.73. Sono applicabili i benefici di cui all’articolo 17 del medesimo decreto delegato;
+
+e) in deroga a quanto previsto dalla Legge 23 febbraio 2006 n.47 “Legge sulle società”, e successive modifiche e integrazioni, il versamento dell’intero capitale sociale interamente sottoscritto, può avvenire entro il terzo anno di attività, senza
+
+incorrere negli effetti di cui all’articolo 12, comma 4, della legge citata e successive modifiche e integrazioni;
+
+f) le perdite fiscali realizzate nei primi tre periodi d’imposta dalla data di costituzione della nuova impresa possono essere computate in diminuzione del reddito complessivo dei periodi d’imposta successivi senza alcun limite di tempo;
+
+g) esenzione della tassa di licenza di primo rilascio e per i due anni successivi, senza possibilità di rimborso della tassa eventualmente già pagata;
+
+h) i benefici di cui alla lettera a) possono essere triplicati, fino a un massimo di euro quarantacinquemila/00 nel caso in cui l’impresa sia innovativa. Si considera innovativa quella impresa che apporta nel prodotto, nel processo, nell’organizzazione o nel rapporto con il mercato caratteristiche di novità rispetto allo stato della tecnologia e/o delle conoscenze riscontrabili nelle imprese e che rappresentano una valorizzazione economica di saperi e competenze scientifiche.
+
+### Art.5
+
+(Investimenti ammissibili)
+
+1\. Al fine della concessione del credito agevolato di cui all’articolo 4, lettera d), sono considerati investimenti ammissibili per la realizzazione del progetto quelli relativi a:
+
+a) macchinari, impianti ed attrezzature;
+
+b) altri beni materiali ad utilità pluriennale.
+
+2\. Non sono considerati ammissibili:
+
+a) gli investimenti per l’acquisto del terreno e per la costruzione ovvero per l’acquisto di immobili destinati a sede dell’attività;
+
+b) gli investimenti sostenuti anteriormente alla data di presentazione della domanda di ammissione alle agevolazioni.
+
+## CAPO III
+
+ATTIVITA’ NEI CENTRI STORICI
+
+### Art. 6
+
+(Requisiti)
+
+1\. Possono accedere ai benefici di cui al presente capo, le imprese anche individuali di cui all’articolo 2:
+
+a) detenute almeno per il 51% da parte di persone fisiche aventi residenza effettiva o cittadinanza sammarinese e
+
+b) che abbiano la sede e svolgano l’attività nei centri storici periferici. Si considerano ai fini della presente legge centri storici periferici, le zone indicate all’articolo 33 della Legge 29 gennaio 1992 n.7 e relative norme di attuazione, identificate nelle zone A1 e A2, con l’esclusione del Centro Storico di San Marino Città.1 1 Testo originario (Legge 178/2015):
+
+1\. Possono accedere ai benefici di cui al presente capo, le imprese di cui all’articolo 2:
+
+a) detenute almeno per il 51% da parte di persone fisiche aventi residenza effettiva o cittadinanza sammarinese e
+
+b) che abbiano la sede e svolgano l’attività nei centri storici periferici. Si considerano ai fini della presente legge centri storici periferici, le zone indicate all’articolo 33 della Legge 29 gennaio 1992 n.7 e relative norme di attuazione, identificate nelle zone A1 e A2, con l’esclusione del Centro Storico di San Marino Città.
+
+### Art. 7
+
+(Benefici)
+
+1\. Per le imprese di cui al presente Capo, sono previsti i seguenti benefici:
+
+a) incentivi fiscali consistenti applicazione dell’aliquota IGR agevolata pari al 4% per i primi sei anni di attività;
+
+b) incentivi contributivi consistenti nello sgravio del 50% sui contributi a carico del datore di lavoro per i dipendenti assunti dalle liste di avviamento al lavoro per un massimo di sei anni.
+
+Qualora la domanda di ammissione sia presentata antecedentemente alla data di rilascio della licenza, i sei anni decorrono dalla data di rilascio della licenza; qualora la domanda di ammissione sia presentata successivamente alla data del rilascio della licenza, i sei anni decorrono dalla data della delibera di ammissione ai benefici;
+
+c) incentivi alla stabilizzazione: nei primi due anni di attività, è erogato un contributo pari al 20% del canone di locazione per il primo anno e del 10% del canone di locazione per il secondo anno. Detto contributo è calcolato su un canone annuo massimo di euro quindicimila/00, con un massimo di erogazione di euro tremila/00 per canone annuo. Il comitato valutatore verifica la congruità del canone con i prezzi di mercato. L’imposta di registro è comunque liquidata sull’intero canone, secondo le norme vigenti.
+
+2\. Se il richiedente possiede i requisiti di cui all’articolo 3, i benefici di cui al presente articolo so no cumulabili con i benefici previsti all’articolo 4, alle lettere a), d), e), f), g), h).
+
+## CAPO IV
+
+AGEVOLAZIONI
+
+### Art.8
+
+(Domanda di ammissione ai benefici)
+
+1\. Le domande di ammissione alle agevolazioni vanno presentate alla Camera di Commercio entro e non oltre centottanta giorni dalla data del primo rilascio della licenza o dalla data di rilevamento e devono contenere:
+
+a) denominazione dell'impresa, nome, cognome, indirizzo, età, del legale rappresentante;
+
+b) l’elenco dei titolari dell'impresa o dei soci, in caso di richiesta da parte di persona giuridica;
+
+Modifiche legislative:
+
+Decreto - Legge 31 marzo 2016 n.42, Articolo 01:
+
+1\. Il comma 1 dell’articolo 6 della Legge 4 dicembre 2015 n.178 è sostituito dal seguente comma:
+
+“1. Possono accedere ai benefici di cui al presente capo, le imprese anche individuali di cui all’articolo 2:
+
+a) detenute almeno per il 51% da parte di persone fisiche aventi residenza effettiva o cittadinanza sammarinese e
+
+b) che abbiano la sede e svolgano l’attività nei centri storici periferici. Si considerano ai fini della presente legge centri storici periferici, le zone indicate all’articolo 33 della Legge 29 gennaio 1992 n.7 e relative norme di attuazione, identificate nelle zone A1 e A2, con l’esclusione del Centro Storico di San Marino Città.”.
+
+c) il progetto d'impresa, con specificazione delle caratteristiche concernenti il prodotto e/o il servizio che s’intende produrre/svolgere, i mercati di approvvigionamento delle risorse necessarie, le prospettive di mercato; il piano aziendale (business – plan); il piano economico e finanziario;
+
+d) il piano occupazionale;
+
+e) l’autocertificazione da parte del titolare o legale rappresentante attestante l’idoneità di cui all’articolo 11 per i titolari, gli amministratori, i soci;
+
+f) l’elenco delle spese o degli investimenti effettuati o da effettuare al fine della richiesta del prestito d’onore, di cui alla lettera a) dell’articolo 4.
+
+2\. Sono esaminate anche le domande di ammissione ai benefici per imprese che al momento della presentazione della domanda non abbiano ancora ottenuto il primo rilascio di licenza. In quest’ultimo caso l’erogazione dei benefici è subordinata al rilascio della licenza, come da domanda presentata, entro dodici mesi dalla data di notifica di ammissione ai benefici.2
+
+### Art.9
+
+(Comitato valutatore) 2 Testo originario (Legge 178/2015):
+
+1\. Le domande di ammissione alle agevolazioni vanno presentate all’Ufficio Industria, Artigianato e Commercio entro e non oltre centottanta giorni dalla data del primo rilascio della licenza o dalla data di rilevamento e devono contenere:
+
+a) denominazione dell'impresa, nome, cognome, indirizzo, età, del legale rappresentante;
+
+b) l’elenco dei titolari dell'impresa o dei soci, in caso di richiesta da parte di persona giuridica;
+
+c) il progetto d'impresa, con specificazione delle caratteristiche concernenti il prodotto e/o il servizio che s’intende produrre/svolgere, i mercati di approvvigionamento delle risorse necessarie, le prospettive di mercato; il piano aziendale (business – plan); il piano economico e finanziario;
+
+d) il piano occupazionale;
+
+e) l’autocertificazione da parte del titolare o legale rappresentante attestante l’idoneità di cui all’articolo 11 per i titolari, gli amministratori, i soci;
+
+f) l’elenco delle spese o degli investimenti effettuati o da effettuare al fine della richiesta del prestito d’onore, di cui alla lettera a) dell’articolo 4.
+
+2\. Sono esaminate anche le domande di ammissione ai benefici per imprese che al momento della presentazione della domanda non abbiano ancora ottenuto il primo rilascio di licenza. In quest’ultimo caso l’erogazione dei benefici è subordinata al rilascio della licenza, come da domanda presentata, entro dodici mesi dalla data di notifica di ammissione ai benefici.
+
+Modifiche legislative:
+
+Decreto - Legge 31 marzo 2016 n.42, Articolo 02:
+
+1\. Il comma 1 dell’articolo 8 della Legge n.178/2015 è sostituito dal seguente comma:
+
+“1. Le domande di ammissione alle agevolazioni vanno presentate alla Camera di Commercio entro e non oltre centottanta giorni dalla data del primo rilascio della licenza o dalla data di rilevamento e devono contenere:
+
+a) denominazione dell'impresa, nome, cognome, indirizzo, età, del legale rappresentante;
+
+b) l’elenco dei titolari dell'impresa o dei soci, in caso di richiesta da parte di persona giuridica;
+
+c) il progetto d'impresa, con specificazione delle caratteristiche concernenti il prodotto e/o il servizio che s’intende produrre/svolgere, i mercati di approvvigionamento delle risorse necessarie, le prospettive di mercato; il piano aziendale (business – plan); il piano economico e finanziario;
+
+d) il piano occupazionale;
+
+e) l’autocertificazione da parte del titolare o legale rappresentante attestante l’idoneità di cui all’articolo 11 per i titolari, gli amministratori, i soci;
+
+f) l’elenco delle spese o degli investimenti effettuati o da effettuare al fine della richiesta del prestito d’onore, di cui alla lettera a) dell’articolo 4.”.
+
+1\. I benefici sono concessi da un comitato valutatore composto dal Segretario di Stato all’Industria e Commercio o suo delegato, dal Segretario di Stato al Lavoro o suo delegato, dal Dirigente dell’Ufficio Industria, Artigianato e Commercio o suo delegato e dal Direttore della Camera di Commercio o suo delegato. Il comitato valutatore è presieduto dal Segretario di Stato all’Industria e Commercio o suo delegato. Il comitato valutatore viene convocato dal Direttore della Camera di Commercio.
+
+2\. Il comitato valutatore ha il compito di verificare la sussistenza dei requisiti di cui alla presente legge, la correttezza e completezza della documentazione, nonché di esaminare, valutare il progetto d'impresa e deliberare in merito.
+
+3\. Il comitato valutatore esamina entro venti giorni lavorativi dalla presentazione il progetto con i promotori, successivamente delibera e comunica al presentatore, mediante raccomandata con avviso di ricevimento, la propria motivata decisione entro dieci giorni lavorativi dalla data di deliberazione.3
+
+### Art.10
+
+(Esame della domanda e provvedimento di ammissione ai benefici)
+
+1\. Il comitato valutatore sulla base del progetto presentato, delibera l’ammissione ai benefici nella misura e proporzione che ritiene più congrua alla realizzazione del progetto imprenditoriale, tenuto conto dell’idoneità dei soggetti proponenti, delle potenzialità del mercato di riferimento, delle scelte tecniche ipotizzate, della convenienza economica dell'iniziativa e valutata la compatibilità dell'iniziativa con gli eventuali indirizzi economici generali della Repubblica di San Marino.
+
+2\. La liquidazione e l’erogazione del prestito d’onore e degli incentivi alla stabilizzazione sono effettuati dall’Ufficio Industria, Artigianato e Commercio entro sette giorni lavorativi dalla data di deliberazione del rilascio dei benefici.
+
+3 Testo originario (Legge 178/2015):
+
+1\. I benefici sono concessi da un comitato valutatore composto dal Segretario di Stato all’Industria e Commercio o suo delegato, dal Segretario di Stato al Lavoro o suo delegato, dal Dirigente dell’Ufficio Industria, Artigianato e Commercio o suo delegato e dal Direttore della Camera di Commercio o suo delegato. Il comitato valutatore è presieduto dal Segretario di Stato all’Industria e Commercio o suo delegato. Il comitato valutatore viene convocato dal Dirigente dell’Ufficio Industria, Artigianato e Commercio.
+
+2\. Il comitato valutatore ha il compito di verificare la sussistenza dei requisiti di cui alla presente legge, la correttezza e completezza della documentazione, nonché di esaminare, valutare il progetto d'impresa e deliberare in merito.
+
+3\. Il comitato valutatore esamina entro venti giorni lavorativi dalla presentazione il progetto con i promotori, successivamente delibera e comunica al presentatore, mediante raccomandata con avviso di ricevimento, la propria motivata decisione entro dieci giorni lavorativi dalla data di deliberazione.
+
+Modifiche legislative:
+
+Decreto - Legge 31 marzo 2016 n.42, Articolo 03:
+
+1\. Il comma 1 dell’articolo 9 della Legge n.178/2015 è sostituito dal seguente comma:
+
+“1. I benefici sono concessi da un comitato valutatore composto dal Segretario di Stato all’Industria e Commercio o suo delegato, dal Segretario di Stato al Lavoro o suo delegato, dal Dirigente dell’Ufficio Industria, Artigianato e Commercio o suo delegato e dal Direttore della Camera di Commercio o suo delegato. Il comitato valutatore è presieduto dal Segretario di Stato all’Industria e Commercio o suo delegato. Il comitato valutatore viene convocato dal Direttore della Camera di Commercio.”.
+
+### Art.11
+
+(Idoneità)
+
+1\. Ai fini dell’esame della domanda per l’accesso ai benefici di cui alla presente legge, l’impresa beneficiaria in qualità di persona giuridica, il titolare, il legale rappresentante, gli amministratori, i soci persone fisiche o giuridiche, non devono essere “soggetti inidonei” ai sensi del punto 9), comma 1, dell’articolo 1 della Legge n.47/2006 e successive modifiche.
+
+### Art.12
+
+(Revoca e cumulabilità dei benefici)
+
+1\. Il comitato valutatore esercita il controllo in ordine alla realizzazione del progetto di impresa per il quale siano stati concessi i benefici di cui alla presente legge al fine di verificare:
+
+a) la veridicità delle dichiarazioni rese dal beneficiario;
+
+b) lo stato di attuazione del progetto di impresa;
+
+c) il mantenimento dei requisiti di cui alla presente legge.
+
+2\. Ai fini di cui al comma 1, l’Ufficio Industria, Artigianato e Commercio dispone controlli e ispezioni presso le imprese beneficiarie.
+
+3\. Nel corso dei tre anni successivi al termine dell’utilizzo dei benefici concessi, i soggetti beneficiari tengono a disposizione della Camera di Commercio tutta la documentazione relativa ai benefici ricevuti.
+
+4\. Non sono consentiti atti di trasferimento della licenza o di quote o azioni societarie che facciano venire meno le condizioni soggettive di cui agli articoli 3 e 6, per almeno un anno dal termine della fruizione dell’ultimo incentivo goduto ai sensi della presente legge. Il suddetto trasferimento comporta, se gli incentivi sono ancora in corso, l’immediata decadenza da essi ed in ogni caso l’obbligo di restituzione delle agevolazioni percepite.
+
+5\. Gli importi erogati a titolo di prestito d’onore, qualora non vengano pagate o corrisposte le rate di rimborso previste, costituiscono ai sensi dell’articolo 2 della Legge 25 maggio 2004 n.70 e successive modifiche, somme da iscriversi a ruolo.
+
+Competente a esercitare ogni azione per il recupero delle somme concesse è l’Ufficio Industria, Artigianato e Commercio, con il supporto del comitato valutatore e degli organi della Pubblica Amministrazione.
+
+6\. Per il raggiungimento delle finalità e lo svolgimento delle funzioni attribuite dalla presente legge, il comitato valutatore ha la facoltà di adottare regolamenti che avranno una funzione esplicativa ed interpretativa dei compiti assegnati dalla presente legge.4
+
+4 Testo originario (Legge 178/2015):
+
+1\. Il comitato valutatore esercita il controllo in ordine alla realizzazione del progetto di impresa per il quale siano stati concessi i benefici di cui alla presente legge al fine di verificare:
+
+a) la veridicità delle dichiarazioni rese dal beneficiario;
+
+b) lo stato di attuazione del progetto di impresa;
+
+c) il mantenimento dei requisiti di cui alla presente legge.
+
+2\. Ai fini di cui al comma 1, l’Ufficio Industria, Artigianato e Commercio dispone controlli e ispezioni presso le imprese beneficiarie.
+
+3\. Nel corso dei tre anni successivi al termine dell’utilizzo dei benefici concessi, i soggetti beneficiari tengono a disposizione dell’Ufficio Industria, Artigianato e Commercio tutta la documentazione relativa ai benefici ricevuti.
+
+### Art. 13
+
+(Riduzione o revoca delle agevolazioni)
+
+1\. Nei casi di mancata, parziale o difforme realizzazione dei progetti è disposta la revoca da parte del comitato valutatore, in forma totale o parziale, delle agevolazioni previste dalla presente legge.
+
+2\. Con il provvedimento di revoca è disposta la restituzione dell’ammontare del prestito d’onore, maggiorato degli interessi maturati al tasso ufficiale di riferimento.
+
+3\. I benefici previsti dalla presente legge non sono cumulabili con quelli previsti da altre norme. E’ fatta salva l’applicazione dell’abbattimento del reddito minimo previsto ai commi 5 e 6 dell’articolo 11 della Legge 5 ottobre 2011 n.158, così come modificati dall’articolo 55 della Legge 22 dicembre 2011 n.200 e l’applicazione del Decreto Delegato 28 giugno 2010 n.122 e successive modifiche.
+
+4\. Per quanto non previsto dalla presente legge in materia di prestiti e di credito agevolato, si applica per quanto compatibile il Decreto Delegato 28 giugno 2013 n.73.5
+
+4\. Non sono consentiti atti di trasferimento della licenza o di quote o azioni societarie che facciano venire meno le condizioni soggettive di cui agli articoli 3 e 6, per almeno un anno dal termine della fruizione dell’ultimo incentivo goduto ai sensi della presente legge. Il suddetto trasferimento comporta, se gli incentivi sono ancora in corso, l’immediata decadenza da essi ed in ogni caso l’obbligo di restituzione delle agevolazioni percepite.
+
+5\. Gli importi erogati a titolo di prestito d’onore, qualora non vengano pagate o corrisposte le prime due rate di rimborso previste, costituiscono ai sensi dell’articolo 2 delle Legge 25 maggio 2004 n.70 e successive modifiche, somme da iscriversi a ruolo. Competente a esercitare ogni azione per il recupero delle somme concesse è l’Ufficio Industria, Artigianato e Commercio, con il supporto del comitato valutatore e degli organi della Pubblica Amministrazione.
+
+6\. Per il raggiungimento delle finalità e lo svolgimento delle funzioni attribuite dalla presente legge, il comitato valutatore ha la facoltà di adottare regolamenti che avranno una funzione esplicativa ed interpretativa dei compiti assegnati dalla presente legge.
+
+Modifiche legislative:
+
+Decreto - Legge 31 marzo 2016 n.42, Articolo 04:
+
+1\. Il comma 3 dell’articolo 12 della Legge n.178/2015 è sostituito dal seguente comma:
+
+“3. Nel corso dei tre anni successivi al termine dell’utilizzo dei benefici concessi, i soggetti beneficiari tengono a disposizione della Camera di Commercio tutta la documentazione relativa ai benefici ricevuti.”.
+
+2\. Il comma 5 dell’articolo 12 della Legge n.178/2015 è sostituito dal seguente comma:
+
+“5. Gli importi erogati a titolo di prestito d’onore, qualora non vengano pagate o corrisposte le rate di rimborso previste, costituiscono ai sensi dell’articolo 2 della Legge 25 maggio 2004 n.70 e successive modifiche, somme da iscriversi a ruolo. Competente a esercitare ogni azione per il recupero delle somme concesse è l’Ufficio Industria, Artigianato e Commercio, con il supporto del comitato valutatore e degli organi della Pubblica Amministrazione.”.
+
+Testo originario (Legge 178/2015):
+
+1\. Nei casi di mancata, parziale o difforme realizzazione dei progetti è disposta la revoca da parte del comitato valutatore, in forma totale o parziale, delle agevolazioni previste dalla presente legge.
+
+2\. Con il provvedimento di revoca è disposta la restituzione dell’ammontare dell’agevolazione, maggiorato degli interessi maturati al tasso ufficiale di riferimento.
+
+3\. I benefici previsti dalla presente legge non sono cumulabili con quelli previsti da altre norme. E’ fatta salva l’applicazione dell’abbattimento del reddito minimo previsto ai commi 5 e
+
+### Art.14
+
+(Copertura finanziaria)
+
+1\. I costi inerenti gli incentivi finanziari sono imputati sul cap. 2-4-7226 “Contributi in c/interessi e in conto canoni per gli interventi a sostegno delle attività economiche (art.25 L.n.150/2012 – D.D. n.93/2013).
+
+2\. Per dare attuazione alla presente, i costi inerenti il prestito d’onore e gli incentivi alla stabilizzazione sono imputati su apposito capitolo di bilancio da istituire.
+
+3\. I costi inerenti gli sgravi contributivi sono imputati sul cap. 2-4-7460 “Fondo speciale per interventi sull’occupazione e contenimento costo del lavoro”.
+
+4\. Le somme stanziate e non utilizzate in un esercizio finanziario possono essere utilizzate negli esercizi successivi.
+
+5\. Le domande sono ammesse ai benefici nei limiti degli stanziamenti di bilancio e in ordine di presentazione.
+
+## CAPO V
+
+DISPOSIZIONI FINALI
+
+### Art. 15
+
+(Abrogazioni e norma transitoria)
+
+1\. E' abrogata la Legge 24 novembre 1997 n.134 “Legge a sostegno di nuova imprenditoria giovanile e femminile” e relativo Regolamento 11 febbraio 2011 n.2 e successive modifiche e integrazioni.
+
+2\. Dall’entrata in vigore della presente legge, il Comitato Valutatore di cui all’articolo 9 subentra in tutte le funzioni dell’abrogata Commissione per l’imprenditoria giovanile e femminile. 2 bis. Le pratiche già autorizzate sotto la vigenza della Legge n.134/1997 continuano ad essere soggette alle disposizioni e prescrizioni in essa contenute; i beneficiari sono assoggettati agli obblighi e vincoli previsti al momento dell’autorizzazione e il controllo del rispetto delle prescrizioni permane in capo all’Ufficio Industria, Artigianato e Commercio.
+
+6 dell’articolo 11 della Legge 5 ottobre 2011 n.158, così come modificati dall’articolo 55 della Legge 22 dicembre 2011 n.200.
+
+4\. Per quanto non previsto dalla presente legge in materia di prestiti e di credito agevolato, si applica per quanto compatibile il Decreto Delegato 28 giugno 2013 n.73.
+
+Modifiche legislative:
+
+Decreto - Legge 31 marzo 2016 n.42, Articolo 05:
+
+1\. Il comma 2 dell’articolo 13 della Legge n.178/2015 è sostituito dal seguente comma:
+
+“2. Con il provvedimento di revoca è disposta la restituzione dell’ammontare del prestito d’onore, maggiorato degli interessi maturati al tasso ufficiale di riferimento.”.
+
+Legge 29 settembre 2017 n.115, Articolo 15:
+
+1\. Il comma 3 dell’articolo 13 della Legge n.178/2015 è così modificato:
+
+“3. I benefici previsti dalla presente legge non sono cumulabili con quelli previsti da altre norme. E’ fatta salva l’applicazione dell’abbattimento del reddito minimo previsto ai commi 5 e 6 dell’articolo 11 della Legge 5 ottobre 2011 n.158, così come modificati dall’articolo 55 della Legge 22 dicembre 2011 n.200 e l’applicazione del Decreto Delegato 28 giugno 2010 n.122 e successive modifiche.” .
+
+2 ter. Le domande già depositate in data antecedente all’entrata in vigore della presente legge sono ammesse dal Comitato Valutatore ai benefici previsti dalla Legge n.134/1997, fatta salva la possibilità per gli interessati di richiedere l’accesso ai benefici di cui alla presente legge fino all’esame della relativa pratica.6
+
+### Art. 16
+
+(Entrata in vigore)
+
+1\. La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
+
+Testo originario (Legge 178/2015):
+
+1\. E' abrogata la Legge 24 novembre 1997 n.134 “Legge a sostegno di nuova imprenditoria giovanile e femminile” e relativo Regolamento 11 febbraio 2011 n.2 e successive modifiche e integrazioni.
+
+2\. Le domande presentate a norma della Legge n.134/1997, purché ancora non esaminate dalla Commissione prevista dalla stessa, a richiesta degli interessati, possono essere esaminate dal comitato valutatore ai fini dell’accesso ai benefici previsti dalla presente legge.
+
+Modifiche legislative:
+
+Decreto - Legge 31 marzo 2016 n.42, Articolo Unico:
+
+1\. Il comma 2 dell’articolo 15 della Legge n. 178/2015 è sostituito dai seguenti commi:
+
+“2. Dall’entrata in vigore della presente legge, il Comitato Valutatore di cui all’articolo 9 subentra in tutte le funzioni dell’abrogata Commissione per l’imprenditoria giovanile e femminile. 2 bis. Le pratiche già autorizzate sotto la vigenza della Legge n.134/1997 continuano ad essere soggette alle disposizioni e prescrizioni in essa contenute; i beneficiari sono assoggettati agli obblighi e vincoli previsti al momento dell’autorizzazione e il controllo del rispetto delle prescrizioni permane in capo all’Ufficio Industria, Artigianato e Commercio. 2 ter. Le domande già depositate in data antecedente all’entrata in vigore della presente legge sono ammesse dal Comitato Valutatore ai benefici previsti dalla Legge n.134/1997, fatta salva la possibilità per gli interessati di richiedere l’accesso ai benefici di cui alla presente legge fino all’esame della relativa pratica.”.

@@ -746,91 +746,55 @@ LEGGE 16 DICEMBRE 2013 N.166 IMPOSTA GENERALE SUI REDDITI
 
 (Redditi di lavoro autonomo)
 
-1.
-
-Sono redditi di lavoro autonomo quelli che derivano dall’esercizio di arti e professioni, esercizio inteso come professionale, abituale, ancorché non esclusivo.
+1\. Sono redditi di lavoro autonomo quelli che derivano dall’esercizio di arti e professioni, esercizio inteso come professionale, abituale, ancorché non esclusivo.
 
 L’esercizio da parte di persone fisiche di attività di lavoro autonomo o ad esso assimilate, anche in assenza di licenza, autorizzazione o iscrizione agli albi professionali si considera in ogni caso produttivo di reddito di lavoro autonomo, se ricorrono i predetti presupposti.
 
-2.
+2\. Il reddito di lavoro autonomo è costituito dalla differenza tra tutti i compensi percepiti nel corso dell’anno solare dall’artista o professionista nell’esercizio della sua attività e le spese inerenti a tale attività, purché documentate ed effettivamente sostenute nello stesso anno.
 
-Il reddito di lavoro autonomo è costituito dalla differenza tra tutti i compensi percepiti nel corso dell’anno solare dall’artista o professionista nell’esercizio della sua attività e le spese inerenti a tale attività, purché documentate ed effettivamente sostenute nello stesso anno.
+3\. Sono deducibili le spese per l’acquisto di quei beni strumentali all’esercizio dell’arte o della professione che abbiano un costo unitario inferiore a €1.000,00. Per gli altri beni strumentali, compresi gli immobili, destinati all’esercizio dell’arte o della professione, sono ammesse in deduzione quote annuali da ammortizzare gradualmente nelle modalità e nella misura stabilita nell’Allegato D alla presente legge.
 
-3.
+4\. Le spese relative all’acquisto di beni mobili e servizi, anche per il tramite di contratti di locazione finanziaria, adibiti promiscuamente all’esercizio dell’arte o della professione ed all’uso personale o familiare del contribuente, sono ammortizzabili o deducibili nella misura del 50%. Quando il bene mobile acquistato sia costituito da un automezzo, oppure il servizio acquistato sia relativo ad un automezzo, l’importo massimo sul quale applicare la predetta percentuale è pari ad €50.000,00.
 
-Sono deducibili le spese per l’acquisto di quei beni strumentali all’esercizio dell’arte o della professione che abbiano un costo unitario inferiore a €1.000,00. Per gli altri beni strumentali, compresi gli immobili, destinati all’esercizio dell’arte o della professione, sono ammesse in deduzione quote annuali da ammortizzare gradualmente nelle modalità e nella misura stabilita nell’Allegato D alla presente legge.
+5\. Le spese relative a prestazioni alberghiere ed a somministrazione di alimenti e bevande in pubblici esercizi sono deducibili per un importo complessivamente non superiore al 2% dell’ammontare dei compensi percepiti nel periodo d’imposta. Le predette spese sono integralmente deducibili se addebitate dall’artista o dal professionista al committente attraverso espressa indicazione nella parcella o fattura.
 
-4.
-
-Le spese relative all’acquisto di beni mobili e servizi, anche per il tramite di contratti di locazione finanziaria, adibiti promiscuamente all’esercizio dell’arte o della professione ed all’uso personale o familiare del contribuente, sono ammortizzabili o deducibili nella misura del 50%. Quando il bene mobile acquistato sia costituito da un automezzo, oppure il servizio acquistato sia relativo ad un automezzo, l’importo massimo sul quale applicare la predetta percentuale è pari ad €50.000,00.
-
-5.
-
-Le spese relative a prestazioni alberghiere ed a somministrazione di alimenti e bevande in pubblici esercizi sono deducibili per un importo complessivamente non superiore al 2% dell’ammontare dei compensi percepiti nel periodo d’imposta. Le predette spese sono integralmente deducibili se addebitate dall’artista o dal professionista al committente attraverso espressa indicazione nella parcella o fattura.
-
-6.
-
-Costituiscono, inoltre, reddito di lavoro autonomo:
+6\. Costituiscono, inoltre, reddito di lavoro autonomo:
 
 a) i compensi percepiti, sotto qualsiasi forma o denominazione, dagli amministratori, sindaci o revisori o a seguito di rapporti di collaborazione coordinata e continuativa;
 
 b) i redditi derivanti dall’utilizzazione economica di marchi, di opere dell’ingegno, di diritti d’autore, di invenzioni industriali e simili. b-bis) i compensi derivanti dall’esercizio delle attività individuate all’articolo 3 del Decreto 16 dicembre 1991 n. 153 e successive modifiche.
 
-7.
+7\. Quando i redditi di cui al comma precedente non sono pertinenti all’attività dell’artista o professionista, oppure all’attività d’impresa debbono considerarsi separatamente come redditi diversi e concorrono alla formazione della base imponibile nella misura del 75%.
 
-Quando i redditi di cui al comma precedente non sono pertinenti all’attività dell’artista o professionista, oppure all’attività d’impresa debbono considerarsi separatamente come redditi diversi e concorrono alla formazione della base imponibile nella misura del 75%.
+8\. Per i compensi in natura percepiti dal lavoratore autonomo si applicano le disposizioni di cui al precedente articolo 24, commi 5 e 6, in quanto compatibili.
 
-8.
-
-Per i compensi in natura percepiti dal lavoratore autonomo si applicano le disposizioni di cui al precedente articolo 24, commi 5 e 6, in quanto compatibili.
-
-9.
-
-Si applicano le disposizioni di cui i successivi articoli 31, 33, comma 5, 34, comma 4, e 35 in quanto compatibili. 8
+9\. Si applicano le disposizioni di cui i successivi articoli 31, 33, comma 5, 34, comma 4, e 35 in quanto compatibili. 8
 
 Testo originario (Legge n. 166/2013):
 
-1.
-
-Sono redditi di lavoro autonomo quelli che derivano dall’esercizio di arti e professioni, esercizio inteso come professionale, abituale, ancorché non esclusivo. L’esercizio da parte di persone fisiche di attività di lavoro autonomo o
+1\. Sono redditi di lavoro autonomo quelli che derivano dall’esercizio di arti e professioni, esercizio inteso come professionale, abituale, ancorché non esclusivo. L’esercizio da parte di persone fisiche di attività di lavoro autonomo o
 
 ad esso assimilate, anche in assenza di licenza, autorizzazione o iscrizione agli albi professionali si considera in ogni caso produttivo di reddito di lavoro autonomo, se ricorrono i predetti presupposti.
 
-2.
+2\. Il reddito di lavoro autonomo è costituito dalla differenza tra tutti i compensi percepiti nel corso dell’anno solare dall’artista o professionista nell’esercizio della sua attività e le spese inerenti a tale attività, purché documentate ed effettivamente sostenute nello stesso anno.
 
-Il reddito di lavoro autonomo è costituito dalla differenza tra tutti i compensi percepiti nel corso dell’anno solare dall’artista o professionista nell’esercizio della sua attività e le spese inerenti a tale attività, purché documentate ed effettivamente sostenute nello stesso anno.
+3\. Sono deducibili le spese per l’acquisto di quei beni strumentali all’esercizio dell’arte o della professione che abbiano un costo unitario inferiore a €1.000,00. Per gli altri beni strumentali, compresi gli immobili, destinati all’esercizio dell’arte o della professione, sono ammesse in deduzione quote annuali da ammortizzare gradualmente nelle modalità e nella misura stabilita nell’Allegato D alla presente legge.
 
-3.
+4\. Le spese relative all’acquisto di beni mobili e servizi, anche per il tramite di contratti di locazione finanziaria, adibiti promiscuamente all’esercizio dell’arte o della professione ed all’uso personale o familiare del contribuente, sono ammortizzabili o deducibili nella misura del 50%. Quando il bene mobile acquistato sia costituito da un automezzo, oppure il servizio acquistato sia relativo ad un automezzo, l’importo massimo sul quale applicare la predetta percentuale è pari ad €50.000,00.
 
-Sono deducibili le spese per l’acquisto di quei beni strumentali all’esercizio dell’arte o della professione che abbiano un costo unitario inferiore a €1.000,00. Per gli altri beni strumentali, compresi gli immobili, destinati all’esercizio dell’arte o della professione, sono ammesse in deduzione quote annuali da ammortizzare gradualmente nelle modalità e nella misura stabilita nell’Allegato D alla presente legge.
+5\. Le spese relative a prestazioni alberghiere ed a somministrazione di alimenti e bevande in pubblici esercizi sono deducibili per un importo complessivamente non superiore al 2% dell’ammontare dei compensi percepiti nel periodo d’imposta. Le predette spese sono integralmente deducibili se addebitate dall’artista o dal professionista al committente attraverso espressa indicazione nella parcella o fattura.
 
-4.
-
-Le spese relative all’acquisto di beni mobili e servizi, anche per il tramite di contratti di locazione finanziaria, adibiti promiscuamente all’esercizio dell’arte o della professione ed all’uso personale o familiare del contribuente, sono ammortizzabili o deducibili nella misura del 50%. Quando il bene mobile acquistato sia costituito da un automezzo, oppure il servizio acquistato sia relativo ad un automezzo, l’importo massimo sul quale applicare la predetta percentuale è pari ad €50.000,00.
-
-5.
-
-Le spese relative a prestazioni alberghiere ed a somministrazione di alimenti e bevande in pubblici esercizi sono deducibili per un importo complessivamente non superiore al 2% dell’ammontare dei compensi percepiti nel periodo d’imposta. Le predette spese sono integralmente deducibili se addebitate dall’artista o dal professionista al committente attraverso espressa indicazione nella parcella o fattura.
-
-6.
-
-Costituiscono, inoltre, reddito di lavoro autonomo:
+6\. Costituiscono, inoltre, reddito di lavoro autonomo:
 
 a) i compensi percepiti, sotto qualsiasi forma o denominazione, dagli amministratori, sindaci o revisori o a seguito di rapporti di collaborazione coordinata e continuativa;
 
 b) i redditi derivanti dall’utilizzazione economica di marchi, di opere dell’ingegno, di diritti d’autore, di invenzioni industriali e simili.
 
-7.
+7\. Quando i redditi di cui al comma precedente non sono pertinenti all’attività dell’artista o professionista, oppure all’attività d’impresa debbono considerarsi separatamente come redditi diversi e concorrono alla formazione della base imponibile nella misura del 75%.
 
-Quando i redditi di cui al comma precedente non sono pertinenti all’attività dell’artista o professionista, oppure all’attività d’impresa debbono considerarsi separatamente come redditi diversi e concorrono alla formazione della base imponibile nella misura del 75%.
+8\. Per i compensi in natura percepiti dal lavoratore autonomo si applicano le disposizioni di cui al precedente articolo 24, commi 5 e 6, in quanto compatibili.
 
-8.
-
-Per i compensi in natura percepiti dal lavoratore autonomo si applicano le disposizioni di cui al precedente articolo 24, commi 5 e 6, in quanto compatibili.
-
-9.
-
-Si applicano le disposizioni di cui i successivi articoli 31, 33, comma 5, 34, comma 4, e 35 in quanto compatibili.
+9\. Si applicano le disposizioni di cui i successivi articoli 31, 33, comma 5, 34, comma 4, e 35 in quanto compatibili.
 
 Modifiche legislative:
 

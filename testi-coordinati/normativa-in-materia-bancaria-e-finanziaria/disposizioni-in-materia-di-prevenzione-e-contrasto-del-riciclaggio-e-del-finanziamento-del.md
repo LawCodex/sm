@@ -210,9 +210,7 @@ Decreto-Legge 26 novembre 2010 n. 187, articolo. 1
 
 Decreto-Legge 25 luglio 2013 n.98, articolo 1
 
-1.
-
-L’articolo 1 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 1 del Decreto Legge 11 novembre 2010 n. 181 ed in seguito dall’articolo 1 del Decreto - Legge 26 luglio 2010 n. 134, è modificato come segue:
+1\. L’articolo 1 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 1 del Decreto Legge 11 novembre 2010 n. 181 ed in seguito dall’articolo 1 del Decreto - Legge 26 luglio 2010 n. 134, è modificato come segue:
 
 a) al comma 1, la lettera d) è così riscritta: “d) “banca di comodo”: un soggetto che svolge attività equivalenti a quelle previste all’Allegato 1 della Legge 17 novembre 2005 n.165, che sia stato autorizzato o costituito in una giurisdizione, in cui non ha alcuna presenza fisica, e che non sia collegato ad alcun gruppo finanziario regolamentato, sottoposto a una effettiva vigilanza consolidata. Si ha presenza fisica solo quando la direzione e gestione sono effettivamente esercitate nel Paese. Non equivale a presenza fisica la semplice esistenza nel Paese di un agente locale o di personale non dirigenziale;”
 
@@ -348,21 +346,13 @@ v) partecipazione e fornitura di servizi finanziari correlati all’offerta e/o 
 
 (Costituzione e finalità)
 
-1.
+1\. Presso la Banca Centrale, è istituita l’Agenzia di Informazione Finanziaria per la prevenzione e il contrasto del riciclaggio e del finanziamento del terrorismo.
 
-Presso la Banca Centrale, è istituita l’Agenzia di Informazione Finanziaria per la prevenzione e il contrasto del riciclaggio e del finanziamento del terrorismo.
+2\. L’Agenzia assolve le funzioni assegnate dalla presente legge in piena autonomia e indipendenza.
 
-2.
+3\. I costi per il personale, per la struttura, per l’organizzazione e per il funzionamento dell’Agenzia sono sostenuti dalla Banca Centrale. L’Agenzia utilizza le risorse secondo criteri di economicità e di efficienza.
 
-L’Agenzia assolve le funzioni assegnate dalla presente legge in piena autonomia e indipendenza.
-
-3.
-
-I costi per il personale, per la struttura, per l’organizzazione e per il funzionamento dell’Agenzia sono sostenuti dalla Banca Centrale. L’Agenzia utilizza le risorse secondo criteri di economicità e di efficienza.
-
-4.
-
-L’Agenzia predispone entro il mese di maggio di ogni anno un rendiconto sulla gestione delle risorse ricevute l’anno precedente da Banca Centrale ed entro il mese di settembre di ogni anno un documento di previsione dei costi che verranno sostenuti l’anno successivo. Il rendiconto e il documento di previsione sono trasmessi al Comitato per il Credito e il Risparmio. Il Comitato per il Credito e il Risparmio valuta che le risorse siano programmate e gestite secondo criteri di efficienza ed economicità e trasmette la relativa documentazione alla Banca Centrale per gli adempimenti di competenza. 2
+4\. L’Agenzia predispone entro il mese di maggio di ogni anno un rendiconto sulla gestione delle risorse ricevute l’anno precedente da Banca Centrale ed entro il mese di settembre di ogni anno un documento di previsione dei costi che verranno sostenuti l’anno successivo. Il rendiconto e il documento di previsione sono trasmessi al Comitato per il Credito e il Risparmio. Il Comitato per il Credito e il Risparmio valuta che le risorse siano programmate e gestite secondo criteri di efficienza ed economicità e trasmette la relativa documentazione alla Banca Centrale per gli adempimenti di competenza. 2
 
 #### Art. 3
 
@@ -370,17 +360,11 @@ L’Agenzia predispone entro il mese di maggio di ogni anno un rendiconto sulla 
 
 Il Congresso di Stato, su proposta del Comitato per il Credito e il Risparmio e sentita la Banca Centrale, nomina il Direttore e il Vice Direttore dell’Agenzia tra persone dotate di adeguati requisiti di professionalità, indipendenza e onorabilità. Il mandato del Direttore e del Vice Direttore ha durata di cinque anni ed è rinnovabile una sola volta.
 
-2.
+2\. Il Direttore e il Vice Direttore possono essere sollevati dall’incarico con le medesime modalità previste per la nomina solo se non soddisfano più alle condizioni richieste per l’espletamento delle loro funzioni o si sono resi responsabili di gravi mancanze.
 
-Il Direttore e il Vice Direttore possono essere sollevati dall’incarico con le medesime modalità previste per la nomina solo se non soddisfano più alle condizioni richieste per l’espletamento delle loro funzioni o si sono resi responsabili di gravi mancanze.
+3\. I componenti dell’Agenzia, nell’esercizio delle funzioni previste dalla presente legge, sono pubblici ufficiali e sono tenuti al segreto d’ufficio.
 
-3.
-
-I componenti dell’Agenzia, nell’esercizio delle funzioni previste dalla presente legge, sono pubblici ufficiali e sono tenuti al segreto d’ufficio.
-
-1.
-
-2 TESTO ORIGINARIO (Legge n. 92/2008)
+1\. 2 TESTO ORIGINARIO (Legge n. 92/2008)
 
 #### Art. 2
 
@@ -458,9 +442,7 @@ Decreto-Legge 26 novembre 2010 n. 187, articolo 2
 
 Decreto-Legge 25 luglio 2013 n.98, articolo 2
 
-1.
-
-L’articolo 4 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 2 del Decreto Legge 26 novembre 2010 n.187 (Ratifica Decreto - Legge 11 novembre 2010 n.181), è sostituito dal seguente:
+1\. L’articolo 4 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 2 del Decreto Legge 26 novembre 2010 n.187 (Ratifica Decreto - Legge 11 novembre 2010 n.181), è sostituito dal seguente:
 
 “Art. 4 (Funzioni dell’Agenzia di informazione finanziaria)
 
@@ -516,9 +498,7 @@ f) partecipare ai lavori degli organismi nazionali e internazionali impegnati ne
 
 g) collaborare, anche scambiando informazioni, con autorità nazionali e con le autorità estere di cui all’art.
 
-16.
-
-h) individuare e valutare tendenze, schemi e rischi di riciclaggio e di finanziamento del terrorismo.”.
+16\. h) individuare e valutare tendenze, schemi e rischi di riciclaggio e di finanziamento del terrorismo.”.
 
 c bis) acquisire presso i soggetti designati documenti, informazioni, dati e statistiche, per verificare il rispetto degli obblighi di cui alla presente legge e per valutare il rischio di riciclaggio e finanziamento del terrorismo dei singoli soggetti designati, delle categorie di appartenenza e dei settori ove gli stessi operano; c ter) acquisire documenti, informazioni e dati presso i soggetti nei confronti dei quali è in corso un accertamento per violazione delle norme in materia di trasporto transfrontaliero di denaro contante e strumenti analoghi o per violazione dell’art. 31 comma 1 della presente legge;
 
@@ -658,13 +638,9 @@ Art 5 ter (Caratteristiche dell’attività di vigilanza)
 
 (Modalità ed effetti del blocco)
 
-1.
+1\. Il provvedimento con cui l’Agenzia dispone il blocco di cui alla lettera d) dell’articolo 5 deve essere adottato in forma scritta e deve essere motivato. In caso di urgenza, la motivazione può essere redatta anche successivamente all’esecuzione del blocco, salvo i termini previsti dal successivo comma 5.
 
-Il provvedimento con cui l’Agenzia dispone il blocco di cui alla lettera d) dell’articolo 5 deve essere adottato in forma scritta e deve essere motivato. In caso di urgenza, la motivazione può essere redatta anche successivamente all’esecuzione del blocco, salvo i termini previsti dal successivo comma 5.
-
-2.
-
-L’Agenzia comunica il provvedimento al soggetto che ha la disponibilità dei beni, dei fondi o delle risorse economiche con le modalità ritenute più opportune. Qualora si
+2\. L’Agenzia comunica il provvedimento al soggetto che ha la disponibilità dei beni, dei fondi o delle risorse economiche con le modalità ritenute più opportune. Qualora si
 
 b) analisi strategica, basata sulle informazioni e sui dati in possesso dell’Agenzia o dalla stessa acquisibili volta a individuare tendenze e schemi di riciclaggio e di finanziamento del terrorismo, utile anche alla valutazione nazionale dei rischi di cui al TITOLO II BIS della presente legge.”. 6 TESTO ORIGINARIO Decreto-Legge 11 dicembre 2017 n. 139, articolo 6
 
@@ -682,39 +658,23 @@ b) analisi strategica, basata sulle informazioni e sui dati in possesso dell’A
 
 tratti di beni immobili o di beni mobili registrati, l’Agenzia ordina l’iscrizione del blocco alle Amministrazioni dello Stato che curano la tenuta dei pubblici registri.
 
-3.
+3\. I beni sottoposti a blocco non possono costituire oggetto di alcun atto di trasferimento, disposizione o utilizzo.
 
-I beni sottoposti a blocco non possono costituire oggetto di alcun atto di trasferimento, disposizione o utilizzo.
+4\. Il provvedimento di blocco è immediatamente esecutivo, salvo la convalida di cui al comma successivo.
 
-4.
-
-Il provvedimento di blocco è immediatamente esecutivo, salvo la convalida di cui al comma successivo.
-
-5.
-
-Entro 48 ore dall’esecuzione del blocco, il provvedimento è trasmesso all’Autorità giudiziaria, la quale, entro le successive 96 ore, se ne ricorrono i presupposti, provvede alla convalida. In difetto, dichiara cessata l’efficacia del blocco.
+5\. Entro 48 ore dall’esecuzione del blocco, il provvedimento è trasmesso all’Autorità giudiziaria, la quale, entro le successive 96 ore, se ne ricorrono i presupposti, provvede alla convalida. In difetto, dichiara cessata l’efficacia del blocco.
 
 L’Autorità giudiziaria dichiara cessata l’efficacia del blocco anche nel caso siano venute meno le ragioni cautelari indicate nel provvedimento emesso dall’Agenzia.
 
-6.
+6\. Il provvedimento dell’Autorità giudiziaria è notificato all’Agenzia e al soggetto presso il quale è stato eseguito il blocco.
 
-Il provvedimento dell’Autorità giudiziaria è notificato all’Agenzia e al soggetto presso il quale è stato eseguito il blocco.
+7\. La durata del blocco non può superare i quindici giorni che decorrono dalla data di emissione del provvedimento dell’Agenzia. Tale termine è stabilito dall’Autorità giudiziaria nel provvedimento di convalida ed è prorogabile, su motivata istanza dell’Agenzia, sino a quarantacinque giorni nel caso in cui l’analisi finanziaria sia particolarmente complessa o richieda la collaborazione di unità estere di informazione finanziaria. La richiesta di proroga deve essere depositata presso l’Autorità giudiziaria prima della scadenza del termine. L’Autorità giudiziaria accorda o rifiuta la proroga entro 96 ore dal ricevimento della richiesta e ne dà comunicazione all’Agenzia e al soggetto che ha la disponibilità dei beni, dei fondi o delle risorse economiche.
 
-7.
+8\. Prima della scadenza dei termini stabiliti dal comma precedente, l’Agenzia, con specifica relazione basata sull’analisi finanziaria svolta, indica all’Autorità giudiziaria ogni dato utile per procedere al sequestro ovvero alla revoca del blocco. L’Autorità giudiziaria provvede con decreto motivato entro le successive 96 ore.
 
-La durata del blocco non può superare i quindici giorni che decorrono dalla data di emissione del provvedimento dell’Agenzia. Tale termine è stabilito dall’Autorità giudiziaria nel provvedimento di convalida ed è prorogabile, su motivata istanza dell’Agenzia, sino a quarantacinque giorni nel caso in cui l’analisi finanziaria sia particolarmente complessa o richieda la collaborazione di unità estere di informazione finanziaria. La richiesta di proroga deve essere depositata presso l’Autorità giudiziaria prima della scadenza del termine. L’Autorità giudiziaria accorda o rifiuta la proroga entro 96 ore dal ricevimento della richiesta e ne dà comunicazione all’Agenzia e al soggetto che ha la disponibilità dei beni, dei fondi o delle risorse economiche.
+9\. In caso di cessazione o revoca del blocco, l’Autorità giudiziaria assume i provvedimenti necessari affinché i beni sottoposti a blocco siano restituiti all’avente diritto o, qualora si tratti di beni immobili o mobili registrati, affinché sia iscritta la cancellazione del blocco nei pubblici registri.
 
-8.
-
-Prima della scadenza dei termini stabiliti dal comma precedente, l’Agenzia, con specifica relazione basata sull’analisi finanziaria svolta, indica all’Autorità giudiziaria ogni dato utile per procedere al sequestro ovvero alla revoca del blocco. L’Autorità giudiziaria provvede con decreto motivato entro le successive 96 ore.
-
-9.
-
-In caso di cessazione o revoca del blocco, l’Autorità giudiziaria assume i provvedimenti necessari affinché i beni sottoposti a blocco siano restituiti all’avente diritto o, qualora si tratti di beni immobili o mobili registrati, affinché sia iscritta la cancellazione del blocco nei pubblici registri.
-
-10.
-
-Le disposizioni del presente articolo non impediscono all’Autorità giudiziaria di disporre sequestri in base alle norme processuali vigenti. In tal caso il blocco disposto dall’Agenzia perde efficacia. 7
+10\. Le disposizioni del presente articolo non impediscono all’Autorità giudiziaria di disporre sequestri in base alle norme processuali vigenti. In tal caso il blocco disposto dall’Agenzia perde efficacia. 7
 
 7 TESTO ORIGINARIO (Legge n. 92/2008)
 
@@ -774,21 +734,13 @@ Decreto Delegato 27 febbraio 2020 n.33
 
 (Accesso alle informazioni)
 
-1.
+1\. L’Agenzia accede, anche per via telematica, ai dati e alle informazioni disponibili contenuti in registri, archivi, albi conservati presso la Banca Centrale, le Amministrazioni pubbliche e gli Ordini professionali.
 
-L’Agenzia accede, anche per via telematica, ai dati e alle informazioni disponibili contenuti in registri, archivi, albi conservati presso la Banca Centrale, le Amministrazioni pubbliche e gli Ordini professionali.
+2\. I dati e le informazioni tenuti da Banca Centrale, dalle Amministrazioni pubbliche e dagli Ordini professionali, sono resi immediatamente disponibili all’Agenzia, a semplice richiesta motivata in relazione alle finalità di prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo.
 
-2.
+3\. Per le medesime finalità indicate al comma precedente, l’Agenzia, a semplice richiesta, può accedere ai registri, agli archivi a dati o informazioni conservati presso l’Autorità di polizia e presso il Tribunale Unico, compresi i dati relativi al casellario giudiziale. I dati e le informazioni relativi all’attività giurisdizionale sono rilasciati all’Agenzia, previa autorizzazione del giudice solo a fini di prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo.
 
-I dati e le informazioni tenuti da Banca Centrale, dalle Amministrazioni pubbliche e dagli Ordini professionali, sono resi immediatamente disponibili all’Agenzia, a semplice richiesta motivata in relazione alle finalità di prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo.
-
-3.
-
-Per le medesime finalità indicate al comma precedente, l’Agenzia, a semplice richiesta, può accedere ai registri, agli archivi a dati o informazioni conservati presso l’Autorità di polizia e presso il Tribunale Unico, compresi i dati relativi al casellario giudiziale. I dati e le informazioni relativi all’attività giurisdizionale sono rilasciati all’Agenzia, previa autorizzazione del giudice solo a fini di prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo.
-
-4.
-
-I dati e le informazioni acquisiti dall’Agenzia possono essere utilizzati esclusivamente per l’esercizio delle funzioni previste dalla presente legge.9
+4\. I dati e le informazioni acquisiti dall’Agenzia possono essere utilizzati esclusivamente per l’esercizio delle funzioni previste dalla presente legge.9
 
 2\. La trasmissione dei documenti e degli atti all’Autorità giudiziaria o l’archiviazione disposta ai sensi del comma precedente sono comunicate dall’Agenzia direttamente al soggetto designato che ha eseguito la segnalazione, tranne che la comunicazione possa pregiudicare l’esito delle indagini o la riservatezza sull’identità del segnalante.
 
@@ -826,25 +778,17 @@ Decreto Delegato 27 febbraio 2020 n.33
 
 (Segreto d’ufficio)
 
-1.
+1\. Tutti i dati e le informazioni acquisiti dall’Agenzia sono coperti dal segreto d’ufficio anche nei confronti delle Amministrazioni pubbliche. Sono fatti salvi i casi di comunicazione o scambio di informazioni previsti dalla presente legge. Il segreto d’ufficio non può essere opposto all’Autorità giudiziaria penale.
 
-Tutti i dati e le informazioni acquisiti dall’Agenzia sono coperti dal segreto d’ufficio anche nei confronti delle Amministrazioni pubbliche. Sono fatti salvi i casi di comunicazione o scambio di informazioni previsti dalla presente legge. Il segreto d’ufficio non può essere opposto all’Autorità giudiziaria penale.
-
-2.
-
-L’Agenzia attua, anche attraverso strumenti informatici, misure idonee a garantire che i dati e le informazioni acquisiti non siano accessibili a terzi.
+2\. L’Agenzia attua, anche attraverso strumenti informatici, misure idonee a garantire che i dati e le informazioni acquisiti non siano accessibili a terzi.
 
 #### Art. 10
 
 (Raccolta dei dati statistici e relazione annuale)
 
-1.
+1\. L’Agenzia raccoglie annualmente i dati relativi all’attività svolta in materia di prevenzione e di contrasto del riciclaggio e del finanziamento del terrorismo.
 
-L’Agenzia raccoglie annualmente i dati relativi all’attività svolta in materia di prevenzione e di contrasto del riciclaggio e del finanziamento del terrorismo.
-
-2.
-
-L’Agenzia presenta ogni anno al Consiglio Grande e Generale, per il tramite della Segreteria di Stato per le Finanze e il Bilancio, una relazione concernente l’attività svolta in materia di prevenzione e di contrasto del riciclaggio e del finanziamento del terrorismo.
+2\. L’Agenzia presenta ogni anno al Consiglio Grande e Generale, per il tramite della Segreteria di Stato per le Finanze e il Bilancio, una relazione concernente l’attività svolta in materia di prevenzione e di contrasto del riciclaggio e del finanziamento del terrorismo.
 
 #### Art. 10 bis
 
@@ -882,19 +826,11 @@ Decreto-Legge 26 luglio 2010 n. 134, articolo 3
 
 Le Amministrazioni pubbliche, l’Autorità di polizia, la Banca Centrale e gli Ordini professionali collaborano con l’Agenzia nella prevenzione e nel contrasto del riciclaggio e del finanziamento del terrorismo.
 
-2.
+2\. Le Amministrazioni pubbliche, l’Autorità di polizia, la Banca Centrale e gli Ordini professionali forniscono, su richiesta motivata dell’Agenzia, i dati e le informazioni di cui sono in possesso, utili alla prevenzione e al contrasto del riciclaggio e del finanziamento del terrorismo.
 
-Le Amministrazioni pubbliche, l’Autorità di polizia, la Banca Centrale e gli Ordini professionali forniscono, su richiesta motivata dell’Agenzia, i dati e le informazioni di cui sono in possesso, utili alla prevenzione e al contrasto del riciclaggio e del finanziamento del terrorismo.
+3\. Le Amministrazioni pubbliche, la Banca Centrale, e gli Ordini professionali provvedono a fornire all’Agenzia dati aggiornati sui soggetti designati.
 
-3.
-
-Le Amministrazioni pubbliche, la Banca Centrale, e gli Ordini professionali provvedono a fornire all’Agenzia dati aggiornati sui soggetti designati.
-
-1.
-
-#### Art. 12
-
-(Collaborazione con l’Autorità di polizia)
+1\. Art. 12 (Collaborazione con l’Autorità di polizia)
 
 1\. L’Agenzia, l’Autorità di polizia e l’Ufficio Centrale Nazionale Interpol collaborano anche scambiando informazioni, spontaneamente o su richiesta, stipulando appositi protocolli d’intesa.
 
@@ -950,9 +886,7 @@ Decreto-Legge 11 novembre 2010 n. 187, articoli 3 e 4
 
 #### Art. 4
 
-1.
-
-L’articolo 12, comma 7, della Legge 17 giugno 2008 n. 92, introdotto con l’articolo 2 del Decreto Legge 26 luglio 2010 n. 134, è modificato come segue:
+1\. L’articolo 12, comma 7, della Legge 17 giugno 2008 n. 92, introdotto con l’articolo 2 del Decreto Legge 26 luglio 2010 n. 134, è modificato come segue:
 
 “7. Per le finalità di cui alla presente legge, l’Autorità di Polizia collabora, anche scambiando informazioni con le omologhe autorità estere, sulla base di specifici accordi di cooperazione. L’Autorità di Polizia può altresì scambiare informazioni anche tramite l’Ufficio Centrale Nazionale Interpol.”.
 
@@ -1028,9 +962,7 @@ MODIFICHE LEGISLATIVE:
 
 Decreto-Legge 26 novembre 2010 n. 187, articolo 5
 
-1.
-
-L’articolo 13, comma 1, della Legge 17 giugno 2008 n. 92 è modificato come segue:
+1\. L’articolo 13, comma 1, della Legge 17 giugno 2008 n. 92 è modificato come segue:
 
 “1. Gli Ordini professionali, nell’esercizio delle funzioni assegnate dai rispettivi Statuti, promuovono l’osservanza degli obblighi stabiliti dalla presente legge da parte dei professionisti iscritti.”.
 
@@ -1060,9 +992,7 @@ MODIFICHE LEGISLATIVE:
 
 Decreto-Legge 26 luglio 2010 n. 134, articolo 5
 
-1.
-
-Il primo comma dell’articolo 14 della Legge 17 giugno 2008 n. 92 è sostituito dal seguente:
+1\. Il primo comma dell’articolo 14 della Legge 17 giugno 2008 n. 92 è sostituito dal seguente:
 
 “Art. 14
 
@@ -1092,9 +1022,7 @@ d) un membro del Coordinamento della Vigilanza della Banca Centrale;
 
 Decreto-Legge 26 novembre 2010 n. 187, articolo 6
 
-1.
-
-Il terzo comma dell’articolo 14 della Legge 17 giugno 2008 n. 92 è sostituito dal seguente:
+1\. Il terzo comma dell’articolo 14 della Legge 17 giugno 2008 n. 92 è sostituito dal seguente:
 
 “3. L’Agenzia collabora con Banca Centrale, anche scambiando informazioni, sulla base di appositi protocolli d’intesa.”.
 
@@ -1192,9 +1120,7 @@ MODIFICHE LEGISLATIVE:
 
 Decreto-Legge 26 novembre 2010 N. 187, articolo 7
 
-1.
-
-L’articolo 15 bis della Legge 17 giugno 2008 n. 92, introdotto con l’articolo 4 del Decreto Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
+1\. L’articolo 15 bis della Legge 17 giugno 2008 n. 92, introdotto con l’articolo 4 del Decreto Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
 
 “Art. 15 – bis (Commissione Tecnica di Coordinamento Nazionale)
 
@@ -1280,9 +1206,7 @@ Legge 19 giugno 2009 n. 73, articolo 6 (Collaborazione con le unità estere di i
 
 Decreto-Legge 25 luglio 2013 n.98, articolo 4
 
-1.
-
-L’articolo 16 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 6 della Legge 19 giugno 2009 n.73, è sostituito come segue:
+1\. L’articolo 16 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 6 della Legge 19 giugno 2009 n.73, è sostituito come segue:
 
 “Art. 16 (Collaborazione con autorità estere)
 
@@ -1976,9 +1900,7 @@ l) rivendita e noleggio di beni mobili registrati.
 
 Decreto-Legge 26 novembre 2010 n. 187, articolo 8
 
-1.
-
-L’articolo 19, comma 1, della Legge 17 giugno 2008 n. 92, così come modificato dall’art.6 del Decreto Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
+1\. L’articolo 19, comma 1, della Legge 17 giugno 2008 n. 92, così come modificato dall’art.6 del Decreto Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
 
 “1. Per soggetti non finanziari si intendono i soggetti che esercitano le seguenti attività:
 
@@ -2406,9 +2328,7 @@ Decreto-Legge 26 luglio 2010 n. 134, articolo 9
 
 Decreto-Legge 25 luglio 2013 n.98, articolo 8
 
-1.
-
-Il comma 4, dell’articolo 23, della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 9 del Decreto - Legge 26 luglio 2010 n. 134, è modificato come segue:
+1\. Il comma 4, dell’articolo 23, della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 9 del Decreto - Legge 26 luglio 2010 n. 134, è modificato come segue:
 
 “4. La verifica dell’identità del cliente e del titolare effettivo può essere completata nel più breve tempo possibile, e comunque entro 10 giorni lavorativi, dopo l’instaurazione di un rapporto continuativo, qualora vi
 
@@ -2784,9 +2704,7 @@ MODIFICHE LEGISLATIVE:
 
 Decreto-Legge 25 luglio 2013 n.98, articolo 9
 
-1.
-
-L’articolo 26, della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 11 del Decreto Legge 26 luglio 2010 n. 134, è modificato come segue:
+1\. L’articolo 26, della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 11 del Decreto Legge 26 luglio 2010 n. 134, è modificato come segue:
 
 “Art. 26 (Obblighi semplificati di adeguata verifica della clientela)
 
@@ -2870,9 +2788,7 @@ MODIFICHE LEGISLATIVE:
 
 Decreto-Legge 25 luglio 2013 n.98, articolo 10
 
-1.
-
-È abrogato l’articolo 26 bis della Legge 17 giugno 2008 n. 92, introdotto dall’articolo 10 del Decreto Legge 26 novembre 2010 n.187 (Ratifica Decreto - Legge 11 novembre 2010 n.181).
+1\. È abrogato l’articolo 26 bis della Legge 17 giugno 2008 n. 92, introdotto dall’articolo 10 del Decreto Legge 26 novembre 2010 n.187 (Ratifica Decreto - Legge 11 novembre 2010 n.181).
 
 #### Art. 27
 
@@ -3042,19 +2958,13 @@ iii) esercitare un controllo costante rafforzato sul rapporto d’affari.
 
 (Misure da adottare nei confronti di PEP nazionale o di una organizzazione internazionale)
 
-1.
-
-Dopo l’articolo 27 della Legge 17 giugno 2008 n.92 è introdotto il seguente:
+1\. Dopo l’articolo 27 della Legge 17 giugno 2008 n.92 è introdotto il seguente:
 
 “Art. 27 bis (Obblighi di adeguata verifica della clientela nei confronti di PEP nazionale o di una organizzazione internazionale)
 
-1.
+1\. Quando il cliente sia una persona fisica, che occupa o ha occupato le cariche di cui all’articolo 1 bis dell’Allegato Tecnico alla presente legge, i soggetti designati devono adottare misure ragionevoli per determinare se il cliente o il titolare effettivo ricada nella definizione di PEP. In seguito a tale determinazione, i soggetti designati dovranno quindi valutare il rischio del rapporto e, solo per quei rapporti che risulteranno essere a rischio alto, dovranno adottare misure supplementari di adeguata verifica coerenti con quelle previste per le persone politicamente esposte straniere.
 
-Quando il cliente sia una persona fisica, che occupa o ha occupato le cariche di cui all’articolo 1 bis dell’Allegato Tecnico alla presente legge, i soggetti designati devono adottare misure ragionevoli per determinare se il cliente o il titolare effettivo ricada nella definizione di PEP. In seguito a tale determinazione, i soggetti designati dovranno quindi valutare il rischio del rapporto e, solo per quei rapporti che risulteranno essere a rischio alto, dovranno adottare misure supplementari di adeguata verifica coerenti con quelle previste per le persone politicamente esposte straniere.
-
-2.
-
-Qualora la valutazione del rischio stabilisca che il rapporto della persona politicamente esposta presenti un rischio inferiore, i soggetti designati non sono tenuti ad applicare misure rafforzate di adeguata verifica della clientela.”.
+2\. Qualora la valutazione del rischio stabilisca che il rapporto della persona politicamente esposta presenti un rischio inferiore, i soggetti designati non sono tenuti ad applicare misure rafforzate di adeguata verifica della clientela.”.
 
 MODIFICHE LEGISLATIVE:
 
@@ -3096,9 +3006,7 @@ a) informare l'alta dirigenza prima del pagamento del capitale o della rendita;
 
 b) eseguire controlli più approfonditi sull'intero rapporto d’affari con il contraente e, in particolare, sui legami tra quest’ultimo, il beneficiario e/o i rispettivi titolari effettivi; b bis) valutare in ogni caso se inviare una segnalazione di operazione sospetta all’Agenzia, qualora ne ricorrano i presupposti.
 
-2.
-
-Il presente articolo si applica anche ai familiari di persona politicamente esposta e ai soggetti con il quale le persone politicamente esposte intrattengono notoriamente stretti legami.45
+2\. Il presente articolo si applica anche ai familiari di persona politicamente esposta e ai soggetti con il quale le persone politicamente esposte intrattengono notoriamente stretti legami.45
 
 #### Art. 27 quater
 
@@ -3200,9 +3108,7 @@ MODIFICHE LEGISLATIVE:
 
 Decreto-Legge 25 luglio 2013 n. 98, articolo 11
 
-1.
-
-L’articolo 28 della Legge 17 giugno 2008 n. 92 è modificato come segue:
+1\. L’articolo 28 della Legge 17 giugno 2008 n. 92 è modificato come segue:
 
 “Art. 28 (Divieto di operare con banche di comodo)
 
@@ -3256,9 +3162,7 @@ Decreto-Legge 26 luglio 2014 n. 134, articolo 13
 
 Decreto-Legge 25 luglio 2013 n. 98, articolo 12
 
-1.
-
-L’articolo 29 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 13 del DecretoLegge 26 luglio 2010 n. 134, è modificato come segue:
+1\. L’articolo 29 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 13 del DecretoLegge 26 luglio 2010 n. 134, è modificato come segue:
 
 “Art. 29 (Adempimento degli obblighi di adeguata verifica della clientela attraverso soggetti terzi)
 
@@ -3402,9 +3306,7 @@ Decreto-Legge 11 dicembre 2017 n. 139, articolo 51
 
 (Obbligo di comunicazione all’Agenzia)
 
-1.
-
-I soggetti designati che, nell’ambito della loro attività, vengono a conoscenza di violazioni alle disposizioni di cui agli artt. 30 e 31, ne danno comunicazione all’Agenzia senza ritardo. 53
+1\. I soggetti designati che, nell’ambito della loro attività, vengono a conoscenza di violazioni alle disposizioni di cui agli artt. 30 e 31, ne danno comunicazione all’Agenzia senza ritardo. 53
 
 #### Art. 33
 
@@ -3902,9 +3804,7 @@ Decreto-Legge 26 novembre 2010 n. 187
 
 #### Art. 14
 
-1.
-
-L’articolo 40, comma 1, della Legge 17 giugno 2008 n. 92, è modificato come segue:
+1\. L’articolo 40, comma 1, della Legge 17 giugno 2008 n. 92, è modificato come segue:
 
 #### Art. 40 bis
 
@@ -3920,9 +3820,7 @@ L’articolo 40, comma 1, della Legge 17 giugno 2008 n. 92, è modificato come s
 
 #### Art. 15
 
-1.
-
-L’articolo 40, comma 7, della Legge 17 giugno 2008 n. 92 è modificato come segue:
+1\. L’articolo 40, comma 7, della Legge 17 giugno 2008 n. 92 è modificato come segue:
 
 “7. È consentito comunicare l’avvenuta segnalazione tra i soggetti finanziari con sede nella Repubblica di San Marino appartenenti al medesimo gruppo.”.
 
@@ -4120,9 +4018,7 @@ b) disporre e verificare l’adempimento di tali obblighi da parte dei dipendent
 
 5\. Anche in assenza di segnalazioni interne, il responsabile incaricato antiriciclaggio esegue l’analisi delle operazioni compiute, ricerca ed acquisisce le informazioni e, nei casi previsti dall’articolo 36, trasmette la segnalazione all’Agenzia. 5 bis. Il responsabile incaricato antiriciclaggio deve avere adeguate competenze professionali e gli devono essere attribuiti poteri idonei a svolgere in modo autonomo e indipendente le funzioni ed i compiti assegnati, compreso il potere di accedere ad ogni informazione o documento, senza necessità di autorizzazione. Il responsabile incaricato antiriciclaggio è posto in staff all’organo amministrativo, al titolare dell’impresa individuale oppure al professionista in quanto soggetti designati.
 
-5.
-
-L’Agenzia disciplina con proprie Istruzioni le procedure di nomina, i requisiti, le funzioni ed i compiti, anche ulteriori, del responsabile incaricato antiriciclaggio. 71
+5\. L’Agenzia disciplina con proprie Istruzioni le procedure di nomina, i requisiti, le funzioni ed i compiti, anche ulteriori, del responsabile incaricato antiriciclaggio. 71
 
 71 TESTO ORIGINARIO (Legge n. 92/2008)
 
@@ -4148,17 +4044,13 @@ Decreto-Legge 26 luglio 2010 n. 134
 
 #### Art.17
 
-1.
-
-Il comma 1 dell’articolo 42 della Legge 17 giugno 2008 n. 92 è sostituito dal seguente:
+1\. Il comma 1 dell’articolo 42 della Legge 17 giugno 2008 n. 92 è sostituito dal seguente:
 
 “1. I soggetti finanziari organizzati in forma societaria devono nominare al loro interno un responsabile incaricato al quale compete la ricezione delle segnalazioni interne, l’approfondimento delle stesse e la trasmissione all’Agenzia, qualora le ritenga fondate sulla base dell’insieme degli elementi a sua disposizione, anche desumibili da altre fonti. Le segnalazioni devono essere inoltrate all’Agenzia prive del nominativo della persona fisica che ha rilevato l’operazione sospetta ai sensi dell’articolo 36.”.
 
 #### Art.18
 
-1.
-
-Il comma 4 dell’articolo 42 della Legge 17 giugno 2008 n. 92 è sostituito dal seguente:
+1\. Il comma 4 dell’articolo 42 della Legge 17 giugno 2008 n. 92 è sostituito dal seguente:
 
 “4. Fino alla nomina del responsabile incaricato, tutti i compiti e le responsabilità connesse a tale funzione sono attribuite al legale rappresentante. In caso di assenza anche temporanea del responsabile incaricato tutti i compiti e le responsabilità connesse a tale funzione possono essere attribuite ad un suo sostituto. La nomina del sostituto avviene secondo quanto stabilito nel comma 2 e 3 del presente articolo per il responsabile incaricato. In caso di assenza del responsabile incaricato e del suo sostituto, qualora nominato, tutti i compiti e le responsabilità connesse a tale funzione sono attribuite al legale rappresentante.”.
 
@@ -4222,17 +4114,13 @@ MODIFICHE LEGISLATIVE:
 
 Decreto-Legge 26 novembre 2010 n. 187, articolo 16
 
-1.
-
-L’articolo 43 della Legge 17 giugno 2008 n. 92 è modificato come segue:
+1\. L’articolo 43 della Legge 17 giugno 2008 n. 92 è modificato come segue:
 
 “1. Le società di revisione e gli altri soggetti non finanziari organizzati in forma societaria devono nominare un responsabile incaricato. Tale obbligo può essere derogato nel caso di società il cui numero di dipendenti non superi le tre unità. In caso di nomina, si applicano le disposizioni di cui all’articolo 42.”.
 
 Decreto-Legge 23 luglio 2013 n.98, articolo 15
 
-1.
-
-L’articolo 43 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 16 del Decreto Legge 26 novembre 2010 n.187 (Ratifica Decreto - Legge 11 novembre 2010 n.181), è modificato come segue:
+1\. L’articolo 43 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 16 del Decreto Legge 26 novembre 2010 n.187 (Ratifica Decreto - Legge 11 novembre 2010 n.181), è modificato come segue:
 
 “Art. 43 (Responsabile incaricato presso i soggetti non finanziari)
 
@@ -4272,15 +4160,11 @@ DECRETO - LEGGE 11 dicembre 2017 n.139 (Ratifica Decreto – Legge 29 settembre 
 
 #### Art. 17
 
-1.
-
-Dopo l’articolo 43 della Legge 17 giugno 2008 n. 92 è inserito il seguente:
+1\. Dopo l’articolo 43 della Legge 17 giugno 2008 n. 92 è inserito il seguente:
 
 “Art.43 bis (Sostituzione del responsabile incaricato)
 
-1.
-
-L’Agenzia può ordinare al soggetto designato la sostituzione del responsabile incaricato qualora ritenga non sufficienti i requisiti di onorabilità o le competenze professionali di quest’ultimo.”.
+1\. L’Agenzia può ordinare al soggetto designato la sostituzione del responsabile incaricato qualora ritenga non sufficienti i requisiti di onorabilità o le competenze professionali di quest’ultimo.”.
 
 MODIFICHE LEGISLATIVE:
 
@@ -4336,9 +4220,7 @@ Decreto-Legge 26 luglio 2010 n. 134, articolo 19
 
 Decreto-Legge 26 novembre 2010 n. 187, articolo 18
 
-1.
-
-L’articolo 44, comma 7, della Legge 17 giugno 2008 n. 92, come modificato dall’articolo 19 del Decreto Legge 26 luglio 2010 n. 134, è modificato come segue:
+1\. L’articolo 44, comma 7, della Legge 17 giugno 2008 n. 92, come modificato dall’articolo 19 del Decreto Legge 26 luglio 2010 n. 134, è modificato come segue:
 
 “7. I soggetti finanziari devono mettere in atto procedure di selezione del personale e dei collaboratori, atte a garantire livelli elevati di professionalità per l'assunzione degli stessi, in ragione del ruolo e delle funzioni da svolgere.”.
 
@@ -4354,23 +4236,17 @@ Decreto-Legge 25 luglio 2013 n. 98, articolo 16
 
 3\. Gli obblighi di formazione di cui ai commi 1 e 2 si applicano anche ai titolari di imprese individuali, agli amministratori ovvero ai legali rappresentanti di società rientranti nelle categorie di soggetti non finanziari di cui all’art. 19.
 
-1.
-
-Il comma 3 dell’articolo 44 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 19 del Decreto-Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
+1\. Il comma 3 dell’articolo 44 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 19 del Decreto-Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
 
 “3. I soggetti designati devono promuovere la formazione continua del personale anche mediante la partecipazione a specifici programmi di formazione in materia di prevenzione e di contrasto del riciclaggio e del finanziamento del terrorismo. Tale formazione deve garantire che i dipendenti siano informati dei nuovi sviluppi in materia di riciclaggio e finanziamento del terrorismo, comprese le informazioni sulle tecniche, metodi e tendenze e abbiano un’adeguata comprensione della normativa vigente e delle istruzioni emanate dall’Agenzia, con particolare riferimento agli obblighi in materia di adeguata verifica della clientela e di segnalazione di operazioni sospette.”.
 
 #### Art. 17
 
-1.
-
-Il comma 7 dell’articolo 44 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 19 del Decreto - Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
+1\. Il comma 7 dell’articolo 44 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 19 del Decreto - Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
 
 “7. I soggetti designati devono adottare procedure rigorose di selezione del personale e dei collaboratori in relazione al ruolo, alle funzioni o alle mansioni cui sono destinati. I soggetti designati devono altresì adottare procedure che impongano controlli successivi all’assunzione che dovranno essere ripetuti nel corso del rapporto di lavoro.”.
 
-1.
-
-Dopo il comma 7 dell’articolo 44 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 19 del Decreto - Legge 26 luglio 2010 n. 134 e dal precedente comma, è aggiunto il seguente comma:
+1\. Dopo il comma 7 dell’articolo 44 della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 19 del Decreto - Legge 26 luglio 2010 n. 134 e dal precedente comma, è aggiunto il seguente comma:
 
 “8. Le politiche, le procedure ed i controlli interni di cui ai precedenti commi devono riguardare, tra l’altro, gli obblighi di adeguata verifica della clientela, gli obblighi di registrazione e segnalazione di operazione sospetta, nonché l’individuazione di operazioni che, per la complessità, per l’importo insolitamente elevato, per lo schema insolito di esecuzione o per l’assenza di uno scopo lecito o di una giustificazione economica apparente, necessitano di una concreta verifica di compatibilità rispetto al profilo del cliente stesso.”.
 
@@ -5022,13 +4898,9 @@ i) gli articoli 64 e 65 della Legge 17 giugno 2008 n.92.
 
 3\. In ogni caso di revoca dell’ordine di congelamento o di accoglimento dell’istanza di esenzione dal congelamento di cui al comma 1 dell’articolo 8 del Decreto Delegato 31 ottobre 2008 n.137, l’amministrazione dei beni o fondi cessa, interamente o parzialmente, a norma degli articoli 16, 18 e 19 della presente legge.
 
-3.
+3\. I Comandanti delle Forze dell’Ordine garantiscono all’Agenzia la presenza di personale adeguato per numero e preparazione al perseguimento dei compiti assegnati dalla presente legge.
 
-I Comandanti delle Forze dell’Ordine garantiscono all’Agenzia la presenza di personale adeguato per numero e preparazione al perseguimento dei compiti assegnati dalla presente legge.
-
-4.
-
-I funzionari di polizia applicati presso l’Agenzia sono esonerati dai compiti e dagli obblighi derivanti dai regolamenti dei Corpi di appartenenza non inerenti alle funzioni di polizia giudiziaria, salvo esigenze eccezionali che dovranno essere segnalate all’Agenzia.
+4\. I funzionari di polizia applicati presso l’Agenzia sono esonerati dai compiti e dagli obblighi derivanti dai regolamenti dei Corpi di appartenenza non inerenti alle funzioni di polizia giudiziaria, salvo esigenze eccezionali che dovranno essere segnalate all’Agenzia.
 
 #### Art. 52
 
@@ -5182,13 +5054,9 @@ Decreto-Legge 11 dicembre 2017 n. 139, articolo 80
 
 (Atti diretti ad impedire le segnalazioni)
 
-1.
+1\. Salvo che il fatto costituisca più grave reato, è punito con la prigionia e con la multa a giorni di secondo grado, chiunque usa violenza, minaccia ovvero dà, offre o promette qualsiasi utilità allo scopo di ritardare o impedire che una segnalazione di operazione sospetta, anche non eseguita, sia trasmessa all’Agenzia o all’Autorità giudiziaria.
 
-Salvo che il fatto costituisca più grave reato, è punito con la prigionia e con la multa a giorni di secondo grado, chiunque usa violenza, minaccia ovvero dà, offre o promette qualsiasi utilità allo scopo di ritardare o impedire che una segnalazione di operazione sospetta, anche non eseguita, sia trasmessa all’Agenzia o all’Autorità giudiziaria.
-
-2.
-
-Si applica la prigionia di secondo grado a chiunque usa violenza, minaccia, ovvero dà, offre o promette utilità dopo che la segnalazione è stata trasmessa all’Agenzia o all’Autorità giudiziaria.
+2\. Si applica la prigionia di secondo grado a chiunque usa violenza, minaccia, ovvero dà, offre o promette utilità dopo che la segnalazione è stata trasmessa all’Agenzia o all’Autorità giudiziaria.
 
 #### Art. 57
 
@@ -5340,13 +5208,9 @@ Decreto-Legge 30 Dicembre 2015 n.197, articolo 8
 
 (Inosservanza o ritardo nell’esecuzione del provvedimento di blocco)
 
-1.
+1\. Chiunque non osserva o ritarda il provvedimento con cui l’Agenzia dispone il blocco di cui all’articolo 5, comma 1, lettera d) della presente legge, è punito con l’arresto di primo grado o con la multa a giorni di secondo grado. Si applica altresì la sanzione amministrativa pecuniaria da 2.000 a 40.000 euro e l’interdizione di 3° grado.
 
-Chiunque non osserva o ritarda il provvedimento con cui l’Agenzia dispone il blocco di cui all’articolo 5, comma 1, lettera d) della presente legge, è punito con l’arresto di primo grado o con la multa a giorni di secondo grado. Si applica altresì la sanzione amministrativa pecuniaria da 2.000 a 40.000 euro e l’interdizione di 3° grado.
-
-2.
-
-Qualora la violazione degli obblighi avvenga ricorrendo a mezzi fraudolenti, le pene sono aumentate di un grado e la sanzione pecuniaria è raddoppiata. 98
+2\. Qualora la violazione degli obblighi avvenga ricorrendo a mezzi fraudolenti, le pene sono aumentate di un grado e la sanzione pecuniaria è raddoppiata. 98
 
 1\. Chiunque compie atti diretti ad eludere le misure di congelamento di cui all’articolo 46 è punito con la prigionia, con la multa a giorni e con l’interdizione di terzo grado. Si applica altresì la sanzione amministrativa pecuniaria fino al doppio del valore dei fondi o delle risorse economiche oggetto di congelamento.”.
 
@@ -5398,27 +5262,17 @@ VIOLAZIONI AMMINISTRATIVE99
 
 (Violazione degli obblighi di adeguata verifica della clientela)
 
-1.
-
-La violazione degli obblighi di adeguata verifica della clientela stabiliti dalla presente legge è punita con la sanzione amministrativa pecuniaria da 5.000,00 a
+1\. La violazione degli obblighi di adeguata verifica della clientela stabiliti dalla presente legge è punita con la sanzione amministrativa pecuniaria da 5.000,00 a
 
 70.000,00 euro.
 
-2.
+2\. Qualora la violazione degli obblighi di adeguata verifica della clientela avvenga ricorrendo a mezzi fraudolenti, la sanzione amministrativa pecuniaria è raddoppiata.
 
-Qualora la violazione degli obblighi di adeguata verifica della clientela avvenga ricorrendo a mezzi fraudolenti, la sanzione amministrativa pecuniaria è raddoppiata.
+3\. La violazione degli obblighi di astensione di cui all’articolo 24 è punita con la sanzione amministrativa pecuniaria da 5.000,00 a 80.000,00 euro.
 
-3.
+4\. Salvo quanto previsto dall’articolo 54, la violazione degli obblighi di fornire informazioni necessarie per consentire l’adempimento degli obblighi di adeguata verifica della clientela è punita con la sanzione amministrativa pecuniaria da 5.000,00 a 80.000,00 euro.
 
-La violazione degli obblighi di astensione di cui all’articolo 24 è punita con la sanzione amministrativa pecuniaria da 5.000,00 a 80.000,00 euro.
-
-4.
-
-Salvo quanto previsto dall’articolo 54, la violazione degli obblighi di fornire informazioni necessarie per consentire l’adempimento degli obblighi di adeguata verifica della clientela è punita con la sanzione amministrativa pecuniaria da 5.000,00 a 80.000,00 euro.
-
-5.
-
-Qualora la violazione di cui ai commi precedenti ostacoli, ritardi o impedisca il controllo da parte dell’Autorità di Vigilanza, oltre alle sanzioni previste nel presente articolo, si applica la pena della multa di cui all’art. 84 del codice penale. 100 “Art.60-bis (Inosservanza o ritardo nell’esecuzione del provvedimento di blocco)
+5\. Qualora la violazione di cui ai commi precedenti ostacoli, ritardi o impedisca il controllo da parte dell’Autorità di Vigilanza, oltre alle sanzioni previste nel presente articolo, si applica la pena della multa di cui all’art. 84 del codice penale. 100 “Art.60-bis (Inosservanza o ritardo nell’esecuzione del provvedimento di blocco)
 
 1\. Chiunque non osserva o ritarda il provvedimento con cui l’Agenzia dispone il blocco di cui all’articolo 5, comma 1, lettera d) della presente legge, è punito con l’arresto di primo grado o con la multa a giorni di secondo grado. Si applica altresì la sanzione amministrativa pecuniaria da 2.000,00 a 40.000,00 euro e l’interdizione di 3° grado.
 
@@ -5478,9 +5332,7 @@ Decreto-Legge 26 luglio 2010 n. 134, articolo 23
 
 Decreto-Legge 26 novembre 2010 n. 187, articolo 24
 
-1.
-
-L’articolo 61 della Legge 17 giugno 2008 n. 92, come modificato dall’articolo 23 del Decreto Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
+1\. L’articolo 61 della Legge 17 giugno 2008 n. 92, come modificato dall’articolo 23 del Decreto Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
 
 “Art. 61 (Violazione degli obblighi di adeguata verifica della clientela)
 
@@ -5516,13 +5368,9 @@ La violazione degli obblighi di registrazione e di conservazione stabiliti dall�
 
 70.000,00 euro. Con la medesima sanzione amministrativa è altresì punita la violazione degli obblighi di cui all’articolo 35.
 
-2.
+2\. Qualora la violazione degli obblighi di registrazione avvenga ricorrendo a mezzi fraudolenti, la sanzione pecuniaria è raddoppiata.101
 
-Qualora la violazione degli obblighi di registrazione avvenga ricorrendo a mezzi fraudolenti, la sanzione pecuniaria è raddoppiata.101
-
-1.
-
-2008 n.92 e sue successive modifiche è abrogato. 101 TESTO ORIGINARIO (Legge n. 92/2008)
+1\. 2008 n.92 e sue successive modifiche è abrogato. 101 TESTO ORIGINARIO (Legge n. 92/2008)
 
 #### Art. 62
 
@@ -5560,9 +5408,7 @@ Decreto-Legge 26 luglio 2010 n. 134, articolo 24
 
 Decreto-Legge 26 novembre 2010 n. 187, articolo 25
 
-1.
-
-L’articolo 62 della Legge 17 giugno 2008 n. 92, come modificato dall’art. 24 del Decreto Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
+1\. L’articolo 62 della Legge 17 giugno 2008 n. 92, come modificato dall’art. 24 del Decreto Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
 
 “Art. 62 (Violazione degli obblighi di registrazione e di conservazione)
 
@@ -5634,13 +5480,9 @@ Decreto-Legge 26 novembre 2010 n. 187, articolo 27
 
 (Violazione del divieto di tenere conti anonimi e violazioni delle limitazioni all’uso del contante e di titoli al portatore)
 
-1.
+1\. La violazione del divieto di tenere conti anonimi o con intestazioni fittizie è punita con la sanzione amministrativa pecuniaria da 2.000 a 50.000 euro.
 
-La violazione del divieto di tenere conti anonimi o con intestazioni fittizie è punita con la sanzione amministrativa pecuniaria da 2.000 a 50.000 euro.
-
-2.
-
-La violazione dell’articolo 31, commi 1 e 2 è punita con la sanzione amministrativa pecuniaria fino alla metà dell’importo di ciascuna operazione.
+2\. La violazione dell’articolo 31, commi 1 e 2 è punita con la sanzione amministrativa pecuniaria fino alla metà dell’importo di ciascuna operazione.
 
 3\. [SOPPRESSO]105
 
@@ -5778,9 +5620,7 @@ i) gli articoli 64 e 65 della Legge 17 giugno 2008 n.92.
 
 #### Art. 24
 
-1.
-
-Dopo l’articolo 65 della Legge 17 giugno 2008 n. 92 è introdotto il seguente:
+1\. Dopo l’articolo 65 della Legge 17 giugno 2008 n. 92 è introdotto il seguente:
 
 “Art. 65 bis (Violazioni degli obblighi di monitoraggio)
 
@@ -5814,9 +5654,7 @@ Dopo l’articolo 65 della Legge 17 giugno 2008 n. 92 è introdotto il seguente:
 
 (Violazioni delle istruzioni e delle circolari)
 
-1.
-
-Salvo che il fatto non costituisca reato o più grave violazione amministrativa, l’inosservanza delle Istruzioni e delle Circolari emanate dall’Agenzia, è punita con la sanzione amministrativa pecuniaria da 3.000 a 100.000 euro. 112
+1\. Salvo che il fatto non costituisca reato o più grave violazione amministrativa, l’inosservanza delle Istruzioni e delle Circolari emanate dall’Agenzia, è punita con la sanzione amministrativa pecuniaria da 3.000 a 100.000 euro. 112
 
 111 TESTO ORIGINARIO (Legge n. 92/2008)
 
@@ -5956,21 +5794,13 @@ b) una sanzione consistente nella revoca o la sospensione dell’autorizzazione 
 
 (Responsabilità solidale)
 
-1.
+1\. Se la violazione è commessa da persona soggetta all’altrui autorità, direzione o controllo, la persona rivestita dell’autorità o incaricata della direzione o del controllo è obbligata in solido con l’autore della violazione al pagamento della somma da questo dovuta, salvo che provi di non aver potuto impedire il fatto.
 
-Se la violazione è commessa da persona soggetta all’altrui autorità, direzione o controllo, la persona rivestita dell’autorità o incaricata della direzione o del controllo è obbligata in solido con l’autore della violazione al pagamento della somma da questo dovuta, salvo che provi di non aver potuto impedire il fatto.
+2\. Se la violazione è commessa dal rappresentante, dai membri del Consiglio di Amministrazione o dai Sindaci, da un consulente che svolga attività di controllo esternalizzate con competenze in materia di antiriciclaggio, da un collaboratore o dal dipendente di una persona giuridica o di un ente privo di personalità giuridica, di un imprenditore individuale o di un professionista nell’esercizio delle proprie funzioni o incombenze, la persona giuridica, l’ente, l’imprenditore o il professionista sono obbligati in solido con l’autore della violazione al pagamento della somma da questo dovuta.
 
-2.
+3\. Nei casi previsti dai commi precedenti chi ha pagato ha l’obbligo di rivalersi nei confronti dell’autore della violazione.
 
-Se la violazione è commessa dal rappresentante, dai membri del Consiglio di Amministrazione o dai Sindaci, da un consulente che svolga attività di controllo esternalizzate con competenze in materia di antiriciclaggio, da un collaboratore o dal dipendente di una persona giuridica o di un ente privo di personalità giuridica, di un imprenditore individuale o di un professionista nell’esercizio delle proprie funzioni o incombenze, la persona giuridica, l’ente, l’imprenditore o il professionista sono obbligati in solido con l’autore della violazione al pagamento della somma da questo dovuta.
-
-3.
-
-Nei casi previsti dai commi precedenti chi ha pagato ha l’obbligo di rivalersi nei confronti dell’autore della violazione.
-
-4.
-
-La responsabilità solidale di cui ai commi 1 e 2 sussiste anche quando l’autore della violazione non è stato individuato. 115
+4\. La responsabilità solidale di cui ai commi 1 e 2 sussiste anche quando l’autore della violazione non è stato individuato. 115
 
 115 TESTO ORIGINARIO (Legge n. 92/2008)
 
@@ -6064,9 +5894,7 @@ b) gli ulteriori soggetti passibili di procedura sanzionatoria che, avendo rilev
 
 c) i soggetti che hanno provveduto alle comunicazioni ai sensi degli articoli 40-ter e 40-sexies.
 
-3.
-
-Non sono soggette a sanzione quelle specifiche azioni od omissioni che essendo già state oggetto di analisi in occasione di precedenti ispezioni da parte dell’Agenzia, non siano state ritenute concretare una violazione, fatti salvi i casi di successiva acquisizione di nuovi documenti o nuove informazioni riferibili alle summenzionate azioni od omissioni.
+3\. Non sono soggette a sanzione quelle specifiche azioni od omissioni che essendo già state oggetto di analisi in occasione di precedenti ispezioni da parte dell’Agenzia, non siano state ritenute concretare una violazione, fatti salvi i casi di successiva acquisizione di nuovi documenti o nuove informazioni riferibili alle summenzionate azioni od omissioni.
 
 4\. Il procedimento sanzionatorio:
 
@@ -6074,33 +5902,19 @@ a) è avviato dall’Agenzia entro 9 mesi dalla rilevazione delle violazioni med
 
 b) si conclude - tenuto conto delle eventuali controdeduzioni presentate dai soggetti interessati nel termine di 30 giorni eventualmente prorogabili su disposizione dell’Agenzia - entro 90 giorni dall’avvio del procedimento medesimo, cioè dalla notifica della contestazione di cui sopra, con l’archiviazione o con l’irrogazione della sanzione amministrativa mediante provvedimento motivato contenente l’ingiunzione di pagamento. In caso di concessione di proroga per la presentazione delle controdeduzioni, il predetto termine di 90 giorni è aumentato del numero di giorni di proroga concessi.
 
-5.
+5\. La sanzione amministrativa è estinta dal soggetto sanzionato mediante pagamento all’Agenzia entro 60 giorni dalla notifica del provvedimento sanzionatorio.
 
-La sanzione amministrativa è estinta dal soggetto sanzionato mediante pagamento all’Agenzia entro 60 giorni dalla notifica del provvedimento sanzionatorio.
+6\. La facoltà di estinguere la sanzione mediante oblazione volontaria compete al responsabile della violazione ed è esercitata con il pagamento di somma pari alla metà della sanzione comminata.
 
-6.
+7\. Contro il provvedimento sanzionatorio è ammesso ricorso giurisdizionale al Giudice Amministrativo, nelle forme e nei termini di cui al Titolo II della Legge 28 giugno 1989 n. 68, fatta salva la possibilità per il Giudice di derogare, nell’ambito dei ricorsi avverso le sanzioni comminate dall’Agenzia, a quanto previsto dall’articolo 18, comma 4 della legge medesima.
 
-La facoltà di estinguere la sanzione mediante oblazione volontaria compete al responsabile della violazione ed è esercitata con il pagamento di somma pari alla metà della sanzione comminata.
+8\. La proposizione di ricorso giurisdizionale a mente del precedente comma 7 produce effetto sospensivo del provvedimento sanzionatorio che diviene, pertanto, efficace ed esecutivo col passaggio in giudicato della sentenza di rigetto del ricorso.
 
-7.
+9\. Scaduto il termine per il pagamento, qualora né il soggetto sanzionato né la persona giuridica solidalmente responsabilmente abbiano provveduto al pagamento della sanzione, l’Agenzia si avvale, per l’incasso delle somme, della procedura di riscossione tramite ruolo ai sensi della Legge 25 maggio 2004 n.70. L’esazione delle sanzioni amministrative pecuniarie avverrà pertanto con le medesime modalità dell’esazione delle tasse, imposte, tributi, sanzioni e ogni altra entrata di spettanza dell’Ecc.ma Camera, degli Enti e delle Aziende Autonome dello Stato.
 
-Contro il provvedimento sanzionatorio è ammesso ricorso giurisdizionale al Giudice Amministrativo, nelle forme e nei termini di cui al Titolo II della Legge 28 giugno 1989 n. 68, fatta salva la possibilità per il Giudice di derogare, nell’ambito dei ricorsi avverso le sanzioni comminate dall’Agenzia, a quanto previsto dall’articolo 18, comma 4 della legge medesima.
+10\. L’Agenzia trasferisce all’Ecc.ma Camera quanto incassato a titolo di sanzioni, al netto delle eventuali spese legali sostenute per resistere ai ricorsi di cui al superiore comma 7; tali importi saranno imputati su uno specifico capitolo del Bilancio dello Stato.
 
-8.
-
-La proposizione di ricorso giurisdizionale a mente del precedente comma 7 produce effetto sospensivo del provvedimento sanzionatorio che diviene, pertanto, efficace ed esecutivo col passaggio in giudicato della sentenza di rigetto del ricorso.
-
-9.
-
-Scaduto il termine per il pagamento, qualora né il soggetto sanzionato né la persona giuridica solidalmente responsabilmente abbiano provveduto al pagamento della sanzione, l’Agenzia si avvale, per l’incasso delle somme, della procedura di riscossione tramite ruolo ai sensi della Legge 25 maggio 2004 n.70. L’esazione delle sanzioni amministrative pecuniarie avverrà pertanto con le medesime modalità dell’esazione delle tasse, imposte, tributi, sanzioni e ogni altra entrata di spettanza dell’Ecc.ma Camera, degli Enti e delle Aziende Autonome dello Stato.
-
-10.
-
-L’Agenzia trasferisce all’Ecc.ma Camera quanto incassato a titolo di sanzioni, al netto delle eventuali spese legali sostenute per resistere ai ricorsi di cui al superiore comma 7; tali importi saranno imputati su uno specifico capitolo del Bilancio dello Stato.
-
-11.
-
-Le violazioni amministrative pecuniarie definite dalla presente legge sono comprese nell’elenco che annualmente il Giudice Amministrativo d’Appello propone ai sensi dell’articolo 32 della Legge 28 giugno 1989 n.68.”. 117 117 TESTO ORIGINARIO (Legge n. 92/2008)
+11\. Le violazioni amministrative pecuniarie definite dalla presente legge sono comprese nell’elenco che annualmente il Giudice Amministrativo d’Appello propone ai sensi dell’articolo 32 della Legge 28 giugno 1989 n.68.”. 117 117 TESTO ORIGINARIO (Legge n. 92/2008)
 
 #### Art. 72
 
@@ -6296,13 +6110,9 @@ f) l’indicazione della facoltà per i soggetti destinatari delle contestazioni
 
 g) il termine di conclusione del procedimento amministrativo, ai sensi di quanto previsto dal superiore articolo 72, comma 4, lettera b).
 
-8.
+8\. L’atto di contestazione delle violazioni, così come sopra dettagliato e notificato, può costituire parte integrante del verbale ispettivo con il quale le medesime violazioni contestate vengono rilevate.
 
-L’atto di contestazione delle violazioni, così come sopra dettagliato e notificato, può costituire parte integrante del verbale ispettivo con il quale le medesime violazioni contestate vengono rilevate.
-
-9.
-
-La presentazione delle controdeduzioni, coerentemente al principio di difesa di cui all’articolo 15 della Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell’Ordinamento Sammarinese, è un diritto di ciascun destinatario del procedimento sanzionatorio, incluse le persone giuridiche solidamente obbligate, esercitabile entro 30 giorni dalla data di notifica dell’atto di contestazione. I soggetti interessati possono richiedere, con specifica istanza debitamente motivata e firmata dagli stessi, una proroga non superiore a 30 giorni, che può essere concessa, secondo criteri di proporzionalità, anche in relazione alle caratteristiche operativo-dimensionali del soggetto designato e alla complessità degli addebiti. La mancata presentazione di documenti difensivi non pregiudica il seguito della procedura sanzionatoria. Le controdeduzioni possono avere carattere individuale ovvero essere sottoscritte da tutti i soggetti interessati, ivi compreso il legale rappresentante della persona giuridica di appartenenza, o da alcuni di essi. Gli interessati possono altresì indicare nelle controdeduzioni l’indirizzo al quale inviare le successive comunicazioni relative alla
+9\. La presentazione delle controdeduzioni, coerentemente al principio di difesa di cui all’articolo 15 della Dichiarazione dei Diritti dei Cittadini e dei Principi Fondamentali dell’Ordinamento Sammarinese, è un diritto di ciascun destinatario del procedimento sanzionatorio, incluse le persone giuridiche solidamente obbligate, esercitabile entro 30 giorni dalla data di notifica dell’atto di contestazione. I soggetti interessati possono richiedere, con specifica istanza debitamente motivata e firmata dagli stessi, una proroga non superiore a 30 giorni, che può essere concessa, secondo criteri di proporzionalità, anche in relazione alle caratteristiche operativo-dimensionali del soggetto designato e alla complessità degli addebiti. La mancata presentazione di documenti difensivi non pregiudica il seguito della procedura sanzionatoria. Le controdeduzioni possono avere carattere individuale ovvero essere sottoscritte da tutti i soggetti interessati, ivi compreso il legale rappresentante della persona giuridica di appartenenza, o da alcuni di essi. Gli interessati possono altresì indicare nelle controdeduzioni l’indirizzo al quale inviare le successive comunicazioni relative alla
 
 procedura sanzionatoria. Al fine di assicurare l’economicità dell’azione amministrativa, le controdeduzioni devono essere svolte in modo essenziale e sintetico, rispecchiando l’ordine delle contestazioni e allegando unicamente documentazione:
 
@@ -6320,9 +6130,7 @@ b) verifica che sia correttamente instaurato il contraddittorio con i destinatar
 
 c) procede con l’analisi di tutti gli elementi istruttori acquisiti agli atti del procedimento sanzionatorio ed effettua, alla luce delle difese svolte dagli interessati, dei documenti di parte e del complesso delle informazioni raccolte, una ponderata valutazione degli addebiti contestati, della rilevanza delle violazioni e della responsabilità personale, secondo i criteri predeterminati al superiore articolo 72, comma 1.
 
-11.
-
-L’adozione del provvedimento sanzionatorio o di archiviazione è di competenza del Direttore o del Vice Direttore dell’Agenzia su proposta di coloro che, all’interno dell’Agenzia medesima, ne hanno curato l’istruttoria. Il provvedimento deve essere adottato entro 60 giorni dalla scadenza del termine, originario o prorogato, per la presentazione delle controdeduzioni da parte del soggetto che ha ricevuto la contestazione.
+11\. L’adozione del provvedimento sanzionatorio o di archiviazione è di competenza del Direttore o del Vice Direttore dell’Agenzia su proposta di coloro che, all’interno dell’Agenzia medesima, ne hanno curato l’istruttoria. Il provvedimento deve essere adottato entro 60 giorni dalla scadenza del termine, originario o prorogato, per la presentazione delle controdeduzioni da parte del soggetto che ha ricevuto la contestazione.
 
 12\. L’archiviazione del procedimento è parimenti comunicata ai soggetti interessati.
 
@@ -6338,17 +6146,11 @@ d) l’esposizione dei criteri adottati per la determinazione della sanzione che
 
 e) l’indicazione del termine di ricorso e dell’Autorità competente da adire.
 
-14.
+14\. La notifica del provvedimento sanzionatorio avviene conformemente a quanto previsto dal superiore comma 6 per la contestazione delle violazioni.
 
-La notifica del provvedimento sanzionatorio avviene conformemente a quanto previsto dal superiore comma 6 per la contestazione delle violazioni.
+15\. Alla notifica può seguire la pubblicazione del provvedimento ai sensi del precedente articolo 73, inclusa quella nell’apposita pagina del sito internet e nel Bollettino Ufficiale – Parte Amministrativa e Inserzioni. La pubblicazione o meno del provvedimento sanzionatorio è oggetto di specifica previsione all’interno del provvedimento medesimo.
 
-15.
-
-Alla notifica può seguire la pubblicazione del provvedimento ai sensi del precedente articolo 73, inclusa quella nell’apposita pagina del sito internet e nel Bollettino Ufficiale – Parte Amministrativa e Inserzioni. La pubblicazione o meno del provvedimento sanzionatorio è oggetto di specifica previsione all’interno del provvedimento medesimo.
-
-16.
-
-Il pagamento della sanzione può essere eseguito nella misura ridotta prevista per l’oblazione volontaria se effettuato entro il termine di cui all’articolo 72 comma 5.
+16\. Il pagamento della sanzione può essere eseguito nella misura ridotta prevista per l’oblazione volontaria se effettuato entro il termine di cui all’articolo 72 comma 5.
 
 L’iscrizione a ruolo di cui al precedente articolo 72, comma 9, avviene non prima di sei mesi dalla notifica del provvedimento sanzionatorio per il doppio dell’ammontare della sanzione. Nei casi di proposizione di ricorso amministrativo, i sei mesi decorrono dalla data di conclusione del procedimento giudiziario.
 
@@ -6510,33 +6312,19 @@ INVALIDITÁ DEGLI ATTI DI DISPOSIZIONE SU BENI SUSCETTIBILI DI CONFISCA
 
 (Nullità degli atti di disposizione su beni suscettibili di confisca)
 
-1.
+1\. È nullo ogni atto di disposizione, a qualsiasi titolo compiuto, avente ad oggetto beni, fondi o risorse che costituiscono direttamente o indirettamente il prezzo, il prodotto o il profitto di un misfatto, quando colui che ha ricevuto tali beni, fondi o risorse, conosceva o avrebbe dovuto conoscere che provenivano da misfatto.
 
-È nullo ogni atto di disposizione, a qualsiasi titolo compiuto, avente ad oggetto beni, fondi o risorse che costituiscono direttamente o indirettamente il prezzo, il prodotto o il profitto di un misfatto, quando colui che ha ricevuto tali beni, fondi o risorse, conosceva o avrebbe dovuto conoscere che provenivano da misfatto.
+2\. I Sindaci di Governo citano in giudizio il cedente, il cessionario e gli eventuali successivi aventi causa, che sono condannati in solido alla devoluzione dei beni, fondi o risorse economiche alla Ecc.ma Camera, o, qualora ciò non sia possibile, al pagamento per equivalente di una somma di danaro.
 
-2.
+3\. È onere del cessionario e degli eventuali successivi aventi causa provare la propria buona fede ai sensi del primo comma del presente articolo.
 
-I Sindaci di Governo citano in giudizio il cedente, il cessionario e gli eventuali successivi aventi causa, che sono condannati in solido alla devoluzione dei beni, fondi o risorse economiche alla Ecc.ma Camera, o, qualora ciò non sia possibile, al pagamento per equivalente di una somma di danaro.
+4\. È fatta salva ogni altra azione reciproca tra il cedente, il cessionario ed eventuali successivi aventi causa.
 
-3.
+5\. Sono fatte salve tutte le azioni che competono alla persona offesa dal misfatto da cui provengono i beni, i fondi o le risorse.
 
-È onere del cessionario e degli eventuali successivi aventi causa provare la propria buona fede ai sensi del primo comma del presente articolo.
+6\. Le disposizioni che precedono si applicano in deroga alla disciplina generale vigente in materia di invalidità negoziale, al fine di una più efficace azione di prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo.
 
-4.
-
-È fatta salva ogni altra azione reciproca tra il cedente, il cessionario ed eventuali successivi aventi causa.
-
-5.
-
-Sono fatte salve tutte le azioni che competono alla persona offesa dal misfatto da cui provengono i beni, i fondi o le risorse.
-
-6.
-
-Le disposizioni che precedono si applicano in deroga alla disciplina generale vigente in materia di invalidità negoziale, al fine di una più efficace azione di prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo.
-
-7.
-
-In ossequio al fine specificato nel comma che precede, su istanza dell’interessato, il giudice conferisce efficacia al provvedimento estero che, nell’ambito di procedimenti di natura non penale volti alla apprensione dei beni, fondi o risorse di cui al comma 1, individua i medesimi e dispone misure cautelari di tipo conservativo sugli stessi. Il giudice verifica l’autenticità e l’esecutività dell’atto estero e la non contrarietà della sua esecuzione all’ordine pubblico. Gli atti richiesti non devono compromettere la sovranità, la sicurezza ed altri interessi essenziali della Repubblica.
+7\. In ossequio al fine specificato nel comma che precede, su istanza dell’interessato, il giudice conferisce efficacia al provvedimento estero che, nell’ambito di procedimenti di natura non penale volti alla apprensione dei beni, fondi o risorse di cui al comma 1, individua i medesimi e dispone misure cautelari di tipo conservativo sugli stessi. Il giudice verifica l’autenticità e l’esecutività dell’atto estero e la non contrarietà della sua esecuzione all’ordine pubblico. Gli atti richiesti non devono compromettere la sovranità, la sicurezza ed altri interessi essenziali della Repubblica.
 
 Per quanto non previsto, si applicano le norme procedurali relative alla delibazione di sentenze civili. 121 “Art. 74 bis (Legittimazione processuale)
 
@@ -6612,9 +6400,7 @@ Decreto-Legge 26 luglio 2010 n. 134, articolo 28
 
 La stessa pena si applica a chiunque, a scopo di profitto, si intromette per fare acquistare o ricevere cose provenienti da reato ovvero riceve cose provenienti da persone o società che sa di trovarsi in stato di insolvenza o le acquista a prezzo notevolmente basso, qualora venga aperta la procedura concorsuale dei creditori.».
 
-2.
-
-Dopo il quarto comma dell’articolo 199 bis del codice penale sono inseriti i seguenti commi: «Chiunque commette i reati previsti dal presente articolo è punito con la prigionia di quarto grado, con la multa a giorni di secondo grado e con l’interdizione di terzo grado dai pubblici uffici e dai diritti politici.
+2\. Dopo il quarto comma dell’articolo 199 bis del codice penale sono inseriti i seguenti commi: «Chiunque commette i reati previsti dal presente articolo è punito con la prigionia di quarto grado, con la multa a giorni di secondo grado e con l’interdizione di terzo grado dai pubblici uffici e dai diritti politici.
 
 Le pene possono essere diminuite di un grado in ragione della quantità del denaro o dei beni ad essi equiparati e dell’indole delle operazioni effettuate. Possono essere aumentate di un grado quando i fatti sono commessi nell’esercizio di una attività economico-professionale soggetta ad autorizzazione o abilitazione da parte delle competenti Autorità pubbliche.
 
@@ -6624,9 +6410,7 @@ Il giudice applica la pena corrispondente a quella comminata per il reato presup
 
 «Chiunque si fa dare o promettere, quale corrispettivo di una prestazione patrimoniale, interessi o altri vantaggi fortemente sproporzionati ovvero si intromette per fare dare o promettere ad altri gli interessi o i vantaggi predetti è punito con la prigionia di terzo grado, con la multa a giorni di secondo grado e con l’interdizione di terzo grado dai pubblici uffici e dai diritti politici.».
 
-4.
-
-All’articolo 207 comma 2 del codice penale, le parole «dall’Ispettorato per il Credito e le Valute» sono sostituite dalle seguenti: «dalla Banca Centrale della Repubblica di San Marino».
+4\. All’articolo 207 comma 2 del codice penale, le parole «dall’Ispettorato per il Credito e le Valute» sono sostituite dalle seguenti: «dalla Banca Centrale della Repubblica di San Marino».
 
 5\. Dopo il terzo comma dell’articolo 207 del codice penale è inserito il seguente comma:
 
@@ -6746,9 +6530,7 @@ MODIFICHE A DISPOSIZIONI RELATIVE AI POTERI E ALLE FUNZIONI IN MATERIA DI CONTRA
 
 (Misure investigative speciali e contrasto del finanziamento del terrorismo)
 
-1.
-
-All’articolo 15, comma 1 della Legge 26 febbraio 2004 n.28, dopo le parole «337 bis», sono inserite le parole: «337 ter».
+1\. All’articolo 15, comma 1 della Legge 26 febbraio 2004 n.28, dopo le parole «337 bis», sono inserite le parole: «337 ter».
 
 2\. L’articolo 17 della Legge 26 febbraio 2004 n. 28 è sostituito dal seguente:
 
@@ -6758,17 +6540,11 @@ All’articolo 15, comma 1 della Legge 26 febbraio 2004 n.28, dopo le parole «3
 
 (Modifiche allo Statuto della Banca Centrale)
 
-1.
+1\. All’articolo 12, comma 3 della Legge 29 giugno 2005 n.96 e successive modifiche le parole «e contrasto al riciclaggio» sono soppresse.
 
-All’articolo 12, comma 3 della Legge 29 giugno 2005 n.96 e successive modifiche le parole «e contrasto al riciclaggio» sono soppresse.
+2\. All’articolo 15, comma 2 della Legge 29 giugno 2005 n.96 e successive modifiche le parole «e di unità di contrasto del riciclaggio» sono soppresse.
 
-2.
-
-All’articolo 15, comma 2 della Legge 29 giugno 2005 n.96 e successive modifiche le parole «e di unità di contrasto del riciclaggio» sono soppresse.
-
-3.
-
-All’articolo 16, comma 3 della Legge 29 giugno 2005 n.96 e successive modifiche le parole «e unità di contrasto del riciclaggio» sono soppresse. profitto. Ove non sia possibile la confisca, il giudice impone l’obbligo di pagare una somma in danaro pari al valore delle cose sopra indicate.
+3\. All’articolo 16, comma 3 della Legge 29 giugno 2005 n.96 e successive modifiche le parole «e unità di contrasto del riciclaggio» sono soppresse. profitto. Ove non sia possibile la confisca, il giudice impone l’obbligo di pagare una somma in danaro pari al valore delle cose sopra indicate.
 
 Le cose confiscate o le somme ad esse equivalenti sono devolute all’Erario o, se del caso, distrutte. 3 quinquies. Giurisdizione sammarinese - È soggetto alla legge sammarinese il cittadino che commette fuori dal territorio dello Stato i misfatti previsti dagli articoli 3 bis e 3 ter.
 
@@ -6798,37 +6574,23 @@ Legge 28 giugno 2010 n. 118
 
 4\. Sono altresì abrogate tutte le disposizioni in contrasto con la presente legge.
 
-4.
+4\. All’articolo 29, comma 3 della Legge 29 giugno 2005 n.96 e successive modifiche, dopo le parole «sanzionabili penalmente» sono aggiunte le seguenti «e all’Agenzia di informazione finanziaria nell’esercizio delle funzioni di prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo».
 
-All’articolo 29, comma 3 della Legge 29 giugno 2005 n.96 e successive modifiche, dopo le parole «sanzionabili penalmente» sono aggiunte le seguenti «e all’Agenzia di informazione finanziaria nell’esercizio delle funzioni di prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo».
+5\. All’articolo 30, comma 3 della Legge 29 giugno 2005 n. 96 e successive modifiche le parole «e di unità di contrasto del riciclaggio» sono soppresse.
 
-5.
+6\. All’articolo 33, comma 1 della Legge 29 giugno 2005 n.96 e successive modifiche la lettera «e. unità di contrasto al riciclaggio del denaro» è soppressa.
 
-All’articolo 30, comma 3 della Legge 29 giugno 2005 n. 96 e successive modifiche le parole «e di unità di contrasto del riciclaggio» sono soppresse.
-
-6.
-
-All’articolo 33, comma 1 della Legge 29 giugno 2005 n.96 e successive modifiche la lettera «e. unità di contrasto al riciclaggio del denaro» è soppressa.
-
-7.
-
-L’articolo 48, comma 2 della Legge 29 giugno 2005 n.96 e successive modifiche è sostituito dal seguente:
+7\. L’articolo 48, comma 2 della Legge 29 giugno 2005 n.96 e successive modifiche è sostituito dal seguente:
 
 «Al Comitato per il Credito e il Risparmio è attribuita la funzione di indirizzo e di orientamento dell’attività di vigilanza bancaria, finanziaria, assicurativa e di promozione della collaborazione nazionale ed internazionale per un’efficace prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo.».
 
-8.
-
-Dopo il comma 3 dell’articolo 48 della Legge 29 giugno 2005 n.96 e successive modifiche, sono inseriti i seguenti commi:
+8\. Dopo il comma 3 dell’articolo 48 della Legge 29 giugno 2005 n.96 e successive modifiche, sono inseriti i seguenti commi:
 
 «4. Allo scopo di promuovere la collaborazione nazionale e internazionale per un efficace contrasto del riciclaggio e del finanziamento del terrorismo, il Comitato per il Credito e il Risparmio si riunisce periodicamente.
 
-5.
+5\. Alle riunioni di cui al comma precedente partecipano un Magistrato nominato dal Consiglio giudiziario in seduta ordinaria, il Direttore dell’Agenzia di informazione finanziaria o un suo delegato e un rappresentante nominato dai Comandanti dei Corpi di polizia.
 
-Alle riunioni di cui al comma precedente partecipano un Magistrato nominato dal Consiglio giudiziario in seduta ordinaria, il Direttore dell’Agenzia di informazione finanziaria o un suo delegato e un rappresentante nominato dai Comandanti dei Corpi di polizia.
-
-6.
-
-Il Presidente del Comitato, secondo le materie all’ordine del giorno, può invitare a partecipare alle riunioni rappresentanti degli Ordini professionali, delle Amministrazione pubbliche, dei soggetti designati dalla legge in materia di prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo.».
+6\. Il Presidente del Comitato, secondo le materie all’ordine del giorno, può invitare a partecipare alle riunioni rappresentanti degli Ordini professionali, delle Amministrazione pubbliche, dei soggetti designati dalla legge in materia di prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo.».
 
 #### Art. 86
 
@@ -6950,13 +6712,9 @@ b) i controlli sul trasporto transfrontaliero di denaro contante e strumenti ana
 
 c) le modalità di estinzione dei libretti di deposito al risparmio al portatore non regolarizzati nei termini previsti dall’articolo 31.
 
-2.
+2\. Su proposta dell’Agenzia possono essere individuati, con decreto delegato, altri soggetti ed altre attività da sottoporre agli obblighi previsti dalla presente legge.
 
-Su proposta dell’Agenzia possono essere individuati, con decreto delegato, altri soggetti ed altre attività da sottoporre agli obblighi previsti dalla presente legge.
-
-3.
-
-Gli importi fissati all’articolo 26, comma 2 potranno essere modificati con decreto delegato.
+3\. Gli importi fissati all’articolo 26, comma 2 potranno essere modificati con decreto delegato.
 
 #### Art. 91
 
@@ -6982,57 +6740,35 @@ d) l’assetto organizzativo, funzionale e finanziario dell’Agenzia.
 
 (Trasferimento delle funzioni relative all’attività di analisi finanziaria)
 
-1.
+1\. Alla data di entrata in vigore della presente legge sono trasferiti all’Agenzia le funzioni e i poteri in materia di contrasto del riciclaggio e del finanziamento del terrorismo assegnati alla Banca Centrale della Repubblica di San Marino dalle norme abrogate.
 
-Alla data di entrata in vigore della presente legge sono trasferiti all’Agenzia le funzioni e i poteri in materia di contrasto del riciclaggio e del finanziamento del terrorismo assegnati alla Banca Centrale della Repubblica di San Marino dalle norme abrogate.
+2\. Fino alla comunicazione di cui all’articolo 92, le funzioni e i poteri attribuiti all’Agenzia dalla presente legge sono esercitati dalla Banca Centrale.
 
-2.
+3\. Le informazioni e i documenti, anche su supporto elettronico, relativi alle segnalazioni ricevute, all’eventuale analisi finanziaria svolta e allo scambio di informazioni tra unità di informazione finanziaria sono trasmessi in copia dalla Banca Centrale all’Agenzia entro trenta giorni dalla comunicazione di cui all’articolo 92. Il Direttore dell’Agenzia dovrà attestare l’avvenuta consegna dei documenti.
 
-Fino alla comunicazione di cui all’articolo 92, le funzioni e i poteri attribuiti all’Agenzia dalla presente legge sono esercitati dalla Banca Centrale.
+4\. Gli strumenti informatici utilizzati da Banca Centrale per l’analisi finanziaria e per lo scambio di informazioni sono trasferiti all’Agenzia entro trenta giorni dalla comunicazione di cui all’articolo 92.
 
-3.
+5\. La Banca Centrale continua ad esercitare i compiti di analisi finanziaria relativi alle segnalazioni di operazione sospette ricevute prima della comunicazione prevista dall’articolo 92, secondo le disposizioni previste dalla presente legge, compatibilmente con la struttura organizzativa della Banca Centrale. Per le analisi in corso a tale data, la Banca Centrale potrà avvalersi degli strumenti informatici trasferiti all’Agenzia.
 
-Le informazioni e i documenti, anche su supporto elettronico, relativi alle segnalazioni ricevute, all’eventuale analisi finanziaria svolta e allo scambio di informazioni tra unità di informazione finanziaria sono trasmessi in copia dalla Banca Centrale all’Agenzia entro trenta giorni dalla comunicazione di cui all’articolo 92. Il Direttore dell’Agenzia dovrà attestare l’avvenuta consegna dei documenti.
+6\. Entro tre mesi dalla comunicazione prevista dall’articolo 92, la Banca Centrale dovrà comunicare all’Agenzia l’esito dell’analisi finanziaria relativa alle segnalazioni pervenute prima della comunicazione. A tal fine Banca Centrale dovrà trasmettere all’Agenzia copia della relativa documentazione.
 
-4.
+7\. I documenti e le informazioni già acquisiti dalla Banca Centrale nell’esercizio delle funzioni e dei poteri di prevenzione e di contrasto del riciclaggio non potranno essere utilizzati per le altre finalità previste dall’articolo 3 della Legge 29 giugno 2005 n.96.
 
-Gli strumenti informatici utilizzati da Banca Centrale per l’analisi finanziaria e per lo scambio di informazioni sono trasferiti all’Agenzia entro trenta giorni dalla comunicazione di cui all’articolo 92.
-
-5.
-
-La Banca Centrale continua ad esercitare i compiti di analisi finanziaria relativi alle segnalazioni di operazione sospette ricevute prima della comunicazione prevista dall’articolo 92, secondo le disposizioni previste dalla presente legge, compatibilmente con la struttura organizzativa della Banca Centrale. Per le analisi in corso a tale data, la Banca Centrale potrà avvalersi degli strumenti informatici trasferiti all’Agenzia.
-
-6.
-
-Entro tre mesi dalla comunicazione prevista dall’articolo 92, la Banca Centrale dovrà comunicare all’Agenzia l’esito dell’analisi finanziaria relativa alle segnalazioni pervenute prima della comunicazione. A tal fine Banca Centrale dovrà trasmettere all’Agenzia copia della relativa documentazione.
-
-7.
-
-I documenti e le informazioni già acquisiti dalla Banca Centrale nell’esercizio delle funzioni e dei poteri di prevenzione e di contrasto del riciclaggio non potranno essere utilizzati per le altre finalità previste dall’articolo 3 della Legge 29 giugno 2005 n.96.
-
-8.
-
-Fino al completamento dell’organico, l’Agenzia si avvale del personale e dei funzionari della Banca Centrale, individuati dal Direttore dell’Agenzia, d’intesa con il Direttore della Banca Centrale, tenendo conto delle esigenze operative e funzionali dell’Agenzia e della Banca Centrale.
+8\. Fino al completamento dell’organico, l’Agenzia si avvale del personale e dei funzionari della Banca Centrale, individuati dal Direttore dell’Agenzia, d’intesa con il Direttore della Banca Centrale, tenendo conto delle esigenze operative e funzionali dell’Agenzia e della Banca Centrale.
 
 #### Art. 94
 
 (Allegato Tecnico)
 
-1.
+1\. Ai fini dell’individuazione dei soggetti di cui all’articolo 1, comma 1, lettera n) e dell’individuazione dei “beni” o “fondi” di cui all’articolo 1, comma 1, lettera e) si fa riferimento a quanto previsto nell’Allegato alla presente legge.
 
-Ai fini dell’individuazione dei soggetti di cui all’articolo 1, comma 1, lettera n) e dell’individuazione dei “beni” o “fondi” di cui all’articolo 1, comma 1, lettera e) si fa riferimento a quanto previsto nell’Allegato alla presente legge.
-
-2.
-
-L’Allegato di cui al comma precedente può essere modificato o integrato con decreto delegato.
+2\. L’Allegato di cui al comma precedente può essere modificato o integrato con decreto delegato.
 
 #### Art. 95
 
 (Tempistica degli adempimenti e istruzioni)
 
-1.
-
-I soggetti designati sono tenuti ad adempiere gli obblighi di adeguata verifica della clientela, di registrazione e di segnalazione a partire dall’entrata in vigore della presente legge.
+1\. I soggetti designati sono tenuti ad adempiere gli obblighi di adeguata verifica della clientela, di registrazione e di segnalazione a partire dall’entrata in vigore della presente legge.
 
 2\. Entro sei mesi dalla comunicazione di cui all’articolo 92, l’Agenzia dovrà emanare istruzioni:
 
@@ -7050,19 +6786,13 @@ e) sulle tipologie di operazioni sospette e sulle procedure di esame delle opera
 
 f) sui dati e sulle informazioni che devono essere registrati e conservati ai sensi dell’articolo 34, comma 1.
 
-3.
+3\. Salvo quanto previsto dall’articolo 25, i soggetti designati sono tenuti ad adempiere gli obblighi di cui al comma precedente secondo le modalità previste nelle istruzioni emanate dall’Agenzia.
 
-Salvo quanto previsto dall’articolo 25, i soggetti designati sono tenuti ad adempiere gli obblighi di cui al comma precedente secondo le modalità previste nelle istruzioni emanate dall’Agenzia.
-
-4.
-
-Le disposizioni di cui ai commi precedenti si applicano anche alle operazioni occasionali e alle prestazioni professionali in corso di esecuzione alla data di entrata in vigore della presente legge, nonché ai rapporti in essere a tale data.
+4\. Le disposizioni di cui ai commi precedenti si applicano anche alle operazioni occasionali e alle prestazioni professionali in corso di esecuzione alla data di entrata in vigore della presente legge, nonché ai rapporti in essere a tale data.
 
 5\. [SOPPRESSO].
 
-6.
-
-Le circolari e le lettere uniformi emanate dalla Banca Centrale in materia di prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo continuano ad essere applicate, in quanto compatibili, fino alla emanazione delle istruzioni di cui al comma 2. 126 126 TESTO ORIGINARIO (Legge n. 92/2008)
+6\. Le circolari e le lettere uniformi emanate dalla Banca Centrale in materia di prevenzione e contrasto del riciclaggio e del finanziamento del terrorismo continuano ad essere applicate, in quanto compatibili, fino alla emanazione delle istruzioni di cui al comma 2. 126 126 TESTO ORIGINARIO (Legge n. 92/2008)
 
 #### Art. 95
 
@@ -7098,29 +6828,19 @@ MODIFICHE LEGISLATIVE:
 
 (Estinzione del diritto alla restituzione in relazione ai rapporti per i quali non risultano adempiuti gli obblighi di adeguata verifica e ai libretti di deposito al risparmio al portatore)
 
-1.
+1\. I rapporti per i quali alla data del 31 marzo 2014 non sono stati adempiuti gli obblighi di adeguata verifica sono estinti ex lege a far data dal 1° aprile 2014.
 
-I rapporti per i quali alla data del 31 marzo 2014 non sono stati adempiuti gli obblighi di adeguata verifica sono estinti ex lege a far data dal 1° aprile 2014.
+2\. Entro il 15 aprile 2014 i soggetti designati devono comunicare all’Agenzia di Informazione Finanziaria i rapporti in essere per i quali non siano stati in grado di adempiere gli obblighi di adeguata verifica della clientela alla data del 31 Marzo 2014.
 
-2.
-
-Entro il 15 aprile 2014 i soggetti designati devono comunicare all’Agenzia di Informazione Finanziaria i rapporti in essere per i quali non siano stati in grado di adempiere gli obblighi di adeguata verifica della clientela alla data del 31 Marzo 2014.
-
-3.
-
-Il diritto alla restituzione delle somme derivanti dall’estinzione ex lege dei rapporti di cui al primo comma e dei libretti di deposito al risparmio al portatore, non estinti o non convertiti in rapporti nominativi nei termini previsti dal Decreto - Legge 22 settembre 2009 n.136, a parziale deroga delle disposizioni dello stesso e delle disposizioni di cui all’articolo 6 del Decreto Delegato 31 ottobre 2008 n.136, si estingue come segue:
+3\. Il diritto alla restituzione delle somme derivanti dall’estinzione ex lege dei rapporti di cui al primo comma e dei libretti di deposito al risparmio al portatore, non estinti o non convertiti in rapporti nominativi nei termini previsti dal Decreto - Legge 22 settembre 2009 n.136, a parziale deroga delle disposizioni dello stesso e delle disposizioni di cui all’articolo 6 del Decreto Delegato 31 ottobre 2008 n.136, si estingue come segue:
 
 \- il 1° aprile 2014 per i libretti di deposito al risparmio al portatore;
 
 \- il 1° luglio 2014 per le altre tipologie di rapporti bancari.
 
-4.
+4\. I rapporti di cui al comma 1 non possono essere movimentati sino a quando i soggetti designati non abbiano adempiuto agli obblighi di adeguata verifica.
 
-I rapporti di cui al comma 1 non possono essere movimentati sino a quando i soggetti designati non abbiano adempiuto agli obblighi di adeguata verifica.
-
-5.
-
-Con apposito regolamento saranno disciplinati i criteri, le modalità e i tempi di trasferimento sul fondo di garanzia dei depositanti delle somme di danaro presenti sui rapporti e nei libretti indicati nei commi 1 e 3. Con il medesimo regolamento saranno altresì disciplinati gli ulteriori effetti derivanti dalla estinzione dei rapporti e dei diritti di cui ai commi precedenti. 127 Decreto-Legge 11 dicembre 2017 n. 139, articolo 97
+5\. Con apposito regolamento saranno disciplinati i criteri, le modalità e i tempi di trasferimento sul fondo di garanzia dei depositanti delle somme di danaro presenti sui rapporti e nei libretti indicati nei commi 1 e 3. Con il medesimo regolamento saranno altresì disciplinati gli ulteriori effetti derivanti dalla estinzione dei rapporti e dei diritti di cui ai commi precedenti. 127 Decreto-Legge 11 dicembre 2017 n. 139, articolo 97
 
 1\. Il comma 5 dell’articolo 95 della Legge 17 giugno 2008 n. 92 e successive modifiche è soppresso. 127 TESTO ORIGINARIO Decreto-Legge 25 luglio 2013 n. 98
 
@@ -7130,17 +6850,11 @@ Con apposito regolamento saranno disciplinati i criteri, le modalità e i tempi 
 
 “Art.95 bis (Estinzione del diritto alla restituzione in relazione ai rapporti per i quali non risultano adempiuti gli obblighi di adeguata verifica e ai libretti di deposito al risparmio al portatore)
 
-1.
+1\. I rapporti per i quali alla data del 31 dicembre 2013 non sono stati adempiuti gli obblighi di adeguata verifica sono estinti ex lege a far data dal 1° gennaio 2014.
 
-I rapporti per i quali alla data del 31 dicembre 2013 non sono stati adempiuti gli obblighi di adeguata verifica sono estinti ex lege a far data dal 1° gennaio 2014.
+2\. Entro il 15 gennaio 2014 i soggetti designati devono comunicare all’Agenzia di Informazione Finanziaria i rapporti in essere per i quali non siano stati in grado di adempiere gli obblighi di adeguata verifica della clientela alla data del 31 dicembre 2013.
 
-2.
-
-Entro il 15 gennaio 2014 i soggetti designati devono comunicare all’Agenzia di Informazione Finanziaria i rapporti in essere per i quali non siano stati in grado di adempiere gli obblighi di adeguata verifica della clientela alla data del 31 dicembre 2013.
-
-3.
-
-Il diritto alla restituzione delle somme derivanti dall’estinzione ex lege dei rapporti di cui al primo comma e dei libretti di deposito al risparmio al portatore, non estinti o non convertiti in rapporti nominativi nei termini previsti dal Decreto - Legge 22 settembre 2009 n.136, a parziale deroga delle disposizioni dello stesso e delle disposizioni di cui all’articolo 6 del Decreto Delegato 31 ottobre 2008 n.136, si estingue come segue:
+3\. Il diritto alla restituzione delle somme derivanti dall’estinzione ex lege dei rapporti di cui al primo comma e dei libretti di deposito al risparmio al portatore, non estinti o non convertiti in rapporti nominativi nei termini previsti dal Decreto - Legge 22 settembre 2009 n.136, a parziale deroga delle disposizioni dello stesso e delle disposizioni di cui all’articolo 6 del Decreto Delegato 31 ottobre 2008 n.136, si estingue come segue:
 
 \- il 1° gennaio 2014 per i libretti di deposito al risparmio al portatore;
 
@@ -7218,13 +6932,9 @@ b) la persona fisica che notoriamente abbia con una persona di cui al precedente
 
 c) la persona fisica che sia unico titolare effettivo di società o entità giuridiche o istituti giuridici notoriamente creati di fatto a beneficio di una delle persone di cui al precedente comma 1.
 
-3.
+3\. La cessazione della carica non esonera i soggetti designati dall’adempiere, in funzione del rischio, gli obblighi rafforzati di adeguata verifica della clientela.
 
-La cessazione della carica non esonera i soggetti designati dall’adempiere, in funzione del rischio, gli obblighi rafforzati di adeguata verifica della clientela.
-
-4.
-
-Non rientrano nella definizione di cui al comma 1 del presente articolo le persone fisiche che ricoprono le precedenti cariche a livello inferiore a quelli di vertice. 4 bis Il Dipartimento Finanze e Bilancio coordina la pubblicazione e l’aggiornamento di un elenco indicante esattamente le funzioni che, in base alle disposizioni legislative, regolamentari e amministrative nazionali, sono considerate importanti cariche pubbliche ai fini del presente articolo. La pubblicazione e l’aggiornamento avvengono previa consultazione della Commissione Tecnica di Coordinamento Nazionale. 128 128 TESTO ORIGINARIO (Legge n. 92/2008)
+4\. Non rientrano nella definizione di cui al comma 1 del presente articolo le persone fisiche che ricoprono le precedenti cariche a livello inferiore a quelli di vertice. 4 bis Il Dipartimento Finanze e Bilancio coordina la pubblicazione e l’aggiornamento di un elenco indicante esattamente le funzioni che, in base alle disposizioni legislative, regolamentari e amministrative nazionali, sono considerate importanti cariche pubbliche ai fini del presente articolo. La pubblicazione e l’aggiornamento avvengono previa consultazione della Commissione Tecnica di Coordinamento Nazionale. 128 128 TESTO ORIGINARIO (Legge n. 92/2008)
 
 #### Art. 1
 
@@ -7290,9 +7000,7 @@ D) la persona fisica che sia unico titolare effettivo di società o entità giur
 
 Decreto-Legge 25 luglio 2013 n.98, articolo 26
 
-1.
-
-L’articolo 1 dell’Allegato Tecnico della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 29 del Decreto - Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
+1\. L’articolo 1 dell’Allegato Tecnico della Legge 17 giugno 2008 n. 92, così come modificato dall’articolo 29 del Decreto - Legge 26 luglio 2010 n. 134, è sostituito dal seguente:
 
 “Art. 1 (Persone politicamente esposte di cui all’articolo 1, comma 1, lettera n)
 
@@ -7426,31 +7134,19 @@ e) qualunque altra persona fisica che esercita in ultima istanza il controllo su
 
 1\. I soggetti ricompresi nelle definizioni di cui al precedente articolo 1 in ragione della carica ricoperta nella Repubblica di San Marino, sono i seguenti:
 
-a)
+a) Capitani Reggenti;
 
-Capitani Reggenti;
+b) Segretari di Stato;
 
-b)
+c) Membri del Consiglio Grande e Generale;
 
-Segretari di Stato;
+d) Commissari della Legge, Giudici d'Appello, di Terza Istanza, per i Rimedi Straordinari e per la Responsabilità Civile dei Magistrati e Procuratori del Fisco;
 
-c)
-
-Membri del Consiglio Grande e Generale;
-
-d)
-
-Commissari della Legge, Giudici d'Appello, di Terza Istanza, per i Rimedi Straordinari e per la Responsabilità Civile dei Magistrati e Procuratori del Fisco;
-
-e)
-
-Membri del Collegio Garante della Costituzionalità delle Norme; e bis) Membri della Corte per il Trust ed i rapporti fiduciari;
+e) Membri del Collegio Garante della Costituzionalità delle Norme; e bis) Membri della Corte per il Trust ed i rapporti fiduciari;
 
 f) Membri del Consiglio Direttivo, Coordinamento della Vigilanza, Direzione di Banca Centrale della Repubblica di San Marino; f bis) Direttore e Vice Direttore Agenzia di Informazione Finanziaria;
 
-f)
-
-Membri di organi di amministrazione, direzione e, laddove esistenti, organi di sorveglianza di enti pubblici, società ed enti partecipati dallo Stato;
+f) Membri di organi di amministrazione, direzione e, laddove esistenti, organi di sorveglianza di enti pubblici, società ed enti partecipati dallo Stato;
 
 h) Ambasciatori, consoli e incaricati d’affari;
 

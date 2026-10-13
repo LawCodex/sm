@@ -1,0 +1,561 @@
+---
+title: "Testo coordinato in materia di referendum e iniziativa legislativa popolare (aggiornato al 23 agosto 2016)"
+identifier: "documento17088525"
+type: consolidated_text
+jurisdiction: sm
+language: it
+last_amended: 2016-08-23
+status: in_force
+category: "(linked from the archive record of an act, not listed in a category page)"
+note: "Testo coordinato con valore ricognitivo (art. 82 Legge 22 dicembre 2015 n.189); non costituisce fonte normativa."
+source: "https://www.consigliograndeegenerale.sm/on-line/documento17088525.html"
+retrieved: 2026-10-13
+---
+
+# Testo coordinato in materia di referendum e iniziativa legislativa popolare (aggiornato al 23 agosto 2016)
+
+LEGGE QUALIFICATA 29 MAGGIO 2013 N.1 DEL REFERENDUM E DELL’INIZIATIVA LEGISLATIVA POPOLARE TESTO COORDINATO con le modifiche derivanti dalla Legge Qualificata 17 marzo 2016 n.1 e dalla Legge Qualificata 23 agosto 2016 n.2
+
+LEGGI CITATE NEL TESTO COORDINATO
+
+Legge Qualificata 23 agosto 2016 n.2 Legge Qualificata 17 marzo 2016 n.1 Legge 27 settembre 2013 n.127 Legge Qualificata 29 maggio 2013 n.1 Legge Qualificata 5 agosto 2008 n.1 Legge 14 marzo 1997 n.36 Legge 31 gennaio 1996 n.6 Legge 28 novembre 1994 n.101
+
+LEGGE QUALIFICATA 29 MAGGIO 2013 N.1 DEL REFERENDUM E DELL’INIZIATIVA LEGISLATIVA POPOLARE TESTO COORDINATO con le modifiche derivanti dalla Legge Qualificata 17 marzo 2016 n.1 e dalla Legge Qualificata 23 agosto 2016 n.2 (aggiornato al 23 agosto 2016)
+
+#### Art. 1
+
+(Finalità della legge)
+
+1\. La presente legge qualificata regolamenta l’esercizio diretto della sovranità da parte del popolo attuata attraverso gli strumenti del referendum e dell’iniziativa legislativa popolare previsti all’articolo 2 della Dichiarazione dei diritti dei cittadini e dei principi fondamentali dell’ordinamento sammarinese di cui alla Legge 8 luglio 1974 n. 59 e successive modifiche (di seguito "Dichiarazione dei diritti").
+
+2\. Il referendum è previsto nella forma di referendum abrogativo, propositivo o di indirizzo e confermativo.
+
+## TITOLO I
+
+DEL REFERENDUM
+
+#### Art. 2
+
+(Tipi di referendum)
+
+1\. E’ indetto il referendum abrogativo qualora si voglia procedere all’abrogazione, totale o parziale, di leggi, atti e norme, anche consuetudinarie, comunque aventi forza di legge.
+
+2\. Con il referendum propositivo o di indirizzo il corpo elettorale è chiamato a determinare i principi ed i criteri direttivi delle norme di legge da introdurre nell'ordinamento, principi e criteri a cui il Consiglio Grande e Generale dovrà attenersi nel disciplinare per legge la materia oggetto del referendum.
+
+3\. Qualora l’entrata in vigore di una legge sia subordinata al consenso popolare, si dà luogo al referendum confermativo.
+
+### CAPO I
+
+DEL REFERENDUM ABROGATIVO
+
+#### Art. 3
+
+(Ammissibilità del referendum di iniziativa popolare)
+
+1\. Il referendum abrogativo è ammesso:
+
+a) purché non abbia ad oggetto la soppressione di organi, organismi e poteri fondamentali dello Stato di cui alla Dichiarazione dei diritti e purché non abbia ad oggetto la soppressione di diritti e principi fondamentali dell’ordinamento sammarinese; è parimenti escluso il referendum abrogativo su leggi o atti aventi forza di legge con contenuto specifico in materia di tasse, imposte e tributi, di bilancio, di amnistia e indulto, nonché di ratifica di convenzioni e trattati internazionali;
+
+b) purché la richiesta referendaria contenga l’esatta, chiara ed inequivocabile formulazione della proposta da sottoporre a votazione popolare al fine di consentire un pieno, consapevole e libero esercizio di sovranità.
+
+#### Art. 4
+
+(Corpo elettorale e computo dei voti)
+
+1\. Partecipano al referendum abrogativo i cittadini iscritti nelle liste elettorali.
+
+2\. La proposta sottoposta a referendum abrogativo è approvata se ottiene la maggioranza dei voti validamente espressi.
+
+3\. Si intendono per voti validamente espressi i voti favorevoli e i voti contrari alla proposta di referendum.1
+
+#### Art. 5
+
+(Condizioni di ricevibilità del referendum abrogativo di iniziativa popolare. Comitato promotore)
+
+1\. Il referendum abrogativo di iniziativa popolare, a pena di irricevibilità, deve richiedersi con domanda scritta presentata alla Reggenza da almeno sessanta cittadini elettori, depositata, dal legale rappresentante del comitato promotore di cui al successivo comma 4, presso l'Ufficio Segreteria Istituzionale del Dipartimento Affari Istituzionali e Giustizia, che ne rilascia copia autentica con l'apposizione del timbro indicante l'avvenuto deposito e la data: del tutto viene redatto apposito verbale.
+
+2\. La domanda redatta in carta legale, sempre a pena di irricevibilità, deve contenere le generalità complete dei firmatari, la firma degli stessi debitamente autenticata da notaio o dall'Ufficiale dello Stato Civile o dal Cancelliere del Tribunale e l'indicazione della lista elettorale di iscrizione.
+
+3\. E' altresì condizione di ricevibilità il deposito di una relazione illustrativa unitamente alla domanda referendaria.
+
+4\. Dal momento del deposito della domanda i cittadini presentatori sono riconosciuti a tutti gli effetti di legge in comitato promotore. Nella domanda devono altresì essere indicati:
+
+1) quali, fra i presentatori della stessa, possano autenticare congiuntamente o disgiuntamente le firme dei sottoscrittori ai sensi dell’articolo 12, comma 4;
+
+2) quale, fra i presentatori della stessa, sia il legale rappresentante del comitato anche al fine di eventuali comunicazioni e notifiche.2 1 Testo originario (Legge Qualificata n.1/2013):
+
+1\. Partecipano al referendum abrogativo i cittadini iscritti nelle liste elettorali.
+
+2\. La proposta sottoposta a referendum abrogativo è approvata se ottiene la maggioranza dei voti validamente espressi e comunque non meno del 25% (venticinquepercento) degli elettori iscritti nelle liste elettorali.
+
+3\. Si intendono per voti validamente espressi i voti favorevoli e i voti contrari alla proposta di referendum.
+
+Modifiche legislative:
+
+Legge Qualificata n.2/2016, Articolo 1:
+
+1\. L’articolo 4, comma 2 della Legge Qualificata n. 1/2013 e successive modifiche è così modificato:
+
+“2.
+
+La proposta sottoposta a referendum abrogativo è approvata se ottiene la maggioranza dei voti validamente espressi.”. 2 Testo originario (Legge Qualificata n.1/2013):
+
+1\. Il referendum abrogativo di iniziativa popolare, a pena di irricevibilità, deve richiedersi con domanda scritta presentata alla Reggenza da almeno sessanta cittadini elettori, depositata, dal legale rappresentante del comitato promotore di cui al successivo comma 4, presso l'Ufficio Segreteria Istituzionale del Dipartimento Affari Istituzionali e Giustizia, che ne rilascia copia autentica con l'apposizione del timbro indicante l'avvenuto deposito e la data: del tutto viene redatto apposito verbale.
+
+2\. La domanda redatta in carta legale, sempre a pena di irricevibilità, deve contenere le generalità complete dei firmatari, la firma degli stessi debitamente autenticata da notaio o dall'Ufficiale dello Stato Civile o dal Cancelliere del Tribunale e l'indicazione della lista elettorale di iscrizione.
+
+#### Art. 6
+
+(Ammissibilità e ricevibilità del referendum abrogativo promosso dalle Giunte di Castello)
+
+1\. Il referendum abrogativo può essere richiesto da almeno cinque Giunte di Castello ed è ammesso qualora ciascuna Giunta richiedente abbia deliberato in tal senso con propria decisione.
+
+2\. La richiesta referendaria, da depositarsi con le modalità prescritte nell'articolo 5, va corredata, a pena di irricevibilità, dall'estratto autentico dei verbali delle sedute delle Giunte e deve essere sottoscritta da due delegati per ciascuna delle Giunte promotrici che costituiscono il comitato promotore del referendum: le eventuali comunicazioni e notifiche sono validamente effettuate ai Capitani di Castello delle Giunte promotrici. E' parimenti richiesto, a condizione di irricevibilità, il deposito, unitamente alla richiesta referendaria, di una relazione illustrativa.
+
+#### Art. 7
+
+(Pubblicità della domanda o della richiesta referendaria)
+
+1\. Del deposito della domanda o della richiesta di referendum abrogativo e del testo integrale della proposta referendaria presentata dai soggetti di cui agli articoli 5 e 6 è data dall’Ufficio Segreteria Istituzionale immediata comunicazione alla Reggenza; alla proposta è inoltre data pubblicità mediante affissione, a cura del Segretario di Stato per gli Affari Interni, all’albo del Pubblico Palazzo. L’avviso è trasmesso altresì alla Cancelleria del Tribunale ed ai Capitani di Castello perché ne curino l’affissione nei rispettivi albi.
+
+#### Art. 8
+
+(Costituzione di comitato contrario)
+
+1\. L’eventuale comitato contrario si costituisce con atto scritto presentato alla Reggenza da almeno quindici cittadini elettori, depositato presso l'Ufficio Segreteria Istituzionale del Dipartimento Affari Istituzionali e Giustizia, che ne rilascia copia autentica con l'apposizione del timbro indicante l'avvenuto deposito e la data: del tutto viene redatto apposito verbale.
+
+2\. L'atto, redatto in carta legale, deve contenere le generalità complete dei firmatari, la firma degli stessi debitamente autenticata da notaio o dall'Ufficiale dello Stato Civile o dal Cancelliere del Tribunale e l'indicazione della lista elettorale di iscrizione. Nell'atto deve altresì essere indicato quale fra i firmatari dello stesso sia il
+
+3\. E' altresì condizione di ricevibilità il deposito di una relazione illustrativa unitamente alla domanda referendaria.
+
+4\. Dal momento del deposito della domanda i cittadini presentatori sono riconosciuti a tutti gli effetti di legge in comitato promotore: nella domanda deve altresì essere indicato quale fra i presentatori della stessa sia il legale rappresentante del comitato anche al fine delle eventuali comunicazioni e notifiche.
+
+Modifiche legislative:
+
+Legge Qualificata n.2/2016, Articolo 2:
+
+1\. L’articolo 5, comma 4 della Legge Qualificata n. 1/2013 e successive modifiche è così modificato:
+
+“4.
+
+Dal momento del deposito della domanda i cittadini presentatori sono riconosciuti a tutti gli effetti di legge in comitato promotore. Nella domanda devono altresì essere indicati:
+
+1) quali, fra i presentatori della stessa, possano autenticare congiuntamente o disgiuntamente le firme dei sottoscrittori ai sensi dell’articolo 12, comma 4;
+
+2) quale, fra i presentatori della stessa, sia il legale rappresentante del comitato anche al fine di eventuali comunicazioni e notifiche.”.
+
+legale rappresentante del comitato contrario anche al fine delle eventuali comunicazioni e notifiche.
+
+3\. Il comitato contrario può costituirsi dal giorno della pubblicazione della domanda o della richiesta referendaria di cui all’articolo 7, e non oltre il trentaquattresimo giorno precedente alla data di svolgimento del referendum.3
+
+#### Art. 9
+
+(Convocazione del Collegio Garante della Costituzionalità delle Norme)
+
+1\. La Reggenza, ricevuta la comunicazione di cui all’articolo 7, la trasmette al Collegio Garante della Costituzionalità delle Norme (di seguito “Collegio Garante”). Il Presidente del Collegio Garante convoca il Collegio stesso nel termine massimo di giorni venti dalla data della comunicazione, al fine della pronuncia circa l’ammissibilità del quesito referendario ai sensi dell’articolo 10.
+
+#### Art. 10
+
+(Giudizio di ammissibilità)
+
+1\. Spetta al Collegio Garante pronunciarsi sulla ammissibilità del quesito referendario di iniziativa popolare. Il referendum è ammesso se sono state rispettate le formalità di cui all’articolo 5 e se sussistono i requisiti di cui all’articolo 3, lettere a) e b).
+
+2\. Il Collegio Garante, verificati gli adempimenti previsti dall'articolo 5, nonché il pieno rispetto dei requisiti di cui all’articolo 3, lettere a) e b), dichiara ammesso il referendum.
+
+3\. Dal giudizio di ammissibilità del referendum è esclusa ogni valutazione che attenga al complesso normativo risultante a seguito dell'eventuale accoglimento della proposta referendaria e della conseguente abrogazione della legge o della norma di legge oggetto di referendum.
+
+4\. Le decisioni di cui al presente articolo sono adottate a maggioranza dei membri del Collegio e sono inappellabili ad eccezione della decisione avente per oggetto la verifica degli adempimenti relativi alla regolarità del numero minimo delle firme dei cittadini elettori di cui all'articolo 5 e delle iscrizioni dei firmatari nelle liste elettorali per la quale è ammesso il ricorso allo stesso Collegio nel termine perentorio di dieci giorni dalla pronuncia del Collegio Garante.
+
+3 Testo originario (Legge Qualificata n.1/2013):
+
+1\. L’eventuale comitato contrario si costituisce con atto scritto presentato alla Reggenza da almeno quindici cittadini elettori, depositato presso l'Ufficio Segreteria Istituzionale del Dipartimento Affari Istituzionali e Giustizia, che ne rilascia copia autentica con l'apposizione del timbro indicante l'avvenuto deposito e la data: del tutto viene redatto apposito verbale.
+
+2\. L'atto, redatto in carta legale, deve contenere le generalità complete dei firmatari, la firma degli stessi debitamente autenticata da notaio o dall'Ufficiale dello Stato Civile o dal Cancelliere del Tribunale e l'indicazione della lista elettorale di iscrizione. Nell'atto deve altresì essere indicato quale fra i firmatari dello stesso sia il legale rappresentante del comitato contrario anche al fine delle eventuali comunicazioni e notifiche.
+
+3\. Il comitato contrario può costituirsi dal giorno della pubblicazione della domanda o della richiesta referendaria di cui all’articolo 7, fino a cinque giorni prima dell’apertura della campagna referendaria di cui all’articolo 15.
+
+Modifiche legislative:
+
+Legge Qualificata n.1/2016, Articolo 4:
+
+1\. L’articolo 8, comma 3 della Legge Qualificata n. 1/2013 è così modificato:
+
+“3.
+
+Il comitato contrario può costituirsi dal giorno della pubblicazione della domanda o della richiesta referendaria di cui all’articolo 7, e non oltre il trentaquattresimo giorno precedente alla data di svolgimento del referendum.”.
+
+5\. Il Collegio Garante deve pronunciare la propria sentenza nel termine di venti giorni dalla data di convocazione e, prima di dichiarare l’eventuale inammissibilità, può richiedere al comitato promotore chiarimenti ed integrazioni della relazione della proposta, fissando un breve termine per la risposta.
+
+6\. La decisione del Collegio Garante è comunicata alla Reggenza, la quale, nel caso di giudizio con esito negativo, con proprio decreto, ne prende atto e ne dà pubblica notizia.
+
+7\. Dichiarato invece ammesso il referendum dal Collegio Garante, la Reggenza ne dà formale comunicazione al comitato promotore per l'avvio della raccolta delle firme di cui all'articolo 12.
+
+#### Art. 11
+
+(Diritto di intervento)
+
+1\. Il Collegio Garante decide in udienza pubblica in forma dibattimentale con diritto di rappresentanza anche a mezzo di avvocati a norma delle leggi vigenti in materia di rappresentanza e difesa, del comitato promotore e dell’eventuale comitato contrario, i quali devono notificare al Presidente del Collegio la loro volontà di intervento almeno il giorno precedente a quello fissato per l’udienza.
+
+#### Art. 12
+
+(Raccolta delle firme)
+
+1\. Ad eccezione del referendum proposto dalle Giunte di Castello, il referendum ammesso può svolgersi a condizione che venga sottoscritto, successivamente alla pronuncia di cui all’articolo 10, da un numero di cittadini elettori rappresentanti almeno il 3% (trepercento) del corpo elettorale quale risulta dall’ultima e definitiva revisione annuale delle liste elettorali effettuata ai sensi della legge elettorale vigente.
+
+2\. Il comitato promotore deve provvedere, nel termine di novanta giorni dalla data di ricevimento della comunicazione di cui all'articolo 10, comma 7, alla raccolta delle firme autenticate dei cittadini elettori nella percentuale di cui al comma 1.
+
+3\. Al fine della raccolta delle firme, il comitato promotore del referendum predispone appositi moduli dattiloscritti o a stampa sui quali è riprodotta la proposta da sottoporre a referendum. Di ciascun firmatario debbono essere indicati: cognome, nome, luogo e data di nascita, residenza, cittadinanza sammarinese, codice ISS e gli estremi di un valido documento di identificazione.
+
+4\. Per la dichiarazione di autenticità di cui al comma 2, l’Ufficiale dello Stato Civile, il Cancelliere del Tribunale, il Notaio ad acta dell’Avvocatura dello Stato, il Dirigente dell’Ufficio Segreteria Istituzionale, il Dirigente dell’Ufficio Segreteria Esecutiva del Congresso di Stato, i presentatori della domanda referendaria di cui all’articolo 5, comma 4, numero 1), sono tenuti a ricevere le firme dei cittadini elettori su appositi moduli presso gli stessi depositati e controfirmati dal legale rappresentante del comitato promotore, il quale potrà anche indicare notai di propria scelta. Nell’ambito del proprio Castello possono altresì raccogliere le firme e dichiararne l’autenticità i Capitani di Castello, o membro di Giunta dagli stessi delegato.4 4 Testo originario (Legge Qualificata n.1/2013):
+
+1\. Ad eccezione del referendum proposto dalle Giunte di Castello, il referendum ammesso può svolgersi a condizione che venga sottoscritto, successivamente alla pronuncia di cui all'articolo 10, da un numero di cittadini elettori rappresentanti almeno l’1,5% (unovirgolacinquepercento) del corpo elettorale quale risulta dall’ultima e definitiva revisione annuale delle liste elettorali effettuata ai sensi della legge elettorale vigente.
+
+2\. Il comitato promotore deve provvedere, nel termine di novanta giorni dalla data di ricevimento della comunicazione di cui all'articolo 10, comma 7, alla raccolta delle firme autenticate dei cittadini elettori nella percentuale di cui al comma 1.
+
+#### Art. 13
+
+(Deposito delle firme)
+
+1\. I fogli contenenti le firme di cui all’articolo 12, raccolte a pena di irricevibilità con le modalità e nel termine ivi indicati, devono essere depositati dal legale rappresentante del comitato promotore, presso l'Ufficio Segreteria Istituzionale che provvede all'immediata trasmissione al Collegio Garante il quale, entro quindici giorni dal deposito, verifica il numero dei firmatari, il possesso dei requisiti previsti dalla presente legge per i firmatari stessi e la loro iscrizione alle liste elettorali.
+
+2\. I certificati attestanti l'iscrizione dei firmatari nelle liste elettorali verranno trasmessi all'Ufficio Segreteria Istituzionale, per il Collegio Garante, dallo Stato Civile Servizi Demografici ed Elettorali.
+
+3\. Il Collegio Garante redige, nel termine sopra indicato, apposito verbale con il quale attesta la regolarità delle firme raccolte ai fini dello svolgimento del referendum; trasmette quindi il verbale immediatamente alla Reggenza per i provvedimenti di competenza. Se i requisiti di legge non sussistono, la Reggenza con decreto non ammette il referendum; se le procedure sono state dichiarate regolari, la Reggenza con decreto ammette definitivamente il referendum e fissa la data per il suo svolgimento fra il sessantesimo e novantesimo giorno dalla data del decreto.
+
+4\. Contro il provvedimento del Collegio Garante è ammesso ricorso allo stesso Collegio nei modi e nei tempi previsti all'articolo 10, comma 4.
+
+#### Art. 14
+
+(Impedimenti al referendum)
+
+3\. Al fine della raccolta delle firme, il comitato promotore del referendum predispone appositi moduli dattiloscritti o a stampa sui quali è riprodotta la proposta da sottoporre a referendum. Di ciascun firmatario debbono essere indicati: cognome, nome, luogo e data di nascita, residenza, cittadinanza sammarinese, codice ISS e gli estremi di un valido documento di identificazione.
+
+4\. Per la dichiarazione di autenticità di cui al comma 2, l'Ufficiale dello Stato Civile, il Cancelliere del Tribunale, il Notaio ad acta dell’Avvocatura dello Stato, il Dirigente dell'Ufficio Segreteria Istituzionale, il Dirigente dell'Ufficio Segreteria Esecutiva del Congresso di Stato, sono tenuti a ricevere le firme dei cittadini elettori su appositi moduli presso gli stessi depositati e controfirmati dal legale rappresentante del comitato promotore, il quale potrà anche indicare notai di propria scelta. Nell’ambito del proprio Castello possono altresì raccogliere le firme e dichiararne l’autenticità i Capitani di Castello, o membro di Giunta dagli stessi delegato.
+
+Modifiche legislative:
+
+Legge Qualificata n.2/2016, Articolo 3, commi 1 e 2:
+
+1\. L’articolo 12, comma 1 della Legge Qualificata n. 1/2013 e successive modifiche è così modificato:
+
+“1.
+
+Ad eccezione del referendum proposto dalle Giunte di Castello, il referendum ammesso può svolgersi a condizione che venga sottoscritto, successivamente alla pronuncia di cui all’articolo 10, da un numero di cittadini elettori rappresentanti almeno il 3% (trepercento) del corpo elettorale quale risulta dall’ultima e definitiva revisione annuale delle liste elettorali effettuata ai sensi della legge elettorale vigente.”.
+
+2\. L’articolo 12, comma 4 della Legge Qualificata n. 1/2013 e successive modifiche è così modificato:
+
+“4.
+
+Per la dichiarazione di autenticità di cui al comma 2, l’Ufficiale dello Stato Civile, il Cancelliere del Tribunale, il Notaio ad acta dell’Avvocatura dello Stato, il Dirigente dell’Ufficio Segreteria Istituzionale, il Dirigente dell’Ufficio Segreteria Esecutiva del Congresso di Stato, i presentatori della domanda referendaria di cui all’articolo 5, comma 4, numero 1), sono tenuti a ricevere le firme dei cittadini elettori su appositi moduli presso gli stessi depositati e controfirmati dal legale rappresentante del comitato promotore, il quale potrà anche indicare notai di propria scelta. Nell’ambito del proprio Castello possono altresì raccogliere le firme e dichiararne l’autenticità i Capitani di Castello, o membro di Giunta dagli stessi delegato.”.
+
+1\. Nell’arco di dodici mesi non può tenersi più di una tornata dedicata allo svolgimento di uno o più referendum abrogativi.
+
+2\. Nella stessa tornata sono raggruppati più referendum le cui richieste sono presentate nei termini utili.
+
+3\. Il referendum abrogativo non può svolgersi nei sei mesi precedenti o successivi alle elezioni politiche e alle elezioni per la nomina di almeno cinque Capitani di Castello e delle relative Giunte e comunque non prima di sei mesi dallo svolgimento delle predette consultazioni.
+
+4\. La Reggenza fissa il referendum nei casi disciplinati dal comma che precede emanando il proprio decreto alla scadenza del termine suindicato.
+
+5\. Lo scioglimento anticipato del Consiglio Grande e Generale o la necessità di procedere alla elezione anticipata di almeno cinque Capitani di Castello e delle relative Giunte determinano la sospensione delle procedure del referendum già indetto. La sospensione viene dichiarata con decreto reggenziale; parimenti con decreto reggenziale verrà disposta la riapertura delle procedure sospese nel rispetto dei termini previsti al comma 3 del presente articolo.
+
+#### Art. 15
+
+(Campagna referendaria)
+
+1\. Anteriormente allo svolgimento del referendum è aperta la campagna referendaria, la cui durata è fissata in giorni quindici.
+
+2\. Sono ammessi alla campagna referendaria il comitato promotore del referendum, l’eventuale comitato contrario le forze politiche presenti in Consiglio Grande e Generale e le forze politiche che abbiano presentato liste nell’ultima consultazione elettorale per il rinnovo del Consiglio Grande e Generale.
+
+3\. La propaganda referendaria è disciplinata dalle norme, in quanto applicabili, della Legge 14 marzo 1997 n. 36 e successive modifiche, tenendo conto delle modificazioni di seguito indicate:
+
+a) gli spazi per le affissioni sono riservati al comitato promotore, al comitato contrario ed alle forze politiche di cui al comma che precede; è previsto un ulteriore spazio per le affissioni dei cittadini, associazioni, forze sociali che desiderano usufruirne;
+
+b) lo svolgimento dei comizi è riservato al comitato promotore, a quello contrario ed alle forze politiche di cui al comma 2; possono chiedere di svolgere comizi anche i singoli cittadini, associazioni e forze sociali.
+
+#### Art. 16
+
+(Votazione)
+
+1\. Le votazioni nel referendum avvengono tramite scheda di Stato, avente le caratteristiche indicate nel modello adottato con decreto reggenziale, nella quale è riprodotta in modo chiaro ed integrale la proposta soggetta a referendum seguita dalle diciture SI – NO chiaramente differenziate.
+
+2\. In caso di contemporaneo svolgimento di più referendum le schede relative a ciascun quesito dovranno essere di diverso colore.
+
+3\. I seggi elettorali sono costituiti secondo le norme previste dalla vigente legge elettorale, ad eccezione delle disposizioni che disciplinano l’Ufficio elettorale intersezionale, la cui costituzione non è prevista per le consultazioni referendarie.
+
+Resta salvo il diritto di assistere a tutte le operazioni del seggio elettorale oltre che per i rappresentanti delle forze politiche di cui all’articolo 15 anche per i rappresentanti del comitato promotore del referendum stesso e del comitato contrario.
+
+4\. Con apposita legge sono introdotte, per le consultazioni referendarie, le norme disciplinanti l’esercizio del diritto di voto con modalità informatiche a partire dal superamento del certificato elettorale cartaceo e dall’adozione di supporti informatici per il computo dell’affluenza degli elettori votanti; il tutto nel pieno rispetto dei principi fondamentali di segretezza, universalità, unicità del voto ed espressione diretta della volontà dell’elettore.5
+
+#### Art. 17
+
+(Accoglimento della proposta di referendum abrogativo)
+
+1\. Concluse le operazioni di voto e di scrutinio, pubblicato il risultato del referendum abrogativo, la Reggenza, con proprio decreto da emanarsi entro tre giorni dalla data di svolgimento, è tenuta, in caso di approvazione della proposta di abrogazione, a dichiarare abrogata la legge, l’atto o la norma anche consuetudinaria, comunque avente forza di legge o parte di essi, con effetto dal momento della pubblicazione del decreto stesso.
+
+2\. La proposta di referendum non approvata dal corpo elettorale non può essere riproposta se non dopo cinque anni dalla precedente.
+
+#### Art. 18
+
+(Referendum abrogativo proposto dalle Giunte di Castello)
+
+1\. Qualora il Referendum abrogativo sia richiesto dalle Giunte di Castello, il Collegio Garante accerta unicamente il rispetto degli adempimenti di cui all’articolo 6 e la sussistenza dei requisiti di cui all'articolo 3, comma 1, lettere a) e b).
+
+2\. Al referendum abrogativo promosso dalle Giunte di Castello si applicano, in quanto compatibili, le norme contenute nel presente Capo.
+
+#### Art. 19
+
+(Interruzione della procedura referendaria)
+
+1\. Se la legge, l'atto o la norma anche consuetudinaria, comunque avente forza di legge, o parte di essi, per i quali è stato richiesto il referendum abrogativo, sono abrogati o modificati dal Consiglio Grande e Generale prima dello svolgimento del 5 Testo originario (Legge Qualificata n.1/2013):
+
+1\. Le votazioni nel referendum avvengono tramite scheda di Stato, avente le caratteristiche indicate nel modello adottato con decreto reggenziale, nella quale è riprodotta in modo chiaro ed integrale la proposta soggetta a referendum seguita dalle diciture SI – NO chiaramente differenziate.
+
+2\. In caso di contemporaneo svolgimento di più referendum le schede relative a ciascun quesito dovranno essere di diverso colore.
+
+3\. I seggi elettorali sono costituiti secondo le norme previste dalla vigente legge elettorale, fermo restando il diritto di rappresentanza per i comitati e le altre organizzazioni indicate all’articolo 15.
+
+4\. Con apposita legge sono introdotte, per le consultazioni referendarie, le norme disciplinanti l’esercizio del diritto di voto con modalità informatiche a partire dal superamento del certificato elettorale cartaceo e dall’adozione di supporti informatici per il computo dell’affluenza degli elettori votanti; il tutto nel pieno rispetto dei principi fondamentali di segretezza, universalità, unicità del voto ed espressione diretta della volontà dell’elettore.
+
+Modifiche legislative:
+
+Legge Qualificata n.1/2016, Articolo 5:
+
+1\. L’articolo 16, comma 3, della Legge Qualificata n. 1/2013 è così modificato:
+
+“3.
+
+I seggi elettorali sono costituiti secondo le norme previste dalla vigente legge elettorale, ad eccezione delle disposizioni che disciplinano l’Ufficio elettorale intersezionale, la cui costituzione non è prevista per le consultazioni referendarie. Resta salvo il diritto di assistere a tutte le operazioni del seggio elettorale oltre che per i rappresentanti delle forze politiche di cui all’articolo 15 anche per i rappresentanti del comitato promotore del referendum stesso e del comitato contrario.”.
+
+referendum, in modo da accogliere nella sostanza e completamente le richieste del comitato promotore, le procedure per lo svolgimento del referendum sono interrotte.
+
+2\. La procedura è interrotta anche qualora il comitato promotore con solenne dichiarazione e sottoscrizione autenticata di tutti i membri del comitato promotore, rivolga alla Reggenza apposita richiesta di interruzione e su questa richiesta concordi a maggioranza assoluta il Consiglio Grande e Generale a cui la richiesta medesima deve essere sottoposta nella prima seduta utile.
+
+3\. Nel caso di cui al comma 1, la dichiarazione di interruzione è pronunciata dalla Reggenza con decreto su conforme deliberazione del Collegio Garante, a ciò convocato. Il Collegio può convocare a tal fine il comitato promotore del referendum, l'eventuale comitato contrario e - qualora ricorra il caso di cui al comma 2 - una delegazione del Consiglio Grande e Generale.
+
+### CAPO II
+
+DEL REFERENDUM PROPOSITIVO O DI INDIRIZZO
+
+#### Art. 20
+
+(Ammissibilità e ricevibilità del referendum propositivo o di indirizzo)
+
+1\. Il referendum propositivo o d’indirizzo è ammesso nei modi e per le finalità di cui all'articolo 2, comma 2, per le stesse materie per le quali è ammissibile il referendum abrogativo; può essere purché sia richiesto da un numero di sessanta cittadini elettori costituiti in comitato promotore ai sensi dell’articolo 5.
+
+2\. Inoltre, il referendum propositivo è ammesso purché non abbia ad oggetto limitazioni dell’esercizio del diritto di voto, del diritto al lavoro e della libera circolazione e stabilimento delle persone ed in generale violazione o limitazione dei diritti dell’uomo.
+
+3\. E’ comunque inammissibile il referendum propositivo o d’indirizzo quando i principi e criteri direttivi sui quali è chiamato ad esprimersi il corpo elettorale possono condurre all’introduzione di norme in contrasto con i principi generali dell’ordinamento sammarinese contenuti nella Dichiarazione dei diritti.
+
+4\. E’ inoltre richiesto per l’ammissibilità del referendum propositivo o d’indirizzo che il quesito referendario esprima distintamente ed in forma univoca i principi ed i criteri direttivi sui quali è chiamato ad esprimersi il corpo elettorale ed ai quali le norme regolatrici dovranno attenersi.
+
+5\. Il Collegio Garante, verificato l'adempimento delle formalità di presentazione della domanda previste dall'articolo 5, accerta l’ammissibilità della richiesta di referendum propositivo o d'indirizzo in conformità a quanto richiesto dal presente articolo.
+
+#### Art. 21
+
+(Norme applicabili al referendum propositivo o d’indirizzo. Rinvio)
+
+1\. Si applicano al referendum propositivo o d’indirizzo tutte le disposizioni prescritte per il referendum abrogativo di iniziativa popolare contenute nel Capo I ed in particolare trovano applicazione, in caso di ammissibilità, le norme di cui agli articoli 12, 13, 15 e 16.
+
+2\. Uno o più referendum propositivi o d’indirizzo possono tenersi nella stessa data di svolgimento di uno o più referendum abrogativi.
+
+3\. Trovano applicazione le disposizioni contenute nell'articolo 14.
+
+#### Art. 22
+
+(Corpo elettorale e computo dei voti)
+
+1\. Partecipano al referendum propositivo o d'indirizzo i cittadini iscritti nelle liste elettorali.
+
+2\. La proposta sottoposta a referendum propositivo o d’indirizzo è approvata se ottiene la maggioranza dei voti validamente espressi.
+
+3\. Si intendono per voti validamente espressi i voti favorevoli e i voti contrari alla proposta.6
+
+#### Art. 23
+
+(Attuazione della volontà referendaria)
+
+1\. Concluse le operazioni di voto e di scrutinio, la Reggenza pubblica con proprio decreto il risultato del referendum; in caso di approvazione della proposta, la Reggenza apre il termine di sei mesi entro il quale il Congresso di Stato è tenuto a redigere un progetto di legge volto a disciplinare, secondo i principi ed i criteri direttivi approvati dal corpo elettorale, la materia che è stata oggetto di referendum.
+
+2\. La Reggenza, ricevuto il progetto di legge di cui al comma che precede, lo trasmette al Collegio Garante perché si esprima sulla compatibilità della proposta di legge con il quesito approvato, e suggerisce al Congresso di Stato gli eventuali emendamenti da apportare al provvedimento stesso. La Reggenza, ricevuta la comunicazione del Collegio Garante, la trasmette al Congresso di Stato al quale è assegnato il termine di trenta giorni per la regolarizzazione del progetto uniformandolo alle comunicazioni ricevute dal Collegio.
+
+3\. Il Congresso di Stato, apportati gli emendamenti, deposita il progetto di legge all’Ufficio di Presidenza del Consiglio Grande e Generale che lo inserisce all’ordine del giorno della prima seduta utile.
+
+4\. E’ compito della Reggenza vigilare sul corretto svolgimento della procedura prevista ai commi che precedono.
+
+#### Art. 24
+
+(Interruzione della procedura referendaria)
+
+1\. Qualora il Consiglio Grande e Generale, successivamente al giudizio di ammissibilità previsto all'articolo 20 e prima dello svolgimento del referendum propositivo o di indirizzo, approva una legge che accolga nella sostanza e completamente i principi ed i criteri direttivi richiesti dal comitato promotore, ed il Collegio Garante convocato per tale giudizio lo accerta, la Reggenza dichiara con decreto adottato su conforme decisione del Collegio Garante, l’interruzione delle procedure per lo svolgimento del referendum.
+
+6 Testo originario (Legge Qualificata n.1/2013):
+
+1\. Partecipano al referendum propositivo o d'indirizzo i cittadini iscritti nelle liste elettorali.
+
+2\. La proposta sottoposta a referendum propositivo o d’indirizzo è approvata se ottiene la maggioranza dei voti validamente espressi e comunque non meno del 25% (venticinquepercento) degli elettori iscritti nelle liste elettorali.
+
+3\. Si intendono per voti validamente espressi i voti favorevoli e i voti contrari alla proposta.
+
+Modifiche legislative:
+
+Legge Qualificata n.2/2016, Articolo 4:
+
+1\. L’articolo 22, comma 2 della Legge Qualificata n. 1/2013 è così modificato:
+
+“2.
+
+La proposta sottoposta a referendum propositivo o d’indirizzo è approvata se ottiene la maggioranza dei voti validamente espressi.”.
+
+2\. Nei casi di cui al superiore comma si applicano le disposizioni previste dall’articolo 19.
+
+### CAPO III
+
+DEL REFERENDUM CONFERMATIVO
+
+#### Art. 25
+
+(Ammissibilità e ricevibilità del referendum confermativo di iniziativa popolare)
+
+1\. Il referendum confermativo di iniziativa popolare è ammesso unicamente per le leggi che riguardano gli organi, organismi e poteri fondamentali dello Stato di cui alla Dichiarazione dei diritti.
+
+2\. La procedura referendaria è instaurata dalla richiesta scritta presentata alla Reggenza e depositata presso l’Ufficio Segreteria Istituzionale prima dell’entrata in vigore della legge da almeno dieci cittadini elettori costituiti in comitato promotore del referendum.
+
+3\. La richiesta di referendum confermativo sospende l’efficacia della legge per la quale ha luogo.
+
+4\. Per le formalità inerenti al deposito della richiesta si applicano le disposizioni previste all’articolo 5.
+
+5\. La Reggenza trasmette immediatamente la richiesta di referendum al Collegio Garante.
+
+6\. Entro venti giorni dal deposito della richiesta di cui al comma 2, il Collegio Garante si pronuncia sulla ammissibilità della richiesta in relazione alla materia consentita. Nei successivi novanta giorni, in caso di pronuncia favorevole del Collegio Garante, è consentita la raccolta delle firme con le modalità e nella misura di cui all’articolo 12. La verifica della validità delle firme e la trasmissione degli atti alla Reggenza è effettuata con le stesse modalità previste all’articolo 13.
+
+#### Art. 26
+
+(Referendum confermativo di iniziativa consiliare)
+
+1\. Il referendum confermativo può essere richiesto espressamente per ogni legge attraverso apposita disposizione contenuta nella stessa legge da sottoporre a referendum approvata da almeno trentuno Consiglieri; è ammesso per ogni materia, fatta eccezione per le leggi in materia fiscale, finanziaria, di amnistia e di indulto.
+
+2\. Non si fa luogo al giudizio di ammissibilità da parte del Collegio Garante né alla raccolta delle firme di cui all'articolo 12.
+
+#### Art. 27
+
+(Indizione del referendum confermativo)
+
+1\. La Reggenza, in caso di pronuncia di ammissibilità da parte del Collegio Garante del referendum confermativo di iniziativa popolare o in caso di referendum confermativo previsto dalle singole leggi o di iniziativa consiliare, fissa con proprio decreto la data di svolgimento del referendum da tenersi in un giorno di domenica compreso fra il sessantesimo ed il novantesimo giorno dalla data del decreto di indizione del referendum stesso.
+
+2\. Trova applicazione anche per il referendum confermativo quanto disposto in tema di impedimenti dall'articolo 14.
+
+3\. La campagna referendaria e le modalità di svolgimento della votazione sono le stesse previste per i referendum abrogativo e propositivo o di indirizzo.
+
+#### Art. 28
+
+(Corpo elettorale, computo dei voti, effetti del referendum)
+
+1\. Partecipano al referendum confermativo i cittadini iscritti nelle liste elettorali.
+
+2\. La proposta sottoposta a referendum confermativo è approvata se ottiene la maggioranza dei voti validamente espressi.
+
+3\. Si intendono per voti validamente espressi i voti favorevoli e i voti contrari alla proposta.
+
+4\. La Reggenza, preso atto del risultato definitivo del referendum confermativo, con proprio decreto dichiara efficace la legge sottoposta a referendum nel caso di risultato favorevole alla sua entrata in vigore; dichiara invece la decadenza della legge in caso di risultato contrario alla sua entrata in vigore.7
+
+## TITOLO II
+
+DELLA INIZIATIVA LEGISLATIVA POPOLARE
+
+#### Art. 29
+
+(Presentazione del progetto di legge di iniziativa legislativa popolare)
+
+1\. Al corpo elettorale è riconosciuta la facoltà di presentare al Consiglio Grande e Generale, e per esso alla Reggenza, progetti di legge redatti in articoli e corredati di relazione illustrativa e indicanti la copertura di spesa ove i progetti di legge stessi indichino tale necessità.
+
+2\. La proposta è depositata presso l’Ufficio Segreteria Istituzionale dal relatore indicato espressamente dai sottoscrittori.
+
+3\. Ciascun progetto deve essere sottoscritto da almeno sessanta firme di cittadini elettori. Il relatore è garante a tutti gli effetti di legge della autenticità delle firme.
+
+#### Art. 30
+
+(Procedimento)
+
+1\. Ai progetti di legge di iniziativa popolare è assicurato lo stesso procedimento di discussione previsto dal Regolamento Consiliare per le proposte di legge di iniziativa consiliare.
+
+2\. Le proposte di legge di iniziativa popolare sono inserite dalla Reggenza, sentito l’Ufficio di Presidenza, all’ordine del giorno del Consiglio Grande e Generale, per il loro esame in seconda lettura, entro centoottanta giorni dalla loro presentazione.
+
+7 Testo originario (Legge Qualificata n.1/2013):
+
+1\. Partecipano al referendum confermativo i cittadini iscritti nelle liste elettorali.
+
+2\. La proposta sottoposta a referendum confermativo è approvata se ottiene la maggioranza dei voti validamente espressi e comunque non meno del 25% (venticinquepercento) degli elettori iscritti nelle liste elettorali.
+
+3\. Si intendono per voti validamente espressi i voti favorevoli e i voti contrari alla proposta.
+
+4\. La Reggenza, preso atto del risultato definitivo del referendum confermativo, con proprio decreto dichiara efficace la legge sottoposta a referendum nel caso di risultato favorevole alla sua entrata in vigore; dichiara invece la decadenza della legge in caso di risultato contrario alla sua entrata in vigore.
+
+Modifiche legislative:
+
+Legge Qualificata n.2/2016, Articolo 5:
+
+1\. L’articolo 28, comma 2 della Legge Qualificata n. 1/2013 è così modificato:
+
+“2.
+
+La proposta sottoposta a referendum confermativo è approvata se ottiene la maggioranza dei voti validamente espressi.”.
+
+3\. Il relatore designato dai presentatori è invitato a partecipare con diritto di parola alla fase di esame della proposta nelle Commissioni Consiliari Permanenti competenti. Nel caso la proposta venga esaminata direttamente dal Consiglio, il relatore deve essere invitato a partecipare alla seduta consiliare che discute il progetto in seconda lettura.
+
+## TITOLO III
+
+DISPOSIZIONI COMUNI, TRANSITORIE E FINALI
+
+#### Art.31
+
+(Oneri finanziari)
+
+1\. Gli oneri finanziari per lo svolgimento del referendum sono a carico dello Stato.
+
+2\. Il comitato promotore ed il comitato contrario hanno diritto di percepire ciascuno, in caso di ammissione del referendum, un contributo per spese di propaganda documentate, comunque per un importo non superiore ad Euro 5000,00 (cinquemilaeuro) per ciascun comitato.
+
+#### Art.32
+
+(Disposizioni transitorie)
+
+1\. Ai referendum, i cui quesiti siano stati presentati anteriormente all’entrata in vigore della presente legge, si applicano le norme contenute nella Legge 28 novembre 1994 n.101 e successive modifiche.
+
+#### Art. 33
+
+(Abrogazioni ed entrata in vigore)
+
+1\. Sono abrogate le disposizioni in contrasto con la presente legge e in particolare e sono abrogati la Legge 28 novembre 1994 n. 101 e successive modifiche e l’articolo 16 della Legge Qualificata 5 agosto 2008 n.1, fatto salvo quanto previsto all’articolo
+
+2\. La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
+
+ALTRE NORME LEGGE 27 SETTEMBRE 2013 N.127 LEGGE SULLE GIUNTE DI CASTELLO
+
+#### Art. 20
+
+Compiti del Capitano di Castello
+
+1\. Al Capitano di Castello compete:
+
+a) rappresentare la Giunta e il Castello in ogni ambito e sede compresa la rappresentanza per gli aspetti patrimoniali di competenza;
+
+b) convocare e presiedere le riunioni della Giunta;
+
+c) predisporre l’ordine del giorno delle sedute della Giunta, previa verifica delle proposte e richieste pervenute;
+
+d) dare esecuzione alle deliberazioni della Giunta;
+
+e) trasmettere, qualora la Giunta deliberi su questioni di rilevante interesse, copia delle deliberazioni alle Segreterie di Stato e agli organismi interessati oltre che alla Segreteria di Stato con delega ai Rapporti con le Giunte di Castello;
+
+f) relazionare al Congresso di Stato tramite il Segretario di Stato con delega ai Rapporti con le Giunte di Castello;
+
+g) celebrare matrimoni civili su delega del Segretario di Stato per gli Affari Interni e adempiere a ogni altra funzione delegata dagli organismi dello Stato;
+
+h) autenticare le firme dei cittadini sottoscrittori della proposta referendaria ai sensi dell’articolo 12 della Legge Qualificata 29 maggio 2013 n.1;
+
+i) partecipare alle sedute della Commissione per le Politiche Territoriali ai sensi della vigente normativa in materia edilizia e urbanistica al fine di manifestare il parere assunto dalla Giunta in merito all’intervento urbanistico;
+
+l) ogni altra funzione demandata dalle leggi vigenti.
+
+2\. Le deliberazioni della Giunta di Castello sono redatte sulla base delle indicazioni contenute in un apposito regolamento interno da adottare nella seduta di insediamento della Giunta stessa e devono essere protocollate e raccolte in apposito registro. Il regolamento adottato da ogni singola Giunta deve essere trasmesso, entro trenta giorni dalla sua approvazione, all’Ufficio Segreteria Istituzionale.
+
+3\. Il Capitano di Castello ha facoltà di seguire, stimolare e sollecitare presso gli uffici competenti della Repubblica il regolare svolgimento delle pratiche dei cittadini, anche in forma associata e degli enti del Castello che ne facciano richiesta. Allo scopo, informa periodicamente la Giunta dei propri interventi.

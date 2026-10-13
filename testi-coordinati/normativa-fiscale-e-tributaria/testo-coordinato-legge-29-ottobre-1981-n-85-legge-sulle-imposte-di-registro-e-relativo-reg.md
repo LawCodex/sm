@@ -151,13 +151,7 @@ Allorché si tratta di rendita vitalizia o pensione il capitale è formato: di d
 
 Qualora l'età del vitalizio non venga documentata come all'art. 14, la liquidazione dell'imposta è fatta nel modo più vantaggioso per l'Erario.
 
-a)
-
-b)
-
-##### Art. 20
-
-Le rendite o vitalizi che si paghino in generi o derrate, ossia in natura, sono capitalizzate nel modo indicato degli artt. 18 e 19, previa dichiarazione, da farsi dalle parti, del valore delle prestazioni suddette.
+b) Art. 20 Le rendite o vitalizi che si paghino in generi o derrate, ossia in natura, sono capitalizzate nel modo indicato degli artt. 18 e 19, previa dichiarazione, da farsi dalle parti, del valore delle prestazioni suddette.
 
 Qualora il valore dichiarato sia ritenuto inesatto il Conservatore ha la facoltà di stabilirlo secondo le risultanze delle mercuriali locali.
 
@@ -183,9 +177,7 @@ In caso di rifiuto il Conservatore fa una dichiarazione d'Ufficio.
 
 ##### Art. 25
 
-1.
-
-Il Conservatore, avvalendosi di un funzionario dell’Ufficio Tecnico del Catasto e Cartografia, determina il valore reale dell'immobile o diritto reale, al giorno del trasferimento, tenendo conto delle vendite, divisioni, o stime precedenti degli immobili medesimi, dei prezzi di mercato di altri immobili posti nella stessa località ed in analoghe condizioni, nonché dei criteri di valutazione adottati dai periti nelle loro stime.
+1\. Il Conservatore, avvalendosi di un funzionario dell’Ufficio Tecnico del Catasto e Cartografia, determina il valore reale dell'immobile o diritto reale, al giorno del trasferimento, tenendo conto delle vendite, divisioni, o stime precedenti degli immobili medesimi, dei prezzi di mercato di altri immobili posti nella stessa località ed in analoghe condizioni, nonché dei criteri di valutazione adottati dai periti nelle loro stime.
 
 ##### Art. 26
 
@@ -487,29 +479,17 @@ La riscossione coattiva delle imposte e pene pecuniarie previste dalla presente 
 
 ##### Art. 72
 
-1.
+1\. La decisione delle controversie giudiziali riguardanti le imposte e le penali stabilite dalla presente legge, spetta al Commissario della Legge con i limiti previsti dall’articolo 32, secondo la procedura che segue.
 
-La decisione delle controversie giudiziali riguardanti le imposte e le penali stabilite dalla presente legge, spetta al Commissario della Legge con i limiti previsti dall’articolo 32, secondo la procedura che segue.
+2\. Il ricorso è presentato al Commissario della Legge entro il termine perentorio di 60 giorni dal pagamento delle imposte liquidate dall’Ufficio.
 
-2.
+3\. Il ricorso deve contenere i motivi in fatto e in diritto addotti a sostegno e ad esso deve essere allegata, a pena di inammissibilità dello stesso, la quietanza di pagamento delle imposte liquidate dall’Ufficio e dell’atto che le ha assolte.
 
-Il ricorso è presentato al Commissario della Legge entro il termine perentorio di 60 giorni dal pagamento delle imposte liquidate dall’Ufficio.
+4\. Il Commissario della Legge, ricevuto il ricorso, ne dispone entro 10 giorni la notifica all’Ufficio, che entro i successivi 30 giorni, si costituisce nel giudizio presentando memorie e deduzioni, allegando altresì i documenti in suo possesso che interessano la questione dedotta in giudizio.
 
-3.
+5\. Il fascicolo è trattenuto dal Commissario della Legge ai fini della decisione il quindicesimo giorno successivo alla scadenza del termine per il deposito di memorie di cui al comma che precede; in tale periodo le parti possono prendere visione degli atti e depositare eventuali deduzioni aggiuntive.
 
-Il ricorso deve contenere i motivi in fatto e in diritto addotti a sostegno e ad esso deve essere allegata, a pena di inammissibilità dello stesso, la quietanza di pagamento delle imposte liquidate dall’Ufficio e dell’atto che le ha assolte.
-
-4.
-
-Il Commissario della Legge, ricevuto il ricorso, ne dispone entro 10 giorni la notifica all’Ufficio, che entro i successivi 30 giorni, si costituisce nel giudizio presentando memorie e deduzioni, allegando altresì i documenti in suo possesso che interessano la questione dedotta in giudizio.
-
-5.
-
-Il fascicolo è trattenuto dal Commissario della Legge ai fini della decisione il quindicesimo giorno successivo alla scadenza del termine per il deposito di memorie di cui al comma che precede; in tale periodo le parti possono prendere visione degli atti e depositare eventuali deduzioni aggiuntive.
-
-6.
-
-Il Commissario della Legge decide inappellabilmente nei successivi 30 giorni.
+6\. Il Commissario della Legge decide inappellabilmente nei successivi 30 giorni.
 
 #### SEZIONE IV
 
@@ -921,13 +901,9 @@ a) se la sostanza sociale non è determinata;
 
 Al n.25 – da calcolare sul capitale formato sulle norme stabilite dall’art.
 
-19.
+19\. 70,00
 
-70,00
-
-b)
-
-con conferimento:
+b) con conferimento:
 
 A. di immobili, o contatti di locazione finanziaria aventi oggetto immobili, destinati esclusivamente all’attività della società
 
@@ -1193,13 +1169,9 @@ DISPOSIZIONI GENERALI ED INTRODUTTIVE
 
 (Finalità e definizioni)
 
-1.
+1\. Il presente regolamento sostituisce il Regolamento allegato alla Legge 29 ottobre 1981 n.85 e successive modifiche, al fine di aggiornare e di regolare la formalità della registrazione, recependo i cambiamenti avvenuti negli anni con la digitalizzazione e con le norme sul procedimento amministrativo ed allineandosi alla moderna declinazione dei doveri dell’Amministrazione.
 
-Il presente regolamento sostituisce il Regolamento allegato alla Legge 29 ottobre 1981 n.85 e successive modifiche, al fine di aggiornare e di regolare la formalità della registrazione, recependo i cambiamenti avvenuti negli anni con la digitalizzazione e con le norme sul procedimento amministrativo ed allineandosi alla moderna declinazione dei doveri dell’Amministrazione.
-
-2.
-
-Ai fini del presente regolamento si intende per:
+2\. Ai fini del presente regolamento si intende per:
 
 a) “URC” o “Conservatore”: l’UO Ufficio del Registro e Conservatoria;
 
@@ -1211,33 +1183,23 @@ d) “atto” e “atti”: gli atti notarili o giudiziali, le scritture private
 
 e) “copia d’archivio” e “copia ad uso registro”: copia dell’atto oggetto di registrazione e archiviata a fini di conservazione.
 
-3.
-
-Alcune disposizioni del presente regolamento si applicano espressamente alle sole scritture private, chiamate nel presente testo anche “scritture”, in quanto riguardano aspetti che, per gli atti pubblici notarili e le scritture autenticate, sono disciplinati dall’ordinamento del notariato.
+3\. Alcune disposizioni del presente regolamento si applicano espressamente alle sole scritture private, chiamate nel presente testo anche “scritture”, in quanto riguardano aspetti che, per gli atti pubblici notarili e le scritture autenticate, sono disciplinati dall’ordinamento del notariato.
 
 ##### Art. 2
 
 (Registrazione in formato digitale)
 
-1.
+1\. La formalità della registrazione è eseguita così come previsto dalla Legge n.85/1981 e successive modifiche, tramite l’applicativo informatico RIPO, attraverso cui sono gestite le attività dell’URC.
 
-La formalità della registrazione è eseguita così come previsto dalla Legge n.85/1981 e successive modifiche, tramite l’applicativo informatico RIPO, attraverso cui sono gestite le attività dell’URC.
-
-2.
-
-RIPO garantisce la veridicità, la certezza e la sequenzialità delle operazioni per data e numerazione e distingue, al fine dell’inserimento dei dati degli atti oggetto di tale formalità, la sezione della registrazione dalle sezioni dedicate ad altre attività dell’URC.
+2\. RIPO garantisce la veridicità, la certezza e la sequenzialità delle operazioni per data e numerazione e distingue, al fine dell’inserimento dei dati degli atti oggetto di tale formalità, la sezione della registrazione dalle sezioni dedicate ad altre attività dell’URC.
 
 ##### Art. 3
 
 (Esecuzione della registrazione)
 
-1.
+1\. L’URC procede subito all’inserimento dei dati dell’atto da sottoporre alla sola formalità di registrazione, ai fini della liquidazione delle imposte, fatto salvo diverso accordo con l’utente o a causa di carichi di lavoro intensi.
 
-L’URC procede subito all’inserimento dei dati dell’atto da sottoporre alla sola formalità di registrazione, ai fini della liquidazione delle imposte, fatto salvo diverso accordo con l’utente o a causa di carichi di lavoro intensi.
-
-2.
-
-Avvenuto il pagamento, l’URC esegue immediatamente la registrazione degli atti, fatto salvo diverso accordo con l’utente.
+2\. Avvenuto il pagamento, l’URC esegue immediatamente la registrazione degli atti, fatto salvo diverso accordo con l’utente.
 
 ### CAPO II
 
@@ -1247,91 +1209,57 @@ REQUISITI E DEPOSITO DEGLI ATTI
 
 (Requisiti degli atti ai fini della registrazione)
 
-1.
+c) Sono idonei alla registrazione gli atti che abbiano i seguenti requisiti: presentino firma autografa di almeno un contraente/dichiarante; siano scritti in lingua italiana; siano accompagnati da una copia ad uso registro, dichiarata autentica da Pubblico Ufficiale o dichiarata conforme ai sensi dell’articolo 21 della Legge 5 ottobre 2011 n.159, ed aventi le caratteristiche di cui all’articolo 6.
 
-a)
+2\. Qualora il testo della scrittura privata da sottoporre a registrazione sia in lingua straniera, la stessa deve essere corredata da traduzione sottoscritta in originale da chi l’abbia eseguita, senza altre formalità.
 
-b)
-
-c)
-
-Sono idonei alla registrazione gli atti che abbiano i seguenti requisiti: presentino firma autografa di almeno un contraente/dichiarante; siano scritti in lingua italiana; siano accompagnati da una copia ad uso registro, dichiarata autentica da Pubblico Ufficiale o dichiarata conforme ai sensi dell’articolo 21 della Legge 5 ottobre 2011 n.159, ed aventi le caratteristiche di cui all’articolo 6.
-
-2.
-
-Qualora il testo della scrittura privata da sottoporre a registrazione sia in lingua straniera, la stessa deve essere corredata da traduzione sottoscritta in originale da chi l’abbia eseguita, senza altre formalità.
-
-3.
-
-Il Conservatore non può rifiutare la registrazione di atti idonei ai sensi del presente articolo, fatti salvi espressi divieti previsti da norme speciali.
+3\. Il Conservatore non può rifiutare la registrazione di atti idonei ai sensi del presente articolo, fatti salvi espressi divieti previsti da norme speciali.
 
 ##### Art. 5
 
 (Registrazione Virtuale)
 
-1.
-
-Qualora l’utente non sia in possesso dell’originale ma voglia conferire data certa ad una copia ovvero voglia regolarizzarla fiscalmente, il Conservatore riscuote le imposte di bollo e di registro senza effettuare la formalità di registrazione e appone sulla prima pagina in alto il timbro portante la dicitura “Registrazione Virtuale” in cui sono indicati gli estremi della quietanza.
+1\. Qualora l’utente non sia in possesso dell’originale ma voglia conferire data certa ad una copia ovvero voglia regolarizzarla fiscalmente, il Conservatore riscuote le imposte di bollo e di registro senza effettuare la formalità di registrazione e appone sulla prima pagina in alto il timbro portante la dicitura “Registrazione Virtuale” in cui sono indicati gli estremi della quietanza.
 
 ##### Art. 6
 
 (Copie degli atti ai fini della registrazione)
 
-1.
+1\. Le copie delle scritture portate alla registrazione devono riprodurre in modo completo ed esatto l’originale e devono essere corredate di tutti gli allegati, che ne fanno parte integrante.
 
-Le copie delle scritture portate alla registrazione devono riprodurre in modo completo ed esatto l’originale e devono essere corredate di tutti gli allegati, che ne fanno parte integrante.
+2\. Se l’utente non possiede copia dell’originale, l’URC può formare la copia autentica della scrittura privata al fine della registrazione e della conservazione come copia ad uso registro, previo pagamento del diritto di pratica previsto per le copie autentiche di atti registrati. Nel verbale del rilascio della copia, il funzionario precisa che la copia è conforme all’originale esibito ai fini della registrazione, ed è formata e sottoscritta quale copia autentica ad uso Registro per essere archiviata agli atti dell’URC.
 
-2.
+3\. E’ ammessa la produzione di più originali di scrittura privata con sottoscrizione autografa, in luogo della copia. In tale caso, resta conservato ad uso registro uno degli originali.
 
-Se l’utente non possiede copia dell’originale, l’URC può formare la copia autentica della scrittura privata al fine della registrazione e della conservazione come copia ad uso registro, previo pagamento del diritto di pratica previsto per le copie autentiche di atti registrati. Nel verbale del rilascio della copia, il funzionario precisa che la copia è conforme all’originale esibito ai fini della registrazione, ed è formata e sottoscritta quale copia autentica ad uso Registro per essere archiviata agli atti dell’URC.
-
-3.
-
-E’ ammessa la produzione di più originali di scrittura privata con sottoscrizione autografa, in luogo della copia. In tale caso, resta conservato ad uso registro uno degli originali.
-
-4.
-
-Il Conservatore controlla i documenti sommariamente, ma non è tenuto a collazionare la copia con l’originale o gli originali tra loro, e non ha alcuna responsabilità in caso di difformità.
+4\. Il Conservatore controlla i documenti sommariamente, ma non è tenuto a collazionare la copia con l’originale o gli originali tra loro, e non ha alcuna responsabilità in caso di difformità.
 
 ##### Art. 7
 
 (Aggiornamenti sulla forma degli atti)
 
-1.
-
-Le disposizioni inerenti alla lingua, alla firma ed alla forma analogica ed informatica degli atti, sono aggiornate ed integrate con modifiche al presente regolamento.
+1\. Le disposizioni inerenti alla lingua, alla firma ed alla forma analogica ed informatica degli atti, sono aggiornate ed integrate con modifiche al presente regolamento.
 
 ##### Art. 8
 
 (Deposito e tracciamento dell’atto iscritto a repertorio)
 
-1.
+1\. Qualora l’atto iscritto nel Repertorio Notarile sia portato alla registrazione e la formalità non venga immediatamente eseguita, l’URC annota in REPE la data del suo deposito e, dal momento in cui il funzionario inserisce i dati dell’atto in RIPO, sono visibili su REPE la fase di lavorazione, i dati della liquidazione ed, infine, i dati dell’avvenuta registrazione.
 
-Qualora l’atto iscritto nel Repertorio Notarile sia portato alla registrazione e la formalità non venga immediatamente eseguita, l’URC annota in REPE la data del suo deposito e, dal momento in cui il funzionario inserisce i dati dell’atto in RIPO, sono visibili su REPE la fase di lavorazione, i dati della liquidazione ed, infine, i dati dell’avvenuta registrazione.
+2\. Nel caso in cui il notaio abbia l’esigenza di ritirare sia originale che le copie, l’URC provvede a cancellare l’annotazione di avvenuto deposito e una eventuale consegna successiva è annotata nella data in cui viene nuovamente presentato.
 
-2.
-
-Nel caso in cui il notaio abbia l’esigenza di ritirare sia originale che le copie, l’URC provvede a cancellare l’annotazione di avvenuto deposito e una eventuale consegna successiva è annotata nella data in cui viene nuovamente presentato.
-
-3.
-
-L’annotazione della data di deposito ai sensi dei commi 1 e 2 funge da ricevuta per il notaio.
+3\. L’annotazione della data di deposito ai sensi dei commi 1 e 2 funge da ricevuta per il notaio.
 
 ##### Art. 9
 
 (Ricevuta di deposito di scrittura privata)
 
-1.
-
-Qualora sia portata a registrazione una scrittura privata o altro atto non iscritto nel Repertorio Notarile, e la formalità non venga immediatamente eseguita, l’URC rilascia ricevuta cartacea su richiesta dell’esibitore.
+1\. Qualora sia portata a registrazione una scrittura privata o altro atto non iscritto nel Repertorio Notarile, e la formalità non venga immediatamente eseguita, l’URC rilascia ricevuta cartacea su richiesta dell’esibitore.
 
 ##### Art. 10
 
 (Effetto del mancato pagamento delle imposte sugli atti depositati)
 
-1.
-
-Ai sensi dell’articolo 56 della Legge n.85/1981, il mancato pagamento produce l’effetto che il deposito dell’atto, benché materialmente effettuato, si considera come non avvenuto ai fini della registrazione e, scaduto il termine previsto dalla legge per il pagamento delle imposte, è dovuta la penale di tardiva registrazione.
+1\. Ai sensi dell’articolo 56 della Legge n.85/1981, il mancato pagamento produce l’effetto che il deposito dell’atto, benché materialmente effettuato, si considera come non avvenuto ai fini della registrazione e, scaduto il termine previsto dalla legge per il pagamento delle imposte, è dovuta la penale di tardiva registrazione.
 
 ### CAPO III
 
@@ -1341,9 +1269,7 @@ REGISTRO DELLE FORMALITÀ DI REGISTRAZIONE
 
 (Registro delle Formalità di Registrazione)
 
-1.
-
-Il Registro delle Formalità di Registrazione contiene tutte le registrazioni ed è gestito mediante l’applicativo informatico RIPO che ha le seguenti caratteristiche:
+1\. Il Registro delle Formalità di Registrazione contiene tutte le registrazioni ed è gestito mediante l’applicativo informatico RIPO che ha le seguenti caratteristiche:
 
 a) utilizza tabelle preimpostate e costantemente aggiornate (emittente, forma atto, negoziazioni, imposte) allo scopo di rendere agevole l’attività di inserimento dei dati e consentire estrazioni statistiche;
 
@@ -1357,23 +1283,13 @@ d) gestisce, mediante il Registro Riscossioni TS di cui all’articolo 17, le sc
 
 (Richiesta di registrazione)
 
-1.
-
-La richiesta di registrazione è costituita dai seguenti dati inseriti in RIPO da parte dei funzionari e degli operatori, ricavati da ciascun atto presentato per la registrazione:
+1\. La richiesta di registrazione è costituita dai seguenti dati inseriti in RIPO da parte dei funzionari e degli operatori, ricavati da ciascun atto presentato per la registrazione:
 
 a) esibitore: nominativo della persona fisica o giuridica che presenta l’atto alla registrazione.
 
 In sede di pagamento il contribuente può chiedere di intestare la quietanza a soggetto diverso da quello indicato come esibitore;
 
-b)
-
-c)
-
-d)
-
-e)
-
-emittente: notaio che ha rogato l’atto o ruolo di pubblico ufficiale o autorità; forma e data dell’atto, ed eventuale numero di Repertorio e di Custodia-Conservazione; tipologia di negozio giuridico; contraenti, mediante l’utilizzo del codice ISS o del Codice Operatore Economico. In loro mancanza, l’opzione No Cod;
+e) emittente: notaio che ha rogato l’atto o ruolo di pubblico ufficiale o autorità; forma e data dell’atto, ed eventuale numero di Repertorio e di Custodia-Conservazione; tipologia di negozio giuridico; contraenti, mediante l’utilizzo del codice ISS o del Codice Operatore Economico. In loro mancanza, l’opzione No Cod;
 
 f) oggetto, prezzo, valore;
 
@@ -1385,13 +1301,9 @@ i) eventuali riferimenti a contratti precedenti, durata, scadenza e relative cau
 
 l) eventuali annotazioni dell’operatore circa elementi importanti per liquidazione e registrazione.
 
-2.
+2\. Sulla richiesta di registrazione sono apposte la data, il nome e la firma di ritiro da parte dell’utente.
 
-Sulla richiesta di registrazione sono apposte la data, il nome e la firma di ritiro da parte dell’utente.
-
-3.
-
-La richiesta di registrazione è archiviata congiuntamente all’atto a cui si riferisce.
+3\. La richiesta di registrazione è archiviata congiuntamente all’atto a cui si riferisce.
 
 ### CAPO IV
 
@@ -1401,93 +1313,57 @@ LIQUIDAZIONE E RISCOSSIONE DELLE IMPOSTE
 
 (Obbligo di preventivo pagamento delle imposte)
 
-1.
+1\. Il Conservatore non può procedere ad alcuna registrazione, nemmeno virtuale, senza prima aver riscosso il pagamento delle imposte.
 
-Il Conservatore non può procedere ad alcuna registrazione, nemmeno virtuale, senza prima aver riscosso il pagamento delle imposte.
+2\. Ai fini della liquidazione dell’imposta di registro si osservano le disposizioni contenute nella Legge n.85/1981 e successive modifiche e nel presente regolamento.
 
-2.
-
-Ai fini della liquidazione dell’imposta di registro si osservano le disposizioni contenute nella Legge n.85/1981 e successive modifiche e nel presente regolamento.
-
-3.
-
-Le imposte proporzionali e progressive sono calcolate sui prezzi ed i valori indicati in atto, fatta salva l’eventuale rivalutazione nel procedimento di accertamento di valore ai sensi degli articoli 25 seguenti della Legge n.85/1981 e successive modifiche.
+3\. Le imposte proporzionali e progressive sono calcolate sui prezzi ed i valori indicati in atto, fatta salva l’eventuale rivalutazione nel procedimento di accertamento di valore ai sensi degli articoli 25 seguenti della Legge n.85/1981 e successive modifiche.
 
 ##### Art. 14
 
 (Richiesta di benefici fiscali)
 
-1.
+1\. In applicazione dell’articolo 2, secondo comma della Legge n.85/1981, le esenzioni e i benefici fiscali che il contribuente pretende siano applicati all’atto da registrare, sono espressamente richiesti nell’atto stesso, il quale deve contenere le dichiarazioni e la documentazione indicate dalle norme speciali per la sussistenza dei requisiti.
 
-In applicazione dell’articolo 2, secondo comma della Legge n.85/1981, le esenzioni e i benefici fiscali che il contribuente pretende siano applicati all’atto da registrare, sono espressamente richiesti nell’atto stesso, il quale deve contenere le dichiarazioni e la documentazione indicate dalle norme speciali per la sussistenza dei requisiti.
+2\. Qualora l’atto pubblico o la scrittura privata autenticata da trascrivere, iscrivere o annotare non contenga quanto previsto al comma 1, e tuttavia il contribuente voglia richiedere l’applicazione di esenzioni e benefici, può effettuare apposita richiesta in cui dichiara e dimostra il possesso dei requisiti. Tale dichiarazione è autenticata e sottoposta ad autonoma registrazione.
 
-2.
-
-Qualora l’atto pubblico o la scrittura privata autenticata da trascrivere, iscrivere o annotare non contenga quanto previsto al comma 1, e tuttavia il contribuente voglia richiedere l’applicazione di esenzioni e benefici, può effettuare apposita richiesta in cui dichiara e dimostra il possesso dei requisiti. Tale dichiarazione è autenticata e sottoposta ad autonoma registrazione.
-
-3.
-
-Qualora la richiesta dei benefici che indica la sussistenza dei requisiti manchi nella scrittura privata e privata autenticata da sottoporre alla sola registrazione, il contribuente presenta la dichiarazione di cui al comma 2 la quale è unita alla copia ad uso registro, previo assolvimento dell’imposta di bollo prevista per le dichiarazioni.
+3\. Qualora la richiesta dei benefici che indica la sussistenza dei requisiti manchi nella scrittura privata e privata autenticata da sottoporre alla sola registrazione, il contribuente presenta la dichiarazione di cui al comma 2 la quale è unita alla copia ad uso registro, previo assolvimento dell’imposta di bollo prevista per le dichiarazioni.
 
 ##### Art. 15
 
 (Dichiarazioni a fini di liquidazione delle imposte)
 
-1.
+1\. Per la registrazione di contratti soggetti ad imposta proporzionale e progressiva, che non contengano l’importo da assumere come imponibile, anche presunto, al fine di liquidare l’imposta il contribuente è tenuto a rilasciare dichiarazione di valore ai fini fiscali, esente da bollo, che resta unita alla copia d’archivio dell’atto registrato.
 
-Per la registrazione di contratti soggetti ad imposta proporzionale e progressiva, che non contengano l’importo da assumere come imponibile, anche presunto, al fine di liquidare l’imposta il contribuente è tenuto a rilasciare dichiarazione di valore ai fini fiscali, esente da bollo, che resta unita alla copia d’archivio dell’atto registrato.
+2\. Qualora la dichiarazione non possa essere resa, in quanto al momento della registrazione il compenso sia ancora da maturare in tutto o in parte, oppure qualora l’importo non sia definitivo, il contratto assolve l’imposta di registro proporzionale o progressiva sulla parte di compenso definito o presunto; in mancanza di tale compenso, assolve l’imposta fissa in misura minima e la riscossione dell’imposta proporzionale/ progressiva su tutto o parte del valore del negozio è rinviata, ai sensi delle norme di cui al presente Capo, previa apposita iscrizione nel Registro Riscossioni TS.
 
-2.
+3\. Qualora l’atto sia portato alla registrazione a distanza di tempo dalla sua stipula, la dichiarazione di cui al comma 1 è resa con riferimento a tutto il periodo di vigenza del rapporto sorto in virtù del contratto o negozio giuridico, e l’imposta è liquidata per tutto il periodo indicato in tale dichiarazione.
 
-Qualora la dichiarazione non possa essere resa, in quanto al momento della registrazione il compenso sia ancora da maturare in tutto o in parte, oppure qualora l’importo non sia definitivo, il contratto assolve l’imposta di registro proporzionale o progressiva sulla parte di compenso definito o presunto; in mancanza di tale compenso, assolve l’imposta fissa in misura minima e la riscossione dell’imposta proporzionale/ progressiva su tutto o parte del valore del negozio è rinviata, ai sensi delle norme di cui al presente Capo, previa apposita iscrizione nel Registro Riscossioni TS.
+4\. L’applicazione dell’imposta proporzionale o progressiva è rinviata anche nel caso in cui il contratto sia sottoposto a condizione sospensiva non meramente potestativa.
 
-3.
-
-Qualora l’atto sia portato alla registrazione a distanza di tempo dalla sua stipula, la dichiarazione di cui al comma 1 è resa con riferimento a tutto il periodo di vigenza del rapporto sorto in virtù del contratto o negozio giuridico, e l’imposta è liquidata per tutto il periodo indicato in tale dichiarazione.
-
-4.
-
-L’applicazione dell’imposta proporzionale o progressiva è rinviata anche nel caso in cui il contratto sia sottoposto a condizione sospensiva non meramente potestativa.
-
-5.
-
-Ai fini della registrazione virtuale, di cui all’articolo 5, la dichiarazione di valore non può essere differita ed in mancanza di imponibile il contribuente è tenuto a rilasciare la dichiarazione di cui al comma 1, relativa al valore effettivo o presunto del negozio giuridico. Tale dichiarazione resta unita alla copia timbrata ritirata dal contribuente.
+5\. Ai fini della registrazione virtuale, di cui all’articolo 5, la dichiarazione di valore non può essere differita ed in mancanza di imponibile il contribuente è tenuto a rilasciare la dichiarazione di cui al comma 1, relativa al valore effettivo o presunto del negozio giuridico. Tale dichiarazione resta unita alla copia timbrata ritirata dal contribuente.
 
 ##### Art. 16
 
 (Obbligo di dichiarazione alla scadenza)
 
-1.
+1\. Per i contratti il pagamento delle cui imposte proporzionali e progressive sia differito ai sensi dell’articolo 15, commi 2 e 4, entro novanta giorni dalla scadenza indicata nel contratto o, in sua mancanza, dalla scadenza del Registro Riscossioni TS di cui all’articolo 19, il contribuente è tenuto a rilasciare dichiarazione all’URC circa la proroga o la cessazione del contratto e circa l’importo dei compensi erogati e da erogare.
 
-Per i contratti il pagamento delle cui imposte proporzionali e progressive sia differito ai sensi dell’articolo 15, commi 2 e 4, entro novanta giorni dalla scadenza indicata nel contratto o, in sua mancanza, dalla scadenza del Registro Riscossioni TS di cui all’articolo 19, il contribuente è tenuto a rilasciare dichiarazione all’URC circa la proroga o la cessazione del contratto e circa l’importo dei compensi erogati e da erogare.
+2\. Il pagamento delle imposte eventualmente dovute deve essere assolto entro il medesimo termine di cui al comma 1.
 
-2.
+3\. Su richiesta motivata del contribuente, l’Ufficio concorda il differimento del termine per la dichiarazione a data immediatamente successiva la chiusura dell’anno fiscale.
 
-Il pagamento delle imposte eventualmente dovute deve essere assolto entro il medesimo termine di cui al comma 1.
-
-3.
-
-Su richiesta motivata del contribuente, l’Ufficio concorda il differimento del termine per la dichiarazione a data immediatamente successiva la chiusura dell’anno fiscale.
-
-4.
-
-In caso di pagamento effettuato oltre i termini di cui sopra, si applicano le penali stabilite dall’articolo 58 della Legge n.85/1981.
+4\. In caso di pagamento effettuato oltre i termini di cui sopra, si applicano le penali stabilite dall’articolo 58 della Legge n.85/1981.
 
 ##### Art. 17
 
 (Registro Riscossioni TS)
 
-1.
+1\. Il Registro Riscossioni TS è formato dalle iscrizioni riguardanti ciascun contratto con scadenza TS, ossia soggetto ad imposte proporzionali e progressive non liquidabili immediatamente, in tutto o in parte, ovvero da riscuotere alla scadenza del periodo già trascorso, con riferimento al quale l’imposta sia stata assolta al momento della registrazione o l’imposta sia da riscuotere anticipatamente per il periodo di proroga del contratto.
 
-Il Registro Riscossioni TS è formato dalle iscrizioni riguardanti ciascun contratto con scadenza TS, ossia soggetto ad imposte proporzionali e progressive non liquidabili immediatamente, in tutto o in parte, ovvero da riscuotere alla scadenza del periodo già trascorso, con riferimento al quale l’imposta sia stata assolta al momento della registrazione o l’imposta sia da riscuotere anticipatamente per il periodo di proroga del contratto.
+2\. Il Registro Riscossioni TS gestisce le scadenze e le dichiarazioni che il contribuente è chiamato a rilasciare per il suo costante aggiornamento.
 
-2.
-
-Il Registro Riscossioni TS gestisce le scadenze e le dichiarazioni che il contribuente è chiamato a rilasciare per il suo costante aggiornamento.
-
-3.
-
-Il Conservatore è tenuto ad iscrivere nel Registro i dati della registrazione dei negozi giuridici, per la riscossione successiva delle imposte proporzionali relative, a titolo esemplificativo e non esaustivo, a:
+3\. Il Conservatore è tenuto ad iscrivere nel Registro i dati della registrazione dei negozi giuridici, per la riscossione successiva delle imposte proporzionali relative, a titolo esemplificativo e non esaustivo, a:
 
 a) atti vincolati a condizione sospensiva;
 
@@ -1497,97 +1373,63 @@ c) contratti in cui il compenso, o la parte di esso non tassato, sia conoscibile
 
 d) contratti la cui durata sia prorogabile;
 
-e)
-
-negozi giuridici che, per espressa previsione di legge speciale, abbiano assolto le imposte fisse in attesa delle verifiche da parte di altri organi ed uffici, sull’accesso ad istituti per i quali non sono dovute le imposte proporzionali;
+e) negozi giuridici che, per espressa previsione di legge speciale, abbiano assolto le imposte fisse in attesa delle verifiche da parte di altri organi ed uffici, sull’accesso ad istituti per i quali non sono dovute le imposte proporzionali;
 
 f) riconoscimento di benefici fiscali i cui requisiti, o la permanenza dei cui requisiti, siano da verificare a distanza di tempo.
 
-4.
+4\. I record del Registro sono aggiornati sulla base delle dichiarazioni e dei contratti successivamente rese e registrati, diretti a modificare i contratti TS.
 
-I record del Registro sono aggiornati sulla base delle dichiarazioni e dei contratti successivamente rese e registrati, diretti a modificare i contratti TS.
-
-5.
-
-I nominativi dei contraenti sono aggiornati d’ufficio o su semplice richiesta del contribuente, per dare atto delle modifiche inerenti i subentri mortis causa o per divisione, permuta ed altri tipi di negozi giuridici registrati.
+5\. I nominativi dei contraenti sono aggiornati d’ufficio o su semplice richiesta del contribuente, per dare atto delle modifiche inerenti i subentri mortis causa o per divisione, permuta ed altri tipi di negozi giuridici registrati.
 
 ##### Art. 18
 
 (Altre imposte)
 
-1.
-
-Nelle iscrizioni del Registro Riscossioni TS sono accertate anche le imposte ipotecarie e di voltura eventualmente dovute ai sensi della Legge 29 ottobre 1981 n.83 e successive modifiche, della Legge 29 ottobre 1981 n.87 e successive modifiche, ed ai sensi dell’articolo 17 del presente regolamento.
+1\. Nelle iscrizioni del Registro Riscossioni TS sono accertate anche le imposte ipotecarie e di voltura eventualmente dovute ai sensi della Legge 29 ottobre 1981 n.83 e successive modifiche, della Legge 29 ottobre 1981 n.87 e successive modifiche, ed ai sensi dell’articolo 17 del presente regolamento.
 
 ##### Art. 19
 
 (Gestione Scadenze TS)
 
-1.
+1\. Per i contratti da iscrivere nel Registro Riscossione TS, l’operatore che esegue la registrazione imputa in RIPO la data di scadenza TS a decorrere dalla quale diventa esigibile la dichiarazione di cui all’articolo 15.
 
-Per i contratti da iscrivere nel Registro Riscossione TS, l’operatore che esegue la registrazione imputa in RIPO la data di scadenza TS a decorrere dalla quale diventa esigibile la dichiarazione di cui all’articolo 15.
+2\. La data di scadenza TS è ricavata dal contratto stesso o, nel caso in cui essa non sia indicata, coincide con la data in cui si compie il periodo di un anno dalla stipula, salvo accordo con il contribuente su data precedente o su data più coerente con la prestazione pattuita.
 
-2.
+3\. Nei casi in cui il contribuente dichiari che il rapporto è cessato e che non sono dovuti ulteriori compensi, l’Operatore URC chiude l’iscrizione nel Registro Riscossioni TS.
 
-La data di scadenza TS è ricavata dal contratto stesso o, nel caso in cui essa non sia indicata, coincide con la data in cui si compie il periodo di un anno dalla stipula, salvo accordo con il contribuente su data precedente o su data più coerente con la prestazione pattuita.
-
-3.
-
-Nei casi in cui il contribuente dichiari che il rapporto è cessato e che non sono dovuti ulteriori compensi, l’Operatore URC chiude l’iscrizione nel Registro Riscossioni TS.
-
-4.
-
-Negli altri casi, al fine delle riscossioni future, l’operatore URC aggiorna la data di scadenza del contratto sulla base della dichiarazione resa dal contribuente.
+4\. Negli altri casi, al fine delle riscossioni future, l’operatore URC aggiorna la data di scadenza del contratto sulla base della dichiarazione resa dal contribuente.
 
 ##### Art. 20
 
 (Avviso di scadenza TS e Dichiarazione TS)
 
-1.
+1\. Al solo scopo di agevolare l’utente, senza esenzione dello stesso dai doveri attribuitigli dalla Legge n.85/1981 e successive modifiche e dal presente regolamento, l’URC invia un avviso al fine di rammentare la Scadenza TS.
 
-Al solo scopo di agevolare l’utente, senza esenzione dello stesso dai doveri attribuitigli dalla Legge n.85/1981 e successive modifiche e dal presente regolamento, l’URC invia un avviso al fine di rammentare la Scadenza TS.
-
-2.
-
-Fermi restando i diritti di ripetizione fra le parti obbligate in solido o verso il contraente a cui spetti il pagamento delle imposte per accordo tra le parti stesse, l’URC invia l’avviso ad uno dei contraenti o al notaio, ai sensi dell’articolo 54 della Legge n.85/1981 e successive modifiche.
+2\. Fermi restando i diritti di ripetizione fra le parti obbligate in solido o verso il contraente a cui spetti il pagamento delle imposte per accordo tra le parti stesse, l’URC invia l’avviso ad uno dei contraenti o al notaio, ai sensi dell’articolo 54 della Legge n.85/1981 e successive modifiche.
 
 Nelle locazioni l’avviso è inviato al locatore, se diverso dall’Ecc.ma Camera o da ente o soggetto di diritto pubblico.
 
-3.
+3\. Tra i diversi contraenti, l’avviso può essere inviato a chi risieda in territorio sammarinese.
 
-Tra i diversi contraenti, l’avviso può essere inviato a chi risieda in territorio sammarinese.
+4\. L’avviso è inviato per posta ordinaria o per posta elettronica semplice al domicilio digitale e riporta i dati del contratto necessari al contribuente per la sua dichiarazione.
 
-4.
-
-L’avviso è inviato per posta ordinaria o per posta elettronica semplice al domicilio digitale e riporta i dati del contratto necessari al contribuente per la sua dichiarazione.
-
-5.
-
-La dichiarazione è resa personalmente allo sportello dell’URC, oppure sul sito web dedicato, il cui indirizzo è indicato nell’avviso TS.
+5\. La dichiarazione è resa personalmente allo sportello dell’URC, oppure sul sito web dedicato, il cui indirizzo è indicato nell’avviso TS.
 
 ##### Art. 21
 
 (Pagamento delle Imposte TS)
 
-1.
-
-Il pagamento delle imposte è effettuato allo sportello Cassa dell’URC, oppure tramite bonifico bancario, oppure tramite i servizi di pagamento on line predisposti dall’Amministrazione Pubblica.
+1\. Il pagamento delle imposte è effettuato allo sportello Cassa dell’URC, oppure tramite bonifico bancario, oppure tramite i servizi di pagamento on line predisposti dall’Amministrazione Pubblica.
 
 ##### Art. 22
 
 (Iscrizione nei Ruoli dell’Esattoria)
 
-1.
+1\. Il Conservatore esegue annualmente le indagini necessarie ad accertare l’eventuale esigibilità delle imposte tenute in sospeso, rilevando ritardi nelle dichiarazioni ovvero nei pagamenti, al fine di recupero delle somme.
 
-Il Conservatore esegue annualmente le indagini necessarie ad accertare l’eventuale esigibilità delle imposte tenute in sospeso, rilevando ritardi nelle dichiarazioni ovvero nei pagamenti, al fine di recupero delle somme.
+2\. Previo aggiornamento della posizione TS, l’URC iscrive nel ruolo dell’Esattoria le imposte calcolate sugli imponibili dichiarati dal contribuente moroso, sugli imponibili indicati nel contratto per gli anni precedenti ovvero sugli imponibili indicati nelle dichiarazioni relative agli anni precedenti.
 
-2.
-
-Previo aggiornamento della posizione TS, l’URC iscrive nel ruolo dell’Esattoria le imposte calcolate sugli imponibili dichiarati dal contribuente moroso, sugli imponibili indicati nel contratto per gli anni precedenti ovvero sugli imponibili indicati nelle dichiarazioni relative agli anni precedenti.
-
-3.
-
-Nei casi in cui non sia possibile riferirsi a casi precedenti, i dati sono ricavati dalle informazioni riferite dall’Ufficio Tributario ovvero da altre UO della Pubblica Amministrazione.
+3\. Nei casi in cui non sia possibile riferirsi a casi precedenti, i dati sono ricavati dalle informazioni riferite dall’Ufficio Tributario ovvero da altre UO della Pubblica Amministrazione.
 
 ### CAPO V
 
@@ -1597,75 +1439,51 @@ ORIGINALI E COPIE CONSERVATE DALL’URC E ACCESSO AI DATI
 
 (Conservazione delle copie ad uso registro)
 
-1.
+1\. Gli esemplari dei contratti in originale o in copia ad uso registro, ai sensi dell’articolo 6, sono archiviati in appositi contenitori d’archivio, secondo l’ordine cronologico e la sequenza numerica della registrazione, muniti dell’annotazione dell’eseguita registrazione apposta sul margine destro della prima pagina in alto.
 
-Gli esemplari dei contratti in originale o in copia ad uso registro, ai sensi dell’articolo 6, sono archiviati in appositi contenitori d’archivio, secondo l’ordine cronologico e la sequenza numerica della registrazione, muniti dell’annotazione dell’eseguita registrazione apposta sul margine destro della prima pagina in alto.
-
-2.
-
-Gli esemplari di cui al comma 1, così conservati non costituiscono documento amministrativo a tutti gli effetti, trattandosi di atti di diritto privato riservati alle parti. Le norme e disposizioni sulla documentazione amministrativa e sul procedimento amministrativo sono applicabili solo in quanto compatibili.
+2\. Gli esemplari di cui al comma 1, così conservati non costituiscono documento amministrativo a tutti gli effetti, trattandosi di atti di diritto privato riservati alle parti. Le norme e disposizioni sulla documentazione amministrativa e sul procedimento amministrativo sono applicabili solo in quanto compatibili.
 
 ##### Art. 24
 
 (Rilascio di copie degli esemplari d’archivio)
 
-1.
+1\. E' vietato al Conservatore rilasciare copia od estratto di atti pubblici registrati, o di permettere che del contenuto di detti atti si prenda annotazione. Se il Conservatore, trasgredisce a tale disposizione, è obbligato a corrispondere all'Ecc.ma Camera ed al notaio rogante, rispettivamente, il doppio dell’imposta di bollo dovuta per copie e per gli onorari notarili.
 
-E' vietato al Conservatore rilasciare copia od estratto di atti pubblici registrati, o di permettere che del contenuto di detti atti si prenda annotazione. Se il Conservatore, trasgredisce a tale disposizione, è obbligato a corrispondere all'Ecc.ma Camera ed al notaio rogante, rispettivamente, il doppio dell’imposta di bollo dovuta per copie e per gli onorari notarili.
+2\. In applicazione dell’articolo 9 del Decreto Delegato 26 maggio 2017 n.55, il Conservatore può rilasciare copia autentica della copia d’archivio degli atti pubblici registrati o a tal fine depositati, esclusivamente allo scopo di consentire all’Ordine degli Avvocati e Notai di prendere visione degli atti per i quali l’URC faccia segnalazione ai sensi di legge e agli organi pubblici ed uffici amministrativi con potere di effettuare specifiche attività di indagine, controllo e vigilanza loro espressamente demandate dalla legge, nei rispettivi ambiti di competenza, previa motivata richiesta.
 
-2.
-
-In applicazione dell’articolo 9 del Decreto Delegato 26 maggio 2017 n.55, il Conservatore può rilasciare copia autentica della copia d’archivio degli atti pubblici registrati o a tal fine depositati, esclusivamente allo scopo di consentire all’Ordine degli Avvocati e Notai di prendere visione degli atti per i quali l’URC faccia segnalazione ai sensi di legge e agli organi pubblici ed uffici amministrativi con potere di effettuare specifiche attività di indagine, controllo e vigilanza loro espressamente demandate dalla legge, nei rispettivi ambiti di competenza, previa motivata richiesta.
-
-3.
-
-Gli atti pubblici notarili, le scritture e gli atti diversi sottoposti a registrazione e non oggetto di pubblicità immobiliare, sono atti riservati ed il Conservatore non può fornire
+3\. Gli atti pubblici notarili, le scritture e gli atti diversi sottoposti a registrazione e non oggetto di pubblicità immobiliare, sono atti riservati ed il Conservatore non può fornire
 
 informazioni al loro riguardo, né consentire visura se non alle parti contraenti e loro aventi causa e all’esibitore.
 
-4.
+4\. La copia delle scritture private può essere rilasciata solo ai contraenti, loro aventi causa o delegati. La delega ha le caratteristiche previste dalle norme sulla documentazione amministrativa e sul procedimento amministrativo, in particolare ai sensi dell’articolo 11 della Legge 5 ottobre 2011 n.160, dietro versamento, da parte del richiedente, dei prescritti diritti erariali e dell’imposta di bollo.
 
-La copia delle scritture private può essere rilasciata solo ai contraenti, loro aventi causa o delegati. La delega ha le caratteristiche previste dalle norme sulla documentazione amministrativa e sul procedimento amministrativo, in particolare ai sensi dell’articolo 11 della Legge 5 ottobre 2011 n.160, dietro versamento, da parte del richiedente, dei prescritti diritti erariali e dell’imposta di bollo.
-
-5.
-
-L’Archivista di Stato è soggetto agli stessi doveri previsti dal presente articolo per le copie ad uso registro allo stesso trasferite dal Conservatore, fatta salva l’applicazione delle norme sulla consultabilità dei documenti versati all’Archivio.
+5\. L’Archivista di Stato è soggetto agli stessi doveri previsti dal presente articolo per le copie ad uso registro allo stesso trasferite dal Conservatore, fatta salva l’applicazione delle norme sulla consultabilità dei documenti versati all’Archivio.
 
 ##### Art. 25
 
 (Timbro di copia conforme)
 
-1.
-
-L’URC, nel rilasciare la copia dell’esemplare della scrittura depositata agli atti dell’Ufficio, emette dichiarazione di copia autentica dell’originale o di copia conforme dell’esemplare depositato agli atti in copia autentica o in copia conforme.
+1\. L’URC, nel rilasciare la copia dell’esemplare della scrittura depositata agli atti dell’Ufficio, emette dichiarazione di copia autentica dell’originale o di copia conforme dell’esemplare depositato agli atti in copia autentica o in copia conforme.
 
 ##### Art. 26
 
 (Accesso delle UO ai dati delle registrazioni)
 
-1.
+1\. L’accesso alla banca dati delle registrazioni, ivi compresa quella relativa al Registro Riscossione TS, è consentito mediante l’applicativo “RIPO Vedi” alle UO autorizzate solo qualora tali dati siano assolutamente indispensabili all’esercizio di attività concernenti i procedimenti amministrativi di competenza.
 
-L’accesso alla banca dati delle registrazioni, ivi compresa quella relativa al Registro Riscossione TS, è consentito mediante l’applicativo “RIPO Vedi” alle UO autorizzate solo qualora tali dati siano assolutamente indispensabili all’esercizio di attività concernenti i procedimenti amministrativi di competenza.
-
-2.
-
-Le UO che accedono a tali dati, devono tenere conto del fatto che gli stessi, salvo errori, sono ricavati dalle dichiarazioni contenute nei contratti registrati e rilasciate nel tempo ai fini dell’applicazione dell’imposta di registro, senza compiti di verifica o di attestazione da parte dell’URC circa la loro veridicità e la loro coerenza con quanto possa risultare in altri uffici o servizi.
+2\. Le UO che accedono a tali dati, devono tenere conto del fatto che gli stessi, salvo errori, sono ricavati dalle dichiarazioni contenute nei contratti registrati e rilasciate nel tempo ai fini dell’applicazione dell’imposta di registro, senza compiti di verifica o di attestazione da parte dell’URC circa la loro veridicità e la loro coerenza con quanto possa risultare in altri uffici o servizi.
 
 ##### Art. 27
 
 (Spazi per la collocazione degli esemplari di archivio)
 
-1.
-
-Allo scopo di fornire agli utenti un servizio pratico efficiente, le copie d’archivio restano depositate in spazi dell’URC, salvo che tali spazi risultino insufficienti. In quest’ultimo caso, le copie d’archivio sono trasferite presso l’Archivio di Stato a partire da quelle più risalenti e, comunque, non prima di trenta anni dalla loro registrazione. A tale scopo è compito dell’Amministrazione garantire la disponibilità di spazi adeguati per la loro archiviazione.
+1\. Allo scopo di fornire agli utenti un servizio pratico efficiente, le copie d’archivio restano depositate in spazi dell’URC, salvo che tali spazi risultino insufficienti. In quest’ultimo caso, le copie d’archivio sono trasferite presso l’Archivio di Stato a partire da quelle più risalenti e, comunque, non prima di trenta anni dalla loro registrazione. A tale scopo è compito dell’Amministrazione garantire la disponibilità di spazi adeguati per la loro archiviazione.
 
 ##### Art. 28
 
 (Abrogazione)
 
-1.
-
-E’ abrogato il Regolamento allegato alla Legge n.85/1981.
+1\. E’ abrogato il Regolamento allegato alla Legge n.85/1981.
 
 ALTRE NORME LEGGE 24 giugno 1987 n.72 Abrogazione della tassa di cinquina.
 
@@ -1733,9 +1551,7 @@ LEGGE 20 dicembre 2013 n.174 BILANCI DI PREVISIONE DELLO STATO E DEGLI ENTI PUBB
 
 (Disposizioni sugli atti e contratti esenti da imposte di registro e imposte ipotecarie)
 
-1.
-
-A decorrere dal 1° gennaio 2014, sugli atti e contratti esenti dalle imposte di registro, trascrizione, iscrizione, annotamento, voltura e diritti catastali, è riscosso comunque l’importo minimo previsto per ciascuna imposta, con esclusione degli atti in favore della Camera, dell’Erario, della Pubblica Amministrazione e degli Enti Pubblici, o dichiarati esenti dalle seguenti leggi:
+1\. A decorrere dal 1° gennaio 2014, sugli atti e contratti esenti dalle imposte di registro, trascrizione, iscrizione, annotamento, voltura e diritti catastali, è riscosso comunque l’importo minimo previsto per ciascuna imposta, con esclusione degli atti in favore della Camera, dell’Erario, della Pubblica Amministrazione e degli Enti Pubblici, o dichiarati esenti dalle seguenti leggi:
 
 a) Legge n.83 e Legge n.85 del 1981 sulle imposte ipotecarie e sulle imposte di registro;
 
@@ -1745,23 +1561,17 @@ c) Legge n.83/1999 sulle adozioni internazionali;
 
 d) Legge n.165/2003 articolo 83 per le associazioni a scopo umanitario, solidaristico o di volontariato.
 
-2.
-
-Quanto disposto al primo comma, non modifica le norme fiscali vigenti per gli atti le cui imposte siano assorbite dalla riscossione di una tassa-imposta forfettaria.
+2\. Quanto disposto al primo comma, non modifica le norme fiscali vigenti per gli atti le cui imposte siano assorbite dalla riscossione di una tassa-imposta forfettaria.
 
 3\. [ABROGATO]
 
-4.
-
-Allo scopo di garantire la trasparenza e l’imparzialità dell’attività amministrativa, le imposte che la legge pone a carico dei privati sugli atti e contratti stipulati con la Camera o la Pubblica Amministrazione o gli Enti Pubblici, non possono essere assunte dalla parte pubblica o comunque poste a suo carico sotto qualunque forma e con qualunque mezzo.
+4\. Allo scopo di garantire la trasparenza e l’imparzialità dell’attività amministrativa, le imposte che la legge pone a carico dei privati sugli atti e contratti stipulati con la Camera o la Pubblica Amministrazione o gli Enti Pubblici, non possono essere assunte dalla parte pubblica o comunque poste a suo carico sotto qualunque forma e con qualunque mezzo.
 
 ##### Art.53
 
 (Modifiche negli accertamenti di valore)
 
-1.
-
-Gli articoli 26, 29, 34, 35 e 36 della Legge n.85/1981 sono modificati come segue:
+1\. Gli articoli 26, 29, 34, 35 e 36 della Legge n.85/1981 sono modificati come segue:
 
 “Art. 26
 
@@ -1785,13 +1595,9 @@ Trascorso il termine perentorio senza che il contribuente abbia concordato il va
 
 “Art. 36 Il Conservatore deve risarcire lo Stato del danno da lui prodotto per l'omesso o ritardato accertamento dei valori dichiarati nei modi e termini indicati dagli articoli precedenti. Per omissioni e ritardi imputabili alla Commissione rispondono i suoi membri in solido.”.
 
-2.
+2\. Le norme così come sopra modificate si applicano agli atti in data successiva al 1° gennaio 2014.
 
-Le norme così come sopra modificate si applicano agli atti in data successiva al 1° gennaio 2014.
-
-3.
-
-L’eventuale modifica delle scadenze e delle percentuali ivi previste può essere disposta con decreto delegato.
+3\. L’eventuale modifica delle scadenze e delle percentuali ivi previste può essere disposta con decreto delegato.
 
 LEGGE 19 settembre 2014 n.146 MODIFICHE ALLA LEGGE 20 DICEMBRE 2013 N. 174 E VARIAZIONE AL BILANCIO DI PREVISIONE DELLO STATO E DEGLI ENTI DEL SETTORE PUBBLICO ALLARGATO PER L’ESERCIZIO FINANZIARIO 2014
 
@@ -1799,9 +1605,7 @@ LEGGE 19 settembre 2014 n.146 MODIFICHE ALLA LEGGE 20 DICEMBRE 2013 N. 174 E VAR
 
 (Variazione alle imposte di registro)
 
-1.
-
-Al fine di incentivare le compravendite di beni immobili, l'imposta di registro per il trasferimento a titolo oneroso di beni immobili e diritti reali immobiliari di cui al n.1, par. 1) della tabella "A" allegata alla Legge 29 ottobre 1981 n.85 e successive modifiche, e per la cessione di quote ereditarie indivise e di diritti ereditari di cui al n. 3 della medesima tabella, è ridotta al 2,5% fino al 31 dicembre 2015. La riduzione non si applica al trasferimento di immobili a titolo di riscatto derivante da contratto di leasing.
+1\. Al fine di incentivare le compravendite di beni immobili, l'imposta di registro per il trasferimento a titolo oneroso di beni immobili e diritti reali immobiliari di cui al n.1, par. 1) della tabella "A" allegata alla Legge 29 ottobre 1981 n.85 e successive modifiche, e per la cessione di quote ereditarie indivise e di diritti ereditari di cui al n. 3 della medesima tabella, è ridotta al 2,5% fino al 31 dicembre 2015. La riduzione non si applica al trasferimento di immobili a titolo di riscatto derivante da contratto di leasing.
 
 DECRETO DELEGATO 24 febbraio 2016 n.20 (Ratifica Decreto Delegato 16 dicembre 2015 n.184)
 
@@ -1811,67 +1615,43 @@ NORME DI ATTUAZIONE E COORDINAMENTO DELLA LEGGE 30 APRILE 2014 N.73 - ORDINAMENT
 
 (Repertori)
 
-1.
-
-L’articolo 50, comma 1, della Legge 30 aprile 2014 n. 73, è così modificato:
+1\. L’articolo 50, comma 1, della Legge 30 aprile 2014 n. 73, è così modificato:
 
 “1. Gli atti sono annotati, sull’apposito repertorio in ordine cronologico, immediatamente dopo la loro stipulazione o al massimo entro le ore 24:00 del giorno successivo a quello della stipula o dell’autentica attribuendo a ciascun atto un numero di repertorio crescente; se tale termine scade in un sabato o in un giorno festivo l’annotamento può eseguirsi entro le ore 24:00 del primo giorno non festivo.”.
 
-2.
-
-L’articolo 55 della Legge n.73/2014, è così modificato:
+2\. L’articolo 55 della Legge n.73/2014, è così modificato:
 
 “Art.55 (Vidimazione dei repertori)
 
-1.
+1\. La vidimazione dei repertori notarili è eseguita annualmente, secondo un calendario formato dall’Ufficio del Registro e Conservatoria.
 
-La vidimazione dei repertori notarili è eseguita annualmente, secondo un calendario formato dall’Ufficio del Registro e Conservatoria.
+2\. L’Ufficio del Registro e Conservatoria svolge le più opportune attività di verifica e di ispezione di cui al successivo articolo 56.
 
-2.
+3\. Il Repertorio dei Protesti è tenuto in formato cartaceo con le modalità di cui all’articolo 49, comma 2 della presente legge ed è portato alla vidimazione entro il termine stabilito nel calendario di cui al comma 1.
 
-L’Ufficio del Registro e Conservatoria svolge le più opportune attività di verifica e di ispezione di cui al successivo articolo 56.
+4\. Il Repertorio dei Protesti è restituito al notaio non appena terminate le attività di verifica e di ispezione, dando al notaio la possibilità di eseguirvi al più presto le annotazioni degli atti nel frattempo ricevuti o autenticati.
 
-3.
-
-Il Repertorio dei Protesti è tenuto in formato cartaceo con le modalità di cui all’articolo 49, comma 2 della presente legge ed è portato alla vidimazione entro il termine stabilito nel calendario di cui al comma 1.
-
-4.
-
-Il Repertorio dei Protesti è restituito al notaio non appena terminate le attività di verifica e di ispezione, dando al notaio la possibilità di eseguirvi al più presto le annotazioni degli atti nel frattempo ricevuti o autenticati.
-
-5.
-
-Il Regolamento di cui all’articolo 49, comma 5, della Legge n.73/2014 è adottato successivamente all’avvenuta verifica della procedura informatica in corso di sperimentazione ed è modificabile anche in relazione allo sviluppo della procedura medesima. 5-bis. Il Notaio è tenuto ad adempiere nei termini e nei modi prescritti dal Regolamento a quanto necessario per procedere alla vidimazione dei Repertori in formato elettronico e al pagamento delle imposte e penali dovute. 5-ter. L’imposta di bollo di cui all’articolo 3, comma 1, lettera o) del Decreto Delegato 30 luglio 2015 n.122 e dovuta sui Repertori in formato elettronico è convertita nella misura di euro 0,50 per ciascun atto inserito ad è riscossa in occasione della vidimazione del repertorio secondo quando indicato dal Regolamento.”.
+5\. Il Regolamento di cui all’articolo 49, comma 5, della Legge n.73/2014 è adottato successivamente all’avvenuta verifica della procedura informatica in corso di sperimentazione ed è modificabile anche in relazione allo sviluppo della procedura medesima. 5-bis. Il Notaio è tenuto ad adempiere nei termini e nei modi prescritti dal Regolamento a quanto necessario per procedere alla vidimazione dei Repertori in formato elettronico e al pagamento delle imposte e penali dovute. 5-ter. L’imposta di bollo di cui all’articolo 3, comma 1, lettera o) del Decreto Delegato 30 luglio 2015 n.122 e dovuta sui Repertori in formato elettronico è convertita nella misura di euro 0,50 per ciascun atto inserito ad è riscossa in occasione della vidimazione del repertorio secondo quando indicato dal Regolamento.”.
 
 ##### Art. 2
 
 (Norme per l’autenticazione delle sottoscrizioni)
 
-1.
-
-All’articolo 30 della Legge n.73/2014, dopo il comma 2, sono aggiunti i seguenti commi:
+1\. All’articolo 30 della Legge n.73/2014, dopo il comma 2, sono aggiunti i seguenti commi:
 
 “3. L’autenticazione delle sottoscrizioni è emessa in unico originale.
 
-4.
+4\. L’autenticazione delle sottoscrizioni è redatta nelle forme di cui al presente articolo per ogni fine di legge e quindi anche ai fini delle formalità ipotecarie.
 
-L’autenticazione delle sottoscrizioni è redatta nelle forme di cui al presente articolo per ogni fine di legge e quindi anche ai fini delle formalità ipotecarie.
+5\. Le sottoscrizioni, apposte contestualmente ad una scrittura privata, possono essere autenticate in un unico verbale.
 
-5.
-
-Le sottoscrizioni, apposte contestualmente ad una scrittura privata, possono essere autenticate in un unico verbale.
-
-6.
-
-Le autenticazioni, apposte di seguito sulla medesima scrittura, hanno ciascuna il proprio numero di repertorio; se tale scrittura privata autenticata, è anche conservata dal Notaio, ha il numero di custodia e conservazione per l’ultima autentica apposta.”.
+6\. Le autenticazioni, apposte di seguito sulla medesima scrittura, hanno ciascuna il proprio numero di repertorio; se tale scrittura privata autenticata, è anche conservata dal Notaio, ha il numero di custodia e conservazione per l’ultima autentica apposta.”.
 
 ##### Art. 3
 
 (Norme sulla rettifica di errori materiali)
 
-1.
-
-All’articolo 20 della Legge n.73/2014, dopo il comma 2, è aggiunto il seguente comma:
+1\. All’articolo 20 della Legge n.73/2014, dopo il comma 2, è aggiunto il seguente comma:
 
 “3. Le attestazioni notarili di cui ai superiori commi 1 e 2, sono eseguite con atto separato all’atto da rettificare qualora questo sia già stato registrato. Le attestazioni eseguite con atto separato sono annotate in ordine cronologico nel Repertorio degli atti in cui è inserito l’atto a cui si riferiscono, ciò anche a integrazione dell’articolo 49 della presente legge, e sono sottoposte a registrazione. Esse vanno custodite e conservate insieme all’atto a cui si riferiscono e pertanto hanno il numero di custodia dell’atto rettificato. Le rettifiche, ai sensi del presente articolo, di atti aventi data anteriore all’1 gennaio 2015 hanno il proprio numero di custodia.”.
 
@@ -1879,101 +1659,65 @@ All’articolo 20 della Legge n.73/2014, dopo il comma 2, è aggiunto il seguent
 
 (Norme di coordinamento: obblighi relativi a registrazione e pagamento delle imposte)
 
-1.
-
-Tutti gli atti annotati a repertorio sono obbligatoriamente da registrare salvo che l’esenzione da registrazione sia disposta nei commi che seguono o in speciali norme vigenti.
+1\. Tutti gli atti annotati a repertorio sono obbligatoriamente da registrare salvo che l’esenzione da registrazione sia disposta nei commi che seguono o in speciali norme vigenti.
 
 L’obbligo della presentazione alla registrazione per tutti gli atti e le scritture autenticate incombe sul notaio, ciò anche a modifica dell’articolo 54 della Legge 29 ottobre 1981 n.85. Il pagamento delle relative imposte permane sul notaio per gli atti da lui redatti e sulle parti contraenti per le scritture private con o senza autenticazione.
 
-2.
+2\. Le dichiarazioni di vendita dei beni mobili registrati, ancorché autenticate da Notaio, sono assoggettate alle sole formalità ed imposte per essi previste presso l’Ufficio Registro Automezzi e Trasporti e presso l’Ente Autorità per l’Aviazione Civile e la Navigazione Marittima. Lo stesso regime si applica alle procure speciali allegate alle dichiarazioni di vendita dei medesimi beni mobili registrati. Nell’eseguire le formalità su tali atti gli uffici inseriscono nella banca dati in gestione i dati identificativi delle autentiche.
 
-Le dichiarazioni di vendita dei beni mobili registrati, ancorché autenticate da Notaio, sono assoggettate alle sole formalità ed imposte per essi previste presso l’Ufficio Registro Automezzi e Trasporti e presso l’Ente Autorità per l’Aviazione Civile e la Navigazione Marittima. Lo stesso regime si applica alle procure speciali allegate alle dichiarazioni di vendita dei medesimi beni mobili registrati. Nell’eseguire le formalità su tali atti gli uffici inseriscono nella banca dati in gestione i dati identificativi delle autentiche.
+3\. Sono esenti dall’obbligo della registrazione, ancorché autenticate da Notaio, le dichiarazioni sostitutive di atto di notorietà e di certificazioni, le girate sui titoli azionari, nonché gli attestati, i certificati e le dichiarazioni da depositare agli atti del Registro delle Società previste dalla Legge 23 febbraio 2006 n.47 e successive modifiche e quelli da depositare agli atti del Registro dei trust previsti dalla Legge 1 marzo 2010 n.42.
 
-3.
+4\. Gli atti con numerazione di custodia e di conservazione, ancorché allegati ad altri atti, sono sottoposti a specifica separata registrazione.
 
-Sono esenti dall’obbligo della registrazione, ancorché autenticate da Notaio, le dichiarazioni sostitutive di atto di notorietà e di certificazioni, le girate sui titoli azionari, nonché gli attestati, i certificati e le dichiarazioni da depositare agli atti del Registro delle Società previste dalla Legge 23 febbraio 2006 n.47 e successive modifiche e quelli da depositare agli atti del Registro dei trust previsti dalla Legge 1 marzo 2010 n.42.
-
-4.
-
-Gli atti con numerazione di custodia e di conservazione, ancorché allegati ad altri atti, sono sottoposti a specifica separata registrazione.
-
-5.
-
-Ai sensi dell’articolo 60, comma 1, della Legge 29 ottobre 1981 n. 85, il notaio non può rilasciare copia conforme di scrittura privata diversa da quelle di cui al comma 3, senza indicare gli estremi di registrazione. Il divieto sussiste pure nel caso in cui anche altro Notaio abbia apposto autentica di firma sulla stessa scrittura. 5 bis. Il Notaio conserva, almeno fino alla vidimazione del Repertorio, copia degli atti autenticati e non soggetti a registrazione, al fine dei controlli sul Repertorio degli atti tra vivi. 5 ter. L’Ufficio del Registro e Conservatoria non è responsabile del mancato pagamento delle imposte che sarebbero dovute sugli atti annotati nel Repertorio Notarile degli Atti tra vivi, fatta salva l’applicazione delle penali previste dal Decreto Delegato n.20/2016 e le eventuali segnalazioni all’Ordine degli Avvocati e Notai.
+5\. Ai sensi dell’articolo 60, comma 1, della Legge 29 ottobre 1981 n. 85, il notaio non può rilasciare copia conforme di scrittura privata diversa da quelle di cui al comma 3, senza indicare gli estremi di registrazione. Il divieto sussiste pure nel caso in cui anche altro Notaio abbia apposto autentica di firma sulla stessa scrittura. 5 bis. Il Notaio conserva, almeno fino alla vidimazione del Repertorio, copia degli atti autenticati e non soggetti a registrazione, al fine dei controlli sul Repertorio degli atti tra vivi. 5 ter. L’Ufficio del Registro e Conservatoria non è responsabile del mancato pagamento delle imposte che sarebbero dovute sugli atti annotati nel Repertorio Notarile degli Atti tra vivi, fatta salva l’applicazione delle penali previste dal Decreto Delegato n.20/2016 e le eventuali segnalazioni all’Ordine degli Avvocati e Notai.
 
 ##### Art. 5
 
 (Norme di coordinamento con la legge sulle trascrizioni e sulla voltura e per le cessioni di attività e passività tra soggetti autorizzati di cui all’articolo 52 della Legge n.165/2005)
 
-1.
-
-L’articolo 15, comma 1, della Legge 29 ottobre 1981 n. 87, è così modificato:
+1\. L’articolo 15, comma 1, della Legge 29 ottobre 1981 n. 87, è così modificato:
 
 “1. La richiesta della formalità della trascrizione degli atti di cui all’articolo 3, lettere a), b), c), e), f), h), m) e p) nonché degli atti conseguenti ai provvedimenti di cui alla lettera d) e degli altri atti o delle scritture private autenticate soggette all’obbligo della custodia e conservazione incombe sul notaio rogante o autenticante. Il pagamento delle relative imposte incombe sul notaio per gli atti da lui redatti e sulle parti contraenti per le scritture private autenticate.”.
 
-2.
-
-Le disposizioni di cui all’articolo 15, comma 1, così come modificato dal presente articolo sono applicate anche agli atti e alle scritture private autenticate portanti le cessioni di attività e passività di cui all’articolo 52 della Legge 17 novembre 2005 n. 165 e successive modifiche, nel rispetto degli obblighi previsti dall’articolo 3 della Legge 29 ottobre 1981 n. 87 e delle regole sulla pubblicità nei registri catastali, e pertanto sono obbligatoriamente da trascrivere quando
+2\. Le disposizioni di cui all’articolo 15, comma 1, così come modificato dal presente articolo sono applicate anche agli atti e alle scritture private autenticate portanti le cessioni di attività e passività di cui all’articolo 52 della Legge 17 novembre 2005 n. 165 e successive modifiche, nel rispetto degli obblighi previsti dall’articolo 3 della Legge 29 ottobre 1981 n. 87 e delle regole sulla pubblicità nei registri catastali, e pertanto sono obbligatoriamente da trascrivere quando
 
 comportano la cessione di contratti di leasing fra conduttori, e sono da trascrivere e volturare quando comportano il trasferimento di diritti reali immobiliari, senza necessità degli adempimenti relativi alla certificazione energetica di cui alla Legge 3 aprile 2014 n. 48 e di quelli previsti dall’articolo 177 della Legge 19 luglio 1995 n. 87 e successive modifiche e ferme restando le garanzie ed i gradi delle formalità a favore del cessionario, così come previsto dall’articolo 52, comma 4, lettera a) della Legge 17 novembre 2005 n. 165 e successive modifiche.
 
-3.
-
-Comma soppresso 3-bis. Soggiacciono alle imposte di bollo, di registro ed ipotecarie vigenti alla data delle formalità dell’annotamento, gli atti per i quali sia eventualmente richiesto annotamento a margine di iscrizioni inerenti i crediti e diritti oggetto delle cessioni di cui al comma 2.
+3\. Comma soppresso 3-bis. Soggiacciono alle imposte di bollo, di registro ed ipotecarie vigenti alla data delle formalità dell’annotamento, gli atti per i quali sia eventualmente richiesto annotamento a margine di iscrizioni inerenti i crediti e diritti oggetto delle cessioni di cui al comma 2.
 
 ##### Art. 6
 
 (Modifica dell’articolo 58 della Legge n. 73/2014)
 
-1.
-
-L’articolo 58 della Legge n.73/2014 è così modificato:
+1\. L’articolo 58 della Legge n.73/2014 è così modificato:
 
 “Art.58 (Comunicazione delle irregolarità all’Ordine degli Avvocati e Notai)
 
-1.
+1\. L’Ufficio del Registro e Conservatoria, nel caso che, in occasione dei controlli, della vidimazione dei repertori o nelle ispezioni, riscontri irregolarità nella tenuta dei repertori e degli atti ricevuti o autenticati o comunque redatti dal notaio, ne dà comunicazione scritta al Consiglio dell’Ordine degli Avvocati e Notai (di seguito anche OAN) per gli eventuali provvedimenti di sua competenza.
 
-L’Ufficio del Registro e Conservatoria, nel caso che, in occasione dei controlli, della vidimazione dei repertori o nelle ispezioni, riscontri irregolarità nella tenuta dei repertori e degli atti ricevuti o autenticati o comunque redatti dal notaio, ne dà comunicazione scritta al Consiglio dell’Ordine degli Avvocati e Notai (di seguito anche OAN) per gli eventuali provvedimenti di sua competenza.
-
-2.
-
-L’Ufficio del Registro e Conservatoria collabora con l’OAN per prevenire e contrastare violazioni alle norme ed ai principi sull’attività notarile e a tale scopo segnala eventuali irregolarità riscontrate negli atti ricevuti o autenticati o comunque redatti dal notaio e nell’espletamento dei conseguenti adempimenti.”.
+2\. L’Ufficio del Registro e Conservatoria collabora con l’OAN per prevenire e contrastare violazioni alle norme ed ai principi sull’attività notarile e a tale scopo segnala eventuali irregolarità riscontrate negli atti ricevuti o autenticati o comunque redatti dal notaio e nell’espletamento dei conseguenti adempimenti.”.
 
 ##### Art. 7
 
 (Modifica di alcune disposizioni dell’articolo 5 della Legge n. 73/2014)
 
-1.
+1\. I commi 1, 2 e 3 dell’articolo 5 della Legge n. 73/2014 sono modificati così come indicato nel presente articolo.
 
-I commi 1, 2 e 3 dell’articolo 5 della Legge n. 73/2014 sono modificati così come indicato nel presente articolo.
+2\. Al comma 1, lettere i) e l), dopo le parole: “a condizione che i coniugi non abbiano figli in comune” sono aggiunte le parole: “, minori di età o incapaci,”.
 
-2.
+3\. Al comma 2, dopo le parole: “Nei casi previsti al comma 1”, le parole: “lettere i), l) e m)” sono sostituite con le parole: “lettere i) e l)”.
 
-Al comma 1, lettere i) e l), dopo le parole: “a condizione che i coniugi non abbiano figli in comune” sono aggiunte le parole: “, minori di età o incapaci,”.
-
-3.
-
-Al comma 2, dopo le parole: “Nei casi previsti al comma 1”, le parole: “lettere i), l) e m)” sono sostituite con le parole: “lettere i) e l)”.
-
-4.
-
-Al comma 3, dopo le parole: “Nei casi previsti al comma 1” le parole: “lettere i), l) e m)” sono sostituite con le parole: “lettere i) e l)” e dopo le parole: “dagli avvocati delle parti” sono eliminate le parole:”, se nominati”.
+4\. Al comma 3, dopo le parole: “Nei casi previsti al comma 1” le parole: “lettere i), l) e m)” sono sostituite con le parole: “lettere i) e l)” e dopo le parole: “dagli avvocati delle parti” sono eliminate le parole:”, se nominati”.
 
 ##### Art. 8
 
 (Penali e sanzioni)
 
-1.
+1\. L’articolo 57 della Legge n.73/2014 è così modificato: ”Art. 57 (Irregolarità nella tenuta dei repertori)
 
-L’articolo 57 della Legge n.73/2014 è così modificato: ”Art. 57 (Irregolarità nella tenuta dei repertori)
+1\. A scopo di graduazione e certezza delle sanzioni applicabili nei casi di riscontrate irregolarità nella tenuta degli atti e dei Repertori o del venir meno ai doveri prescritti a salvaguardia della funzione notarile è previsto quanto segue.
 
-1.
-
-A scopo di graduazione e certezza delle sanzioni applicabili nei casi di riscontrate irregolarità nella tenuta degli atti e dei Repertori o del venir meno ai doveri prescritti a salvaguardia della funzione notarile è previsto quanto segue.
-
-2.
-
-Il Notaio è tenuto a corrispondere all’Ufficio del Registro e Conservatoria le seguenti penali di registro, per intero, per violazioni riscontrate in occasione della vidimazione dei repertori o dei controlli eseguiti sulla tenuta degli atti e dei repertori:
+2\. Il Notaio è tenuto a corrispondere all’Ufficio del Registro e Conservatoria le seguenti penali di registro, per intero, per violazioni riscontrate in occasione della vidimazione dei repertori o dei controlli eseguiti sulla tenuta degli atti e dei repertori:
 
 a) omissione o ritardo negli adempimenti inerenti i Repertori ai fini dei controlli e delle vidimazioni, omessa o tardiva dichiarazione di cui all’articolo 1, comma 5 del Decreto
 
@@ -1983,67 +1727,41 @@ b) omessa o tardiva annotazione a Repertorio, irregolarità nella numerazione e 
 
 c) omissione di taluna fra le indicazioni da annotare, o lievi irregolarità: euro 20,00 per ciascuna omissione/irregolarità.
 
-3.
-
-Il Notaio che ritarda oltre i novanta giorni la presentazione alla registrazione degli atti a Custodia e Conservazione, è tenuto al pagamento in proprio della penale di euro 1.000,00 per ciascun atto; la ritardata presentazione alla registrazione degli altri atti e scritture autenticate oltre i novanta giorni comporta la penale di euro 200,00. La penale è dimezzata qualora l’atto sia portato alla registrazione entro il termine perentorio di centoventi giorni dalla data dell’atto.
+3\. Il Notaio che ritarda oltre i novanta giorni la presentazione alla registrazione degli atti a Custodia e Conservazione, è tenuto al pagamento in proprio della penale di euro 1.000,00 per ciascun atto; la ritardata presentazione alla registrazione degli altri atti e scritture autenticate oltre i novanta giorni comporta la penale di euro 200,00. La penale è dimezzata qualora l’atto sia portato alla registrazione entro il termine perentorio di centoventi giorni dalla data dell’atto.
 
 Tale penale non esclude l’applicazione delle penali sull’atto di cui all’articolo 58 della Legge n.85/1981. 3-bis. Le penali per la violazione di cui al comma 3 sono ridotte della metà per il ritardo alla presentazione delle scritture autenticate soggette ad imposta di registro fissa nella misura minima.
 
-4.
+4\. Le penali di cui ai commi 2, 3 e 3-bis sono liquidate e riscosse dall’Ufficio del Registro e Conservatoria per intero in occasione della vidimazione dei Repertori o dei controlli su atti e repertori eseguiti anche on line o in occasione della registrazione dell’atto. Le penali sono imputate sul Capitolo delle Imposte di registro o su apposito capitolo di bilancio.
 
-Le penali di cui ai commi 2, 3 e 3-bis sono liquidate e riscosse dall’Ufficio del Registro e Conservatoria per intero in occasione della vidimazione dei Repertori o dei controlli su atti e repertori eseguiti anche on line o in occasione della registrazione dell’atto. Le penali sono imputate sul Capitolo delle Imposte di registro o su apposito capitolo di bilancio.
+5\. Al Notaio che impedisca le ispezioni o comunque le renda particolarmente difficoltose senza prestare la dovuta collaborazione all’Ufficio del Registro e Conservatoria in occasione dell’accesso presso gli studi notarili è applicata la sanzione pecuniaria amministrativa di euro 1.000,00, sulla base di verbale appositamente redatto dal dirigente o dal funzionario che effettua l’ispezione.
 
-5.
+6\. Le penali di cui ai commi 2, 3 e 3-bis e la sanzione di cui al comma 5, se derivanti da violazione della medesima fattispecie, sono raddoppiate nel caso in cui il Notaio sia già stato sanzionato nel corso del medesimo anno o di quello precedente e sono triplicate se il Notaio sia stato sanzionato per almeno due anni consecutivi. Sono considerate della stessa fattispecie le infrazioni ricomprese nel medesimo comma del presente articolo o ricomprese nella medesima lettera del comma 2.
 
-Al Notaio che impedisca le ispezioni o comunque le renda particolarmente difficoltose senza prestare la dovuta collaborazione all’Ufficio del Registro e Conservatoria in occasione dell’accesso presso gli studi notarili è applicata la sanzione pecuniaria amministrativa di euro 1.000,00, sulla base di verbale appositamente redatto dal dirigente o dal funzionario che effettua l’ispezione.
+7\. Fermo restando il requisito della violazione della medesima fattispecie nei casi in cui la recidiva sia più grave l’importo è quintuplicato.
 
-6.
+8\. In via transitoria, le penali di cui ai commi 2 e 3-bis, sono dimezzate con riferimento all’anno 2015.
 
-Le penali di cui ai commi 2, 3 e 3-bis e la sanzione di cui al comma 5, se derivanti da violazione della medesima fattispecie, sono raddoppiate nel caso in cui il Notaio sia già stato sanzionato nel corso del medesimo anno o di quello precedente e sono triplicate se il Notaio sia stato sanzionato per almeno due anni consecutivi. Sono considerate della stessa fattispecie le infrazioni ricomprese nel medesimo comma del presente articolo o ricomprese nella medesima lettera del comma 2.
+9\. Fatta salva l’applicazione delle norme sulle sanzioni pecuniarie amministrative per quanto previsto al comma 5, avverso l’applicazione delle penali previste dal presente articolo è dato ricorso ai sensi dell’articolo 72 della Legge n.85/1981.
 
-7.
-
-Fermo restando il requisito della violazione della medesima fattispecie nei casi in cui la recidiva sia più grave l’importo è quintuplicato.
-
-8.
-
-In via transitoria, le penali di cui ai commi 2 e 3-bis, sono dimezzate con riferimento all’anno 2015.
-
-9.
-
-Fatta salva l’applicazione delle norme sulle sanzioni pecuniarie amministrative per quanto previsto al comma 5, avverso l’applicazione delle penali previste dal presente articolo è dato ricorso ai sensi dell’articolo 72 della Legge n.85/1981.
-
-10.
-
-Il mancato pagamento delle penali nei termini indicati dal presente articolo o a seguito di avviso notificato dall’Ufficio a mezzo Raccomandata con Avviso di Ricevimento comporta una sovrattassa pari al 50% dell’importo e l’iscrizione a ruolo ai sensi e per gli effetti di legge.”.
+10\. Il mancato pagamento delle penali nei termini indicati dal presente articolo o a seguito di avviso notificato dall’Ufficio a mezzo Raccomandata con Avviso di Ricevimento comporta una sovrattassa pari al 50% dell’importo e l’iscrizione a ruolo ai sensi e per gli effetti di legge.”.
 
 ##### Art. 9
 
 (Modifiche dei requisiti e della validità dell’atto)
 
-1.
-
-L’articolo 16, comma 1, lettera g), della Legge n.73/2014 è così modificato:
+1\. L’articolo 16, comma 1, lettera g), della Legge n.73/2014 è così modificato:
 
 “g) l’indicazione del documento da cui deriva il potere di rappresentanza o di assistenza o l'autorizzazione; tale documento, se non contenuto in pubblici registri, deve rimanere allegato all'atto in originale o in copia conforme, o, in caso contrario, devono essere di tale documento riportati i dati di registrazione, qualora l’atto sia sottoposto alla sola formalità della registrazione, ed anche i dati della formalità ipotecaria qualora l’atto sia da sottoporre a trascrizione, iscrizione o annotamento;”.
 
-2.
-
-L’articolo 16, comma 1, lettera r), della Legge n.73/2014 è così modificato:
+2\. L’articolo 16, comma 1, lettera r), della Legge n.73/2014 è così modificato:
 
 “r) la sottoscrizione delle parti o dei loro rappresentanti, dei fidefacienti, degli interpreti e dei testimoni; se alcuna delle parti o dei fidefacienti non sa o non può sottoscrivere, il notaio dichiara la causa dell’impedimento o fa menzione della dichiarazione fattagliene;”.
 
-3.
-
-L’articolo 28 della Legge n.73/2014 è così sostituito:
+3\. L’articolo 28 della Legge n.73/2014 è così sostituito:
 
 “Art. 28 (Invalidità dell’atto notarile)
 
-1.
-
-a)
-
-L’atto pubblico notarile è nullo: se è stato ricevuto prima che il notaio abbia prestato il prescritto giuramento o dopo che la sua cessazione definitiva o temporanea dell'esercizio della professione sia stata deliberata dai competenti organismi dell’Ordine degli Avvocati e Notai;
+a) L’atto pubblico notarile è nullo: se è stato ricevuto prima che il notaio abbia prestato il prescritto giuramento o dopo che la sua cessazione definitiva o temporanea dell'esercizio della professione sia stata deliberata dai competenti organismi dell’Ordine degli Avvocati e Notai;
 
 b) se è stato ricevuto fuori dal territorio della Repubblica di San Marino;
 
@@ -2057,33 +1775,21 @@ f) se non sono state osservate le norme stabilite per le persone che non conosco
 
 g) in ogni altro caso in cui non siano state rispettate le formalità prescritte a pena di nullità dal diritto vigente.
 
-2.
+2\. L’atto è parimenti nullo in caso di omissione o di inesatta indicazione degli elementi richiesti dall’articolo 16, comma 1, lettere a), e), f), h) e l) quando da ciò si determini assoluta incertezza sulla data di stipula, sull’identità delle parti, dei testimoni e dei fidefacienti o sull’identificazione dell’oggetto.
 
-L’atto è parimenti nullo in caso di omissione o di inesatta indicazione degli elementi richiesti dall’articolo 16, comma 1, lettere a), e), f), h) e l) quando da ciò si determini assoluta incertezza sulla data di stipula, sull’identità delle parti, dei testimoni e dei fidefacienti o sull’identificazione dell’oggetto.
+3\. Non consegue comunque nullità dell’atto per carenze meramente formali che possono essere colmate con assoluta certezza.
 
-3.
+4\. Nelle ipotesi di cui al comma 1, lettere c), d) ed f) e di cui al comma 2, la nullità può essere limitata dal giudice alle disposizioni e dichiarazioni rispetto alle quali l'infrazione è avvenuta senza che ciò comporti la nullità dell’intero atto.
 
-Non consegue comunque nullità dell’atto per carenze meramente formali che possono essere colmate con assoluta certezza.
+5\. E’ comunque nullo l’atto qualora ricorrano le condizioni di cui all’articolo 8, comma 1, lettere a), c) e d). Nel caso di cui alla lettera a) non si applicano le disposizioni di cui al successivo comma 6.
 
-4.
-
-Nelle ipotesi di cui al comma 1, lettere c), d) ed f) e di cui al comma 2, la nullità può essere limitata dal giudice alle disposizioni e dichiarazioni rispetto alle quali l'infrazione è avvenuta senza che ciò comporti la nullità dell’intero atto.
-
-5.
-
-E’ comunque nullo l’atto qualora ricorrano le condizioni di cui all’articolo 8, comma 1, lettere a), c) e d). Nel caso di cui alla lettera a) non si applicano le disposizioni di cui al successivo comma 6.
-
-6.
-
-L’atto notarile, nullo per i motivi indicati ai commi 1, 2 e 5, se è stato sottoscritto dalle parti, può comunque avere l’efficacia di una scrittura privata o, se ne possiede i requisiti, di una scrittura privata con sottoscrizioni autenticate.”.
+6\. L’atto notarile, nullo per i motivi indicati ai commi 1, 2 e 5, se è stato sottoscritto dalle parti, può comunque avere l’efficacia di una scrittura privata o, se ne possiede i requisiti, di una scrittura privata con sottoscrizioni autenticate.”.
 
 ##### Art. 10
 
 (Norma transitoria)
 
-1.
-
-Tenuto conto della necessità di introdurre le norme di cui al presente decreto delegato al fine di chiarire elementi indispensabili alla corretta osservanza ed applicazione di una riforma che ha profondamente modificato alcuni punti di riferimento dell’attività notarile anche in relazione alle leggi sulle formalità di registrazione ed ipotecarie, ferma restando la norma transitoria di cui all’articolo 8, comma 8, le disposizioni contenute negli articoli 2, 4 e 7 del presente decreto delegato sono applicate anche con riferimento agli atti iscritti nei Repertori nel corso dell’anno 2015.
+1\. Tenuto conto della necessità di introdurre le norme di cui al presente decreto delegato al fine di chiarire elementi indispensabili alla corretta osservanza ed applicazione di una riforma che ha profondamente modificato alcuni punti di riferimento dell’attività notarile anche in relazione alle leggi sulle formalità di registrazione ed ipotecarie, ferma restando la norma transitoria di cui all’articolo 8, comma 8, le disposizioni contenute negli articoli 2, 4 e 7 del presente decreto delegato sono applicate anche con riferimento agli atti iscritti nei Repertori nel corso dell’anno 2015.
 
 DECRETO DELEGATO 26 maggio 2017 n.55 (Ratifica Decreto Delegato 30 agosto 2016 n.127)
 
@@ -2093,37 +1799,25 @@ NORME PER L’AGGIORNAMENTO E LA SEMPLIFICAZIONE DELLE IMPOSTE DI REGISTRO
 
 (Registrazione in Caso D’uso o a Termine Fisso)
 
-1.
+1\. Le scritture private portanti atti o contratti per i quali le norme vigenti prevedano l’imposta fissa di registro nella misura minima, non sono soggetti a registrazione a termine fisso ma sono da sottoporre a registrazione qualora se ne voglia far uso nell’amministrazione pubblica o in giudizio.
 
-Le scritture private portanti atti o contratti per i quali le norme vigenti prevedano l’imposta fissa di registro nella misura minima, non sono soggetti a registrazione a termine fisso ma sono da sottoporre a registrazione qualora se ne voglia far uso nell’amministrazione pubblica o in giudizio.
+2\. L’imposta giudiziale, di cui all’articolo 1 della Legge 25 luglio 2003 n.99 e successive modifiche, non assorbe le imposte di bollo e di registro dovute sugli atti e contratti di cui si faccia uso in giudizio ma assorbe le imposte di bollo e di registro per i documenti, per il fascicolo e per i provvedimenti giudiziali nelle cause civili, nonché l’imposta di bollo sulle copie degli atti e contratti che siano stati registrati o comunque abbiano assolto le imposte in modo virtuale.
 
-2.
-
-L’imposta giudiziale, di cui all’articolo 1 della Legge 25 luglio 2003 n.99 e successive modifiche, non assorbe le imposte di bollo e di registro dovute sugli atti e contratti di cui si faccia uso in giudizio ma assorbe le imposte di bollo e di registro per i documenti, per il fascicolo e per i provvedimenti giudiziali nelle cause civili, nonché l’imposta di bollo sulle copie degli atti e contratti che siano stati registrati o comunque abbiano assolto le imposte in modo virtuale.
-
-3.
-
-Gli atti pubblici o autenticati da Notaio, qualora non siano espressamente esentati dalla registrazione, sono obbligatoriamente da registrare a termine fisso a prescindere dal loro contenuto e dall’imposta per essi prevista.
+3\. Gli atti pubblici o autenticati da Notaio, qualora non siano espressamente esentati dalla registrazione, sono obbligatoriamente da registrare a termine fisso a prescindere dal loro contenuto e dall’imposta per essi prevista.
 
 ##### Art. 2
 
 (Modifica della Tabella delle Imposte di Registro)
 
-1.
-
-Nel N. 29 della vigente Tabella sulle Imposte di Registro è aggiunto il seguente paragrafo:
+1\. Nel N. 29 della vigente Tabella sulle Imposte di Registro è aggiunto il seguente paragrafo:
 
 “VIII – Finanziamento Soci 0,20%”.
 
-2.
-
-Il punto 12 del N. 1 della citata Tabella, è modificato come segue:
+2\. Il punto 12 del N. 1 della citata Tabella, è modificato come segue:
 
 “12) di beni sub 3 e 4, a titolo di contratto estimatorio euro 70,00”.
 
-3.
-
-In applicazione della deroga prevista dall’articolo 5 del decreto 17 giugno 2004 n. 80, e con riferimento al N. 18 della vigente Tabella sulle Imposte di Registro, i contratti di comodato o di concessione in uso gratuito di beni materiali o immateriali stipulato fra coniugi o fra soggetti di cui almeno uno sia vincolato ad una delle controparti da parentela di primo grado, soggiace all’imposta di registro di euro. 70,00. Tali contratti, ancorchè dichiarati rinnovabili, non sono iscritti nel Registro di cui all’articolo 18 del Regolamento per l’Applicazione della Legge sulle Imposte di Registro (allegato alla Legge n.85/1981). 3 bis. Nel confermare la ratio del II paragrafo del N.28 della citata Tabella, alla divisione di beni ricevuti dai figli a titolo di eredità e/o di legato nella successione del genitore, è applicata l’imposta di registro fissa anche in caso di conguaglio e a prescindere dal numero dei condividenti e l’imposta di trascrizione è applicata nella misura minima. La stessa imposizione si applica alla divisione a cui partecipi il coniuge superstite e, pertanto, il paragrafo II del N.28 della citata Tabella è modificato come segue:
+3\. In applicazione della deroga prevista dall’articolo 5 del decreto 17 giugno 2004 n. 80, e con riferimento al N. 18 della vigente Tabella sulle Imposte di Registro, i contratti di comodato o di concessione in uso gratuito di beni materiali o immateriali stipulato fra coniugi o fra soggetti di cui almeno uno sia vincolato ad una delle controparti da parentela di primo grado, soggiace all’imposta di registro di euro. 70,00. Tali contratti, ancorchè dichiarati rinnovabili, non sono iscritti nel Registro di cui all’articolo 18 del Regolamento per l’Applicazione della Legge sulle Imposte di Registro (allegato alla Legge n.85/1981). 3 bis. Nel confermare la ratio del II paragrafo del N.28 della citata Tabella, alla divisione di beni ricevuti dai figli a titolo di eredità e/o di legato nella successione del genitore, è applicata l’imposta di registro fissa anche in caso di conguaglio e a prescindere dal numero dei condividenti e l’imposta di trascrizione è applicata nella misura minima. La stessa imposizione si applica alla divisione a cui partecipi il coniuge superstite e, pertanto, il paragrafo II del N.28 della citata Tabella è modificato come segue:
 
 “II - dei beni ereditari tra figli e coniuge superstite euro 100,00”.
 
@@ -2131,25 +1825,17 @@ In applicazione della deroga prevista dall’articolo 5 del decreto 17 giugno 20
 
 (Imposte sugli atti inerenti l’affidamento fiduciario)
 
-1.
+1\. Il contratto di affidamento fiduciario, e gli eventuali ulteriori atti di trasferimento al patrimonio affidato, sono assoggettati all’imposta di registro fissa nella misura di euro 70,00 e alle imposte di bollo, trascrizione e voltura nella misura ordinaria.
 
-Il contratto di affidamento fiduciario, e gli eventuali ulteriori atti di trasferimento al patrimonio affidato, sono assoggettati all’imposta di registro fissa nella misura di euro 70,00 e alle imposte di bollo, trascrizione e voltura nella misura ordinaria.
+2\. Gli atti con cui sono trasferiti ai beneficiari i beni facenti parte del patrimonio affidato sono assoggettati alle imposte previste per i trasferimenti a titolo oneroso. A tali atti si applicano le imposte previste per gli atti a titolo gratuito qualora affidante e beneficiario siano legati da rapporto di parentela in linea retta entro il secondo grado.
 
-2.
-
-Gli atti con cui sono trasferiti ai beneficiari i beni facenti parte del patrimonio affidato sono assoggettati alle imposte previste per i trasferimenti a titolo oneroso. A tali atti si applicano le imposte previste per gli atti a titolo gratuito qualora affidante e beneficiario siano legati da rapporto di parentela in linea retta entro il secondo grado.
-
-3.
-
-Ricorrendo le ipotesi previste al comma III° e IV° dell’articolo 5 della Legge n.43/2010, gli atti di trasferimento a favore dell’affidante dei beni già oggetto del patrimonio affidato sono assoggettati all’imposta di registro fissa nella misura di euro 70,00 e alle imposte di bollo, trascrizione e voltura nella misura ordinaria.
+3\. Ricorrendo le ipotesi previste al comma III° e IV° dell’articolo 5 della Legge n.43/2010, gli atti di trasferimento a favore dell’affidante dei beni già oggetto del patrimonio affidato sono assoggettati all’imposta di registro fissa nella misura di euro 70,00 e alle imposte di bollo, trascrizione e voltura nella misura ordinaria.
 
 ##### Art. 4
 
 (Contratti bancari)
 
-1.
-
-I contratti stipulati per scrittura privata con soggetti autorizzati ai sensi della Legge n.165/2005 e successive modifiche, portanti i negozi di cui ai punti 8, 8 bis, 9, 11, 12, 13 e 17 della Tabella A della Legge 29 ottobre 1981 n.85 e successive modifiche in materia di imposte di registro:
+1\. I contratti stipulati per scrittura privata con soggetti autorizzati ai sensi della Legge n.165/2005 e successive modifiche, portanti i negozi di cui ai punti 8, 8 bis, 9, 11, 12, 13 e 17 della Tabella A della Legge 29 ottobre 1981 n.85 e successive modifiche in materia di imposte di registro:
 
 a) sono esenti da registrazione se di ammontare non superiore a euro 10.000,00 (diecimila/00);
 
@@ -2157,67 +1843,43 @@ b) sono soggetti a registrazione in caso d’uso se di ammontare compreso tra eu
 
 c) sono soggetti a registrazione a termine fisso se di ammontare superiore a euro 300.000,00n (trecentomila/00). 1 bis. Gli atti e contratti stipulati in qualunque forma con soggetti autorizzati, ai sensi della Legge n.165/2005 e successive modifiche, portanti i negozi di cui ai punti 8, 8 bis, 9, 11, 12, 14, lettera b), 15, primo paragrafo e 17 della Tabella A della Legge n.85/1981 e successive modifiche in materia di imposte di registro scontano l’imposta di registro nella misura fissa di euro 250,00 (duecentocinquanta/00).
 
-2.
+2\. Sono esenti da registrazione le scritture private portanti contratti di deposito, contratti di apertura di conto corrente senza fido, contratti di noleggio delle cassette di sicurezza, contratti di assicurazione, contratti per servizi bancari e finanziari alla clientela, nonché gli atti e contratti tra istituto bancario/finanziario e cliente aventi per oggetto strumenti finanziari.
 
-Sono esenti da registrazione le scritture private portanti contratti di deposito, contratti di apertura di conto corrente senza fido, contratti di noleggio delle cassette di sicurezza, contratti di assicurazione, contratti per servizi bancari e finanziari alla clientela, nonché gli atti e contratti tra istituto bancario/finanziario e cliente aventi per oggetto strumenti finanziari.
+3\. In applicazione delle norme generali di cui alla Legge n.85/1981 e successive modifiche, gli atti e contratti, comunque stipulati, portanti i negozi citati nel presente articolo, scontano le imposte per essi previste anche qualora siano allegati o enunciati in contratti, dichiarazioni e atti di cui si faccia uso in giudizio o nell’Amministrazione o che siano sottoposti a registrazione ai sensi delle norme vigenti.
 
-3.
-
-In applicazione delle norme generali di cui alla Legge n.85/1981 e successive modifiche, gli atti e contratti, comunque stipulati, portanti i negozi citati nel presente articolo, scontano le imposte per essi previste anche qualora siano allegati o enunciati in contratti, dichiarazioni e atti di cui si faccia uso in giudizio o nell’Amministrazione o che siano sottoposti a registrazione ai sensi delle norme vigenti.
-
-4.
-
-L’imposta ipotecaria per gli annotamenti di subingresso di cui al punto 8 della Tabella “C” allegata al Decreto Delegato n.8/2010, è parificata a quella prevista per gli altri annotamenti e pertanto tale punto 8 è modificato come segue:
+4\. L’imposta ipotecaria per gli annotamenti di subingresso di cui al punto 8 della Tabella “C” allegata al Decreto Delegato n.8/2010, è parificata a quella prevista per gli altri annotamenti e pertanto tale punto 8 è modificato come segue:
 
 “8. Annotamenti di subingresso euro 70,00
 
-5.
-
-Le imposte sono corrisposte dall’esibitore il quale ha diritto di rivalersi sul soggetto obbligato ai sensi delle norme sulle Imposte di Registro. 5 bis. Le scritture private portanti i negozi di cui al presente articolo da sottoporre a registrazione a termine fisso, qualora siano stipulate in data anteriore a quella del presente decreto e siano portate alla registrazione nel periodo intercorrente dal 1° giugno al 30 novembre 2017, sono assoggettate alla penale di ritardata registrazione di cui all’articolo 58 della Legge n.85/1981 nella misura ridotta pari al 10% dell’imposta con un importo minimo di euro 10,00.
+5\. Le imposte sono corrisposte dall’esibitore il quale ha diritto di rivalersi sul soggetto obbligato ai sensi delle norme sulle Imposte di Registro. 5 bis. Le scritture private portanti i negozi di cui al presente articolo da sottoporre a registrazione a termine fisso, qualora siano stipulate in data anteriore a quella del presente decreto e siano portate alla registrazione nel periodo intercorrente dal 1° giugno al 30 novembre 2017, sono assoggettate alla penale di ritardata registrazione di cui all’articolo 58 della Legge n.85/1981 nella misura ridotta pari al 10% dell’imposta con un importo minimo di euro 10,00.
 
 ##### Art. 5
 
 (Provvedimenti giudiziali e formalità)
 
-1.
+1\. Sono esenti dalla formalità della registrazione i provvedimenti giudiziali emessi nelle cause civili nonché gli atti del cancelliere e degli ufficiali giudiziari.
 
-Sono esenti dalla formalità della registrazione i provvedimenti giudiziali emessi nelle cause civili nonché gli atti del cancelliere e degli ufficiali giudiziari.
+2\. I provvedimenti ed atti di cui al comma che precede sono assoggettati alla registrazione qualora per essi la parte interessata richieda eseguirsi le formalità nei pubblici registri immobiliari. Allo scopo, gli atti e provvedimenti sono sottoposti alla registrazione senza necessità di presentazione dell’originale, con il deposito delle copie dichiarate conformi dal Cancelliere in numero sufficiente alla esecuzione delle formalità per la pubblicità immobiliare. 2 bis. Fino alla revisione delle pertinenti norme, il Conservatore dei Registri Immobiliari è autorizzato ad iscrivere ipoteca giudiziale sulla base di sentenza o di altro titolo previsto dall’articolo 37 della Legge Ipotecaria 16 marzo 1854, portante condanna anche non definitiva al pagamento di somma e per l’importo ivi risultante.
 
-2.
+3\. I provvedimenti ed atti di cui ai precedenti commi assolvono le normali imposte di bollo, registro, trascrizione, ipotecarie e catastali al momento della presentazione per l’esecuzione delle formalità. Le imposte sono dovute nella misura per essi prevista, anche qualora siano allegati ad atti presentati alla registrazione.
 
-I provvedimenti ed atti di cui al comma che precede sono assoggettati alla registrazione qualora per essi la parte interessata richieda eseguirsi le formalità nei pubblici registri immobiliari. Allo scopo, gli atti e provvedimenti sono sottoposti alla registrazione senza necessità di presentazione dell’originale, con il deposito delle copie dichiarate conformi dal Cancelliere in numero sufficiente alla esecuzione delle formalità per la pubblicità immobiliare. 2 bis. Fino alla revisione delle pertinenti norme, il Conservatore dei Registri Immobiliari è autorizzato ad iscrivere ipoteca giudiziale sulla base di sentenza o di altro titolo previsto dall’articolo 37 della Legge Ipotecaria 16 marzo 1854, portante condanna anche non definitiva al pagamento di somma e per l’importo ivi risultante.
+4\. Per le formalità da eseguirsi negli altri pubblici registri non è necessaria la registrazione dell’atto o provvedimento presso l’Ufficio del Registro e Conservatoria. 4 bis. Per quanto compatibili, le disposizioni di cui al presente articolo sono applicate anche ai provvedimenti giudiziali emessi nelle giurisdizioni diverse da quella civile. 4 ter. Il repertorio dei Cancellieri non è soggetto alla vidimazione annuale.
 
-3.
-
-I provvedimenti ed atti di cui ai precedenti commi assolvono le normali imposte di bollo, registro, trascrizione, ipotecarie e catastali al momento della presentazione per l’esecuzione delle formalità. Le imposte sono dovute nella misura per essi prevista, anche qualora siano allegati ad atti presentati alla registrazione.
-
-4.
-
-Per le formalità da eseguirsi negli altri pubblici registri non è necessaria la registrazione dell’atto o provvedimento presso l’Ufficio del Registro e Conservatoria. 4 bis. Per quanto compatibili, le disposizioni di cui al presente articolo sono applicate anche ai provvedimenti giudiziali emessi nelle giurisdizioni diverse da quella civile. 4 ter. Il repertorio dei Cancellieri non è soggetto alla vidimazione annuale.
-
-5.
-
-Sono abrogati il comma 3 dell’articolo 52 della Legge n.174/2013 e il comma 2 dell’articolo 15 della Legge n.87/1981.
+5\. Sono abrogati il comma 3 dell’articolo 52 della Legge n.174/2013 e il comma 2 dell’articolo 15 della Legge n.87/1981.
 
 ##### Art. 6
 
 (Rinuncia all’eredità)
 
-1.
+1\. La rinuncia all’eredità è ricevuta esclusivamente da Notaio e pertanto la lettera c) dell’articolo 3 della Legge n.87/1981 è modificata come segue: “c) gli atti tra vivi di rinuncia ai diritti di qualunque specie che riflettono beni immobili ivi compresi gli atti di rinuncia all’eredità”.
 
-La rinuncia all’eredità è ricevuta esclusivamente da Notaio e pertanto la lettera c) dell’articolo 3 della Legge n.87/1981 è modificata come segue: “c) gli atti tra vivi di rinuncia ai diritti di qualunque specie che riflettono beni immobili ivi compresi gli atti di rinuncia all’eredità”.
-
-2.
-
-E’ abrogato il punto 4) dell’articolo 54 della Legge n.85/1981.
+2\. E’ abrogato il punto 4) dell’articolo 54 della Legge n.85/1981.
 
 ##### Art. 7
 
 (Coordinamento delle norme di registro con la legge notarile)
 
-1.
-
-Alla fine dell’articolo 4 del Decreto Delegato 24 febbraio 2016 n. 20 sono aggiunti i seguenti commi:
+1\. Alla fine dell’articolo 4 del Decreto Delegato 24 febbraio 2016 n. 20 sono aggiunti i seguenti commi:
 
 “5 bis.
 
@@ -2229,37 +1891,25 @@ L’Ufficio del Registro e Conservatoria non è responsabile del mancato pagamen
 
 (Intestazioni e trasferimenti a favore del coniuge ed ex coniuge)
 
-1.
-
-E’ assoggettato all’imposta di registro fissa nella misura di euro 100,00 l’atto, in data successiva al 1° giugno 2017, con cui i coniugi non separati dispongono:
+1\. E’ assoggettato all’imposta di registro fissa nella misura di euro 100,00 l’atto, in data successiva al 1° giugno 2017, con cui i coniugi non separati dispongono:
 
 a) che siano intestati ad entrambi i diritti reali su beni immobili già intestati ad uno solo dei coniugi mentre vigeva la comunione legale dei beni;
 
 b) che siano trasferiti al coniuge diritti reali su immobili già intestati all’altro coniuge mentre vigeva il regime patrimoniale di separazione dei beni, qualora il trasferimento di tali diritti costituisca, per dichiarazione in atto, dazione a corrispettivo dell’apporto economico del coniuge non intestato, all’acquisto, costruzione o ristrutturazione degli immobili stessi.
 
-2.
+2\. E’ assoggettato all’imposta di registro nella misura fissa di euro 100,00 l’atto, in data successiva al 1° giugno 2017, con cui si assegnano tra i coniugi separati o divorziati beni immobili e diritti reali immobiliari o altri diritti, a seguito e secondo quanto stabilito in sede di separazione coniugale o di scioglimento del matrimonio o di cessazione degli effetti civili del matrimonio.
 
-E’ assoggettato all’imposta di registro nella misura fissa di euro 100,00 l’atto, in data successiva al 1° giugno 2017, con cui si assegnano tra i coniugi separati o divorziati beni immobili e diritti reali immobiliari o altri diritti, a seguito e secondo quanto stabilito in sede di separazione coniugale o di scioglimento del matrimonio o di cessazione degli effetti civili del matrimonio.
+3\. Le imposte di bollo, trascrizione e voltura sono dovute per intero. L’imposta di trascrizione è applicata nella misura minima sugli atti di cui alla lettera a) del primo comma.
 
-3.
+4\. Le stesse imposte di cui ai commi che precedono sono dovute per il trasferimento di contratti, beni e diritti diversi da quelli indicati ai commi 1 e 2.
 
-Le imposte di bollo, trascrizione e voltura sono dovute per intero. L’imposta di trascrizione è applicata nella misura minima sugli atti di cui alla lettera a) del primo comma.
-
-4.
-
-Le stesse imposte di cui ai commi che precedono sono dovute per il trasferimento di contratti, beni e diritti diversi da quelli indicati ai commi 1 e 2.
-
-5.
-
-Le superiori norme si applicano anche ai casi in cui l’acquisto da parte del coniuge già intestato avesse goduto dei “benefici prima casa” previsti al N.1 bis delle Tariffe delle imposte di registro. I predetti “benefici prima casa” si continuano ad applicare qualora, nel caso del comma 2, l’assegnazione sia fatta esclusivamente al coniuge separato o divorziato non intestato, in possesso dei requisiti richiesti dal citato N.1 bis.
+5\. Le superiori norme si applicano anche ai casi in cui l’acquisto da parte del coniuge già intestato avesse goduto dei “benefici prima casa” previsti al N.1 bis delle Tariffe delle imposte di registro. I predetti “benefici prima casa” si continuano ad applicare qualora, nel caso del comma 2, l’assegnazione sia fatta esclusivamente al coniuge separato o divorziato non intestato, in possesso dei requisiti richiesti dal citato N.1 bis.
 
 ##### Art. 7-ter
 
 (Riduzione di penale)
 
-1.
-
-Il comma 3 bis dell’articolo 8 del Decreto Delegato 24 febbraio 2016 n.20, articolo con il quale è stato modificato l’articolo 57 della Legge n.73/2014, è così sostituito:
+1\. Il comma 3 bis dell’articolo 8 del Decreto Delegato 24 febbraio 2016 n.20, articolo con il quale è stato modificato l’articolo 57 della Legge n.73/2014, è così sostituito:
 
 “3 bis.
 
@@ -2269,9 +1919,7 @@ Le penali per la violazione di cui al comma 3 sono ridotte della metà per il ri
 
 (Aggiornamento degli atti esenti da registrazione – articolo 74 Legge n.85/1981)
 
-1.
-
-L’articolo 74 della Legge n.85/1981 è modificato come segue:
+1\. L’articolo 74 della Legge n.85/1981 è modificato come segue:
 
 Sono esenti dalla registrazione, ancorché autenticati:
 
@@ -2317,37 +1965,25 @@ I documenti ed atti di cui al comma che precede o esentati da registrazione da a
 
 (Rilascio di copie)
 
-1.
+1\. L’Ufficio del Registro e Conservatoria è autorizzato a rilasciare copia conforme degli esemplari d’archivio degli atti pubblici registrati esclusivamente allo scopo di consentire all’Ordine degli Avvocati e Notai di prendere visione degli atti per i quali l’ufficio abbia fatto segnalazione ai sensi di legge e agli organi pubblici ed uffici amministrativi di effettuare i controlli nei rispettivi ambiti di competenza previa motivata richiesta.
 
-L’Ufficio del Registro e Conservatoria è autorizzato a rilasciare copia conforme degli esemplari d’archivio degli atti pubblici registrati esclusivamente allo scopo di consentire all’Ordine degli Avvocati e Notai di prendere visione degli atti per i quali l’ufficio abbia fatto segnalazione ai sensi di legge e agli organi pubblici ed uffici amministrativi di effettuare i controlli nei rispettivi ambiti di competenza previa motivata richiesta.
-
-2.
-
-E’ consentito il rilascio di copie autentiche degli esemplari d’archivio di scritture private ed atti esteri agli organi pubblici ed uffici amministrativi per consentire i controlli nei rispettivi ambiti di competenza previa motivata richiesta.
+2\. E’ consentito il rilascio di copie autentiche degli esemplari d’archivio di scritture private ed atti esteri agli organi pubblici ed uffici amministrativi per consentire i controlli nei rispettivi ambiti di competenza previa motivata richiesta.
 
 ##### Art. 10
 
 (Decorrenze e Norme transitorie)
 
-1.
+1\. Il secondo comma dell’articolo 1 è applicato a tutti i processi civili e procedure, comunque denominate, iscritte a ruolo a partire dal 1° ottobre 2016.
 
-Il secondo comma dell’articolo 1 è applicato a tutti i processi civili e procedure, comunque denominate, iscritte a ruolo a partire dal 1° ottobre 2016.
+2\. Le disposizioni contenute nel presente decreto delegato hanno effetto a decorrere dal 1° ottobre 2016 facendo riferimento alla data di riscossione delle imposte e di vidimazione dei Repertori Notarili, fermo restando quanto previsto dal precedente comma.
 
-2.
-
-Le disposizioni contenute nel presente decreto delegato hanno effetto a decorrere dal 1° ottobre 2016 facendo riferimento alla data di riscossione delle imposte e di vidimazione dei Repertori Notarili, fermo restando quanto previsto dal precedente comma.
-
-3.
-
-Tenuto conto di quanto previsto al comma che precede, delle modifiche introdotte con il presente decreto delegato e della necessità di definire la disciplina transitoria per la vidimazione dei Repertori degli Atti Tra Vivi tenuti nel periodo intercorrente dalla data di entrata in vigore della Legge 73/2014 alla data di tenuta del Repertorio in formato elettronico, l’Ufficio del Registro e Conservatoria applica agli atti ivi annotati il primo comma dell’articolo 1 e l’articolo 4 in combinato disposto con il primo comma dell’articolo 1, con le eventuali penali già previste dal Decreto Delegato n. 20/2016 e ferma restando l’applicazione dell’articolo 59 della Legge sulle imposte di Registro n. 85/1981. Con riferimento agli atti annotati e non ricadenti nel primo comma dell’articolo 1 e nell’articolo 4, il Repertorio degli Atti tra Vivi del Notaio che dichiari sotto la sua responsabilità di non essere più in possesso dell’originale o della copia e di non poterlo reperire presso il contraente, è vidimato senza ulteriori adempimenti da parte dell’Ufficio, salve comunque le penali poste a carico del Notaio stesso ai sensi del Decreto Delegato n.20/2016.
+3\. Tenuto conto di quanto previsto al comma che precede, delle modifiche introdotte con il presente decreto delegato e della necessità di definire la disciplina transitoria per la vidimazione dei Repertori degli Atti Tra Vivi tenuti nel periodo intercorrente dalla data di entrata in vigore della Legge 73/2014 alla data di tenuta del Repertorio in formato elettronico, l’Ufficio del Registro e Conservatoria applica agli atti ivi annotati il primo comma dell’articolo 1 e l’articolo 4 in combinato disposto con il primo comma dell’articolo 1, con le eventuali penali già previste dal Decreto Delegato n. 20/2016 e ferma restando l’applicazione dell’articolo 59 della Legge sulle imposte di Registro n. 85/1981. Con riferimento agli atti annotati e non ricadenti nel primo comma dell’articolo 1 e nell’articolo 4, il Repertorio degli Atti tra Vivi del Notaio che dichiari sotto la sua responsabilità di non essere più in possesso dell’originale o della copia e di non poterlo reperire presso il contraente, è vidimato senza ulteriori adempimenti da parte dell’Ufficio, salve comunque le penali poste a carico del Notaio stesso ai sensi del Decreto Delegato n.20/2016.
 
 ##### Art. 10-bis
 
 (Decorrenza delle norme introdotte con la ratifica)
 
-1.
-
-Fermo restando quanto previsto per le decorrenze dal precedente articolo 10 e dall’originario Decreto Delegato n.127/2016, le nuove norme introdotte con il presente decreto hanno efficacia a partire dalla data della sua entrata in vigore.
+1\. Fermo restando quanto previsto per le decorrenze dal precedente articolo 10 e dall’originario Decreto Delegato n.127/2016, le nuove norme introdotte con il presente decreto hanno efficacia a partire dalla data della sua entrata in vigore.
 
 LEGGE 15 settembre 2023 n.132 VARIAZIONE AL BILANCIO DI PREVISIONE DELLO STATO E DEGLI ENTI DEL SETTORE PUBBLICO ALLARGATO PER L’ESERCIZIO FINANZIARIO 2023 E MODIFICHE ALLA LEGGE 23 DICEMBRE 2022 N. 171
 
@@ -2355,19 +1991,13 @@ LEGGE 15 settembre 2023 n.132 VARIAZIONE AL BILANCIO DI PREVISIONE DELLO STATO E
 
 (Modifica dell’articolo 25 e del terzo comma dell’articolo 29 della Legge 29 ottobre 1981 n.85)
 
-1.
-
-L’articolo 25 della Legge 29 ottobre 1981 n.85 è così sostituito:
+1\. L’articolo 25 della Legge 29 ottobre 1981 n.85 è così sostituito:
 
 “Art.25
 
-1.
+1\. Il Conservatore, avvalendosi di un funzionario dell’Ufficio Tecnico del Catasto e Cartografia, determina il valore reale dell'immobile o diritto reale, al giorno del trasferimento, tenendo conto delle vendite, divisioni, o stime precedenti degli immobili medesimi, dei prezzi di mercato di altri immobili posti nella stessa località ed in analoghe condizioni, nonché dei criteri di valutazione adottati dai periti nelle loro stime.”.
 
-Il Conservatore, avvalendosi di un funzionario dell’Ufficio Tecnico del Catasto e Cartografia, determina il valore reale dell'immobile o diritto reale, al giorno del trasferimento, tenendo conto delle vendite, divisioni, o stime precedenti degli immobili medesimi, dei prezzi di mercato di altri immobili posti nella stessa località ed in analoghe condizioni, nonché dei criteri di valutazione adottati dai periti nelle loro stime.”.
-
-2.
-
-Il terzo comma dell’articolo 29 della Legge n.85/1981, come modificato dall’articolo 53 della Legge 20 dicembre 2013 n.174, è così sostituito:
+2\. Il terzo comma dell’articolo 29 della Legge n.85/1981, come modificato dall’articolo 53 della Legge 20 dicembre 2013 n.174, è così sostituito:
 
 “3. Trascorso il termine perentorio senza che il contribuente abbia concordato il valore o abbia depositato il ricorso alla Commissione, l’accertamento fatto dal Conservatore diventa definitivo e sono senz’altro dovute le maggiori imposte sulla differenza di valore accertata dall’Ufficio e la penale del 10 per cento da applicare sulle maggiori imposte.”.
 
@@ -2377,9 +2007,7 @@ LEGGE 22 ottobre 2024 n.155 VARIAZIONE AL BILANCIO DI PREVISIONE DELLO STATO E D
 
 (Imposta di registro sui contratti bancari)
 
-1.
-
-Il comma 1, dell’articolo 4 del Decreto Delegato 26 maggio 2017 n.55, è così sostituito:
+1\. Il comma 1, dell’articolo 4 del Decreto Delegato 26 maggio 2017 n.55, è così sostituito:
 
 “1. I contratti stipulati per scrittura privata con soggetti autorizzati ai sensi della Legge n.165/2005 e successive modifiche, portanti i negozi di cui ai punti 8, 8 bis, 9, 11, 12, 13 e 17 della Tabella A della Legge 29 ottobre 1981 n.85 e successive modifiche in materia di imposte di registro:
 
@@ -2389,64 +2017,42 @@ b) sono soggetti a registrazione in caso d’uso se di ammontare compreso tra eu
 
 c) sono soggetti a registrazione a termine fisso se di ammontare superiore a euro 300.000,00 (trecentomila/00).”.
 
-2.
-
-Dopo il comma 1, dell’articolo 4 del Decreto Delegato n.55/2017 è aggiunto il seguente comma 1 bis:
+2\. Dopo il comma 1, dell’articolo 4 del Decreto Delegato n.55/2017 è aggiunto il seguente comma 1 bis:
 
 “1 bis. Gli atti e contratti stipulati in qualunque forma con soggetti autorizzati, ai sensi della Legge n.165/2005 e successive modifiche, portanti i negozi di cui ai punti 8, 8 bis, 9, 11, 12, 14, lettera b), 15, primo paragrafo e 17 della Tabella A della Legge n.85/1981 e successive modifiche in materia di imposte di registro scontano l’imposta di registro nella misura fissa di euro 250,00 (duecentocinquanta/00).”.
 
-3.
-
-Il comma 3, dell’articolo 4 del Decreto Delegato n.55/2017, è così sostituito:
+3\. Il comma 3, dell’articolo 4 del Decreto Delegato n.55/2017, è così sostituito:
 
 “3.
 
 In applicazione delle norme generali di cui alla Legge n.85/1981 e successive modifiche, gli atti e contratti, comunque stipulati, portanti i negozi citati nel presente articolo, scontano le imposte per essi previste anche qualora siano allegati o enunciati in contratti, dichiarazioni e atti di cui si faccia uso in giudizio o nell’Amministrazione o che siano sottoposti a registrazione ai sensi delle norme vigenti.”.
 
-4.
-
-Le norme di cui al presente articolo si applicano ai contratti stipulati in data successiva all’entrata in vigore della presente legge.
+4\. Le norme di cui al presente articolo si applicano ai contratti stipulati in data successiva all’entrata in vigore della presente legge.
 
 ##### Art. 11
 
 (Disposizioni per favorire il salvataggio d’impresa)
 
-1.
+1\. Nelle more dell’adozione di un’apposita normativa finalizzata alla gestione delle crisi d’impresa, il presente articolo è volto a disciplinare ulteriori benefici per il salvataggio delle imprese che si trovino già in una situazione di crisi aziendale conclamata, siano in stato di moratoria e abbiano alle loro dipendenze almeno cento lavoratori.
 
-Nelle more dell’adozione di un’apposita normativa finalizzata alla gestione delle crisi d’impresa, il presente articolo è volto a disciplinare ulteriori benefici per il salvataggio delle imprese che si trovino già in una situazione di crisi aziendale conclamata, siano in stato di moratoria e abbiano alle loro dipendenze almeno cento lavoratori.
+2\. Condizione per beneficiare degli incentivi è il mantenimento dell’intero organico di lavoratori subordinati e che siano oggetto della procedura di cui al comma 1, lettera a), dell’articolo 15 della Legge 9 dicembre 2022 n.164 a seguito di sottoscrizione di specifico accordo di salvataggio d’impresa.
 
-2.
+3\. L’ottenimento degli incentivi previsti dal presente articolo è autorizzato dall’UO Ufficio per il Lavoro e le Politiche Attive. L’impresa interessata deve presentare apposita istanza all’UO Ufficio per il Lavoro e le Politiche Attive entro trenta giorni dalla data di sottoscrizione dell’accordo di salvataggio d’impresa di cui al comma 2. Il medesimo Ufficio, nel termine di sessanta giorni dalla presentazione dell’istanza, deve comunicare l’accoglimento o il rigetto dell’istanza al richiedente. Nel caso in cui il richiedente, durante il percepimento degli incentivi, non versi più nella condizione prevista dal comma 2, interviene la revoca immediata dei benefici e la restituzione di quanto percepito o usufruito dall’inizio per gli incentivi di cui ai commi 4 e 5.
 
-Condizione per beneficiare degli incentivi è il mantenimento dell’intero organico di lavoratori subordinati e che siano oggetto della procedura di cui al comma 1, lettera a), dell’articolo 15 della Legge 9 dicembre 2022 n.164 a seguito di sottoscrizione di specifico accordo di salvataggio d’impresa.
+4\. I lavoratori di cui al comma 2 hanno diritto a percepire il 100 per cento della retribuzione contrattuale così suddivisa: dal primo mese al dodicesimo mese il 15 per cento della retribuzione base è a carico dello Stato su Capitolo di Bilancio 2-4-7460 “Fondo speciale per interventi sull’occupazione e contenimento costo del lavoro” e la restante parte è a carico dell’impresa. Il datore di lavoro è tenuto a corrispondere al lavoratore la retribuzione per intero, con rivalsa sui contributi dovuti mensilmente all’Istituto per la Sicurezza Sociale.
 
-3.
-
-L’ottenimento degli incentivi previsti dal presente articolo è autorizzato dall’UO Ufficio per il Lavoro e le Politiche Attive. L’impresa interessata deve presentare apposita istanza all’UO Ufficio per il Lavoro e le Politiche Attive entro trenta giorni dalla data di sottoscrizione dell’accordo di salvataggio d’impresa di cui al comma 2. Il medesimo Ufficio, nel termine di sessanta giorni dalla presentazione dell’istanza, deve comunicare l’accoglimento o il rigetto dell’istanza al richiedente. Nel caso in cui il richiedente, durante il percepimento degli incentivi, non versi più nella condizione prevista dal comma 2, interviene la revoca immediata dei benefici e la restituzione di quanto percepito o usufruito dall’inizio per gli incentivi di cui ai commi 4 e 5.
-
-4.
-
-I lavoratori di cui al comma 2 hanno diritto a percepire il 100 per cento della retribuzione contrattuale così suddivisa: dal primo mese al dodicesimo mese il 15 per cento della retribuzione base è a carico dello Stato su Capitolo di Bilancio 2-4-7460 “Fondo speciale per interventi sull’occupazione e contenimento costo del lavoro” e la restante parte è a carico dell’impresa. Il datore di lavoro è tenuto a corrispondere al lavoratore la retribuzione per intero, con rivalsa sui contributi dovuti mensilmente all’Istituto per la Sicurezza Sociale.
-
-5.
-
-Per le assunzioni di cui al comma 2 è concesso uno sgravio contributivo del 50 per cento per tutta la durata dell’incentivo di cui al comma 4. Gli sgravi vengono aumentati complessivamente al 100 per cento nel caso in cui il lavoratore sia:
+5\. Per le assunzioni di cui al comma 2 è concesso uno sgravio contributivo del 50 per cento per tutta la durata dell’incentivo di cui al comma 4. Gli sgravi vengono aumentati complessivamente al 100 per cento nel caso in cui il lavoratore sia:
 
 a) di sesso femminile;
 
 b) di età pari o superiore ai cinquanta anni.
 
-6.
-
-Quando il salvataggio di impresa, che ricade nelle condizioni di cui ai commi 1 e 2, avviene con la cessione del ramo d’azienda, l’eventuale trasferimento di beni immobili, contenuti nella cessione medesima, è assoggettato all’imposta di registro dell’1 per cento con esenzione dalle imposte di bollo, trascrizione e voltura. All’Ufficio del Registro e Conservatoria, per ottenere l’incentivo del presente comma, deve essere presentata apposita richiesta con allegata:
+6\. Quando il salvataggio di impresa, che ricade nelle condizioni di cui ai commi 1 e 2, avviene con la cessione del ramo d’azienda, l’eventuale trasferimento di beni immobili, contenuti nella cessione medesima, è assoggettato all’imposta di registro dell’1 per cento con esenzione dalle imposte di bollo, trascrizione e voltura. All’Ufficio del Registro e Conservatoria, per ottenere l’incentivo del presente comma, deve essere presentata apposita richiesta con allegata:
 
 a) l’attestazione con cui l’UO Ufficio per il Lavoro e le Politiche Attive concede gli incentivi; oppure
 
 b) la copia dell’istanza presentata all’UO Ufficio per il Lavoro e le Politiche Attive e per la concessione degli incentivi, con l’attestazione dell’avvenuto deposito. In tal caso, il Conservatore effettua le formalità con la riduzione ed esenzione dalle imposte e qualora, entro novanta giorni dalla registrazione, non sia consegnata l’attestazione di cui alla lettera a), per l’atto sono dovute le imposte ordinarie, detratte quelle già pagate.
 
-7.
+7\. Le disposizioni del presente articolo si applicano dall’esercizio 2024.
 
-Le disposizioni del presente articolo si applicano dall’esercizio 2024.
-
-8.
-
-Per i salvataggi d’impresa risolti nell’esercizio 2024 prima dell’entrata in vigore della presente legge l’istanza per accedere agli incentivi, di cui al comma 3, deve essere presentata entro trenta giorni dalla sua entrata in vigore e agli atti di cui al comma 6 si applica la lettera b) del medesimo comma, con data di deposito dell’attestazione con cui l’UO Ufficio per il Lavoro e le Politiche Attive dà accesso agli incentivi, entro novanta giorni dall’entrata in vigore della presente legge, in via transitoria, la penale di ritardata registrazione si applica a decorrere da tale termine.
+8\. Per i salvataggi d’impresa risolti nell’esercizio 2024 prima dell’entrata in vigore della presente legge l’istanza per accedere agli incentivi, di cui al comma 3, deve essere presentata entro trenta giorni dalla sua entrata in vigore e agli atti di cui al comma 6 si applica la lettera b) del medesimo comma, con data di deposito dell’attestazione con cui l’UO Ufficio per il Lavoro e le Politiche Attive dà accesso agli incentivi, entro novanta giorni dall’entrata in vigore della presente legge, in via transitoria, la penale di ritardata registrazione si applica a decorrere da tale termine.

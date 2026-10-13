@@ -1047,17 +1047,11 @@ e) comunica intenzionalmente false informazioni e compromette di conseguenza la 
 
 19\. Le pene previste al comma 18 sono aumentate di un grado qualora i fatti siano commessi su una nave in navigazione o in servizio.
 
-20.
+20\. Chiunque, nel commettere uno dei fatti previsti dal presente articolo, cagiona la morte di una persona è punito con la prigionia di ottavo grado.
 
-Chiunque, nel commettere uno dei fatti previsti dal presente articolo, cagiona la morte di una persona è punito con la prigionia di ottavo grado.
+21\. Chiunque, nel commettere uno dei fatti previsti dal presente articolo, cagiona lesioni personali è punito con la prigionia di settimo grado.
 
-21.
-
-Chiunque, nel commettere uno dei fatti previsti dal presente articolo, cagiona lesioni personali è punito con la prigionia di settimo grado.
-
-22.
-
-Chiunque minaccia di commettere una qualunque delle condotte previste al comma 18, lettere a), b), e d), in modo tale da compromettere la sicurezza della navigazione, è punito con la prigionia di quinto grado.”.
+22\. Chiunque minaccia di commettere una qualunque delle condotte previste al comma 18, lettere a), b), e d), in modo tale da compromettere la sicurezza della navigazione, è punito con la prigionia di quinto grado.”.
 
 ## TITOLO XII
 
@@ -1251,13 +1245,9 @@ DISPOSIZIONI PER GLI OPERATORI ECONOMICI CONNESSI FUNZIONALMENTE OD OPERATIVAMEN
 
 (Denominazione e segni distintivi degli operatori economici connessi al settore marittimo)
 
-1.
+1\. È fatto divieto agli operatori economici operanti sul territorio sammarinese, connessi funzionalmente o operativamente con l’Autorità Marittima, l’utilizzo quale propria denominazione, marchio, insegna, nome commerciale, dominio internet o qualunque altro segno distintivo di tutti quegli elementi che, a causa del modo e del contesto in cui vengono utilizzati in relazione al settore marittimo, possano essere analoghe, confondibili, trarre in inganno o comunque alterare le normali dinamiche di libero mercato e il procacciamento di clientela o comunque siano tali da ledere un diritto altrui o dell’Autorità stessa e della sua attività pubblica.
 
-È fatto divieto agli operatori economici operanti sul territorio sammarinese, connessi funzionalmente o operativamente con l’Autorità Marittima, l’utilizzo quale propria denominazione, marchio, insegna, nome commerciale, dominio internet o qualunque altro segno distintivo di tutti quegli elementi che, a causa del modo e del contesto in cui vengono utilizzati in relazione al settore marittimo, possano essere analoghe, confondibili, trarre in inganno o comunque alterare le normali dinamiche di libero mercato e il procacciamento di clientela o comunque siano tali da ledere un diritto altrui o dell’Autorità stessa e della sua attività pubblica.
-
-2.
-
-Rientrano nella denominazione e nei segni distintivi di cui al comma 1 anche le espressioni riportanti, in qualunque lingua riconosciuta:
+2\. Rientrano nella denominazione e nei segni distintivi di cui al comma 1 anche le espressioni riportanti, in qualunque lingua riconosciuta:
 
 a) le marche di registrazione sammarinesi per le navi (SMR-T7-268).
 
@@ -1273,21 +1263,15 @@ b) l’utilizzo dei termini:
 
 5) Bandiera.
 
-3.
-
-Il divieto di cui al presente articolo non si applica ai soggetti che operano in forza di specifici accordi, concessioni o autorizzazioni rilasciate dallo Stato ovvero dall’Autorità Marittima, approvati mediante delibera del Congresso di Stato.
+3\. Il divieto di cui al presente articolo non si applica ai soggetti che operano in forza di specifici accordi, concessioni o autorizzazioni rilasciate dallo Stato ovvero dall’Autorità Marittima, approvati mediante delibera del Congresso di Stato.
 
 ### Art. 76-undecies
 
 (Vigilanza)
 
-1.
+1\. Le Forze dell’Ordine vigilano sull’osservanza delle disposizioni di cui all’articolo 76-decies.
 
-Le Forze dell’Ordine vigilano sull’osservanza delle disposizioni di cui all’articolo 76-decies.
-
-2.
-
-In caso di accertata violazione, le Forze dell’Ordine procedono alla constatazione del fatto mediante processo verbale e ne danno comunicazione all’Autorità Giudiziaria ai fini della comminazione delle sanzioni previste all’articolo 76-duodecies.
+2\. In caso di accertata violazione, le Forze dell’Ordine procedono alla constatazione del fatto mediante processo verbale e ne danno comunicazione all’Autorità Giudiziaria ai fini della comminazione delle sanzioni previste all’articolo 76-duodecies.
 
 3\. Copia del verbale di cui al comma 2 è trasmessa per conoscenza all’Autorità Marittima.
 
@@ -1295,13 +1279,9 @@ In caso di accertata violazione, le Forze dell’Ordine procedono alla constataz
 
 (Sanzioni amministrative)
 
-1.
+1\. L’inosservanza delle disposizioni di cui all’articolo 76-decies è punita con una sanzione pecuniaria amministrativa da un minimo di euro 2.000,00 (duemila/00) a un massimo di euro 10.000,00 (diecimila/00).
 
-L’inosservanza delle disposizioni di cui all’articolo 76-decies è punita con una sanzione pecuniaria amministrativa da un minimo di euro 2.000,00 (duemila/00) a un massimo di euro 10.000,00 (diecimila/00).
-
-2.
-
-Unitamente all’irrogazione della sanzione pecuniaria amministrativa si può disporre altresì la modifica della denominazione dell’operatore economico, la cessazione dell’uso di tutti i segni distintivi ritenuti illegittimi, dei marchi e dei contenuti promozionali ai sensi del presente Titolo a spese del contravventore.
+2\. Unitamente all’irrogazione della sanzione pecuniaria amministrativa si può disporre altresì la modifica della denominazione dell’operatore economico, la cessazione dell’uso di tutti i segni distintivi ritenuti illegittimi, dei marchi e dei contenuti promozionali ai sensi del presente Titolo a spese del contravventore.
 
 ## TITOLO XIII
 
@@ -1507,9 +1487,7 @@ c) vantare all’interno della propria struttura organizzativa specifiche figure
 
 2\. La sottoscrizione dell’Accordo previsto al comma 1, dovrà sottostare al disposto normativo previsto dai commi 3 e 4 dell’articolo 44 della Legge 21 dicembre 2012 n.
 
-150.
-
-3\. La durata dell’Accordo previsto al comma 1, ha una durata massima di anni dieci dalla data di sottoscrizione e, alla sua scadenza, potrà essere rinnovato nel rispetto delle disposizioni previste ai commi precedenti.
+150\. 3. La durata dell’Accordo previsto al comma 1, ha una durata massima di anni dieci dalla data di sottoscrizione e, alla sua scadenza, potrà essere rinnovato nel rispetto delle disposizioni previste ai commi precedenti.
 
 ### Art. 8
 

@@ -415,11 +415,9 @@ Se il fatto compiuto nell'esecuzione di un ordine illegittimo costituisce reato,
 
 Non è punibile chi esegue l'ordine illegittimo quando la legge non gli consente il sindacato sulla legittimità dell'ordine, a meno che l'esecuzione di questo costituisca manifestamente reato.
 
-Agli effetti del sindacato sulla legittimità dell'ordine l'esecutore deve accertare che detto ordine abbia le forme prescritte, rientri nelle attribuzioni proprie e di chi lo ha emanato, sia emesso onde realizzare gli scopi per cui il relativo potere fu conferito dalla legge. In caso di errore si applicano le disposizioni degli articoli 34, comma 2, e 36.
+Agli effetti del sindacato sulla legittimità dell'ordine l'esecutore deve accertare che detto ordine abbia le forme prescritte, rientri nelle attribuzioni proprie e di chi lo ha emanato, sia emesso onde realizzare gli scopi per cui il relativo potere fu conferito dalla legge. In caso di errore si applicano le disposizioni degli articoli 34, comma 2, e
 
-##### Art. 41
-
-(Legittima difesa)
+36\. Art. 41 (Legittima difesa)
 
 Non è punibile chi ha commesso il fatto per essere stato costretto dalla necessità di difendere un diritto proprio od altrui contro il pericolo attuale di un'offesa ingiusta, sempre che il diritto minacciato non sia di minima importanza rispetto al diritto leso e vi sia proporzione fra i mezzi di difesa usati e quelli disponibili.
 
@@ -701,21 +699,13 @@ Il giudice nel provvedimento con cui ammette l'oblazione determina la somma corr
 
 (Particolare tenuità del fatto)
 
-1.
+1\. Il Giudice Inquirente dispone l’archiviazione quando, nei reati per i quali è prevista, senza tenere conto delle circostanze, la pena detentiva non superiore nel massimo alla prigionia di secondo grado, ovvero la pena pecuniaria, sola o congiunta alla predetta pena, per le modalità della condotta e per l’esiguità del danno o del pericolo, il fatto è di particolare tenuità e il reato non abbia ad oggetto comportamenti plurimi, abituali e reiterati.
 
-Il Giudice Inquirente dispone l’archiviazione quando, nei reati per i quali è prevista, senza tenere conto delle circostanze, la pena detentiva non superiore nel massimo alla prigionia di secondo grado, ovvero la pena pecuniaria, sola o congiunta alla predetta pena, per le modalità della condotta e per l’esiguità del danno o del pericolo, il fatto è di particolare tenuità e il reato non abbia ad oggetto comportamenti plurimi, abituali e reiterati.
+2\. Il fatto non può essere ritenuto di particolare tenuità quando l’autore ha agito per motivi abietti o futili o con crudeltà, ha adoperato sevizie o ha profittato delle condizioni di minorata difesa della vittima, anche in riferimento all’età della stessa, ovvero quando la condotta ha cagionato o da essa sono derivate, quali conseguenze non volute, la morte o le lesioni gravissime di una persona.
 
-2.
+3\. Nel giudizio, la punibilità è esclusa se il Giudice ritiene il fatto di particolare tenuità.
 
-Il fatto non può essere ritenuto di particolare tenuità quando l’autore ha agito per motivi abietti o futili o con crudeltà, ha adoperato sevizie o ha profittato delle condizioni di minorata difesa della vittima, anche in riferimento all’età della stessa, ovvero quando la condotta ha cagionato o da essa sono derivate, quali conseguenze non volute, la morte o le lesioni gravissime di una persona.
-
-3.
-
-Nel giudizio, la punibilità è esclusa se il Giudice ritiene il fatto di particolare tenuità.
-
-4.
-
-Le disposizioni che precedono si applicano anche quando la legge prevede la particolare tenuità del danno o del pericolo come circostanza attenuante.
+4\. Le disposizioni che precedono si applicano anche quando la legge prevede la particolare tenuità del danno o del pericolo come circostanza attenuante.
 
 ##### Art. 70
 
@@ -1099,11 +1089,9 @@ Quando il condannato ha superato gli anni settanta la liberazione condizionale p
 
 La concessione della liberazione condizionale è altresì subordinata all'adempimento delle obbligazioni di cui all'articolo 140, salvo che il condannato dimostri di trovarsi nell'impossibilità di adempierle.
 
-Il condannato liberato è sempre sottoposto al sistema di controllo previsto dall'articolo 64.
+Il condannato liberato è sempre sottoposto al sistema di controllo previsto dall'articolo
 
-##### Art. 104
-
-(Adempimento delle condizioni della liberazione condizionale)
+64\. Art. 104 (Adempimento delle condizioni della liberazione condizionale)
 
 Decorso il tempo della pena inflitta o decorsi dieci anni dalla liberazione, in caso di prigionia di ottavo grado, senza che sia intervenuta causa di revoca della libertà condizionale, la pena è estinta.
 
@@ -1243,11 +1231,9 @@ La grazia condona o commuta la pena inflitta al singolo condannato.
 
 Nel concorso di più pene, l'indulto si applica una sola volta su quella risultante dall'applicazione degli articoli 107 e seguenti.
 
-Si applicano all'indulto le disposizioni del secondo, terzo e quarto comma dell'articolo 53.
+Si applicano all'indulto le disposizioni del secondo, terzo e quarto comma dell'articolo
 
-##### Art. 114
-
-(Prescrizione)
+53\. Art. 114 (Prescrizione)
 
 Si prescrive: in trent'anni la prigionia non inferiore a venti anni; in vent'anni la prigionia non inferiore a dieci anni; in dieci anni la prigionia non inferiore a cinque anni e l'interdizione; in cinque anni la prigionia inferiore a cinque anni e ogni altra pena.
 
@@ -1527,11 +1513,9 @@ I concorrenti nello stesso reato sono obbligati in solido al risarcimento del da
 
 L'estinzione della pena non estingue le obbligazioni di cui all'articolo 140.
 
-L'estinzione del reato estingue le sole obbligazioni di cui al numero cinque dell'articolo 140.
+L'estinzione del reato estingue le sole obbligazioni di cui al numero cinque dell'articolo
 
-##### Art. 144
-
-(Privilegio)
+140\. Art. 144 (Privilegio)
 
 I crediti elencati nell'articolo 140 hanno nello stesso ordine privilegio generale, mobiliare e immobiliare, su ogni altro credito, anche su quelli preveduti nell'articolo 17 della legge ipotecaria 16 marzo 1854.
 
@@ -1687,9 +1671,7 @@ Se la donna è minore di anni diciotto o interdetta o inabilitata si applica la 
 
 (Divieto di commercio di gameti, embrioni, tessuti fetali)
 
-1.
-
-Chiunque in qualsiasi forma esercita, organizza o pubblicizza la commercializzazione, l’esportazione o l’importazione a qualsiasi titolo di gameti, embrioni, tessuti derivanti dalla interruzione di gravidanza è punito con la prigionia di terzo grado.
+1\. Chiunque in qualsiasi forma esercita, organizza o pubblicizza la commercializzazione, l’esportazione o l’importazione a qualsiasi titolo di gameti, embrioni, tessuti derivanti dalla interruzione di gravidanza è punito con la prigionia di terzo grado.
 
 ##### Art. 154
 
@@ -1803,9 +1785,7 @@ CONTRAVVENZIONI
 
 (Somministrazione a minori di sostanze dannose o pericolose)
 
-1.
-
-Se il fatto non costituisce reato più grave, è punito con la multa o con l'arresto di secondo grado chiunque, essendo preposto a un pubblico esercizio, somministra, fà somministrare, consente che altri somministrino o comunque mette a disposizione di minori di anni diciotto, medicinali, stupefacenti, bevande alcoliche o superalcoliche o altre sostanze che, per la loro qualità o quantità ovvero per un uso non consono alle prescrizioni siano di danno o di pericolo alla salute. Si applica altresì l'interdizione dal commercio di secondo grado.
+1\. Se il fatto non costituisce reato più grave, è punito con la multa o con l'arresto di secondo grado chiunque, essendo preposto a un pubblico esercizio, somministra, fà somministrare, consente che altri somministrino o comunque mette a disposizione di minori di anni diciotto, medicinali, stupefacenti, bevande alcoliche o superalcoliche o altre sostanze che, per la loro qualità o quantità ovvero per un uso non consono alle prescrizioni siano di danno o di pericolo alla salute. Si applica altresì l'interdizione dal commercio di secondo grado.
 
 ##### Art. 166
 
@@ -1867,49 +1847,31 @@ qualunque motivo, è punito con la prigionia di terzo grado e con l'interdizione
 
 (Violenza sessuale)
 
-1.
+1\. Chiunque, usando violenza, minaccia, inganno, suggestione ipnotica o in veglia ovvero valendosi di altri mezzi idonei, costringe una persona o la induce a compiere o subire atti sessuali, è punito, con la prigionia di terzo grado.
 
-Chiunque, usando violenza, minaccia, inganno, suggestione ipnotica o in veglia ovvero valendosi di altri mezzi idonei, costringe una persona o la induce a compiere o subire atti sessuali, è punito, con la prigionia di terzo grado.
+2\. Nei casi di minore gravità la pena è diminuita da un grado a due gradi.
 
-2.
-
-Nei casi di minore gravità la pena è diminuita da un grado a due gradi.
-
-3.
-
-Se il fatto è commesso dall’ascendente, dall’adottante, dal tutore, dall’educatore, dall’insegnante, dal sanitario o da chi abbia l’affidamento di un minore per ragioni di vigilanza, educazione, istruzione o cura, si applica congiuntamente l’interdizione di quarto grado dalla patria potestà, dalla tutela, dalla professione o dall’arte.
+3\. Se il fatto è commesso dall’ascendente, dall’adottante, dal tutore, dall’educatore, dall’insegnante, dal sanitario o da chi abbia l’affidamento di un minore per ragioni di vigilanza, educazione, istruzione o cura, si applica congiuntamente l’interdizione di quarto grado dalla patria potestà, dalla tutela, dalla professione o dall’arte.
 
 ##### Art. 171-bis
 
 (Molestie sessuali)
 
-1.
+1\. Salvo che il fatto non costituisca più grave reato, chiunque, con atti o comportamenti indesiderati a carattere sessuale, anche per mezzo delle comunicazioni sociali, rechi a taluno molestie violando la libertà sessuale e la dignità della persona, è punito, a querela della persona offesa, con la prigionia di primo grado o con la multa. 1 bis. Chiunque commetta il fatto di cui al comma 1 nell’ambito di un rapporto di educazione, istruzione o formazione ovvero nell’ambito di un rapporto di lavoro, di tirocinio o di apprendistato, con abuso di autorità o di relazioni di ufficio, è punito, a querela della persona offesa, con la prigionia di primo grado e la multa a giorni di secondo grado.
 
-Salvo che il fatto non costituisca più grave reato, chiunque, con atti o comportamenti indesiderati a carattere sessuale, anche per mezzo delle comunicazioni sociali, rechi a taluno molestie violando la libertà sessuale e la dignità della persona, è punito, a querela della persona offesa, con la prigionia di primo grado o con la multa. 1 bis. Chiunque commetta il fatto di cui al comma 1 nell’ambito di un rapporto di educazione, istruzione o formazione ovvero nell’ambito di un rapporto di lavoro, di tirocinio o di apprendistato, con abuso di autorità o di relazioni di ufficio, è punito, a querela della persona offesa, con la prigionia di primo grado e la multa a giorni di secondo grado.
-
-2.
-
-Si procede d’ufficio se il fatto è commesso nei confronti di persona incapace, per età o infermità.
+2\. Si procede d’ufficio se il fatto è commesso nei confronti di persona incapace, per età o infermità.
 
 ##### Art. 172
 
 (Circostanza aggravante)
 
-1.
+1\. Chiunque, nelle circostanze previste dall’articolo 171, commette congiunzione carnale è punito con la prigionia aumentata di un grado.
 
-Chiunque, nelle circostanze previste dall’articolo 171, commette congiunzione carnale è punito con la prigionia aumentata di un grado.
+2\. La pena è aumentata di un grado se il fatto di cui al comma 1 è commesso dal coniuge o dal convivente, o da chi ha o ha avuto una relazione affettiva con la vittima, o da chi sfrutta la propria posizione nello svolgimento delle funzioni professionali.
 
-2.
+3\. La pena è aumentata di un grado se il fatto è commesso a danno di una persona diversamente abile.
 
-La pena è aumentata di un grado se il fatto di cui al comma 1 è commesso dal coniuge o dal convivente, o da chi ha o ha avuto una relazione affettiva con la vittima, o da chi sfrutta la propria posizione nello svolgimento delle funzioni professionali.
-
-3.
-
-La pena è aumentata di un grado se il fatto è commesso a danno di una persona diversamente abile.
-
-4.
-
-La pena è aumentata di un grado se il fatto è commesso a danno di un minore.
+4\. La pena è aumentata di un grado se il fatto è commesso a danno di un minore.
 
 ##### Art. 172 bis
 
@@ -1997,21 +1959,15 @@ Chiunque organizza, promuove o propaganda viaggi, incontri e trasferimenti all'e
 
 (Adescamento di minori)
 
-1.
+1\. Chiunque, allo scopo di commettere i reati di cui agli articoli 171, 171-bis, 172bis, 173,177,177-bis, 177-ter e 177-quater, adesca un minore è punito, se il fatto non costituisce più grave reato, con la prigionia di secondo grado.
 
-Chiunque, allo scopo di commettere i reati di cui agli articoli 171, 171-bis, 172bis, 173,177,177-bis, 177-ter e 177-quater, adesca un minore è punito, se il fatto non costituisce più grave reato, con la prigionia di secondo grado.
-
-2.
-
-Per adescamento si intende qualsiasi atto volto a carpire la fiducia del minore attraverso artifici, raggiri, lusinghe o minacce, posto in essere anche mediante l’utilizzo della rete internet, di altre reti o mezzi di comunicazione.
+2\. Per adescamento si intende qualsiasi atto volto a carpire la fiducia del minore attraverso artifici, raggiri, lusinghe o minacce, posto in essere anche mediante l’utilizzo della rete internet, di altre reti o mezzi di comunicazione.
 
 ##### Art. 178
 
 (Decorrenza termine di prescrizione del reato)
 
-1.
-
-Qualora i reati previsti agli articoli 153, secondo comma lettera a), 154-bis, 155, primo e secondo comma, 156, 156-bis, 167, 168, 168-bis, 171, 171-bis, 172, 172-bis, 173, 174, 175, 176, 176-bis, 177, 177-bis, 177-ter, 177-quater, 177quinquies e 181-bis, siano commessi nei confronti di minore, il termine della prescrizione decorre dal compimento del diciottesimo anno di età della persona offesa. 1 bis. Per i reati di cui al precedente comma la cui condotta implichi l’utilizzo di violenza o minacce perpetrate nei confronti di soggetti minorenni da parte di parenti o affini in linea retta in qualunque grado ed entro il terzo grado in linea collaterale, nonché da persona convivente nell’ambito del medesimo domicilio del minore, il termine della prescrizione decorre dal compimento del venticinquesimo anno di età della persona offesa.
+1\. Qualora i reati previsti agli articoli 153, secondo comma lettera a), 154-bis, 155, primo e secondo comma, 156, 156-bis, 167, 168, 168-bis, 171, 171-bis, 172, 172-bis, 173, 174, 175, 176, 176-bis, 177, 177-bis, 177-ter, 177-quater, 177quinquies e 181-bis, siano commessi nei confronti di minore, il termine della prescrizione decorre dal compimento del diciottesimo anno di età della persona offesa. 1 bis. Per i reati di cui al precedente comma la cui condotta implichi l’utilizzo di violenza o minacce perpetrate nei confronti di soggetti minorenni da parte di parenti o affini in linea retta in qualunque grado ed entro il terzo grado in linea collaterale, nonché da persona convivente nell’ambito del medesimo domicilio del minore, il termine della prescrizione decorre dal compimento del venticinquesimo anno di età della persona offesa.
 
 ##### Art. 179
 
@@ -2043,25 +1999,15 @@ Chiunque, mediante suggestione ipnotica o in veglia, somministrazione di sostanz
 
 (Atti persecutori)
 
-1.
+1\. E’ punito con la prigionia di primo grado e con la multa chiunque ripetutamente molesta o minaccia una persona, fino a turbare le sue normali condizioni di vita o ponendola in uno stato di soggezione o di grave disagio fisico o psichico, o di giustificato timore per la sicurezza personale propria o di altri a lei legati da stabili rapporti affettivi.
 
-E’ punito con la prigionia di primo grado e con la multa chiunque ripetutamente molesta o minaccia una persona, fino a turbare le sue normali condizioni di vita o ponendola in uno stato di soggezione o di grave disagio fisico o psichico, o di giustificato timore per la sicurezza personale propria o di altri a lei legati da stabili rapporti affettivi.
+2\. Qualora le molestie o le minacce di cui al comma 1 siano poste in essere nel luogo di lavoro, sotto forma di sistematiche e ripetute angherie e pratiche vessatorie compiute dal datore di lavoro o da colleghi allo scopo di svalutare professionalmente, umiliare, isolare un lavoratore nel tentativo di indurlo, dopo avergli procurato gravi sofferenze psico-fisiche, alle dimissioni, la pena è aumentata di un grado.
 
-2.
+3\. Si procede a querela della persona offesa.
 
-Qualora le molestie o le minacce di cui al comma 1 siano poste in essere nel luogo di lavoro, sotto forma di sistematiche e ripetute angherie e pratiche vessatorie compiute dal datore di lavoro o da colleghi allo scopo di svalutare professionalmente, umiliare, isolare un lavoratore nel tentativo di indurlo, dopo avergli procurato gravi sofferenze psico-fisiche, alle dimissioni, la pena è aumentata di un grado.
+4\. Si procede d’ufficio e la pena di prigionia è aumentata di un grado se il fatto è commesso con arma, con violenza o con minaccia di particolare gravità.
 
-3.
-
-Si procede a querela della persona offesa.
-
-4.
-
-Si procede d’ufficio e la pena di prigionia è aumentata di un grado se il fatto è commesso con arma, con violenza o con minaccia di particolare gravità.
-
-5.
-
-Si procede altresì d’ufficio se il fatto è connesso con altro misfatto per il quale è prevista la procedibilità d’ufficio.
+5\. Si procede altresì d’ufficio se il fatto è connesso con altro misfatto per il quale è prevista la procedibilità d’ufficio.
 
 ##### Art.181-ter
 
@@ -2297,35 +2243,23 @@ Se il fatto è commesso da non meno di tre persone o con sequestro di persona pe
 
 (Appropriazione indebita)
 
-1.
+1\. Chiunque indebitamente fa sua la cosa mobile altrui, della quale ha il possesso a qualsiasi titolo, è punito, a querela dell'offeso, con la prigionia e la multa a giorni di secondo grado.
 
-Chiunque indebitamente fa sua la cosa mobile altrui, della quale ha il possesso a qualsiasi titolo, è punito, a querela dell'offeso, con la prigionia e la multa a giorni di secondo grado.
-
-2.
-
-Si applica la prigionia di primo grado o la multa a giorni di secondo grado, se l'appropriazione ha per oggetto cose di tenue valore o da altri smarrite o costituenti
+2\. Si applica la prigionia di primo grado o la multa a giorni di secondo grado, se l'appropriazione ha per oggetto cose di tenue valore o da altri smarrite o costituenti
 
 tesoro ovvero cose delle quali l'agente è venuto in possesso per errore, caso fortuito o forza maggiore.
 
-3.
+3\. Si procede d'ufficio se il fatto è commesso da un amministratore, esattore, custode, curatore ovvero da chiunque presta la propria opera ad altri e si applicano la prigionia di secondo grado, la multa a giorni di terzo grado e l'interdizione di quarto grado dall'incarico di tutore o curatore, dalla professione o dall'arte.
 
-Si procede d'ufficio se il fatto è commesso da un amministratore, esattore, custode, curatore ovvero da chiunque presta la propria opera ad altri e si applicano la prigionia di secondo grado, la multa a giorni di terzo grado e l'interdizione di quarto grado dall'incarico di tutore o curatore, dalla professione o dall'arte.
-
-4.
-
-Si procede d’ufficio se il fatto, da chiunque commesso, abbia arrecato danno allo Stato, o a società da esso partecipate, o ad enti pubblici o ad istituti bancari o finanziari; in tali fattispecie si applica la prigionia dal secondo al terzo grado, la multa a giorni di terzo grado e l’interdizione di quarto grado dai pubblici uffici e dai diritti politici.
+4\. Si procede d’ufficio se il fatto, da chiunque commesso, abbia arrecato danno allo Stato, o a società da esso partecipate, o ad enti pubblici o ad istituti bancari o finanziari; in tali fattispecie si applica la prigionia dal secondo al terzo grado, la multa a giorni di terzo grado e l’interdizione di quarto grado dai pubblici uffici e dai diritti politici.
 
 ##### Art. 198
 
 (Amministrazione infedele)
 
-1.
+1\. I tutori, i curatori, gli amministratori, i direttori, i liquidatori di società ed ogni altro amministratore di patrimonio privato, i quali, fuori dai casi previsti dall'articolo 197, per procurare a sé o ad altri un vantaggio, compiono atti che siano di danno al patrimonio amministrato, sono puniti con la prigionia di secondo grado o con la multa a giorni di terzo grado.
 
-I tutori, i curatori, gli amministratori, i direttori, i liquidatori di società ed ogni altro amministratore di patrimonio privato, i quali, fuori dai casi previsti dall'articolo 197, per procurare a sé o ad altri un vantaggio, compiono atti che siano di danno al patrimonio amministrato, sono puniti con la prigionia di secondo grado o con la multa a giorni di terzo grado.
-
-2.
-
-Se il fatto è commesso in danno dello Stato, di società da esso partecipate, di enti pubblici o di istituti bancari e finanziari si applica la prigionia dal secondo al terzo grado.
+2\. Se il fatto è commesso in danno dello Stato, di società da esso partecipate, di enti pubblici o di istituti bancari e finanziari si applica la prigionia dal secondo al terzo grado.
 
 ##### Art. 199
 
@@ -2339,33 +2273,19 @@ La stessa pena si applica a chiunque, a scopo di profitto, si intromette per far
 
 (Riciclaggio)
 
-1.
+1\. Commette il misfatto di riciclaggio chiunque, allo scopo di ostacolarne l'accertamento della provenienza, occulta, sostituisce, trasferisce, ovvero collabora o s'intromette perché altri occulti, sostituisca o trasferisca denaro che sa ottenuto mediante un misfatto.
 
-Commette il misfatto di riciclaggio chiunque, allo scopo di ostacolarne l'accertamento della provenienza, occulta, sostituisce, trasferisce, ovvero collabora o s'intromette perché altri occulti, sostituisca o trasferisca denaro che sa ottenuto mediante un misfatto.
+2\. Commette altresì misfatto chiunque utilizza ovvero collabora o si intromette perché si utilizzi in attività economiche o finanziarie denaro che sa ottenuto mediante la commissione di un misfatto.
 
-2.
+3\. Le disposizioni del presente articolo si applicano anche quando l'autore del misfatto, da cui il denaro proviene, non è imputabile o non è punibile ovvero quando manchi una condizione di procedibilità riferita a tale misfatto. Nel caso in cui il misfatto presupposto sia stato commesso all'estero, esso deve essere penalmente perseguibile e procedibile per l'ordinamento sammarinese.
 
-Commette altresì misfatto chiunque utilizza ovvero collabora o si intromette perché si utilizzi in attività economiche o finanziarie denaro che sa ottenuto mediante la commissione di un misfatto.
+4\. Al denaro sono equiparati gli altri valori patrimoniali ed inoltre i documenti legali, gli atti, gli strumenti ed i titoli comprovanti diritti sui beni e valori predetti.
 
-3.
+5\. Chiunque commette i reati previsti dal presente articolo è punito con la prigionia di quarto grado, con la multa a giorni di secondo grado e con l’interdizione di terzo grado dai pubblici uffici e dai diritti politici.
 
-Le disposizioni del presente articolo si applicano anche quando l'autore del misfatto, da cui il denaro proviene, non è imputabile o non è punibile ovvero quando manchi una condizione di procedibilità riferita a tale misfatto. Nel caso in cui il misfatto presupposto sia stato commesso all'estero, esso deve essere penalmente perseguibile e procedibile per l'ordinamento sammarinese.
+6\. Le pene possono essere diminuite di un grado in ragione della quantità del denaro o dei beni ad essi equiparati e dell’indole delle operazioni effettuate. Possono essere aumentate di un grado quando i fatti sono commessi nell’esercizio di una attività economico-professionale soggetta ad autorizzazione o abilitazione da parte delle competenti Autorità pubbliche.
 
-4.
-
-Al denaro sono equiparati gli altri valori patrimoniali ed inoltre i documenti legali, gli atti, gli strumenti ed i titoli comprovanti diritti sui beni e valori predetti.
-
-5.
-
-Chiunque commette i reati previsti dal presente articolo è punito con la prigionia di quarto grado, con la multa a giorni di secondo grado e con l’interdizione di terzo grado dai pubblici uffici e dai diritti politici.
-
-6.
-
-Le pene possono essere diminuite di un grado in ragione della quantità del denaro o dei beni ad essi equiparati e dell’indole delle operazioni effettuate. Possono essere aumentate di un grado quando i fatti sono commessi nell’esercizio di una attività economico-professionale soggetta ad autorizzazione o abilitazione da parte delle competenti Autorità pubbliche.
-
-7.
-
-Salvo le disposizioni relative al concorso di pene qualora i reati previsti dal presente articolo siano compiuti dalla medesima persona che ha commesso il misfatto con il quale è stato ottenuto il denaro, il Giudice può ridurre la pena di un grado.
+7\. Salvo le disposizioni relative al concorso di pene qualora i reati previsti dal presente articolo siano compiuti dalla medesima persona che ha commesso il misfatto con il quale è stato ottenuto il denaro, il Giudice può ridurre la pena di un grado.
 
 ##### Art. 199 ter
 
@@ -2453,13 +2373,9 @@ Nel caso previsto dalla disposizione precedente l'adempimento dell'obbligazione 
 
 (Uso indebito di strumenti di pagamento diversi dai contanti e misfatti connessi)
 
-1.
+1\. Chiunque utilizza fraudolentemente strumenti di pagamento diversi dai contanti, di tipo materiale o immateriale, contraffatti o falsificati, o comunque senza esserne legittimo titolare, è punito con la prigionia di secondo grado e con la multa a giorni di secondo grado.
 
-Chiunque utilizza fraudolentemente strumenti di pagamento diversi dai contanti, di tipo materiale o immateriale, contraffatti o falsificati, o comunque senza esserne legittimo titolare, è punito con la prigionia di secondo grado e con la multa a giorni di secondo grado.
-
-2.
-
-Salvo che il fatto non costituisca più grave misfatto, sono puniti con la prigionia di secondo grado e con la multa a giorni di terzo grado:
+2\. Salvo che il fatto non costituisca più grave misfatto, sono puniti con la prigionia di secondo grado e con la multa a giorni di terzo grado:
 
 a) il furto di strumenti di pagamento diversi dai contanti, di tipo materiale;
 
@@ -2467,33 +2383,21 @@ b) l’appropriazione indebita di strumenti di pagamento diversi dai contanti di
 
 c) l’ottenimento e la cessione di strumenti di pagamento diversi dai contanti, di tipo immateriale, qualora tali strumenti costituiscano provento dei reati informatici di cui alla Legge 23 agosto 2016 n.114.
 
-3.
+3\. Salvo che il fatto non costituisca più grave misfatto, è punito con la prigionia di secondo grado e con la multa a giorni di secondo grado chiunque procuri, per sé o per altri, uno strumento di pagamento diverso dai contanti, di tipo materiale o immateriale, contraffatto o falsificato, od oggetto di furto, appropriazione indebita o altrimenti illecitamente ottenuto, ivi inclusi i casi di ricezione, appropriazione, acquisto o importazione, vendita o esportazione, trasporto o trasferimento, distribuzione o messa a disposizione.
 
-Salvo che il fatto non costituisca più grave misfatto, è punito con la prigionia di secondo grado e con la multa a giorni di secondo grado chiunque procuri, per sé o per altri, uno strumento di pagamento diverso dai contanti, di tipo materiale o immateriale, contraffatto o falsificato, od oggetto di furto, appropriazione indebita o altrimenti illecitamente ottenuto, ivi inclusi i casi di ricezione, appropriazione, acquisto o importazione, vendita o esportazione, trasporto o trasferimento, distribuzione o messa a disposizione.
-
-4.
-
-Al di fuori dei casi di cui ai commi 1, 2 e 3, è punito con la prigionia di primo grado e con la multa a giorni di secondo grado il possesso, ai fini di cui al precedente comma 1, di uno strumento di pagamento diverso dai contanti, di tipo materiale o immateriale, contraffatto o falsificato, od oggetto di furto, appropriazione indebita o altrimenti illecitamente ottenuto.
+4\. Al di fuori dei casi di cui ai commi 1, 2 e 3, è punito con la prigionia di primo grado e con la multa a giorni di secondo grado il possesso, ai fini di cui al precedente comma 1, di uno strumento di pagamento diverso dai contanti, di tipo materiale o immateriale, contraffatto o falsificato, od oggetto di furto, appropriazione indebita o altrimenti illecitamente ottenuto.
 
 ##### Art. 204-ter
 
 (Frodi informatiche)
 
-1.
+1\. È punito con la prigionia di secondo grado e con la multa da euro 600,00 (seicento/00) a euro 3.000,00 (tremila/00) chiunque, senza autorizzazione, introduce, altera, cancella, trasmette o sopprime, dati informatici, o interferisce con il funzionamento di un programma o di un sistema informatico, o li ostacola, al fine di procurare a sé o altri un ingiusto profitto.
 
-È punito con la prigionia di secondo grado e con la multa da euro 600,00 (seicento/00) a euro 3.000,00 (tremila/00) chiunque, senza autorizzazione, introduce, altera, cancella, trasmette o sopprime, dati informatici, o interferisce con il funzionamento di un programma o di un sistema informatico, o li ostacola, al fine di procurare a sé o altri un ingiusto profitto.
+2\. Si applica la prigionia di terzo grado qualora la frode informatica abbia cagionato un danno di rilevante gravità, ovvero se il fatto sia commesso con abuso della qualità di operatore del sistema informatico.
 
-2.
+3\. Si applica la prigionia di quarto grado qualora la condotta fraudolenta abbia prodotto un trasferimento non autorizzato di denaro, valuta virtuale o altri valori in danno al titolare.
 
-Si applica la prigionia di terzo grado qualora la frode informatica abbia cagionato un danno di rilevante gravità, ovvero se il fatto sia commesso con abuso della qualità di operatore del sistema informatico.
-
-3.
-
-Si applica la prigionia di quarto grado qualora la condotta fraudolenta abbia prodotto un trasferimento non autorizzato di denaro, valuta virtuale o altri valori in danno al titolare.
-
-4.
-
-Si applica la pena della prigionia di terzo grado e della multa da euro 600,00 (seicento/00) a euro 3.000,00 (tremila/00) se il fatto sia commesso con indebito utilizzo dell’identità digitale in danno di uno o più soggetti.
+4\. Si applica la pena della prigionia di terzo grado e della multa da euro 600,00 (seicento/00) a euro 3.000,00 (tremila/00) se il fatto sia commesso con indebito utilizzo dell’identità digitale in danno di uno o più soggetti.
 
 ##### Art. 204-quater
 
@@ -2539,13 +2443,9 @@ Dopo i novanta giorni l'illecito viene inserito nel bollettino dei protesti.
 
 Chiunque si fa dare o promettere, quale corrispettivo di una prestazione patrimoniale, interessi o altri vantaggi fortemente sproporzionati ovvero si intromette per fare dare o promettere ad altri gli interessi o i vantaggi predetti è punito con la prigionia di terzo grado, con la multa a giorni di secondo grado e con l’interdizione di terzo grado dai pubblici uffici e dai diritti politici.
 
-2.
+2\. Tale evento si realizza quando i vantaggi ottenuti o promessi superano il tasso soglia reso noto periodicamente dalla Banca Centrale della Repubblica di San Marino.
 
-Tale evento si realizza quando i vantaggi ottenuti o promessi superano il tasso soglia reso noto periodicamente dalla Banca Centrale della Repubblica di San Marino.
-
-3.
-
-Costituisce reato d'usura anche l'utilizzo, a fronte di una prestazione patrimoniale, di meccanismi capziosi per impossessarsi del bene ricevuto in garanzia.
+3\. Costituisce reato d'usura anche l'utilizzo, a fronte di una prestazione patrimoniale, di meccanismi capziosi per impossessarsi del bene ricevuto in garanzia.
 
 Le pene possono essere diminuite di un grado in ragione della quantità del denaro o dell’ammontare degli interessi. Possono essere aumentate di un grado quando i fatti sono commessi nell’esercizio di una attività economico-professionale soggetta ad autorizzazione o abilitazione da parte delle competenti Autorità pubbliche ovvero se il colpevole fa mestiere dell’usura.
 
@@ -3317,65 +3217,39 @@ La pena detentiva è aumentata di un grado se gli associati scorrono in armi le 
 
 (Associazione a delinquere di tipo mafioso)
 
-1.
+1\. Chiunque fa parte di un’associazione di tipo mafioso formata da tre o più persone, è punito con la prigionia di quinto grado e con l’interdizione di terzo grado dai pubblici uffici, dai diritti politici, dalla professione o arte.
 
-Chiunque fa parte di un’associazione di tipo mafioso formata da tre o più persone, è punito con la prigionia di quinto grado e con l’interdizione di terzo grado dai pubblici uffici, dai diritti politici, dalla professione o arte.
+2\. Chiunque promuove, dirige o organizza l’associazione di tipo mafioso è punito con la prigionia di sesto grado e con l’interdizione di quarto grado dai pubblici uffici, dai diritti politici, dalla professione o arte.
 
-2.
+3\. L’associazione è di tipo mafioso quando l’attività criminosa degli associati è programmata al fine di commettere misfatti in San Marino o all’estero, di avvalersi di questi, della forza di intimidazione che deriva dal vincolo associativo della soggezione e dell’omertà imposte, per acquisire il controllo di attività economiche pubbliche o private, ovvero realizzare o procurare a sé o ad altri illecito arricchimento o ingiusti vantaggi, ovvero ancora impedire od ostacolare il libero esercizio dei diritti politici.
 
-Chiunque promuove, dirige o organizza l’associazione di tipo mafioso è punito con la prigionia di sesto grado e con l’interdizione di quarto grado dai pubblici uffici, dai diritti politici, dalla professione o arte.
+4\. Chiunque, al fine di procurare voti a sé o ad altri in occasione di consultazioni elettorali offre, chiede ovvero accetta di ricevere l’appoggio o il sostegno elettorale di soggetti appartenenti a un’associazione di tipo mafioso, è punito con la prigionia di quarto grado e con l’interdizione di terzo grado dai pubblici uffici, dai diritti politici, dalla professione o arte.
 
-3.
+5\. Se le attività economiche di cui gli associati intendono assumere o mantenere il controllo sono finanziate in tutto o in parte con il prezzo, il prodotto, o il profitto di misfatti, le pene stabilite nei commi precedenti sono aumentate di un grado.
 
-L’associazione è di tipo mafioso quando l’attività criminosa degli associati è programmata al fine di commettere misfatti in San Marino o all’estero, di avvalersi di questi, della forza di intimidazione che deriva dal vincolo associativo della soggezione e dell’omertà imposte, per acquisire il controllo di attività economiche pubbliche o private, ovvero realizzare o procurare a sé o ad altri illecito arricchimento o ingiusti vantaggi, ovvero ancora impedire od ostacolare il libero esercizio dei diritti politici.
+6\. Se l’associazione è armata, le pene stabilite nei commi precedenti sono aumentate di un grado.
 
-4.
-
-Chiunque, al fine di procurare voti a sé o ad altri in occasione di consultazioni elettorali offre, chiede ovvero accetta di ricevere l’appoggio o il sostegno elettorale di soggetti appartenenti a un’associazione di tipo mafioso, è punito con la prigionia di quarto grado e con l’interdizione di terzo grado dai pubblici uffici, dai diritti politici, dalla professione o arte.
-
-5.
-
-Se le attività economiche di cui gli associati intendono assumere o mantenere il controllo sono finanziate in tutto o in parte con il prezzo, il prodotto, o il profitto di misfatti, le pene stabilite nei commi precedenti sono aumentate di un grado.
-
-6.
-
-Se l’associazione è armata, le pene stabilite nei commi precedenti sono aumentate di un grado.
-
-7.
-
-Le disposizioni del presente articolo si applicano anche alle associazioni comunque localmente denominate, anche straniere, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso.
+7\. Le disposizioni del presente articolo si applicano anche alle associazioni comunque localmente denominate, anche straniere, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso.
 
 ##### Art. 287 ter
 
 (Assistenza agli associati e all’associazione)
 
-1.
+1\. Chiunque, fuori dei casi cui all’articolo 287 bis o di favoreggiamento, dà rifugio o fornisce vitto, ospitalità, mezzi di trasporto, strumenti di comunicazione a taluna delle persone che partecipano all’associazione è punito con la prigionia di terzo grado e con l’interdizione di terzo grado dai pubblici uffici, dai diritti politici, dalla professione o arte.
 
-Chiunque, fuori dei casi cui all’articolo 287 bis o di favoreggiamento, dà rifugio o fornisce vitto, ospitalità, mezzi di trasporto, strumenti di comunicazione a taluna delle persone che partecipano all’associazione è punito con la prigionia di terzo grado e con l’interdizione di terzo grado dai pubblici uffici, dai diritti politici, dalla professione o arte.
+2\. La prigionia è aumentata di un grado se l’assistenza è prestata continuamente.
 
-2.
-
-La prigionia è aumentata di un grado se l’assistenza è prestata continuamente.
-
-3.
-
-Non è punibile chi commette il fatto in favore del discendente, dell’ascendente o del coniuge.
+3\. Non è punibile chi commette il fatto in favore del discendente, dell’ascendente o del coniuge.
 
 ##### Art. 287 quater
 
 (Circostanze speciali di aggravamento e di attenuazione)
 
-1.
+1\. Per i misfatti commessi avvalendosi delle condizioni previste dall’articolo 287bis ovvero al fine di agevolare l’attività delle associazioni previste dallo stesso articolo, la pena è aumentata di due gradi.
 
-Per i misfatti commessi avvalendosi delle condizioni previste dall’articolo 287bis ovvero al fine di agevolare l’attività delle associazioni previste dallo stesso articolo, la pena è aumentata di due gradi.
+2\. Per i misfatti previsti all’articolo 287 bis e per i misfatti commessi avvalendosi delle condizioni previste dal predetto articolo ovvero al fine di agevolare l’attività delle associazioni previste dallo stesso articolo, nei confronti dell’imputato che si adopera per evitare che l’attività criminosa sia portata a conseguenze ulteriori, fornendo un concreto contributo per l’accertamento dei fatti e per l’individuazione degli autori dei misfatti, la pena può essere diminuita fino a due gradi.
 
-2.
-
-Per i misfatti previsti all’articolo 287 bis e per i misfatti commessi avvalendosi delle condizioni previste dal predetto articolo ovvero al fine di agevolare l’attività delle associazioni previste dallo stesso articolo, nei confronti dell’imputato che si adopera per evitare che l’attività criminosa sia portata a conseguenze ulteriori, fornendo un concreto contributo per l’accertamento dei fatti e per l’individuazione degli autori dei misfatti, la pena può essere diminuita fino a due gradi.
-
-3.
-
-Le circostanze attenuanti, diverse da quelle del precedente comma 2, concorrenti con l’aggravante di cui al precedente comma 1, non possono essere ritenute equivalenti o prevalenti rispetto a questa e le diminuzioni di pena si operano sulla quantità di pena risultante dall’aumento conseguente alla predetta aggravante.
+3\. Le circostanze attenuanti, diverse da quelle del precedente comma 2, concorrenti con l’aggravante di cui al precedente comma 1, non possono essere ritenute equivalenti o prevalenti rispetto a questa e le diminuzioni di pena si operano sulla quantità di pena risultante dall’aumento conseguente alla predetta aggravante.
 
 ##### Art. 288
 
@@ -3537,29 +3411,19 @@ Chiunque con notizie false o tendenziose o con altre manovre fraudolente cagiona
 
 (Abuso di informazioni privilegiate)
 
-1.
-
-È punito con la prigionia di secondo grado, con la multa a giorni di terzo grado e con l'interdizione di secondo grado dai pubblici uffici e dai diritti civili chiunque, essendo in possesso di informazioni privilegiate in ragione della partecipazione al capitale di una società, ovvero dell'esercizio di una funzione, anche pubblica, di una professione o di un ufficio:
+1\. È punito con la prigionia di secondo grado, con la multa a giorni di terzo grado e con l'interdizione di secondo grado dai pubblici uffici e dai diritti civili chiunque, essendo in possesso di informazioni privilegiate in ragione della partecipazione al capitale di una società, ovvero dell'esercizio di una funzione, anche pubblica, di una professione o di un ufficio:
 
 a) acquista, vende o compie altre operazioni, anche per interposta persona, su strumenti finanziari avvalendosi delle informazioni medesime;
 
 b) senza giustificato motivo, dà comunicazione delle informazioni, ovvero consiglia ad altri, sulla base di esse, il compimento di taluna delle operazioni indicate nella lettera a).
 
-2.
+2\. Con la stessa pena è altresì punito chiunque, avendo ottenuto, direttamente o indirettamente, informazioni privilegiate dai soggetti indicati nel comma 1, compie taluno dei fatti descritti nella lettera a) del medesimo comma.
 
-Con la stessa pena è altresì punito chiunque, avendo ottenuto, direttamente o indirettamente, informazioni privilegiate dai soggetti indicati nel comma 1, compie taluno dei fatti descritti nella lettera a) del medesimo comma.
+3\. Ai fini dell'applicazione delle disposizioni dei commi 1 e 2, per informazione privilegiata si intende un'informazione specifica di contenuto determinato, di cui il pubblico non dispone, concernente strumenti finanziari o emittenti di strumenti finanziari, che, se resa pubblica, sarebbe idonea a influenzare sensibilmente il prezzo.
 
-3.
+4\. In caso di condanna, salvo quanto previsto dall’articolo 147, è sempre ordinata la confisca dei mezzi, anche finanziari, utilizzati per commettere il misfatto salvo che essi appartengano a persona estranea al reato.
 
-Ai fini dell'applicazione delle disposizioni dei commi 1 e 2, per informazione privilegiata si intende un'informazione specifica di contenuto determinato, di cui il pubblico non dispone, concernente strumenti finanziari o emittenti di strumenti finanziari, che, se resa pubblica, sarebbe idonea a influenzare sensibilmente il prezzo.
-
-4.
-
-In caso di condanna, salvo quanto previsto dall’articolo 147, è sempre ordinata la confisca dei mezzi, anche finanziari, utilizzati per commettere il misfatto salvo che essi appartengano a persona estranea al reato.
-
-5.
-
-Le disposizioni del presente articolo non si applicano alle operazioni compiute per conto dello Stato per ragioni attinenti alla politica economica.
+5\. Le disposizioni del presente articolo non si applicano alle operazioni compiute per conto dello Stato per ragioni attinenti alla politica economica.
 
 ##### Art. 306
 
@@ -3707,49 +3571,33 @@ REATI CONTRO GLI ANIMALI MISFATTI
 
 (Uccisione di animali)
 
-1.
-
-Chiunque, per crudeltà o senza necessità e comunque fuori dai casi espressamente previsti da legge speciale, cagiona la morte di un animali è punito con la prigionia di secondo grado e con la multa non inferiore a euro 6.000,00 (seimila/00).
+1\. Chiunque, per crudeltà o senza necessità e comunque fuori dai casi espressamente previsti da legge speciale, cagiona la morte di un animali è punito con la prigionia di secondo grado e con la multa non inferiore a euro 6.000,00 (seimila/00).
 
 ##### Art. 323-ter
 
 (Maltrattamento e abbandono di animali)
 
-1.
+1\. Chiunque, per crudeltà o senza necessità, cagiona una lesione ad un animale ovvero lo sottopone a sevizie o a comportamenti o a fatiche o a lavori insopportabili per le sue caratteristiche etologiche o lo abbandona è punito con la prigionia di primo grado e con la multa non inferiore a euro 4.000,00 (quattromila/00).
 
-Chiunque, per crudeltà o senza necessità, cagiona una lesione ad un animale ovvero lo sottopone a sevizie o a comportamenti o a fatiche o a lavori insopportabili per le sue caratteristiche etologiche o lo abbandona è punito con la prigionia di primo grado e con la multa non inferiore a euro 4.000,00 (quattromila/00).
+2\. La stessa pena si applica a chiunque somministra agli animali sostante stupefacenti o vietate ovvero li sottopone a trattamenti che procurano un danno alla salute degli stessi.
 
-2.
-
-La stessa pena si applica a chiunque somministra agli animali sostante stupefacenti o vietate ovvero li sottopone a trattamenti che procurano un danno alla salute degli stessi.
-
-3.
-
-La stessa pena si applica a chiunque, al di fuori delle ipotesi consentite e senza l’osservanza delle modalità prescritte dalla legge, prepara, miscela, detiene, utilizza, colloca o abbandona esche e bocconi avvelenati o contenenti sostanze nocive o tossiche, compresi vetri, metalli, plastiche o materiale esplosivo che possono causare all’animale sofferenze, intossicazioni, lesioni.
+3\. La stessa pena si applica a chiunque, al di fuori delle ipotesi consentite e senza l’osservanza delle modalità prescritte dalla legge, prepara, miscela, detiene, utilizza, colloca o abbandona esche e bocconi avvelenati o contenenti sostanze nocive o tossiche, compresi vetri, metalli, plastiche o materiale esplosivo che possono causare all’animale sofferenze, intossicazioni, lesioni.
 
 ##### Art. 323-quater
 
 (Spettacoli o manifestazioni vietati)
 
-1.
+1\. Salvo che il fatto costituisca più grave reato, chiunque organizza o promuove spettacoli o manifestazioni che comportino sevizie o strazio per gli animali è punito con la prigionia non superiore al secondo grado e con la multa non inferiore a euro 3000,00 (tremila/00).
 
-Salvo che il fatto costituisca più grave reato, chiunque organizza o promuove spettacoli o manifestazioni che comportino sevizie o strazio per gli animali è punito con la prigionia non superiore al secondo grado e con la multa non inferiore a euro 3000,00 (tremila/00).
-
-2.
-
-Se i fatti di cui al comma 1 sono commessi in relazione all’esercizio di scommesse clandestine o al fine di trarne profitto per sé od altri ovvero se ne deriva la morte dell’animale, si applica la pena della prigionia di secondo grado e della multa di euro 6.000,00 (seimila/00).
+2\. Se i fatti di cui al comma 1 sono commessi in relazione all’esercizio di scommesse clandestine o al fine di trarne profitto per sé od altri ovvero se ne deriva la morte dell’animale, si applica la pena della prigionia di secondo grado e della multa di euro 6.000,00 (seimila/00).
 
 ##### Art. 323-quinquies
 
 (Divieto di combattimenti tra animali)
 
-1.
+1\. Chiunque promuove, organizza o dirige combattimenti o competizioni non autorizzate tra animali che possono metterne in pericolo l’integrità fisica è punito con la prigionia non superiore al secondo grado e con la multa non inferiore a euro 4.000,00 (quattromila/00).
 
-Chiunque promuove, organizza o dirige combattimenti o competizioni non autorizzate tra animali che possono metterne in pericolo l’integrità fisica è punito con la prigionia non superiore al secondo grado e con la multa non inferiore a euro 4.000,00 (quattromila/00).
-
-2.
-
-Si applica la pena della prigionia di secondo grado e della multa non inferiore ad euro 6.000,00 (seimila/00):
+2\. Si applica la pena della prigionia di secondo grado e della multa non inferiore ad euro 6.000,00 (seimila/00):
 
 a) se le predette attività sono compiute in concorso con minorenni o da persone armate;
 
@@ -3759,9 +3607,7 @@ c) se il colpevole cura la ripresa o la registrazione in qualsiasi forma dei com
 
 d) se il colpevole, anche se non presente sul luogo del reato, fuori dei casi di concorso nel medesimo, organizza o effettua scommesse sui combattimenti e sulle competizioni di cui al comma 1.
 
-3.
-
-Chiunque, fuori dei casi di concorso nel reato, allevando o addestrando animali li destina sotto qualsiasi forma e anche per il tramite di terzi alla loro partecipazione ai combattimenti di cui al comma 1 è punito con la prigionia non superiore al secondo
+3\. Chiunque, fuori dei casi di concorso nel reato, allevando o addestrando animali li destina sotto qualsiasi forma e anche per il tramite di terzi alla loro partecipazione ai combattimenti di cui al comma 1 è punito con la prigionia non superiore al secondo
 
 grado e con la multa non inferiore a euro 4.000,00 (quattromila/00). La stessa pena si applica anche ai proprietari o ai detentori degli animali impiegati nei combattimenti e nelle competizioni di cui al comma 1, se consenzienti.
 
@@ -3769,25 +3615,15 @@ grado e con la multa non inferiore a euro 4.000,00 (quattromila/00). La stessa p
 
 (Confisca e pene accessorie)
 
-1.
+1\. In caso di condanna per i misfatti previsti dagli articoli 323-ter, 323-quater, 323-quinquies, è sempre ordinata la confisca dell’animale ed eventualmente dei suoi cuccioli, salvo che appartenga a persona estranea al reato non convivente col colpevole. La confisca viene estesa all’articolo 323-bis in caso di reato tentato. In caso di condanna per i misfatti previsti dagli articoli 323-bis, 323-ter, 323-quater, 323quinquies, è inoltre sempre disposta l’interdizione di quarto grado dalla detenzione di animali.
 
-In caso di condanna per i misfatti previsti dagli articoli 323-ter, 323-quater, 323-quinquies, è sempre ordinata la confisca dell’animale ed eventualmente dei suoi cuccioli, salvo che appartenga a persona estranea al reato non convivente col colpevole. La confisca viene estesa all’articolo 323-bis in caso di reato tentato. In caso di condanna per i misfatti previsti dagli articoli 323-bis, 323-ter, 323-quater, 323quinquies, è inoltre sempre disposta l’interdizione di quarto grado dalla detenzione di animali.
+2\. È altresì disposta l’interdizione di terzo grado dall’esercizio dell’attività di commercio, di trasporto, di allevamento, di mattazione in caso di sentenza di condanna pronunciata nei confronti di chi svolge le predette attività.
 
-2.
+3\. Nei casi previsti dalla legge è disposto il sequestro probatorio e preventivo dell’animale fino alla sentenza definitiva; può essere inoltre disposto il sequestro preventivo dell’animale, anche a fini di confisca. L’animale verrà affidato a delle strutture o associazioni idonee a garantire le cure e l’accudimento necessario.
 
-È altresì disposta l’interdizione di terzo grado dall’esercizio dell’attività di commercio, di trasporto, di allevamento, di mattazione in caso di sentenza di condanna pronunciata nei confronti di chi svolge le predette attività.
+4\. In caso di sentenza di proscioglimento emessa in seguito all’estinzione del reato per intervenuta prescrizione per i misfatti di cui al presente Capitolo, il Giudice può comunque disporre la confisca dell’animale qualora sia stato accertato che all’animale siano state inflitte inutili sofferenze.
 
-3.
-
-Nei casi previsti dalla legge è disposto il sequestro probatorio e preventivo dell’animale fino alla sentenza definitiva; può essere inoltre disposto il sequestro preventivo dell’animale, anche a fini di confisca. L’animale verrà affidato a delle strutture o associazioni idonee a garantire le cure e l’accudimento necessario.
-
-4.
-
-In caso di sentenza di proscioglimento emessa in seguito all’estinzione del reato per intervenuta prescrizione per i misfatti di cui al presente Capitolo, il Giudice può comunque disporre la confisca dell’animale qualora sia stato accertato che all’animale siano state inflitte inutili sofferenze.
-
-5.
-
-Le spese di mantenimento e di custodia degli animali oggetto di confisca e sequestro sono a carico dell’imputato.
+5\. Le spese di mantenimento e di custodia degli animali oggetto di confisca e sequestro sono a carico dell’imputato.
 
 TITOLO QUARTO I REATI CONTRO LO STATO
 
@@ -3899,17 +3735,13 @@ Chiunque compie fatti diretti a mutare la Costituzione della Repubblica o la for
 
 (Proliferazione delle armi di distruzione di massa)
 
-1.
-
-Chiunque con qualsiasi mezzo, anche per interposta persona, promuove, organizza, dirige o compie atti quali la manifattura, l’acquisizione, il possesso, lo sviluppo, l’esportazione, il transito, l’intermediazione, il trasporto, il trasferimento, lo stoccaggio o l’utilizzo di armi nucleari, chimiche o biologiche, dei loro mezzi di conduzione e relativi materiali, inclusi tecnologie e beni a duplice uso utilizzati per scopi non legittimi, in contrasto con l’ordinamento costituzionale, con le norme di diritto internazionale e gli Statuti delle organizzazioni internazionali, è punito con la prigionia di sesto grado e con l’interdizione dai pubblici uffici e dai diritti politici di quarto grado.
+1\. Chiunque con qualsiasi mezzo, anche per interposta persona, promuove, organizza, dirige o compie atti quali la manifattura, l’acquisizione, il possesso, lo sviluppo, l’esportazione, il transito, l’intermediazione, il trasporto, il trasferimento, lo stoccaggio o l’utilizzo di armi nucleari, chimiche o biologiche, dei loro mezzi di conduzione e relativi materiali, inclusi tecnologie e beni a duplice uso utilizzati per scopi non legittimi, in contrasto con l’ordinamento costituzionale, con le norme di diritto internazionale e gli Statuti delle organizzazioni internazionali, è punito con la prigionia di sesto grado e con l’interdizione dai pubblici uffici e dai diritti politici di quarto grado.
 
 ##### Art.337 quinquies
 
 (Finanziamento della proliferazione delle armi di distruzione di massa)
 
-1.
-
-Chiunque con qualsiasi mezzo, anche per interposta persona, riceve, raccoglie, detiene, cede, trasferisce, occulta o rende disponibili fondi o presta servizi finanziari, servizi connessi, assistenza anche finanziaria, consulenza o formazione destinati, in tutto o in parte, a compiere uno o più atti di proliferazione delle armi di distruzione di massa, è punito con la prigionia di sesto grado e con l’interdizione dai pubblici uffici e dai diritti politici di quarto grado.
+1\. Chiunque con qualsiasi mezzo, anche per interposta persona, riceve, raccoglie, detiene, cede, trasferisce, occulta o rende disponibili fondi o presta servizi finanziari, servizi connessi, assistenza anche finanziaria, consulenza o formazione destinati, in tutto o in parte, a compiere uno o più atti di proliferazione delle armi di distruzione di massa, è punito con la prigionia di sesto grado e con l’interdizione dai pubblici uffici e dai diritti politici di quarto grado.
 
 ##### Art. 338
 
@@ -4659,9 +4491,7 @@ Non è punibile chi, avendo commesso alcuno dei fatti preveduti negli articoli 4
 
 (Fabbricazione, detenzione, acquisto, alienazione, trasporto, distribuzione, messa a disposizione di strumenti o materiali di contraffazione)
 
-1.
-
-È’ punito con la prigionia di secondo grado chiunque illegittimamente produce, riceve, detiene o in altra maniera ottiene, acquista, vende o cede, importa o esporta, trasporta, distribuisce, mette a disposizione ad altri:
+1\. È’ punito con la prigionia di secondo grado chiunque illegittimamente produce, riceve, detiene o in altra maniera ottiene, acquista, vende o cede, importa o esporta, trasporta, distribuisce, mette a disposizione ad altri:
 
 \- strumenti, articoli, programmi informatici o altri mezzi appositamente allestiti per commettere i misfatti di cui agli articoli 204 bis, 204 ter, 401, 401 bis, 403 bis o comunque atti, per la loro natura, alla contraffazione o all’alterazione;
 
@@ -4671,29 +4501,21 @@ Non è punibile chi, avendo commesso alcuno dei fatti preveduti negli articoli 4
 
 (Fabbricazione di monete in violazione alle condizioni statuite dalle competenti autorità)
 
-1.
+1\. Chiunque fabbrica banconote o monete metalliche usando strumenti o materiali legali in violazione dei diritti e delle condizioni in ragione delle quali le autorità competenti possono emettere moneta senza accordo di queste ultime, è punito con la prigionia di quarto grado.
 
-Chiunque fabbrica banconote o monete metalliche usando strumenti o materiali legali in violazione dei diritti e delle condizioni in ragione delle quali le autorità competenti possono emettere moneta senza accordo di queste ultime, è punito con la prigionia di quarto grado.
-
-2.
-
-Alla stessa pena soggiace chi, fraudolentemente fa uso di tali banconote o monete, le introduce nel territorio dello Stato o le esporta o trasporta ovvero le acquista o riceve o, a scopo di profitto, si intromette per farle acquistare o ricevere al fine di farne uso o di metterle in circolazione.
+2\. Alla stessa pena soggiace chi, fraudolentemente fa uso di tali banconote o monete, le introduce nel territorio dello Stato o le esporta o trasporta ovvero le acquista o riceve o, a scopo di profitto, si intromette per farle acquistare o ricevere al fine di farne uso o di metterle in circolazione.
 
 ##### Art. 403 ter
 
 (Frodi e falsificazioni di banconote e monete metalliche non ancora emesse)
 
-1.
-
-E’ punito con la prigionia di quarto grado chiunque commette i misfatti di cui agli articoli 401, 403 e 403 bis quando abbiano ad oggetto banconote e monete metalliche non ancora emesse, ma destinate ad essere immesse in circolazione con corso legale.
+1\. E’ punito con la prigionia di quarto grado chiunque commette i misfatti di cui agli articoli 401, 403 e 403 bis quando abbiano ad oggetto banconote e monete metalliche non ancora emesse, ma destinate ad essere immesse in circolazione con corso legale.
 
 ##### Art. 403-quater
 
 (Induzione alle frodi e alle falsificazioni)
 
-1.
-
-Al di fuori del caso di concorso, è punito con la pena della prigionia ivi rispettivamente prevista diminuita di un grado chiunque induce a commettere i misfatti di cui agli articoli 204-bis, 204-ter, 401, 401-bis, 403, 403-bis e 403-ter.
+1\. Al di fuori del caso di concorso, è punito con la pena della prigionia ivi rispettivamente prevista diminuita di un grado chiunque induce a commettere i misfatti di cui agli articoli 204-bis, 204-ter, 401, 401-bis, 403, 403-bis e 403-ter.
 
 ##### Art. 404
 
@@ -5477,13 +5299,9 @@ a) nell'articolo 199, del testo pubblicato nel Bollettino, il misfatto di ricett
 
 "salto" della parola "arresto" negli articoli 297, 367 e 384 del testo allegato al verbale e di quello affisso all'Albo.
 
-b)
+b) Negli articoli 82, 224, 228, 232, 233 e 277 del testo pubblicato nel Bollettino è stato eliminato ogni riferimento all'autorità maritale, che invece si riscontra nei corrispondenti articoli del testo allegato al verbale e di quello affisso all'Albo. Tale istituto, ancora previsto dalla versione approvata nella prima lettura, venne soppresso durante la seconda lettura, ma i riferimenti ad esso, contenuti negli articoli menzionati, sfuggirono all'eliminazione. La soppressione effettuata in sede di correzione di bozze costituisce attuazione della volontà del Consiglio ed eliminazione di un errore materiale del testo.
 
-Negli articoli 82, 224, 228, 232, 233 e 277 del testo pubblicato nel Bollettino è stato eliminato ogni riferimento all'autorità maritale, che invece si riscontra nei corrispondenti articoli del testo allegato al verbale e di quello affisso all'Albo. Tale istituto, ancora previsto dalla versione approvata nella prima lettura, venne soppresso durante la seconda lettura, ma i riferimenti ad esso, contenuti negli articoli menzionati, sfuggirono all'eliminazione. La soppressione effettuata in sede di correzione di bozze costituisce attuazione della volontà del Consiglio ed eliminazione di un errore materiale del testo.
-
-c)
-
-Negli articoli 144, 222 e 297 del testo pubblicato nel Bollettino è adottata la formula "multa a giorni" mentre negli articoli corrispondenti degli altri due testi si parla solo di "multa". Quest'ultima locuzione è erronea ed è l'effetto del mancato coordinamento del testo del progetto con le modifiche apportate dalla Commissione Consiliare Deliberante, che ha sostituito l'istituto della "multa", in esso previsto, con quello della "multa a giorni". Si tratta anche in questo caso di errori materiali corretti in sede di bozze.
+c) Negli articoli 144, 222 e 297 del testo pubblicato nel Bollettino è adottata la formula "multa a giorni" mentre negli articoli corrispondenti degli altri due testi si parla solo di "multa". Quest'ultima locuzione è erronea ed è l'effetto del mancato coordinamento del testo del progetto con le modifiche apportate dalla Commissione Consiliare Deliberante, che ha sostituito l'istituto della "multa", in esso previsto, con quello della "multa a giorni". Si tratta anche in questo caso di errori materiali corretti in sede di bozze.
 
 Da ultimo è emerso che l'articolo 248 del testo pubblicato nel Bollettino non contiene un secondo ed un terzo comma previsti, invece, nell'articolo corrispondente degli altri due testi. Si tratta di una omissione del proto non rilevata in sede di correzione di bozze. I due commi omessi prevedono aggravamenti di pena nel caso di lesione o di morte derivata, quale evento aggravatore, dall'attentato colposo alla salute pubblica.
 
@@ -5669,29 +5487,19 @@ DECRETO 27 novembre 2001 n.121 DISPOSIZIONI URGENTI IN VISTA DELL'INTRODUZIONE D
 
 Falsificazione di banconote e monete in euro non aventi corso legale.
 
-1.
+1\. Agli effetti della legge penale, alle monete aventi corso legale nello Stato sono equiparate le banconote e le monete metalliche in euro che ancora non hanno corso legale, nonché i valori di bollo espressi in euro non aventi ancora corso legale.
 
-Agli effetti della legge penale, alle monete aventi corso legale nello Stato sono equiparate le banconote e le monete metalliche in euro che ancora non hanno corso legale, nonché i valori di bollo espressi in euro non aventi ancora corso legale.
+2\. L’equiparazione stabilita al comma 1 ha efficacia per i reati commessi prima del 1° gennaio 2002 nonché per le banconote e monete metalliche non ancora emesse ma destinate ad essere immesse in circolazione ed aventi corso legale.
 
-2.
-
-L’equiparazione stabilita al comma 1 ha efficacia per i reati commessi prima del 1° gennaio 2002 nonché per le banconote e monete metalliche non ancora emesse ma destinate ad essere immesse in circolazione ed aventi corso legale.
-
-3.
-
-Per i reati previsti dagli articoli 401 e 403 del Codice Penale commessi entro la data di cui al comma 2, le pene rispettivamente stabilite sono diminuite di un grado, salvo che, nei casi di falsificazione, il colpevole abbia posto in circolazione le monete o i valori di bollo successivamente a tale data.
+3\. Per i reati previsti dagli articoli 401 e 403 del Codice Penale commessi entro la data di cui al comma 2, le pene rispettivamente stabilite sono diminuite di un grado, salvo che, nei casi di falsificazione, il colpevole abbia posto in circolazione le monete o i valori di bollo successivamente a tale data.
 
 ##### Art.10
 
 Conversione delle sanzioni pecuniarie penali.
 
-1.
+1\. A decorrere dal 1° gennaio 2002 ogni sanzione penale espressa in lire nelle vigenti disposizioni normative è tradotta in euro secondo il tasso di conversione irrevocabilmente fissato ai sensi dell'articolo 4 del Decreto 19 aprile 1999 n. 43.
 
-A decorrere dal 1° gennaio 2002 ogni sanzione penale espressa in lire nelle vigenti disposizioni normative è tradotta in euro secondo il tasso di conversione irrevocabilmente fissato ai sensi dell'articolo 4 del Decreto 19 aprile 1999 n. 43.
-
-2.
-
-Se l'operazione di conversione prevista dal comma 1 produce un risultato espresso anche con decimali, la cifra è arrotondata eliminando i decimali.
+2\. Se l'operazione di conversione prevista dal comma 1 produce un risultato espresso anche con decimali, la cifra è arrotondata eliminando i decimali.
 
 LEGGE 30 aprile 2002 n.61 LEGGE PER LA REPRESSIONE DELLO SFRUTTAMENTO SESSUALE DEI MINORI
 
@@ -5717,41 +5525,27 @@ LEGGE 26 febbraio 2004 n.28 DISPOSIZIONI IN MATERIA DI CONTRASTO DEL TERRORISMO,
 
 (Ambito di applicazione)
 
-1.
-
-Le disposizioni di cui all'articolo 305 e 305 bis del Codice Penale si applicano ai fatti concernenti strumenti finanziari negoziati o ammessi alla negoziazione su mercati regolamentati sammarinesi o dei paesi dell'Unione Europea.
+1\. Le disposizioni di cui all'articolo 305 e 305 bis del Codice Penale si applicano ai fatti concernenti strumenti finanziari negoziati o ammessi alla negoziazione su mercati regolamentati sammarinesi o dei paesi dell'Unione Europea.
 
 ##### Art. 14
 
 (Notizia di reato)
 
-1.
-
-Il Commissario della Legge, quando ha notizia di taluno dei reati previsti all'articolo 305 ed all'articolo 305 bis del Codice Penale si avvale della Divisione Vigilanza della Banca Centrale della Repubblica di San Marino.
+1\. Il Commissario della Legge, quando ha notizia di taluno dei reati previsti all'articolo 305 ed all'articolo 305 bis del Codice Penale si avvale della Divisione Vigilanza della Banca Centrale della Repubblica di San Marino.
 
 ##### Art. 15
 
-1.
+1\. Nell'ambito delle operazioni a carattere investigativo volte alla individuazione ed alla repressione dei misfatti previsti agli articoli 199 bis, 207, [337 bis e 337 ter] del Codice Penale ed all'acquisizione dei relativi elementi di prova, il Commissario della Legge può autorizzare il personale specializzato degli organi di Polizia ad effettuare operazioni sotto copertura, ad intervenire nell'attività di intermediazione, all'acquisto simulato di merci, materiali e cose che possono generare proventi illeciti, a prendere parte a qualsiasi iniziativa diretta a reprimere i misfatti previsti al presente comma.
 
-Nell'ambito delle operazioni a carattere investigativo volte alla individuazione ed alla repressione dei misfatti previsti agli articoli 199 bis, 207, [337 bis e 337 ter] del Codice Penale ed all'acquisizione dei relativi elementi di prova, il Commissario della Legge può autorizzare il personale specializzato degli organi di Polizia ad effettuare operazioni sotto copertura, ad intervenire nell'attività di intermediazione, all'acquisto simulato di merci, materiali e cose che possono generare proventi illeciti, a prendere parte a qualsiasi iniziativa diretta a reprimere i misfatti previsti al presente comma.
+2\. In relazione alla acquisizione di prove mediante intercettazione delle comunicazioni sulle reti telematiche e di telefonia, sia fissa che mobile, il Congresso di Stato dovrà presentare, entro dodici mesi dall'entrata in vigore della presente legge, un apposito progetto di legge che regolamenti tali fattispecie investigative e le relative procedure.
 
-2.
-
-In relazione alla acquisizione di prove mediante intercettazione delle comunicazioni sulle reti telematiche e di telefonia, sia fissa che mobile, il Congresso di Stato dovrà presentare, entro dodici mesi dall'entrata in vigore della presente legge, un apposito progetto di legge che regolamenti tali fattispecie investigative e le relative procedure.
-
-3.
-
-Nel caso previsto al comma 1 gli organi di Polizia devono comunicare immediatamente ed esclusivamente al Commissario della Legge l'esito delle attività svolte e non possono estrarre copie e duplicare atti relativi all'attività svolta, salvo espressa autorizzazione del Commissario della Legge. Le risultanze delle attività investigative di cui al comma 1 che riguardano terzi o comunque estranei ai fatti in indagine debbono essere distrutte non appena sia stata accertata la loro estraneità.
+3\. Nel caso previsto al comma 1 gli organi di Polizia devono comunicare immediatamente ed esclusivamente al Commissario della Legge l'esito delle attività svolte e non possono estrarre copie e duplicare atti relativi all'attività svolta, salvo espressa autorizzazione del Commissario della Legge. Le risultanze delle attività investigative di cui al comma 1 che riguardano terzi o comunque estranei ai fatti in indagine debbono essere distrutte non appena sia stata accertata la loro estraneità.
 
 La violazione delle presenti disposizioni, ovvero la divulgazione delle informazioni apprese nell'ambito delle esecuzioni degli incombenti di cui al comma 1, è punita con la prigionia di secondo grado, congiuntamente all'interdizione di secondo grado dai pubblici uffici e dai diritti politici.
 
-4.
+4\. Il Commissario della Legge potrà differire la convalida del sequestro sino alla conclusione delle indagini ovvero ritardare l'emissione di mandati di carcerazione cautelare quando sia necessario acquisire rilevanti elementi probatori.
 
-Il Commissario della Legge potrà differire la convalida del sequestro sino alla conclusione delle indagini ovvero ritardare l'emissione di mandati di carcerazione cautelare quando sia necessario acquisire rilevanti elementi probatori.
-
-5.
-
-Le prove acquisite mediante le procedure previste dal presente articolo possono valere anche per il giudizio relativo a reati connessi a quelli contemplati dal primo comma del presente articolo.
+5\. Le prove acquisite mediante le procedure previste dal presente articolo possono valere anche per il giudizio relativo a reati connessi a quelli contemplati dal primo comma del presente articolo.
 
 ##### Art. 16
 
@@ -5767,9 +5561,7 @@ LEGGE 21 luglio 2009 n.98 LEGGE SULLE INTERCETTAZIONI
 
 (Ammissibilità delle intercettazioni)
 
-1.
-
-L’intercettazione è consentita solamente nei processi penali relativi ai seguenti reati:
+1\. L’intercettazione è consentita solamente nei processi penali relativi ai seguenti reati:
 
 1) i misfatti che siano puniti con la pena edittale della prigionia non inferiore, nel minimo, al terzo grado;
 
@@ -5795,9 +5587,7 @@ L’intercettazione è consentita solamente nei processi penali relativi ai segu
 
 12) misfatti di cui al primo comma dell’articolo 287 bis e ter del Codice Penale.
 
-2.
-
-Nella determinazione del grado della prigionia, ove ciò sia necessario per stabilire l’ammissibilità dell’intercettazione, ai sensi del primo comma, non si prendono in considerazione gli aumenti e le diminuzioni del grado derivanti dalla ricorrenza di circostanze aggravanti o attenuanti, sia generali che speciali.
+2\. Nella determinazione del grado della prigionia, ove ciò sia necessario per stabilire l’ammissibilità dell’intercettazione, ai sensi del primo comma, non si prendono in considerazione gli aumenti e le diminuzioni del grado derivanti dalla ricorrenza di circostanze aggravanti o attenuanti, sia generali che speciali.
 
 LEGGE 7 giugno 2010 n.99 NORME PER LA PREVENZIONE DELL’EVASIONE FISCALE CON USO DI DOCUMENTI FALSI E PREVISIONE DELL’AGGRAVANTE DI “ASSOCIAZIONE A DELINQUERE DI STAMPO MALAVITOSO”
 
@@ -5805,9 +5595,7 @@ LEGGE 7 giugno 2010 n.99 NORME PER LA PREVENZIONE DELL’EVASIONE FISCALE CON US
 
 (Definizioni)
 
-1.
-
-Ai fini della presente legge:
+1\. Ai fini della presente legge:
 
 a) per “fatture o altri documenti per operazioni inesistenti” si intendono le fatture o gli altri documenti aventi rilievo probatorio analogo emessi o rilasciati a fronte di operazioni o prestazioni di servizi non realmente effettuati in tutto o in parte o che indicano corrispettivi difformi a quelli reali, ovvero che riferiscono l'operazione a soggetti diversi da quelli effettivi o descrivono operazioni e servizi diversi da quelli effettuati;
 
@@ -5825,41 +5613,27 @@ f) in caso di emissione, utilizzo o rilascio di fatture o altri documenti per op
 
 (Oblazione volontaria a seguito di pagamento)
 
-1.
+1\. Salvo il caso previsto dal terzo comma del presente articolo, il giudice applica, in luogo delle pene previste per i misfatti previsti agli articoli 2 e 3, la pena della multa a giorni dal primo al terzo grado ed ammette, su richiesta, l’estinzione del reato mediante l’oblazione volontaria di cui all’articolo 69 del codice penale.
 
-Salvo il caso previsto dal terzo comma del presente articolo, il giudice applica, in luogo delle pene previste per i misfatti previsti agli articoli 2 e 3, la pena della multa a giorni dal primo al terzo grado ed ammette, su richiesta, l’estinzione del reato mediante l’oblazione volontaria di cui all’articolo 69 del codice penale.
+2\. Il termine per provvedere al pagamento della somma determinata dal giudice ai sensi dell’articolo 69, comma 2, del codice penale non può essere inferiore a trenta giorni. In caso di mancato pagamento entro il termine assegnato, il Giudice dispone il rinvio a giudizio.
 
-2.
-
-Il termine per provvedere al pagamento della somma determinata dal giudice ai sensi dell’articolo 69, comma 2, del codice penale non può essere inferiore a trenta giorni. In caso di mancato pagamento entro il termine assegnato, il Giudice dispone il rinvio a giudizio.
-
-3.
-
-Il beneficio dell’oblazione volontaria non può essere concesso in caso di recidiva ai sensi dell’articolo 91 del codice penale, nonché, qualora il corrispettivo indicato nel documento di cui agli articoli 2 e 3 sia superiore ad € 25.000,00.
+3\. Il beneficio dell’oblazione volontaria non può essere concesso in caso di recidiva ai sensi dell’articolo 91 del codice penale, nonché, qualora il corrispettivo indicato nel documento di cui agli articoli 2 e 3 sia superiore ad € 25.000,00.
 
 LEGGE 29 luglio 2013 n.100 MODIFICHE AL CODICE PENALE ED AL CODICE DI PROCEDURA PENALE E DISPOSIZIONI SULLA PROCEDURA CIVILE E IN MATERIA GIUDIZIARIA
 
 ##### Art. 19
 
-1.
+1\. Le spese del procedimento di cui all’articolo 140, numero 5) del Codice Penale sono definite sulla base dei parametri stabiliti con apposito decreto delegato, da adottarsi entro sei mesi dall’entrata in vigore della presente legge.
 
-Le spese del procedimento di cui all’articolo 140, numero 5) del Codice Penale sono definite sulla base dei parametri stabiliti con apposito decreto delegato, da adottarsi entro sei mesi dall’entrata in vigore della presente legge.
-
-2.
-
-Il decreto delegato di cui al comma 1 stabilisce, altresì, i diritti d’ufficio per le attività di segreteria e cancelleria, l’entità delle spese di asporto e custodia di beni oggetto di richieste di pignoramento e le tariffe per l’abbonamento annuale al Bollettino dei Protesti.
+2\. Il decreto delegato di cui al comma 1 stabilisce, altresì, i diritti d’ufficio per le attività di segreteria e cancelleria, l’entità delle spese di asporto e custodia di beni oggetto di richieste di pignoramento e le tariffe per l’abbonamento annuale al Bollettino dei Protesti.
 
 DECRETO - LEGGE 16 giugno 2014 n.90 DISPOSIZIONI URGENTI IN MATERIA DI PREVENZIONE E CONTRASTO AI REATI DI CORRUZIONE
 
 ##### Art. 3
 
-1.
+1\. Ai fini di prevenzione e contrasto dei misfatti di cui al Titolo IV, Capitolo IV del codice penale, chiunque può segnalare all’Autorità giudiziaria o all’Autorità di polizia fatti o circostanze rilevanti.
 
-Ai fini di prevenzione e contrasto dei misfatti di cui al Titolo IV, Capitolo IV del codice penale, chiunque può segnalare all’Autorità giudiziaria o all’Autorità di polizia fatti o circostanze rilevanti.
-
-2.
-
-I soggetti designati di cui alla Legge 17 giugno 2008 n.92 e successive modifiche devono segnalare senza ritardo all’Autorità giudiziaria o all’Autorità di polizia:
+2\. I soggetti designati di cui alla Legge 17 giugno 2008 n.92 e successive modifiche devono segnalare senza ritardo all’Autorità giudiziaria o all’Autorità di polizia:
 
 a) ogni operazione, anche non eseguita, che, per natura, caratteristiche, entità, o in relazione alla capacità economica e all’attività svolta dal soggetto a cui è riferita, ovvero per qualsiasi altra circostanza conosciuta, induca a ritenere che le risorse economiche, il denaro, o i beni oggetto dell’operazione medesima possano provenire dai misfatti di cui al Titolo IV; Capitolo IV del codice penale ovvero possano essere impiegati per commettere tali misfatti;
 
@@ -5867,69 +5641,39 @@ b) chiunque o qualsiasi fatto, per qualsiasi circostanza conosciuta in ragione d
 
 c) i fondi per i quali sanno, sospettano o hanno motivo di sospettare che gli stessi siano collegati, in relazione o possano essere usati per finalità corruttive.
 
-3.
+3\. Gli iscritti all’Albo degli Avvocati e Notai e gli iscritti nell’Albo dei Dottori Commercialisti o dei Ragionieri Commercialisti possono opporre all’Autorità giudiziaria e all’Autorità di polizia il segreto professionale sulle informazioni che essi ricevono nell’espletamento dei compiti di difesa o di rappresentanza del loro cliente in un procedimento giudiziario o amministrativo o in relazione a tale procedimento, compresa la consulenza sull’eventualità di intentare o evitare un procedimento, ove tali informazioni siano ricevute o ottenute prima, durante o dopo il procedimento stesso.
 
-Gli iscritti all’Albo degli Avvocati e Notai e gli iscritti nell’Albo dei Dottori Commercialisti o dei Ragionieri Commercialisti possono opporre all’Autorità giudiziaria e all’Autorità di polizia il segreto professionale sulle informazioni che essi ricevono nell’espletamento dei compiti di difesa o di rappresentanza del loro cliente in un procedimento giudiziario o amministrativo o in relazione a tale procedimento, compresa la consulenza sull’eventualità di intentare o evitare un procedimento, ove tali informazioni siano ricevute o ottenute prima, durante o dopo il procedimento stesso.
+4\. Nei casi previsti dal comma precedente, gli avvocati e i commercialisti non hanno obbligo di segnalazione.
 
-4.
+5\. All’Autorità giudiziaria e all’Autorità di polizia, nello svolgimento delle funzioni connesse alla prevenzione e contrasto dei misfatti di cui al Titolo IV, Capitolo IV del codice penale, non può essere opposto alcun segreto professionale, al di fuori del caso previsto nel comma 3, e non può essere opposto il segreto d’ufficio.
 
-Nei casi previsti dal comma precedente, gli avvocati e i commercialisti non hanno obbligo di segnalazione.
+6\. Il segreto professionale e il segreto d’ufficio non possono essere opposti neppure quando i dati e le informazioni siano necessari per l’accertamento dei reati e delle violazioni amministrative, al di fuori dei casi previsti nel comma 3.
 
-5.
-
-All’Autorità giudiziaria e all’Autorità di polizia, nello svolgimento delle funzioni connesse alla prevenzione e contrasto dei misfatti di cui al Titolo IV, Capitolo IV del codice penale, non può essere opposto alcun segreto professionale, al di fuori del caso previsto nel comma 3, e non può essere opposto il segreto d’ufficio.
-
-6.
-
-Il segreto professionale e il segreto d’ufficio non possono essere opposti neppure quando i dati e le informazioni siano necessari per l’accertamento dei reati e delle violazioni amministrative, al di fuori dei casi previsti nel comma 3.
-
-7.
-
-Le segnalazioni e le comunicazioni effettuate ai sensi del presente articolo non costituiscono violazione di eventuali restrizioni alla comunicazione di dati o informazioni derivanti da contratti o da disposizioni legislative, statutarie, regolamentari o amministrative, e neppure degli obblighi di riservatezza e del segreto professionale o d’ufficio o del segreto bancario di cui all’articolo 36 della Legge 17 novembre 2005 n.165. Le segnalazioni e le comunicazioni non comportano responsabilità di alcun tipo se effettuate in buona fede.
+7\. Le segnalazioni e le comunicazioni effettuate ai sensi del presente articolo non costituiscono violazione di eventuali restrizioni alla comunicazione di dati o informazioni derivanti da contratti o da disposizioni legislative, statutarie, regolamentari o amministrative, e neppure degli obblighi di riservatezza e del segreto professionale o d’ufficio o del segreto bancario di cui all’articolo 36 della Legge 17 novembre 2005 n.165. Le segnalazioni e le comunicazioni non comportano responsabilità di alcun tipo se effettuate in buona fede.
 
 ##### Art. 4
 
-1.
+1\. I soggetti designati cui alla Legge 17 giugno 2008 n.92 e successive modifiche devono adottare misure idonee ad assicurare la massima riservatezza sull’identità della persona fisica che ha rilevato l’operazione sospetta ai sensi dell’articolo 3.
 
-I soggetti designati cui alla Legge 17 giugno 2008 n.92 e successive modifiche devono adottare misure idonee ad assicurare la massima riservatezza sull’identità della persona fisica che ha rilevato l’operazione sospetta ai sensi dell’articolo 3.
+2\. Gli atti e i documenti relativi alle segnalazioni sono custoditi sotto la responsabilità del soggetto designato, del suo legale rappresentante, o di un suo delegato.
 
-2.
+3\. Le Autorità giudiziaria e di polizia adottano misure adeguate a garantire la riservatezza sull’identità della persona fisica che ha rilevato l’operazione sospetta. La richiesta di informazioni al soggetto designato, le eventuali richieste di approfondimenti, nonché gli scambi di informazioni, attinenti alle operazioni sospette segnalate devono avvenire con modalità idonee a garantire la massima riservatezza dell’identità della persona che ha rilevato l’operazione sospetta.
 
-Gli atti e i documenti relativi alle segnalazioni sono custoditi sotto la responsabilità del soggetto designato, del suo legale rappresentante, o di un suo delegato.
+4\. In caso di comunicazione, denuncia o rapporto all’Autorità giudiziaria, l’identità della persona fisica che ha rilevato l’operazione sospetta, anche se conosciuta, non è menzionata.
 
-3.
+5\. L’identità della persona fisica che ha rilevato l’operazione sospetta può essere rivelata solo quando l’Autorità giudiziaria, con decreto motivato, lo dichiara indispensabile ai fini dell’accertamento dei reati per i quali procede.
 
-Le Autorità giudiziaria e di polizia adottano misure adeguate a garantire la riservatezza sull’identità della persona fisica che ha rilevato l’operazione sospetta. La richiesta di informazioni al soggetto designato, le eventuali richieste di approfondimenti, nonché gli scambi di informazioni, attinenti alle operazioni sospette segnalate devono avvenire con modalità idonee a garantire la massima riservatezza dell’identità della persona che ha rilevato l’operazione sospetta.
+6\. Ai soggetti designati è fatto divieto di comunicare al soggetto interessato e a terzi, al di fuori delle ipotesi previste dai commi che seguono, l’avvenuta segnalazione di un’operazione sospetta o che è in corso o potrebbe essere svolta un’indagine in materia di corruzione.
 
-4.
+7\. È consentito comunicare l’avvenuta segnalazione tra i soggetti finanziari con sede nella Repubblica di San Marino appartenenti al medesimo gruppo.
 
-In caso di comunicazione, denuncia o rapporto all’Autorità giudiziaria, l’identità della persona fisica che ha rilevato l’operazione sospetta, anche se conosciuta, non è menzionata.
+8\. È, altresì, consentita la comunicazione tra i soggetti designati che svolgono la propria prestazione in forma associata.
 
-5.
-
-L’identità della persona fisica che ha rilevato l’operazione sospetta può essere rivelata solo quando l’Autorità giudiziaria, con decreto motivato, lo dichiara indispensabile ai fini dell’accertamento dei reati per i quali procede.
-
-6.
-
-Ai soggetti designati è fatto divieto di comunicare al soggetto interessato e a terzi, al di fuori delle ipotesi previste dai commi che seguono, l’avvenuta segnalazione di un’operazione sospetta o che è in corso o potrebbe essere svolta un’indagine in materia di corruzione.
-
-7.
-
-È consentito comunicare l’avvenuta segnalazione tra i soggetti finanziari con sede nella Repubblica di San Marino appartenenti al medesimo gruppo.
-
-8.
-
-È, altresì, consentita la comunicazione tra i soggetti designati che svolgono la propria prestazione in forma associata.
-
-9.
-
-Non costituisce violazione dell’obbligo di segretezza il tentativo dei soggetti designati di dissuadere il cliente dal porre in atto un’attività illegale.
+9\. Non costituisce violazione dell’obbligo di segretezza il tentativo dei soggetti designati di dissuadere il cliente dal porre in atto un’attività illegale.
 
 ##### Art. 5
 
-1.
-
-Per l’accertamento dei reati per i quali è prevista la confisca obbligatoria dall’articolo 147, decimo comma nonché degli ulteriori reati di cui al Titolo IV, Capitolo IV del codice penale l’Autorità Giudiziaria può autorizzare il ricorso alle tecniche investigative di cui alla Legge 26 febbraio 2004 n.28.
+1\. Per l’accertamento dei reati per i quali è prevista la confisca obbligatoria dall’articolo 147, decimo comma nonché degli ulteriori reati di cui al Titolo IV, Capitolo IV del codice penale l’Autorità Giudiziaria può autorizzare il ricorso alle tecniche investigative di cui alla Legge 26 febbraio 2004 n.28.
 
 DECRETO - LEGGE 25 luglio 2016 n.89 DISPOSIZIONI IN MATERIA DI PROTEZIONE DEI TESTIMONI DI REATI DI CORRUZIONE, CONTRASTO ALLA CORRUZIONE E TRASPARENZA DELL’AMMINISTRAZIONE
 
@@ -5937,31 +5681,19 @@ DECRETO - LEGGE 25 luglio 2016 n.89 DISPOSIZIONI IN MATERIA DI PROTEZIONE DEI TE
 
 (Protezione dei testimoni di reati di cui al Titolo IV, Capitolo IV del Codice Penale)
 
-1.
+1\. Allo scopo di mantenere riservata l’identità dei testimoni ed il contenuto delle testimonianze nei procedimenti penali relativi ai reati di cui al Titolo IV, Capitolo IV del Codice Penale, il Giudice inquirente dichiara a mezzo di decreto motivato lo stato di segretezza speciale di cui all’articolo 5 della Legge 17 giugno 2008 n. 93 con riferimento agli atti istruttori che coinvolgano tali soggetti; i predetti atti e decreto sono conservati in separato fascicolo durante l’intera fase istruttoria.
 
-Allo scopo di mantenere riservata l’identità dei testimoni ed il contenuto delle testimonianze nei procedimenti penali relativi ai reati di cui al Titolo IV, Capitolo IV del Codice Penale, il Giudice inquirente dichiara a mezzo di decreto motivato lo stato di segretezza speciale di cui all’articolo 5 della Legge 17 giugno 2008 n. 93 con riferimento agli atti istruttori che coinvolgano tali soggetti; i predetti atti e decreto sono conservati in separato fascicolo durante l’intera fase istruttoria.
+2\. Il regime di segretezza speciale cessa con la pubblicazione del processo e l’Autorità giudiziaria dispone, con il decreto per la fissazione dell’udienza dibattimentale, l’unione degli atti di cui al comma 1 al fascicolo processuale, salvo che la medesima Autorità ritenga non necessario, tenuto conto delle ulteriori risultanze istruttorie, utilizzare la testimonianza e rivelare l’identità del testimone ai fini dell’accertamento dei reati per i quali si procede.
 
-2.
+3\. Al fine di tutelare, nella fase dibattimentale del processo, la riservatezza sull’identità del testimone che debba essere escusso, il dibattimento ha luogo a porte chiuse. Il Giudice del dibattimento ha facoltà di disporre, quando ne ravvisi l’esigenza, misure atte a garantire la protezione, la salvaguardia dell’incolumità e la sicurezza del testimone e/o dei suoi prossimi congiunti; è, in particolare, vietata la diffusione delle generalità e dell’immagine dello stesso nonché di notizie che lo riguardano.
 
-Il regime di segretezza speciale cessa con la pubblicazione del processo e l’Autorità giudiziaria dispone, con il decreto per la fissazione dell’udienza dibattimentale, l’unione degli atti di cui al comma 1 al fascicolo processuale, salvo che la medesima Autorità ritenga non necessario, tenuto conto delle ulteriori risultanze istruttorie, utilizzare la testimonianza e rivelare l’identità del testimone ai fini dell’accertamento dei reati per i quali si procede.
-
-3.
-
-Al fine di tutelare, nella fase dibattimentale del processo, la riservatezza sull’identità del testimone che debba essere escusso, il dibattimento ha luogo a porte chiuse. Il Giudice del dibattimento ha facoltà di disporre, quando ne ravvisi l’esigenza, misure atte a garantire la protezione, la salvaguardia dell’incolumità e la sicurezza del testimone e/o dei suoi prossimi congiunti; è, in particolare, vietata la diffusione delle generalità e dell’immagine dello stesso nonché di notizie che lo riguardano.
-
-4.
-
-Il testimone che, sulla base di ragionevoli sospetti ed in buona fede, abbia fornito dichiarazioni nell’ambito dei procedimenti penali relativi ai reati di cui al Titolo IV, Capitolo IV del Codice Penale non deve subire alcun pregiudizio, misura ritorsiva o discriminatoria, diretta o indiretta, avente effetti sulle condizioni di lavoro per motivi collegati, direttamente o indirettamente, alla testimonianza resa. In tali casi, quando risultano elementi di prova della natura ritorsiva o discriminatoria delle misure adottate, spetta al datore di lavoro l’onere della prova della sussistenza di legittime ragioni a fondamento delle stesse. I provvedimenti sanzionatori o disciplinari adottati dal datore di lavoro in violazione di quanto previsto dal primo periodo del presente comma sono nulli.
+4\. Il testimone che, sulla base di ragionevoli sospetti ed in buona fede, abbia fornito dichiarazioni nell’ambito dei procedimenti penali relativi ai reati di cui al Titolo IV, Capitolo IV del Codice Penale non deve subire alcun pregiudizio, misura ritorsiva o discriminatoria, diretta o indiretta, avente effetti sulle condizioni di lavoro per motivi collegati, direttamente o indirettamente, alla testimonianza resa. In tali casi, quando risultano elementi di prova della natura ritorsiva o discriminatoria delle misure adottate, spetta al datore di lavoro l’onere della prova della sussistenza di legittime ragioni a fondamento delle stesse. I provvedimenti sanzionatori o disciplinari adottati dal datore di lavoro in violazione di quanto previsto dal primo periodo del presente comma sono nulli.
 
 Le misure di cui al presente comma sono riconosciute anche a protezione dei prossimi congiunti del testimone, qualora alle dipendenze del medesimo datore di lavoro.
 
-5.
+5\. Le tutele di cui al comma 4 non sono garantite nei casi in cui sia accertata, anche con sentenza di primo grado, la responsabilità penale del testimone per i reati di calunnia o di falsa testimonianza o di diffamazione ovvero la sua responsabilità civile, per lo stesso titolo, nei casi di dolo o colpa grave.
 
-Le tutele di cui al comma 4 non sono garantite nei casi in cui sia accertata, anche con sentenza di primo grado, la responsabilità penale del testimone per i reati di calunnia o di falsa testimonianza o di diffamazione ovvero la sua responsabilità civile, per lo stesso titolo, nei casi di dolo o colpa grave.
-
-6.
-
-La disposizione di cui all’articolo 8, comma 5 della Legge n. 93/2008 si applica agli atti processuali ed ai documenti raccolti nel corso del processo nonché alle parti di sentenze e dei provvedimenti di archiviazione per le quali sia previsto il regime di segretezza speciale di cui al comma 1.
+6\. La disposizione di cui all’articolo 8, comma 5 della Legge n. 93/2008 si applica agli atti processuali ed ai documenti raccolti nel corso del processo nonché alle parti di sentenze e dei provvedimenti di archiviazione per le quali sia previsto il regime di segretezza speciale di cui al comma 1.
 
 DECRETO - LEGGE 27 ottobre 2017 n.123 (Ratifica Decreto – Legge 25 settembre 2017 n.113)
 
@@ -5971,27 +5703,17 @@ PROFILI DEFINITORI DELL’ASSEGNO E DISCIPLINA IN MATERIA DI RICHIESTA DI PAGAME
 
 (Tipizzazione dell’assegno)
 
-1.
-
-Alla Legge 17 novembre 2005 n. 165 è aggiunto l’articolo 146-bis che segue:
+1\. Alla Legge 17 novembre 2005 n. 165 è aggiunto l’articolo 146-bis che segue:
 
 “Art. 146-bis (Coordinamento con il codice cambiario)
 
-1.
+1\. L’assegno bancario è un titolo di credito, esecutivo e all’ordine, contenente l’ordine incondizionato impartito da un correntista (traente) alla propria banca (trattaria) di pagare a vista a terzi o a sé stesso (beneficiario) una determinata somma di denaro, addebitando il proprio conto corrente.
 
-L’assegno bancario è un titolo di credito, esecutivo e all’ordine, contenente l’ordine incondizionato impartito da un correntista (traente) alla propria banca (trattaria) di pagare a vista a terzi o a sé stesso (beneficiario) una determinata somma di denaro, addebitando il proprio conto corrente.
+2\. L’assegno prepagato è un titolo di credito, esecutivo e all’ordine, contenente la promessa incondizionata di una banca, a ciò autorizzata dall’Autorità di Vigilanza della Banca Centrale, a pagare a vista una determinata somma di denaro in favore del soggetto ivi indicato come beneficiario, emesso su richiesta e previa messa a disposizione della medesima somma di denaro da parte del soggetto richiedente, anche non correntista.
 
-2.
+3\. L’assegno di traenza e quietanza è un titolo di credito esecutivo e non trasferibile, inviato dalla banca al beneficiario attestante una somma a sua disposizione, incassabile a vista dal beneficiario previa apposizione, da parte del beneficiario medesimo, di firma per traenza sul recto dell’assegno, e per quietanza sul verso del medesimo.
 
-L’assegno prepagato è un titolo di credito, esecutivo e all’ordine, contenente la promessa incondizionata di una banca, a ciò autorizzata dall’Autorità di Vigilanza della Banca Centrale, a pagare a vista una determinata somma di denaro in favore del soggetto ivi indicato come beneficiario, emesso su richiesta e previa messa a disposizione della medesima somma di denaro da parte del soggetto richiedente, anche non correntista.
-
-3.
-
-L’assegno di traenza e quietanza è un titolo di credito esecutivo e non trasferibile, inviato dalla banca al beneficiario attestante una somma a sua disposizione, incassabile a vista dal beneficiario previa apposizione, da parte del beneficiario medesimo, di firma per traenza sul recto dell’assegno, e per quietanza sul verso del medesimo.
-
-4.
-
-I titoli di credito di cui ai commi 1, 2 e 3 sono strumenti di pagamento in quanto pagabili unicamente a vista.”.
+4\. I titoli di credito di cui ai commi 1, 2 e 3 sono strumenti di pagamento in quanto pagabili unicamente a vista.”.
 
 ##### Art. 2
 
@@ -5999,29 +5721,19 @@ I titoli di credito di cui ai commi 1, 2 e 3 sono strumenti di pagamento in quan
 
 1\. Ai fini del presente decreto-legge, i termini sotto riportati assumono i seguenti significati:
 
-a)
+a) “Assegno”: assegni bancari, assegni prepagati, assegni traenza e quietanza tratti su o emessi da un intermediario definito alla lettera d);
 
-“Assegno”: assegni bancari, assegni prepagati, assegni traenza e quietanza tratti su o emessi da un intermediario definito alla lettera d);
+b) “Emittente”: la banca o altro soggetto sammarinese abilitato all’emissione di un assegno prepagato per una somma disponibile presso il soggetto medesimo al momento dell’emissione;
 
-b)
-
-“Emittente”: la banca o altro soggetto sammarinese abilitato all’emissione di un assegno prepagato per una somma disponibile presso il soggetto medesimo al momento dell’emissione;
-
-c)
-
-“Immagine dell’assegno”: copia per immagine dell’assegno recto e verso su supporto informatico:
+c) “Immagine dell’assegno”: copia per immagine dell’assegno recto e verso su supporto informatico:
 
 \- dotata delle caratteristiche minime indicate dalle disposizioni attuative della presente normativa;
 
 \- la cui conformità è garantita dalla banca negoziatrice attraverso il rispetto delle medesime caratteristiche minime;
 
-d)
+d) “Intermediario”: i soggetti di cui alle lettere b), e) ed f);
 
-“Intermediario”: i soggetti di cui alle lettere b), e) ed f);
-
-e)
-
-“Negoziatore”: la banca o altro soggetto sammarinese abilitato alla negoziazione di un assegno a seguito di girata per l’incasso;
+e) “Negoziatore”: la banca o altro soggetto sammarinese abilitato alla negoziazione di un assegno a seguito di girata per l’incasso;
 
 f) “Trattario”: la banca o altro soggetto sammarinese presso cui è detenuto il conto di traenza dell’assegno.
 
@@ -6029,101 +5741,67 @@ f) “Trattario”: la banca o altro soggetto sammarinese presso cui è detenuto
 
 (Ambito di applicazione)
 
-1.
+1\. La presente disciplina si applica agli intermediari che si avvalgono della facoltà di cui all’articolo 4.
 
-La presente disciplina si applica agli intermediari che si avvalgono della facoltà di cui all’articolo 4.
+2\. La presente normativa può essere applicata anche ad assegni e a titoli di credito a questi assimilabili tratti su un intermediario estero e negoziati su di un intermediario, o viceversa, nel presupposto di sostanziale assimilazione della presente normativa sammarinese con quella estera, fermo restando l’obbligo in capo agli intermediari sammarinesi di rispettare le regole di accesso, eventualmente in modalità pattizia, al sistema dei pagamenti forense utilizzato per la negoziazione di assegni fra i due paesi.
 
-2.
-
-La presente normativa può essere applicata anche ad assegni e a titoli di credito a questi assimilabili tratti su un intermediario estero e negoziati su di un intermediario, o viceversa, nel presupposto di sostanziale assimilazione della presente normativa sammarinese con quella estera, fermo restando l’obbligo in capo agli intermediari sammarinesi di rispettare le regole di accesso, eventualmente in modalità pattizia, al sistema dei pagamenti forense utilizzato per la negoziazione di assegni fra i due paesi.
-
-3.
-
-Le disposizioni di cui al presente decreto-legge possono applicarsi, in quanto compatibili, anche agli assegni presentati per il pagamento in forma cartacea quando il trattario o l’emittente coincide con il negoziatore.
+3\. Le disposizioni di cui al presente decreto-legge possono applicarsi, in quanto compatibili, anche agli assegni presentati per il pagamento in forma cartacea quando il trattario o l’emittente coincide con il negoziatore.
 
 ##### Art. 4
 
 (Presentazione in forma elettronica dell’assegno)
 
-1.
+1\. Il negoziatore può presentare l’assegno per il pagamento al trattario o all’emittente in formato elettronico nelle modalità di cui alla disciplina attuativa della presente normativa.
 
-Il negoziatore può presentare l’assegno per il pagamento al trattario o all’emittente in formato elettronico nelle modalità di cui alla disciplina attuativa della presente normativa.
-
-2.
-
-La presentazione di cui al comma 1 deve intendersi compiuta nel momento in cui il trattario o l’emittente ricevono l’immagine dell’assegno e/o le ulteriori informazioni eventualmente imposte dalla normativa secondaria.
+2\. La presentazione di cui al comma 1 deve intendersi compiuta nel momento in cui il trattario o l’emittente ricevono l’immagine dell’assegno e/o le ulteriori informazioni eventualmente imposte dalla normativa secondaria.
 
 ##### Art. 5
 
 (Tempi di presentazione)
 
-1.
+1\. Il negoziatore deve presentare l’assegno per il pagamento al trattario o all’emittente entro il giorno lavorativo successivo a quello in cui l’assegno gli è stato girato per l’incasso.
 
-Il negoziatore deve presentare l’assegno per il pagamento al trattario o all’emittente entro il giorno lavorativo successivo a quello in cui l’assegno gli è stato girato per l’incasso.
-
-2.
-
-Nel caso in cui la presentazione all’incasso avvenga in assenza dell’immagine dell’assegno, ma esclusivamente con le informazioni sostitutive dell’immagine menzionata come da possibile ipotesi di cui al precedente articolo 4 comma 2, il negoziatore, al fine di consentire i controlli di regolarità dell’assegno, deve trasmettere al trattario o all’emittente, previa richiesta di questi ultimi, l’immagine dell’assegno non oltre il giorno lavorativo successivo a quello di presentazione.
+2\. Nel caso in cui la presentazione all’incasso avvenga in assenza dell’immagine dell’assegno, ma esclusivamente con le informazioni sostitutive dell’immagine menzionata come da possibile ipotesi di cui al precedente articolo 4 comma 2, il negoziatore, al fine di consentire i controlli di regolarità dell’assegno, deve trasmettere al trattario o all’emittente, previa richiesta di questi ultimi, l’immagine dell’assegno non oltre il giorno lavorativo successivo a quello di presentazione.
 
 ##### Art. 6
 
 (Protesto)
 
-1.
+1\. In caso di mancato pagamento di un assegno presentato per il pagamento in formato elettronico, il protesto previsto al primo comma della Legge 24 novembre 1970 n.47 e successive modifiche ed integrazioni, può essere richiesto solo in via telematica.
 
-In caso di mancato pagamento di un assegno presentato per il pagamento in formato elettronico, il protesto previsto al primo comma della Legge 24 novembre 1970 n.47 e successive modifiche ed integrazioni, può essere richiesto solo in via telematica.
+2\. Nei casi di cui al comma 1, il pubblico ufficiale incaricato redige il protesto esclusivamente sulla base dell’immagine dell’assegno e/o delle relative informazioni ricevute in via telematica, sottoscrivendolo, in deroga ed a integrazione delle modalità di cui alla Legge 30 aprile 2014 n.73, mediante utilizzo di firma digitale.
 
-2.
-
-Nei casi di cui al comma 1, il pubblico ufficiale incaricato redige il protesto esclusivamente sulla base dell’immagine dell’assegno e/o delle relative informazioni ricevute in via telematica, sottoscrivendolo, in deroga ed a integrazione delle modalità di cui alla Legge 30 aprile 2014 n.73, mediante utilizzo di firma digitale.
-
-3.
-
-Il portatore dell’assegno riceve copie analogiche degli:
+3\. Il portatore dell’assegno riceve copie analogiche degli:
 
 \- assegni presentati per il pagamento in formato elettronico;
 
 \- eventuali documenti che ne attestano il mancato pagamento.
 
-4.
-
-Per cause di forza maggiore gli adempimenti di cui ai commi 1 e 2 possono essere predisposti mediante modalità diverse da quella telematica.
+4\. Per cause di forza maggiore gli adempimenti di cui ai commi 1 e 2 possono essere predisposti mediante modalità diverse da quella telematica.
 
 ##### Art. 7
 
 (Validità della documentazione)
 
-1.
+1\. La documentazione in formato elettronico prodotta ai sensi del presente decreto-legge e della relativa normativa attuativa per il pagamento e la conservazione dell’assegno, nonché per l’elevazione dell’eventuale protesto, è valida e rilevante a tutti gli effetti di legge.
 
-La documentazione in formato elettronico prodotta ai sensi del presente decreto-legge e della relativa normativa attuativa per il pagamento e la conservazione dell’assegno, nonché per l’elevazione dell’eventuale protesto, è valida e rilevante a tutti gli effetti di legge.
+2\. Le attività inerenti la dematerializzazione di cui al comma 1 possono essere esternalizzate.
 
-2.
-
-Le attività inerenti la dematerializzazione di cui al comma 1 possono essere esternalizzate.
-
-3.
-
-Restano invariate le modalità comunicative fra il pubblico ufficiale e le autorità preposte alla gestione del protesto. 3 bis. Ai fini e per gli effetti dell’articolo 206 del Codice Penale, nonché dell’articolo 15-ter della Legge 17 giugno 1994 n.55 introdotto con l’articolo 4 della Legge 30 aprile 2002 n.59 e per ogni altro fine ed effetto di legge, il pubblico ufficiale rilascia copia analogica del protesto, comprensiva dell’immagine dell’assegno, sulla quale il notaio dovrà apporre attestazione di conformità all’originale del documento già redatto elettronicamente.
+3\. Restano invariate le modalità comunicative fra il pubblico ufficiale e le autorità preposte alla gestione del protesto. 3 bis. Ai fini e per gli effetti dell’articolo 206 del Codice Penale, nonché dell’articolo 15-ter della Legge 17 giugno 1994 n.55 introdotto con l’articolo 4 della Legge 30 aprile 2002 n.59 e per ogni altro fine ed effetto di legge, il pubblico ufficiale rilascia copia analogica del protesto, comprensiva dell’immagine dell’assegno, sulla quale il notaio dovrà apporre attestazione di conformità all’originale del documento già redatto elettronicamente.
 
 ##### Art. 8
 
 (Responsabilità e sicurezza)
 
-1.
+1\. Gli intermediari devono adottare adeguati presidi al fine di garantire la sicurezza e la correttezza delle fasi riguardanti gli adempimenti di cui al presente decreto-legge e relativa normativa attuativa.
 
-Gli intermediari devono adottare adeguati presidi al fine di garantire la sicurezza e la correttezza delle fasi riguardanti gli adempimenti di cui al presente decreto-legge e relativa normativa attuativa.
-
-2.
-
-L’intermediario è responsabile per quanto previsto dal comma 1 anche nel caso in cui le relative attività vengano esternalizzate a un soggetto terzo.
+2\. L’intermediario è responsabile per quanto previsto dal comma 1 anche nel caso in cui le relative attività vengano esternalizzate a un soggetto terzo.
 
 ##### Art. 9
 
 (Riservatezza dei dati)
 
-1.
-
-Il rispetto della presente disciplina libera gli intermediari dall’osservanza delle ulteriori disposizioni previste nella Legge 23 maggio 1995 n. 70 e successive
+1\. Il rispetto della presente disciplina libera gli intermediari dall’osservanza delle ulteriori disposizioni previste nella Legge 23 maggio 1995 n. 70 e successive
 
 modifiche, a protezione della riservatezza dei dati, inclusa quella di cui all’ultimo comma dell’articolo 4 della suddetta norma.
 
@@ -6131,9 +5809,7 @@ modifiche, a protezione della riservatezza dei dati, inclusa quella di cui all�
 
 (Attuazione della presente disciplina)
 
-1.
-
-Con regolamento emanato da Banca Centrale della Repubblica di San Marino potranno essere definite:
+1\. Con regolamento emanato da Banca Centrale della Repubblica di San Marino potranno essere definite:
 
 \- l’attuazione effettiva della presente normativa, anche con tempi differenziati a seconda della circostanza, da un lato che l’assegno venga tratto e negoziato in San Marino oppure, dall’altro, venga tratto in San Marino e negoziato all’estero o viceversa;
 
@@ -6145,13 +5821,9 @@ Con regolamento emanato da Banca Centrale della Repubblica di San Marino potrann
 
 (Norma finale)
 
-1.
+1\. Con provvedimento della Banca Centrale è fissata la data della piena operatività del pagamento dell’assegno e della elevazione del protesto in formato elettronico.
 
-Con provvedimento della Banca Centrale è fissata la data della piena operatività del pagamento dell’assegno e della elevazione del protesto in formato elettronico.
-
-2.
-
-Sono fatti salvi gli effetti del Decreto - Legge 12 giugno 2017 n. 60.
+2\. Sono fatti salvi gli effetti del Decreto - Legge 12 giugno 2017 n. 60.
 
 LEGGE 12 dicembre 2018 n.167 DISCIPLINA DELLA FRODE SPORTIVA E DELL’ABUSIVO ESERCIZIO DI GIUOCO O DI SCOMMESSA
 
@@ -6161,27 +5833,19 @@ MODIFICHE ALLA LEGGE 30 SETTEMBRE 2015 N.149 “DISCIPLINA DELL’ATTIVITÀ SPOR
 
 ##### Art. 3
 
-1.
-
-Dopo l’articolo 60 della Legge 30 settembre 2015 n.149 sono aggiunti gli articoli 60-bis e 60-ter:
+1\. Dopo l’articolo 60 della Legge 30 settembre 2015 n.149 sono aggiunti gli articoli 60-bis e 60-ter:
 
 “Art. 60-bis (Rapporti fra Giustizia Sportiva e Giustizia Ordinaria)
 
-1.
+1\. L’esercizio dell’azione penale e la sentenza che definisce il relativo giudizio non influiscono sull’omologazione delle gare né su ogni altro provvedimento di competenza degli organi sportivi. L’avvio dell’azione penale non interrompe, influenza o sospende il procedimento disciplinare sportivo.
 
-L’esercizio dell’azione penale e la sentenza che definisce il relativo giudizio non influiscono sull’omologazione delle gare né su ogni altro provvedimento di competenza degli organi sportivi. L’avvio dell’azione penale non interrompe, influenza o sospende il procedimento disciplinare sportivo.
-
-2.
-
-Gli organi inquirenti e requirenti della giustizia sportiva, ai fini esclusivi della propria competenza funzionale, possono chiedere copia degli atti formati o acquisiti nell’ambito di procedimenti penali.
+2\. Gli organi inquirenti e requirenti della giustizia sportiva, ai fini esclusivi della propria competenza funzionale, possono chiedere copia degli atti formati o acquisiti nell’ambito di procedimenti penali.
 
 ##### Art. 60-ter
 
 (Obbligo di denuncia)
 
-1.
-
-I Presidenti delle Federazioni Sportive Nazionali (FSN) o delle Discipline Sportive Associate (DSA) riconosciute e affiliate al Comitato Olimpico Nazionale Sammarinese (CONS) o degli altri enti o associazioni sportive, nonché i rispettivi organi inquirenti e requirenti, che nell’esercizio o a causa delle loro funzioni hanno notizia del misfatto di cui all’articolo 204-quinquies del Codice Penale, sono obbligati a farne denuncia all’Autorità Giudiziaria.”.
+1\. I Presidenti delle Federazioni Sportive Nazionali (FSN) o delle Discipline Sportive Associate (DSA) riconosciute e affiliate al Comitato Olimpico Nazionale Sammarinese (CONS) o degli altri enti o associazioni sportive, nonché i rispettivi organi inquirenti e requirenti, che nell’esercizio o a causa delle loro funzioni hanno notizia del misfatto di cui all’articolo 204-quinquies del Codice Penale, sono obbligati a farne denuncia all’Autorità Giudiziaria.”.
 
 ### TITOLO III
 
@@ -6189,27 +5853,19 @@ MODIFICA ALLA LEGGE 25 LUGLIO 2000 N.67 “DISCIPLINA PER L’ESERCIZIO DEI GIOC
 
 ##### Art. 4
 
-1.
-
-L’articolo 16 della Legge 25 luglio 2000 n. 67 e successive modifiche è sostituito dal seguente articolo:
+1\. L’articolo 16 della Legge 25 luglio 2000 n. 67 e successive modifiche è sostituito dal seguente articolo:
 
 “Art. 16 (Esercizio abusivo di attività di giuoco o di scommessa)
 
-1.
-
-È punito con la prigionia e con l’interdizione di secondo grado, chiunque, senza autorizzazione:
+1\. È punito con la prigionia e con l’interdizione di secondo grado, chiunque, senza autorizzazione:
 
 a) organizza, gestisce o esercita, anche a distanza, giochi, concorsi a premi, lotterie, lotto, giochi della sorte ed abilità e scommesse o concorsi pronostici su competizioni sportive o su altre attività che la legge riserva ad ente autorizzato;
 
 b) raccoglie la prenotazione di giocate e l’accreditamento delle relative vincite, la promozione e la pubblicità effettuate con qualunque mezzo di diffusione.
 
-2.
+2\. Se i fatti di cui al comma 1 sono commessi dai soggetti di cui all’articolo 5 della presente legge, si applicano la prigionia e l’interdizione di terzo grado nonché la multa.
 
-Se i fatti di cui al comma 1 sono commessi dai soggetti di cui all’articolo 5 della presente legge, si applicano la prigionia e l’interdizione di terzo grado nonché la multa.
-
-3.
-
-È punito con la prigionia di primo grado e con la multa chiunque partecipa a concorsi, giuochi, scommesse gestiti con le modalità di cui al comma 1, fuori dei casi di concorso in uno dei reati previsti dal medesimo.”.
+3\. È punito con la prigionia di primo grado e con la multa chiunque partecipa a concorsi, giuochi, scommesse gestiti con le modalità di cui al comma 1, fuori dei casi di concorso in uno dei reati previsti dal medesimo.”.
 
 DECRETO – LEGGE 22 settembre 2020 n.154 (Ratifica Decreto - Legge 10 settembre 2020 n.148)
 
@@ -6217,29 +5873,21 @@ DISPOSIZIONI IN MATERIA DI LOTTA AL TERRORISMO - MODIFICHE AL CODICE PENALE
 
 ##### Art. 6
 
-1.
-
-La conoscenza, l’intenzione o la finalità dell’autore dei reati di terrorismo sono dedotte da circostanze di fatto obiettive.
+1\. La conoscenza, l’intenzione o la finalità dell’autore dei reati di terrorismo sono dedotte da circostanze di fatto obiettive.
 
 ##### Art. 7
 
-1.
-
-Ai fini della applicazione delle norme in materia di prevenzione e repressione dei reati di terrorismo, valgono le definizioni contenute all’articolo 1 della Legge 17 giugno 2008 n. 92 e successive modifiche.
+1\. Ai fini della applicazione delle norme in materia di prevenzione e repressione dei reati di terrorismo, valgono le definizioni contenute all’articolo 1 della Legge 17 giugno 2008 n. 92 e successive modifiche.
 
 ##### Art. 9
 
-1.
-
-Nel bilancio dello Stato, tra i capitoli di spesa di pertinenza del Dipartimento Affari Istituzionali e Giustizia, è istituito un Fondo per l’assistenza finanziaria alle vittime di atti di terrorismo, implementato tempestivamente in casi di necessità.
+1\. Nel bilancio dello Stato, tra i capitoli di spesa di pertinenza del Dipartimento Affari Istituzionali e Giustizia, è istituito un Fondo per l’assistenza finanziaria alle vittime di atti di terrorismo, implementato tempestivamente in casi di necessità.
 
 Possono accedere al Fondo le vittime di atti di terrorismo, consumati o tentati sul territorio della Repubblica e accertati da provvedimento definitivo dell’Autorità Giudiziaria.
 
 ##### Art. 10
 
-1.
-
-In tutte le disposizioni vigenti, il richiamo all’articolo 337-bis del Codice Penale deve essere inteso come riferito all’articolo 340-octies del Codice Penale, mentre il richiamo all’articolo 337-ter del Codice Penale deve essere inteso come riferito all’articolo 340-decies del Codice Penale.
+1\. In tutte le disposizioni vigenti, il richiamo all’articolo 337-bis del Codice Penale deve essere inteso come riferito all’articolo 340-octies del Codice Penale, mentre il richiamo all’articolo 337-ter del Codice Penale deve essere inteso come riferito all’articolo 340-decies del Codice Penale.
 
 LEGGE 1 FEBBRAIO 2021 n.16 MODIFICHE AL CODICE PENALE – INTRODUZIONE DEL REATO DI DIFFUSIONE ILLECITA DI IMMAGINI O VIDEO SESSUALMENTE ESPLICITI (REVENGE PORN)
 
@@ -6247,21 +5895,15 @@ LEGGE 1 FEBBRAIO 2021 n.16 MODIFICHE AL CODICE PENALE – INTRODUZIONE DEL REATO
 
 (Finalità)
 
-1.
-
-La norma ha lo scopo di introdurre nel Codice Penale un'autonoma figura delittuosa per reprimere il fenomeno di divulgazione illecita di immagini o video sessualmente espliciti, anche in ottemperanza alle disposizioni della Convenzione del Consiglio d'Europa sulla prevenzione e la lotta contro la violenza delle donne e la violenza domestica dell'11 maggio 2011 e della Legge 20 giugno 2008 n. 97 e successive modifiche.
+1\. La norma ha lo scopo di introdurre nel Codice Penale un'autonoma figura delittuosa per reprimere il fenomeno di divulgazione illecita di immagini o video sessualmente espliciti, anche in ottemperanza alle disposizioni della Convenzione del Consiglio d'Europa sulla prevenzione e la lotta contro la violenza delle donne e la violenza domestica dell'11 maggio 2011 e della Legge 20 giugno 2008 n. 97 e successive modifiche.
 
 ##### Art.3
 
 (Tutela delle vittime del reato di diffusione illecita di immagini o video sessualmente espliciti)
 
-1.
+1\. Al misfatto di cui all'articolo 2 della presente legge si applicano, ove compatibili, le disposizioni contenute nei Capi I e III della Legge 20 giugno 2008 n.97 e successive modifiche.
 
-Al misfatto di cui all'articolo 2 della presente legge si applicano, ove compatibili, le disposizioni contenute nei Capi I e III della Legge 20 giugno 2008 n.97 e successive modifiche.
-
-2.
-
-Il lavoratore subordinato non può essere soggetto a provvedimenti di licenziamento o comunque sanzionatori se addottati perché vittima del reato di cui all’articolo 2 della presente legge.
+2\. Il lavoratore subordinato non può essere soggetto a provvedimenti di licenziamento o comunque sanzionatori se addottati perché vittima del reato di cui all’articolo 2 della presente legge.
 
 LEGGE 23 giugno 2021 n.113 DISCIPLINA DELLA COLTIVAZIONE, TRASFORMAZIONE, COMMERCIO E UTILIZZO DI PRODOTTI A BASE DI CANNABIS DESTINATI ESCLUSIVAMENTE AD USO MEDICINALE O TERAPEUTICO
 
@@ -6269,9 +5911,7 @@ LEGGE 23 giugno 2021 n.113 DISCIPLINA DELLA COLTIVAZIONE, TRASFORMAZIONE, COMMER
 
 (Depenalizzazione - Abrogazioni)
 
-1.
-
-Restano salve tutte le previsioni di punibilità contenute nel Codice Penale e nella Legge 26 novembre 1997 n.139 e successive modifiche in materia di sostanze stupefacenti, fatti salvi i casi di produzione, utilizzo, trattamento e commercio della cannabis ai sensi della presente legge e di prescrizione sanitaria rilasciata o riconosciuta efficace dall’Istituto per la Sicurezza Sociale, come previsto dall’articolo 1, secondo comma, della Legge n.139/1997 e successive modifiche.
+1\. Restano salve tutte le previsioni di punibilità contenute nel Codice Penale e nella Legge 26 novembre 1997 n.139 e successive modifiche in materia di sostanze stupefacenti, fatti salvi i casi di produzione, utilizzo, trattamento e commercio della cannabis ai sensi della presente legge e di prescrizione sanitaria rilasciata o riconosciuta efficace dall’Istituto per la Sicurezza Sociale, come previsto dall’articolo 1, secondo comma, della Legge n.139/1997 e successive modifiche.
 
 LEGGE 5 novembre 2025 n.137 DISCIPLINA DEI CONTRASSEGNI “MADE IN SAN MARINO” E “100% MADE IN SAN MARINO” E REGISTRO DELLE “BOTTEGHE STORICHE”
 
@@ -6279,6 +5919,4 @@ LEGGE 5 novembre 2025 n.137 DISCIPLINA DEI CONTRASSEGNI “MADE IN SAN MARINO”
 
 (Disposizioni penali)
 
-1.
-
-Chiunque fabbrica, contraffà, altera, mette in circolazione, utilizza impropriamente, acquista o detiene per metterli in circolazione i contrassegni “Made in San Marino”, “100% Made in San Marino” o la grafica attestante il logo di “Bottega Storica”, senza esserne autorizzato ovvero in violazione delle disposizioni previste dalla presente legge, è punito ai sensi dell’articolo 308 del Codice Penale.
+1\. Chiunque fabbrica, contraffà, altera, mette in circolazione, utilizza impropriamente, acquista o detiene per metterli in circolazione i contrassegni “Made in San Marino”, “100% Made in San Marino” o la grafica attestante il logo di “Bottega Storica”, senza esserne autorizzato ovvero in violazione delle disposizioni previste dalla presente legge, è punito ai sensi dell’articolo 308 del Codice Penale.

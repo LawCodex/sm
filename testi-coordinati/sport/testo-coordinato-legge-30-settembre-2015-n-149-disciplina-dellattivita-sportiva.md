@@ -1163,9 +1163,7 @@ DISPOSIZIONI TECNICO-AMMINISTRATIVE E PERSONALE CONS
 
 1\. Il CONS, per l’esercizio delle sue funzioni, si avvale di norma di personale con rapporto di lavoro di pubblico impiego o con altre forme di contratto regolamentate dalla Pubblica Amministrazione.
 
-2.
-
-Il CONS, inoltre, per quanto previsto nell’ambito della mobilità inter/intradipartimentale e dei distacchi amministrativi, per le collaborazioni necessarie può avvalersi di altro personale in forza alla Pubblica Amministrazione, Enti Pubblici e società private a partecipazione statale, su apposita richiesta del Comitato Esecutivo, per la gestione e l’organizzazione di eventi di particolare rilevanza e per progetti di sviluppo sportivo di cui all’articolo 47 o in relazione all’attuazione del programma di politica quadriennale approvato dal Consiglio Nazionale.
+2\. Il CONS, inoltre, per quanto previsto nell’ambito della mobilità inter/intradipartimentale e dei distacchi amministrativi, per le collaborazioni necessarie può avvalersi di altro personale in forza alla Pubblica Amministrazione, Enti Pubblici e società private a partecipazione statale, su apposita richiesta del Comitato Esecutivo, per la gestione e l’organizzazione di eventi di particolare rilevanza e per progetti di sviluppo sportivo di cui all’articolo 47 o in relazione all’attuazione del programma di politica quadriennale approvato dal Consiglio Nazionale.
 
 3\. Durante il periodo di distacco amministrativo i dipendenti interessati mantengono tutti i diritti presenti e futuri legati alle rispettive posizioni di ruolo nella Pubblica Amministrazione o nei Corpi militari, negli Enti Pubblici e nelle società private a partecipazione statale. Per tutta la durata del distacco amministrativo non è corrisposta ogni eventuale indennità di funzione propria della posizione lavorativa di provenienza.
 

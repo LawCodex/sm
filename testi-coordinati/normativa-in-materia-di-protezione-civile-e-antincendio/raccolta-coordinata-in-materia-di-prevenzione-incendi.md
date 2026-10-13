@@ -71,11 +71,9 @@ m) “responsabile dell’attività soggetta alle visite e ai controlli di preve
 
 1\. Ai fini della mitigazione del rischio incendio gli strumenti urbanistici di attuazione della Legge 29 gennaio 1992 n.7 e successive modifiche devono considerare il pericolo incendio sul territorio.
 
-2\. La progettazione antincendio delle attività soggette di cui all’articolo 2, comma 1, lettera b) dovrà attenersi alle modalità riportate nel decreto delegato previsto all’articolo 8.
+2\. La progettazione antincendio delle attività soggette di cui all’articolo 2, comma 1, lettera b) dovrà attenersi alle modalità riportate nel decreto delegato previsto all’articolo
 
-### Art. 4
-
-(Norme di riferimento – Metodologia per la progettazione antincendio)
+8\. Art. 4 (Norme di riferimento – Metodologia per la progettazione antincendio)
 
 1\. La progettazione antincendio fa riferimento alle norme tecniche vigenti in Italia in materia di prevenzione incendi siano esse:
 
@@ -593,11 +591,9 @@ b) planimetria in scala da 1:100 a 1:500, a seconda della dimensione dell’edif
 
 c) eventuali sezioni e prospetti degli edifici per particolari esigenze di rappresentazione;
 
-d) in riferimento agli edifici di cui al punto 73 dell’Allegato I al presente decreto delegato è prevista la presentazione di un unico fascicolo di intervento di tutto il complesso composto da una scheda informativa generale per ogni attività distinta e planimetrie generali e di piano comuni, riferite a tutte le attività, o alternativamente, i fascicoli di intervento delle singole unità costituenti l’edificio. In ogni caso è prevista la presentazione dei fascicoli di intervento di una o più unità che fanno parte dei suddetti edifici nel caso rientrino nell’Allegato I con riferimento agli altri punti diversi dal punto 73.
+d) in riferimento agli edifici di cui al punto 73 dell’Allegato I al presente decreto delegato è prevista la presentazione di un unico fascicolo di intervento di tutto il complesso composto da una scheda informativa generale per ogni attività distinta e planimetrie generali e di piano comuni, riferite a tutte le attività, o alternativamente, i fascicoli di intervento delle singole unità costituenti l’edificio. In ogni caso è prevista la presentazione dei fascicoli di intervento di una o più unità che fanno parte dei suddetti edifici nel caso rientrino nell’Allegato I con riferimento agli altri punti diversi dal punto
 
-### Art. 17
-
-(Obbligo di redazione, trasmissione, conservazione ed aggiornamento del fascicolo di intervento)
+73\. Art. 17 (Obbligo di redazione, trasmissione, conservazione ed aggiornamento del fascicolo di intervento)
 
 1\. Il responsabile dell’attività ha l’obbligo di redigere e trasmettere al SPI il fascicolo di intervento, in formato sia cartaceo (due copie) che elettronico.
 

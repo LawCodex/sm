@@ -296,11 +296,9 @@ LEGGE 21 DICEMBRE 2018 n.171 PROTEZIONE DELLE PERSONE FISICHE CON RIGUARDO AL TR
 
 4\. La disposizione di cui al comma 2 si applica anche ai dati personali raccolti e conservati nel Casellario Giudiziario.
 
-5\. La disposizione di cui al comma 2 non si applica ai dati di cui all’articolo 8, comma 1.
+5\. La disposizione di cui al comma 2 non si applica ai dati di cui all’articolo 8, comma
 
-### Art.128
-
-(Norme finali e abrogazioni)
+1\. Art.128 (Norme finali e abrogazioni)
 
 1\. Sono abrogate tutte le norme in contrasto con la presente legge ed in particolare:
 

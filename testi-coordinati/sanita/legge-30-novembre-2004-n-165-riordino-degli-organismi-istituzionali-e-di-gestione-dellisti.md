@@ -50,15 +50,7 @@ Ai fini della presente legge si intende:
 
 I soggetti del sistema sanitario e socio sanitario sono:
 
-1.
-
-2.
-
-3.
-
-4.
-
-Istituto per la Sicurezza Sociale - brev. I.S.S. (cfr. Titolo II - Capo I)
+4\. Istituto per la Sicurezza Sociale - brev. I.S.S. (cfr. Titolo II - Capo I)
 
 Consulta Sociale e Sanitaria - brev. Consulta (cfr. Titolo II - Capo II)
 

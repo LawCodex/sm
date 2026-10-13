@@ -923,9 +923,7 @@ FINALITÀ
 
 (Scopo)
 
-1.
-
-La presente legge definisce le condizioni, le modalità e le procedure per accedere al contributo statale volto a sostenere i nuclei familiari residenti sul territorio della Repubblica di San Marino al fine di soddisfarne le esigenze abitative in territorio.
+1\. La presente legge definisce le condizioni, le modalità e le procedure per accedere al contributo statale volto a sostenere i nuclei familiari residenti sul territorio della Repubblica di San Marino al fine di soddisfarne le esigenze abitative in territorio.
 
 ## TITOLO II
 
@@ -935,21 +933,15 @@ CONTRIBUTO STATALE
 
 (Definizione di nucleo familiare)
 
-1.
+1\. Il nucleo familiare, beneficiario del contributo statale, è quello risultante dal certificato di stato di famiglia rilasciato dall’Ufficio di Stato Civile della Repubblica di San Marino. Si considera componente del nucleo familiare il coniuge fino alla pronuncia di separazione giudiziale o alla data di omologazione di separazione consensuale.
 
-Il nucleo familiare, beneficiario del contributo statale, è quello risultante dal certificato di stato di famiglia rilasciato dall’Ufficio di Stato Civile della Repubblica di San Marino. Si considera componente del nucleo familiare il coniuge fino alla pronuncia di separazione giudiziale o alla data di omologazione di separazione consensuale.
-
-2.
-
-Qualora, in sede di verifica e controllo dei requisiti ai sensi degli articoli 12 e 16, l’Ufficio del Lavoro accerti la variazione della composizione del nucleo familiare intervenuta successivamente alla presentazione della domanda, la valutazione della sussistenza dei requisiti per l’ammissione al beneficio o per il suo mantenimento è effettuata tenuto conto della medesima variazione.
+2\. Qualora, in sede di verifica e controllo dei requisiti ai sensi degli articoli 12 e 16, l’Ufficio del Lavoro accerti la variazione della composizione del nucleo familiare intervenuta successivamente alla presentazione della domanda, la valutazione della sussistenza dei requisiti per l’ammissione al beneficio o per il suo mantenimento è effettuata tenuto conto della medesima variazione.
 
 ##### Art. 3
 
 (Aventi diritto al contributo dello Stato)
 
-1.
-
-Può accedere al contributo dello Stato il cittadino sammarinese e il forense avente residenza anagrafica ed effettiva da almeno cinque anni nella Repubblica di San Marino ai sensi della normativa vigente in materia, anche in qualità di socio di Cooperative di Abitazione regolarmente iscritte al Pubblico Registro, che versi nelle seguenti condizioni:
+1\. Può accedere al contributo dello Stato il cittadino sammarinese e il forense avente residenza anagrafica ed effettiva da almeno cinque anni nella Repubblica di San Marino ai sensi della normativa vigente in materia, anche in qualità di socio di Cooperative di Abitazione regolarmente iscritte al Pubblico Registro, che versi nelle seguenti condizioni:
 
 a) abbia un’età compresa fra i 18 ed i 60 anni al momento della richiesta del contributo;
 
@@ -971,29 +963,17 @@ Possono accedere ai contributi di cui al comma 1 il titolare ovvero i titolari d
 
 Possono accedere ai contributi di cui al comma 1 il titolare/i titolari della quota di almeno il 50 per cento della piena proprietà o nuda proprietà o usufrutto di un immobile, unitamente o disgiuntamente.
 
-2.
+2\. Il reddito di un nucleo familiare composto da più di due persone è calcolato sommando al reddito di cui al punto c2) del precedente comma 1 l’importo di euro 10.000,00 pro-capite per ogni ulteriore componente. Tale importo non viene cumulato agli eventuali ulteriori redditi percepiti dai componenti del nucleo familiare, qualora gli stesso siano di ammontare annuo inferiore ad euro 10.000,00.
 
-Il reddito di un nucleo familiare composto da più di due persone è calcolato sommando al reddito di cui al punto c2) del precedente comma 1 l’importo di euro 10.000,00 pro-capite per ogni ulteriore componente. Tale importo non viene cumulato agli eventuali ulteriori redditi percepiti dai componenti del nucleo familiare, qualora gli stesso siano di ammontare annuo inferiore ad euro 10.000,00.
+3\. Il reddito netto medio annuo è calcolato sulla base della dichiarazione dei redditi presentata dai componenti il nucleo familiare.
 
-3.
+4\. Per fabbricato adeguato alle esigenze abitative si intende un alloggio con una superficie totale di almeno mq. 30 in caso di nucleo familiare formato da un unico componente, oltre a mq. 15 per ogni ulteriore membro facente parte del nucleo familiare.
 
-Il reddito netto medio annuo è calcolato sulla base della dichiarazione dei redditi presentata dai componenti il nucleo familiare.
+5\. Per superficie totale si intende la superficie calpestabile dell’unità immobiliare, inclusi locali di deposito, locali accessori e bagni, sommata al 50 per cento di quella di balconi e portici, con la sola esclusione di vani scala comuni ad altre unità immobiliari, di cantine e garage. La superficie dei locali ad uso cantina e ad uso garage non può superare rispettivamente la percentuale del 15 per cento e del 70 per cento di quella dell’abitazione.
 
-4.
+6\. Il contributo statale può essere erogato all’avente diritto una sola volta.
 
-Per fabbricato adeguato alle esigenze abitative si intende un alloggio con una superficie totale di almeno mq. 30 in caso di nucleo familiare formato da un unico componente, oltre a mq. 15 per ogni ulteriore membro facente parte del nucleo familiare.
-
-5.
-
-Per superficie totale si intende la superficie calpestabile dell’unità immobiliare, inclusi locali di deposito, locali accessori e bagni, sommata al 50 per cento di quella di balconi e portici, con la sola esclusione di vani scala comuni ad altre unità immobiliari, di cantine e garage. La superficie dei locali ad uso cantina e ad uso garage non può superare rispettivamente la percentuale del 15 per cento e del 70 per cento di quella dell’abitazione.
-
-6.
-
-Il contributo statale può essere erogato all’avente diritto una sola volta.
-
-7.
-
-Non può accedere al contributo statale chi abbia già beneficiato delle agevolazioni di cui alla Legge 24 aprile 1980 n.32, alla Legge 8 luglio 1981 n.59 e alla Legge 15 dicembre 1994 n.110 e successive modifiche, ad esclusione dei seguenti casi:
+7\. Non può accedere al contributo statale chi abbia già beneficiato delle agevolazioni di cui alla Legge 24 aprile 1980 n.32, alla Legge 8 luglio 1981 n.59 e alla Legge 15 dicembre 1994 n.110 e successive modifiche, ad esclusione dei seguenti casi:
 
 a) i cittadini sammarinesi, i forensi che siano in possesso di residenza anagrafica ed effettiva da almeno cinque anni nella Repubblica di San Marino ai sensi della normativa vigente in materia, ai quali, successivamente alla prima richiesta, sia stata accertata una riduzione della capacità psicofisica pari al 100 per cento di invalidità che renda necessaria una tipologia o dimensione abitativa idonea alle modificate esigenze di vita;
 
@@ -1003,47 +983,33 @@ b) i cittadini sammarinesi, i forensi che siano in possesso di residenza anagraf
 
 I requisiti di cui al comma 7, lettere a) e b), devono risultare da apposita certificazione che, unitamente alle modalità di presentazione delle domande e alla relativa procedura, sono previsti con regolamento del Congresso di Stato.
 
-8.
-
-Non ricade nel divieto di cui al comma che precede il coniuge, non beneficiario diretto del mutuo, che, a seguito di separazione o scioglimento o cessazione degli effetti civili del matrimonio, modifichi la propria residenza. 8 bis.
+8\. Non ricade nel divieto di cui al comma che precede il coniuge, non beneficiario diretto del mutuo, che, a seguito di separazione o scioglimento o cessazione degli effetti civili del matrimonio, modifichi la propria residenza. 8 bis.
 
 Non ricadono in ogni caso nel divieto di accedere al contributo statale di cui alla presente legge l’ex coniuge, l’ex convivente more uxorio o l’ex contraente unione civile, che abbiano modificato la propria residenza formando altro nucleo familiare e siano rimasti privi della titolarità di diritti reali su immobili ad uso abitativo, con conseguente intervenuta estinzione del finanziamento a proprio nome.
 
-9.
-
-Gli importi di cui al superiore comma 1 lettera c) possono essere modificati con decreto delegato.
+9\. Gli importi di cui al superiore comma 1 lettera c) possono essere modificati con decreto delegato.
 
 ##### Art. 3-bis
 
 (Finanziamenti nella forma del contributo in conto interessi a tasso agevolato con garanzia a carico dello Stato in materia di edilizia sovvenzionata)
 
-1.
+1\. Sono concessi finanziamenti nella forma del contributo in conto interessi con garanzia a carico dello Stato per l’acquisto, la costruzione, l’ultimazione, l’ampliamento, la ristrutturazione, il restauro scientifico ed il risanamento conservativo, di fabbricati da adibire a prima abitazione del richiedente, atti a soddisfare le normali esigenze abitative.
 
-Sono concessi finanziamenti nella forma del contributo in conto interessi con garanzia a carico dello Stato per l’acquisto, la costruzione, l’ultimazione, l’ampliamento, la ristrutturazione, il restauro scientifico ed il risanamento conservativo, di fabbricati da adibire a prima abitazione del richiedente, atti a soddisfare le normali esigenze abitative.
-
-2.
-
-Fermi restando i requisiti di cui all’articolo 3, ad esclusione di quelli previsti alle lettere a) e c) del comma 1, possono accedere ai finanziamenti di cui al comma 1 i cittadini sammarinesi e i forensi aventi residenza anagrafica ed effettiva da almeno cinque anni nella Repubblica di San Marino ai sensi della normativa vigente in materia, che abbiano:
+2\. Fermi restando i requisiti di cui all’articolo 3, ad esclusione di quelli previsti alle lettere a) e c) del comma 1, possono accedere ai finanziamenti di cui al comma 1 i cittadini sammarinesi e i forensi aventi residenza anagrafica ed effettiva da almeno cinque anni nella Repubblica di San Marino ai sensi della normativa vigente in materia, che abbiano:
 
 a) età compresa fra i 18 e i 45 anni, al momento della richiesta del contributo;
 
 b) un nucleo familiare con un reddito imponibile pro-capite, riferito all’ultimo triennio, non superiore ad euro 18.000,00 (diciottomila/00).
 
-3.
-
-Possono altresì accedere ai finanziamenti di cui al comma 1 i cittadini sammarinesi e i forensi che siano in possesso di residenza anagrafica ed effettiva da almeno cinque anni nella Repubblica di San Marino, ai sensi della normativa vigente in materia:
+3\. Possono altresì accedere ai finanziamenti di cui al comma 1 i cittadini sammarinesi e i forensi che siano in possesso di residenza anagrafica ed effettiva da almeno cinque anni nella Repubblica di San Marino, ai sensi della normativa vigente in materia:
 
 a) ai quali sia stata accertata una riduzione della capacità psicofisica pari al 100 per cento di invalidità che renda necessaria una tipologia o dimensione abitativa idonea alle modificate esigenze di vita;
 
 b) parenti in linea retta in qualunque grado ed entro il secondo grado in linea collaterale, secondo il computo civile, di soggetto portatore di deficit psicofisico di cui alla lettera a), nel caso in cui la domanda sia finalizzata alla costituzione ovvero adattamento del luogo abitativo per la convivenza con il disabile.
 
-4.
+4\. I requisiti di cui al comma 3, lettere a) e b) devono risultare da apposita certificazione che, unitamente alle modalità di presentazione delle domande e alla relativa procedura, sono previsti con regolamento del Congresso di Stato.
 
-I requisiti di cui al comma 3, lettere a) e b) devono risultare da apposita certificazione che, unitamente alle modalità di presentazione delle domande e alla relativa procedura, sono previsti con regolamento del Congresso di Stato.
-
-5.
-
-Il contributo statale in conto interessi è calcolato sul tasso agevolato, nelle seguenti percentuali:
+5\. Il contributo statale in conto interessi è calcolato sul tasso agevolato, nelle seguenti percentuali:
 
 a) 65 per cento degli interessi per mutui di durata pari o inferiore ad anni venticinque;
 
@@ -1053,23 +1019,15 @@ c) 75 per cento degli interessi per mutui di durata pari o inferiore ad anni qui
 
 d) 80 per cento degli interessi per mutui di durata pari o inferiore ad anni dieci.
 
-6.
-
-Sugli immobili oggetto dei benefici di cui al presente articolo grava, a favore dello Stato, il privilegio di garanzia del prestito e degli interessi con preferenza su ogni altro creditore dalla data di riscossione della prima rata da parte del beneficiario e fino al totale
+6\. Sugli immobili oggetto dei benefici di cui al presente articolo grava, a favore dello Stato, il privilegio di garanzia del prestito e degli interessi con preferenza su ogni altro creditore dalla data di riscossione della prima rata da parte del beneficiario e fino al totale
 
 rimborso del prestito. I predetti immobili non sono cedibili, né per intero né in parte, per atto inter vivos e a qualsiasi titolo, fino all’estinzione del prestito, a pena di decadenza del prestito. La decadenza del prestito è prevista, altresì, in caso di mancato pagamento delle rate di rimborso del mutuo, per un corrispettivo equivalente a sei rate mensili.
 
-7.
+7\. Il beneficiario è tenuto a prestare il proprio consenso per l’accensione del privilegio all’atto della presentazione della domanda, la mancanza del quale è motivo di non accoglimento della stessa.
 
-Il beneficiario è tenuto a prestare il proprio consenso per l’accensione del privilegio all’atto della presentazione della domanda, la mancanza del quale è motivo di non accoglimento della stessa.
+8\. L’iscrizione del privilegio e la relativa cancellazione sono esenti da imposte di bollo, registro e ipotecaria.
 
-8.
-
-L’iscrizione del privilegio e la relativa cancellazione sono esenti da imposte di bollo, registro e ipotecaria.
-
-9.
-
-La cancellazione del privilegio viene eseguita a seguito di comunicazione da parte dell’istituto di credito dell’avvenuta estinzione del mutuo.
+9\. La cancellazione del privilegio viene eseguita a seguito di comunicazione da parte dell’istituto di credito dell’avvenuta estinzione del mutuo.
 
 10\. I finanziamenti di cui al comma 1 devono avere ad oggetto abitazioni che abbiano una superficie totale inferiore a mq. 150, da calcolarsi secondo i disposti di cui all’articolo 3, comma 5, ad eccezione dei casi di cui al comma 3 del presente articolo, il cui limite di superficie dovrà essere compatibile con le necessità di gestione del soggetto disabile come risultanti dalla certificazione di cui al comma 4.
 
@@ -1101,13 +1059,9 @@ b) per i residenti nella Repubblica di San Marino per matrimonio o unione civile
 
 (Copertura finanziaria e definizione del tasso di interesse)
 
-1.
+1\. La Legge di Bilancio, in conformità alle disposizioni di cui alla Legge 18 febbraio 1998 n.30, fissa gli stanziamenti per ciascun esercizio finanziario o per più esercizi a copertura degli oneri per il contributo a carico dello Stato.
 
-La Legge di Bilancio, in conformità alle disposizioni di cui alla Legge 18 febbraio 1998 n.30, fissa gli stanziamenti per ciascun esercizio finanziario o per più esercizi a copertura degli oneri per il contributo a carico dello Stato.
-
-2.
-
-Con decreto delegato o con norma inserita nella Legge di Bilancio di Previsione dello Stato e degli Enti Pubblici è fissato annualmente lo spread massimo, definito come la differenza che intercorre tra il valore del parametro di riferimento ed il tasso di interesse nominale, applicabile ai finanziamenti e leasing immobiliari di cui alla presente legge e concessi nel corso dello stesso anno.
+2\. Con decreto delegato o con norma inserita nella Legge di Bilancio di Previsione dello Stato e degli Enti Pubblici è fissato annualmente lo spread massimo, definito come la differenza che intercorre tra il valore del parametro di riferimento ed il tasso di interesse nominale, applicabile ai finanziamenti e leasing immobiliari di cui alla presente legge e concessi nel corso dello stesso anno.
 
 Lo spread massimo è determinato tenendo conto delle finalità sociali della presente legge e sulla base dell’andamento dei tassi effettivi di mercato comunicato da Banca Centrale della Repubblica di San Marino, sentite le associazioni di categoria del settore bancario e finanziario e le associazioni dei consumatori giuridicamente riconosciute.
 
@@ -1115,57 +1069,33 @@ Lo spread massimo è determinato tenendo conto delle finalità sociali della pre
 
 (Prestiti assistiti dal contributo statale)
 
-1.
+1\. Beneficiari del contributo statale sono i soggetti di cui all’articolo 3.
 
-Beneficiari del contributo statale sono i soggetti di cui all’articolo 3.
+2\. I prestiti assistiti dal contributo statale erogati dagli istituti di credito e dalle società finanziarie hanno, quale finalità l’acquisto, la costruzione di nuove abitazioni, l’ultimazione, l’ampliamento, la ristrutturazione, il restauro scientifico ed il risanamento conservativo di immobili da adibire a prima abitazione del richiedente e del suo nucleo familiare ed adeguati alle esigenze abitative del nucleo stesso ai sensi dell’articolo 3, comma 4, anche tramite stipula di contratto di leasing immobiliare o subentro.
 
-2.
+3\. I prestiti per la ristrutturazione di abitazioni comprese nei Centri Storici, Nuclei Storici di cui alla Legge 29 gennaio 1992 n.7, per la ristrutturazione degli edifici compresi nella Legge 18 settembre 1990 n.103, per il restauro scientifico o risanamento conservativo di immobili compresi nelle zone omogenee “A” di cui all’articolo 33 della Legge 29 gennaio 1992 n.7, nonché per il restauro scientifico o risanamento conservativo degli edifici inseriti a catalogo “A” e “B” di cui alla Legge 18 settembre 1990 n.103 non sono cumulabili e, pertanto, non sono assistiti dal contributo dello Stato ove il richiedente per il medesimo immobile abbia già usufruito dei benefici di cui ai Decreti Delegati 5 maggio 2010 n.86 e 5 maggio 2010 n.87 e di cui alla Legge 15 dicembre 1994 n.110.
 
-I prestiti assistiti dal contributo statale erogati dagli istituti di credito e dalle società finanziarie hanno, quale finalità l’acquisto, la costruzione di nuove abitazioni, l’ultimazione, l’ampliamento, la ristrutturazione, il restauro scientifico ed il risanamento conservativo di immobili da adibire a prima abitazione del richiedente e del suo nucleo familiare ed adeguati alle esigenze abitative del nucleo stesso ai sensi dell’articolo 3, comma 4, anche tramite stipula di contratto di leasing immobiliare o subentro.
+4\. Il contributo di cui al comma 2 non può essere concesso qualora l’immobile oggetto del mutuo sia classificato o classificabile come abitazione di tipo signorile definita A1 secondo le categorie catastali di cui alla normativa vigente.
 
-3.
+5\. Non sono assistiti dal contributo statale i mutui concessi per interventi di manutenzione ordinaria e/o straordinaria.
 
-I prestiti per la ristrutturazione di abitazioni comprese nei Centri Storici, Nuclei Storici di cui alla Legge 29 gennaio 1992 n.7, per la ristrutturazione degli edifici compresi nella Legge 18 settembre 1990 n.103, per il restauro scientifico o risanamento conservativo di immobili compresi nelle zone omogenee “A” di cui all’articolo 33 della Legge 29 gennaio 1992 n.7, nonché per il restauro scientifico o risanamento conservativo degli edifici inseriti a catalogo “A” e “B” di cui alla Legge 18 settembre 1990 n.103 non sono cumulabili e, pertanto, non sono assistiti dal contributo dello Stato ove il richiedente per il medesimo immobile abbia già usufruito dei benefici di cui ai Decreti Delegati 5 maggio 2010 n.86 e 5 maggio 2010 n.87 e di cui alla Legge 15 dicembre 1994 n.110.
+6\. I finanziamenti assistiti dal contributo statale devono avere ad oggetto abitazioni che abbiano una superficie totale inferiore a mq. 200, da calcolarsi secondo i disposti di cui all’articolo 3, comma 5.
 
-4.
+7\. Lo Stato non corrisponde alcun contributo per mutui inferiori ad euro 40.000,00 e superiori ad euro 450.000,00.
 
-Il contributo di cui al comma 2 non può essere concesso qualora l’immobile oggetto del mutuo sia classificato o classificabile come abitazione di tipo signorile definita A1 secondo le categorie catastali di cui alla normativa vigente.
+8\. Il contributo statale è calcolato sull’importo del mutuo effettivamente contratto dal richiedente. Il contributo statale è comunque calcolato sull’importo massimo di euro 250.000,00 (duecentocinquantamila/00), anche qualora il mutuo sia stato contratto per un importo superiore.
 
-5.
-
-Non sono assistiti dal contributo statale i mutui concessi per interventi di manutenzione ordinaria e/o straordinaria.
-
-6.
-
-I finanziamenti assistiti dal contributo statale devono avere ad oggetto abitazioni che abbiano una superficie totale inferiore a mq. 200, da calcolarsi secondo i disposti di cui all’articolo 3, comma 5.
-
-7.
-
-Lo Stato non corrisponde alcun contributo per mutui inferiori ad euro 40.000,00 e superiori ad euro 450.000,00.
-
-8.
-
-Il contributo statale è calcolato sull’importo del mutuo effettivamente contratto dal richiedente. Il contributo statale è comunque calcolato sull’importo massimo di euro 250.000,00 (duecentocinquantamila/00), anche qualora il mutuo sia stato contratto per un importo superiore.
-
-9.
-
-Gli importi di cui ai superiori commi 7 e 8 possono essere modificati con decreto delegato.
+9\. Gli importi di cui ai superiori commi 7 e 8 possono essere modificati con decreto delegato.
 
 ##### Art. 6
 
 (Durata e determinazione del contributo statale)
 
-1.
+1\. Il contributo statale è erogato ed assiste il mutuo per tutta la sua durata che non può superare il periodo massimo di venticinque anni.
 
-Il contributo statale è erogato ed assiste il mutuo per tutta la sua durata che non può superare il periodo massimo di venticinque anni.
+2\. L’importo del contributo è determinato esclusivamente in funzione della durata del mutuo e dei tassi di interesse effettivi medi rilevati annualmente da Banca Centrale della Repubblica di San Marino per mutui stipulati sia a tasso fisso che variabile.
 
-2.
-
-L’importo del contributo è determinato esclusivamente in funzione della durata del mutuo e dei tassi di interesse effettivi medi rilevati annualmente da Banca Centrale della Repubblica di San Marino per mutui stipulati sia a tasso fisso che variabile.
-
-3.
-
-Il contributo statale è calcolato in percentuale agli interessi che assistono il mutuo stesso determinati ai sensi del comma 2 ed è pari a:
+3\. Il contributo statale è calcolato in percentuale agli interessi che assistono il mutuo stesso determinati ai sensi del comma 2 ed è pari a:
 
 a) 65 per cento degli interessi per mutui di durata pari o inferiore ad anni venticinque;
 
@@ -1175,21 +1105,15 @@ c) 75 per cento degli interessi per mutui di durata pari o inferiore ad anni qui
 
 d) 80 per cento degli interessi per mutui di durata pari o inferiore ad anni dieci.
 
-4.
+4\. Il contributo statale, erogato con cadenza annuale, viene determinato sulla base dei disposti di cui ai commi precedenti.
 
-Il contributo statale, erogato con cadenza annuale, viene determinato sulla base dei disposti di cui ai commi precedenti.
-
-5.
-
-Il sistema di erogazione del contributo è stabilito con regolamento del Congresso di Stato.
+5\. Il sistema di erogazione del contributo è stabilito con regolamento del Congresso di Stato.
 
 ##### Art. 7
 
 (Sospensione del contributo)
 
-1.
-
-Il contributo statale è sospeso nei seguenti casi:
+1\. Il contributo statale è sospeso nei seguenti casi:
 
 a) il beneficiario non presenti ricevuta di pagamento o altra documentazione idonea ad attestare l’avvenuto pagamento della rata o delle rate riferite all’anno precedente all’Ufficio del Lavoro;
 
@@ -1211,49 +1135,33 @@ h) qualora il beneficiario non ceda, entro dodici mesi dall’acquisto della nuo
 
 (Estinzione anticipata e risoluzione del mutuo)
 
-1.
-
-Entro sette giorni dall’estinzione anticipata o dalla risoluzione del mutuo, l’istituto di credito o la società finanziaria danno comunicazione all’Ufficio del Lavoro che dispone la cessazione del contributo.
+1\. Entro sette giorni dall’estinzione anticipata o dalla risoluzione del mutuo, l’istituto di credito o la società finanziaria danno comunicazione all’Ufficio del Lavoro che dispone la cessazione del contributo.
 
 ##### Art. 9
 
 (Decadenza del contributo)
 
-1.
+1\. L’Ufficio del Lavoro dispone la decadenza del contributo qualora, a seguito dei controlli di cui all’articolo 16, accerti in capo al nucleo familiare beneficiario del contributo l’assenza di uno dei requisiti di cui all’articolo 3, comma 1, lettere b) e c) alla data della richiesta del contributo stesso.
 
-L’Ufficio del Lavoro dispone la decadenza del contributo qualora, a seguito dei controlli di cui all’articolo 16, accerti in capo al nucleo familiare beneficiario del contributo l’assenza di uno dei requisiti di cui all’articolo 3, comma 1, lettere b) e c) alla data della richiesta del contributo stesso.
+2\. In caso di decadenza il beneficiario è tenuto a restituire all’Ecc.ma Camera, entro sessanta giorni dalla deliberazione dell’Ufficio del Lavoro, l’importo del contributo erogatogli fino a quella data.
 
-2.
+3\. Il contributo decade altresì qualora entro un anno dalla notifica della delibera di sospensione dello stesso di cui al comma 1 dell’articolo 7 non vengano eliminate le circostanze che ne hanno comportato la sospensione.
 
-In caso di decadenza il beneficiario è tenuto a restituire all’Ecc.ma Camera, entro sessanta giorni dalla deliberazione dell’Ufficio del Lavoro, l’importo del contributo erogatogli fino a quella data.
-
-3.
-
-Il contributo decade altresì qualora entro un anno dalla notifica della delibera di sospensione dello stesso di cui al comma 1 dell’articolo 7 non vengano eliminate le circostanze che ne hanno comportato la sospensione.
-
-4.
-
-Il beneficiario non è tenuto a restituire l’importo del contributo erogatogli, nel caso di decadenza del contributo in forza della previsione di cui al comma precedente.
+4\. Il beneficiario non è tenuto a restituire l’importo del contributo erogatogli, nel caso di decadenza del contributo in forza della previsione di cui al comma precedente.
 
 ##### Art. 10
 
 (Comunicazione provvedimenti)
 
-1.
-
-I provvedimenti di cui agli articoli 7, 8 e 9 sono adottati dall’Ufficio del Lavoro e sono comunicati a mezzo raccomandata con avviso di ricevimento al beneficiario ed all’istituto di credito o società finanziaria mutuante. Dei medesimi provvedimenti è altresì data comunicazione alla Direzione della Finanza Pubblica ed all’Avvocatura dello Stato.
+1\. I provvedimenti di cui agli articoli 7, 8 e 9 sono adottati dall’Ufficio del Lavoro e sono comunicati a mezzo raccomandata con avviso di ricevimento al beneficiario ed all’istituto di credito o società finanziaria mutuante. Dei medesimi provvedimenti è altresì data comunicazione alla Direzione della Finanza Pubblica ed all’Avvocatura dello Stato.
 
 ##### Art. 11
 
 (Domanda di accesso ai benefici)
 
-1.
+1\. La domanda per l’ammissione al contributo statale è inoltrata, anche a mezzo posta con raccomandata con avviso di ricevimento, dal proprietario dell’unità abitativa o dal conduttore di contratto di locazione finanziaria all’Ufficio del Lavoro, su moduli appositamente predisposti dallo stesso, entro un anno dalla stipula del contratto di mutuo.
 
-La domanda per l’ammissione al contributo statale è inoltrata, anche a mezzo posta con raccomandata con avviso di ricevimento, dal proprietario dell’unità abitativa o dal conduttore di contratto di locazione finanziaria all’Ufficio del Lavoro, su moduli appositamente predisposti dallo stesso, entro un anno dalla stipula del contratto di mutuo.
-
-2.
-
-Alla domanda è allegata la seguente documentazione:
+2\. Alla domanda è allegata la seguente documentazione:
 
 a) contratto di mutuo stipulato con istituto di credito di diritto sammarinese, ovvero istituto di credito estero;
 
@@ -1261,73 +1169,47 @@ b) dichiarazione sostitutiva relativa alla sussistenza dei requisiti di cui all�
 
 c) il verbale del consiglio di amministrazione della cooperativa dal quale risulti l’avvenuta ammissione a socio del richiedente il contributo, qualora l’acquisto avvenga per il tramite della cooperativa.
 
-3.
-
-Si applicano, in quanto compatibili con la presente legge, le disposizioni di cui alle Leggi 5 ottobre 2011 n.159 e n.160.
+3\. Si applicano, in quanto compatibili con la presente legge, le disposizioni di cui alle Leggi 5 ottobre 2011 n.159 e n.160.
 
 ##### Art. 12
 
 (Istruttoria e modalità di erogazione)
 
-1.
+1\. L’Ufficio del Lavoro delibera in ordine all’accesso del richiedente al contributo entro sessanta giorni dal deposito della domanda di cui all’articolo 11, previa verifica della sussistenza dei requisiti previsti dall’articolo 3. L’esame delle domande è effettuato secondo l’ordine di ricevimento e compatibilmente con gli stanziamenti previsti a Bilancio su apposito capitolo.
 
-L’Ufficio del Lavoro delibera in ordine all’accesso del richiedente al contributo entro sessanta giorni dal deposito della domanda di cui all’articolo 11, previa verifica della sussistenza dei requisiti previsti dall’articolo 3. L’esame delle domande è effettuato secondo l’ordine di ricevimento e compatibilmente con gli stanziamenti previsti a Bilancio su apposito capitolo.
+2\. La delibera che autorizza l’accesso al contributo, con l’indicazione del relativo importo e della durata della corresponsione, è comunicata, a mezzo lettera raccomandata con avviso di ricevimento, al richiedente. Della delibera è altresì data comunicazione alla Direzione della Finanza Pubblica.
 
-2.
+3\. Il richiedente nei cui confronti è stata adottata la delibera di cui al comma 1 deve presentare, in un’unica soluzione, la documentazione comprovante il pagamento delle rate del mutuo.
 
-La delibera che autorizza l’accesso al contributo, con l’indicazione del relativo importo e della durata della corresponsione, è comunicata, a mezzo lettera raccomandata con avviso di ricevimento, al richiedente. Della delibera è altresì data comunicazione alla Direzione della Finanza Pubblica.
+4\. L’erogazione del contributo è effettuata dall’Ufficio del Lavoro entro novanta giorni dalla presentazione della documentazione di cui al comma che precede.
 
-3.
-
-Il richiedente nei cui confronti è stata adottata la delibera di cui al comma 1 deve presentare, in un’unica soluzione, la documentazione comprovante il pagamento delle rate del mutuo.
-
-4.
-
-L’erogazione del contributo è effettuata dall’Ufficio del Lavoro entro novanta giorni dalla presentazione della documentazione di cui al comma che precede.
-
-5.
-
-L’Ufficio del Lavoro dispone il versamento del contributo direttamente al richiedente.
+5\. L’Ufficio del Lavoro dispone il versamento del contributo direttamente al richiedente.
 
 ##### Art. 13
 
 (Portabilità del mutuo)
 
-1.
+1\. Ai beneficiari del contributo statale è riconosciuta la facoltà di stipulare con un istituto di credito diverso da quello con il quale è stato contratto inizialmente il mutuo assistito dal contributo, un contratto di surrogazione del mutuo originario senza l’applicazione di penali o altri oneri di qualsiasi natura.
 
-Ai beneficiari del contributo statale è riconosciuta la facoltà di stipulare con un istituto di credito diverso da quello con il quale è stato contratto inizialmente il mutuo assistito dal contributo, un contratto di surrogazione del mutuo originario senza l’applicazione di penali o altri oneri di qualsiasi natura.
+2\. L’istituto di credito surrogato è tenuto entro trenta giorni dalla risoluzione del contratto di mutuo a comunicare all’istituto di credito surrogante l’importo del debito residuo. L’istituto di credito surrogante concede il mutuo per la somma residua indicata dall’istituto di credito surrogato e per la restante durata del mutuo originario.
 
-2.
-
-L’istituto di credito surrogato è tenuto entro trenta giorni dalla risoluzione del contratto di mutuo a comunicare all’istituto di credito surrogante l’importo del debito residuo. L’istituto di credito surrogante concede il mutuo per la somma residua indicata dall’istituto di credito surrogato e per la restante durata del mutuo originario.
-
-3.
-
-L’istituto di credito surrogante subentra nelle eventuali garanzie reali e personali concesse dal mutuatario all’istituto di credito surrogato.
+3\. L’istituto di credito surrogante subentra nelle eventuali garanzie reali e personali concesse dal mutuatario all’istituto di credito surrogato.
 
 ##### Art. 14
 
 (Garanzie)
 
-1.
+1\. I finanziamenti concessi in forza della presente legge sono assistiti da ipoteca o da altre forme di garanzia in favore dell’istituto di credito o società finanziaria erogante sui beni immobili oggetto del finanziamento assistito dal contributo.
 
-I finanziamenti concessi in forza della presente legge sono assistiti da ipoteca o da altre forme di garanzia in favore dell’istituto di credito o società finanziaria erogante sui beni immobili oggetto del finanziamento assistito dal contributo.
-
-2.
-
-L’iscrizione dell’ipoteca o la costituzione di altre forme di garanzia e tutti gli eventuali atti modificativi ed estintivi delle stesse, nonché il subingresso sono assoggettati all’imposta di registro, ipotecaria e di trascrizione nella misura fissa.
+2\. L’iscrizione dell’ipoteca o la costituzione di altre forme di garanzia e tutti gli eventuali atti modificativi ed estintivi delle stesse, nonché il subingresso sono assoggettati all’imposta di registro, ipotecaria e di trascrizione nella misura fissa.
 
 ##### Art. 15
 
 (Revocatoria)
 
-1.
+1\. Le obbligazioni derivanti dai finanziamenti assistiti dal contributo statale e la relativa garanzia non sono soggetti, dopo il consolidamento dell’ipoteca di cui al seguente comma, né all’azione revocatoria concorsuale prevista dall’articolo 3 della Legge 15 novembre 1917 n.17 e successive modifiche, né all’azione revocatoria “pauliana”.
 
-Le obbligazioni derivanti dai finanziamenti assistiti dal contributo statale e la relativa garanzia non sono soggetti, dopo il consolidamento dell’ipoteca di cui al seguente comma, né all’azione revocatoria concorsuale prevista dall’articolo 3 della Legge 15 novembre 1917 n.17 e successive modifiche, né all’azione revocatoria “pauliana”.
-
-2.
-
-L’ipoteca di cui all’articolo 14 si consolida entro dieci giorni dall’iscrizione presso la Conservatoria dei Registri Immobiliari.
+2\. L’ipoteca di cui all’articolo 14 si consolida entro dieci giorni dall’iscrizione presso la Conservatoria dei Registri Immobiliari.
 
 ##### Art. 16
 
@@ -1343,17 +1225,13 @@ COMMISSIONE PER LA GESTIONE DELL’EDILIZIA RESIDENZIALE
 
 (Commissione per la Gestione dell’Edilizia Residenziale)
 
-1.
-
-E’ istituita la Commissione per la Gestione dell’Edilizia Residenziale, nominata dal Consiglio Grande e Generale per la durata della legislatura.
+1\. E’ istituita la Commissione per la Gestione dell’Edilizia Residenziale, nominata dal Consiglio Grande e Generale per la durata della legislatura.
 
 ##### Art. 18
 
 (Composizione)
 
-1.
-
-La Commissione per la Gestione dell’Edilizia Residenziale è composta da:
+1\. La Commissione per la Gestione dell’Edilizia Residenziale è composta da:
 
 a) un rappresentante della Segreteria di Stato competente con delega alla Cooperazione;
 
@@ -1361,17 +1239,11 @@ b) due rappresentanti delle forze politiche che esprimono la maggioranza in seno
 
 c) due rappresentanti delle forze politiche che esprimono la minoranza in seno al Consiglio Grande e Generale.
 
-2.
+2\. La Commissione per la Gestione dell’Edilizia Residenziale, nella seduta di insediamento, nomina al suo interno il Presidente ed il Vice Presidente.
 
-La Commissione per la Gestione dell’Edilizia Residenziale, nella seduta di insediamento, nomina al suo interno il Presidente ed il Vice Presidente.
+3\. Partecipano alle sedute della Commissione per la Gestione dell’Edilizia Residenziale un funzionario dell’UO Ufficio per il Lavoro e le Politiche Attive ed un funzionario dell’UO Ragioneria Generale dello Stato.
 
-3.
-
-Partecipano alle sedute della Commissione per la Gestione dell’Edilizia Residenziale un funzionario dell’UO Ufficio per il Lavoro e le Politiche Attive ed un funzionario dell’UO Ragioneria Generale dello Stato.
-
-4.
-
-Sono incompatibili con la carica di membro della Commissione per la Gestione dell’Edilizia Residenziale:
+4\. Sono incompatibili con la carica di membro della Commissione per la Gestione dell’Edilizia Residenziale:
 
 a) i membri del Consiglio Grande e Generale;
 
@@ -1381,21 +1253,15 @@ c) i membri della Commissione per le Politiche Territoriali;
 
 d) chiunque abbia interessi in ambito immobiliare, quale costruttore o socio di attività che operino nella costruzione ovvero nell’intermediazione immobiliare.
 
-5.
+5\. Il segretario verbalizzante può essere scelto anche al di fuori dei membri della Commissione per la Gestione dell’Edilizia Residenziale.
 
-Il segretario verbalizzante può essere scelto anche al di fuori dei membri della Commissione per la Gestione dell’Edilizia Residenziale.
-
-6.
-
-I verbali integrali e relativi allegati di ciascuna seduta della Commissione sono inviati per conoscenza a tutti i Gruppi Consiliari.
+6\. I verbali integrali e relativi allegati di ciascuna seduta della Commissione sono inviati per conoscenza a tutti i Gruppi Consiliari.
 
 ##### Art. 19
 
 (Funzioni)
 
-1.
-
-La Commissione per la Gestione dell’Edilizia Residenziale:
+1\. La Commissione per la Gestione dell’Edilizia Residenziale:
 
 a) esamina e delibera in ordine ai ricorsi gerarchici presentati ai sensi dell’articolo 21;
 
@@ -1405,63 +1271,39 @@ b) assorbe e svolge le funzioni di cui all’articolo 26, comma 2.
 
 (Funzionamento)
 
-1.
+1\. La Commissione si riunisce con cadenza almeno mensile su convocazione del suo Presidente.
 
-La Commissione si riunisce con cadenza almeno mensile su convocazione del suo Presidente.
+2\. La Commissione è validamente costituita quando è presente la maggioranza dei suoi componenti; le deliberazioni sono adottate a maggioranza.
 
-2.
+3\. Le sedute sono verbalizzate a cura del suo Segretario che sottoscrive i verbali unitamente al Presidente. Nell’espletamento delle funzioni demandatele, la Commissione può avvalersi e richiedere il supporto e il contributo degli Uffici della Pubblica Amministrazione competenti sulle questioni trattate.
 
-La Commissione è validamente costituita quando è presente la maggioranza dei suoi componenti; le deliberazioni sono adottate a maggioranza.
-
-3.
-
-Le sedute sono verbalizzate a cura del suo Segretario che sottoscrive i verbali unitamente al Presidente. Nell’espletamento delle funzioni demandatele, la Commissione può avvalersi e richiedere il supporto e il contributo degli Uffici della Pubblica Amministrazione competenti sulle questioni trattate.
-
-4.
-
-I componenti della Commissione che vantino un interesse diretto o indiretto sulle pratiche oggetto di deliberazione hanno l’obbligo di darne preventiva comunicazione al Presidente e di astenersi dalla relativa decisione.
+4\. I componenti della Commissione che vantino un interesse diretto o indiretto sulle pratiche oggetto di deliberazione hanno l’obbligo di darne preventiva comunicazione al Presidente e di astenersi dalla relativa decisione.
 
 ##### Art. 21
 
 (Ricorso gerarchico)
 
-1.
+1\. Avverso i provvedimenti adottati dall’Ufficio del Lavoro ai sensi della presente legge l’interessato può promuovere ricorso gerarchico per motivi di legittimità e merito dinanzi alla Commissione per la Gestione dell’Edilizia Residenziale.
 
-Avverso i provvedimenti adottati dall’Ufficio del Lavoro ai sensi della presente legge l’interessato può promuovere ricorso gerarchico per motivi di legittimità e merito dinanzi alla Commissione per la Gestione dell’Edilizia Residenziale.
+2\. Il ricorso di cui al comma che precede è presentato alla Commissione per la Gestione dell’Edilizia Residenziale entro il termine perentorio di quindici giorni dal ricevimento del provvedimento impugnato. Il ricorso è notificato alla Commissione per la Gestione dell’Edilizia Residenziale presso l’Ufficio del Lavoro.
 
-2.
-
-Il ricorso di cui al comma che precede è presentato alla Commissione per la Gestione dell’Edilizia Residenziale entro il termine perentorio di quindici giorni dal ricevimento del provvedimento impugnato. Il ricorso è notificato alla Commissione per la Gestione dell’Edilizia Residenziale presso l’Ufficio del Lavoro.
-
-3.
-
-La Commissione per la Gestione dell’Edilizia Residenziale si pronuncia sul ricorso promosso entro trenta giorni dalla sua presentazione. La decisione della Commissione è comunicata all’interessato mediante raccomandata con avviso di ricevimento nei successivi quindici giorni.
+3\. La Commissione per la Gestione dell’Edilizia Residenziale si pronuncia sul ricorso promosso entro trenta giorni dalla sua presentazione. La decisione della Commissione è comunicata all’interessato mediante raccomandata con avviso di ricevimento nei successivi quindici giorni.
 
 ##### Art. 22
 
 (Ricorso giurisdizionale)
 
-1.
+1\. Avverso le deliberazioni adottate dalla Commissione per la Gestione dell’Edilizia Residenziale di cui all’articolo 21 è ammesso ricorso giurisdizionale ai sensi della Legge 28 giugno 1989 n.68.
 
-Avverso le deliberazioni adottate dalla Commissione per la Gestione dell’Edilizia Residenziale di cui all’articolo 21 è ammesso ricorso giurisdizionale ai sensi della Legge 28 giugno 1989 n.68.
-
-2.
-
-L’esperimento del ricorso gerarchico di cui all’articolo 21 è condizione di ammissibilità del ricorso giurisdizionale amministrativo.
+2\. L’esperimento del ricorso gerarchico di cui all’articolo 21 è condizione di ammissibilità del ricorso giurisdizionale amministrativo.
 
 Art 22-bis (Contratto di locazione con riscatto di civile abitazione)
 
-1.
+1\. È istituito il contratto di locazione con riscatto di civile abitazione.
 
-È istituito il contratto di locazione con riscatto di civile abitazione.
+2\. In tali contratti, il corrispettivo del canone di locazione è imputato, in tutto o in parte, al pagamento del prezzo di acquisto dell’immobile, il cui trasferimento di proprietà avviene al momento del versamento dell’ultimo canone.
 
-2.
-
-In tali contratti, il corrispettivo del canone di locazione è imputato, in tutto o in parte, al pagamento del prezzo di acquisto dell’immobile, il cui trasferimento di proprietà avviene al momento del versamento dell’ultimo canone.
-
-3.
-
-Il Congresso di Stato è delegato ad adottare, entro il 31 dicembre 2025, specifico decreto delegato volto a disciplinare:
+3\. Il Congresso di Stato è delegato ad adottare, entro il 31 dicembre 2025, specifico decreto delegato volto a disciplinare:
 
 a) i requisiti e le modalità di accesso ai benefici di cui alla presente legge;
 
@@ -1479,73 +1321,47 @@ DISPOSIZIONI TRANSITORIE E FINALI
 
 (Disposizioni transitorie)
 
-1.
+1\. Le domande per il finanziamento dell’edilizia sovvenzionata, già presentate prima dell’entrata in vigore della presente legge, sono esaminate ai sensi delle leggi vigenti all’epoca della presentazione.
 
-Le domande per il finanziamento dell’edilizia sovvenzionata, già presentate prima dell’entrata in vigore della presente legge, sono esaminate ai sensi delle leggi vigenti all’epoca della presentazione.
-
-2.
-
-E’ data facoltà ai richiedenti, entro trenta giorni dall’entrata in vigore della presente legge, di ritirare le domande già presentate e non ancora esaminate ai fini della presentazione della domanda ai sensi della presente legge.
+2\. E’ data facoltà ai richiedenti, entro trenta giorni dall’entrata in vigore della presente legge, di ritirare le domande già presentate e non ancora esaminate ai fini della presentazione della domanda ai sensi della presente legge.
 
 ##### Art. 24
 
 (Mutui erogati ai sensi delle leggi precedenti)
 
-1.
+1\. I mutui agevolati già in essere alla data di entrata in vigore della presente legge continuano ad essere regolati dalle leggi vigenti all’epoca della loro concessione.
 
-I mutui agevolati già in essere alla data di entrata in vigore della presente legge continuano ad essere regolati dalle leggi vigenti all’epoca della loro concessione.
+2\. Ai sottoscrittori dei mutui già in essere alla data di entrata in vigore della presente legge, che estinguano anticipatamente il mutuo stipulato ai sensi delle leggi previgenti, è riconosciuto, quale credito di imposta da calcolarsi sull’imposta generale sui redditi, l’80% del contributo in conto interessi a carico dello Stato sulle annualità rimanenti, da suddividersi su cinque annualità a partire dal periodo di imposta in cui è avvenuta l’estinzione.
 
-2.
-
-Ai sottoscrittori dei mutui già in essere alla data di entrata in vigore della presente legge, che estinguano anticipatamente il mutuo stipulato ai sensi delle leggi previgenti, è riconosciuto, quale credito di imposta da calcolarsi sull’imposta generale sui redditi, l’80% del contributo in conto interessi a carico dello Stato sulle annualità rimanenti, da suddividersi su cinque annualità a partire dal periodo di imposta in cui è avvenuta l’estinzione.
-
-3.
-
-Ai sottoscrittori dei mutui già in essere alla data di entrata in vigore della presente legge è riconosciuta la facoltà, previa comunicazione all’Ufficio del Lavoro di abbattere il debito residuo del mutuo con modalità diverse rispetto a quelle indicate nel piano di rientro. 3bis I soci di cooperativa d’abitazione titolari di contratto di mutuo già in essere all’entrata in vigore della presente legge, qualora la cooperativa di abitazione non possa più operare per sopravvenuta mancanza del numero minimo di soci previsto dall’articolo 43, comma 1, della Legge 15 dicembre 1994 n. 110 e sue successive modifiche ed integrazioni, possono richiedere alla Commissione per la Gestione dell’Edilizia Residenziale di assoggettare il rapporto contrattuale alle condizioni previste e riservate dalla medesima Legge n. 110/1994 per i mutui contratti dalle persone fisiche. La richiesta, cui deve essere allegata la deliberazione di messa in liquidazione volontaria della cooperativa di abitazione, è subordinata all’accettazione da parte del richiedente delle condizioni previste dalla legge per la concessione del mutuo in favore delle persone fisiche.
+3\. Ai sottoscrittori dei mutui già in essere alla data di entrata in vigore della presente legge è riconosciuta la facoltà, previa comunicazione all’Ufficio del Lavoro di abbattere il debito residuo del mutuo con modalità diverse rispetto a quelle indicate nel piano di rientro. 3bis I soci di cooperativa d’abitazione titolari di contratto di mutuo già in essere all’entrata in vigore della presente legge, qualora la cooperativa di abitazione non possa più operare per sopravvenuta mancanza del numero minimo di soci previsto dall’articolo 43, comma 1, della Legge 15 dicembre 1994 n. 110 e sue successive modifiche ed integrazioni, possono richiedere alla Commissione per la Gestione dell’Edilizia Residenziale di assoggettare il rapporto contrattuale alle condizioni previste e riservate dalla medesima Legge n. 110/1994 per i mutui contratti dalle persone fisiche. La richiesta, cui deve essere allegata la deliberazione di messa in liquidazione volontaria della cooperativa di abitazione, è subordinata all’accettazione da parte del richiedente delle condizioni previste dalla legge per la concessione del mutuo in favore delle persone fisiche.
 
 ##### Art. 25
 
 (Trasferimento del privilegio)
 
-1.
+1\. Gli edifici realizzati ed acquistati con i benefici di cui alla Legge n.110/1994 e successive modifiche non sono cedibili per atto inter vivos a qualsiasi titolo, né per intero né in parte, fino all’estinzione del prestito, a pena di nullità, ad eccezione dei trasferimenti di proprietà in favore del coniuge o contraente unione civile o convivente more uxorio ai sensi delle norme vigenti.
 
-Gli edifici realizzati ed acquistati con i benefici di cui alla Legge n.110/1994 e successive modifiche non sono cedibili per atto inter vivos a qualsiasi titolo, né per intero né in parte, fino all’estinzione del prestito, a pena di nullità, ad eccezione dei trasferimenti di proprietà in favore del coniuge o contraente unione civile o convivente more uxorio ai sensi delle norme vigenti.
-
-2.
-
-In deroga a quanto previsto dal comma 1, la Commissione per la Gestione dell’Edilizia Residenziale può autorizzare il titolare del mutuo a cedere l’immobile qualora lo stesso sia divenuto insufficiente alle mutate esigenze abitative del nucleo familiare, conformemente a quanto stabilito dall’articolo 3, comma 2, della Legge n.110/1994 e successive modifiche, al fine di consentire l’acquisto di un nuovo immobile. 2 bis.
+2\. In deroga a quanto previsto dal comma 1, la Commissione per la Gestione dell’Edilizia Residenziale può autorizzare il titolare del mutuo a cedere l’immobile qualora lo stesso sia divenuto insufficiente alle mutate esigenze abitative del nucleo familiare, conformemente a quanto stabilito dall’articolo 3, comma 2, della Legge n.110/1994 e successive modifiche, al fine di consentire l’acquisto di un nuovo immobile. 2 bis.
 
 È sempre data facoltà al mutuatario di cointestare l’immobile oggetto del finanziamento al coniuge o al contraente unione civile o convivente more uxorio ai sensi delle norme vigenti. L’atto di trasferimento di proprietà dell’immobile in favore dei predetti, sia a titolo oneroso, sia a titolo gratuito, è esente da imposte di registro e trascrizione. 2 ter.
 
 In caso di scioglimento o cessazione degli effetti civili del matrimonio, o unione civile o convivenza more uxorio ai sensi delle norme vigenti, che comporti altresì la relativa modifica della residenza del nucleo familiare, è data la possibilità a uno dei coniugi, dei contraenti unione civile o del convivente more uxorio, di acquisire la piena proprietà dell’immobile oggetto del beneficio, mantenendo le condizioni acquisite ed in esenzione da imposte di registro e trascrizione.
 
-3.
+3\. Il titolare del contratto di mutuo stipulato ai sensi della Legge n.110/1994 e successive modifiche, che versi nelle condizioni di cui al comma 2, può chiedere alla Commissione per la Gestione dell’Edilizia Residenziale di essere autorizzato alla cessione dell’immobile e alla cancellazione del privilegio sullo stesso gravante.
 
-Il titolare del contratto di mutuo stipulato ai sensi della Legge n.110/1994 e successive modifiche, che versi nelle condizioni di cui al comma 2, può chiedere alla Commissione per la Gestione dell’Edilizia Residenziale di essere autorizzato alla cessione dell’immobile e alla cancellazione del privilegio sullo stesso gravante.
+4\. Il rilascio dell’autorizzazione di cui al comma 3, avviene solo qualora l’immobile che il richiedente intende acquistare sia ultimato ed abitabile alla data di presentazione della domanda ed a condizione che sullo stesso sia disposto il trasferimento del privilegio in favore dello Stato.
 
-4.
+5\. Il socio di cooperativa di abitazione può avanzare richiesta di autorizzazione per il trasferimento del privilegio su altro alloggio solo se la cooperativa ha già provveduto, con atto pubblico, all’assegnazione di proprietà dell’alloggio in suo favore.
 
-Il rilascio dell’autorizzazione di cui al comma 3, avviene solo qualora l’immobile che il richiedente intende acquistare sia ultimato ed abitabile alla data di presentazione della domanda ed a condizione che sullo stesso sia disposto il trasferimento del privilegio in favore dello Stato.
-
-5.
-
-Il socio di cooperativa di abitazione può avanzare richiesta di autorizzazione per il trasferimento del privilegio su altro alloggio solo se la cooperativa ha già provveduto, con atto pubblico, all’assegnazione di proprietà dell’alloggio in suo favore.
-
-6.
-
-L’autorizzazione al socio di cooperativa di abitazione è subordinata al recesso dalla cooperativa ed all’accettazione delle condizioni previste per la concessione del mutuo in favore delle persone fisiche.
+6\. L’autorizzazione al socio di cooperativa di abitazione è subordinata al recesso dalla cooperativa ed all’accettazione delle condizioni previste per la concessione del mutuo in favore delle persone fisiche.
 
 ##### Art. 26
 
 (Commissione per la Gestione dell’Edilizia Sovvenzionata)
 
-1.
+1\. Fino all’insediamento dei membri della Commissione per la Gestione dell’Edilizia Residenziale di cui al precedente Titolo III, i compiti e le funzioni a questa attribuiti dalla presente legge sono esercitati dalla Commissione per la Gestione dell’Edilizia Sovvenzionata.
 
-Fino all’insediamento dei membri della Commissione per la Gestione dell’Edilizia Residenziale di cui al precedente Titolo III, i compiti e le funzioni a questa attribuiti dalla presente legge sono esercitati dalla Commissione per la Gestione dell’Edilizia Sovvenzionata.
-
-2.
-
-Dalla data di insediamento di cui al comma che precede, alla Commissione per la Gestione dell’Edilizia Residenziale sono demandate, unitamente alle funzioni di cui alla
+2\. Dalla data di insediamento di cui al comma che precede, alla Commissione per la Gestione dell’Edilizia Residenziale sono demandate, unitamente alle funzioni di cui alla
 
 presente legge, le funzioni già assegnate alla Commissione per la Gestione dell’Edilizia Sovvenzionata ai sensi della Legge 15 dicembre 1994 n.110 e sue successive modifiche.
 
@@ -1553,21 +1369,15 @@ presente legge, le funzioni già assegnate alla Commissione per la Gestione dell
 
 (Disposizioni abrogate)
 
-1.
+1\. Sono abrogate tutte le norme in contrasto con la presente legge ed in particolare l’articolo 1, il Titolo II ed il Titolo V della Legge 15 dicembre 1994 n.110 e sue successive modifiche.
 
-Sono abrogate tutte le norme in contrasto con la presente legge ed in particolare l’articolo 1, il Titolo II ed il Titolo V della Legge 15 dicembre 1994 n.110 e sue successive modifiche.
-
-2.
-
-E’ abrogato il comma 3 dell’articolo 43 della Legge n.110/1994.
+2\. E’ abrogato il comma 3 dell’articolo 43 della Legge n.110/1994.
 
 ##### Art. 28
 
 (Entrata in vigore)
 
-1.
-
-La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
+1\. La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
 
 LEGGE 28 aprile 2025 n.64 INTERVENTI STRAORDINARI PER EMERGENZA CASA
 
@@ -1575,21 +1385,15 @@ LEGGE 28 aprile 2025 n.64 INTERVENTI STRAORDINARI PER EMERGENZA CASA
 
 (Finalità)
 
-1.
+1\. La presente legge ha lo scopo di introdurre strumenti urgenti volti a fronteggiare l’attuale “emergenza abitativa” e ad incrementare l’offerta di abitazioni disponibili con l’obiettivo di garantire a tutti il diritto alla casa, con particolare riguardo alle fasce più vulnerabili, attraverso l’attuazione di un progetto di intervento straordinario sull’edilizia abitativa con un approccio multidisciplinare atto a valutare oltre agli aspetti tecnici e architettonici anche quelli socio-economici, ambientali e culturali.
 
-La presente legge ha lo scopo di introdurre strumenti urgenti volti a fronteggiare l’attuale “emergenza abitativa” e ad incrementare l’offerta di abitazioni disponibili con l’obiettivo di garantire a tutti il diritto alla casa, con particolare riguardo alle fasce più vulnerabili, attraverso l’attuazione di un progetto di intervento straordinario sull’edilizia abitativa con un approccio multidisciplinare atto a valutare oltre agli aspetti tecnici e architettonici anche quelli socio-economici, ambientali e culturali.
-
-2.
-
-La presente legge mira, altresì, a porre in essere azioni e fornire strumenti di supporto a coloro che non riescono a soddisfare sul mercato il proprio bisogno abitativo, per ragioni economiche o per l’assenza di un’offerta adeguata, prevedendo modifiche alle disposizioni in materia di edilizia sovvenzionata, introducendo finanziamenti nella forma del contributo in conto interessi con garanzia a carico dello Stato, misure di controllo degli affitti per evitare aumenti eccessivi e incentivare la politica della ristrutturazione e riqualificazione del patrimonio edilizio abitativo esistente.
+2\. La presente legge mira, altresì, a porre in essere azioni e fornire strumenti di supporto a coloro che non riescono a soddisfare sul mercato il proprio bisogno abitativo, per ragioni economiche o per l’assenza di un’offerta adeguata, prevedendo modifiche alle disposizioni in materia di edilizia sovvenzionata, introducendo finanziamenti nella forma del contributo in conto interessi con garanzia a carico dello Stato, misure di controllo degli affitti per evitare aumenti eccessivi e incentivare la politica della ristrutturazione e riqualificazione del patrimonio edilizio abitativo esistente.
 
 ##### Art. 2
 
 (Modifica dell’articolo 16-quater della Legge 28 giugno 2010 n.118 e successive modifiche)
 
-1.
-
-La lettera a) del comma 1, dell’articolo 16-quater della Legge 28 giugno 2010 n.118 e successive modifiche è così sostituita:
+1\. La lettera a) del comma 1, dell’articolo 16-quater della Legge 28 giugno 2010 n.118 e successive modifiche è così sostituita:
 
 “a) abbia un reddito annuale dimostrabile non inferiore ad euro 120.000,00 (centoventimila/00) lordi annui e un patrimonio mobiliare, detenuto nel sistema bancario sammarinese, dimostrabile per tutta la durata della residenza, non inferiore ad euro 300.000,00 (trecentomila/00);”.
 
@@ -1597,35 +1401,23 @@ La lettera a) del comma 1, dell’articolo 16-quater della Legge 28 giugno 2010 
 
 (Coabitazione Intergenerazionale Temporanea)
 
-1.
+1\. Il Congresso di Stato, entro il 31 dicembre 2025, è tenuto ad adottare decreto delegato per normare la Coabitazione Intergenerazionale Temporanea (brevemente CIT) fra studenti universitari ovvero titolari di permesso di soggiorno stagionale per motivi di lavoro e residenti caratterizzati da una soglia di età minima.
 
-Il Congresso di Stato, entro il 31 dicembre 2025, è tenuto ad adottare decreto delegato per normare la Coabitazione Intergenerazionale Temporanea (brevemente CIT) fra studenti universitari ovvero titolari di permesso di soggiorno stagionale per motivi di lavoro e residenti caratterizzati da una soglia di età minima.
+2\. Il decreto delegato di cui al comma 1 stabilisce in particolare le soglie di età minima affinché possa realizzarsi la Coabitazione Intergenerazionale Temporanea, i contenuti dello scambio intergenerazionale, le caratteristiche dimensionali minime dell’immobile oggetto di contratto, il regime fiscale a cui sottoporre la CIT, nonché le forme di matching fra la domanda e l’offerta per la CIT.
 
-2.
+3\. La durata massima per contratti di CIT è di dodici mesi consecutivi eventualmente rinnovabili.
 
-Il decreto delegato di cui al comma 1 stabilisce in particolare le soglie di età minima affinché possa realizzarsi la Coabitazione Intergenerazionale Temporanea, i contenuti dello scambio intergenerazionale, le caratteristiche dimensionali minime dell’immobile oggetto di contratto, il regime fiscale a cui sottoporre la CIT, nonché le forme di matching fra la domanda e l’offerta per la CIT.
-
-3.
-
-La durata massima per contratti di CIT è di dodici mesi consecutivi eventualmente rinnovabili.
-
-4.
-
-Non è possibile stipulare contratto di Coabitazione Intergenerazionale Temporanea nei casi di residenza atipica.
+4\. Non è possibile stipulare contratto di Coabitazione Intergenerazionale Temporanea nei casi di residenza atipica.
 
 ##### Art.4
 
 (Modifiche alla Legge 31 marzo 2015 n.44 e successive modifiche sui finanziamenti assistiti dal contributo in conto interessi in materia di edilizia sovvenzionata)
 
-1.
-
-La lettera b), del comma 1, dell’articolo 3 della Legge 31 marzo 2015 n.44 e successive modifiche, è così sostituita:
+1\. La lettera b), del comma 1, dell’articolo 3 della Legge 31 marzo 2015 n.44 e successive modifiche, è così sostituita:
 
 “b) non siano, il richiedente stesso o i membri del suo nucleo familiare, titolari di contratti di leasing immobiliare, di diritto di proprietà, di usufrutto, di abitazione, per intero ovvero parzialmente, in territorio o all’estero, su un fabbricato destinato all’uso di civile abitazione e adeguato alle esigenze abitative del nucleo familiare o su un fabbricato con una rendita catastale, per la quota parte afferente al richiedente, superiore ad euro 1.500,00 (millecinquecento/00) o su un terreno edificabile con superficie superiore a mq.500. La rendita catastale è determinata sulla base dei coefficienti di rivalutazione di cui all’articolo 81 della Legge 18 dicembre 2003 n.165;”.
 
-2.
-
-Dopo il comma 1 dell’articolo 3 della Legge n.44/2015 e successive modifiche, è aggiunto il seguente comma 1 bis:
+2\. Dopo il comma 1 dell’articolo 3 della Legge n.44/2015 e successive modifiche, è aggiunto il seguente comma 1 bis:
 
 “1 bis.
 
@@ -1635,23 +1427,17 @@ a) per i residenti effettivi per matrimonio o unione civile con soggetto residen
 
 b) per i residenti nella Repubblica di San Marino per matrimonio o unione civile contratto con cittadini sammarinesi.”.
 
-3.
-
-Dopo il comma 1 bis, dell’articolo 3 della Legge n.44/2015 è aggiunto il seguente comma 1 ter:
+3\. Dopo il comma 1 bis, dell’articolo 3 della Legge n.44/2015 è aggiunto il seguente comma 1 ter:
 
 “1 ter. Possono accedere ai contributi di cui al comma 1 il titolare ovvero i titolari della quota di almeno il 50 per cento della piena proprietà o nuda proprietà o usufrutto di un immobile, unitamente o disgiuntamente.”.
 
-4.
-
-Il comma 5, dell’articolo 3, della Legge n.44/2015 è così sostituito:
+4\. Il comma 5, dell’articolo 3, della Legge n.44/2015 è così sostituito:
 
 “5.
 
 Per superficie totale si intende la superficie calpestabile dell’unità immobiliare, inclusi locali di deposito, locali accessori e bagni, sommata al 50 per cento di quella di balconi e portici, con la sola esclusione di vani scala comuni ad altre unità immobiliari, di cantine e garage. La superficie dei locali ad uso cantina e ad uso garage non può superare rispettivamente la percentuale del 15 per cento e del 70 per cento di quella dell’abitazione.”.
 
-5.
-
-Il comma 7, dell’articolo 3, della Legge n.44/2015 è così sostituito:
+5\. Il comma 7, dell’articolo 3, della Legge n.44/2015 è così sostituito:
 
 “7.
 
@@ -1661,39 +1447,27 @@ a) i cittadini sammarinesi, i forensi che siano in possesso di residenza anagraf
 
 b) i cittadini sammarinesi, i forensi che siano in possesso di residenza anagrafica ed effettiva, maggiori di età, qualora parenti in linea retta in qualunque grado ed entro il secondo grado in linea collaterale, secondo il computo civile, di soggetto portatore di deficit psicofisico, nel caso in cui la domanda sia finalizzata alla costituzione ovvero adattamento del luogo abitativo per la convivenza con la persona con disabilità.”.
 
-6.
-
-Dopo il comma 7, dell’articolo 3 della Legge n.44/2015 e successive modifiche, è aggiunto il seguente comma 7 bis:
+6\. Dopo il comma 7, dell’articolo 3 della Legge n.44/2015 e successive modifiche, è aggiunto il seguente comma 7 bis:
 
 “7 bis. I requisiti di cui al comma 7, lettere a) e b), devono risultare da apposita certificazione che, unitamente alle modalità di presentazione delle domande e alla relativa procedura, sono previsti con regolamento del Congresso di Stato.”.
 
-7.
-
-Dopo il comma 8, dell’articolo 3 della Legge n.44/2015 è aggiunto il seguente comma 8 bis:
+7\. Dopo il comma 8, dell’articolo 3 della Legge n.44/2015 è aggiunto il seguente comma 8 bis:
 
 “8 bis. Non ricadono in ogni caso nel divieto di accedere al contributo statale di cui alla presente legge l’ex coniuge, l’ex convivente more uxorio o l’ex contraente unione civile, che abbiano modificato la propria residenza formando altro nucleo familiare e siano rimasti privi della titolarità di diritti reali su immobili ad uso abitativo, con conseguente intervenuta estinzione del finanziamento a proprio nome.”.
 
-8.
-
-Il comma 6, dell’articolo 5, della Legge n.44/2015 è così sostituito:
+8\. Il comma 6, dell’articolo 5, della Legge n.44/2015 è così sostituito:
 
 “6.
 
 I finanziamenti assistiti dal contributo statale devono avere ad oggetto abitazioni che abbiano una superficie totale inferiore a mq. 200, da calcolarsi secondo i disposti di cui all’articolo 3, comma 5.”.
 
-9.
-
-I commi 8 e 9, dell’articolo 5 della Legge n.44/2015 e successive modifiche sono così sostituiti:
+9\. I commi 8 e 9, dell’articolo 5 della Legge n.44/2015 e successive modifiche sono così sostituiti:
 
 “ 8. Il contributo statale è calcolato sull’importo del mutuo effettivamente contratto dal richiedente. Il contributo statale è comunque calcolato sull’importo massimo di euro 250.000,00 (duecentocinquantamila/00), anche qualora il mutuo sia stato contratto per un importo superiore.
 
-9.
+9\. Gli importi di cui ai commi 7 e 8 possono essere modificati con decreto delegato.”.
 
-Gli importi di cui ai commi 7 e 8 possono essere modificati con decreto delegato.”.
-
-10.
-
-Il comma 3, dell’articolo 6, della Legge n.44/2015 e successive modifiche è così sostituito:
+10\. Il comma 3, dell’articolo 6, della Legge n.44/2015 e successive modifiche è così sostituito:
 
 “3.
 
@@ -1707,75 +1481,49 @@ c) 75 per cento degli interessi per mutui di durata pari o inferiore ad anni qui
 
 d) 80 per cento degli interessi per mutui di durata pari o inferiore ad anni dieci.”.
 
-11.
-
-L’articolo 25, della Legge n.44/2015 è così sostituito:
+11\. L’articolo 25, della Legge n.44/2015 è così sostituito:
 
 “Art. 25 (Trasferimento del privilegio)
 
-1.
+1\. Gli edifici realizzati ed acquistati con i benefici di cui alla Legge n.110/1994 e successive modifiche non sono cedibili per atto inter vivos a qualsiasi titolo, né per intero né in parte, fino all’estinzione del prestito, a pena di nullità, ad eccezione dei trasferimenti di proprietà in favore del coniuge o contraente unione civile o convivente more uxorio ai sensi delle norme vigenti.
 
-Gli edifici realizzati ed acquistati con i benefici di cui alla Legge n.110/1994 e successive modifiche non sono cedibili per atto inter vivos a qualsiasi titolo, né per intero né in parte, fino all’estinzione del prestito, a pena di nullità, ad eccezione dei trasferimenti di proprietà in favore del coniuge o contraente unione civile o convivente more uxorio ai sensi delle norme vigenti.
-
-2.
-
-In deroga a quanto previsto dal comma 1, la Commissione per la Gestione dell’Edilizia Residenziale può autorizzare il titolare del mutuo a cedere l’immobile qualora lo stesso sia divenuto insufficiente alle mutate esigenze abitative del nucleo familiare, conformemente a quanto stabilito dall’articolo 3, comma 2, della Legge n.110/1994 e successive modifiche, al fine di consentire l’acquisto di un nuovo immobile. 2 bis. È sempre data facoltà al mutuatario di cointestare l’immobile oggetto del finanziamento al coniuge o al contraente unione civile o convivente more uxorio ai sensi delle norme vigenti. L’atto di trasferimento di proprietà dell’immobile in favore dei predetti, sia a titolo oneroso, sia a titolo gratuito, è esente da imposte di registro e trascrizione. 2 ter. In caso di scioglimento o cessazione degli effetti civili del matrimonio, o unione civile o convivenza more uxorio ai sensi delle norme vigenti, che comporti altresì la relativa modifica della residenza del nucleo familiare, è data la possibilità a uno dei
+2\. In deroga a quanto previsto dal comma 1, la Commissione per la Gestione dell’Edilizia Residenziale può autorizzare il titolare del mutuo a cedere l’immobile qualora lo stesso sia divenuto insufficiente alle mutate esigenze abitative del nucleo familiare, conformemente a quanto stabilito dall’articolo 3, comma 2, della Legge n.110/1994 e successive modifiche, al fine di consentire l’acquisto di un nuovo immobile. 2 bis. È sempre data facoltà al mutuatario di cointestare l’immobile oggetto del finanziamento al coniuge o al contraente unione civile o convivente more uxorio ai sensi delle norme vigenti. L’atto di trasferimento di proprietà dell’immobile in favore dei predetti, sia a titolo oneroso, sia a titolo gratuito, è esente da imposte di registro e trascrizione. 2 ter. In caso di scioglimento o cessazione degli effetti civili del matrimonio, o unione civile o convivenza more uxorio ai sensi delle norme vigenti, che comporti altresì la relativa modifica della residenza del nucleo familiare, è data la possibilità a uno dei
 
 coniugi, dei contraenti unione civile o del convivente more uxorio, di acquisire la piena proprietà dell’immobile oggetto del beneficio, mantenendo le condizioni acquisite ed in esenzione da imposte di registro e trascrizione.
 
-3.
+3\. Il titolare del contratto di mutuo stipulato ai sensi della Legge n.110/1994 e successive modifiche, che versi nelle condizioni di cui al comma 2, può chiedere alla Commissione per la Gestione dell’Edilizia Residenziale di essere autorizzato alla cessione dell’immobile e alla cancellazione del privilegio sullo stesso gravante.
 
-Il titolare del contratto di mutuo stipulato ai sensi della Legge n.110/1994 e successive modifiche, che versi nelle condizioni di cui al comma 2, può chiedere alla Commissione per la Gestione dell’Edilizia Residenziale di essere autorizzato alla cessione dell’immobile e alla cancellazione del privilegio sullo stesso gravante.
+4\. Il rilascio dell’autorizzazione di cui al comma 3, avviene solo qualora l’immobile che il richiedente intende acquistare sia ultimato ed abitabile alla data di presentazione della domanda ed a condizione che sullo stesso sia disposto il trasferimento del privilegio in favore dello Stato.
 
-4.
+5\. Il socio di cooperativa di abitazione può avanzare richiesta di autorizzazione per il trasferimento del privilegio su altro alloggio solo se la cooperativa ha già provveduto, con atto pubblico, all’assegnazione di proprietà dell’alloggio in suo favore.
 
-Il rilascio dell’autorizzazione di cui al comma 3, avviene solo qualora l’immobile che il richiedente intende acquistare sia ultimato ed abitabile alla data di presentazione della domanda ed a condizione che sullo stesso sia disposto il trasferimento del privilegio in favore dello Stato.
-
-5.
-
-Il socio di cooperativa di abitazione può avanzare richiesta di autorizzazione per il trasferimento del privilegio su altro alloggio solo se la cooperativa ha già provveduto, con atto pubblico, all’assegnazione di proprietà dell’alloggio in suo favore.
-
-6.
-
-L’autorizzazione al socio di cooperativa di abitazione è subordinata al recesso dalla cooperativa ed all’accettazione delle condizioni previste per la concessione del mutuo in favore delle persone fisiche.”.
+6\. L’autorizzazione al socio di cooperativa di abitazione è subordinata al recesso dalla cooperativa ed all’accettazione delle condizioni previste per la concessione del mutuo in favore delle persone fisiche.”.
 
 ##### Art.5
 
 (Introduzione dell’articolo 3-bis alla Legge n.44/2015 e successive modifiche)
 
-1.
-
-Dopo l’articolo 3 della Legge n.44/2015 e successive modifiche è aggiunto il seguente articolo 3-bis:
+1\. Dopo l’articolo 3 della Legge n.44/2015 e successive modifiche è aggiunto il seguente articolo 3-bis:
 
 “Art. 3-bis (Finanziamenti nella forma del contributo in conto interessi a tasso agevolato con garanzia a carico dello Stato in materia di edilizia sovvenzionata)
 
-1.
+1\. Sono concessi finanziamenti nella forma del contributo in conto interessi con garanzia a carico dello Stato per l’acquisto, la costruzione, l’ultimazione, l’ampliamento, la ristrutturazione, il restauro scientifico ed il risanamento conservativo, di fabbricati da adibire a prima abitazione del richiedente, atti a soddisfare le normali esigenze abitative.
 
-Sono concessi finanziamenti nella forma del contributo in conto interessi con garanzia a carico dello Stato per l’acquisto, la costruzione, l’ultimazione, l’ampliamento, la ristrutturazione, il restauro scientifico ed il risanamento conservativo, di fabbricati da adibire a prima abitazione del richiedente, atti a soddisfare le normali esigenze abitative.
-
-2.
-
-Fermi restando i requisiti di cui all’articolo 3, ad esclusione di quelli previsti alle lettere a) e c) del comma 1, possono accedere ai finanziamenti di cui al comma 1 i cittadini sammarinesi e i forensi aventi residenza anagrafica ed effettiva da almeno cinque anni nella Repubblica di San Marino ai sensi della normativa vigente in materia, che abbiano:
+2\. Fermi restando i requisiti di cui all’articolo 3, ad esclusione di quelli previsti alle lettere a) e c) del comma 1, possono accedere ai finanziamenti di cui al comma 1 i cittadini sammarinesi e i forensi aventi residenza anagrafica ed effettiva da almeno cinque anni nella Repubblica di San Marino ai sensi della normativa vigente in materia, che abbiano:
 
 a) età compresa fra i 18 e i 45 anni, al momento della richiesta del contributo;
 
 b) un nucleo familiare con un reddito imponibile pro-capite, riferito all’ultimo triennio, non superiore ad euro 18.000,00 (diciottomila/00).
 
-3.
-
-Possono altresì accedere ai finanziamenti di cui al comma 1 i cittadini sammarinesi e i forensi che siano in possesso di residenza anagrafica ed effettiva da almeno cinque anni nella Repubblica di San Marino, ai sensi della normativa vigente in materia:
+3\. Possono altresì accedere ai finanziamenti di cui al comma 1 i cittadini sammarinesi e i forensi che siano in possesso di residenza anagrafica ed effettiva da almeno cinque anni nella Repubblica di San Marino, ai sensi della normativa vigente in materia:
 
 a) ai quali sia stata accertata una riduzione della capacità psicofisica pari al 100 per cento di invalidità che renda necessaria una tipologia o dimensione abitativa idonea alle modificate esigenze di vita;
 
 b) parenti in linea retta in qualunque grado ed entro il secondo grado in linea collaterale, secondo il computo civile, di soggetto portatore di deficit psicofisico di cui alla lettera a), nel caso in cui la domanda sia finalizzata alla costituzione ovvero adattamento del luogo abitativo per la convivenza con il disabile.
 
-4.
+4\. I requisiti di cui al comma 3, lettere a) e b) devono risultare da apposita certificazione che, unitamente alle modalità di presentazione delle domande e alla relativa procedura, sono previsti con regolamento del Congresso di Stato.
 
-I requisiti di cui al comma 3, lettere a) e b) devono risultare da apposita certificazione che, unitamente alle modalità di presentazione delle domande e alla relativa procedura, sono previsti con regolamento del Congresso di Stato.
-
-5.
-
-Il contributo statale in conto interessi è calcolato sul tasso agevolato, nelle seguenti percentuali:
+5\. Il contributo statale in conto interessi è calcolato sul tasso agevolato, nelle seguenti percentuali:
 
 a) 65 per cento degli interessi per mutui di durata pari o inferiore ad anni venticinque;
 
@@ -1785,57 +1533,31 @@ c) 75 per cento degli interessi per mutui di durata pari o inferiore ad anni qui
 
 d) 80 per cento degli interessi per mutui di durata pari o inferiore ad anni dieci.
 
-6.
+6\. Sugli immobili oggetto dei benefici di cui al presente articolo grava, a favore dello Stato, il privilegio di garanzia del prestito e degli interessi con preferenza su ogni altro creditore dalla data di riscossione della prima rata da parte del beneficiario e fino al totale rimborso del prestito. I predetti immobili non sono cedibili, né per intero né in parte, per atto inter vivos e a qualsiasi titolo, fino all’estinzione del prestito, a pena di decadenza del prestito. La decadenza del prestito è prevista, altresì, in caso di mancato pagamento delle rate di rimborso del mutuo, per un corrispettivo equivalente a sei rate mensili.
 
-Sugli immobili oggetto dei benefici di cui al presente articolo grava, a favore dello Stato, il privilegio di garanzia del prestito e degli interessi con preferenza su ogni altro creditore dalla data di riscossione della prima rata da parte del beneficiario e fino al totale rimborso del prestito. I predetti immobili non sono cedibili, né per intero né in parte, per atto inter vivos e a qualsiasi titolo, fino all’estinzione del prestito, a pena di decadenza del prestito. La decadenza del prestito è prevista, altresì, in caso di mancato pagamento delle rate di rimborso del mutuo, per un corrispettivo equivalente a sei rate mensili.
+7\. Il beneficiario è tenuto a prestare il proprio consenso per l’accensione del privilegio all’atto della presentazione della domanda, la mancanza del quale è motivo di non accoglimento della stessa.
 
-7.
+8\. L’iscrizione del privilegio e la relativa cancellazione sono esenti da imposte di bollo, registro e ipotecaria.
 
-Il beneficiario è tenuto a prestare il proprio consenso per l’accensione del privilegio all’atto della presentazione della domanda, la mancanza del quale è motivo di non accoglimento della stessa.
+9\. La cancellazione del privilegio viene eseguita a seguito di comunicazione da parte dell’istituto di credito dell’avvenuta estinzione del mutuo.
 
-8.
+10\. I finanziamenti di cui al comma 1 devono avere ad oggetto abitazioni che abbiano una superficie totale inferiore a mq. 150, da calcolarsi secondo i disposti di cui all’articolo 3, comma 5, ad eccezione dei casi di cui al comma 3 del presente articolo, il cui limite di superficie dovrà essere compatibile con le necessità di gestione del soggetto disabile come risultanti dalla certificazione di cui al comma 4.
 
-L’iscrizione del privilegio e la relativa cancellazione sono esenti da imposte di bollo, registro e ipotecaria.
+11\. Non ricadono in ogni caso nel divieto di accedere al contributo statale di cui al presente articolo l’ex coniuge a seguito di separazione o il convivente more uxorio che abbiano modificato la propria residenza formando altro nucleo familiare e siano rimasti privi della titolarità di diritti reali su immobili ad uso abitativo, con conseguente intervenuta estinzione del finanziamento a proprio nome.
 
-9.
+12\. I finanziamenti di cui al comma 1 sono concessi per mutui aventi un importo minimo di euro 40.000,00 (quarantamila/00) e massimo di euro 230.000,00 (duecentotrentamila/00).
 
-La cancellazione del privilegio viene eseguita a seguito di comunicazione da parte dell’istituto di credito dell’avvenuta estinzione del mutuo.
+13\. Il Congresso di Stato è autorizzato a convenzionarsi annualmente, con gli istituti di credito disponibili, per l’erogazione dei finanziamenti di cui al presente articolo, a tasso agevolato pari alla media Euribor 6 mesi – 360 giorni corrispondente alla media dei primi tre mesi del semestre maggiorato di uno spread massimo del 2,00 per cento.
 
-10.
+14\. Per l ‘esercizio finanziario 2025, il Congresso di Stato è autorizzato a convenzionarsi con gli istituti di credito disponibili per l’erogazione dei finanziamenti di cui al presente articolo fino alla concorrenza dell’importo complessivo di euro 5.000.000,00 (cinquemilioni/00).
 
-I finanziamenti di cui al comma 1 devono avere ad oggetto abitazioni che abbiano una superficie totale inferiore a mq. 150, da calcolarsi secondo i disposti di cui all’articolo 3, comma 5, ad eccezione dei casi di cui al comma 3 del presente articolo, il cui limite di superficie dovrà essere compatibile con le necessità di gestione del soggetto disabile come risultanti dalla certificazione di cui al comma 4.
+15\. Gli istituti di credito convenzionati esaminano le richieste ammesse ai sensi del presente articolo nell’ambito degli stanziamenti previsti negli esercizi finanziari di competenza, riservandosi di non accoglierle solo in caso di sussistenza di motivate e oggettive ragioni.
 
-11.
+16\. Le domande finalizzate all’ottenimento dei finanziamenti di cui al presente articolo sono istruite ed esaminate applicando le procedure di cui alla presente legge, in quanto applicabili.
 
-Non ricadono in ogni caso nel divieto di accedere al contributo statale di cui al presente articolo l’ex coniuge a seguito di separazione o il convivente more uxorio che abbiano modificato la propria residenza formando altro nucleo familiare e siano rimasti privi della titolarità di diritti reali su immobili ad uso abitativo, con conseguente intervenuta estinzione del finanziamento a proprio nome.
+17\. Gli oneri derivanti dagli interventi di cui al presente articolo sono imputati sul cap. 2-4-7435 “Contributo a carico dello Stato sugli interessi per prestiti di edilizia ed eliminazione barriere architettoniche”, il cui stanziamento è adeguato, qualora necessario, mediante trasferimento dal fondo d’intervento di cui all’articolo 24, lettera a) della Legge 18 febbraio 1998 n.30 o nella prima legge di variazione al Bilancio di Previsione dello Stato.
 
-12.
-
-I finanziamenti di cui al comma 1 sono concessi per mutui aventi un importo minimo di euro 40.000,00 (quarantamila/00) e massimo di euro 230.000,00 (duecentotrentamila/00).
-
-13.
-
-Il Congresso di Stato è autorizzato a convenzionarsi annualmente, con gli istituti di credito disponibili, per l’erogazione dei finanziamenti di cui al presente articolo, a tasso agevolato pari alla media Euribor 6 mesi – 360 giorni corrispondente alla media dei primi tre mesi del semestre maggiorato di uno spread massimo del 2,00 per cento.
-
-14.
-
-Per l ‘esercizio finanziario 2025, il Congresso di Stato è autorizzato a convenzionarsi con gli istituti di credito disponibili per l’erogazione dei finanziamenti di cui al presente articolo fino alla concorrenza dell’importo complessivo di euro 5.000.000,00 (cinquemilioni/00).
-
-15.
-
-Gli istituti di credito convenzionati esaminano le richieste ammesse ai sensi del presente articolo nell’ambito degli stanziamenti previsti negli esercizi finanziari di competenza, riservandosi di non accoglierle solo in caso di sussistenza di motivate e oggettive ragioni.
-
-16.
-
-Le domande finalizzate all’ottenimento dei finanziamenti di cui al presente articolo sono istruite ed esaminate applicando le procedure di cui alla presente legge, in quanto applicabili.
-
-17.
-
-Gli oneri derivanti dagli interventi di cui al presente articolo sono imputati sul cap. 2-4-7435 “Contributo a carico dello Stato sugli interessi per prestiti di edilizia ed eliminazione barriere architettoniche”, il cui stanziamento è adeguato, qualora necessario, mediante trasferimento dal fondo d’intervento di cui all’articolo 24, lettera a) della Legge 18 febbraio 1998 n.30 o nella prima legge di variazione al Bilancio di Previsione dello Stato.
-
-18.
-
-Il requisito temporale della residenza anagrafica ed effettiva, di cui al comma 2, è ridotto ad un anno:
+18\. Il requisito temporale della residenza anagrafica ed effettiva, di cui al comma 2, è ridotto ad un anno:
 
 a) per i residenti effettivi per matrimonio o unione civile con soggetto residente, domiciliati nella Repubblica San Marino da almeno cinque anni;
 
@@ -1845,9 +1567,7 @@ b) per i residenti nella Repubblica di San Marino per matrimonio o unione civile
 
 (Modifica dell’articolo 16 della Legge n.44/2015)
 
-1.
-
-L’articolo 16 della Legge n.44/2015 è cosi sostituito:
+1\. L’articolo 16 della Legge n.44/2015 è cosi sostituito:
 
 “Art. 16 (Revisione del prestito)
 
@@ -1857,15 +1577,11 @@ L’articolo 16 della Legge n.44/2015 è cosi sostituito:
 
 (Modifica dell’articolo 18 della Legge n.44/2015)
 
-1.
-
-L’articolo 18 della Legge n.44/2015 è cosi sostituito:
+1\. L’articolo 18 della Legge n.44/2015 è cosi sostituito:
 
 “Art. 18 (Composizione)
 
-1.
-
-La Commissione per la Gestione dell’Edilizia Residenziale è composta da:
+1\. La Commissione per la Gestione dell’Edilizia Residenziale è composta da:
 
 a) un rappresentante della Segreteria di Stato competente con delega alla Cooperazione;
 
@@ -1873,17 +1589,11 @@ b) due rappresentanti delle forze politiche che esprimono la maggioranza in seno
 
 c) due rappresentanti delle forze politiche che esprimono la minoranza in seno al Consiglio Grande e Generale.
 
-2.
+2\. La Commissione per la Gestione dell’Edilizia Residenziale, nella seduta di insediamento, nomina al suo interno il Presidente ed il Vice Presidente.
 
-La Commissione per la Gestione dell’Edilizia Residenziale, nella seduta di insediamento, nomina al suo interno il Presidente ed il Vice Presidente.
+3\. Partecipano alle sedute della Commissione per la Gestione dell’Edilizia Residenziale un funzionario dell’UO Ufficio per il Lavoro e le Politiche Attive ed un funzionario dell’UO Ragioneria Generale dello Stato.
 
-3.
-
-Partecipano alle sedute della Commissione per la Gestione dell’Edilizia Residenziale un funzionario dell’UO Ufficio per il Lavoro e le Politiche Attive ed un funzionario dell’UO Ragioneria Generale dello Stato.
-
-4.
-
-Sono incompatibili con la carica di membro della Commissione per la Gestione dell’Edilizia Residenziale:
+4\. Sono incompatibili con la carica di membro della Commissione per la Gestione dell’Edilizia Residenziale:
 
 a) i membri del Consiglio Grande e Generale;
 
@@ -1893,35 +1603,23 @@ c) i membri della Commissione per le Politiche Territoriali;
 
 d) chiunque abbia interessi in ambito immobiliare, quale costruttore o socio di attività che operino nella costruzione ovvero nell’intermediazione immobiliare.
 
-5.
+5\. Il segretario verbalizzante può essere scelto anche al di fuori dei membri della Commissione per la Gestione dell’Edilizia Residenziale.
 
-Il segretario verbalizzante può essere scelto anche al di fuori dei membri della Commissione per la Gestione dell’Edilizia Residenziale.
-
-6.
-
-I verbali integrali e relativi allegati di ciascuna seduta della Commissione sono inviati per conoscenza a tutti i Gruppi Consiliari.”.
+6\. I verbali integrali e relativi allegati di ciascuna seduta della Commissione sono inviati per conoscenza a tutti i Gruppi Consiliari.”.
 
 ##### Art. 8
 
 (Introduzione dell’articolo 22-bis alla Legge n.44/2015 e successive modifiche)
 
-1.
-
-Dopo l’articolo 22 della Legge n.44/2015 è aggiunto il seguente articolo 22-bis:
+1\. Dopo l’articolo 22 della Legge n.44/2015 è aggiunto il seguente articolo 22-bis:
 
 “Art 22-bis (Contratto di locazione con riscatto di civile abitazione)
 
-1.
+1\. È istituito il contratto di locazione con riscatto di civile abitazione.
 
-È istituito il contratto di locazione con riscatto di civile abitazione.
+2\. In tali contratti, il corrispettivo del canone di locazione è imputato, in tutto o in parte, al pagamento del prezzo di acquisto dell’immobile, il cui trasferimento di proprietà avviene al momento del versamento dell’ultimo canone.
 
-2.
-
-In tali contratti, il corrispettivo del canone di locazione è imputato, in tutto o in parte, al pagamento del prezzo di acquisto dell’immobile, il cui trasferimento di proprietà avviene al momento del versamento dell’ultimo canone.
-
-3.
-
-Il Congresso di Stato è delegato ad adottare, entro il 31 dicembre 2025, specifico decreto delegato volto a disciplinare:
+3\. Il Congresso di Stato è delegato ad adottare, entro il 31 dicembre 2025, specifico decreto delegato volto a disciplinare:
 
 a) i requisiti e le modalità di accesso ai benefici di cui alla presente legge;
 
@@ -1935,17 +1633,13 @@ d) le eventuali agevolazioni previste per la locazione con riscatto di civile ab
 
 (Disposizioni straordinarie in materia di locazioni)
 
-1.
-
-Si definisce canone calmierato quello determinato, ai soli fini fiscali, attraverso la formula stabilita nell’Allegato A, che può essere modificato o integrato con decreto delegato, sentiti gli uffici competenti.
+1\. Si definisce canone calmierato quello determinato, ai soli fini fiscali, attraverso la formula stabilita nell’Allegato A, che può essere modificato o integrato con decreto delegato, sentiti gli uffici competenti.
 
 ##### Art. 10
 
 (Modifiche all’articolo 22 della Legge 16 dicembre 2013 n.166)
 
-1.
-
-Il comma 2, dell’articolo 22 della Legge 16 dicembre 2013 n.166 è così sostituito:
+1\. Il comma 2, dell’articolo 22 della Legge 16 dicembre 2013 n.166 è così sostituito:
 
 “2.
 
@@ -1957,9 +1651,7 @@ b) 60 per cento del valore del canone di locazione, qualora il canone applicato 
 
 Non si considerano, ai fini della determinazione del reddito imponibile, le somme che i locatari devono rimborsare al proprietario per spese di riscaldamento, illuminazione, acqua potabile e simili. Il reddito derivante dalla locazione di fabbricato destinato a civile abitazione non può essere inferiore all’importo minimo previsto dall’articolo 10 della Legge 21 febbraio 1995 n.27 aggiornato ai sensi di legge.”.
 
-2.
-
-Dopo il comma 2 dell’articolo 22 della Legge n.166/2013 e successive modifiche, è aggiunto il seguente comma 2 bis:
+2\. Dopo il comma 2 dell’articolo 22 della Legge n.166/2013 e successive modifiche, è aggiunto il seguente comma 2 bis:
 
 “2 bis.
 
@@ -1969,9 +1661,7 @@ Il reddito del fabbricato è pari al 100 per cento del canone di locazione per g
 
 (Modifica dell’articolo 22, comma 6 della Legge n.166/2013)
 
-1.
-
-Il comma 6 dell’articolo 22 della Legge n.166/2013 è così sostituito:
+1\. Il comma 6 dell’articolo 22 della Legge n.166/2013 è così sostituito:
 
 “6.
 
@@ -1981,51 +1671,31 @@ L’imputazione dei redditi di cui al comma 2 alla base imponibile avviene nel p
 
 (Monitoraggio immobili non concessi in locazione e immobili allo stato rustico)
 
-1.
+1\. Al fine di realizzare un completo censimento immobiliare, entro sei mesi dall’entrata in vigore della presente legge, le U.O. Ufficio Tecnico del Catasto e Cartografia, Ufficio Tributario, in collaborazione con le UO Ufficio Stato Civile Servizi Demografici ed Elettorali, Ufficio Pianificazione Territoriale e per l’Edilizia, Ufficio del Registro e Conservatoria, Ufficio Attività Economiche e Azienda Autonoma di Stato per i Servizi Pubblici, istituiscono una banca dati online contenente le informazioni relative agli immobili, destinati a civile abitazione, ultimati e non concessi in locazione o comodato e degli immobili allo stato rustico.
 
-Al fine di realizzare un completo censimento immobiliare, entro sei mesi dall’entrata in vigore della presente legge, le U.O. Ufficio Tecnico del Catasto e Cartografia, Ufficio Tributario, in collaborazione con le UO Ufficio Stato Civile Servizi Demografici ed Elettorali, Ufficio Pianificazione Territoriale e per l’Edilizia, Ufficio del Registro e Conservatoria, Ufficio Attività Economiche e Azienda Autonoma di Stato per i Servizi Pubblici, istituiscono una banca dati online contenente le informazioni relative agli immobili, destinati a civile abitazione, ultimati e non concessi in locazione o comodato e degli immobili allo stato rustico.
+2\. Ultimata la banca dati di cui al comma 1, è dato mandato al Congresso di Stato di adottare, con decreto delegato, le successive modalità di raccolta funzionali al costante monitoraggio dei dati, gli obblighi di comunicazione dei dati, da parte dei proprietari di immobili ricadenti nelle condizioni di cui al comma 1, con apposita dichiarazione, nonché le relative sanzioni in caso di inadempienza.
 
-2.
+3\. Il decreto delegato di cui al comma 2 definisce, altresì, le modalità di costante confronto e monitoraggio con le categorie sociali ed economiche ed i competenti organismi interessati.
 
-Ultimata la banca dati di cui al comma 1, è dato mandato al Congresso di Stato di adottare, con decreto delegato, le successive modalità di raccolta funzionali al costante monitoraggio dei dati, gli obblighi di comunicazione dei dati, da parte dei proprietari di immobili ricadenti nelle condizioni di cui al comma 1, con apposita dichiarazione, nonché le relative sanzioni in caso di inadempienza.
-
-3.
-
-Il decreto delegato di cui al comma 2 definisce, altresì, le modalità di costante confronto e monitoraggio con le categorie sociali ed economiche ed i competenti organismi interessati.
-
-4.
-
-Gli uffici della Pubblica Amministrazione di cui al comma 1 possono emanare circolari applicative delle disposizioni contenute nel presente articolo.
+4\. Gli uffici della Pubblica Amministrazione di cui al comma 1 possono emanare circolari applicative delle disposizioni contenute nel presente articolo.
 
 ##### Art. 13
 
 (Bonus ristrutturazioni)
 
-1.
+1\. Sono concessi finanziamenti nella forma del contributo in conto interessi per interventi edilizi su fabbricati ad uso civile abitazione che abbiano una superficie totale inferiore a mq. 200, da calcolarsi sulla base di quanto disposto all’articolo 3, comma 5 della Legge n.44/2015 e successive modifiche.
 
-Sono concessi finanziamenti nella forma del contributo in conto interessi per interventi edilizi su fabbricati ad uso civile abitazione che abbiano una superficie totale inferiore a mq. 200, da calcolarsi sulla base di quanto disposto all’articolo 3, comma 5 della Legge n.44/2015 e successive modifiche.
-
-2.
-
-Dopo il comma 1 ter, dell’articolo 3, della Legge n.44/2015 e successive modifiche è aggiunto il seguente comma 1 quater:
+2\. Dopo il comma 1 ter, dell’articolo 3, della Legge n.44/2015 e successive modifiche è aggiunto il seguente comma 1 quater:
 
 “1 quater. Possono accedere ai contributi di cui al comma 1 il titolare/i titolari della quota di almeno il 50 per cento della piena proprietà o nuda proprietà o usufrutto di un immobile, unitamente o disgiuntamente.”.
 
-3.
+3\. Possono accedere ai finanziamenti di cui al comma 1, esclusivamente persone fisiche aventi residenza anagrafica ed effettiva nella Repubblica di San Marino, ai sensi della normativa vigente in materia, ad esclusione delle residenze atipiche.
 
-Possono accedere ai finanziamenti di cui al comma 1, esclusivamente persone fisiche aventi residenza anagrafica ed effettiva nella Repubblica di San Marino, ai sensi della normativa vigente in materia, ad esclusione delle residenze atipiche.
+4\. I finanziamenti di cui al comma 1 sono concessi per interventi di manutenzione ordinaria di cui all’articolo 100, comma 4, lettere a), b), c), d), e), f), i) e j) della Legge 14 dicembre 2017 n.140 e per la realizzazione di opere comportanti la modifica del numero di unità immobiliari di cui all’articolo 54, comma 2, lettera e) della citata legge, per mutui non inferiori ad euro 30.000,00 (trentamila/00) e non superiori ad euro 100.000,00 (centomila/00). Il contributo statale è calcolato sull’importo del mutuo effettivamente contratto dal richiedente.
 
-4.
+5\. I finanziamenti di cui al comma 1 sono concessi, altresì, per interventi di ristrutturazione e di demolizione con ricostruzione, che comportano efficientamento energetico, per mutui non inferiori ad euro 30.000,00 (trentamila/00) secondo le modalità previste dal comma 6. Il contributo statale, è calcolato sull’importo massimo di cui al comma 6 anche qualora il mutuo sia stato contratto per un importo superiore. Il contributo statale è calcolato sull’importo del mutuo effettivamente contratto dal richiedente.
 
-I finanziamenti di cui al comma 1 sono concessi per interventi di manutenzione ordinaria di cui all’articolo 100, comma 4, lettere a), b), c), d), e), f), i) e j) della Legge 14 dicembre 2017 n.140 e per la realizzazione di opere comportanti la modifica del numero di unità immobiliari di cui all’articolo 54, comma 2, lettera e) della citata legge, per mutui non inferiori ad euro 30.000,00 (trentamila/00) e non superiori ad euro 100.000,00 (centomila/00). Il contributo statale è calcolato sull’importo del mutuo effettivamente contratto dal richiedente.
-
-5.
-
-I finanziamenti di cui al comma 1 sono concessi, altresì, per interventi di ristrutturazione e di demolizione con ricostruzione, che comportano efficientamento energetico, per mutui non inferiori ad euro 30.000,00 (trentamila/00) secondo le modalità previste dal comma 6. Il contributo statale, è calcolato sull’importo massimo di cui al comma 6 anche qualora il mutuo sia stato contratto per un importo superiore. Il contributo statale è calcolato sull’importo del mutuo effettivamente contratto dal richiedente.
-
-6.
-
-Ai fini dell’ottenimento dei finanziamenti di cui al comma 5, il contributo statale è calcolato secondo le seguenti modalità:
+6\. Ai fini dell’ottenimento dei finanziamenti di cui al comma 5, il contributo statale è calcolato secondo le seguenti modalità:
 
 a) fino all’importo massimo di euro 50.000,00 (cinquantamila/00) per il conseguimento di almeno due classi energetiche a partire dalla classe C o B di cui alla Legge 3 aprile 2014 n.48 e successive modifiche;
 
@@ -2035,17 +1705,11 @@ c) fino all’importo massimo di euro 100.000,00 (centomila/00) per il conseguim
 
 d) fino all’importo massimo di euro 100.000,00 (centomila/00) in caso di intervento mediante integrale demolizione e ricostruzione dell’intero fabbricato con conseguimento della classe A+ di cui alla Legge n.48/2014 e successive modifiche.
 
-7.
+7\. Le disposizioni di cui al presente articolo si applicano agli interventi avviati entro il 31 dicembre 2027.
 
-Le disposizioni di cui al presente articolo si applicano agli interventi avviati entro il 31 dicembre 2027.
+8\. Gli Istituti di Credito convenzionati sono tenuti ad esaminare le richieste, ammesse ai sensi dell’articolo 15 nell’ambito degli stanziamenti previsti negli esercizi finanziari di competenza, riservandosi di non accoglierle solo in caso di sussistenza di motivate e oggettive ragioni.
 
-8.
-
-Gli Istituti di Credito convenzionati sono tenuti ad esaminare le richieste, ammesse ai sensi dell’articolo 15 nell’ambito degli stanziamenti previsti negli esercizi finanziari di competenza, riservandosi di non accoglierle solo in caso di sussistenza di motivate e oggettive ragioni.
-
-9.
-
-Il contributo statale è calcolato in percentuale agli interessi maturati sul capitale erogato con il mutuo stesso determinati ai sensi dei commi che precedono ed è pari a:
+9\. Il contributo statale è calcolato in percentuale agli interessi maturati sul capitale erogato con il mutuo stesso determinati ai sensi dei commi che precedono ed è pari a:
 
 a) 70 per cento degli interessi per mutui di durata pari o inferiore ad anni venti;
 
@@ -2055,9 +1719,7 @@ c) 80 per cento degli interessi per mutui di durata pari o inferiore ad anni die
 
 Le percentuali di cui al presente comma sono ridotte del 10 per cento per coloro che abbiano un reddito imponibile pro-capite superiore ad euro 25.000,00 (venticinquemila/00), del 20 per cento per coloro che abbiano un reddito imponibile procapite superiore ad euro 30.000,00 (trentamila/00) e del 35 per cento per coloro che abbiano un reddito imponibile pro-capite superiore ad euro 35.000,00 (trentacinquemila/00).
 
-10.
-
-Sugli interventi di cui al comma 5 si applica un abbattimento dell’onere di concessione edilizia nella misura:
+10\. Sugli interventi di cui al comma 5 si applica un abbattimento dell’onere di concessione edilizia nella misura:
 
 a) del 10 per cento per gli interventi di cui al comma 6, lettera a);
 
@@ -2067,77 +1729,49 @@ c) del 30 per cento per gli interventi di cui al comma 6, lettera c);
 
 d) del 40 per cento per gli interventi di cui al comma 6, lettera d).
 
-11.
+11\. Gli oneri derivanti dagli interventi di cui al comma 4 sono imputati sul cap. 2-47435 “Contributo a carico dello Stato sugli interessi per prestiti di edilizia ed eliminazione barriere architettoniche” e gli oneri derivanti dagli interventi di cui ai commi 5 e 6 del presente articolo sono imputati sul cap. 2-7-6438 “Fondo per interventi straordinari volti alla riqualificazione energetica del patrimonio edilizio”, i cui stanziamenti, qualora necessario, saranno adeguati mediante trasferimento dal fondo d’intervento di cui all’articolo 24, lettera a), della Legge n.30/1998 o nella prima legge di variazione al Bilancio di Previsione dello Stato.
 
-Gli oneri derivanti dagli interventi di cui al comma 4 sono imputati sul cap. 2-47435 “Contributo a carico dello Stato sugli interessi per prestiti di edilizia ed eliminazione barriere architettoniche” e gli oneri derivanti dagli interventi di cui ai commi 5 e 6 del presente articolo sono imputati sul cap. 2-7-6438 “Fondo per interventi straordinari volti alla riqualificazione energetica del patrimonio edilizio”, i cui stanziamenti, qualora necessario, saranno adeguati mediante trasferimento dal fondo d’intervento di cui all’articolo 24, lettera a), della Legge n.30/1998 o nella prima legge di variazione al Bilancio di Previsione dello Stato.
+12\. I fabbricati ad uso civile abitazione che beneficiano dei finanziamenti di cui al presente articolo, sono utilizzati esclusivamente dal richiedente o familiari, entro il secondo grado di parentela, dello stesso o locati, a pena di decadenza dai benefici.
 
-12.
-
-I fabbricati ad uso civile abitazione che beneficiano dei finanziamenti di cui al presente articolo, sono utilizzati esclusivamente dal richiedente o familiari, entro il secondo grado di parentela, dello stesso o locati, a pena di decadenza dai benefici.
-
-13.
-
-Il Congresso di Stato predispone relazione semestrale al 30 giugno e al 31 dicembre di ogni anno in merito alle pratiche di finanziamento nella forma del contributo in conto interessi concesse.
+13\. Il Congresso di Stato predispone relazione semestrale al 30 giugno e al 31 dicembre di ogni anno in merito alle pratiche di finanziamento nella forma del contributo in conto interessi concesse.
 
 ##### Art. 14
 
 (Procedure per l’accesso al bonus ristrutturazioni)
 
-1.
-
-Le domande per usufruire dei finanziamenti previsti dall’articolo 13, sono presentate contestualmente alla domanda di concessione edilizia all’UO Ufficio Pianificazione Territoriale e per l’Edilizia, contestualmente alla domanda di concessione edilizia, corredate dalla seguente documentazione:
+1\. Le domande per usufruire dei finanziamenti previsti dall’articolo 13, sono presentate contestualmente alla domanda di concessione edilizia all’UO Ufficio Pianificazione Territoriale e per l’Edilizia, contestualmente alla domanda di concessione edilizia, corredate dalla seguente documentazione:
 
 a) computo metrico estimativo attestante la spesa prevista sottoscritto da tecnico abilitato;
 
 b) certificato catastale dell’immobile.
 
-2.
+2\. L’UO Ufficio Pianificazione Territoriale e per l’Edilizia, ai fini della presentazione delle domande di cui al comma 1, predispone apposita modulistica.
 
-L’UO Ufficio Pianificazione Territoriale e per l’Edilizia, ai fini della presentazione delle domande di cui al comma 1, predispone apposita modulistica.
+3\. L’UO Ufficio Pianificazione Territoriale e per l’Edilizia esamina ed istruisce le pratiche, trasmettendole alla Commissione per le Politiche Territoriali entro trenta giorni dalla data di presentazione della domanda. Le pratiche relative agli interventi di cui all’all’articolo 13, comma 6, sono istruite ed esaminate unitamente all’UO Ufficio Prevenzione Ambiente e Vigilanza del Territorio applicando le procedure di cui all’articolo 5 del Decreto Delegato 19 febbraio 2024 n.27 in quanto compatibili. In caso di dubbia applicabilità dell’incentivo di cui al comma 6 dell’articolo 13, l’UO Ufficio Prevenzione Ambiente e Vigilanza del Territorio si avvale del parere dell’Autorità di Regolazione per i Servizi Pubblici e l’Energia.
 
-3.
+4\. E’ compito della Commissione per le Politiche Territoriali esaminare le richieste secondo l’ordine cronologico di presentazione e deliberare, entro i limiti del convenzionamento disponibile, l’entità̀ dei finanziamenti erogabili.
 
-L’UO Ufficio Pianificazione Territoriale e per l’Edilizia esamina ed istruisce le pratiche, trasmettendole alla Commissione per le Politiche Territoriali entro trenta giorni dalla data di presentazione della domanda. Le pratiche relative agli interventi di cui all’all’articolo 13, comma 6, sono istruite ed esaminate unitamente all’UO Ufficio Prevenzione Ambiente e Vigilanza del Territorio applicando le procedure di cui all’articolo 5 del Decreto Delegato 19 febbraio 2024 n.27 in quanto compatibili. In caso di dubbia applicabilità dell’incentivo di cui al comma 6 dell’articolo 13, l’UO Ufficio Prevenzione Ambiente e Vigilanza del Territorio si avvale del parere dell’Autorità di Regolazione per i Servizi Pubblici e l’Energia.
+5\. L’ammontare e la durata del finanziamento sono stabiliti dalla Commissione per le Politiche Territoriali, fatte salve le disposizioni della presente legge.
 
-4.
+6\. Gli Istituti di Credito convenzionati emettono impegnativa ad erogare il prestito ai privati richiedenti, nel rispetto dell’importo massimo erogabile e con riferimento espresso all’approvazione deliberata dalla Commissione di cui al comma 4.
 
-E’ compito della Commissione per le Politiche Territoriali esaminare le richieste secondo l’ordine cronologico di presentazione e deliberare, entro i limiti del convenzionamento disponibile, l’entità̀ dei finanziamenti erogabili.
+7\. L’erogazione del finanziamento da parte dell’istituto di credito convenzionato è subordinata all’approvazione del relativo progetto edilizio.
 
-5.
+8\. L’UO Ufficio Pianificazione Territoriale e per l’Edilizia c comunica all’Istituto di Credito l’avvenuta approvazione del progetto edilizio, ai fini dell’erogazione del prestito e della stipula del relativo contratto, dandone informazione anche alla Commissione per le Politiche Territoriali, [all’UO Ragioneria Generale dello Stato], all’Avvocatura dello Stato e all’UO Ufficio Prevenzione Ambiente e Vigilanza del Territorio.
 
-L’ammontare e la durata del finanziamento sono stabiliti dalla Commissione per le Politiche Territoriali, fatte salve le disposizioni della presente legge.
-
-6.
-
-Gli Istituti di Credito convenzionati emettono impegnativa ad erogare il prestito ai privati richiedenti, nel rispetto dell’importo massimo erogabile e con riferimento espresso all’approvazione deliberata dalla Commissione di cui al comma 4.
-
-7.
-
-L’erogazione del finanziamento da parte dell’istituto di credito convenzionato è subordinata all’approvazione del relativo progetto edilizio.
-
-8.
-
-L’UO Ufficio Pianificazione Territoriale e per l’Edilizia c comunica all’Istituto di Credito l’avvenuta approvazione del progetto edilizio, ai fini dell’erogazione del prestito e della stipula del relativo contratto, dandone informazione anche alla Commissione per le Politiche Territoriali, [all’UO Ragioneria Generale dello Stato], all’Avvocatura dello Stato e all’UO Ufficio Prevenzione Ambiente e Vigilanza del Territorio.
-
-9.
-
-I finanziamenti di cui all’articolo 13 sono erogati, dopo aver espletato tutte le formalità di cui al presente articolo, con le seguenti modalità:
+9\. I finanziamenti di cui all’articolo 13 sono erogati, dopo aver espletato tutte le formalità di cui al presente articolo, con le seguenti modalità:
 
 a) il 70 per cento alla stipula del contratto di mutuo;
 
 b) il 30 per cento alla fine dei lavori e, ove previsto, al rilascio del certificato di conformità edilizia.
 
-10.
-
-I finanziamenti di cui all’articolo 13, non sono cumulabili con quelli previsti dalla Legge n.44/2015 e successive modifiche nonché con quelli di cui al Decreto Delegato 5 maggio 2010 n.86, al Decreto Delegato 5 maggio 2010 n.87, al Decreto Delegato 24 maggio 2017 n.51 e successive modifiche e al Decreto Delegato 19 febbraio 2024 n.27.
+10\. I finanziamenti di cui all’articolo 13, non sono cumulabili con quelli previsti dalla Legge n.44/2015 e successive modifiche nonché con quelli di cui al Decreto Delegato 5 maggio 2010 n.86, al Decreto Delegato 5 maggio 2010 n.87, al Decreto Delegato 24 maggio 2017 n.51 e successive modifiche e al Decreto Delegato 19 febbraio 2024 n.27.
 
 ##### Art. 15
 
 (Disposizioni finali)
 
-1.
-
-Il Congresso di Stato, attraverso gli uffici competenti, monitora gli effetti delle disposizioni della presente legge e, sentite le forze sociali ed economiche e l’Associazione Bancaria, è autorizzato, con decreto delegato, i cui effetti decorreranno dalla ratifica del Consiglio Grande e Generale, ad introdurre:
+1\. Il Congresso di Stato, attraverso gli uffici competenti, monitora gli effetti delle disposizioni della presente legge e, sentite le forze sociali ed economiche e l’Associazione Bancaria, è autorizzato, con decreto delegato, i cui effetti decorreranno dalla ratifica del Consiglio Grande e Generale, ad introdurre:
 
 a) modifiche ai parametri previsti nella presente legge;
 
@@ -2145,9 +1779,7 @@ b) specifiche norme fiscali e civilistiche per agevolare interventi sistemici pe
 
 c) modifiche alla Legge 20 febbraio 1991 n.26 e successive modifiche, ritenute necessarie alla luce del monitoraggio di cui all’articolo 12, per incentivare la locazione di immobili.
 
-2.
-
-Ai membri della Commissione per la Gestione dell’Edilizia Residenziale di cui al
+2\. Ai membri della Commissione per la Gestione dell’Edilizia Residenziale di cui al
 
 ## Titolo III della Legge n.44/2015 è riconosciuto un gettone di presenza per la
 
@@ -2157,13 +1789,9 @@ partecipazione alle sedute, parificato a quello previsto dall’Allegato A del D
 
 (Entrata in vigore)
 
-1.
+1\. Sono abrogate le norme in contrasto con la presente legge.
 
-Sono abrogate le norme in contrasto con la presente legge.
-
-2.
-
-La presente legge entra in vigore il quinto giorno successivo a quello della sua legale pubblicazione.
+2\. La presente legge entra in vigore il quinto giorno successivo a quello della sua legale pubblicazione.
 
 Allegato “A” alla Legge 28 aprile 2025 n.64 ALLEGATO A Determinazione “canone calmierato”
 
@@ -2187,25 +1815,13 @@ REGOLAMENTO 30 marzo 2026 n.5 DISPOSIZIONI PER LA DEFINIZIONE DELLE MODALITÀ E 
 
 (Finalità e oggetto)
 
-1.
-
-Il presente regolamento definisce le procedure finalizzate alla concessione di contributi statali, nei limiti delle disponibilità di bilancio, così come previsto dalle Legge 31 marzo 2015 n.44 e successive modifiche, per il reperimento di unità immobiliari da adibire a prima abitazione nel rispetto dei principi di imparzialità, trasparenza e pubblicità della Pubblica Amministrazione, al fine di garantire il soddisfacimento delle normali esigenze abitative dei nuclei familiari residenti nel territorio della Repubblica di San Marino, nonché tempistiche certe per l’esame e la conclusione delle pratiche amministrative.
+1\. Il presente regolamento definisce le procedure finalizzate alla concessione di contributi statali, nei limiti delle disponibilità di bilancio, così come previsto dalle Legge 31 marzo 2015 n.44 e successive modifiche, per il reperimento di unità immobiliari da adibire a prima abitazione nel rispetto dei principi di imparzialità, trasparenza e pubblicità della Pubblica Amministrazione, al fine di garantire il soddisfacimento delle normali esigenze abitative dei nuclei familiari residenti nel territorio della Repubblica di San Marino, nonché tempistiche certe per l’esame e la conclusione delle pratiche amministrative.
 
 ##### Art. 2
 
 (Definizioni)
 
-1.
-
-a)
-
-b)
-
-c)
-
-d)
-
-Ai fini del presente regolamento si intende per:
+d) Ai fini del presente regolamento si intende per:
 
 “contributo ordinario”: il contributo in conto interessi dello Stato di cui alla Legge n.44/2015 e successive modifiche;
 
@@ -2219,35 +1835,23 @@ Ai fini del presente regolamento si intende per:
 
 (Modalità di presentazione delle domande di ammissione al contributo ordinario, al contributo con garanzia e delle domande di erogazione)
 
-1.
+1\. Le domande di ammissione ai contributi e le domande di erogazione sono redatte mediante la compilazione di apposita modulistica, predisposta dall’UO Ufficio Segreteria Tecnico-Amministrativa per le pari opportunità, la bioetica e l'inclusione sociale (di seguito, brevemente, UPOBIS), e pubblicata sul portale www.gov.sm ovvero attraverso l'applicativo denominato "Istanze On Line (IOL)", accessibile tramite il medesimo portale internet della Pubblica Amministrazione.
 
-Le domande di ammissione ai contributi e le domande di erogazione sono redatte mediante la compilazione di apposita modulistica, predisposta dall’UO Ufficio Segreteria Tecnico-Amministrativa per le pari opportunità, la bioetica e l'inclusione sociale (di seguito, brevemente, UPOBIS), e pubblicata sul portale www.gov.sm ovvero attraverso l'applicativo denominato "Istanze On Line (IOL)", accessibile tramite il medesimo portale internet della Pubblica Amministrazione.
-
-2.
-
-Le domande possono essere presentate:
+2\. Le domande possono essere presentate:
 
 a) in modalità analogica, mediante l’invio con raccomandata con avviso di ricevimento o la consegna a mano all’UO UPOBIS, dell’apposita modulistica di cui al comma 1;
 
-b)
+b) in modalità digitale, mediante l’invio attraverso l'applicativo denominato "Istanze On Line (IOL)" di cui al comma 1.
 
-in modalità digitale, mediante l’invio attraverso l'applicativo denominato "Istanze On Line (IOL)" di cui al comma 1.
-
-3.
-
-L’UO UPOBIS non dà corso alle domande presentate con modalità diverse da quelle previste ai commi 1 e 2.
+3\. L’UO UPOBIS non dà corso alle domande presentate con modalità diverse da quelle previste ai commi 1 e 2.
 
 ##### Art. 4
 
 (Domanda di ammissione al contributo ordinario e relativa istruttoria)
 
-1.
+1\. La domanda di ammissione al contributo ordinario deve indicare i dati anagrafici dei richiedenti, nonché i dati catastali della civile abitazione per la quale viene richiesto e le dichiarazioni utili ai fini della verifica del possesso dei requisiti.
 
-La domanda di ammissione al contributo ordinario deve indicare i dati anagrafici dei richiedenti, nonché i dati catastali della civile abitazione per la quale viene richiesto e le dichiarazioni utili ai fini della verifica del possesso dei requisiti.
-
-2.
-
-Il beneficiario diretto deve dichiarare mediante apposito modulo, redatto sotto forma di dichiarazione sostitutiva ai sensi dell’articolo 11, comma 2, lettera b) della Legge n.44/2015, i seguenti dati:
+2\. Il beneficiario diretto deve dichiarare mediante apposito modulo, redatto sotto forma di dichiarazione sostitutiva ai sensi dell’articolo 11, comma 2, lettera b) della Legge n.44/2015, i seguenti dati:
 
 a) la data e il luogo di nascita, il codice ISS, la cittadinanza;
 
@@ -2265,9 +1869,7 @@ g) di non aver ceduto a terzi, a qualunque titolo, un immobile adeguato alle pro
 
 h) di non aver già beneficiato delle agevolazioni di cui alla Legge 24 aprile 1980 n.32, alla Legge 8 luglio 1981 n.59, alla Legge 15 dicembre 1994 n.110 e successive modifiche, alla Legge n.44/2015 e successive modifiche ed agli articoli 13 della Legge 28 aprile 2025 n.64, nonché dei contributi elencati dall’articolo 5, comma 3 della Legge n.44/2015.
 
-3.
-
-Il beneficiario indiretto deve dichiarare mediante apposito modulo, redatto sotto forma di dichiarazione sostitutiva ai sensi dell’articolo 11, comma 2, lettera b) della Legge n.44/2015, i seguenti dati:
+3\. Il beneficiario indiretto deve dichiarare mediante apposito modulo, redatto sotto forma di dichiarazione sostitutiva ai sensi dell’articolo 11, comma 2, lettera b) della Legge n.44/2015, i seguenti dati:
 
 a) la data e il luogo di nascita, il codice ISS, la cittadinanza;
 
@@ -2283,9 +1885,7 @@ e) di non aver ceduto a terzi a qualunque titolo un immobile adeguato alle propr
 
 f) di non aver già beneficiato delle agevolazioni di cui alla Legge n.32/1980, alla Legge n.59/1981, alla Legge n.110/1994 e successive modifiche, alla Legge n.44/2015 e successive modifiche ed all’articolo 13 della Legge n.64/2025, nonché dei contributi elencati all’articolo 5, comma 3 della Legge n.44/2015.
 
-4.
-
-La domanda di ammissione al contributo ordinario, deve essere, altresì, corredata della documentazione di seguito indicata:
+4\. La domanda di ammissione al contributo ordinario, deve essere, altresì, corredata della documentazione di seguito indicata:
 
 a) contratto di mutuo in copia conforme;
 
@@ -2305,21 +1905,15 @@ h) eventuali dichiarazioni dei redditi prodotte all’estero dei membri del nucl
 
 i) certificazioni e documenti di cui all’articolo 6, qualora la richiesta sia presentata ai sensi dell’articolo 3, comma 7 della Legge n.44/2015 e successive modifiche.
 
-5.
+5\. L’UO UPOBIS esamina la domanda sulla base del nucleo familiare risultante dallo stato di famiglia ai sensi dell’articolo 2 della Legge n.44/2015.
 
-L’UO UPOBIS esamina la domanda sulla base del nucleo familiare risultante dallo stato di famiglia ai sensi dell’articolo 2 della Legge n.44/2015.
-
-6.
-
-Qualora la domanda sia correttamente redatta e completa di tutti i documenti necessari, l’UO UPOBIS provvede, a verificarne i requisiti e adotta il provvedimento di ammissione ovvero di rigetto della domanda del richiedente entro sessanta giorni. L’UO UPOBIS può chiedere integrazioni alla domanda o ulteriore documentazione, informazioni, precisazioni o elementi di giudizio, qualora ritenuti necessari o opportuni, ai fini della determinazione del provvedimento; dette integrazioni devono pervenire entro sessanta giorni dalla richiesta, salvo il caso in cui sia necessario acquisire certificazioni provenienti dall’estero per le quali l’Ufficio può concedere un termine superiore. Il provvedimento è comunicato al richiedente mediante raccomandata con avviso di ricevimento o tramite SERC.
+6\. Qualora la domanda sia correttamente redatta e completa di tutti i documenti necessari, l’UO UPOBIS provvede, a verificarne i requisiti e adotta il provvedimento di ammissione ovvero di rigetto della domanda del richiedente entro sessanta giorni. L’UO UPOBIS può chiedere integrazioni alla domanda o ulteriore documentazione, informazioni, precisazioni o elementi di giudizio, qualora ritenuti necessari o opportuni, ai fini della determinazione del provvedimento; dette integrazioni devono pervenire entro sessanta giorni dalla richiesta, salvo il caso in cui sia necessario acquisire certificazioni provenienti dall’estero per le quali l’Ufficio può concedere un termine superiore. Il provvedimento è comunicato al richiedente mediante raccomandata con avviso di ricevimento o tramite SERC.
 
 ##### Art. 5
 
 (Domanda di ammissione al contributo con garanzia e relativa attività istruttoria)
 
-1.
-
-La domanda di ammissione al contributo con garanzia dello Stato deve contenere, oltre all’espresso consenso all’iscrizione del privilegio a garanzia in favore dell’Ecc.ma Camera ai sensi dell’articolo 3-bis, comma 7 della Legge n.44/2015, i dati e le dichiarazioni di cui all’articolo 4, commi 1, 2 e 3, nonché essere corredata della documentazione di seguito indicata:
+1\. La domanda di ammissione al contributo con garanzia dello Stato deve contenere, oltre all’espresso consenso all’iscrizione del privilegio a garanzia in favore dell’Ecc.ma Camera ai sensi dell’articolo 3-bis, comma 7 della Legge n.44/2015, i dati e le dichiarazioni di cui all’articolo 4, commi 1, 2 e 3, nonché essere corredata della documentazione di seguito indicata:
 
 a) documentazione in copia conforme attestante il diritto di usufrutto della quota di almeno il 50 per cento dell’immobile, qualora il richiedente intenda usufruire del contributo quale titolare del diritto di usufrutto;
 
@@ -2333,55 +1927,33 @@ e) eventuali dichiarazioni dei redditi prodotte all’estero dei membri del nucl
 
 f) certificazioni e documenti di cui all’articolo 6, qualora la richiesta sia presentata ai sensi dell’articolo 3-bis, comma 3 della Legge n.44/2015.
 
-2.
+2\. L’UO UPOBIS esamina la domanda sulla base del nucleo familiare risultante dallo stato di famiglia ai sensi dell’articolo 2 della Legge n.44/2015.
 
-L’UO UPOBIS esamina la domanda sulla base del nucleo familiare risultante dallo stato di famiglia ai sensi dell’articolo 2 della Legge n.44/2015.
+3\. Laddove l’istruttoria di cui al comma 2 abbia esito positivo, l’UO UPOBIS provvede a darne comunicazione al richiedente, mediante raccomandata con avviso di ricevimento o tramite SERC, nonché all’Istituto di credito indicato dal richiedente.
 
-3.
+4\. L’Istituto di credito mutuante, ricevuta la comunicazione di cui al comma 3, esamina la domanda di mutuo ai sensi dell’articolo 3-bis, comma 15 della Legge n.44/2015 e provvede a comunicare al richiedente e all’UO UPOBIS la concessione o il diniego del finanziamento richiesto.
 
-Laddove l’istruttoria di cui al comma 2 abbia esito positivo, l’UO UPOBIS provvede a darne comunicazione al richiedente, mediante raccomandata con avviso di ricevimento o tramite SERC, nonché all’Istituto di credito indicato dal richiedente.
+5\. La stipula del contratto di mutuo, l’atto di iscrizione del privilegio e l’eventuale atto di compravendita, qualora previsto, avvengono contestualmente. È onere del richiedente, ottenute le comunicazioni di cui ai commi 3 e 4, adoperarsi per il perfezionamento della pratica. A tal fine, il richiedente è tenuto a produrre all’UO Avvocatura dello Stato attestazione notarile dalla quale risulti che l’immobile oggetto di finanziamento sia libero da pesi e vincoli, nonché ogni ulteriore documentazione necessaria.
 
-4.
+6\. L’ammontare del privilegio in favore dell’Ecc.ma Camera è determinato secondo quanto disposto dalle convenzioni stipulate tra il Congresso di Stato e gli Istituti di credito ai sensi dell’articolo 3-bis, commi 13 e 14 della Legge n.44/2015.
 
-L’Istituto di credito mutuante, ricevuta la comunicazione di cui al comma 3, esamina la domanda di mutuo ai sensi dell’articolo 3-bis, comma 15 della Legge n.44/2015 e provvede a comunicare al richiedente e all’UO UPOBIS la concessione o il diniego del finanziamento richiesto.
+7\. La garanzia a carico dello Stato si intende operante solo ed esclusivamente previa regolare iscrizione di privilegio, a favore dell’Ecc.ma Camera e gravante sull’immobile oggetto del mutuo già individuato nella comunicazione prodotta dall’UO UPOBIS ai sensi del comma 3.
 
-5.
+8\. Il richiedente si considera ammesso a fruire del contributo in conto interessi una volta espletata con successo l’intera procedura di cui al presente articolo.
 
-La stipula del contratto di mutuo, l’atto di iscrizione del privilegio e l’eventuale atto di compravendita, qualora previsto, avvengono contestualmente. È onere del richiedente, ottenute le comunicazioni di cui ai commi 3 e 4, adoperarsi per il perfezionamento della pratica. A tal fine, il richiedente è tenuto a produrre all’UO Avvocatura dello Stato attestazione notarile dalla quale risulti che l’immobile oggetto di finanziamento sia libero da pesi e vincoli, nonché ogni ulteriore documentazione necessaria.
-
-6.
-
-L’ammontare del privilegio in favore dell’Ecc.ma Camera è determinato secondo quanto disposto dalle convenzioni stipulate tra il Congresso di Stato e gli Istituti di credito ai sensi dell’articolo 3-bis, commi 13 e 14 della Legge n.44/2015.
-
-7.
-
-La garanzia a carico dello Stato si intende operante solo ed esclusivamente previa regolare iscrizione di privilegio, a favore dell’Ecc.ma Camera e gravante sull’immobile oggetto del mutuo già individuato nella comunicazione prodotta dall’UO UPOBIS ai sensi del comma 3.
-
-8.
-
-Il richiedente si considera ammesso a fruire del contributo in conto interessi una volta espletata con successo l’intera procedura di cui al presente articolo.
-
-9.
-
-La garanzia a carico dello Stato ed il relativo privilegio a favore dell’Ecc.ma Camera permangono dal momento di iscrizione del privilegio e fino all’estinzione del mutuo,
+9\. La garanzia a carico dello Stato ed il relativo privilegio a favore dell’Ecc.ma Camera permangono dal momento di iscrizione del privilegio e fino all’estinzione del mutuo,
 
 anche qualora il mutuatario, precedentemente ammesso, cessi di essere titolare dei requisiti necessari al mantenimento del contributo.
 
-10.
+10\. L’UO Avvocatura dello Stato comunica all’UO UPOBIS l’avvenuta iscrizione del privilegio in favore dell’Ecc.ma Camera mediante la trasmissione della relativa nota.
 
-L’UO Avvocatura dello Stato comunica all’UO UPOBIS l’avvenuta iscrizione del privilegio in favore dell’Ecc.ma Camera mediante la trasmissione della relativa nota.
-
-11.
-
-Qualora l’istruttoria di cui al comma 2 abbia esito negativo l’UO UPOBIS provvede a rigettare la domanda di ammissione mediante comunicazione al richiedente con raccomandata con avviso di ricevimento o tramite SERC. Il richiedente, qualora in possesso dei relativi requisiti, può comunque richiedere l’ammissione al contributo ordinario.
+11\. Qualora l’istruttoria di cui al comma 2 abbia esito negativo l’UO UPOBIS provvede a rigettare la domanda di ammissione mediante comunicazione al richiedente con raccomandata con avviso di ricevimento o tramite SERC. Il richiedente, qualora in possesso dei relativi requisiti, può comunque richiedere l’ammissione al contributo ordinario.
 
 ##### Art. 6
 
 (Documentazione integrativa per le domande di contributo relative a soggetti con invalidità)
 
-1.
-
-La domanda di ammissione ai contribuiti previsti ai sensi degli articoli 3, comma 7 e 3-bis, comma 3 della Legge n.44/2015 e successive modifiche, oltre a quanto previsto dagli articoli 4 e 5, deve essere, altresì, corredata dalla seguente documentazione:
+1\. La domanda di ammissione ai contribuiti previsti ai sensi degli articoli 3, comma 7 e 3-bis, comma 3 della Legge n.44/2015 e successive modifiche, oltre a quanto previsto dagli articoli 4 e 5, deve essere, altresì, corredata dalla seguente documentazione:
 
 a) certificato attestante l’invalidità del 100 per cento del richiedente o del soggetto convivente rilasciato dalla Commissione per gli Accertamenti Sanitari Individuali (CASI);
 
@@ -2393,9 +1965,7 @@ c) relazione tecnica sull’adeguatezza dell’intervento di ristrutturazione, a
 
 (Documentazione da allegare alle domande di ammissione di soci di società cooperative)
 
-1.
-
-Nei casi di contributo per unità abitativa assegnata al richiedente da una società cooperativa, oltre ai documenti previsti dall’articolo 11 della Legge n.44/2015, devono essere allegati alla domanda di ammissione:
+1\. Nei casi di contributo per unità abitativa assegnata al richiedente da una società cooperativa, oltre ai documenti previsti dall’articolo 11 della Legge n.44/2015, devono essere allegati alla domanda di ammissione:
 
 a) il certificato di vigenza della cooperativa;
 
@@ -2407,173 +1977,103 @@ c) il verbale del consiglio di amministrazione della cooperativa dal quale risul
 
 (Quantificazione dell’importo del contributo ordinario e del contributo con garanzia)
 
-1.
+1\. Il contributo ordinario ed il contributo con garanzia sono calcolati sulla base della somma concessa dall’Istituto mutuante e comunque entro i limiti previsti rispettivamente agli articoli 5 e 3-bis della Legge n.44/2015 e successive modifiche.
 
-Il contributo ordinario ed il contributo con garanzia sono calcolati sulla base della somma concessa dall’Istituto mutuante e comunque entro i limiti previsti rispettivamente agli articoli 5 e 3-bis della Legge n.44/2015 e successive modifiche.
+2\. La determinazione del contributo avviene con l’adozione di un piano di ammortamento che prevede rate costanti mensili (sistema francese), al tasso indicato dalla Banca Centrale della Repubblica di San Marino ad inizio di ogni anno. Il calcolo del contributo ordinario è determinato secondo le modalità indicate all’articolo 6 della Legge n.44/2015.
 
-2.
+3\. Il calcolo del contributo con garanzia a carico dello Stato è determinato sulla base di quanto previsto dall’articolo 3-bis, commi 5 e 13 della Legge n.44/2015.
 
-La determinazione del contributo avviene con l’adozione di un piano di ammortamento che prevede rate costanti mensili (sistema francese), al tasso indicato dalla Banca Centrale della Repubblica di San Marino ad inizio di ogni anno. Il calcolo del contributo ordinario è determinato secondo le modalità indicate all’articolo 6 della Legge n.44/2015.
+4\. Per le richieste inerenti alla costruzione, ristrutturazione, ampliamento, restauro ed il risanamento di fabbricati da adibire a prima abitazione, fermi restando i limiti di cui al comma 1, il contributo in conto interessi, sia ordinario sia assistito da garanzia a carico dello Stato, è erogato previa presentazione delle fatture, documentate da ricevuta SMAC o registrazione SMAC, relative agli interventi effettuati e solo nel limite di tale complessivo ammontare.
 
-3.
+5\. Le fatture di cui al comma 3, qualora la richiesta riguardi la ristrutturazione o l’ampliamento di fabbricati da adibire a prima abitazione, devono essere prodotte all’UO UPOBIS entro il termine massimo di due anni, decorrente dal momento di stipula del mutuo.
 
-Il calcolo del contributo con garanzia a carico dello Stato è determinato sulla base di quanto previsto dall’articolo 3-bis, commi 5 e 13 della Legge n.44/2015.
+6\. Le fatture di cui al comma 3, qualora la richiesta riguardi la costruzione, il restauro ed il risanamento di fabbricati da adibire a prima abitazione, devono essere prodotte all’UO UPOBIS entro il termine massimo di cinque anni, decorrente dal momento di stipula del mutuo.
 
-4.
+7\. Le fatture prodotte successivamente ai termini di cui ai commi 4 e 5 non sono computate, al fine della determinazione dell’importo del contributo.
 
-Per le richieste inerenti alla costruzione, ristrutturazione, ampliamento, restauro ed il risanamento di fabbricati da adibire a prima abitazione, fermi restando i limiti di cui al comma 1, il contributo in conto interessi, sia ordinario sia assistito da garanzia a carico dello Stato, è erogato previa presentazione delle fatture, documentate da ricevuta SMAC o registrazione SMAC, relative agli interventi effettuati e solo nel limite di tale complessivo ammontare.
+8\. Qualora l’importo oggetto del finanziamento sia erogato dall’Istituto di credito in base allo stato di avanzamento dei lavori (di seguito, brevemente, SAL), l’erogazione del contributo avviene sulla base degli importi relativi ai singoli SAL.
 
-5.
-
-Le fatture di cui al comma 3, qualora la richiesta riguardi la ristrutturazione o l’ampliamento di fabbricati da adibire a prima abitazione, devono essere prodotte all’UO UPOBIS entro il termine massimo di due anni, decorrente dal momento di stipula del mutuo.
-
-6.
-
-Le fatture di cui al comma 3, qualora la richiesta riguardi la costruzione, il restauro ed il risanamento di fabbricati da adibire a prima abitazione, devono essere prodotte all’UO UPOBIS entro il termine massimo di cinque anni, decorrente dal momento di stipula del mutuo.
-
-7.
-
-Le fatture prodotte successivamente ai termini di cui ai commi 4 e 5 non sono computate, al fine della determinazione dell’importo del contributo.
-
-8.
-
-Qualora l’importo oggetto del finanziamento sia erogato dall’Istituto di credito in base allo stato di avanzamento dei lavori (di seguito, brevemente, SAL), l’erogazione del contributo avviene sulla base degli importi relativi ai singoli SAL.
-
-9.
-
-Le disposizioni di cui al presente articolo si applicano integralmente anche laddove il richiedente abbia inteso avvalersi delle certificazioni e documenti di cui all’articolo 6.
+9\. Le disposizioni di cui al presente articolo si applicano integralmente anche laddove il richiedente abbia inteso avvalersi delle certificazioni e documenti di cui all’articolo 6.
 
 ##### Art. 9
 
 (Domanda annuale di erogazione del contributo)
 
-1.
+1\. Una volta ammesso ad uno dei contributi, il richiedente deve presentare all’UO UPOBIS, annualmente, nel periodo compreso tra il 1° febbraio ed il 30 settembre di ogni anno la relativa domanda di erogazione. In mancanza di presentazione della domanda di erogazione il contributo non viene erogato.
 
-Una volta ammesso ad uno dei contributi, il richiedente deve presentare all’UO UPOBIS, annualmente, nel periodo compreso tra il 1° febbraio ed il 30 settembre di ogni anno la relativa domanda di erogazione. In mancanza di presentazione della domanda di erogazione il contributo non viene erogato.
+2\. Le domande di erogazione dei contributi sono redatte utilizzando l’apposita modulistica, predisposta dall’UO UPOBIS e pubblicata sul sito www.gov.sm ovvero attraverso l'applicativo denominato "Istanze On Line (IOL)" con le stesse modalità previste dall’articolo 3.
 
-2.
+3\. La domanda deve contenere la dichiarazione, ai sensi della Legge 5 ottobre 2011 n.159 e successive modifiche, che i requisiti di cui all’articolo 3, comma 1, lettere b) e c) della Legge n.44/2015 e successive modifiche permangono in capo al nucleo familiare richiedente e che esso risiede nell’abitazione oggetto del mutuo.
 
-Le domande di erogazione dei contributi sono redatte utilizzando l’apposita modulistica, predisposta dall’UO UPOBIS e pubblicata sul sito www.gov.sm ovvero attraverso l'applicativo denominato "Istanze On Line (IOL)" con le stesse modalità previste dall’articolo 3.
-
-3.
-
-La domanda deve contenere la dichiarazione, ai sensi della Legge 5 ottobre 2011 n.159 e successive modifiche, che i requisiti di cui all’articolo 3, comma 1, lettere b) e c) della Legge n.44/2015 e successive modifiche permangono in capo al nucleo familiare richiedente e che esso risiede nell’abitazione oggetto del mutuo.
-
-4.
-
-Alla domanda di erogazione deve essere allegata:
+4\. Alla domanda di erogazione deve essere allegata:
 
 a) la documentazione comprovante l’avvenuto pagamento dei ratei del mutuo, così come stabilito dall’articolo 7, comma 1, lettera a) della Legge n.44/2015 e successive modifiche;
 
-b)
+b) la copia del contratto di mutuo e dell’eventuale contratto di compravendita, entrambi in copia conforme, qualora si tratti della prima domanda di erogazione nell’ambito del contributo con garanzia a carico dello Stato e il richiedente non abbia già provveduto alla loro produzione nei confronti dell’UO UPOBIS.
 
-la copia del contratto di mutuo e dell’eventuale contratto di compravendita, entrambi in copia conforme, qualora si tratti della prima domanda di erogazione nell’ambito del contributo con garanzia a carico dello Stato e il richiedente non abbia già provveduto alla loro produzione nei confronti dell’UO UPOBIS.
+5\. Qualora il mutuatario abbia effettuato un pagamento parziale dei ratei, il contributo in conto interessi è riconosciuto solo parzialmente, ed è calcolato in modo proporzionale.
 
-5.
+6\. Le domande di erogazione del contributo sono istruite e processate dall’UO UPOBIS allorquando sono disponibili le dichiarazioni dei redditi relative all’anno precedente, secondo l’ordine di ricezione.
 
-Qualora il mutuatario abbia effettuato un pagamento parziale dei ratei, il contributo in conto interessi è riconosciuto solo parzialmente, ed è calcolato in modo proporzionale.
+7\. L’UO UPOBIS procede annualmente alla verifica circa la permanenza, in capo al nucleo familiare richiedente, dei requisiti per la fruizione dei contributi ai sensi dell’articolo 16 della Legge n.44/2015 e successive modifiche.
 
-6.
-
-Le domande di erogazione del contributo sono istruite e processate dall’UO UPOBIS allorquando sono disponibili le dichiarazioni dei redditi relative all’anno precedente, secondo l’ordine di ricezione.
-
-7.
-
-L’UO UPOBIS procede annualmente alla verifica circa la permanenza, in capo al nucleo familiare richiedente, dei requisiti per la fruizione dei contributi ai sensi dell’articolo 16 della Legge n.44/2015 e successive modifiche.
-
-8.
-
-Nello svolgimento delle suddette verifiche l’UO UPOBIS può avvalersi della collaborazione di altri uffici e servizi dell’Amministrazione
+8\. Nello svolgimento delle suddette verifiche l’UO UPOBIS può avvalersi della collaborazione di altri uffici e servizi dell’Amministrazione
 
 ##### Art. 10
 
 (Subentro o accollo nell’erogazione del contributo)
 
-1.
+1\. In caso di decesso del richiedente già ammesso a uno dei contributi previsti dalla normativa vigente, il soggetto che subentra nel contratto di mutuo può, entro il termine di un anno, subentrare, altresì, nell’erogazione del contributo ovvero rinunciarvi.
 
-In caso di decesso del richiedente già ammesso a uno dei contributi previsti dalla normativa vigente, il soggetto che subentra nel contratto di mutuo può, entro il termine di un anno, subentrare, altresì, nell’erogazione del contributo ovvero rinunciarvi.
+2\. Il subentro nell’erogazione del contributo è consentito esclusivamente qualora il soggetto subentrante sia in possesso di tutti i requisiti previsti dalla Legge n.44/2015 e successive modifiche per l’accesso al beneficio.
 
-2.
+3\. In caso di subentro in uno dei due contributi, l’erogazione prosegue secondo il piano di ammortamento già adottato ai sensi dell’articolo 8, comma 2.
 
-Il subentro nell’erogazione del contributo è consentito esclusivamente qualora il soggetto subentrante sia in possesso di tutti i requisiti previsti dalla Legge n.44/2015 e successive modifiche per l’accesso al beneficio.
+4\. Qualora il soggetto subentrante nel mutuo non intenda subentrare nell’erogazione del contributo ovvero non risulti in possesso dei requisiti previsti, l’erogazione del contributo in conto interessi cessa. Resta in ogni caso ferma, ove prevista, la garanzia a carico dello Stato, nonché il relativo privilegio a favore dell’Ecc.ma Camera, che permangono fino all’estinzione del mutuo finanziato.
 
-3.
-
-In caso di subentro in uno dei due contributi, l’erogazione prosegue secondo il piano di ammortamento già adottato ai sensi dell’articolo 8, comma 2.
-
-4.
-
-Qualora il soggetto subentrante nel mutuo non intenda subentrare nell’erogazione del contributo ovvero non risulti in possesso dei requisiti previsti, l’erogazione del contributo in conto interessi cessa. Resta in ogni caso ferma, ove prevista, la garanzia a carico dello Stato, nonché il relativo privilegio a favore dell’Ecc.ma Camera, che permangono fino all’estinzione del mutuo finanziato.
-
-5.
-
-Le disposizioni del presente articolo si applicano, altresì, in caso di accollo del mutuo da parte di soggetto già beneficiario diretto o indiretto, a seguito di separazione omologata, scioglimento o cessazione degli effetti civili del matrimonio o scioglimento di unione civile.
+5\. Le disposizioni del presente articolo si applicano, altresì, in caso di accollo del mutuo da parte di soggetto già beneficiario diretto o indiretto, a seguito di separazione omologata, scioglimento o cessazione degli effetti civili del matrimonio o scioglimento di unione civile.
 
 ##### Art. 11
 
 (Modifica della residenza e relativa comunicazione)
 
-1.
-
-Il beneficiario del contributo è tenuto a comunicare all’UO UPOBIS, nel termine di trenta giorni, ogni variazione di residenza.
+1\. Il beneficiario del contributo è tenuto a comunicare all’UO UPOBIS, nel termine di trenta giorni, ogni variazione di residenza.
 
 ##### Art. 12
 
 (Disposizioni applicative)
 
-1.
-
-Ai fini della determinazione dei requisiti di cui all’articolo 3, comma 1, lettera c) e all’articolo 3-bis, comma 2, lettera b) della Legge n.44/2015 e successive modifiche, il
+1\. Ai fini della determinazione dei requisiti di cui all’articolo 3, comma 1, lettera c) e all’articolo 3-bis, comma 2, lettera b) della Legge n.44/2015 e successive modifiche, il
 
 calcolo del reddito avviene sommando l’imponibile del totale della tassazione ordinaria con l’imponibile del totale della tassazione separata al netto delle passività deducibili di cui all’articolo 14, comma 1 della Legge 16 dicembre 2013 n.166 e successive modifiche.
 
-2.
+2\. La verifica dei requisiti di cui al comma 1 è effettuata dall’UO UPOBIS sulla base delle dichiarazioni dei redditi certificate dall’UO Ufficio Tributario o prodotte dal richiedente ai sensi dell’articolo 4, comma 4, lettera h) e dell’articolo 5, comma 1, lettera e). Per le dichiarazioni dei redditi prodotte all’estero, l’UO UPOBIS provvede a chiedere il competente parere all’UO Ufficio Tributario per l’individuazione delle esatte voci da considerare ai fini del calcolo di cui al comma 1.
 
-La verifica dei requisiti di cui al comma 1 è effettuata dall’UO UPOBIS sulla base delle dichiarazioni dei redditi certificate dall’UO Ufficio Tributario o prodotte dal richiedente ai sensi dell’articolo 4, comma 4, lettera h) e dell’articolo 5, comma 1, lettera e). Per le dichiarazioni dei redditi prodotte all’estero, l’UO UPOBIS provvede a chiedere il competente parere all’UO Ufficio Tributario per l’individuazione delle esatte voci da considerare ai fini del calcolo di cui al comma 1.
+3\. Ai fini della determinazione del reddito medio annuo si fa riferimento alle dichiarazioni dei redditi certificabili dall’UO Ufficio Tributario o analogo Ufficio estero.
 
-3.
+4\. Il numero e l’identità dei componenti il nucleo familiare richiedente, quale elemento imprescindibile ai fini istruttori ai sensi degli articoli 4, 5 e 9, è quello risultante dallo stato di famiglia aggiornato al momento di presentazione della domanda di ammissione o di erogazione.
 
-Ai fini della determinazione del reddito medio annuo si fa riferimento alle dichiarazioni dei redditi certificabili dall’UO Ufficio Tributario o analogo Ufficio estero.
+5\. Ai sensi dell’articolo 3, comma 2 della Legge n.44/2015 e successive modifiche, laddove un componente del nucleo familiare percepisca durante l’anno un reddito, determinato ai sensi del comma 1, inferiore all’importo di euro 10.000,00 (diecimila/00), tale importo non è cumulato con quello degli altri componenti ai fini delle verifiche reddituali.
 
-4.
+6\. Ai sensi dell’articolo 3, comma 1 bis, lettera a), nonché dell’articolo 3-bis, comma 18, lettera a) della Legge n.44/2015 e successive modifiche, per residenti effettivi per matrimonio o unione civile con soggetto residente, domiciliati nella Repubblica di San Marino da almeno cinque anni si intendono i richiedenti che, residenti da almeno un anno, siano stati, anteriormente all’acquisto della residenza, in possesso di valido titolo di permanenza in territorio per un periodo non inferiore a cinque anni.
 
-Il numero e l’identità dei componenti il nucleo familiare richiedente, quale elemento imprescindibile ai fini istruttori ai sensi degli articoli 4, 5 e 9, è quello risultante dallo stato di famiglia aggiornato al momento di presentazione della domanda di ammissione o di erogazione.
+7\. Ai sensi dell’articolo 3, comma 5 della Legge n.44/2015 e successive modifiche, per “unità immobiliare” si intende quella come definita dall’ultimo titolo abilitativo edilizio approvato.
 
-5.
+8\. Ai sensi del presente regolamento, laddove non specificato diversamente, sono applicabili le disposizioni di cui alla Legge n.159/2011 e successive modifiche e alla Legge 5 ottobre 2011 n.160 e successive modifiche.
 
-Ai sensi dell’articolo 3, comma 2 della Legge n.44/2015 e successive modifiche, laddove un componente del nucleo familiare percepisca durante l’anno un reddito, determinato ai sensi del comma 1, inferiore all’importo di euro 10.000,00 (diecimila/00), tale importo non è cumulato con quello degli altri componenti ai fini delle verifiche reddituali.
-
-6.
-
-Ai sensi dell’articolo 3, comma 1 bis, lettera a), nonché dell’articolo 3-bis, comma 18, lettera a) della Legge n.44/2015 e successive modifiche, per residenti effettivi per matrimonio o unione civile con soggetto residente, domiciliati nella Repubblica di San Marino da almeno cinque anni si intendono i richiedenti che, residenti da almeno un anno, siano stati, anteriormente all’acquisto della residenza, in possesso di valido titolo di permanenza in territorio per un periodo non inferiore a cinque anni.
-
-7.
-
-Ai sensi dell’articolo 3, comma 5 della Legge n.44/2015 e successive modifiche, per “unità immobiliare” si intende quella come definita dall’ultimo titolo abilitativo edilizio approvato.
-
-8.
-
-Ai sensi del presente regolamento, laddove non specificato diversamente, sono applicabili le disposizioni di cui alla Legge n.159/2011 e successive modifiche e alla Legge 5 ottobre 2011 n.160 e successive modifiche.
-
-9.
-
-Ai fini della verifica dei requisiti relativi alle domande presentate ai sensi della Legge n.44/2015 e successive modifiche e del presente regolamento, l’UO UPOBIS può avvalersi della collaborazione di altri ufficio e servizi dell’Amministrazione.
+9\. Ai fini della verifica dei requisiti relativi alle domande presentate ai sensi della Legge n.44/2015 e successive modifiche e del presente regolamento, l’UO UPOBIS può avvalersi della collaborazione di altri ufficio e servizi dell’Amministrazione.
 
 ##### Art. 13
 
 (Disposizione transitoria e di coordinamento)
 
-1.
-
-Per le domande di ammissione ai contributi dello Stato presentate ai sensi della Legge n.44/2015 e successive modifiche, la valutazione dei requisiti e la determinazione dell’importo finanziabile avvengono basandosi sulla normativa vigente al momento della stipula del mutuo.
+1\. Per le domande di ammissione ai contributi dello Stato presentate ai sensi della Legge n.44/2015 e successive modifiche, la valutazione dei requisiti e la determinazione dell’importo finanziabile avvengono basandosi sulla normativa vigente al momento della stipula del mutuo.
 
 ##### Art. 14
 
 (Abrogazione)
 
-1.
-
-È abrogato il Regolamento 30 settembre 2015 n.13.
+1\. È abrogato il Regolamento 30 settembre 2015 n.13.
 
 ALTRE NORME
 
@@ -2625,93 +2125,59 @@ REGOLAMENTO PER LA GESTIONE DEGLI IMMOBILI DI PROPRIETÀ DELL’ECC.MA CAMERA CE
 
 (Autorizzazione alla stipula del contratto o convenzione)
 
-1.
+1\. Al Congresso di Stato compete l’autorizzazione alla stipula di contratti per la locazione, uso e assegnazione degli immobili di proprietà dell’Ecc.ma Camera ovvero alla stipula di convenzioni per assegnazioni temporanee.
 
-Al Congresso di Stato compete l’autorizzazione alla stipula di contratti per la locazione, uso e assegnazione degli immobili di proprietà dell’Ecc.ma Camera ovvero alla stipula di convenzioni per assegnazioni temporanee.
+2\. Il Congresso di Stato adotta i provvedimenti in merito sulla base del parere vincolante degli uffici cui è preposta la gestione del rapporto, ad esclusione della assegnazione temporanea per la quale le valutazioni competono esclusivamente al Congresso di Stato in ragione della necessità di rispondere ad esigenze specifiche e urgenti a tutela della persona.
 
-2.
+3\. La predisposizione dei contratti è demandata all’Avvocatura dello Stato, in rappresentanza dell’Ecc.ma Camera intervengono nella sottoscrizione dei contratti i Sindaci di Governo.
 
-Il Congresso di Stato adotta i provvedimenti in merito sulla base del parere vincolante degli uffici cui è preposta la gestione del rapporto, ad esclusione della assegnazione temporanea per la quale le valutazioni competono esclusivamente al Congresso di Stato in ragione della necessità di rispondere ad esigenze specifiche e urgenti a tutela della persona.
-
-3.
-
-La predisposizione dei contratti è demandata all’Avvocatura dello Stato, in rappresentanza dell’Ecc.ma Camera intervengono nella sottoscrizione dei contratti i Sindaci di Governo.
-
-4.
-
-La predisposizione della convenzione di assegnazione temporanea è demandata alla Sezione Cooperative e sottoscritta dal Segretario al Lavoro e dall’assegnatario.
+4\. La predisposizione della convenzione di assegnazione temporanea è demandata alla Sezione Cooperative e sottoscritta dal Segretario al Lavoro e dall’assegnatario.
 
 ##### Art. 2
 
 (Gestione del rapporto)
 
-1.
-
-In ragione della diversa natura dei contratti autorizzati dal Congresso di Stato la gestione del rapporto contrattuale con il locatario/affidatario è così ripartita:
+1\. In ragione della diversa natura dei contratti autorizzati dal Congresso di Stato la gestione del rapporto contrattuale con il locatario/affidatario è così ripartita:
 
 a) è affidata alla Sezione Cooperative dell’Ufficio del Lavoro la gestione del rapporto tra l’Ecc.ma Camera e gli assegnatari di immobili in base alla Legge 15 dicembre 1994 n.110 e successive modifiche;
 
 b) è affidata alla Contabilità di Stato - Settore Patrimonio, la gestione del rapporto tra l’Ecc.ma Camera e i locatari dei fabbricati di proprietà di quest’ultima in base alla Legge 20 febbraio 1991 n. 26 modificata con Legge 21 febbraio 1995 n. 27.
 
-2.
+2\. L’Ufficio del Lavoro interviene nei rapporti con il futuro assegnatario quando l’alloggio è assegnato con delibera del Congresso di Stato mentre tutte le attività necessarie per rendere i locali pronti all’uso (manutenzione ordinaria o straordinaria) sono a carico della Contabilità di Stato – Settore Patrimonio.
 
-L’Ufficio del Lavoro interviene nei rapporti con il futuro assegnatario quando l’alloggio è assegnato con delibera del Congresso di Stato mentre tutte le attività necessarie per rendere i locali pronti all’uso (manutenzione ordinaria o straordinaria) sono a carico della Contabilità di Stato – Settore Patrimonio.
+3\. In ogni situazione in cui si renda necessario e nell’ambito delle proprie competenze, il Servizio Salute Mentale dell’ISS potrà essere chiamato a collaborare con i gestori dei rapporti contrattuali nella gestione della relazione con i destinatari degli alloggi stessi.
 
-3.
+4\. Per “il Gestore del Rapporto” si intende l’Ufficio e/o il funzionario da questi delegato a rappresentare l’Ecc.ma Camera nella conduzione del rapporto contrattuale.
 
-In ogni situazione in cui si renda necessario e nell’ambito delle proprie competenze, il Servizio Salute Mentale dell’ISS potrà essere chiamato a collaborare con i gestori dei rapporti contrattuali nella gestione della relazione con i destinatari degli alloggi stessi.
-
-4.
-
-Per “il Gestore del Rapporto” si intende l’Ufficio e/o il funzionario da questi delegato a rappresentare l’Ecc.ma Camera nella conduzione del rapporto contrattuale.
-
-5.
-
-Vengono comunicati dal Gestore del Rapporto al Congresso di Stato gli esiti delle attività di controllo e monitoraggio ai fini dei provvedimenti di sua competenza.
+5\. Vengono comunicati dal Gestore del Rapporto al Congresso di Stato gli esiti delle attività di controllo e monitoraggio ai fini dei provvedimenti di sua competenza.
 
 ##### Art. 2 - bis
 
 (Modalità per Assegnazione temporanea)
 
-1.
+1\. Il Congresso di Stato procede alla assegnazione temporanea qualora, dalla documentazione presentata dall’interessato alla Sezione Cooperative dell’Ufficio del Lavoro, risulti comprovata l’urgente e immediata necessità di sistemazione abitativa.
 
-Il Congresso di Stato procede alla assegnazione temporanea qualora, dalla documentazione presentata dall’interessato alla Sezione Cooperative dell’Ufficio del Lavoro, risulti comprovata l’urgente e immediata necessità di sistemazione abitativa.
-
-2.
-
-Il Congresso di Stato ha facoltà di richiedere una integrazione di documentazione tramite la Sezione Cooperative dell’Ufficio del Lavoro.
+2\. Il Congresso di Stato ha facoltà di richiedere una integrazione di documentazione tramite la Sezione Cooperative dell’Ufficio del Lavoro.
 
 ##### Art. 3
 
 (Partecipazione alle assemblee di condominio)
 
-1.
-
-La Contabilità di Stato – Settore Patrimonio partecipa alle Assemblee di condominio degli immobili ove l’Ecc.ma Camera detiene delle quote di proprietà.
+1\. La Contabilità di Stato – Settore Patrimonio partecipa alle Assemblee di condominio degli immobili ove l’Ecc.ma Camera detiene delle quote di proprietà.
 
 ##### Art. 4
 
 (Ripartizione delle spese)
 
-1.
+1\. Le spese relative alla ordinaria manutenzione dell’immobile ed alla fornitura dei servizi sono a carico del locatario/assegnatario.
 
-Le spese relative alla ordinaria manutenzione dell’immobile ed alla fornitura dei servizi sono a carico del locatario/assegnatario.
+2\. La manutenzione ordinaria comprende tutti gli interventi che devono essere eseguiti per conservare gli alloggi e il fabbricato in buono stato o comunque nello stato in cui è avvenuta la consegna e quelli necessari a mantenere in efficienza gli impianti tecnologici esistenti.
 
-2.
+3\. Qualora il fabbricato o parte del fabbricato sia parte di un condominio, si intendono comprese nelle definizioni di cui al precedente comma tutte le spese condominiali di normale funzionamento.
 
-La manutenzione ordinaria comprende tutti gli interventi che devono essere eseguiti per conservare gli alloggi e il fabbricato in buono stato o comunque nello stato in cui è avvenuta la consegna e quelli necessari a mantenere in efficienza gli impianti tecnologici esistenti.
+4\. Le spese relative alla manutenzione straordinaria del fabbricato sono a carico del proprietario - Ecc.ma Camera.
 
-3.
-
-Qualora il fabbricato o parte del fabbricato sia parte di un condominio, si intendono comprese nelle definizioni di cui al precedente comma tutte le spese condominiali di normale funzionamento.
-
-4.
-
-Le spese relative alla manutenzione straordinaria del fabbricato sono a carico del proprietario - Ecc.ma Camera.
-
-5.
-
-La ripartizione delle spese a carico del locatore e del locatario o assegnatario viene definita nelle schede tecniche di cui all’allegato A così suddivise:
+5\. La ripartizione delle spese a carico del locatore e del locatario o assegnatario viene definita nelle schede tecniche di cui all’allegato A così suddivise:
 
 5.1 lavori di carattere edilizio;
 
@@ -2741,87 +2207,51 @@ d) apparecchi di estrazione e ventilazione.
 
 (Consegna e riconsegna dei locali)
 
-1.
+1\. La data di consegna o riconsegna dei locali, è preventivamente concordata fra assegnatario/locatario e il gestore del rapporto di cui all’articolo 2.
 
-La data di consegna o riconsegna dei locali, è preventivamente concordata fra assegnatario/locatario e il gestore del rapporto di cui all’articolo 2.
-
-2.
-
-Le attività di consegna dei locali dovranno risultare da apposito verbale redatto, in contradditorio, tra un incaricato dell’Ufficio Gestore del Rapporto e il locatario da
+2\. Le attività di consegna dei locali dovranno risultare da apposito verbale redatto, in contradditorio, tra un incaricato dell’Ufficio Gestore del Rapporto e il locatario da
 
 sottoscriversi in duplice originale. Al verbale potrà essere allegato ogni altro documento, anche fotografico.
 
-3.
+3\. La consegna delle chiavi dei locali da parte del gestore avviene a seguito della sottoscrizione del verbale di consegna.
 
-La consegna delle chiavi dei locali da parte del gestore avviene a seguito della sottoscrizione del verbale di consegna.
+4\. La restituzione dell’alloggio, deve avere luogo entro il termine stabilito nella disdetta.
 
-4.
+5\. Le formalità da espletare per la restituzione dell’alloggio sono: la sottoscrizione di apposito verbale in duplice originale tra l’incaricato del Gestore del Rapporto di cui all’articolo 2 e il locatario e la riconsegna delle chiavi all’incaricato medesimo.
 
-La restituzione dell’alloggio, deve avere luogo entro il termine stabilito nella disdetta.
+6\. L’inquilino che lascia l’appartamento assegnatogli è tenuto a rifondere l’Amministrazione dei danni eventualmente arrecati tanto allo stesso appartamento, quanto alle parti comuni, così come riportato nel verbale di cui al comma precedente.
 
-5.
+7\. Al momento della consegna lo stato dell’alloggio deve essere il medesimo risultante dal verbale di consegna.
 
-Le formalità da espletare per la restituzione dell’alloggio sono: la sottoscrizione di apposito verbale in duplice originale tra l’incaricato del Gestore del Rapporto di cui all’articolo 2 e il locatario e la riconsegna delle chiavi all’incaricato medesimo.
+8\. In caso di alloggio dotato di libretto autonomo di riscaldamento, l’inquilino uscente dovrà consegnare al gestore del rapporto il libretto caldaia con le annotazioni delle operazioni di manutenzione eseguite da ditta specializzata, ai sensi del Decreto Delegato n. 4 agosto 2008 n.114 e successive modifiche. In caso contrario il gestore del rapporto richiederà il risarcimento degli eventuali danni conseguenti a mancata manutenzione obbligatoria.
 
-6.
+9\. I verbali di consegna e riconsegna dei locali sono redatti in base alla modulistica di cui all’allegato B del presente regolamento.
 
-L’inquilino che lascia l’appartamento assegnatogli è tenuto a rifondere l’Amministrazione dei danni eventualmente arrecati tanto allo stesso appartamento, quanto alle parti comuni, così come riportato nel verbale di cui al comma precedente.
-
-7.
-
-Al momento della consegna lo stato dell’alloggio deve essere il medesimo risultante dal verbale di consegna.
-
-8.
-
-In caso di alloggio dotato di libretto autonomo di riscaldamento, l’inquilino uscente dovrà consegnare al gestore del rapporto il libretto caldaia con le annotazioni delle operazioni di manutenzione eseguite da ditta specializzata, ai sensi del Decreto Delegato n. 4 agosto 2008 n.114 e successive modifiche. In caso contrario il gestore del rapporto richiederà il risarcimento degli eventuali danni conseguenti a mancata manutenzione obbligatoria.
-
-9.
-
-I verbali di consegna e riconsegna dei locali sono redatti in base alla modulistica di cui all’allegato B del presente regolamento.
-
-10.
-
-Il verbale di consegna e/o riconsegna dell’alloggio viene inoltrato alla Contabilità di Stato e alla Segreteria di Stato per il Lavoro.
+10\. Il verbale di consegna e/o riconsegna dell’alloggio viene inoltrato alla Contabilità di Stato e alla Segreteria di Stato per il Lavoro.
 
 ##### Art.6
 
 (Deposito cauzionale)
 
-1.
+1\. Il gestore del rapporto può chiedere all’assegnatario/locatario dell’alloggio un deposito cauzionale che verrà versato per intero al momento della stipula della convenzione o contratto. In casi di comprovate difficoltà economiche è ammessa in via straordinaria la rateizzazione del versamento del deposito cauzionale.
 
-Il gestore del rapporto può chiedere all’assegnatario/locatario dell’alloggio un deposito cauzionale che verrà versato per intero al momento della stipula della convenzione o contratto. In casi di comprovate difficoltà economiche è ammessa in via straordinaria la rateizzazione del versamento del deposito cauzionale.
+2\. I depositi cauzionali saranno registrati su apposito capitolo in partita di giro del Bilancio dello Stato, dalla Contabilità di Stato – Settore Patrimonio e versati sul c/c di gestione in attesa della loro restituzione.
 
-2.
+3\. Alla conclusione del contratto il gestore del rapporto provvede alla verifica di eventuali danni agli immobili; in presenza di danni al locale il gestore del rapporto, coadiuvato dalle Aziende Autonome di Stato competenti, determina un congruo periodo per il ripristino dei locali.
 
-I depositi cauzionali saranno registrati su apposito capitolo in partita di giro del Bilancio dello Stato, dalla Contabilità di Stato – Settore Patrimonio e versati sul c/c di gestione in attesa della loro restituzione.
+4\. La restituzione del deposito cauzionale verrà effettuata dalla Contabilità di Stato – Settore Patrimonio su segnalazione dell’Ufficio del Lavoro - Sezione Cooperative per gli immobili assegnati in base alla Legge 15 dicembre 1994 n. 110 e successive modifiche.
 
-3.
+5\. In caso di mancato ripristino dell’immobile, la Contabilità di Stato – Settore Patrimonio trattiene il deposito cauzionale per il pagamento delle spese.
 
-Alla conclusione del contratto il gestore del rapporto provvede alla verifica di eventuali danni agli immobili; in presenza di danni al locale il gestore del rapporto, coadiuvato dalle Aziende Autonome di Stato competenti, determina un congruo periodo per il ripristino dei locali.
-
-4.
-
-La restituzione del deposito cauzionale verrà effettuata dalla Contabilità di Stato – Settore Patrimonio su segnalazione dell’Ufficio del Lavoro - Sezione Cooperative per gli immobili assegnati in base alla Legge 15 dicembre 1994 n. 110 e successive modifiche.
-
-5.
-
-In caso di mancato ripristino dell’immobile, la Contabilità di Stato – Settore Patrimonio trattiene il deposito cauzionale per il pagamento delle spese.
-
-6.
-
-Nel caso in cui l’Ecc.ma Camera sostenga oneri per manutenzione ordinaria a carico del locatario/assegnatario, il gestore del rapporto in assenza di deposito cauzionale o di deposito cauzionale non sufficiente deve mettere in atto tutte le procedure necessarie per il recupero.
+6\. Nel caso in cui l’Ecc.ma Camera sostenga oneri per manutenzione ordinaria a carico del locatario/assegnatario, il gestore del rapporto in assenza di deposito cauzionale o di deposito cauzionale non sufficiente deve mettere in atto tutte le procedure necessarie per il recupero.
 
 ##### Art. 7
 
 (Finanziamento degli interventi di manutenzione ordinaria e straordinaria)
 
-1.
+1\. La manutenzione ordinaria è a carico dell’assegnatario/locatario il quale deve conservare ed esibire su richiesta dell’Amministrazione la documentazione attestante gli interventi effettuati.
 
-La manutenzione ordinaria è a carico dell’assegnatario/locatario il quale deve conservare ed esibire su richiesta dell’Amministrazione la documentazione attestante gli interventi effettuati.
-
-2.
-
-La manutenzione straordinaria a carico dell’Ecc.ma Camera troverà imputazione per quanto concerne:
+2\. La manutenzione straordinaria a carico dell’Ecc.ma Camera troverà imputazione per quanto concerne:
 
 2.1) Interventi edilizi e tecnico strutturali su appositi stanziamenti del bilancio di previsione dell’AASLP così distinti:
 
@@ -2835,45 +2265,29 @@ b) interventi di ristrutturazione, riqualificazione e manutenzione straordinaria
 
 (Programmazione degli interventi di manutenzione straordinaria)
 
-1.
-
-L’analisi degli interventi di manutenzione straordinaria è demandata ad un Gruppo di lavoro composto da un rappresentate dell'Ufficio Gestore del Rapporto, da un rappresentante dell’AASLP, da un rappresentante dell’AASS, da un rappresentante della Segreteria di Stato Lavoro, da un rappresentante della Segreteria di Stato per il Territorio e Ambiente e dal Dirigente Ufficio Progettazione.
+1\. L’analisi degli interventi di manutenzione straordinaria è demandata ad un Gruppo di lavoro composto da un rappresentate dell'Ufficio Gestore del Rapporto, da un rappresentante dell’AASLP, da un rappresentante dell’AASS, da un rappresentante della Segreteria di Stato Lavoro, da un rappresentante della Segreteria di Stato per il Territorio e Ambiente e dal Dirigente Ufficio Progettazione.
 
 ##### Art. 9
 
 (Funzionamento Gruppo di lavoro)
 
-1.
+1\. Il Gruppo di lavoro di cui all’articolo 8, si riunisce periodicamente su richiesta di uno dei componenti.
 
-Il Gruppo di lavoro di cui all’articolo 8, si riunisce periodicamente su richiesta di uno dei componenti.
+2\. Il Gruppo di Lavoro predispone specifico riferimento ai fini della programmazione annuale e pluriennale dei lavori da effettuarsi sugli immobili dello Stato oggetto di locazione, uso e assegnazione.
 
-2.
+3\. Il Gruppo di lavoro segnala e propone agli organi competenti le soluzioni idonee per la migliore gestione degli immobili dell’Ecc.ma Camera.
 
-Il Gruppo di Lavoro predispone specifico riferimento ai fini della programmazione annuale e pluriennale dei lavori da effettuarsi sugli immobili dello Stato oggetto di locazione, uso e assegnazione.
+4\. Il Gruppo di lavoro predispone, sempre ai fini della programmazione annuale, un riferimento in merito alle necessità di nuovi immobili da destinare al soddisfacimento delle esigenze locative di cui all’articolo 1 del presente regolamento.
 
-3.
+5\. Al Gruppo di lavoro è demandata l’attività di proposta di integrazione del presente regolamento e di predisposizione dei moduli di consegna e rilascio degli immobili.
 
-Il Gruppo di lavoro segnala e propone agli organi competenti le soluzioni idonee per la migliore gestione degli immobili dell’Ecc.ma Camera.
-
-4.
-
-Il Gruppo di lavoro predispone, sempre ai fini della programmazione annuale, un riferimento in merito alle necessità di nuovi immobili da destinare al soddisfacimento delle esigenze locative di cui all’articolo 1 del presente regolamento.
-
-5.
-
-Al Gruppo di lavoro è demandata l’attività di proposta di integrazione del presente regolamento e di predisposizione dei moduli di consegna e rilascio degli immobili.
-
-6.
-
-Il Gruppo di lavoro funge da supporto all’attività del Gestore del Rapporto.
+6\. Il Gruppo di lavoro funge da supporto all’attività del Gestore del Rapporto.
 
 ##### Art. 10
 
 (Procedura per la richiesta di intervento da parte del locatario)
 
-1.
-
-Le richieste di intervento di manutenzione straordinaria dell’immobile di proprietà dell’Ecc.ma Camera devono essere trasmesse in forma scritta al Gestore del Rapporto di
+1\. Le richieste di intervento di manutenzione straordinaria dell’immobile di proprietà dell’Ecc.ma Camera devono essere trasmesse in forma scritta al Gestore del Rapporto di
 
 cui l’articolo 2, mediante compilazione di apposito modulo sottoscritto di cui all’allegato C da parte del locatario, in ragione delle diverse tipologie di contratto.
 
@@ -2883,57 +2297,37 @@ In seguito al sopralluogo ed alla conseguente stesura della relazione sullo stat
 
 2) per interventi di ristrutturazione, riqualificazione e manutenzione straordinaria di cui al lettera b), comma 2.2., dell’articolo 7, alla Segreteria di Stato per il Territorio e Ambiente per la verifica della opportunità dell’intervento e per l’adozione dei provvedimenti di autorizzazione di carattere tecnico e finanziario.
 
-2.
+2\. In riscontro alla formalizzazione dell’istanza da parte del locatario, il Gestore del Rapporto eseguirà un sopralluogo, per una valutazione sommaria dell’intervento.
 
-In riscontro alla formalizzazione dell’istanza da parte del locatario, il Gestore del Rapporto eseguirà un sopralluogo, per una valutazione sommaria dell’intervento.
+3\. Se dal primo sopralluogo o in riscontro alla istanza presentata, risulta che l’immobile di proprietà dell’Ecc.ma Camera potrebbe richiedere un intervento di manutenzione straordinaria il Gestore del Rapporto formalizzerà all’Azienda Autonoma di Stato competente di eseguire congiuntamente un secondo sopralluogo, per una valutazione più approfondita dell’intervento.
 
-3.
+4\. In occasione dei sopralluoghi dovrà essere valutato il mantenimento in buono stato del fabbricato da parte del locatario, e dovrà essere accertato se la necessità degli interventi di manutenzione straordinaria richiesti non derivi da incuria o mancata esecuzione delle manutenzioni ordinarie di cui all’articolo 4 del presente regolamento in capo al locatario o all’assegnatario o da altri comportamenti negligenti ad esso imputabili.
 
-Se dal primo sopralluogo o in riscontro alla istanza presentata, risulta che l’immobile di proprietà dell’Ecc.ma Camera potrebbe richiedere un intervento di manutenzione straordinaria il Gestore del Rapporto formalizzerà all’Azienda Autonoma di Stato competente di eseguire congiuntamente un secondo sopralluogo, per una valutazione più approfondita dell’intervento.
-
-4.
-
-In occasione dei sopralluoghi dovrà essere valutato il mantenimento in buono stato del fabbricato da parte del locatario, e dovrà essere accertato se la necessità degli interventi di manutenzione straordinaria richiesti non derivi da incuria o mancata esecuzione delle manutenzioni ordinarie di cui all’articolo 4 del presente regolamento in capo al locatario o all’assegnatario o da altri comportamenti negligenti ad esso imputabili.
-
-5.
-
-In caso di necessità di interventi incompatibili con l’occupazione dell’alloggio, il Locatario o Assegnatario dovrà liberare l’immobile per i tempi necessari per l’esecuzione dei lavori; in tal caso l’Ecc.ma Camera provvederà a mettere a disposizione un alloggio sostitutivo.
+5\. In caso di necessità di interventi incompatibili con l’occupazione dell’alloggio, il Locatario o Assegnatario dovrà liberare l’immobile per i tempi necessari per l’esecuzione dei lavori; in tal caso l’Ecc.ma Camera provvederà a mettere a disposizione un alloggio sostitutivo.
 
 ##### Art. 11
 
 (Procedure d’urgenza)
 
-1.
+1\. Nei casi in cui, per comprovati motivi di urgenza, sia necessario procedere tempestivamente ad interventi di manutenzione straordinaria, gli Uffici competenti procedono autonomamente.
 
-Nei casi in cui, per comprovati motivi di urgenza, sia necessario procedere tempestivamente ad interventi di manutenzione straordinaria, gli Uffici competenti procedono autonomamente.
-
-2.
-
-Qualora si rendano necessari gli interventi di cui al comma 1 in giorni festivi o comunque al di fuori del normale orario di lavoro, l’assegnatario/locatario può procedere autonomamente al primo intervento di riparazione informando tempestivamente il Gestore del Rapporto.
+2\. Qualora si rendano necessari gli interventi di cui al comma 1 in giorni festivi o comunque al di fuori del normale orario di lavoro, l’assegnatario/locatario può procedere autonomamente al primo intervento di riparazione informando tempestivamente il Gestore del Rapporto.
 
 ##### Art. 12
 
 (Manutenzione caldaia)
 
-1.
+1\. E’ obbligo del locatario effettuare le manutenzioni ordinarie dell’impianto di riscaldamento come indicato dall’allegato “E” del Decreto Delegato n. 114/2008 e successive modifiche da eventuali prescrizioni riportate sul libretto di uso e manutenzione del costruttore degli apparecchi utilizzatori.
 
-E’ obbligo del locatario effettuare le manutenzioni ordinarie dell’impianto di riscaldamento come indicato dall’allegato “E” del Decreto Delegato n. 114/2008 e successive modifiche da eventuali prescrizioni riportate sul libretto di uso e manutenzione del costruttore degli apparecchi utilizzatori.
+2\. Tali manutenzioni dovranno risultare da apposita documentazione che il locatario è tenuto a conservare come libretto d’impianto ai sensi dell’articolo 9 del citato Decreto Delegato n. 114/2008 e successive modifiche.
 
-2.
-
-Tali manutenzioni dovranno risultare da apposita documentazione che il locatario è tenuto a conservare come libretto d’impianto ai sensi dell’articolo 9 del citato Decreto Delegato n. 114/2008 e successive modifiche.
-
-3.
-
-Qualora si rendano necessari interventi urgenti in giorni festivi l’assegnatario/locatario può procedere autonomamente al primo intervento di riparazione informando tempestivamente l’AASS e il Gestore del Rapporto.
+3\. Qualora si rendano necessari interventi urgenti in giorni festivi l’assegnatario/locatario può procedere autonomamente al primo intervento di riparazione informando tempestivamente l’AASS e il Gestore del Rapporto.
 
 ##### Art. 13
 
 (Abrogazioni)
 
-1.
-
-E’ abrogato il Regolamento 29 ottobre 2013 n. 6.
+1\. E’ abrogato il Regolamento 29 ottobre 2013 n. 6.
 
 Allegato A al Regolamento 28 maggio 2015 n.8
 
@@ -3213,21 +2607,13 @@ BILANCI DI PREVISIONE DELLO STATO E DEGLI ENTI PUBBLICI PER L’ESERCIZIO FINANZ
 
 (Disposizioni in merito alla dichiarazione di decadenza per i prestiti assistiti dal contributo statale di cui alla Legge 15 dicembre 1994 n.110 - Testo Unico e di riforma delle disposizioni in materia di Edilizia Sovvenzionata)
 
-1.
+1\. I prestiti, accesi ai sensi della Legge 24 aprile 1980 n.32, della Legge 8 luglio 1981 n.59 e della Legge 15 dicembre 1994 n.110 e successive modifiche ed integrazioni, decadono qualora gli immobili siano realizzati, anche in parte, in difformità dal progetto approvato ovvero quando non siano rispettate le condizioni previste dalla concessione edilizia o dalle delibere di autorizzazione all’erogazione del prestito emesse dalle competenti Commissioni ovvero in caso di mancato pagamento di più di quattro rate di rimborso.
 
-I prestiti, accesi ai sensi della Legge 24 aprile 1980 n.32, della Legge 8 luglio 1981 n.59 e della Legge 15 dicembre 1994 n.110 e successive modifiche ed integrazioni, decadono qualora gli immobili siano realizzati, anche in parte, in difformità dal progetto approvato ovvero quando non siano rispettate le condizioni previste dalla concessione edilizia o dalle delibere di autorizzazione all’erogazione del prestito emesse dalle competenti Commissioni ovvero in caso di mancato pagamento di più di quattro rate di rimborso.
+2\. La decadenza è dichiarata dalla Commissione per la Gestione dell’Edilizia Residenziale di cui all’articolo 17 della Legge 31 marzo 2015 n.44 su formale richiesta dell’istituto di credito mutuante.
 
-2.
+3\. Con la dichiarazione di decadenza il titolare del prestito è obbligato alla restituzione del capitale residuo e della quota interessi versata dalla Eccellentissima Camera quale contributo.
 
-La decadenza è dichiarata dalla Commissione per la Gestione dell’Edilizia Residenziale di cui all’articolo 17 della Legge 31 marzo 2015 n.44 su formale richiesta dell’istituto di credito mutuante.
-
-3.
-
-Con la dichiarazione di decadenza il titolare del prestito è obbligato alla restituzione del capitale residuo e della quota interessi versata dalla Eccellentissima Camera quale contributo.
-
-4.
-
-In deroga a quanto previsto dal comma precedente il mutuatario non è tenuto, qualora incorra in decadenza, al rimborso della quota interessi se, entro sette mesi dalla scadenza della prima rata in mora, sia deceduto o abbia rilasciato dichiarazione circa il proprio stato di insolvenza motivato da:
+4\. In deroga a quanto previsto dal comma precedente il mutuatario non è tenuto, qualora incorra in decadenza, al rimborso della quota interessi se, entro sette mesi dalla scadenza della prima rata in mora, sia deceduto o abbia rilasciato dichiarazione circa il proprio stato di insolvenza motivato da:
 
 a) cessazione del rapporto di lavoro subordinato, ad eccezione delle ipotesi di dimissioni volontarie, licenziamento per giusta causa o giustificato motivo oppure pensionamento con esclusione del trattamento previdenziale temporaneo, ai sensi della Legge 21 dicembre 2012 n.150;
 
@@ -3237,29 +2623,19 @@ c) cessazione dell’attività libero professionale su istanza del professionist
 
 d) insorgenza di condizioni di non autosufficienza proprie o di componenti il nucleo familiare legate da rapporto di coniugio, parentela o affinità.
 
-5.
+5\. L’evento di cui al comma che precede deve essersi verificato successivamente alla stipulazione del contratto di mutuo e deve permanere alla data di presentazione della dichiarazione di motivata insolvenza. Tale dichiarazione è rilasciata all’Ufficio del Lavoro ed in copia all’istituto di credito mutuante e deve essere rinnovata ad ogni successiva scadenza delle rate non onorate.
 
-L’evento di cui al comma che precede deve essersi verificato successivamente alla stipulazione del contratto di mutuo e deve permanere alla data di presentazione della dichiarazione di motivata insolvenza. Tale dichiarazione è rilasciata all’Ufficio del Lavoro ed in copia all’istituto di credito mutuante e deve essere rinnovata ad ogni successiva scadenza delle rate non onorate.
+6\. Relativamente ai mutui e finanziamenti per i quali sia già stata dichiarata, ovvero venga dichiarata, la decadenza dalla competente Commissione per prestiti già in mora alla data dell’1 luglio 2015, anche nel caso in cui siano state avviate azioni giudiziarie di natura esecutiva, il mutuatario non è tenuto al rimborso della quota di interessi qualora presenti la dichiarazione di cui al comma 4 entro sei mesi dall’entrata in vigore del presente legge.
 
-6.
+7\. Il rimborso della quota interessi non è comunque dovuto qualora la dichiarazione di decadenza sia pronunciata trascorsi cinque anni dalla stipula del contratto di mutuo.
 
-Relativamente ai mutui e finanziamenti per i quali sia già stata dichiarata, ovvero venga dichiarata, la decadenza dalla competente Commissione per prestiti già in mora alla data dell’1 luglio 2015, anche nel caso in cui siano state avviate azioni giudiziarie di natura esecutiva, il mutuatario non è tenuto al rimborso della quota di interessi qualora presenti la dichiarazione di cui al comma 4 entro sei mesi dall’entrata in vigore del presente legge.
-
-7.
-
-Il rimborso della quota interessi non è comunque dovuto qualora la dichiarazione di decadenza sia pronunciata trascorsi cinque anni dalla stipula del contratto di mutuo.
-
-8.
-
-Con decreto delegato saranno regolamentate le procedure per le azioni giudiziarie, l’esercizio del diritto di prelazione, la vendita dell’immobile su cui grava il privilegio dell’Eccellentissima Camera.
+8\. Con decreto delegato saranno regolamentate le procedure per le azioni giudiziarie, l’esercizio del diritto di prelazione, la vendita dell’immobile su cui grava il privilegio dell’Eccellentissima Camera.
 
 ##### Art.23
 
 (Sospensione temporanea del pagamento delle quote capitale per i mutui e finanziamenti per la prima casa)
 
-1.
-
-Tenuto conto della perdurante crisi economica, delle difficoltà di famiglie coinvolte anche in vicende di riduzione del personale, di mobilità ed in ogni caso di difficoltà nell’onorare regolarmente il pagamento dei canoni relativi ai mutui ipotecari e mutui agevolati di cui alla Legge 15 dicembre 1994 n.110 e successive modifiche ed integrazioni per la prima causa, il Congresso di Stato è autorizzato ad adottare, previa consultazione con l’Associazione Bancaria Sammarinese, le associazioni dei consumatori, le associazioni di categoria e Banca Centrale della Repubblica di San Marino, un decreto delegato per la sospensione temporanea del pagamento delle quote capitale.
+1\. Tenuto conto della perdurante crisi economica, delle difficoltà di famiglie coinvolte anche in vicende di riduzione del personale, di mobilità ed in ogni caso di difficoltà nell’onorare regolarmente il pagamento dei canoni relativi ai mutui ipotecari e mutui agevolati di cui alla Legge 15 dicembre 1994 n.110 e successive modifiche ed integrazioni per la prima causa, il Congresso di Stato è autorizzato ad adottare, previa consultazione con l’Associazione Bancaria Sammarinese, le associazioni dei consumatori, le associazioni di categoria e Banca Centrale della Repubblica di San Marino, un decreto delegato per la sospensione temporanea del pagamento delle quote capitale.
 
 LEGGE 7 agosto 2017 n.94
 
@@ -3269,9 +2645,7 @@ VARIAZIONE AL BILANCIO DI PREVISIONE DELLO STATO E DEGLI ENTI DEL SETTORE PUBBLI
 
 (Intestazione di immobili a persone fisiche non residenti)
 
-1.
-
-Il Consiglio dei XII può autorizzare il cittadino straniero non residente e non soggiornante stabilmente in territorio ai sensi della Legge 28 giugno 2010 n.118 e successive modifiche, ad intestarsi fabbricato o porzione di fabbricato, a condizione che lo stesso:
+1\. Il Consiglio dei XII può autorizzare il cittadino straniero non residente e non soggiornante stabilmente in territorio ai sensi della Legge 28 giugno 2010 n.118 e successive modifiche, ad intestarsi fabbricato o porzione di fabbricato, a condizione che lo stesso:
 
 a) sia già costruito anteriormente alla data del 31 maggio 2017 e, se non ultimato, sia allo stato grezzo;
 
@@ -3281,35 +2655,23 @@ c) sia destinato ad alloggio per la villeggiatura del richiedente e del suo nucl
 
 d) sia costituito da un'unica unità immobiliare che può essere anche il risultato dell’accorpamento di più unità immobiliari.
 
-2.
+2\. L’acquisto a titolo oneroso di cui al comma che precede è soggetto all’imposta di registro dell’8% e non può godere di benefici fiscali. La delibera del Consiglio dei XII è allegata all’atto di acquisto ai fini di trascrizione e voltura. La predetta delibera deve contenere espressa precisazione che l’autorizzazione è concessa ai sensi del presente articolo.
 
-L’acquisto a titolo oneroso di cui al comma che precede è soggetto all’imposta di registro dell’8% e non può godere di benefici fiscali. La delibera del Consiglio dei XII è allegata all’atto di acquisto ai fini di trascrizione e voltura. La predetta delibera deve contenere espressa precisazione che l’autorizzazione è concessa ai sensi del presente articolo.
+3\. Il numero massimo di autorizzazioni all’acquisto che possono essere concesse ogni anno è fissato con decreto delegato. Per l’anno 2017 tale numero è stabilito in 100 autorizzazioni, 30 delle quali devono avere ad oggetto fabbricati accatastati anteriormente alla data del 31/12/2000.
 
-3.
+4\. Lo straniero che voglia richiedere l’autorizzazione di cui al presente articolo deve presentare domanda al Consiglio dei XII e corrispondere un diritto erariale di istruzione pratica che assorbe le imposte di bollo e i diritti d’ufficio che sarebbero dovuti per la domanda e gli allegati emessi da uffici sammarinesi, dell’importo di euro 100,00 da incassare su pertinente capitolo di bilancio di competenza dell’Ufficio del Registro e Conservatoria. Alla domanda, oltre alla ricevuta del pagamento, sono allegati i documenti comprovanti il possesso dei requisiti e la ricorrenza delle condizioni che appositamente il Consiglio dei XII indicherà come necessari per l’applicazione del presente articolo e per l’esame della domanda stessa.
 
-Il numero massimo di autorizzazioni all’acquisto che possono essere concesse ogni anno è fissato con decreto delegato. Per l’anno 2017 tale numero è stabilito in 100 autorizzazioni, 30 delle quali devono avere ad oggetto fabbricati accatastati anteriormente alla data del 31/12/2000.
-
-4.
-
-Lo straniero che voglia richiedere l’autorizzazione di cui al presente articolo deve presentare domanda al Consiglio dei XII e corrispondere un diritto erariale di istruzione pratica che assorbe le imposte di bollo e i diritti d’ufficio che sarebbero dovuti per la domanda e gli allegati emessi da uffici sammarinesi, dell’importo di euro 100,00 da incassare su pertinente capitolo di bilancio di competenza dell’Ufficio del Registro e Conservatoria. Alla domanda, oltre alla ricevuta del pagamento, sono allegati i documenti comprovanti il possesso dei requisiti e la ricorrenza delle condizioni che appositamente il Consiglio dei XII indicherà come necessari per l’applicazione del presente articolo e per l’esame della domanda stessa.
-
-5.
-
-I soggetti di cui al comma 1 non possono accedere ai benefici di cui alla Legge 31 marzo 2015 n.44 e successive modifiche ed integrazioni e non hanno diritto a percepire provvidenze e contributi pubblici socio-economici di qualunque tipo.
+5\. I soggetti di cui al comma 1 non possono accedere ai benefici di cui alla Legge 31 marzo 2015 n.44 e successive modifiche ed integrazioni e non hanno diritto a percepire provvidenze e contributi pubblici socio-economici di qualunque tipo.
 
 ##### Art.19
 
 (Introduzione dell’articolo 16-bis nella Legge 28 giugno 2010 n.118)
 
-1.
-
-Dopo l’articolo 16 della Legge n.118/2010 e successive modifiche è inserito il seguente articolo:
+1\. Dopo l’articolo 16 della Legge n.118/2010 e successive modifiche è inserito il seguente articolo:
 
 “Art. 16-bis (Residenza elettiva)
 
-1.
-
-Il Congresso di Stato ha facoltà di concedere la residenza elettiva allo straniero che, non incorrendo nelle fattispecie di cui all’articolo 17 commi 1 e 2, effettui e mantenga a proprio nome, fino al consolidamento della residenza ai sensi del successivo comma 16, una o entrambe le tipologie seguenti di investimento in territorio:
+1\. Il Congresso di Stato ha facoltà di concedere la residenza elettiva allo straniero che, non incorrendo nelle fattispecie di cui all’articolo 17 commi 1 e 2, effettui e mantenga a proprio nome, fino al consolidamento della residenza ai sensi del successivo comma 16, una o entrambe le tipologie seguenti di investimento in territorio:
 
 a) acquisto a titolo oneroso per il prezzo non inferiore ad euro 500.000,00 di fabbricato o porzione di fabbricato da destinare ad abitazione propria o del proprio nucleo familiare e che anteriormente alla data del 31 maggio 2017 risulti già ultimato, da ristrutturare o allo stato grezzo. L’abitazione può essere anche il risultato dell’accorpamento di più unità immobiliari. Ai fini del calcolo del predetto importo, oltre al prezzo di acquisto, possono essere computate, per un importo non superiore ad euro 150.000,00: i. le spese di ultimazione dell’unità immobiliare; ii. le spese di ristrutturazione dell’unità immobiliare; iii. le spese di demolizione con ricostruzione dell’unità immobiliare.
 
@@ -3317,13 +2679,9 @@ L’ultimazione e la ristrutturazione dell’unità immobiliare deve essere effe
 
 b) deposito infruttifero e vincolato per la durata di 10 anni non inferiore ad euro 600.000,00 in titoli emessi dallo Stato sammarinese o in un fondo appositamente istituito dall’Ecc.ma Camera.
 
-2.
+2\. La concessione della residenza elettiva, ricorrendo il caso di cui alla lettera b) del comma 1, comporta il pagamento di una tassa di euro 10.000,00, da versare su pertinente capitolo di bilancio di competenza dell’Ufficio del Registro e Conservatoria e che non sarà in alcun caso restituita.
 
-La concessione della residenza elettiva, ricorrendo il caso di cui alla lettera b) del comma 1, comporta il pagamento di una tassa di euro 10.000,00, da versare su pertinente capitolo di bilancio di competenza dell’Ufficio del Registro e Conservatoria e che non sarà in alcun caso restituita.
-
-3.
-
-Il richiedente la residenza elettiva deve depositare apposita domanda al Dipartimento Affari Esteri e corrispondere un diritto erariale di istruzione pratica, che assorbe tutte le imposte di bollo e i diritti d’ufficio, dell’importo di euro 1.000,00 da incassare su pertinente capitolo di bilancio di competenza dell’Ufficio del Registro e Conservatoria. Alla domanda, oltre alla ricevuta del pagamento, sono allegati:
+3\. Il richiedente la residenza elettiva deve depositare apposita domanda al Dipartimento Affari Esteri e corrispondere un diritto erariale di istruzione pratica, che assorbe tutte le imposte di bollo e i diritti d’ufficio, dell’importo di euro 1.000,00 da incassare su pertinente capitolo di bilancio di competenza dell’Ufficio del Registro e Conservatoria. Alla domanda, oltre alla ricevuta del pagamento, sono allegati:
 
 a) copia di documento valido per l’espatrio, formata e dichiarata autentica dal pubblico ufficiale che riceve la domanda;
 
@@ -3339,27 +2697,17 @@ f) curriculum vitae;
 
 g) documentazione atta a dimostrare che il richiedente ed i familiari che intendessero trasferire la residenza in Repubblica abbiano risorse sufficienti per il proprio mantenimento.
 
-4.
+4\. Il Dipartimento Affari Esteri, recepita la domanda comprensiva di tutta la documentazione di cui al comma che precede, la sottopone all’attenzione del Congresso di Stato, che delibera entro 60 giorni in merito alla stessa. La decisione non è sindacabile in alcun caso.
 
-Il Dipartimento Affari Esteri, recepita la domanda comprensiva di tutta la documentazione di cui al comma che precede, la sottopone all’attenzione del Congresso di Stato, che delibera entro 60 giorni in merito alla stessa. La decisione non è sindacabile in alcun caso.
-
-5.
-
-L’atto di acquisto di cui alla lettera a) del comma 1 non è soggetto a preventiva autorizzazione del Consiglio dei XII ed assolve l’imposta di registro nella misura dell’8%.
+5\. L’atto di acquisto di cui alla lettera a) del comma 1 non è soggetto a preventiva autorizzazione del Consiglio dei XII ed assolve l’imposta di registro nella misura dell’8%.
 
 La delibera del Congresso di Stato con cui si concede la residenza elettiva è allegata all’atto di acquisto ai fini di trascrizione e voltura.
 
-6.
+6\. E’ facoltà del richiedente la residenza elettiva, secondo le modalità previste al comma 3, fare domanda di estensione della stessa limitatamente ai soggetti di cui all’articolo 16 comma 3-bis, in possesso dei requisiti previsti dalla presente legge, previo versamento una tantum della somma di euro 20.000,00 per ogni soggetto (richiedente secondario).
 
-E’ facoltà del richiedente la residenza elettiva, secondo le modalità previste al comma 3, fare domanda di estensione della stessa limitatamente ai soggetti di cui all’articolo 16 comma 3-bis, in possesso dei requisiti previsti dalla presente legge, previo versamento una tantum della somma di euro 20.000,00 per ogni soggetto (richiedente secondario).
+7\. Ai figli che nascano dal titolare di residenza elettiva prima del consolidamento della residenza si applicano le disposizioni compatibili del presente articolo, ad esclusione del versamento della somma una tantum previsto al comma 6.
 
-7.
-
-Ai figli che nascano dal titolare di residenza elettiva prima del consolidamento della residenza si applicano le disposizioni compatibili del presente articolo, ad esclusione del versamento della somma una tantum previsto al comma 6.
-
-8.
-
-Fino al consolidamento della residenza ai sensi del comma 16, il titolare di residenza elettiva ed i richiedenti secondari di cui ai commi 6 e 7:
+8\. Fino al consolidamento della residenza ai sensi del comma 16, il titolare di residenza elettiva ed i richiedenti secondari di cui ai commi 6 e 7:
 
 a) non possono accedere ad alcun tipo di rapporto di lavoro dipendente nel Settore Pubblico Allargato ed in enti che, di diritto pubblico o privato, siano partecipati dall’Eccellentissima Camera;
 
@@ -3367,17 +2715,11 @@ b) non hanno diritto a percepire provvidenze, contributi, assegni ed erogazioni 
 
 c) sono tenuti ad assumere a proprio totale carico i costi dell’assistenza sanitaria, mediante assicurazione privata a copertura di ogni rischio inerente.
 
-9.
+9\. Fino al consolidamento della residenza ai sensi del comma 16, il titolare di residenza elettiva può, nei casi di cui al comma 1, lettera a), cedere l’unità immobiliare a qualunque titolo qualora acquisti un’altra unità immobiliare aventi i requisiti di cui al comma 1. Tale ulteriore acquisto non necessita di preventiva autorizzazione del Consiglio dei XII. L’autorizzazione non è richiesta per l’acquisto da parte dei soggetti di cui al comma 6. Alla successione mortis causa nell’intestazione dell’unità immobiliare si applicano le norme vigenti, ivi compreso l’articolo 25 della presente legge.
 
-Fino al consolidamento della residenza ai sensi del comma 16, il titolare di residenza elettiva può, nei casi di cui al comma 1, lettera a), cedere l’unità immobiliare a qualunque titolo qualora acquisti un’altra unità immobiliare aventi i requisiti di cui al comma 1. Tale ulteriore acquisto non necessita di preventiva autorizzazione del Consiglio dei XII. L’autorizzazione non è richiesta per l’acquisto da parte dei soggetti di cui al comma 6. Alla successione mortis causa nell’intestazione dell’unità immobiliare si applicano le norme vigenti, ivi compreso l’articolo 25 della presente legge.
+10\. Qualora l’atto di compravendita dei fabbricati di cui al comma 1 lettera a) non venga perfezionato o la somma di cui al comma 1 lettera b) non venga depositata entro tre mesi dalla delibera del Congresso di Stato che concede la residenza, la residenza è revocata con effetto immediato.
 
-10.
-
-Qualora l’atto di compravendita dei fabbricati di cui al comma 1 lettera a) non venga perfezionato o la somma di cui al comma 1 lettera b) non venga depositata entro tre mesi dalla delibera del Congresso di Stato che concede la residenza, la residenza è revocata con effetto immediato.
-
-11.
-
-All’atto della concessione della residenza elettiva da parte del Congresso di Stato, il Dipartimento Affari Esteri provvede a comunicare al richiedente l’esito della domanda e a richiedere la produzione della seguente documentazione:
+11\. All’atto della concessione della residenza elettiva da parte del Congresso di Stato, il Dipartimento Affari Esteri provvede a comunicare al richiedente l’esito della domanda e a richiedere la produzione della seguente documentazione:
 
 a) nell’ipotesi di cui alla lettera a) del superiore comma 1, copia conforme dell’atto pubblico di compravendita della/delle unità immobiliari e documentazione attestante il pagamento dell’intera somma. Entro 24 mesi dall’iscrizione del registro dei residenti, il richiedente che abbia presentato perizia di cui al comma 3 lettera b) deve produrre al Dipartimento Affari Esteri certificato di conformità edilizia e abitabilità rilasciato ai sensi della Legge 19 luglio 1995 n. 87 e documentazione attestante il pagamento dell’intero importo risultante dalla predetta perizia;
 
@@ -3385,33 +2727,19 @@ b) nell’ipotesi di cui alla lettera b) del superiore comma 1, documentazione a
 
 c) dichiarazione circa il luogo di residenza in Repubblica, ancorché temporanea.
 
-12.
+12\. Il Dipartimento Affari Esteri trasmette all’Ufficiale di Stato Civile i dati necessari all’iscrizione del richiedente nei Registri della popolazione residente e procede ad avviare tramite la Gendarmeria le opportune verifiche circa anche la documentazione prodotta.
 
-Il Dipartimento Affari Esteri trasmette all’Ufficiale di Stato Civile i dati necessari all’iscrizione del richiedente nei Registri della popolazione residente e procede ad avviare tramite la Gendarmeria le opportune verifiche circa anche la documentazione prodotta.
+13\. La violazione dei doveri di cui al presente articolo comporta la revoca con effetto immediato della residenza elettiva del titolare di residenza elettiva e dei richiedenti secondari a cui sia stata estesa. La residenza elettiva è revocata con effetto immediato anche nei casi previsti all’articolo 17 della presente legge. Coloro i quali abbiano espressamente dichiarato il falso o abbiano prodotto atti e documenti rivelatisi falsi, ferme restando le sanzioni penali vigenti, sono soggetti all’immediata revoca della residenza; sono altresì nulli i contratti di deposito bancario ovvero di acquisto di immobili con riferimento al soggetto richiedente la residenza elettiva, con conseguente confisca della somma ovvero dell’immobile a favore dell’Eccellentissima Camera.
 
-13.
+14\. Il Segretario di Stato per gli Affari Esteri riferisce con cadenza trimestrale alla Commissione Consiliare Permanente Affari Esteri, Emigrazione e Immigrazione in merito al numero e all’esito delle pratiche istruite e delle motivazioni degli eventuali dinieghi.
 
-La violazione dei doveri di cui al presente articolo comporta la revoca con effetto immediato della residenza elettiva del titolare di residenza elettiva e dei richiedenti secondari a cui sia stata estesa. La residenza elettiva è revocata con effetto immediato anche nei casi previsti all’articolo 17 della presente legge. Coloro i quali abbiano espressamente dichiarato il falso o abbiano prodotto atti e documenti rivelatisi falsi, ferme restando le sanzioni penali vigenti, sono soggetti all’immediata revoca della residenza; sono altresì nulli i contratti di deposito bancario ovvero di acquisto di immobili con riferimento al soggetto richiedente la residenza elettiva, con conseguente confisca della somma ovvero dell’immobile a favore dell’Eccellentissima Camera.
+15\. Il numero massimo di residenze elettive che possono essere concesse ogni anno è fissato con apposito decreto delegato. Per l’anno 2017 tale numero è stabilito in 50 unità, esclusi i casi di cui ai commi 6 e 7.
 
-14.
+16\. Trascorsi dieci anni dall’iscrizione nel registro della popolazione residente, la residenza elettiva si intende consolidata e pertanto cessano i divieti, obblighi e vincoli previsti dal presente articolo per lo straniero e per i soggetti di cui ai commi 6 e 7 e si applicano le norme generali in materia di residenza, nonché le disposizioni di cui ai commi 3-bis, 3-ter e 3-quater dell’articolo 16.
 
-Il Segretario di Stato per gli Affari Esteri riferisce con cadenza trimestrale alla Commissione Consiliare Permanente Affari Esteri, Emigrazione e Immigrazione in merito al numero e all’esito delle pratiche istruite e delle motivazioni degli eventuali dinieghi.
+17\. I divieti, obblighi e vincoli previsti dal presente articolo cessano altresì per lo straniero che rinunci alla residenza elettiva ottenuta ai sensi del presente articolo, ad esclusione di quanto previsto al comma 1 lettera b).
 
-15.
-
-Il numero massimo di residenze elettive che possono essere concesse ogni anno è fissato con apposito decreto delegato. Per l’anno 2017 tale numero è stabilito in 50 unità, esclusi i casi di cui ai commi 6 e 7.
-
-16.
-
-Trascorsi dieci anni dall’iscrizione nel registro della popolazione residente, la residenza elettiva si intende consolidata e pertanto cessano i divieti, obblighi e vincoli previsti dal presente articolo per lo straniero e per i soggetti di cui ai commi 6 e 7 e si applicano le norme generali in materia di residenza, nonché le disposizioni di cui ai commi 3-bis, 3-ter e 3-quater dell’articolo 16.
-
-17.
-
-I divieti, obblighi e vincoli previsti dal presente articolo cessano altresì per lo straniero che rinunci alla residenza elettiva ottenuta ai sensi del presente articolo, ad esclusione di quanto previsto al comma 1 lettera b).
-
-18.
-
-Il Congresso di Stato è delegato ad adottare apposito decreto con il quale disciplinare ogni aspetto relativo all’esecuzione e all’attuazione del presente articolo e, qualora si rendesse necessario, integrarne le disposizioni.”.
+18\. Il Congresso di Stato è delegato ad adottare apposito decreto con il quale disciplinare ogni aspetto relativo all’esecuzione e all’attuazione del presente articolo e, qualora si rendesse necessario, integrarne le disposizioni.”.
 
 LEGGE 29 settembre 2017 n.115 MODIFICHE E INTEGRAZIONI ALLE NORME IN MATERIA DI SOSTEGNO ALLO SVILUPPO ECONOMICO
 
@@ -3419,27 +2747,19 @@ LEGGE 29 settembre 2017 n.115 MODIFICHE E INTEGRAZIONI ALLE NORME IN MATERIA DI 
 
 (Residenza per motivi economici)
 
-1.
-
-Dopo l’articolo 22 della Legge 27 giugno 2013 n.71 è aggiunto il seguente articolo:
+1\. Dopo l’articolo 22 della Legge 27 giugno 2013 n.71 è aggiunto il seguente articolo:
 
 “Art. 22–bis (Residenza per motivi economici)
 
-1.
-
-Tutti coloro che intraprendono una attività economica in forma societaria nella Repubblica di San Marino hanno diritto di richiedere e ottenere la residenza per motivi economici, sulla base dei criteri previsti nei successivi commi e fintanto che permangano le condizioni che ne hanno giustificato il rilascio.
+1\. Tutti coloro che intraprendono una attività economica in forma societaria nella Repubblica di San Marino hanno diritto di richiedere e ottenere la residenza per motivi economici, sulla base dei criteri previsti nei successivi commi e fintanto che permangano le condizioni che ne hanno giustificato il rilascio.
 
 Ai fini della concessione della residenza per motivi economici non devono sussistere le condizioni ostative indicate all’articolo 17, commi 1 e 2, della Legge 28 giugno 2010 n.118 e successive modifiche e integrazioni.
 
-2.
-
-La residenza per motivi economici è concessa alla persona fisica che detiene almeno il 51% del capitale sociale.
+2\. La residenza per motivi economici è concessa alla persona fisica che detiene almeno il 51% del capitale sociale.
 
 L’Ufficio Industria, Artigianato e Commercio comunica all’Ufficio di Stato Civile il nominativo ed i dati anagrafici del soggetto per l’iscrizione nel registro dei residenti per motivi economici, purché ne abbia fatta richiesta.
 
-3.
-
-La residenza per motivi economici viene concessa al soggetto di cui al comma 2, anche qualora l’impresa sia già esistente, qualora vengano rispettati i seguenti requisiti occupazionali:
+3\. La residenza per motivi economici viene concessa al soggetto di cui al comma 2, anche qualora l’impresa sia già esistente, qualora vengano rispettati i seguenti requisiti occupazionali:
 
 a) nel caso di attività di impresa in settore da incentivare, sia assunto almeno n.1 lavoratore dipendente dalle liste di avviamento al lavoro, a tempo indeterminato; nel caso di assunzione di un numero maggiore di lavoratori, compresi quelli assunti a tempo determinato, almeno il 50% di questi deve essere assunto dalle liste di avviamento al lavoro;
 
@@ -3447,13 +2767,9 @@ b) nel caso di attività di impresa in settore non incluso fra quelli da incenti
 
 Le assunzioni che configurano il requisito minimo di cui al presente comma si intendono da effettuarsi a tempo pieno.
 
-4.
+4\. Con decreto delegato vengono individuati i settori relativi all’attività di impresa da incentivare nei successivi cinque anni, indicando precisamente le aree di attività ammissibili.
 
-Con decreto delegato vengono individuati i settori relativi all’attività di impresa da incentivare nei successivi cinque anni, indicando precisamente le aree di attività ammissibili.
-
-5.
-
-Qualora vengano meno i motivi che hanno giustificato la concessione di residenza per motivi economici, ed in particolare:
+5\. Qualora vengano meno i motivi che hanno giustificato la concessione di residenza per motivi economici, ed in particolare:
 
 a) qualora il numero dei lavoratori non rispetti il numero e le proporzioni previste al comma 3, anche con riferimento a successivi incrementi occupazionali;
 
@@ -3463,17 +2779,11 @@ c) qualora per almeno un biennio il soggetto titolare di residenza per motivi ec
 
 debitorie verso lo Stato per importi superiori a euro 20.000,00 (ventimila/00), per le quali sia stata avviata la procedura di esecuzione coattiva; al beneficiario vengono concessi novanta giorni correnti per ripristinare il soddisfacimento dei requisiti richiesti per la concessione ed il mantenimento della residenza per motivi economici, decorsi infruttuosamente i quali l’ufficio, che ha accertato le inadempienze, le segnala all’Ufficio di Stato Civile, Servizi Demografici ed Elettorali per la revoca della residenza per motivi economici.
 
-6.
+6\. La residenza per motivi economici è revocata con provvedimento del Dirigente dello Stato Civile, Servizi Demografici ed Elettorali.
 
-La residenza per motivi economici è revocata con provvedimento del Dirigente dello Stato Civile, Servizi Demografici ed Elettorali.
+7\. In caso di revoca della residenza per motivi economici questa non viene più concessa al beneficiario di cui al comma 2, al coniuge e ai parenti di primo grado nel caso intendano avviare una ulteriore attività economica.
 
-7.
-
-In caso di revoca della residenza per motivi economici questa non viene più concessa al beneficiario di cui al comma 2, al coniuge e ai parenti di primo grado nel caso intendano avviare una ulteriore attività economica.
-
-8.
-
-La residenza per motivi economici è concessa altresì:
+8\. La residenza per motivi economici è concessa altresì:
 
 a) al coniuge non legalmente separato per il quale non siano in corso le procedure di separazione, scioglimento o cessazione degli effetti civili o annullamento del matrimonio;
 
@@ -3483,47 +2793,29 @@ c) al figlio di età non superiore a 25 anni legittimo, naturale, riconosciuto o
 
 d) al figlio legittimo, naturale riconosciuto o adottivo, che risulti a suo carico, qualora non sia in grado di provvedere al proprio sostentamento a causa di disabilità.
 
-9.
-
-In deroga alla Legge 22 luglio 2014 n. 114, il titolare di residenza per motivi economici ed i suoi familiari sono tenuti al pagamento di una quota in favore dell’Istituto per la Sicurezza Sociale a titolo di contributo per le prestazioni sanitarie e assistenziali che si dovessero rendere necessarie in caso di malattie, infortuni e maternità e per gli altri servizi sociali e di pubblica utilità. Tale quota è stabilita con apposito decreto delegato che ne prevede anche le modalità e la frequenza di versamento.
+9\. In deroga alla Legge 22 luglio 2014 n. 114, il titolare di residenza per motivi economici ed i suoi familiari sono tenuti al pagamento di una quota in favore dell’Istituto per la Sicurezza Sociale a titolo di contributo per le prestazioni sanitarie e assistenziali che si dovessero rendere necessarie in caso di malattie, infortuni e maternità e per gli altri servizi sociali e di pubblica utilità. Tale quota è stabilita con apposito decreto delegato che ne prevede anche le modalità e la frequenza di versamento.
 
 Il titolare della residenza per motivi economici di cui al comma 8 può iscriversi alle liste di avviamento al lavoro con le procedure previste dalla normativa vigente.
 
-10.
-
-Prima del perfezionamento della procedura di iscrizione nel Registro della popolazione residente, il richiedente deve produrre all’Ufficio Attività Economiche documentazione comprovante la costituzione di una garanzia reale su deposito bancario o altro strumento finanziario, purché di valore certo e prontamente liquidabile, detenuto presso un soggetto autorizzato ai sensi della Legge 17 novembre 2005 n.165 e successive modifiche e relativi decreti applicativi, a favore dell’Ecc.ma Camera, di cui sia titolare il richiedente stesso, di valore pari ad euro 75.000,00 (settantacinquemila/00).
+10\. Prima del perfezionamento della procedura di iscrizione nel Registro della popolazione residente, il richiedente deve produrre all’Ufficio Attività Economiche documentazione comprovante la costituzione di una garanzia reale su deposito bancario o altro strumento finanziario, purché di valore certo e prontamente liquidabile, detenuto presso un soggetto autorizzato ai sensi della Legge 17 novembre 2005 n.165 e successive modifiche e relativi decreti applicativi, a favore dell’Ecc.ma Camera, di cui sia titolare il richiedente stesso, di valore pari ad euro 75.000,00 (settantacinquemila/00).
 
 Tale garanzia reale può essere sostituita da fidejussione bancaria o assicurativa rilasciata da soggetto vigilato sammarinese, ai sensi della suddetta Legge n.165/2005e successive modifiche e relativi decreti applicativi, a favore dell’Ecc.ma Camera per il medesimo importo. La garanzia reale o la fidejussione bancaria o assicurativa, entro due anni dall’ottenimento della residenza, deve essere elevata a euro 150.000,00 (centocinquantamila/00) o sostituita dall’acquisto di un immobile già esistente al momento del perfezionamento della transazione, che può essere destinato quale sede dell’attività o quale residenza del beneficiario, purché di valore, risultante dall’atto di acquisto, almeno pari ai medesimi euro 150.000,00 (centocinquantamila/00), su cui deve essere iscritto privilegio in favore dell’Ecc.ma Camera, pena la revoca della residenza per motivi economici.
 
-11.
-
-L’immobile o le garanzie di cui al comma precedente fungono da garanzia a favore dell’Ecc.ma Camera per rimborsare eventuali retribuzioni non corrisposte ai dipendenti
+11\. L’immobile o le garanzie di cui al comma precedente fungono da garanzia a favore dell’Ecc.ma Camera per rimborsare eventuali retribuzioni non corrisposte ai dipendenti
 
 ed escutere eventuali crediti della Pubblica Amministrazione di natura tributaria o contributiva fino alla scadenza del periodo di cui al successivo comma 13.
 
-12.
+12\. Il residente per motivi economici non ha diritto ad accedere alle agevolazioni di cui alla Legge 15 dicembre 1994 n.110 “Testo Unico e di riforma delle disposizioni in materia di edilizia sovvenzionata” e di cui alla Legge 31 marzo 2015 n.44 “Disposizioni in materia di Edilizia Sovvenzionata”.
 
-Il residente per motivi economici non ha diritto ad accedere alle agevolazioni di cui alla Legge 15 dicembre 1994 n.110 “Testo Unico e di riforma delle disposizioni in materia di edilizia sovvenzionata” e di cui alla Legge 31 marzo 2015 n.44 “Disposizioni in materia di Edilizia Sovvenzionata”.
+13\. Trascorso un periodo di dieci anni dall’iscrizione nel registro dei residenti per motivi economici e assolti gli impegni previsti, previa verifica sulla permanenza dei requisiti previsti all’articolo 17, commi 1 e 2 della Legge 28 giugno 2010 n.118 e successive modifiche e integrazioni e sulla dimora abituale, la residenza si intende consolidata ed il provvedimento si estende ai componenti del nucleo familiare convivente.
 
-13.
+14\. L’Ufficio di Stato Civile, con proprie disposizioni interne, disciplina le modalità per la tenuta separata del registro dei residenti per motivi economici e del registro dei residenti a norma della Legge 28 giugno 2010 n.118 e successive modifiche.
 
-Trascorso un periodo di dieci anni dall’iscrizione nel registro dei residenti per motivi economici e assolti gli impegni previsti, previa verifica sulla permanenza dei requisiti previsti all’articolo 17, commi 1 e 2 della Legge 28 giugno 2010 n.118 e successive modifiche e integrazioni e sulla dimora abituale, la residenza si intende consolidata ed il provvedimento si estende ai componenti del nucleo familiare convivente.
+15\. Può essere concesso un numero massimo di residenze, ai sensi del presente articolo, pari a n.50 all’anno, non computando in tale numero i soggetti di cui al comma 8. Tale numero è modificabile ogni anno con decreto delegato.
 
-14.
+16\. Con decreto delegato possono essere annualmente elencati i settori economici per i quali, per ragioni di eccessiva saturazione di mercato, di eccessivo carico urbanistico o per altre ragioni di politica economica, non può essere ottenuta la residenza di cui al presente articolo.
 
-L’Ufficio di Stato Civile, con proprie disposizioni interne, disciplina le modalità per la tenuta separata del registro dei residenti per motivi economici e del registro dei residenti a norma della Legge 28 giugno 2010 n.118 e successive modifiche.
-
-15.
-
-Può essere concesso un numero massimo di residenze, ai sensi del presente articolo, pari a n.50 all’anno, non computando in tale numero i soggetti di cui al comma 8. Tale numero è modificabile ogni anno con decreto delegato.
-
-16.
-
-Con decreto delegato possono essere annualmente elencati i settori economici per i quali, per ragioni di eccessiva saturazione di mercato, di eccessivo carico urbanistico o per altre ragioni di politica economica, non può essere ottenuta la residenza di cui al presente articolo.
-
-17.
-
-L’Ufficio di Stato Civile, Servizi Demografici ed Elettorali comunica alla Commissione Consiliare Permanente Affari Esteri, Emigrazione e Immigrazione, ogni tre mesi, il numero di residenze per motivi economici concesse e revocate nel periodo considerato.”.
+17\. L’Ufficio di Stato Civile, Servizi Demografici ed Elettorali comunica alla Commissione Consiliare Permanente Affari Esteri, Emigrazione e Immigrazione, ogni tre mesi, il numero di residenze per motivi economici concesse e revocate nel periodo considerato.”.
 
 DECRETO – LEGGE 19 marzo 2018 n.30 (Ratifica Decreto – Legge 2 gennaio 2018 n.2)
 
@@ -3533,21 +2825,15 @@ MISURE URGENTI IN MATERIA DI EDILIZIA SOCIALE E SOVVENZIONATA
 
 (Assegnazione temporanea)
 
-1.
-
-Al fine di fornire un adeguato alloggio a persone singole o nuclei familiari che versano in reali e comprovate situazioni di fabbisogno abitativo la Pubblica Amministrazione può assegnare temporaneamente alloggi.
+1\. Al fine di fornire un adeguato alloggio a persone singole o nuclei familiari che versano in reali e comprovate situazioni di fabbisogno abitativo la Pubblica Amministrazione può assegnare temporaneamente alloggi.
 
 ##### Art. 2
 
 (Modalità per l’assegnazione temporanea)
 
-1.
+1\. Alla Sezione per la Gestione dell’Edilizia Residenziale, Sovvenzionata e Cooperative – Ufficio del Lavoro vengono presentate e trasmesse le domande di coloro che, per situazioni familiari, lavorative, gravi necessità economiche o per condizioni fisiche, necessitano di una immediata ed urgente sistemazione abitativa.
 
-Alla Sezione per la Gestione dell’Edilizia Residenziale, Sovvenzionata e Cooperative – Ufficio del Lavoro vengono presentate e trasmesse le domande di coloro che, per situazioni familiari, lavorative, gravi necessità economiche o per condizioni fisiche, necessitano di una immediata ed urgente sistemazione abitativa.
-
-2.
-
-A tal fine, su delibera del Congresso di Stato, la Sezione per la Gestione dell’Edilizia Residenziale, Sovvenzionata e Cooperative - Ufficio del Lavoro provvede al convenzionamento per la cessione temporanea delle abitazioni disponibili.
+2\. A tal fine, su delibera del Congresso di Stato, la Sezione per la Gestione dell’Edilizia Residenziale, Sovvenzionata e Cooperative - Ufficio del Lavoro provvede al convenzionamento per la cessione temporanea delle abitazioni disponibili.
 
 Tali convenzioni dovranno obbligatoriamente prevedere:
 
@@ -3559,29 +2845,21 @@ c) il canone di locazione fissato sulla base dell’Indicatore della Condizione 
 
 d) l’impossibilità di subentro per gli eredi non conviventi in caso di morte dell’assegnatario.
 
-3.
-
-La durata di cui al comma 2, lettera b) può essere prorogata dal Congresso di Stato in caso di permanenza accertata delle condizioni previste all’articolo 1 e al comma 1, del presente articolo, per l’assegnazione temporanea di alloggi.
+3\. La durata di cui al comma 2, lettera b) può essere prorogata dal Congresso di Stato in caso di permanenza accertata delle condizioni previste all’articolo 1 e al comma 1, del presente articolo, per l’assegnazione temporanea di alloggi.
 
 ##### Art. 3
 
 (Condizioni di assegnazione)
 
-1.
+1\. L’assegnazione è personale e non dà possibilità a terzi di occupare l’alloggio. La convenzione pertanto deve indicare i nominativi delle persone autorizzate ad occupare l’alloggio. E’ cura della Sezione per la Gestione dell’Edilizia Residenziale, Sovvenzionata e Cooperative - Ufficio del Lavoro procedere a costanti verifiche del rispetto delle condizioni che hanno portato alla sottoscrizione della convenzione.
 
-L’assegnazione è personale e non dà possibilità a terzi di occupare l’alloggio. La convenzione pertanto deve indicare i nominativi delle persone autorizzate ad occupare l’alloggio. E’ cura della Sezione per la Gestione dell’Edilizia Residenziale, Sovvenzionata e Cooperative - Ufficio del Lavoro procedere a costanti verifiche del rispetto delle condizioni che hanno portato alla sottoscrizione della convenzione.
-
-2.
-
-La Sezione per la Gestione dell’Edilizia Residenziale, Sovvenzionata e Cooperative – Ufficio del Lavoro, sottoscritta la convenzione da parte del Segretario di Stato competente per materia e dall’assegnatario, la trasmette alla Commissione per la Gestione dell’Edilizia Residenziale la quale ne prende atto nella sua più prossima seduta.
+2\. La Sezione per la Gestione dell’Edilizia Residenziale, Sovvenzionata e Cooperative – Ufficio del Lavoro, sottoscritta la convenzione da parte del Segretario di Stato competente per materia e dall’assegnatario, la trasmette alla Commissione per la Gestione dell’Edilizia Residenziale la quale ne prende atto nella sua più prossima seduta.
 
 ##### Art. 4
 
 (Decadenza dall’assegnazione)
 
-1.
-
-Il Congresso di Stato, su proposta della Commissione per la Gestione dell’Edilizia Residenziale, delibera la decadenza dall’assegnazione dell’alloggio nei confronti di chi:
+1\. Il Congresso di Stato, su proposta della Commissione per la Gestione dell’Edilizia Residenziale, delibera la decadenza dall’assegnazione dell’alloggio nei confronti di chi:
 
 a) non provvede al pagamento del canone di locazione entro tre mesi dal termine pattuito;
 
@@ -3595,99 +2873,63 @@ e) ha usato l’alloggio per attività illecite;
 
 f) non versa più in reali e comprovate situazioni di fabbisogno abitativo.
 
-2.
+2\. La delibera di decadenza deve indicare la data in cui l’alloggio deve essere lasciato libero.
 
-La delibera di decadenza deve indicare la data in cui l’alloggio deve essere lasciato libero.
-
-3.
-
-Nei casi di cui al comma 1, lettera a), il Congresso di Stato in presenza di ulteriori circostanze documentate che ne giustificano ugualmente la concessione, può deliberare ugualmente l’assegnazione o la prosecuzione della stessa. La documentazione deve essere presentata alla Sezione per la Gestione dell’Edilizia Residenziale, Sovvenzionata e Cooperative - Ufficio del Lavoro che, effettuata l’istruttoria, la trasmette al Congresso di Stato.
+3\. Nei casi di cui al comma 1, lettera a), il Congresso di Stato in presenza di ulteriori circostanze documentate che ne giustificano ugualmente la concessione, può deliberare ugualmente l’assegnazione o la prosecuzione della stessa. La documentazione deve essere presentata alla Sezione per la Gestione dell’Edilizia Residenziale, Sovvenzionata e Cooperative - Ufficio del Lavoro che, effettuata l’istruttoria, la trasmette al Congresso di Stato.
 
 ##### Art. 5
 
 (Abrogazioni)
 
-1.
-
-Sono espressamente abrogati gli articoli 28, 29 e 30 della Legge 15 dicembre 1994 n.110 e successive modifiche.
+1\. Sono espressamente abrogati gli articoli 28, 29 e 30 della Legge 15 dicembre 1994 n.110 e successive modifiche.
 
 ##### Art. 5-bis
 
 (Termine per l’erogazione dei contributi statali)
 
-1.
+1\. Nel caso in cui la domanda per l’ammissione al contributo statale di cui all’articolo 11, comma 1, della Legge 31 marzo 2015 n.44, venga presentata oltre il termine ivi previsto, il contributo, calcolato secondo le modalità descritte all’articolo 6 della medesima legge, viene erogato per i restanti anni di durata del mutuo e i contributi per gli anni precedenti non vengono riconosciuti.
 
-Nel caso in cui la domanda per l’ammissione al contributo statale di cui all’articolo 11, comma 1, della Legge 31 marzo 2015 n.44, venga presentata oltre il termine ivi previsto, il contributo, calcolato secondo le modalità descritte all’articolo 6 della medesima legge, viene erogato per i restanti anni di durata del mutuo e i contributi per gli anni precedenti non vengono riconosciuti.
-
-2.
-
-L’erogazione dei contributi statali avviene, nel limite degli stanziamenti fissati ai sensi dell’articolo 4, comma 1, della Legge n.44/2015 dando priorità ai soggetti che ne fanno richiesta nel termine indicato all’articolo 11, comma 1, della medesima legge.
+2\. L’erogazione dei contributi statali avviene, nel limite degli stanziamenti fissati ai sensi dell’articolo 4, comma 1, della Legge n.44/2015 dando priorità ai soggetti che ne fanno richiesta nel termine indicato all’articolo 11, comma 1, della medesima legge.
 
 ##### Art. 6
 
 (Norme transitorie)
 
-1.
+1\. Le convenzioni stipulate ai sensi degli articoli 28, 29 e 30 della Legge n.110/1994 in scadenza al 31 dicembre 2017, sono prorogate al fine di essere rivalutate alla luce di quanto previsto dal presente decreto – legge entro il 31 dicembre 2018.
 
-Le convenzioni stipulate ai sensi degli articoli 28, 29 e 30 della Legge n.110/1994 in scadenza al 31 dicembre 2017, sono prorogate al fine di essere rivalutate alla luce di quanto previsto dal presente decreto – legge entro il 31 dicembre 2018.
-
-2.
-
-Fino all’istituzione dell’Indicatore della Condizione Economica per l’Equità (ICEE) secondo quanto previsto dall’articolo 67, comma 5, della Legge n.147/2017, la Commissione per la Gestione dell’Edilizia Residenziale, determina il canone di locazione in base a quanto previsto all’articolo 23 della Legge n.110/1994 e successive modifiche e, tramite l’ufficio competente in materia di edilizia sociale e residenziale, può richiedere all’interessato di depositare tutta la documentazione che ritiene necessaria per appurarne la reale situazione economica. A tal fine, per il medesimo tramite, può richiedere a Banca
+2\. Fino all’istituzione dell’Indicatore della Condizione Economica per l’Equità (ICEE) secondo quanto previsto dall’articolo 67, comma 5, della Legge n.147/2017, la Commissione per la Gestione dell’Edilizia Residenziale, determina il canone di locazione in base a quanto previsto all’articolo 23 della Legge n.110/1994 e successive modifiche e, tramite l’ufficio competente in materia di edilizia sociale e residenziale, può richiedere all’interessato di depositare tutta la documentazione che ritiene necessaria per appurarne la reale situazione economica. A tal fine, per il medesimo tramite, può richiedere a Banca
 
 Centrale il rilascio dell’indicazione dei rapporti bancari esistenti in territorio intestati al medesimo interessato, rimanendo vincolata al rispetto del segreto sulle informazioni ricevute secondo le disposizioni di legge. 2 ter. Su proposta della Commissione per la Gestione dell’Edilizia Residenziale, gli scaglioni di reddito familiare complessivo di cui all’art.23 della Legge n.110/1994 sono aggiornati tramite decreto delegato entro il 31 maggio 2018 ed ogni volta che si renda necessario sulla base della variazione del costo della vita.
 
-3.
-
-Fino all’istituzione dell’indicatore ICEE e di quanto previsto dal comma 2 del presente articolo, si applica anche per le assegnazioni ordinarie di cui al Titolo I, Capo II, Sezione I della Legge n.110/1994 e successive modifiche.
+3\. Fino all’istituzione dell’indicatore ICEE e di quanto previsto dal comma 2 del presente articolo, si applica anche per le assegnazioni ordinarie di cui al Titolo I, Capo II, Sezione I della Legge n.110/1994 e successive modifiche.
 
 ##### Art. 6 - bis
 
 (Ricognizione proprietà immobiliari dell’Ecc.ma Camera)
 
-1.
-
-Al fine di una corretta valutazione della qualità dello stato di fatto degli immobili, il Congresso di Stato è impegnato ad approntare, entro il 30 Giugno 2018, una ricognizione degli immobili di proprietà dell’Eccellentissima Camera ceduti in locazione, uso e assegnazione temporanea.
+1\. Al fine di una corretta valutazione della qualità dello stato di fatto degli immobili, il Congresso di Stato è impegnato ad approntare, entro il 30 Giugno 2018, una ricognizione degli immobili di proprietà dell’Eccellentissima Camera ceduti in locazione, uso e assegnazione temporanea.
 
 ##### Art. 6 - ter
 
 (Norme finali)
 
-2.
+2\. I soggetti beneficiari di assegnazione temporanea ai sensi degli articoli 28, 29 e 30 della Legge n.110/1994 continuativamente per almeno dieci anni al 31/12/2017 possono presentare alla Commissione per la Gestione dell’Edilizia Residenziale domanda di acquisto dell’alloggio occupato a tale data entro il 30 giugno 2018, purché siano in regola con il pagamento dei canoni di locazione e non abbiano debiti iscritti a ruolo con lo Stato.
 
-I soggetti beneficiari di assegnazione temporanea ai sensi degli articoli 28, 29 e 30 della Legge n.110/1994 continuativamente per almeno dieci anni al 31/12/2017 possono presentare alla Commissione per la Gestione dell’Edilizia Residenziale domanda di acquisto dell’alloggio occupato a tale data entro il 30 giugno 2018, purché siano in regola con il pagamento dei canoni di locazione e non abbiano debiti iscritti a ruolo con lo Stato.
+2\. La Commissione per la Gestione dell’Edilizia Residenziale, valutati i requisiti dell’interessato, provvede a richiedere la stima dell’alloggio oggetto della domanda di acquisto all’Ufficio Tecnico del Catasto. II prezzo di cessione è pari al valore stimato dall’Ufficio Tecnico del Catasto aumentato di una quota pari al 5% del valore stimato.
 
-2.
+3\. Della stima effettuata la Commissione per la Gestione dell’Edilizia Residenziale ne dà comunicazione al richiedente il quale, nel termine di venti giorni, può proporre proprie osservazioni. Se non pervengono osservazioni entro tale termine il prezzo si intende accettato.
 
-La Commissione per la Gestione dell’Edilizia Residenziale, valutati i requisiti dell’interessato, provvede a richiedere la stima dell’alloggio oggetto della domanda di acquisto all’Ufficio Tecnico del Catasto. II prezzo di cessione è pari al valore stimato dall’Ufficio Tecnico del Catasto aumentato di una quota pari al 5% del valore stimato.
+4\. In caso di osservazioni, la Commissione per la Gestione dell’Edilizia Residenziale le valuta, sentito anche in proposito l’Ufficio Tecnico del Catasto, e comunica definitivamente al richiedente il prezzo di cessione.
 
-3.
+5\. Entro venti giorni dalla comunicazione che precede, il richiedente deve esprimere accettazione o meno del prezzo di cessione.
 
-Della stima effettuata la Commissione per la Gestione dell’Edilizia Residenziale ne dà comunicazione al richiedente il quale, nel termine di venti giorni, può proporre proprie osservazioni. Se non pervengono osservazioni entro tale termine il prezzo si intende accettato.
+6\. Nel caso di accettazione del prezzo di cessione da parte del richiedente, la Commissione per la Gestione dell’Edilizia Residenziale redige una relazione che viene trasmessa al Congresso di Stato per l’avvio dell’iter consiliare dando mandato a ciò al Segretario di Stato al Lavoro e Cooperazione.
 
-4.
+7\. II canone di locazione versato dal beneficiario di assegnazione temporanea allo Stato è considerato corrispettivo di questa per tutto il periodo della sua durata.
 
-In caso di osservazioni, la Commissione per la Gestione dell’Edilizia Residenziale le valuta, sentito anche in proposito l’Ufficio Tecnico del Catasto, e comunica definitivamente al richiedente il prezzo di cessione.
+8\. II pagamento del prezzo di cessione dell’alloggio deve avvenire entro sei mesi dalla deliberazione di cessione da parte del Consiglio Grande e Generale, nel caso di corresponsione in un’unica soluzione, oppure, entro un periodo massimo di quindici anni dalla deliberazione di cessione da parte del Consiglio Grande e Generale, nel caso di corresponsione rateizzata tramite rate semestrali posticipate da pagarsi nei periodi compresi tra il 15 e il 30 giugno ed il 15 e 31 dicembre di ogni anno.
 
-5.
-
-Entro venti giorni dalla comunicazione che precede, il richiedente deve esprimere accettazione o meno del prezzo di cessione.
-
-6.
-
-Nel caso di accettazione del prezzo di cessione da parte del richiedente, la Commissione per la Gestione dell’Edilizia Residenziale redige una relazione che viene trasmessa al Congresso di Stato per l’avvio dell’iter consiliare dando mandato a ciò al Segretario di Stato al Lavoro e Cooperazione.
-
-7.
-
-II canone di locazione versato dal beneficiario di assegnazione temporanea allo Stato è considerato corrispettivo di questa per tutto il periodo della sua durata.
-
-8.
-
-II pagamento del prezzo di cessione dell’alloggio deve avvenire entro sei mesi dalla deliberazione di cessione da parte del Consiglio Grande e Generale, nel caso di corresponsione in un’unica soluzione, oppure, entro un periodo massimo di quindici anni dalla deliberazione di cessione da parte del Consiglio Grande e Generale, nel caso di corresponsione rateizzata tramite rate semestrali posticipate da pagarsi nei periodi compresi tra il 15 e il 30 giugno ed il 15 e 31 dicembre di ogni anno.
-
-9.
-
-In caso di accesso al contributo statale di cui al Titolo II della Legge 31 marzo 2015 n. 44, il pagamento deve avvenire in un’unica soluzione.
+9\. In caso di accesso al contributo statale di cui al Titolo II della Legge 31 marzo 2015 n. 44, il pagamento deve avvenire in un’unica soluzione.
 
 10\. Nel caso di pagamento rateale il prezzo è gravato dagli interessi al tasso legale.
 
@@ -3715,9 +2957,7 @@ DISPOSIZIONI PER L’AUTONOMIA OPERATIVA DELL’AUTHORITY PER LE PARI OPPORTUNIT
 
 (Segnalazioni ai fini dell’assegnazione di alloggio)
 
-1.
-
-I competenti servizi hanno facoltà di segnalare all’Authority le situazioni che ritengono meritevoli di tutela, ai fini della trasmissione presso la Commissione per la Gestione dell’edilizia residenziale, di cui alla Legge 15 dicembre 1994 n. 110 e successive modifiche, per l’assegnazione temporanea di un alloggio.
+1\. I competenti servizi hanno facoltà di segnalare all’Authority le situazioni che ritengono meritevoli di tutela, ai fini della trasmissione presso la Commissione per la Gestione dell’edilizia residenziale, di cui alla Legge 15 dicembre 1994 n. 110 e successive modifiche, per l’assegnazione temporanea di un alloggio.
 
 LEGGE 30 maggio 2019 n.88
 
@@ -3741,13 +2981,9 @@ LEGGE 19 luglio 2021 n.136 TUTELA DELLE PERSONE CON DISABILITÀ SENSORIALI E INT
 
 (Linee di principio e definizioni)
 
-1.
+1\. Allo scopo di tutelare le persone con disabilità sensoriali, i loro diritti e libertà fondamentali, la Repubblica di San Marino promuove la rimozione delle barriere alla comprensione e alla comunicazione che limitano il pieno sviluppo della persona e l’effettiva partecipazione alla vita collettiva; garantisce quelle forme di sostegno che permettono di vivere appieno l’esistenza in tutti i suoi aspetti; si impegna ad intervenire in maniera proattiva sui fattori ambientali, sia individuali sia sociali, affinché siano in grado di determinare un’influenza positiva nella valorizzazione della persona, delle sue capacità residue e delle sue potenzialità.
 
-Allo scopo di tutelare le persone con disabilità sensoriali, i loro diritti e libertà fondamentali, la Repubblica di San Marino promuove la rimozione delle barriere alla comprensione e alla comunicazione che limitano il pieno sviluppo della persona e l’effettiva partecipazione alla vita collettiva; garantisce quelle forme di sostegno che permettono di vivere appieno l’esistenza in tutti i suoi aspetti; si impegna ad intervenire in maniera proattiva sui fattori ambientali, sia individuali sia sociali, affinché siano in grado di determinare un’influenza positiva nella valorizzazione della persona, delle sue capacità residue e delle sue potenzialità.
-
-2.
-
-Ai fini della presente legge, con l’espressione “disabilità sensoriali” si intendono deficit, patologie disabilitanti o significative alterazioni dell’apparato visivo o uditivo quali:
+2\. Ai fini della presente legge, con l’espressione “disabilità sensoriali” si intendono deficit, patologie disabilitanti o significative alterazioni dell’apparato visivo o uditivo quali:
 
 \- il mutismo;
 
@@ -3757,193 +2993,123 @@ Ai fini della presente legge, con l’espressione “disabilità sensoriali” s
 
 \- la sordocecità caratterizzata dalla compresenza delle due disabilità sensoriali visive e uditive.
 
-3.
-
-Ai fini della presente legge, sono altresì considerati “disabilità sensoriali” i deficit nella comunicazione verbale e non verbale derivanti, ad esempio, da sindromi, disturbi dello spettro autistico e simili.
+3\. Ai fini della presente legge, sono altresì considerati “disabilità sensoriali” i deficit nella comunicazione verbale e non verbale derivanti, ad esempio, da sindromi, disturbi dello spettro autistico e simili.
 
 ##### Art. 2
 
 (Tutela della libertà di espressione)
 
-1.
+1\. Fermo restando l’insegnamento della lingua italiana parlata e scritta, la Repubblica di San Marino riconosce, promuove e tutela la lingua dei segni italiana (LIS), in un’ottica di bilinguismo tra la lingua italiana parlata e scritta e la LIS, e la LIS tattile. Sono altresì riconosciuti, promossi e tutelati il metodo oralista e il metodo bimodale.
 
-Fermo restando l’insegnamento della lingua italiana parlata e scritta, la Repubblica di San Marino riconosce, promuove e tutela la lingua dei segni italiana (LIS), in un’ottica di bilinguismo tra la lingua italiana parlata e scritta e la LIS, e la LIS tattile. Sono altresì riconosciuti, promossi e tutelati il metodo oralista e il metodo bimodale.
+2\. La Repubblica di San Marino promuove e tutela differenti sistemi di comunicazione tra cui il sistema Braille, il metodo Malossi, la comunicazione gestuale, oggettuale, comportamentale e pittografica, la dattilologia, il metodo Tadoma nonché le modalità di comunicazione aumentative e alternative.
 
-2.
-
-La Repubblica di San Marino promuove e tutela differenti sistemi di comunicazione tra cui il sistema Braille, il metodo Malossi, la comunicazione gestuale, oggettuale, comportamentale e pittografica, la dattilologia, il metodo Tadoma nonché le modalità di comunicazione aumentative e alternative.
-
-3.
-
-Sono promosse la diffusione e l’accessibilità di tutti gli strumenti tecnologici, i servizi e le risorse finalizzati ad assicurare l’inclusione sociale e l’accesso all’informazione attraverso sistemi di sottotitolazione, audiodescrizione, servizi di interpretariato in LIS e US tattile, sistema Braille e ogni altra azione atta a realizzare la piena autonomia, inclusione e realizzazione umana, nel rispetto delle scelte delle persone e delle loro famiglie, ai sensi dell’articolo 3.
+3\. Sono promosse la diffusione e l’accessibilità di tutti gli strumenti tecnologici, i servizi e le risorse finalizzati ad assicurare l’inclusione sociale e l’accesso all’informazione attraverso sistemi di sottotitolazione, audiodescrizione, servizi di interpretariato in LIS e US tattile, sistema Braille e ogni altra azione atta a realizzare la piena autonomia, inclusione e realizzazione umana, nel rispetto delle scelte delle persone e delle loro famiglie, ai sensi dell’articolo 3.
 
 ##### Art. 3
 
 (Libertà di scelta e non discriminazione)
 
-1.
+1\. È riconosciuto il diritto di libera scelta delle persone con disabilità sensoriali e delle loro famiglie o tutori in merito alle modalità di comunicazione, ai percorsi educativi e agli ausili utilizzati per il raggiungimento del pieno sviluppo della persona e della sua piena inclusione sociale, provvedendo alle garanzie necessarie affinché sia possibile accedere e fare liberamente uso dei metodi di insegnamento e dei sistemi di comunicazione di cui all’articolo 2 commi 1 e 2 in tutti gli ambiti pubblici e privati.
 
-È riconosciuto il diritto di libera scelta delle persone con disabilità sensoriali e delle loro famiglie o tutori in merito alle modalità di comunicazione, ai percorsi educativi e agli ausili utilizzati per il raggiungimento del pieno sviluppo della persona e della sua piena inclusione sociale, provvedendo alle garanzie necessarie affinché sia possibile accedere e fare liberamente uso dei metodi di insegnamento e dei sistemi di comunicazione di cui all’articolo 2 commi 1 e 2 in tutti gli ambiti pubblici e privati.
-
-2.
-
-Nessuna persona può essere discriminata né sottoposta a trattamenti diseguali, direttamente o indirettamente, per l’esercizio del suo diritto di opzione all’uso di mezzi di sostegno alla comunicazione di cui al comma l in qualsiasi ambito, sia pubblico che privato.
+2\. Nessuna persona può essere discriminata né sottoposta a trattamenti diseguali, direttamente o indirettamente, per l’esercizio del suo diritto di opzione all’uso di mezzi di sostegno alla comunicazione di cui al comma l in qualsiasi ambito, sia pubblico che privato.
 
 ##### Art. 4
 
 (Prevenzione e identificazione precoce delle disabilità sensoriali e strumenti atti ad attenuare o correggere il deficit uditivo e il deficit visivo)
 
-1.
+1\. È promosso l’uso di strumenti idonei a prevenire e identificare precocemente le disabilità sensoriali, quali in particolare le indagini preventive in gravidanza, lo screening neonatale universale, la diagnosi audiologica e oculistica pediatrica e, più in generale, ogni intervento diagnostico precoce, abilitativo e riabilitativo per tutti i minori con disabilità sensoriale congenita o acquisita, ai fini degli appropriati interventi di protesizzazione uditiva e oculare precoce, di implantologia cocleare e logopedici.
 
-È promosso l’uso di strumenti idonei a prevenire e identificare precocemente le disabilità sensoriali, quali in particolare le indagini preventive in gravidanza, lo screening neonatale universale, la diagnosi audiologica e oculistica pediatrica e, più in generale, ogni intervento diagnostico precoce, abilitativo e riabilitativo per tutti i minori con disabilità sensoriale congenita o acquisita, ai fini degli appropriati interventi di protesizzazione uditiva e oculare precoce, di implantologia cocleare e logopedici.
+2\. Sin dal momento della diagnosi della disabilità, è garantita una informazione sanitaria corretta, chiara e graduale, che permetta la comprensione globale dell’evento alla base della disabilità, le possibilità’ di recupero, e in grado di accompagnare la persona disabile, la sua famiglia o tutore in un percorso costruttivo.
 
-2.
+3\. Sono promossi interventi di sostegno psicologico, pedagogico, educativo, di inclusione per tutti i minori con disabilità sensoriale congenita o acquisita, nonché interventi informativi e di sostegno psicologico per le rispettive famiglie, da attivare contestualmente alla comunicazione della diagnosi.
 
-Sin dal momento della diagnosi della disabilità, è garantita una informazione sanitaria corretta, chiara e graduale, che permetta la comprensione globale dell’evento alla base della disabilità, le possibilità’ di recupero, e in grado di accompagnare la persona disabile, la sua famiglia o tutore in un percorso costruttivo.
+4\. Il Servizio Minori, congiuntamente con la UOC Pediatria, attua la presa in carico precoce del bambino e della famiglia, attraverso interventi appropriati avvalendosi, se necessario, di consulenti tiflologici ed esperti in disabilità sensoriali. Il Servizio Minori monitora altresì le famiglie composte da genitori con disabilità sensoriali al fine di verificare lo sviluppo delle capacità comunicative dei figli.
 
-3.
+5\. È altresì promosso il supporto riabilitativo e psicologico nei casi di disabilità sensoriali sopraggiunte in età adulta a seguito di trauma, infortunio o legate all’età.
 
-Sono promossi interventi di sostegno psicologico, pedagogico, educativo, di inclusione per tutti i minori con disabilità sensoriale congenita o acquisita, nonché interventi informativi e di sostegno psicologico per le rispettive famiglie, da attivare contestualmente alla comunicazione della diagnosi.
+6\. È promossa l’accessibilità di strumenti e soluzioni tecniche, hardware e software, al fine di consentire alle persone con disabilità sensoriali di superare o ridurre le condizioni di svantaggio.
 
-4.
-
-Il Servizio Minori, congiuntamente con la UOC Pediatria, attua la presa in carico precoce del bambino e della famiglia, attraverso interventi appropriati avvalendosi, se necessario, di consulenti tiflologici ed esperti in disabilità sensoriali. Il Servizio Minori monitora altresì le famiglie composte da genitori con disabilità sensoriali al fine di verificare lo sviluppo delle capacità comunicative dei figli.
-
-5.
-
-È altresì promosso il supporto riabilitativo e psicologico nei casi di disabilità sensoriali sopraggiunte in età adulta a seguito di trauma, infortunio o legate all’età.
-
-6.
-
-È promossa l’accessibilità di strumenti e soluzioni tecniche, hardware e software, al fine di consentire alle persone con disabilità sensoriali di superare o ridurre le condizioni di svantaggio.
-
-7.
-
-È promossa la ricerca scientifica e tecnologica sulle disabilità sensoriali in ambito linguistico, pedagogico, didattico, psicologico e neuropsicologico.
+7\. È promossa la ricerca scientifica e tecnologica sulle disabilità sensoriali in ambito linguistico, pedagogico, didattico, psicologico e neuropsicologico.
 
 ##### Art. 5
 
 (Accessibilità alla comunicazione, all’informazione, ai luoghi e agli spazi pubblici e privati e ai rapporti con la pubblica amministrazione)
 
-1.
-
-È promossa l’accessibilità universale degli ambienti, dei processi, dei beni, dei prodotti e dei servizi, ivi compresi oggetti, strumenti, utensili e dispositivi, affinché siano
+1\. È promossa l’accessibilità universale degli ambienti, dei processi, dei beni, dei prodotti e dei servizi, ivi compresi oggetti, strumenti, utensili e dispositivi, affinché siano
 
 comprensibili, utilizzabili e praticabili da tutte le persone in condizioni di sicurezza e nella maniera più autonoma e naturale possibile.
 
-2.
+2\. È favorita l’accessibilità degli edifici e degli ambienti circostanti, con particolare attenzione all’eliminazione di barriere alla comprensione e alla comunicazione e all’adattamento di apparati e strumenti. A tal fine si incentiva l’implementazione negli edifici di soluzioni costruttive e tecnologiche che facilitino l’accesso agli spazi interni ed esterni e il loro utilizzo nonché di sistemi di automazione e domotica.
 
-È favorita l’accessibilità degli edifici e degli ambienti circostanti, con particolare attenzione all’eliminazione di barriere alla comprensione e alla comunicazione e all’adattamento di apparati e strumenti. A tal fine si incentiva l’implementazione negli edifici di soluzioni costruttive e tecnologiche che facilitino l’accesso agli spazi interni ed esterni e il loro utilizzo nonché di sistemi di automazione e domotica.
+3\. Per favorire il pieno accesso all’informazione e alla comunicazione, nell’ambito delle risorse disponibili, il Settore Pubblico Allargato adotta le misure necessarie affinché le campagne informative e preventive in materia di salute, con particolare riferimento a comunicazioni istituzionali e sanitarie, pagine e portali internet di pubblica utilità o finanziati con fondi pubblici, siano accessibili alle persone con disabilità sensoriali attivando uno o più sistemi comunicativi di cui all’articolo 2.
 
-3.
+4\. È promosso l’accesso alle strutture preposte alla salute e ai servizi sanitari e informativi, di pronto soccorso e cura, mediante servizi di interpretariato in LIS, sistema Braille nonché attraverso l’utilizzo di tutti i canali comunicativi e linguistici e delle tecnologie atti a favorire l’accesso alla comunicazione e all’informazione.
 
-Per favorire il pieno accesso all’informazione e alla comunicazione, nell’ambito delle risorse disponibili, il Settore Pubblico Allargato adotta le misure necessarie affinché le campagne informative e preventive in materia di salute, con particolare riferimento a comunicazioni istituzionali e sanitarie, pagine e portali internet di pubblica utilità o finanziati con fondi pubblici, siano accessibili alle persone con disabilità sensoriali attivando uno o più sistemi comunicativi di cui all’articolo 2.
+5\. Nell’ambito delle risorse disponibili, la pubblica amministrazione che promuove o sovvenziona congressi, giornate di studio, simposi, seminari e corsi formativi si impegna a renderli accessibili alle persone con disabilità sensoriali.
 
-4.
-
-È promosso l’accesso alle strutture preposte alla salute e ai servizi sanitari e informativi, di pronto soccorso e cura, mediante servizi di interpretariato in LIS, sistema Braille nonché attraverso l’utilizzo di tutti i canali comunicativi e linguistici e delle tecnologie atti a favorire l’accesso alla comunicazione e all’informazione.
-
-5.
-
-Nell’ambito delle risorse disponibili, la pubblica amministrazione che promuove o sovvenziona congressi, giornate di studio, simposi, seminari e corsi formativi si impegna a renderli accessibili alle persone con disabilità sensoriali.
-
-6.
-
-Nei rapporti con il Settore Pubblico Allargato è promosso l’uso di ogni metodologia comunicativa accessibile e inclusiva di cui all’articolo 2 o di ogni strumento tecnico o informatico, accessibile ed inclusivo, ivi inclusi smartphone, tablet e analoghi dispositivi.
+6\. Nei rapporti con il Settore Pubblico Allargato è promosso l’uso di ogni metodologia comunicativa accessibile e inclusiva di cui all’articolo 2 o di ogni strumento tecnico o informatico, accessibile ed inclusivo, ivi inclusi smartphone, tablet e analoghi dispositivi.
 
 Si promuove altresì la prestazione di servizi di interpretariato in LIS, audiodescrizione e sistema Braille e la disponibilità di tutti i canali comunicativi e degli strumenti atti a favorire la piena fruizione dei servizi e delle risorse offerti alla generalità dei cittadini.
 
-7.
+7\. È favorito l’accesso delle persone con disabilità sensoriali a tutti i servizi di emergenza e pronto intervento mediante l’utilizzo delle nuove tecnologie, comprese le applicazioni mobili; viene altresì promosso l’accesso ai messaggi rivolti ai cittadini, relativi a eventuali dichiarazioni di stato di emergenza e di allarme per eventi eccezionali.
 
-È favorito l’accesso delle persone con disabilità sensoriali a tutti i servizi di emergenza e pronto intervento mediante l’utilizzo delle nuove tecnologie, comprese le applicazioni mobili; viene altresì promosso l’accesso ai messaggi rivolti ai cittadini, relativi a eventuali dichiarazioni di stato di emergenza e di allarme per eventi eccezionali.
-
-8.
-
-Al fine di garantire alle persone con disabilità sensoriali l’accesso effettivo alla giustizia diretta e indiretta, anche in qualità di testimoni, in tutte le fasi del procedimento giudiziario e nell’ambito dell’amministrazione penitenziaria, è dato mandato al Congresso di Stato di intraprendere l’iter necessario per la creazione, presso il Tribunale Unico, di uno specifico registro per interpreti LIS in ambito giuridico nonché della possibilità di fornire, ove necessario, la trascrizione in Braille degli atti processuali. Vengono altresì promosse attività di formazione per coloro che operano nel campo dell’amministrazione della giustizia, delle forze di polizia e del personale penitenziario. Tali provvedimenti devono rientrare all’interno del decreto delegato in tema di accesso alla giustizia, libertà e accesso alla persona di cui all’articolo 23, comma 3, della Legge 10 marzo 2015 n. 28.
+8\. Al fine di garantire alle persone con disabilità sensoriali l’accesso effettivo alla giustizia diretta e indiretta, anche in qualità di testimoni, in tutte le fasi del procedimento giudiziario e nell’ambito dell’amministrazione penitenziaria, è dato mandato al Congresso di Stato di intraprendere l’iter necessario per la creazione, presso il Tribunale Unico, di uno specifico registro per interpreti LIS in ambito giuridico nonché della possibilità di fornire, ove necessario, la trascrizione in Braille degli atti processuali. Vengono altresì promosse attività di formazione per coloro che operano nel campo dell’amministrazione della giustizia, delle forze di polizia e del personale penitenziario. Tali provvedimenti devono rientrare all’interno del decreto delegato in tema di accesso alla giustizia, libertà e accesso alla persona di cui all’articolo 23, comma 3, della Legge 10 marzo 2015 n. 28.
 
 ##### Art. 6
 
 (Inclusione scolastica)
 
-1.
+1\. Nell’ambito dei princìpi e delle finalità di cui agli articoli 1 e 2 della Legge 10 marzo 2015 n.28, lo Stato garantisce i servizi volti al sostegno e all’inclusione dell’alunno con disabilità sensoriale, tra cui la presenza, a seconda della tipologia di disabilità e delle necessità di ciascun alunno, dell’assistente all’autonomia e alla comunicazione che opera attraverso un Piano Educativo Individualizzato. È dato mandato al Congresso di Stato di emanare, entro novanta giorni dall’entrata in vigore della presente legge, apposito decreto delegato che disciplini la figura dell’assistente all’autonomia e alla comunicazione, ne definisca i requisiti e le funzioni.
 
-Nell’ambito dei princìpi e delle finalità di cui agli articoli 1 e 2 della Legge 10 marzo 2015 n.28, lo Stato garantisce i servizi volti al sostegno e all’inclusione dell’alunno con disabilità sensoriale, tra cui la presenza, a seconda della tipologia di disabilità e delle necessità di ciascun alunno, dell’assistente all’autonomia e alla comunicazione che opera attraverso un Piano Educativo Individualizzato. È dato mandato al Congresso di Stato di emanare, entro novanta giorni dall’entrata in vigore della presente legge, apposito decreto delegato che disciplini la figura dell’assistente all’autonomia e alla comunicazione, ne definisca i requisiti e le funzioni.
-
-2.
-
-Il Dipartimento della Formazione promuove momenti formativi della LIS e del sistema Braille in ambito scolastico, nonché corsi di formazione specifica rivolti al corpo docente.
+2\. Il Dipartimento della Formazione promuove momenti formativi della LIS e del sistema Braille in ambito scolastico, nonché corsi di formazione specifica rivolti al corpo docente.
 
 ##### Art. 7
 
 (Formazione universitaria e post-universitaria)
 
-1.
+1\. È promosso l’accesso all’istruzione universitaria e post-universitaria mediante tutti gli strumenti e servizi volti all’abbattimento delle barriere alla comprensione e alla comunicazione, anche mettendo a disposizione misure inclusive e strumenti idonei ad assicurare pari opportunità ed autonomia, in base alle necessità personali.
 
-È promosso l’accesso all’istruzione universitaria e post-universitaria mediante tutti gli strumenti e servizi volti all’abbattimento delle barriere alla comprensione e alla comunicazione, anche mettendo a disposizione misure inclusive e strumenti idonei ad assicurare pari opportunità ed autonomia, in base alle necessità personali.
+2\. È promosso, nel rispetto dell’autonomia universitaria, sia nell’ambito dei corsi di laurea sia nella formazione post lauream, l’insegnamento e l’uso, da parte degli studenti, della LIS, del sistema Braille nonché di tecniche, metodologie e risorse, anche informatiche, idonee a favorire la comunicazione delle e con le persone con disabilità sensoriali.
 
-2.
-
-È promosso, nel rispetto dell’autonomia universitaria, sia nell’ambito dei corsi di laurea sia nella formazione post lauream, l’insegnamento e l’uso, da parte degli studenti, della LIS, del sistema Braille nonché di tecniche, metodologie e risorse, anche informatiche, idonee a favorire la comunicazione delle e con le persone con disabilità sensoriali.
-
-3.
-
-Al fine di disporre di professionisti debitamente qualificati per l’insegnamento della LIS, della LIS tattile e del sistema Braille e per i differenti ruoli di assistente all’autonomia e alla comunicazione e di interprete in LIS e LIS tattile, l’Università di San Marino attiva corsi di formazione specifici.
+3\. Al fine di disporre di professionisti debitamente qualificati per l’insegnamento della LIS, della LIS tattile e del sistema Braille e per i differenti ruoli di assistente all’autonomia e alla comunicazione e di interprete in LIS e LIS tattile, l’Università di San Marino attiva corsi di formazione specifici.
 
 ##### Art. 8
 
 (Inclusione lavorativa e formazione permanente)
 
-1.
+1\. Al fine di realizzare la piena inclusione sociale nei luoghi di lavoro, si promuovono pari opportunità e accessibilità a ambienti, postazioni di lavoro, risorse, corsi di formazione e aggiornamento, colloqui, riunioni, interazioni con la dirigenza e i colleghi e per tutto ciò che riguarda la vita lavorativa, mediante l’utilizzo della LIS, del sistema Braille e, in generale, dei sistemi comunicativi di cui all’articolo 2, degli strumenti e ausili idonei nonché delle nuove tecnologie, ivi comprese applicazioni, chat, e-mail e videoconferenze.
 
-Al fine di realizzare la piena inclusione sociale nei luoghi di lavoro, si promuovono pari opportunità e accessibilità a ambienti, postazioni di lavoro, risorse, corsi di formazione e aggiornamento, colloqui, riunioni, interazioni con la dirigenza e i colleghi e per tutto ciò che riguarda la vita lavorativa, mediante l’utilizzo della LIS, del sistema Braille e, in generale, dei sistemi comunicativi di cui all’articolo 2, degli strumenti e ausili idonei nonché delle nuove tecnologie, ivi comprese applicazioni, chat, e-mail e videoconferenze.
-
-2.
-
-Per i fini di cui al comma 1, è dato mandato al Segretario di Stato per il Lavoro di redigere entro centottanta giorni dall’entrata in vigore della presente legge apposite linee guida per l’inclusione lavorativa delle persone con disabilità sensoriali.
+2\. Per i fini di cui al comma 1, è dato mandato al Segretario di Stato per il Lavoro di redigere entro centottanta giorni dall’entrata in vigore della presente legge apposite linee guida per l’inclusione lavorativa delle persone con disabilità sensoriali.
 
 ##### Art. 9
 
 (Arte, cultura, tempo libero)
 
-1.
+1\. È favorita la piena accessibilità del patrimonio storico, artistico e culturale sammarinese, nonché il turismo accessibile e la fruizione di eventi culturali, della pratica sportiva, di manifestazioni e di eventi ricreativi, attraverso i sistemi comunicativi di cui all’articolo 2.
 
-È favorita la piena accessibilità del patrimonio storico, artistico e culturale sammarinese, nonché il turismo accessibile e la fruizione di eventi culturali, della pratica sportiva, di manifestazioni e di eventi ricreativi, attraverso i sistemi comunicativi di cui all’articolo 2.
-
-2.
-
-Ai fini di cui al comma 1, la U.O. Istituti Culturali promuove iniziative finalizzate alla conoscenza e alla fruibilità del patrimonio culturale sammarinese in favore delle persone con disabilità sensoriali, quali formazione al personale, visite guidate con interpretariato in LIS, sistema Braille, video-guide, realizzazione di pannelli esplicativi accessibili, applicazioni tecnologiche ed ogni altra modalità idonea a migliorare la fruibilità delle attività legate allo sport, alla cultura e al tempo libero.
+2\. Ai fini di cui al comma 1, la U.O. Istituti Culturali promuove iniziative finalizzate alla conoscenza e alla fruibilità del patrimonio culturale sammarinese in favore delle persone con disabilità sensoriali, quali formazione al personale, visite guidate con interpretariato in LIS, sistema Braille, video-guide, realizzazione di pannelli esplicativi accessibili, applicazioni tecnologiche ed ogni altra modalità idonea a migliorare la fruibilità delle attività legate allo sport, alla cultura e al tempo libero.
 
 ##### Art. 10
 
 (Partecipazione politica)
 
-1.
-
-Si promuovono misure atte a garantire l’accessibilità e la piena fruibilità di normative, campagne di informazione, tribune elettorali, programmi e calendari concernenti eventi elettorali alle persone con disabilità sensoriali, veicolando la comunicazione e l’informazione attraverso la LIS, il sistema Braille, sistemi di sottotitolazione e altri mezzi di sostegno alla comunicazione.
+1\. Si promuovono misure atte a garantire l’accessibilità e la piena fruibilità di normative, campagne di informazione, tribune elettorali, programmi e calendari concernenti eventi elettorali alle persone con disabilità sensoriali, veicolando la comunicazione e l’informazione attraverso la LIS, il sistema Braille, sistemi di sottotitolazione e altri mezzi di sostegno alla comunicazione.
 
 ##### Art. 11
 
 (Monitoraggio della condizione delle persone con disabilità sensoriali)
 
-1.
+1\. Nell’esercizio delle funzioni di cui al comma l dell’articolo 5 della Legge 10 marzo 2015, n.28 e comunque nei limiti delle risorse disponibili a legislazione vigente, la CSDONU (Commissione Sammarinese per l’Attuazione della Convenzione ONU), provvede al monitoraggio della condizione delle persone con disabilità sensoriali e predispone una relazione sullo stato di attuazione della presente legge da inviare alla Commissione Consiliare Permanente IV entro il 31 gennaio di ogni anno.
 
-Nell’esercizio delle funzioni di cui al comma l dell’articolo 5 della Legge 10 marzo 2015, n.28 e comunque nei limiti delle risorse disponibili a legislazione vigente, la CSDONU (Commissione Sammarinese per l’Attuazione della Convenzione ONU), provvede al monitoraggio della condizione delle persone con disabilità sensoriali e predispone una relazione sullo stato di attuazione della presente legge da inviare alla Commissione Consiliare Permanente IV entro il 31 gennaio di ogni anno.
-
-2.
-
-L’Ufficio Informatica, Tecnologia, Dati e Statistica insieme all’Authority Sanitaria e Socio Sanitaria implementano gli strumenti statistici di misurazione della disabilità tenendo conto della Classificazione Internazionale del Funzionamento, della Disabilità e della Salute (ICF-International Classification of Functioning, Disability and Health) a cura dell’Organizzazione Mondiale della Sanità.
+2\. L’Ufficio Informatica, Tecnologia, Dati e Statistica insieme all’Authority Sanitaria e Socio Sanitaria implementano gli strumenti statistici di misurazione della disabilità tenendo conto della Classificazione Internazionale del Funzionamento, della Disabilità e della Salute (ICF-International Classification of Functioning, Disability and Health) a cura dell’Organizzazione Mondiale della Sanità.
 
 ##### Art.12
 
 (Agevolazioni interventi abitativi)
 
-1.
+1\. I soggetti interessati dalla presente legge possono accedere ai benefici di cui all’articolo 154 della Legge 14 dicembre 2017 n.140 e successive modifiche e integrazioni, per prestiti agevolati finalizzati all’eliminazione delle barriere architettoniche, al fine di adeguare gli edifici adibiti a civile abitazione con tecnologie, apparati, strumenti e opere atte all’eliminazione delle barriere della comprensione e della comunicazione, compresi sistemi hardware, software, automazione e domotica.
 
-I soggetti interessati dalla presente legge possono accedere ai benefici di cui all’articolo 154 della Legge 14 dicembre 2017 n.140 e successive modifiche e integrazioni, per prestiti agevolati finalizzati all’eliminazione delle barriere architettoniche, al fine di adeguare gli edifici adibiti a civile abitazione con tecnologie, apparati, strumenti e opere atte all’eliminazione delle barriere della comprensione e della comunicazione, compresi sistemi hardware, software, automazione e domotica.
-
-2.
-
-È demandato alla Commissione per la Gestione dell’Edilizia Residenziale l’aggiornamento del regolamento di cui all’articolo 154, comma 10, della Legge 14 dicembre 2017 n.140 e sue successive modifiche.
+2\. È demandato alla Commissione per la Gestione dell’Edilizia Residenziale l’aggiornamento del regolamento di cui all’articolo 154, comma 10, della Legge 14 dicembre 2017 n.140 e sue successive modifiche.
 
 Oltre a quanto previsto dal comma 1, nel Bilancio di previsione dello Stato è istituito apposito capitolo di spesa 2-3-7437 denominato “Contributi a fondo perduto per gli interventi di cui all’articolo 154 della Legge 14 dicembre 2017 n.140” con uno stanziamento, per l’esercizio finanziario 2022, di euro 100.000,00 in favore dei soggetti affetti da qualsiasi disabilità, utilizzabile fino ad una somma massima di euro 5.000,00 a richiedente per ogni esercizio, per la realizzazione degli interventi di cui al comma 1.
 
@@ -3951,9 +3117,7 @@ Oltre a quanto previsto dal comma 1, nel Bilancio di previsione dello Stato è i
 
 (Provvedimenti attuativi)
 
-1.
-
-Il Congresso di Stato, su proposta del Segretario di Stato per la Sanità e la Sicurezza Sociale e Pari Opportunità, di concerto con gli altri Segretari di Stato interessati per quanto di rispettiva competenza e sentita l’Università, le associazioni di rilevanza nazionale maggiormente rappresentative per la tutela e la promozione dei diritti delle persone con disabilità sensoriali, nonché le associazioni professionali operanti nel settore e la CSD-ONU, è autorizzato ad emanare appositi decreti delegati per l’attuazione delle
+1\. Il Congresso di Stato, su proposta del Segretario di Stato per la Sanità e la Sicurezza Sociale e Pari Opportunità, di concerto con gli altri Segretari di Stato interessati per quanto di rispettiva competenza e sentita l’Università, le associazioni di rilevanza nazionale maggiormente rappresentative per la tutela e la promozione dei diritti delle persone con disabilità sensoriali, nonché le associazioni professionali operanti nel settore e la CSD-ONU, è autorizzato ad emanare appositi decreti delegati per l’attuazione delle
 
 disposizioni di cui alla presente legge ai sensi dell’articolo 23 della Legge 10 marzo 2015 n.28.
 
@@ -3961,9 +3125,7 @@ disposizioni di cui alla presente legge ai sensi dell’articolo 23 della Legge 
 
 (Entrata in vigore)
 
-1.
-
-La presente legge entra in vigore il quinto giorno successivo a quello della sua legale pubblicazione.
+1\. La presente legge entra in vigore il quinto giorno successivo a quello della sua legale pubblicazione.
 
 Legge 22 dicembre 2021 n.207 BILANCI DI PREVISIONE DELLO STATO E DEGLI ENTI PUBBLICI PER L’ESERCIZIO FINANZIARIO 2022 E BILANCI PLURIENNALI 2022/2024
 
@@ -3971,29 +3133,19 @@ Legge 22 dicembre 2021 n.207 BILANCI DI PREVISIONE DELLO STATO E DEGLI ENTI PUBB
 
 (Modifiche alle agevolazioni per adeguare gli edifici adibiti a civile abitazione per l’eliminazione delle barriere della comprensione e della comunicazione e ai prestiti agevolati per l’eliminazione delle barriere architettoniche)
 
-1.
-
-L’articolo 12 della Legge 19 luglio 2021 n.136 è modificato come segue:
+1\. L’articolo 12 della Legge 19 luglio 2021 n.136 è modificato come segue:
 
 “Art.12 (Agevolazioni interventi abitativi)
 
-1.
+1\. I soggetti interessati dalla presente legge possono accedere ai benefici di cui all’articolo 154 della Legge 14 dicembre 2017 n.140 e successive modifiche e integrazioni, per prestiti agevolati finalizzati all’eliminazione delle barriere architettoniche, al fine di adeguare gli edifici adibiti a civile abitazione con tecnologie, apparati, strumenti e opere atte all’eliminazione delle barriere della comprensione e della comunicazione, compresi sistemi hardware, software, automazione e domotica.
 
-I soggetti interessati dalla presente legge possono accedere ai benefici di cui all’articolo 154 della Legge 14 dicembre 2017 n.140 e successive modifiche e integrazioni, per prestiti agevolati finalizzati all’eliminazione delle barriere architettoniche, al fine di adeguare gli edifici adibiti a civile abitazione con tecnologie, apparati, strumenti e opere atte all’eliminazione delle barriere della comprensione e della comunicazione, compresi sistemi hardware, software, automazione e domotica.
+2\. È demandato alla Commissione per la Gestione dell’Edilizia Residenziale l’aggiornamento del regolamento di cui all’articolo 154, comma 10, della Legge 14 dicembre 2017 n.140 e sue successive modifiche. 3 Oltre a quanto previsto dal comma 1, nel Bilancio di previsione dello Stato è istituito apposito capitolo di spesa 2-3-7437 denominato “Contributi a fondo perduto per gli interventi di cui all’articolo 154 della Legge 14 dicembre 2017 n.140” con uno stanziamento, per l’esercizio finanziario 2022, di euro 100.000,00 in favore dei soggetti affetti da qualsiasi disabilità, utilizzabile fino ad una somma massima di euro 5.000,00 a richiedente per ogni esercizio, per la realizzazione degli interventi di cui al comma 1.”.
 
-2.
-
-È demandato alla Commissione per la Gestione dell’Edilizia Residenziale l’aggiornamento del regolamento di cui all’articolo 154, comma 10, della Legge 14 dicembre 2017 n.140 e sue successive modifiche. 3 Oltre a quanto previsto dal comma 1, nel Bilancio di previsione dello Stato è istituito apposito capitolo di spesa 2-3-7437 denominato “Contributi a fondo perduto per gli interventi di cui all’articolo 154 della Legge 14 dicembre 2017 n.140” con uno stanziamento, per l’esercizio finanziario 2022, di euro 100.000,00 in favore dei soggetti affetti da qualsiasi disabilità, utilizzabile fino ad una somma massima di euro 5.000,00 a richiedente per ogni esercizio, per la realizzazione degli interventi di cui al comma 1.”.
-
-2.
-
-L’articolo 154 della Legge 14 dicembre 2017 n.140 è modificato come segue:
+2\. L’articolo 154 della Legge 14 dicembre 2017 n.140 è modificato come segue:
 
 “Art.154 (Prestiti agevolati finalizzati all’eliminazione delle barriere architettoniche)
 
-1.
-
-E’ concesso il prestito agevolato, assistito da contributo pubblico, per la realizzazione di opere finalizzate all’abbattimento e all’eliminazione delle barriere architettoniche negli edifici adibiti a civile abitazione, anche al fine di adeguare gli edifici adibiti a civile abitazione con tecnologie, apparati, strumenti e opere atte all’eliminazione delle barriere della comprensione e della comunicazione, compresi sistemi hardware, software, automazione e domotica. 1 bis. Il prestito di cui al comma 1, richiesto dai soggetti di cui al comma 5, anche ai sensi della Legge n.136/2021, è finanziato fino all’importo di euro 5.000,00 dal contributo a fondo perduto stanziato sul capitolo di spesa 2-3-7437 “Contributi a fondo perduto per gli interventi di cui all’articolo 154 della Legge 14 dicembre 2017 n.140”, mentre il prestito agevolato viene attivato per gli importi eventualmente eccedenti tale somma, nel limite massimo previsto dal successivo comma 2. 1ter. La selezione degli aventi diritto al contributo a fondo perduto di cui al comma 1 bis, da recepire con integrazioni al regolamento di cui all’articolo 154 comma 10, della Legge 14 dicembre 2017 n.140, avviene:
+1\. E’ concesso il prestito agevolato, assistito da contributo pubblico, per la realizzazione di opere finalizzate all’abbattimento e all’eliminazione delle barriere architettoniche negli edifici adibiti a civile abitazione, anche al fine di adeguare gli edifici adibiti a civile abitazione con tecnologie, apparati, strumenti e opere atte all’eliminazione delle barriere della comprensione e della comunicazione, compresi sistemi hardware, software, automazione e domotica. 1 bis. Il prestito di cui al comma 1, richiesto dai soggetti di cui al comma 5, anche ai sensi della Legge n.136/2021, è finanziato fino all’importo di euro 5.000,00 dal contributo a fondo perduto stanziato sul capitolo di spesa 2-3-7437 “Contributi a fondo perduto per gli interventi di cui all’articolo 154 della Legge 14 dicembre 2017 n.140”, mentre il prestito agevolato viene attivato per gli importi eventualmente eccedenti tale somma, nel limite massimo previsto dal successivo comma 2. 1ter. La selezione degli aventi diritto al contributo a fondo perduto di cui al comma 1 bis, da recepire con integrazioni al regolamento di cui all’articolo 154 comma 10, della Legge 14 dicembre 2017 n.140, avviene:
 
 a) nel caso in cui gli importi da finanziare non eccedano la capienza del capitolo 2-37437, a ciascun avente diritto nella quota del 100% del finanziamento fino al limite di euro 5.000,00;
 
@@ -4003,41 +3155,23 @@ c) i contributi a fondo perduto spettanti a coloro che, in esito alla selezione 
 
 d) in corso di ogni esercizio finanziario verranno prese in considerazione solamente le richieste effettuate entro il 31 marzo. Le domande effettuate successivamente al 31 marzo di ciascun anno, salvo che la disabilità non sia intervenuta successivamente, verranno prese in carico nell’esercizio finanziario successivo.
 
-2.
+2\. Il prestito è concesso nella percentuale dell’80% della somma necessaria per l’esecuzione delle opere e comunque in somma non superiore a euro 40.000,00.
 
-Il prestito è concesso nella percentuale dell’80% della somma necessaria per l’esecuzione delle opere e comunque in somma non superiore a euro 40.000,00.
+3\. Il Congresso di Stato è autorizzato a stipulare con istituti di credito sammarinesi convenzioni finanziarie istitutive di aperture di credito per la concessione del prestito agevolato assistito da garanzia dell’Amministrazione.
 
-3.
+4\. E’ posta a carico del Bilancio dello Stato una quota pari al 70% del tasso d’interesse sui mutui contratti ai sensi della presente legge; la differenza tra la quota a carico dello Stato ed il tasso praticato dagli istituti di credito è a carico del mutuatario. La Legge di Bilancio fissa gli stanziamenti per ciascun esercizio a copertura degli oneri per interessi a carico dello Stato e contiene l’indicazione delle somme per le quali lo Stato presta garanzia coperta dal privilegio e dalle altre forme di garanzia.
 
-Il Congresso di Stato è autorizzato a stipulare con istituti di credito sammarinesi convenzioni finanziarie istitutive di aperture di credito per la concessione del prestito agevolato assistito da garanzia dell’Amministrazione.
+5\. Il prestito agevolato è concesso dalla Commissione per la Gestione dell’Edilizia Residenziale ai proprietari, usufruttuari e locatari con disabilità, riconosciuti mediante certificazione medica, od aventi a carico persone con disabilità, per progetti funzionalmente correlati al tipo di disabilità e conformi alle disposizioni della presente legge. La richiesta per tale prestito deve essere effettuata entro il 31 agosto di ogni anno.
 
-4.
+6\. Il prestito è rimborsabile entro il periodo massimo di venti anni mediante rate semestrali posticipate da pagarsi dal 15 al 30 giugno e dal 15 al 31 dicembre.
 
-E’ posta a carico del Bilancio dello Stato una quota pari al 70% del tasso d’interesse sui mutui contratti ai sensi della presente legge; la differenza tra la quota a carico dello Stato ed il tasso praticato dagli istituti di credito è a carico del mutuatario. La Legge di Bilancio fissa gli stanziamenti per ciascun esercizio a copertura degli oneri per interessi a carico dello Stato e contiene l’indicazione delle somme per le quali lo Stato presta garanzia coperta dal privilegio e dalle altre forme di garanzia.
+7\. L’erogazione del prestito è effettuata dagli istituti di credito convenzionati nella misura del 50% a seguito dell’invio della raccomandata di inizio dei lavori ai sensi dell’articolo 68 o della presentazione del modulo per la manutenzione ai sensi del comma 4 dell’articolo 55 qualora per le opere da realizzare la predetta raccomandata non sia richiesta. Il restante 50% viene corrisposto alla presentazione del certificato di conformità edilizia ed agibilità ai sensi dell’articolo 71 o di documentazione fotografica che attesti l’avvenuta realizzazione delle opere qualora per le opere da realizzare il predetto certificato non sia richiesto.
 
-5.
+8\. Sugli immobili oggetto del beneficio di cui alla presente legge grava, a favore dell’Ecc.ma Camera, il privilegio a garanzia del prestito e degli interessi, con preferenza su ogni altro creditore, fino all’estinzione.
 
-Il prestito agevolato è concesso dalla Commissione per la Gestione dell’Edilizia Residenziale ai proprietari, usufruttuari e locatari con disabilità, riconosciuti mediante certificazione medica, od aventi a carico persone con disabilità, per progetti funzionalmente correlati al tipo di disabilità e conformi alle disposizioni della presente legge. La richiesta per tale prestito deve essere effettuata entro il 31 agosto di ogni anno.
+9\. Gli usufruttuari ed i locatari ai quali è concesso il prestito agevolato prestano, a favore dell’Ecc.ma Camera, la garanzia ritenuta idonea dalla Commissione per la Gestione dell’Edilizia Residenziale.
 
-6.
-
-Il prestito è rimborsabile entro il periodo massimo di venti anni mediante rate semestrali posticipate da pagarsi dal 15 al 30 giugno e dal 15 al 31 dicembre.
-
-7.
-
-L’erogazione del prestito è effettuata dagli istituti di credito convenzionati nella misura del 50% a seguito dell’invio della raccomandata di inizio dei lavori ai sensi dell’articolo 68 o della presentazione del modulo per la manutenzione ai sensi del comma 4 dell’articolo 55 qualora per le opere da realizzare la predetta raccomandata non sia richiesta. Il restante 50% viene corrisposto alla presentazione del certificato di conformità edilizia ed agibilità ai sensi dell’articolo 71 o di documentazione fotografica che attesti l’avvenuta realizzazione delle opere qualora per le opere da realizzare il predetto certificato non sia richiesto.
-
-8.
-
-Sugli immobili oggetto del beneficio di cui alla presente legge grava, a favore dell’Ecc.ma Camera, il privilegio a garanzia del prestito e degli interessi, con preferenza su ogni altro creditore, fino all’estinzione.
-
-9.
-
-Gli usufruttuari ed i locatari ai quali è concesso il prestito agevolato prestano, a favore dell’Ecc.ma Camera, la garanzia ritenuta idonea dalla Commissione per la Gestione dell’Edilizia Residenziale.
-
-10.
-
-E’ demandata alla Commissione per la Gestione dell’Edilizia Residenziale la redazione di un regolamento che definisca le modalità per l’erogazione dei finanziamenti, i tipi di intervento per i quali sono concessi i prestiti agevolati e le relative forme di garanzia.”.
+10\. E’ demandata alla Commissione per la Gestione dell’Edilizia Residenziale la redazione di un regolamento che definisca le modalità per l’erogazione dei finanziamenti, i tipi di intervento per i quali sono concessi i prestiti agevolati e le relative forme di garanzia.”.
 
 LEGGE 29 novembre 2022 n.158
 
@@ -4047,14 +3181,8 @@ FORME DI SOSTEGNO PER DONNE SOLE IN STATO DI GRAVIDANZA E NUCLEI FAMILIARI MONOG
 
 (Assegnazione a titolo gratuito di alloggi di proprietà dell’Ecc.ma Camera)
 
-1.
+1\. Al fine di fornire un adeguato alloggio ai nuclei familiari monogenitoriali che necessitano di una immediata ed urgente sistemazione abitativa, il Congresso di Stato può provvedere alla temporanea assegnazione diretta di alloggi a titolo gratuito secondo quanto previsto nel presente articolo.
 
-Al fine di fornire un adeguato alloggio ai nuclei familiari monogenitoriali che necessitano di una immediata ed urgente sistemazione abitativa, il Congresso di Stato può provvedere alla temporanea assegnazione diretta di alloggi a titolo gratuito secondo quanto previsto nel presente articolo.
+2\. La domanda è presentata alla Contabilità di Stato Sezione Edilizia Sociale e Residenziale anche direttamente dall’U.O.C. Servizio Minori. Ai fini dell’ammissibilità della stessa il soggetto istante deve essere in possesso dei requisiti previsti dalla presente legge per l’accesso al reddito minimo garantito, inoltre deve necessitare urgentemente di un alloggio. La situazione di particolare disagio sociale che comprova l’urgenza di un alloggio è attestata dall’U.O.C. Servizio Minori.
 
-2.
-
-La domanda è presentata alla Contabilità di Stato Sezione Edilizia Sociale e Residenziale anche direttamente dall’U.O.C. Servizio Minori. Ai fini dell’ammissibilità della stessa il soggetto istante deve essere in possesso dei requisiti previsti dalla presente legge per l’accesso al reddito minimo garantito, inoltre deve necessitare urgentemente di un alloggio. La situazione di particolare disagio sociale che comprova l’urgenza di un alloggio è attestata dall’U.O.C. Servizio Minori.
-
-3.
-
-L’assegnazione temporanea dell’alloggio avviene con delibera del Congresso di Stato che, a seguito della deliberazione della Commissione preposta che deve riunirsi e deliberare entro quindici giorni, delega il Segretario di Stato con delega alla Cooperazione di intervenire nella sottoscrizione della convenzione di comodato con il soggetto beneficiario, compatibilmente alla disponibilità di alloggi di proprietà dell’Ecc.ma Camera e previo esame del grado di urgenza delle richieste di alloggio presentate ai sensi del Decreto-Legge 19 marzo 2018 n.30. Il predetto contratto non può avere durata superiore a dodici mesi, deve prevedere, tra l’altro, i nominativi delle persone autorizzate ad occupare l’alloggio, il divieto di cessione del contratto e di subentro di terzi nel godimento dell’immobile nonché l’impossibilità di subentro per gli eredi non conviventi in caso di morte dell’assegnatario.
+3\. L’assegnazione temporanea dell’alloggio avviene con delibera del Congresso di Stato che, a seguito della deliberazione della Commissione preposta che deve riunirsi e deliberare entro quindici giorni, delega il Segretario di Stato con delega alla Cooperazione di intervenire nella sottoscrizione della convenzione di comodato con il soggetto beneficiario, compatibilmente alla disponibilità di alloggi di proprietà dell’Ecc.ma Camera e previo esame del grado di urgenza delle richieste di alloggio presentate ai sensi del Decreto-Legge 19 marzo 2018 n.30. Il predetto contratto non può avere durata superiore a dodici mesi, deve prevedere, tra l’altro, i nominativi delle persone autorizzate ad occupare l’alloggio, il divieto di cessione del contratto e di subentro di terzi nel godimento dell’immobile nonché l’impossibilità di subentro per gli eredi non conviventi in caso di morte dell’assegnatario.

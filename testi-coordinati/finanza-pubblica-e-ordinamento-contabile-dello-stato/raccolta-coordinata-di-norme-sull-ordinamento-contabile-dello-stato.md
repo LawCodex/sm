@@ -95,13 +95,9 @@ Per gli incassi ed i versamenti delle entrate accertate e per il pagamento delle
 
 Copertura finanziaria
 
-1.
+1\. Ogni proposta di legge e di atto avente forza di legge nonché di emendamenti agli stessi che comporti una diminuzione delle entrate, la creazione di nuove spese o un loro aumento, deve indicare i mezzi necessari alla copertura finanziaria.
 
-Ogni proposta di legge e di atto avente forza di legge nonché di emendamenti agli stessi che comporti una diminuzione delle entrate, la creazione di nuove spese o un loro aumento, deve indicare i mezzi necessari alla copertura finanziaria.
-
-2.
-
-Qualsiasi atto legislativo, atto avente forza di legge ed atto o provvedimento amministrativo sfornito di copertura finanziaria è nullo di diritto.
+2\. Qualsiasi atto legislativo, atto avente forza di legge ed atto o provvedimento amministrativo sfornito di copertura finanziaria è nullo di diritto.
 
 ##### Art. 10
 
@@ -569,13 +565,7 @@ Elaborazione del conto economico – patrimoniale Entro il 2 ottobre di ogni ann
 
 Il conto economico - patrimoniale dello Stato
 
-a)
-
-b)
-
-c)
-
-Il conto economico - patrimoniale dello Stato è costituito dai seguenti schemi: stato patrimoniale; conto economico; nota integrativa.
+c) Il conto economico - patrimoniale dello Stato è costituito dai seguenti schemi: stato patrimoniale; conto economico; nota integrativa.
 
 ##### Art. 71
 
@@ -707,19 +697,7 @@ Inventari e valutazioni dei beni mobili patrimoniali Gli inventari dei beni mobi
 
 Le operazioni di rettifica ai valori dei beni mobili, con le relative modalità procedurali, sono fissate nel Regolamento di Contabilità.
 
-a)
-
-b)
-
-c)
-
-d)
-
-e)
-
-##### Art. 84
-
-Universalità di beni
+e) Art. 84 Universalità di beni
 
 I beni mobili di contenuto valore economico della medesima specie o natura possono essere inventariati quali universalità con un unico numero di inventario e rilevati ed attribuiti globalmente al servizio o centro di costo, previa specifica regolamentazione.
 
@@ -727,13 +705,7 @@ I beni mobili di contenuto valore economico della medesima specie o natura posso
 
 Altri inventari
 
-a)
-
-b)
-
-c)
-
-Devono inoltre essere compilati e presentati gli inventari relativi a: beni di terzi in deposito, in uso, in comodato, in leasing; diritti reali di godimento su beni di terzi; fideiussioni e garanzie prestate.
+c) Devono inoltre essere compilati e presentati gli inventari relativi a: beni di terzi in deposito, in uso, in comodato, in leasing; diritti reali di godimento su beni di terzi; fideiussioni e garanzie prestate.
 
 ##### Art. 86
 
@@ -905,13 +877,9 @@ Le relazioni sono presentate al Consiglio Grande e Generale rispettivamente con 
 
 (Controllo di legittimità preventivo)
 
-1.
+1\. La Commissione di Controllo della Finanza Pubblica, di seguito, per brevità CCFP, verifica la copertura finanziaria di spese previste da leggi e atti aventi forza di legge sottoposti al suo esame, in conformità a quanto previsto dall'articolo 9.
 
-La Commissione di Controllo della Finanza Pubblica, di seguito, per brevità CCFP, verifica la copertura finanziaria di spese previste da leggi e atti aventi forza di legge sottoposti al suo esame, in conformità a quanto previsto dall'articolo 9.
-
-2.
-
-La CCFP svolge, inoltre, un controllo di legittimità preventivo su atti e provvedimenti amministrativi che:
+2\. La CCFP svolge, inoltre, un controllo di legittimità preventivo su atti e provvedimenti amministrativi che:
 
 a) incidano direttamente sulla gestione del bilancio dello Stato e che impegnino uno o più esercizi finanziari per spese di importo superiore ad euro 25.000,00 (venticinquemila/00). Nella fattispecie di cui alla presente lettera sono compresi i provvedimenti di autorizzazione della spesa per forniture o somministrazione di beni e servizi alla Pubblica Amministrazione. La predetta soglia è ridotta a:
 
@@ -929,9 +897,7 @@ e) siano relativi, per qualsiasi importo, all’acquisto, all’alienazione o al
 
 f) siano relativi, per qualsiasi importo, ad atti di concessione o modifica di diritti reali su beni di proprietà dell’Ecc.ma Camera.
 
-3.
-
-La CCFP svolge, inoltre, un controllo di legittimità preventivo su atti e provvedimenti amministrativi adottati dai competenti organi ed Enti del Settore Pubblico Allargato e delle Aziende Autonome di Stato che:
+3\. La CCFP svolge, inoltre, un controllo di legittimità preventivo su atti e provvedimenti amministrativi adottati dai competenti organi ed Enti del Settore Pubblico Allargato e delle Aziende Autonome di Stato che:
 
 a) abbiano contenuti dispositivi ed organizzativi di carattere straordinario non preventivamente programmati che possano avere incidenza sul bilancio dello Stato;
 
@@ -943,25 +909,15 @@ c) siano relativi alla stipula e conferimento di collaborazioni, consulenze e in
 
 d) siano relativi a spese in conto capitale di importo superiore ed euro 25.000,00 (venticinquemila/00).
 
-4.
+4\. Fatto salvo quanto previsto all’articolo 109, gli atti di importo inferiore o pari alle soglie di cui ai commi 2 e 3, non sono soggetti a controllo di legittimità preventivo e sono immediatamente esecutivi sotto la responsabilità del Direttore, Dirigente, Funzionario delegato o membro del Congresso di Stato che abbia autorizzato la spesa. Tali atti e provvedimento sono soggetti a controllo di legittimità successivo a campione a mente dell’articolo 109 e quelli direttamente incidenti sul bilancio dello Stato sono, altresì, soggetti a controllo amministrativocontabile da parte della Ragioneria Generale dello Stato.
 
-Fatto salvo quanto previsto all’articolo 109, gli atti di importo inferiore o pari alle soglie di cui ai commi 2 e 3, non sono soggetti a controllo di legittimità preventivo e sono immediatamente esecutivi sotto la responsabilità del Direttore, Dirigente, Funzionario delegato o membro del Congresso di Stato che abbia autorizzato la spesa. Tali atti e provvedimento sono soggetti a controllo di legittimità successivo a campione a mente dell’articolo 109 e quelli direttamente incidenti sul bilancio dello Stato sono, altresì, soggetti a controllo amministrativocontabile da parte della Ragioneria Generale dello Stato.
+5\. La responsabilità, per dolo o colpa grave, connessa a profili di legittimità degli atti e provvedimenti immediatamente esecutivi di cui al comma 4, così come meglio dettagliati dal Regolamento di Contabilità, permane unicamente in capo al soggetto che abbia autorizzato la spesa. Stante quanto previsto al precedente periodo, la responsabilità di cui all’articolo 115, comma primo della Legge n.30/1998 è escluso in capo al Dirigente dell’UO Ragioneria Generale dello Stato con riferimento ai summenzionati profili di legittimità della spesa e permane in capo allo stesso la sola responsabilità, in caso di dolo o colpa grave, riferita agli ambiti amministrativocontabili specificatamente individuati dal Regolamento di Contabilità.
 
-5.
+6\. Il Direttore, Dirigente, Funzionario delegato o membro del Congresso di Stato che autorizzi la spesa entro i valori soglia di cui al comma 2, lettera a) attesta la conformità dell’atto e contratto alle norme in materia di ordinamento contabile dello Stato ed alle alte norme e regolamenti vigenti, specificando l’elenco delle attività svolte dallo stesso ai fini del rilascio dell’attestazione medesima.
 
-La responsabilità, per dolo o colpa grave, connessa a profili di legittimità degli atti e provvedimenti immediatamente esecutivi di cui al comma 4, così come meglio dettagliati dal Regolamento di Contabilità, permane unicamente in capo al soggetto che abbia autorizzato la spesa. Stante quanto previsto al precedente periodo, la responsabilità di cui all’articolo 115, comma primo della Legge n.30/1998 è escluso in capo al Dirigente dell’UO Ragioneria Generale dello Stato con riferimento ai summenzionati profili di legittimità della spesa e permane in capo allo stesso la sola responsabilità, in caso di dolo o colpa grave, riferita agli ambiti amministrativocontabili specificatamente individuati dal Regolamento di Contabilità.
+7\. La documentazione a supporto del rilascio dell’attestazione è conservata a cura del Direttore, Dirigente, Funzionario delegato o membro del Congresso di Stato al fine di rendere tracciabile il processo decisionale seguito e di consentirne l’esibizione, ove richiesta, nell’ambito del controllo successivo di legittimità;
 
-6.
-
-Il Direttore, Dirigente, Funzionario delegato o membro del Congresso di Stato che autorizzi la spesa entro i valori soglia di cui al comma 2, lettera a) attesta la conformità dell’atto e contratto alle norme in materia di ordinamento contabile dello Stato ed alle alte norme e regolamenti vigenti, specificando l’elenco delle attività svolte dallo stesso ai fini del rilascio dell’attestazione medesima.
-
-7.
-
-La documentazione a supporto del rilascio dell’attestazione è conservata a cura del Direttore, Dirigente, Funzionario delegato o membro del Congresso di Stato al fine di rendere tracciabile il processo decisionale seguito e di consentirne l’esibizione, ove richiesta, nell’ambito del controllo successivo di legittimità;
-
-8.
-
-La responsabilità del membro del Congresso di Stato è a titolo individuale oppure solidale a seconda che l’atto o provvedimento autorizzativo della spesa sia adottato dallo stesso singolarmente o dal Congresso di Stato collegialmente.
+8\. La responsabilità del membro del Congresso di Stato è a titolo individuale oppure solidale a seconda che l’atto o provvedimento autorizzativo della spesa sia adottato dallo stesso singolarmente o dal Congresso di Stato collegialmente.
 
 ##### Art. 108
 
@@ -985,17 +941,11 @@ La Commissione di Controllo della Finanza Pubblica è tenuta a trasmettere al Co
 
 (Controllo successivo e controllo di legittimità successivo)
 
-1.
+1\. Il controllo successivo è esercitato sul rendiconto dello Stato e sui rendiconti degli Enti del Settore Pubblico Allargato e delle Aziende Autonome di Stato ed è teso ad accertare la regolarità, l’efficienza e l’economicità della gestione nonché la funzionalità dell’apparato organizzativo contabile nel suo complesso. Per il raggiungimento degli obiettivi di cui al presente comma, la CCFP può avvalersi, previo accordo con il Segretario di Stato per le Finanze e il Bilancio, di collaborazioni esterne di elevata qualificazione professionale nel settore tecnico, contabile ed amministrativo.
 
-Il controllo successivo è esercitato sul rendiconto dello Stato e sui rendiconti degli Enti del Settore Pubblico Allargato e delle Aziende Autonome di Stato ed è teso ad accertare la regolarità, l’efficienza e l’economicità della gestione nonché la funzionalità dell’apparato organizzativo contabile nel suo complesso. Per il raggiungimento degli obiettivi di cui al presente comma, la CCFP può avvalersi, previo accordo con il Segretario di Stato per le Finanze e il Bilancio, di collaborazioni esterne di elevata qualificazione professionale nel settore tecnico, contabile ed amministrativo.
+2\. La CCFP effettua, altresì, attività di controllo di legittimità successivo su tutti gli atti e provvedimenti amministrativi per i quali sia previsto il controllo preventivo di legittimità ma che siano stati dichiarati immediatamente esecutivi dal soggetto competente ad autorizzare la spesa.
 
-2.
-
-La CCFP effettua, altresì, attività di controllo di legittimità successivo su tutti gli atti e provvedimenti amministrativi per i quali sia previsto il controllo preventivo di legittimità ma che siano stati dichiarati immediatamente esecutivi dal soggetto competente ad autorizzare la spesa.
-
-3.
-
-La CCFP effettua, inoltre, in qualsiasi momento ed almeno con cadenza trimestrale, l’attività di controllo di legittimità successivo su una percentuale di atti e provvedimenti amministrativi immediatamente esecutivi ai sensi dell’articolo 107, comma 2, lettera a). Il controllo di legittimità successivo di cui al presente comma ha i medesimi contenuti del controllo di legittimità preventivo, come dettagliati nel Regolamento di Contabilità.
+3\. La CCFP effettua, inoltre, in qualsiasi momento ed almeno con cadenza trimestrale, l’attività di controllo di legittimità successivo su una percentuale di atti e provvedimenti amministrativi immediatamente esecutivi ai sensi dell’articolo 107, comma 2, lettera a). Il controllo di legittimità successivo di cui al presente comma ha i medesimi contenuti del controllo di legittimità preventivo, come dettagliati nel Regolamento di Contabilità.
 
 4\. Il controllo di legittimità successivo di cui al comma 3 è effettuato a campione, sulla base di criteri qualitativi e quantitativi definiti con regolamento del Congresso di Stato adottato su proposta della Segreteria di Stato per le Finanze e il Bilancio e sentita la CCFP, la Ragioneria Generale dello Stato e la Direzione Generale della Funzione Pubblica (DGFP); il regolamento specifica, tra l’altro, la tecnica di campionamento seguita. Il controllo di legittimità successivo è effettuato tenendo, altresì, conto delle eventuali segnalazioni di cui alla Legge 5 settembre 2014 n.141 ovvero da cittadini, residenti ed operatori economici, secondo quanto previsto nel succitato regolamento del Congresso di Stato.
 
@@ -1125,17 +1075,11 @@ Il Titolo IV - Capitoli I - II - III dell'Allegato A alla Legge 17 settembre 199
 
 Dipartimento Finanze e Bilancio Il Consiglio di Dipartimento Finanze e Bilancio è composto da:
 
-c)
+c) Direttore Generale della Finanza Pubblica;
 
-Direttore Generale della Finanza Pubblica;
+d) Dirigente Ufficio Generale Contabile;
 
-d)
-
-Dirigente Ufficio Generale Contabile;
-
-e)
-
-Dirigente Ufficio Programmazione Economica.
+e) Dirigente Ufficio Programmazione Economica.
 
 ### CAPITOLO I
 
@@ -1851,9 +1795,7 @@ Gli interessi maturati sui conti aperti c/o i vari Istituti di Credito sono cont
 
 I versamenti diretti al Servizio di Tesoreria Unica I versamenti diretti al Servizio di Tesoreria Unica possono avvenire come segue:
 
-1.
-
-Versamento diretto al Servizio di Tesoreria unica con ordine d'incasso Tale riscossione avviene in base ad ordini d'incasso - che gli Uffici ed i Servizi dello Stato e del settore pubblico allargato emettono in via informatizzata nell'area di pertinenza - i quali identificano l'Ufficio e il tipo di riscossione. Agli ordini d'incasso deve essere sempre allegata una distinta riepilogativa di accompagnamento.
+1\. Versamento diretto al Servizio di Tesoreria unica con ordine d'incasso Tale riscossione avviene in base ad ordini d'incasso - che gli Uffici ed i Servizi dello Stato e del settore pubblico allargato emettono in via informatizzata nell'area di pertinenza - i quali identificano l'Ufficio e il tipo di riscossione. Agli ordini d'incasso deve essere sempre allegata una distinta riepilogativa di accompagnamento.
 
 L'ordine d'incasso deve contenere: la denominazione ed il codice dell'Ente e dell'Ufficio emittente e relativo codice area; la somma da riscuotere o versare scritta in cifre e in lettere; la descrizione della causale del versamento; il capitolo di imputazione del Bilancio in conto residui o competenza, indicando l'esercizio di riferimento; l'identificazione del debitore (codice debitore/beneficiario); la data dell'ordine d'incasso; l'indicazione dell'apposito codice se trattasi di ordine d'incasso a regolarizzazione di partite pendenti;
 
@@ -1861,9 +1803,7 @@ l'indicazione dell'apposito codice se trattasi di ordine d'incasso di compensazi
 
 La distinta di accompagnamento deve contenere: l'elenco di tutti i documenti (ordini d'incasso, partite pendenti in entrata ''PPE'' e partite pendenti in uscita ''PPU''); l'indicazione del tipo distinta (a seconda che si tratti di regolarizzazione o compensazione parziale o totale).
 
-2.
-
-Versamento diretto al Servizio di Tesoreria unica senza preventiva emissione di ordine d'incasso Per tale forma di riscossione, il Servizio di Tesoreria unica terrà in deposito le somme sul conto corrente di gestione, registrandole quali partite pendenti per conto della P.A., fino alla conferma del relativo accertamento da parte degli Organi competenti, i quali dovranno provvedere alla regolarizzazione entro il 31 gennaio dell'anno successivo.
+2\. Versamento diretto al Servizio di Tesoreria unica senza preventiva emissione di ordine d'incasso Per tale forma di riscossione, il Servizio di Tesoreria unica terrà in deposito le somme sul conto corrente di gestione, registrandole quali partite pendenti per conto della P.A., fino alla conferma del relativo accertamento da parte degli Organi competenti, i quali dovranno provvedere alla regolarizzazione entro il 31 gennaio dell'anno successivo.
 
 ##### Art.15
 
@@ -2485,13 +2425,9 @@ LEGGE 20 dicembre 2013 n.174 BILANCI DI PREVISIONE DELLO STATO E DEGLI ENTI PUBB
 
 (Disposizioni contabili relative ai compensi dei Giudici della Corte per il trust ed i rapporti fiduciari)
 
-1.
+1\. In analogia a quanto previsto dall’articolo 27 della Legge 18 febbraio 1998 n.30, il Congresso di Stato, su proposta del Segretario di Stato per le Finanze ed il Bilancio, ha facoltà di adeguare gli stanziamenti di entrata sul capitolo 545 a seguito dell’incasso delle somme di cui all’articolo 4, comma 1, lettera c) del Decreto Delegato 30 settembre 2013 n.128 e contestualmente di adeguare gli stanziamenti di spesa sul capitolo 1-2-1246 nel rispetto dell'equilibrio del bilancio al fine di corrispondere i compensi spettanti ai membri della Corte per il trust ed i rapporti fiduciari ai sensi del predetto decreto delegato.
 
-In analogia a quanto previsto dall’articolo 27 della Legge 18 febbraio 1998 n.30, il Congresso di Stato, su proposta del Segretario di Stato per le Finanze ed il Bilancio, ha facoltà di adeguare gli stanziamenti di entrata sul capitolo 545 a seguito dell’incasso delle somme di cui all’articolo 4, comma 1, lettera c) del Decreto Delegato 30 settembre 2013 n.128 e contestualmente di adeguare gli stanziamenti di spesa sul capitolo 1-2-1246 nel rispetto dell'equilibrio del bilancio al fine di corrispondere i compensi spettanti ai membri della Corte per il trust ed i rapporti fiduciari ai sensi del predetto decreto delegato.
-
-1.
-
-All’articolo 13 del Decreto Delegato n.128/2013 è aggiunto il seguente comma:
+1\. All’articolo 13 del Decreto Delegato n.128/2013 è aggiunto il seguente comma:
 
 “3. Il trattamento economico del Presidente della Corte è determinato in misura corrispondente al solo piede retributivo stabilito dall’articolo 2 della Legge 21 gennaio 2004 n.4 per la retribuzione dei Giudici d’Appello, corrisposto per dodici mensilità.”.
 
@@ -2507,33 +2443,23 @@ REGOLAMENTAZIONE DELL’EROGAZIONE DI CONTRIBUTI PER EVENTI E MANIFESTAZIONI DI 
 
 (Definizione e oggetto del contributo – finalità)
 
-1.
+1\. Il Capo I del presente decreto delegato detta i criteri e le procedure di erogazione da parte delle Segreterie di Stato competenti, di contributi finanziari a sostegno di iniziative, eventi e manifestazioni promossi e organizzati da soggetti privati nei settori del turismo, della cultura e dello sport.
 
-Il Capo I del presente decreto delegato detta i criteri e le procedure di erogazione da parte delle Segreterie di Stato competenti, di contributi finanziari a sostegno di iniziative, eventi e manifestazioni promossi e organizzati da soggetti privati nei settori del turismo, della cultura e dello sport.
-
-2.
-
-Le presenti disposizioni sono dettate anche al fine di una migliore e necessaria programmazione, pianificazione e razionalizzazione delle risorse stanziate nei Bilanci di Previsione dello Stato destinate a sostenere meritevoli iniziative ed eventi promossi nei suddetti settori da soggetti privati, Enti, Federazioni sportive e Associazioni regolarmente iscritte nell’apposito Registro.
+2\. Le presenti disposizioni sono dettate anche al fine di una migliore e necessaria programmazione, pianificazione e razionalizzazione delle risorse stanziate nei Bilanci di Previsione dello Stato destinate a sostenere meritevoli iniziative ed eventi promossi nei suddetti settori da soggetti privati, Enti, Federazioni sportive e Associazioni regolarmente iscritte nell’apposito Registro.
 
 ##### Art. 2
 
 (Ambito di esclusione)
 
-1.
+1\. Le norme del presente Capo non si applicano alle spese riferite a contributi obbligatori previsti in appositi capitoli di spesa del Bilancio dello Stato, da leggi o da Accordi internazionali.
 
-Le norme del presente Capo non si applicano alle spese riferite a contributi obbligatori previsti in appositi capitoli di spesa del Bilancio dello Stato, da leggi o da Accordi internazionali.
-
-2.
-
-Alle richieste di contributo avanzate da Enti morali, Parrocchie, società sportive, Fondazioni, Associazioni di volontariato, Onlus e in generale Associazioni senza scopo di lucro regolarmente iscritte nell’apposito Registro purché siano di importo non superiore a complessivi euro 1.500,00 per singola iniziativa, si applicano le disposizioni contenute all’articolo 7.
+2\. Alle richieste di contributo avanzate da Enti morali, Parrocchie, società sportive, Fondazioni, Associazioni di volontariato, Onlus e in generale Associazioni senza scopo di lucro regolarmente iscritte nell’apposito Registro purché siano di importo non superiore a complessivi euro 1.500,00 per singola iniziativa, si applicano le disposizioni contenute all’articolo 7.
 
 ##### Art.3
 
 (Presentazione della richiesta)
 
-1.
-
-Le richieste di contributo per manifestazioni, eventi e iniziative organizzate da privati nei settori del turismo, della cultura e dello sport devono essere presentate dagli interessati alle pertinenti Segreterie di Stato entro il 15 novembre dell’anno precedente a quello cui si riferiscono gli eventi e le manifestazioni e devono essere corredate dalla seguente documentazione:
+1\. Le richieste di contributo per manifestazioni, eventi e iniziative organizzate da privati nei settori del turismo, della cultura e dello sport devono essere presentate dagli interessati alle pertinenti Segreterie di Stato entro il 15 novembre dell’anno precedente a quello cui si riferiscono gli eventi e le manifestazioni e devono essere corredate dalla seguente documentazione:
 
 a) descrizione e dati relativi a programma, luogo, data e durata della iniziativa, manifestazione o evento;
 
@@ -2543,87 +2469,55 @@ c) necessità di fruire dei servizi erogati dalle Aziende Autonome di Stato o di
 
 d) obbligo a fornire la relazione sugli esiti della manifestazione o evento svolto e in caso di erogazioni ripetitive, la documentazione prescritta dall’articolo 3 del Decreto 24 aprile 2003 n.
 
-53.
-
-2.
-
-Esclusivamente per l’anno 2014 le richieste dei privati devono pervenire alle pertinenti Segreterie di Stato entro il 15 marzo al fine di consentire entro il 31 marzo la programmazione degli eventi e manifestazioni per l’anno in corso.
+2\. Esclusivamente per l’anno 2014 le richieste dei privati devono pervenire alle pertinenti Segreterie di Stato entro il 15 marzo al fine di consentire entro il 31 marzo la programmazione degli eventi e manifestazioni per l’anno in corso.
 
 ##### Art.4
 
 (Istruttoria della domanda - Comitato)
 
-1.
+1\. La domanda di contributo, corredata dalla documentazione richiesta dall’articolo 3 e da ogni ulteriore informazione necessaria, ivi compresa l’indicazione del budget di spesa complessivo suddiviso per singole voci, è soggetta alla istruttoria e valutazione tecnica di congruità delle spese preventivate di un apposito Comitato di nomina congressuale. Il Comitato trasmette gli esiti della propria valutazione tecnica al Segretario di Stato competente per la decisione di assegnazione del contributo richiesto e per la quantificazione dello stesso.
 
-La domanda di contributo, corredata dalla documentazione richiesta dall’articolo 3 e da ogni ulteriore informazione necessaria, ivi compresa l’indicazione del budget di spesa complessivo suddiviso per singole voci, è soggetta alla istruttoria e valutazione tecnica di congruità delle spese preventivate di un apposito Comitato di nomina congressuale. Il Comitato trasmette gli esiti della propria valutazione tecnica al Segretario di Stato competente per la decisione di assegnazione del contributo richiesto e per la quantificazione dello stesso.
+2\. Il Comitato di nomina congressuale è composto dal Dirigente dell’Ufficio del Turismo e dell’Ufficio Attività Sociali e Culturali e da rappresentanti della Segreteria di Stato al Turismo, della
 
-2.
-
-Il Comitato di nomina congressuale è composto dal Dirigente dell’Ufficio del Turismo e dell’Ufficio Attività Sociali e Culturali e da rappresentanti della Segreteria di Stato al Turismo, della
-
-3.
-
-Segreteria di Stato alla Cultura e della Segreteria di Stato con delega allo Sport, da un rappresentante delle Associazioni di categoria del settore turistico commerciale e dal Presidente della Consulta delle Associazioni.
+3\. Segreteria di Stato alla Cultura e della Segreteria di Stato con delega allo Sport, da un rappresentante delle Associazioni di categoria del settore turistico commerciale e dal Presidente della Consulta delle Associazioni.
 
 ##### Art.5
 
 (Entità del contributo)
 
-1.
-
-Il contributo non può superare il 40%, e il 50% per le associazioni di volontariato ed in generale per le associazioni senza scopo di lucro, della previsione di spesa complessivamente prevista dagli organizzatori e valutata congrua dal Comitato di nomina congressuale.
+1\. Il contributo non può superare il 40%, e il 50% per le associazioni di volontariato ed in generale per le associazioni senza scopo di lucro, della previsione di spesa complessivamente prevista dagli organizzatori e valutata congrua dal Comitato di nomina congressuale.
 
 ##### Art.6
 
 (Limiti all’ammissione al contributo)
 
-1.
+1\. Non sono ammesse al contributo le richieste per iniziative, manifestazioni ed eventi che siano in corso o si siano già conclusi alla data della richiesta.
 
-Non sono ammesse al contributo le richieste per iniziative, manifestazioni ed eventi che siano in corso o si siano già conclusi alla data della richiesta.
-
-2.
-
-Non può essere concesso il contributo se il richiedente risulta debitore nei confronti dell’Amministrazione pubblica per tasse, imposte, oneri previdenziali o debiti di qualunque natura.
+2\. Non può essere concesso il contributo se il richiedente risulta debitore nei confronti dell’Amministrazione pubblica per tasse, imposte, oneri previdenziali o debiti di qualunque natura.
 
 ##### Art.7
 
 (Richieste di contributo avanzate da Enti morali e Associazioni - Autorizzazione di spesa)
 
-1.
+1\. Le richieste di contributo avanzate da Enti morali, Parrocchie, società sportive, Fondazioni, Associazioni di volontariato, Onlus e in generale Associazioni senza scopo di lucro regolarmente iscritte nell’apposito Registro purché siano di importo non superiore a complessivi euro 1.500,00 per singola iniziativa, vanno presentate alla pertinente Segreteria di Stato almeno 30 giorni precedenti l’iniziativa, la manifestazione o l’evento.
 
-Le richieste di contributo avanzate da Enti morali, Parrocchie, società sportive, Fondazioni, Associazioni di volontariato, Onlus e in generale Associazioni senza scopo di lucro regolarmente iscritte nell’apposito Registro purché siano di importo non superiore a complessivi euro 1.500,00 per singola iniziativa, vanno presentate alla pertinente Segreteria di Stato almeno 30 giorni precedenti l’iniziativa, la manifestazione o l’evento.
+2\. Alla richiesta devono essere allegati la descrizione e i dati relativi al programma, luogo, data, durata della iniziativa, manifestazione o evento, la eventuale necessità di fruire dei servizi erogati dalle Aziende Autonome di Stato o di servizi di ordine pubblico e viabilità da parte dello Stato e, in caso affermativo, i relativi costi quantificati dall’Autorità competente con nota da allegarsi alla richiesta. È obbligatorio fornire la relazione sugli esiti della manifestazione e, in caso di erogazioni ripetitive, la documentazione prescritta dall’articolo 3 del Decreto n.53/2003.
 
-2.
+3\. La Segreteria di Stato cui è presentata la richiesta, valutato favorevolmente il valore dell’iniziativa, manifestazione o evento, dispone l’erogazione del contributo e ne determina l’entità nei limiti indicati al primo comma, in base alle risorse finanziarie disponibili.
 
-Alla richiesta devono essere allegati la descrizione e i dati relativi al programma, luogo, data, durata della iniziativa, manifestazione o evento, la eventuale necessità di fruire dei servizi erogati dalle Aziende Autonome di Stato o di servizi di ordine pubblico e viabilità da parte dello Stato e, in caso affermativo, i relativi costi quantificati dall’Autorità competente con nota da allegarsi alla richiesta. È obbligatorio fornire la relazione sugli esiti della manifestazione e, in caso di erogazioni ripetitive, la documentazione prescritta dall’articolo 3 del Decreto n.53/2003.
+4\. In parziale deroga a quanto disposto al primo comma dell’articolo 27 del Decreto n.53/2003, la competenza all’autorizzazione di spesa per l’erogazione dei contributi nei limiti e a favore dei soggetti di cui al presente articolo, spetta ai singoli Segretari di Stato anche qualora il contributo venga corrisposto allo stesso beneficiario e per la stessa iniziativa da più Segretari di Stato. Ai sensi del quinto comma dell’articolo 23 del citato decreto permane l’autorizzazione del Segretario di Stato per le Finanze e il Bilancio.
 
-3.
-
-La Segreteria di Stato cui è presentata la richiesta, valutato favorevolmente il valore dell’iniziativa, manifestazione o evento, dispone l’erogazione del contributo e ne determina l’entità nei limiti indicati al primo comma, in base alle risorse finanziarie disponibili.
-
-4.
-
-In parziale deroga a quanto disposto al primo comma dell’articolo 27 del Decreto n.53/2003, la competenza all’autorizzazione di spesa per l’erogazione dei contributi nei limiti e a favore dei soggetti di cui al presente articolo, spetta ai singoli Segretari di Stato anche qualora il contributo venga corrisposto allo stesso beneficiario e per la stessa iniziativa da più Segretari di Stato. Ai sensi del quinto comma dell’articolo 23 del citato decreto permane l’autorizzazione del Segretario di Stato per le Finanze e il Bilancio.
-
-5.
-
-Ciascuna Segreteria di Stato provvede a pubblicare sul proprio sito web istituzionale i contributi concessi a norma del presente articolo.
+5\. Ciascuna Segreteria di Stato provvede a pubblicare sul proprio sito web istituzionale i contributi concessi a norma del presente articolo.
 
 ##### Art.8
 
 (Programmazione degli eventi)
 
-1.
+1\. Le Segreterie di Stato al Turismo, alla Cultura e allo Sport procedono in maniera congiunta alla programmazione degli eventi e delle manifestazioni di interesse turistico, culturale e sportivo dell’anno di riferimento, ivi comprese le iniziative dei privati ammesse al contributo pubblico di cui al presente decreto delegato. La programmazione è adottata con delibera del Congresso di Stato entro il mese di gennaio di ogni anno. La programmazione annuale non esclude l’inserimento successivo da parte del Congresso di Stato di iniziative, eventi e manifestazioni di interesse turistico, culturale e sportivo ritenuti di particolare interesse e valore dalle Segreterie di Stato competenti.
 
-Le Segreterie di Stato al Turismo, alla Cultura e allo Sport procedono in maniera congiunta alla programmazione degli eventi e delle manifestazioni di interesse turistico, culturale e sportivo dell’anno di riferimento, ivi comprese le iniziative dei privati ammesse al contributo pubblico di cui al presente decreto delegato. La programmazione è adottata con delibera del Congresso di Stato entro il mese di gennaio di ogni anno. La programmazione annuale non esclude l’inserimento successivo da parte del Congresso di Stato di iniziative, eventi e manifestazioni di interesse turistico, culturale e sportivo ritenuti di particolare interesse e valore dalle Segreterie di Stato competenti.
+2\. Nell’ambito della programmazione degli eventi e manifestazioni, il Congresso di Stato su proposta del Dirigente dell’Ufficio del Turismo, sentite le Associazioni di categoria interessate, determina gli eventi e le manifestazioni di interesse turistico che si svolgono nel Centro Storico della Capitale che richiedono l’apertura serale delle attività commerciali di cui all’articolo 9.
 
-2.
-
-Nell’ambito della programmazione degli eventi e manifestazioni, il Congresso di Stato su proposta del Dirigente dell’Ufficio del Turismo, sentite le Associazioni di categoria interessate, determina gli eventi e le manifestazioni di interesse turistico che si svolgono nel Centro Storico della Capitale che richiedono l’apertura serale delle attività commerciali di cui all’articolo 9.
-
-3.
-
-Ai sensi di quanto previsto dall’articolo 62 della Legge 20 dicembre 2013 n.174, esclusivamente per l’anno 2014 la programmazione e pubblicazione degli eventi avviene entro il 31 marzo.
+3\. Ai sensi di quanto previsto dall’articolo 62 della Legge 20 dicembre 2013 n.174, esclusivamente per l’anno 2014 la programmazione e pubblicazione degli eventi avviene entro il 31 marzo.
 
 ### Capo II
 
@@ -2633,33 +2527,19 @@ APERTURA SERALE DELLE ATTIVITA’ COMMERCIALI DEL CENTRO STORICO DELLA CAPITALE
 
 (Obbligo di apertura serale per le attività commerciali del Centro Storico)
 
-1.
+1\. Gli esercenti le attività di commercio fisso e al dettaglio e gli esercenti le attività di somministrazione di alimenti e bevande ubicati nelle vie di particolare interesse turistico di cui all’elenco contenuto nell’articolo 123 della Legge 19 giugno 1995 n.87 ad esclusione di Piazzale Campo della Fiera e di Piazza Mercatale, sono tenuti all’apertura dei loro esercizi commerciali in presenza di eventi e manifestazioni di interesse turistico che si svolgono nel Centro Storico della Capitale, organizzati dallo Stato o da questo sovvenzionati o patrocinati.
 
-Gli esercenti le attività di commercio fisso e al dettaglio e gli esercenti le attività di somministrazione di alimenti e bevande ubicati nelle vie di particolare interesse turistico di cui all’elenco contenuto nell’articolo 123 della Legge 19 giugno 1995 n.87 ad esclusione di Piazzale Campo della Fiera e di Piazza Mercatale, sono tenuti all’apertura dei loro esercizi commerciali in presenza di eventi e manifestazioni di interesse turistico che si svolgono nel Centro Storico della Capitale, organizzati dallo Stato o da questo sovvenzionati o patrocinati.
+2\. Il Dirigente dell’Ufficio del Turismo, all’inizio di ogni anno solare e comunque non appena pervenuta la delibera del Congresso di Stato di adozione della programmazione annuale di cui all’articolo 8, è tenuto a comunicare alle Associazioni di categoria per la diffusione fra i propri associati, all’Ufficio Industria, Artigianato e Commercio e alla Polizia Civile l’elenco degli eventi e delle manifestazioni di interesse turistico inserite nella programmazione annuale per le quali vi è l’obbligo dell’apertura serale degli esercizi commerciali nonché, con almeno 30 giorni di anticipo, gli eventi e le manifestazioni inserite successivamente nella programmazione annuale per le quali è altresì prescritta l’apertura serale degli esercizi commerciali.
 
-2.
+3\. Gli eventi e le manifestazioni con obbligo di apertura serale inseriti nella programmazione annuale successivamente ai termini previsti dall’articolo 8 sono determinati dalla Segreteria di Stato per il Turismo sentite le Associazioni di categoria interessate.
 
-Il Dirigente dell’Ufficio del Turismo, all’inizio di ogni anno solare e comunque non appena pervenuta la delibera del Congresso di Stato di adozione della programmazione annuale di cui all’articolo 8, è tenuto a comunicare alle Associazioni di categoria per la diffusione fra i propri associati, all’Ufficio Industria, Artigianato e Commercio e alla Polizia Civile l’elenco degli eventi e delle manifestazioni di interesse turistico inserite nella programmazione annuale per le quali vi è l’obbligo dell’apertura serale degli esercizi commerciali nonché, con almeno 30 giorni di anticipo, gli eventi e le manifestazioni inserite successivamente nella programmazione annuale per le quali è altresì prescritta l’apertura serale degli esercizi commerciali.
+4\. L’inosservanza dell’obbligo dell’apertura serale ai sensi dei commi che precedono, comporta a carico dell’esercente l’attività commerciale, l’applicazione della sanzione pecuniaria per ogni singola serata oggetto dell’infrazione avvenuta entro l’anno solare, di euro 100,00 dalla prima alla quarta infrazione, di euro 200,00 dalla quinta alla nona infrazione e di euro 400,00 per le infrazioni superiori alla nona. Competente alla contestazione e alla irrogazione delle predette sanzioni è l’Ufficio Industria, Artigianato e Commercio, che si avvale della Polizia Civile per i necessari controlli.
 
-3.
+4\. In via eccezionale l’Ufficio Industria, Artigianato e Commercio non dà luogo all’applicazione della sanzione – né rileva ai fini della reiterazione – qualora ritenga giustificata la mancata apertura obbligatoria per l’insorgere di gravi impedimenti del titolare o dell’unico dipendente appositamente assunto o destinato all’apertura serale, previamente comunicati anche tramite fax o e-mail, dal titolare dell’impresa all’Ufficio Industria, Artigianato e Commercio, all’Ufficio del Turismo e alla Polizia Civile. L’obbligo all’apertura serale viene meno quando per eventi atmosferici o per altre cause, l’evento o la manifestazione viene annullata dagli organizzatori o dalla pubblica autorità.
 
-Gli eventi e le manifestazioni con obbligo di apertura serale inseriti nella programmazione annuale successivamente ai termini previsti dall’articolo 8 sono determinati dalla Segreteria di Stato per il Turismo sentite le Associazioni di categoria interessate.
+5\. Ai fini del presente articolo l’apertura serale obbligatoria ha inizio alle ore 21.00 fino alle ore 23.00.
 
-4.
-
-L’inosservanza dell’obbligo dell’apertura serale ai sensi dei commi che precedono, comporta a carico dell’esercente l’attività commerciale, l’applicazione della sanzione pecuniaria per ogni singola serata oggetto dell’infrazione avvenuta entro l’anno solare, di euro 100,00 dalla prima alla quarta infrazione, di euro 200,00 dalla quinta alla nona infrazione e di euro 400,00 per le infrazioni superiori alla nona. Competente alla contestazione e alla irrogazione delle predette sanzioni è l’Ufficio Industria, Artigianato e Commercio, che si avvale della Polizia Civile per i necessari controlli.
-
-4.
-
-In via eccezionale l’Ufficio Industria, Artigianato e Commercio non dà luogo all’applicazione della sanzione – né rileva ai fini della reiterazione – qualora ritenga giustificata la mancata apertura obbligatoria per l’insorgere di gravi impedimenti del titolare o dell’unico dipendente appositamente assunto o destinato all’apertura serale, previamente comunicati anche tramite fax o e-mail, dal titolare dell’impresa all’Ufficio Industria, Artigianato e Commercio, all’Ufficio del Turismo e alla Polizia Civile. L’obbligo all’apertura serale viene meno quando per eventi atmosferici o per altre cause, l’evento o la manifestazione viene annullata dagli organizzatori o dalla pubblica autorità.
-
-5.
-
-Ai fini del presente articolo l’apertura serale obbligatoria ha inizio alle ore 21.00 fino alle ore 23.00.
-
-6.
-
-Si applica uno sgravio contributivo nella misura dell’80% al datore di lavoro per l’occupazione di lavoratori sammarinesi o residenti appositamente assunti nella forma del lavoro saltuario o occasionale per l’apertura serale di cui al presente articolo.
+6\. Si applica uno sgravio contributivo nella misura dell’80% al datore di lavoro per l’occupazione di lavoratori sammarinesi o residenti appositamente assunti nella forma del lavoro saltuario o occasionale per l’apertura serale di cui al presente articolo.
 
 ### Capo III
 
@@ -2669,41 +2549,27 @@ CONCORSO DEI PRIVATI ALLE SPESE DELLO STATO PER SERVIZI DIRETTI O INDIRETTI COLL
 
 (Pagamento per servizi di ordine pubblico e viabilità e per l’uso di sale e sedi pubbliche)
 
-1.
+1\. Gli organizzatori privati di eventi e manifestazioni di interesse turistico, culturale e sportivo che si svolgono in Repubblica, sono tenuti a concorrere ai costi per i servizi di ordine pubblico e viabilità connessi agli stessi, determinati in apposito regolamento adottato dal Congresso di Stato.
 
-Gli organizzatori privati di eventi e manifestazioni di interesse turistico, culturale e sportivo che si svolgono in Repubblica, sono tenuti a concorrere ai costi per i servizi di ordine pubblico e viabilità connessi agli stessi, determinati in apposito regolamento adottato dal Congresso di Stato.
+2\. La concessione di un contributo finanziario all’evento o manifestazione da parte dello Stato ai sensi delle norme contenute nel Capo I non esonera i privati dal pagamento, a titolo di concorso, delle spese che l’Amministrazione pubblica sostiene per i servizi di cui al comma che precede. Il pagamento avviene nell’entità prevista dal regolamento alla data di presentazione della domanda di contributo.
 
-2.
+3\. Entro 30 giorni dall’emanazione del presente decreto delegato il Congresso di Stato è tenuto ad individuare con apposito regolamento le sale e le sedi pubbliche nonché a determinarne il costo di utilizzo e dei servizi a questo connessi, qualora i privati ne richiedono la disponibilità quali sedi o luoghi di eventi e manifestazioni da loro organizzate.
 
-La concessione di un contributo finanziario all’evento o manifestazione da parte dello Stato ai sensi delle norme contenute nel Capo I non esonera i privati dal pagamento, a titolo di concorso, delle spese che l’Amministrazione pubblica sostiene per i servizi di cui al comma che precede. Il pagamento avviene nell’entità prevista dal regolamento alla data di presentazione della domanda di contributo.
-
-3.
-
-Entro 30 giorni dall’emanazione del presente decreto delegato il Congresso di Stato è tenuto ad individuare con apposito regolamento le sale e le sedi pubbliche nonché a determinarne il costo di utilizzo e dei servizi a questo connessi, qualora i privati ne richiedono la disponibilità quali sedi o luoghi di eventi e manifestazioni da loro organizzate.
-
-4.
-
-La concessione del Patrocinio da parte delle Segreterie di Stato comporta una riduzione del 30% del costo per l’uso delle sale e sedi pubbliche e, qualora i beneficiari del contributo siano associazioni di volontariato, Onlus e in generale Associazioni senza scopo di lucro, la riduzione è del 50%.
+4\. La concessione del Patrocinio da parte delle Segreterie di Stato comporta una riduzione del 30% del costo per l’uso delle sale e sedi pubbliche e, qualora i beneficiari del contributo siano associazioni di volontariato, Onlus e in generale Associazioni senza scopo di lucro, la riduzione è del 50%.
 
 ##### Art. 11
 
 (Pagamento prestazioni A.A.S.L.P. e A.A.S.S.)
 
-1.
+1\. Qualora per eventi, manifestazioni sportive e feste paesane sia riconosciuto il Patrocinio da parte delle Segreterie di Stato, agli organizzatori che si avvalgono delle prestazioni fornite dall’A.A.S.L.P. per il montaggio, smontaggio, trasporto di materiale è riconosciuta una riduzione del 30% sugli importi da corrispondere all’Azienda, comprensivi del costo del personale, come risultanti dal tariffario della squadra manifestazioni ed elettricisti Servizi Speciali - A.A.S.L.P. e del 50% se gli organizzatori sono associazioni di volontariato, Onlus e in generale Associazioni senza scopo di lucro. Gli importi suddetti sono da adottarsi con delibera del Congresso di Stato nei tempi previsti al comma 3 dell’articolo 10.
 
-Qualora per eventi, manifestazioni sportive e feste paesane sia riconosciuto il Patrocinio da parte delle Segreterie di Stato, agli organizzatori che si avvalgono delle prestazioni fornite dall’A.A.S.L.P. per il montaggio, smontaggio, trasporto di materiale è riconosciuta una riduzione del 30% sugli importi da corrispondere all’Azienda, comprensivi del costo del personale, come risultanti dal tariffario della squadra manifestazioni ed elettricisti Servizi Speciali - A.A.S.L.P. e del 50% se gli organizzatori sono associazioni di volontariato, Onlus e in generale Associazioni senza scopo di lucro. Gli importi suddetti sono da adottarsi con delibera del Congresso di Stato nei tempi previsti al comma 3 dell’articolo 10.
-
-2.
-
-Gli organizzatori di eventi e manifestazioni di interesse turistico, culturale, sportivo che si svolgono in Repubblica, sono tenuti al pagamento delle prestazioni richieste all’A.A.S.S. ivi compresi i servizi di allacciamento temporaneo per la fornitura di energia elettrica e acqua.
+2\. Gli organizzatori di eventi e manifestazioni di interesse turistico, culturale, sportivo che si svolgono in Repubblica, sono tenuti al pagamento delle prestazioni richieste all’A.A.S.S. ivi compresi i servizi di allacciamento temporaneo per la fornitura di energia elettrica e acqua.
 
 ##### Art. 12
 
 (Controllo di legittimità)
 
-1.
-
-Le spese riferite ai contributi autorizzati, sono soggette al controllo preventivo di legittimità ai sensi dell’articolo 107, comma 3, lettera b), della Legge n.30/1998.
+1\. Le spese riferite ai contributi autorizzati, sono soggette al controllo preventivo di legittimità ai sensi dell’articolo 107, comma 3, lettera b), della Legge n.30/1998.
 
 DECRETO DELEGATO 30 giugno 2015 n.98 DISPOSIZIONI PER LA CONTABILIZZAZIONE DEI CREDITI E DEI DEBITI ISCRITTI NEL CONTO FISCALE
 
@@ -2711,9 +2577,7 @@ DECRETO DELEGATO 30 giugno 2015 n.98 DISPOSIZIONI PER LA CONTABILIZZAZIONE DEI C
 
 (Responsabilità)
 
-1.
-
-Al Direttore, ai funzionari ed ai dipendenti dell’Ufficio Tributario, della Direzione della Finanza Pubblica, della Contabilità di Stato ed ai membri della Commissione di Controllo della Finanza Pubblica si applicano le disposizioni di cui al Titolo V, Sezione II – Responsabilità della Legge n. 30/1998 per quanto di rispettiva competenza in riferimento alle disposizioni del presente decreto delegato.
+1\. Al Direttore, ai funzionari ed ai dipendenti dell’Ufficio Tributario, della Direzione della Finanza Pubblica, della Contabilità di Stato ed ai membri della Commissione di Controllo della Finanza Pubblica si applicano le disposizioni di cui al Titolo V, Sezione II – Responsabilità della Legge n. 30/1998 per quanto di rispettiva competenza in riferimento alle disposizioni del presente decreto delegato.
 
 LEGGE 21 dicembre 2016 n.143 RENDICONTO GENERALE DELLO STATO E DEGLI ENTI PUBBLICI PER L’ESERCIZIO FINANZIARIO 2015
 
@@ -2721,25 +2585,17 @@ LEGGE 21 dicembre 2016 n.143 RENDICONTO GENERALE DELLO STATO E DEGLI ENTI PUBBLI
 
 (Mantenimento Residui Attivi)
 
-1.
-
-I residui attivi tuttora accesi vengono mantenuti in Bilancio fino a quando il Congresso di Stato ne deliberi la cancellazione definitiva ai sensi dell’articolo 66 della Legge 18 febbraio 1998 n.30.
+1\. I residui attivi tuttora accesi vengono mantenuti in Bilancio fino a quando il Congresso di Stato ne deliberi la cancellazione definitiva ai sensi dell’articolo 66 della Legge 18 febbraio 1998 n.30.
 
 ##### Art. 6
 
 (Eliminazione dei residui attivi relativi ai crediti ritenuti di dubbia e difficile esazione)
 
-1.
+1\. Decorsi i termini previsti dall’articolo 65 della Legge 28 febbraio 1998 n. 30 vengono eliminati dal Bilancio Finanziario i residui attivi relativi ai crediti di dubbia e difficile esazione iscritti in entrata e dei corrispondenti debiti iscritti nel cap. 1-3-2695 “Fondo Svalutazione Crediti”.
 
-Decorsi i termini previsti dall’articolo 65 della Legge 28 febbraio 1998 n. 30 vengono eliminati dal Bilancio Finanziario i residui attivi relativi ai crediti di dubbia e difficile esazione iscritti in entrata e dei corrispondenti debiti iscritti nel cap. 1-3-2695 “Fondo Svalutazione Crediti”.
+2\. I crediti eliminati sono iscritti nello Stato Patrimoniale nella voce “Fondo residui attivi eliminati”.
 
-2.
-
-I crediti eliminati sono iscritti nello Stato Patrimoniale nella voce “Fondo residui attivi eliminati”.
-
-3.
-
-L’eventuale riscossione di somme viene imputata sul capitolo di Bilancio pertinente in conto competenza dell’anno in cui si verifica e viene registrata come plusvalenza attiva.
+3\. L’eventuale riscossione di somme viene imputata sul capitolo di Bilancio pertinente in conto competenza dell’anno in cui si verifica e viene registrata come plusvalenza attiva.
 
 DECRETO DELEGATO 13 novembre 2020 n.200 REVISIONE DEL REGOLAMENTO DI CONTABILITÀ
 
@@ -2747,9 +2603,7 @@ DECRETO DELEGATO 13 novembre 2020 n.200 REVISIONE DEL REGOLAMENTO DI CONTABILIT�
 
 (Deroghe alle procedure operative)
 
-1.
-
-Fatto salvo quanto previsto dall’articolo 62 del predetto Decreto n. 53/2003, il Nucleo per la tenuta del sistema di gestione documentale ed il Nucleo per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi di concerto con la Direzione della Finanza Pubblica e la Contabilità di Stato hanno facoltà di autorizzare deroghe alle procedure operative di cui al Decreto n. 53/2003, come già modificato dal Decreto n. 75/2004 e dai superiori articoli, qualora la deroga si renda utile o necessaria per consentire la gestione informatizzata del procedimento di gestione delle entrate e delle spese afferenti al Bilancio dello Stato.
+1\. Fatto salvo quanto previsto dall’articolo 62 del predetto Decreto n. 53/2003, il Nucleo per la tenuta del sistema di gestione documentale ed il Nucleo per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi di concerto con la Direzione della Finanza Pubblica e la Contabilità di Stato hanno facoltà di autorizzare deroghe alle procedure operative di cui al Decreto n. 53/2003, come già modificato dal Decreto n. 75/2004 e dai superiori articoli, qualora la deroga si renda utile o necessaria per consentire la gestione informatizzata del procedimento di gestione delle entrate e delle spese afferenti al Bilancio dello Stato.
 
 LEGGE 23 dicembre 2020 n.223
 
@@ -2771,25 +2625,15 @@ LEGGE 23 dicembre 2020 n.223
 
 REGOLAMENTO 15 aprile 2021 n.6 REGOLAMENTAZIONE DELLE AUTORIZZAZIONI DI SPESA DEI SEGRETARI DI STATO ED INDIVIDUAZIONE DEI RELATIVI CAPITOLI DI SPESA Articolo Unico
 
-1.
+1\. Visto l’articolo 23, comma 3, lettera b) del Decreto 24 aprile 2003 n.53 così come modificato dall’articolo 3, del Decreto Delegato 13 novembre 2020 n.200, i Segretari di Stato autorizzano euro 10.000,00 (diecimila/00) in via non esclusiva quale tetto massimo per ogni singolo impegno o spesa limitatamente ai capitoli indicati nel prospetto di raccordo allegato al presente Regolamento a decorrere dal corrente esercizio finanziario.
 
-Visto l’articolo 23, comma 3, lettera b) del Decreto 24 aprile 2003 n.53 così come modificato dall’articolo 3, del Decreto Delegato 13 novembre 2020 n.200, i Segretari di Stato autorizzano euro 10.000,00 (diecimila/00) in via non esclusiva quale tetto massimo per ogni singolo impegno o spesa limitatamente ai capitoli indicati nel prospetto di raccordo allegato al presente Regolamento a decorrere dal corrente esercizio finanziario.
+2\. Visto l’articolo 23 comma 3, lettera a) del Decreto 24 aprile 2003 n.53 così come modificato dall’articolo 3, del Decreto Delegato 13 novembre 2020 n.200, vista la delibera del Congresso di Stato del 29 dicembre 2020 n.6, il Segretario di Stato per le Finanze e il Bilancio, in via non esclusiva, autorizza euro 30.000,00 (trentamila/00) quale tetto massimo per ogni singolo impegno o spesa su qualsiasi capitolo di Bilancio dello Stato.
 
-2.
+3\. Visto l’articolo 23, comma 8, del Decreto 24 aprile 2003 n.53 così come modificato dall’articolo 3, del Decreto Delegato 13 novembre 2020 n.200, vista la delibera del Congresso di Stato del 29 dicembre 2020 n.5, il Segretario di Stato per le Finanze e il Bilancio autorizza senza alcun limite, in ragione della loro tipicità, le singole spese sui capitoli individuati dalla delibera del Congresso di Stato n.5 del 29 dicembre 2020 per l’esercizio finanziario 2021. La presente delega viene esercitata dal Congresso di Stato per ciascuno esercizio finanziario.
 
-Visto l’articolo 23 comma 3, lettera a) del Decreto 24 aprile 2003 n.53 così come modificato dall’articolo 3, del Decreto Delegato 13 novembre 2020 n.200, vista la delibera del Congresso di Stato del 29 dicembre 2020 n.6, il Segretario di Stato per le Finanze e il Bilancio, in via non esclusiva, autorizza euro 30.000,00 (trentamila/00) quale tetto massimo per ogni singolo impegno o spesa su qualsiasi capitolo di Bilancio dello Stato.
+4\. Il prospetto di raccordo allegato al presente regolamento risulta definito in relazione alla deleghe politiche rispettivamente attribuite ai Segretari di Stato con delibera del Consiglio Grande e Generale n.2 dell’8 gennaio 2020.
 
-3.
-
-Visto l’articolo 23, comma 8, del Decreto 24 aprile 2003 n.53 così come modificato dall’articolo 3, del Decreto Delegato 13 novembre 2020 n.200, vista la delibera del Congresso di Stato del 29 dicembre 2020 n.5, il Segretario di Stato per le Finanze e il Bilancio autorizza senza alcun limite, in ragione della loro tipicità, le singole spese sui capitoli individuati dalla delibera del Congresso di Stato n.5 del 29 dicembre 2020 per l’esercizio finanziario 2021. La presente delega viene esercitata dal Congresso di Stato per ciascuno esercizio finanziario.
-
-4.
-
-Il prospetto di raccordo allegato al presente regolamento risulta definito in relazione alla deleghe politiche rispettivamente attribuite ai Segretari di Stato con delibera del Consiglio Grande e Generale n.2 dell’8 gennaio 2020.
-
-5.
-
-In via sperimentale e per un anno decorrente dalla data di vigenza del presente Regolamento, la Direzione della Finanza Pubblica è incaricata di predisporre un rendiconto semestrale, da inviarsi al Congresso di Stato, delle autorizzazioni di spesa assunte dai Segretari di Stato.
+5\. In via sperimentale e per un anno decorrente dalla data di vigenza del presente Regolamento, la Direzione della Finanza Pubblica è incaricata di predisporre un rendiconto semestrale, da inviarsi al Congresso di Stato, delle autorizzazioni di spesa assunte dai Segretari di Stato.
 
 DECRETO - LEGGE 29 gennaio 2021 n.14 ULTERIORI DISPOSIZIONI PER IL CONTRASTO ALLA DIFFUSIONE DELL’EPIDEMIA DA COVID-19
 
@@ -2797,41 +2641,23 @@ DECRETO - LEGGE 29 gennaio 2021 n.14 ULTERIORI DISPOSIZIONI PER IL CONTRASTO ALL
 
 (Disposizioni contabili e procedurali per gestione stato di emergenza da COVID-19)
 
-1.
+1\. In via del tutto eccezionale ed in deroga alle norme contabili, alle norme in materia di fornitura e somministrazioni di beni e servizi e al comma 1 dell’articolo 49 della Legge 20 dicembre 2013 n.174, le spese sostenute e da sostenersi allo scopo di contenere il contagio da COVID-19 sono equiparate alle spese obbligatorie inderogabili ed indilazionabili di cui all’articolo 47 della Legge 18 febbraio 1998 n.30.
 
-In via del tutto eccezionale ed in deroga alle norme contabili, alle norme in materia di fornitura e somministrazioni di beni e servizi e al comma 1 dell’articolo 49 della Legge 20 dicembre 2013 n.174, le spese sostenute e da sostenersi allo scopo di contenere il contagio da COVID-19 sono equiparate alle spese obbligatorie inderogabili ed indilazionabili di cui all’articolo 47 della Legge 18 febbraio 1998 n.30.
+2\. Tali spese sono assoggettate a procedura semplificata ed imputate sul cap. 1-5-1353 “Spese per la gestione delle emergenze” previo trasferimento dai fondi di riserva e/o dal fondo di intervento disposto dal Congresso di Stato ai sensi dell’articolo 24, primo comma, lettera c) della Legge n.30/1998, dell’articolo 8, secondo comma, del Decreto 24 aprile 2003 n. 53 e dell’articolo 12, commi 5 e 11, della Legge 22 dicembre 2011 n. 200 e sul cap. 2-8-6480 “Acquisto macchinari, attrezzature e procedure piano informatico” e sul cap. 1-8-2810 “Spese per la gestione del piano informatico” rese immediatamente esecutive dalla presente norma.
 
-2.
+3\. Sul cap. 1-5-1353 “Spese per la gestione delle emergenze” è autorizzato ad operare contabilmente il Dipartimento della Funzione Pubblica. Le spese relative, individuate da parte del Capo del Servizio di Protezione Civile e del Gruppo di Coordinamento per le Emergenze Sanitarie sono disposte e liquidate dal Direttore della Funzione Pubblica fino alla concorrenza dello stanziamento disposto sul capitolo di spesa sopra indicato.
 
-Tali spese sono assoggettate a procedura semplificata ed imputate sul cap. 1-5-1353 “Spese per la gestione delle emergenze” previo trasferimento dai fondi di riserva e/o dal fondo di intervento disposto dal Congresso di Stato ai sensi dell’articolo 24, primo comma, lettera c) della Legge n.30/1998, dell’articolo 8, secondo comma, del Decreto 24 aprile 2003 n. 53 e dell’articolo 12, commi 5 e 11, della Legge 22 dicembre 2011 n. 200 e sul cap. 2-8-6480 “Acquisto macchinari, attrezzature e procedure piano informatico” e sul cap. 1-8-2810 “Spese per la gestione del piano informatico” rese immediatamente esecutive dalla presente norma.
+4\. Sul cap. 2-8-6480 “Acquisto macchinari, attrezzature e procedure piano informatico” e sul cap. 1-8-2810 “Spese per la gestione del piano informatico” è autorizzato ad operare contabilmente l’Unità Organizzativa (UO) Informatica, Tecnologia, Dati e Statistica ed a individuare in coordinamento con il Dipartimento della Funzione Pubblica le attrezzature e procedure necessarie per la gestione dell’emergenza. Tali spese sono disposte e liquidate dal Dirigente dell’UO sopra indicata.
 
-3.
+5\. La Commissione di Controllo della Finanza Pubblica, al termine della dichiarata emergenza, ha facoltà di effettuare controlli successivi analoghi a quelli previsti sugli atti assoggettati a procedura semplificata di cui all’articolo 110 ed a parziale deroga di quanto disposto dall’articolo 108 della Legge n.30/1998.
 
-Sul cap. 1-5-1353 “Spese per la gestione delle emergenze” è autorizzato ad operare contabilmente il Dipartimento della Funzione Pubblica. Le spese relative, individuate da parte del Capo del Servizio di Protezione Civile e del Gruppo di Coordinamento per le Emergenze Sanitarie sono disposte e liquidate dal Direttore della Funzione Pubblica fino alla concorrenza dello stanziamento disposto sul capitolo di spesa sopra indicato.
+6\. In caso di necessità ed urgenza il Congresso di Stato, in via del tutto eccezionale ed in deroga a quanto previsto dall’articolo 25, comma secondo della Legge n.30/1998, allo scopo di reperire ulteriori risorse finanziarie necessarie a sostenere gli oneri indifferibili conseguenti alle misure urgenti di contenimento da COVID-19, ha facoltà di disporre trasferimenti di fondi fra capitoli anche se appartenenti a diversi titoli di spesa e a diversi Dipartimenti.
 
-4.
+7\. Il Congresso di Stato allo scopo di garantire le risorse finanziarie necessarie al contenimento e gestione dell’emergenza sanitaria è impegnato ad una attenta valutazione delle somme disponibili o già impegnate ed autorizzate su tutti i capitoli di spesa ed a rivedere i piani di attività programmate in riferimento anche all’equilibrio complessivo e all’andamento generale delle previsioni di Bilancio dello Stato e degli Enti del Settore Pubblico Allargato.
 
-Sul cap. 2-8-6480 “Acquisto macchinari, attrezzature e procedure piano informatico” e sul cap. 1-8-2810 “Spese per la gestione del piano informatico” è autorizzato ad operare contabilmente l’Unità Organizzativa (UO) Informatica, Tecnologia, Dati e Statistica ed a individuare in coordinamento con il Dipartimento della Funzione Pubblica le attrezzature e procedure necessarie per la gestione dell’emergenza. Tali spese sono disposte e liquidate dal Dirigente dell’UO sopra indicata.
+8\. Il Congresso di Stato è autorizzato a rivedere i trasferimenti agli Enti Pubblici ed Aziende Autonome di Stato, alle imprese partecipate, ancorché già autorizzati.
 
-5.
-
-La Commissione di Controllo della Finanza Pubblica, al termine della dichiarata emergenza, ha facoltà di effettuare controlli successivi analoghi a quelli previsti sugli atti assoggettati a procedura semplificata di cui all’articolo 110 ed a parziale deroga di quanto disposto dall’articolo 108 della Legge n.30/1998.
-
-6.
-
-In caso di necessità ed urgenza il Congresso di Stato, in via del tutto eccezionale ed in deroga a quanto previsto dall’articolo 25, comma secondo della Legge n.30/1998, allo scopo di reperire ulteriori risorse finanziarie necessarie a sostenere gli oneri indifferibili conseguenti alle misure urgenti di contenimento da COVID-19, ha facoltà di disporre trasferimenti di fondi fra capitoli anche se appartenenti a diversi titoli di spesa e a diversi Dipartimenti.
-
-7.
-
-Il Congresso di Stato allo scopo di garantire le risorse finanziarie necessarie al contenimento e gestione dell’emergenza sanitaria è impegnato ad una attenta valutazione delle somme disponibili o già impegnate ed autorizzate su tutti i capitoli di spesa ed a rivedere i piani di attività programmate in riferimento anche all’equilibrio complessivo e all’andamento generale delle previsioni di Bilancio dello Stato e degli Enti del Settore Pubblico Allargato.
-
-8.
-
-Il Congresso di Stato è autorizzato a rivedere i trasferimenti agli Enti Pubblici ed Aziende Autonome di Stato, alle imprese partecipate, ancorché già autorizzati.
-
-9.
-
-Fino al termine del dichiarato stato di emergenza è, altresì, facoltà del Congresso di Stato su proposta del Segretario di Stato per le Finanze e Bilancio, sentita la Commissione di Controllo della Finanza Pubblica e la Direzione della Finanza Pubblica disporre la proroga dei termini previsti all’articolo 55 del Decreto n.53/2003 e successive modifiche per i controlli preventivi di legittimità di cui all’articolo 107 della Legge n.30/1998 da giorni quindici a giorni trenta.
+9\. Fino al termine del dichiarato stato di emergenza è, altresì, facoltà del Congresso di Stato su proposta del Segretario di Stato per le Finanze e Bilancio, sentita la Commissione di Controllo della Finanza Pubblica e la Direzione della Finanza Pubblica disporre la proroga dei termini previsti all’articolo 55 del Decreto n.53/2003 e successive modifiche per i controlli preventivi di legittimità di cui all’articolo 107 della Legge n.30/1998 da giorni quindici a giorni trenta.
 
 DECRETO – LEGGE 23 marzo 2021 n.57 MISURE DI RAFFORZAMENTO E CONTENIMENTO PER FAVORIRE L’EFFICACIA DELLA CAMPAGNA VACCINALE COVID-19
 
@@ -2839,55 +2665,31 @@ DECRETO – LEGGE 23 marzo 2021 n.57 MISURE DI RAFFORZAMENTO E CONTENIMENTO PER 
 
 (Disposizioni contabili e procedurali ISS per gestione stato di emergenza da COVID-19)
 
-1.
+1\. In via del tutto eccezionale ed in deroga alle norme contabili, alle norme in materia di fornitura e somministrazioni di beni e servizi e al comma 1 dell’articolo 49 della Legge 20 dicembre 2013 n.174, le spese sostenute e da sostenersi dall’Istituto per la Sicurezza Sociale allo scopo di contenere il contagio da COVID-19 sono equiparate alle spese obbligatorie inderogabili ed indilazionabili di cui all’articolo 47 della Legge 18 febbraio 1998 n.30.
 
-In via del tutto eccezionale ed in deroga alle norme contabili, alle norme in materia di fornitura e somministrazioni di beni e servizi e al comma 1 dell’articolo 49 della Legge 20 dicembre 2013 n.174, le spese sostenute e da sostenersi dall’Istituto per la Sicurezza Sociale allo scopo di contenere il contagio da COVID-19 sono equiparate alle spese obbligatorie inderogabili ed indilazionabili di cui all’articolo 47 della Legge 18 febbraio 1998 n.30.
+2\. Tali spese sono assoggettate a procedura semplificata ed imputate sui capitoli pertinenti che confluiscono nel centro di costo n. 209600 “Emergenze sanitarie” e rese immediatamente esecutive dalla presente norma.
 
-2.
+3\. Le spese relative sono individuate dal Gruppo di Coordinamento per le Emergenze Sanitarie oppure dal Comitato Esecutivo e disposte e liquidate a norma del presente articolo.
 
-Tali spese sono assoggettate a procedura semplificata ed imputate sui capitoli pertinenti che confluiscono nel centro di costo n. 209600 “Emergenze sanitarie” e rese immediatamente esecutive dalla presente norma.
+4\. Il Collegio dei Sindaci Revisori, nell’effettuare i controlli previsti all’articolo 20 della Legge 30 novembre 2004 n.165, segnala le eventuali anomalie riscontrate nella gestione delle spese di cui al presente articolo alla Commissione di Controllo della Finanza Pubblica attraverso le apposite relazioni di cui all’articolo 109, comma 5 della Legge n. 30/1998.
 
-3.
+5\. In caso di necessità ed urgenza il Comitato Esecutivo, in via del tutto eccezionale ed in deroga a quanto previsto al regolamento interno assunto con delibera del Comitato Esecutivo n.1 del 21 febbraio 2005 adottato ai sensi dell’articolo 14, comma 1, lettera f), della Legge n. 165/2004, allo scopo di sostenere gli oneri indifferibili per misure urgenti di contenimento da COVID-19, ha facoltà di disporre, in equilibrio di bilancio, trasferimenti di fondi fra capitoli anche se appartenenti a diversi Titoli di Spesa.
 
-Le spese relative sono individuate dal Gruppo di Coordinamento per le Emergenze Sanitarie oppure dal Comitato Esecutivo e disposte e liquidate a norma del presente articolo.
-
-4.
-
-Il Collegio dei Sindaci Revisori, nell’effettuare i controlli previsti all’articolo 20 della Legge 30 novembre 2004 n.165, segnala le eventuali anomalie riscontrate nella gestione delle spese di cui al presente articolo alla Commissione di Controllo della Finanza Pubblica attraverso le apposite relazioni di cui all’articolo 109, comma 5 della Legge n. 30/1998.
-
-5.
-
-In caso di necessità ed urgenza il Comitato Esecutivo, in via del tutto eccezionale ed in deroga a quanto previsto al regolamento interno assunto con delibera del Comitato Esecutivo n.1 del 21 febbraio 2005 adottato ai sensi dell’articolo 14, comma 1, lettera f), della Legge n. 165/2004, allo scopo di sostenere gli oneri indifferibili per misure urgenti di contenimento da COVID-19, ha facoltà di disporre, in equilibrio di bilancio, trasferimenti di fondi fra capitoli anche se appartenenti a diversi Titoli di Spesa.
-
-6.
-
-Il Comitato Esecutivo allo scopo di garantire le misure necessarie al contenimento e gestione dell’emergenza sanitaria è impegnato ad una attenta valutazione delle risorse disponibili e a rivedere i piani di attività programmati in riferimento all’equilibrio complessivo e all’andamento generale delle previsioni di bilancio.
+6\. Il Comitato Esecutivo allo scopo di garantire le misure necessarie al contenimento e gestione dell’emergenza sanitaria è impegnato ad una attenta valutazione delle risorse disponibili e a rivedere i piani di attività programmati in riferimento all’equilibrio complessivo e all’andamento generale delle previsioni di bilancio.
 
 DECRETO – LEGGE 21 gennaio 2022 n.5 DISPOSIZIONI DI CARATTERE GENERALE E AMMINISTRATIVE CONNESSE ALL’EPIDEMIA DA COVID-19 Art 6 (Disposizioni contabili e procedurali ISS per gestione stato di emergenza da COVID-19)
 
-1.
+1\. In via del tutto eccezionale ed in deroga alle norme contabili, alle norme in materia di fornitura e somministrazioni di beni e servizi e al comma 1 dell’articolo 49 della Legge 20 dicembre 2013 n.174, le spese sostenute e da sostenersi dall’Istituto per la Sicurezza Sociale allo scopo di contenere il contagio da COVID-19 sono equiparate alle spese obbligatorie inderogabili ed indilazionabili di cui all’articolo 47 della Legge 18 febbraio 1998 n.30.
 
-In via del tutto eccezionale ed in deroga alle norme contabili, alle norme in materia di fornitura e somministrazioni di beni e servizi e al comma 1 dell’articolo 49 della Legge 20 dicembre 2013 n.174, le spese sostenute e da sostenersi dall’Istituto per la Sicurezza Sociale allo scopo di contenere il contagio da COVID-19 sono equiparate alle spese obbligatorie inderogabili ed indilazionabili di cui all’articolo 47 della Legge 18 febbraio 1998 n.30.
+2\. Tali spese sono assoggettate a procedura semplificata ed imputate sui capitoli pertinenti che confluiscono nel centro di costo n. 209600 “Emergenze sanitarie” e rese immediatamente esecutive dalla presente norma.
 
-2.
+3\. Le spese relative sono individuate dal Gruppo di Coordinamento per le Emergenze Sanitarie oppure dal Comitato Esecutivo e disposte e liquidate a norma del presente articolo.
 
-Tali spese sono assoggettate a procedura semplificata ed imputate sui capitoli pertinenti che confluiscono nel centro di costo n. 209600 “Emergenze sanitarie” e rese immediatamente esecutive dalla presente norma.
+4\. Il Collegio dei Sindaci Revisori, nell’effettuare i controlli previsti all’articolo 20 della Legge 30 novembre 2004 n.165, segnala le eventuali anomalie riscontrate nella gestione delle spese di cui al presente articolo alla Commissione di Controllo della Finanza Pubblica attraverso le apposite relazioni di cui all’articolo 109, comma 5 della Legge n. 30/1998.
 
-3.
+5\. In caso di necessità ed urgenza il Comitato Esecutivo, in via del tutto eccezionale ed in deroga a quanto previsto al regolamento interno assunto con delibera del Comitato Esecutivo n.1 del 21 febbraio 2005 adottato ai sensi dell’articolo 14, comma 1, lettera f), della Legge n. 165/2004, allo scopo di sostenere gli oneri indifferibili per misure urgenti di contenimento da COVID-19, ha facoltà di disporre, in equilibrio di bilancio, trasferimenti di fondi fra capitoli anche se appartenenti a diversi Titoli di Spesa.
 
-Le spese relative sono individuate dal Gruppo di Coordinamento per le Emergenze Sanitarie oppure dal Comitato Esecutivo e disposte e liquidate a norma del presente articolo.
-
-4.
-
-Il Collegio dei Sindaci Revisori, nell’effettuare i controlli previsti all’articolo 20 della Legge 30 novembre 2004 n.165, segnala le eventuali anomalie riscontrate nella gestione delle spese di cui al presente articolo alla Commissione di Controllo della Finanza Pubblica attraverso le apposite relazioni di cui all’articolo 109, comma 5 della Legge n. 30/1998.
-
-5.
-
-In caso di necessità ed urgenza il Comitato Esecutivo, in via del tutto eccezionale ed in deroga a quanto previsto al regolamento interno assunto con delibera del Comitato Esecutivo n.1 del 21 febbraio 2005 adottato ai sensi dell’articolo 14, comma 1, lettera f), della Legge n. 165/2004, allo scopo di sostenere gli oneri indifferibili per misure urgenti di contenimento da COVID-19, ha facoltà di disporre, in equilibrio di bilancio, trasferimenti di fondi fra capitoli anche se appartenenti a diversi Titoli di Spesa.
-
-6.
-
-Il Comitato Esecutivo, allo scopo di garantire le misure necessarie al contenimento e gestione dell’emergenza sanitaria, è impegnato ad una attenta valutazione delle risorse disponibili e a rivedere i piani di attività programmati in riferimento all’equilibrio complessivo e all’andamento generale delle previsioni di bilancio.
+6\. Il Comitato Esecutivo, allo scopo di garantire le misure necessarie al contenimento e gestione dell’emergenza sanitaria, è impegnato ad una attenta valutazione delle risorse disponibili e a rivedere i piani di attività programmati in riferimento all’equilibrio complessivo e all’andamento generale delle previsioni di bilancio.
 
 DECRETO – LEGGE 28 aprile 2022 n.72 CESSAZIONE DELLO STATO DI EMERGENZA DA COVID-19 E DISPOSIZIONI DI CARATTERE GENERALE LEGATE ALL’ATTUALE STATO PANDEMICO DA COVID-19
 
@@ -2895,29 +2697,17 @@ DECRETO – LEGGE 28 aprile 2022 n.72 CESSAZIONE DELLO STATO DI EMERGENZA DA COV
 
 (Disposizioni contabili e procedurali ISS per gestione stato pandemico da COVID-19)
 
-1.
+1\. In via del tutto eccezionale, per casi di particolare e comprovata urgenza individuati dal Comitato Esecutivo dell’ISS, in cui l'osservanza delle ordinarie procedure comporterebbe ritardi pregiudizievoli al fine dell'acquisizione del bene/servizio, ed in deroga alle norme contabili, alle norme in materia di fornitura e somministrazioni di beni e servizi e al comma 1 dell’articolo 49 della Legge 20 dicembre 2013 n.174, le spese sostenute e da sostenersi dall’Istituto per la Sicurezza Sociale allo scopo di contenere il contagio da COVID-19 sono equiparate alle spese obbligatorie inderogabili ed indilazionabili di cui all’articolo 47 della Legge 18 febbraio 1998 n.30.
 
-In via del tutto eccezionale, per casi di particolare e comprovata urgenza individuati dal Comitato Esecutivo dell’ISS, in cui l'osservanza delle ordinarie procedure comporterebbe ritardi pregiudizievoli al fine dell'acquisizione del bene/servizio, ed in deroga alle norme contabili, alle norme in materia di fornitura e somministrazioni di beni e servizi e al comma 1 dell’articolo 49 della Legge 20 dicembre 2013 n.174, le spese sostenute e da sostenersi dall’Istituto per la Sicurezza Sociale allo scopo di contenere il contagio da COVID-19 sono equiparate alle spese obbligatorie inderogabili ed indilazionabili di cui all’articolo 47 della Legge 18 febbraio 1998 n.30.
+2\. Tali spese sono assoggettate a procedura semplificata ed imputate sui capitoli pertinenti che confluiscono nei centri di costo dedicati e rese immediatamente esecutive dalla presente norma.
 
-2.
+3\. Le spese di cui al comma 1 sono autorizzate dal Comitato Esecutivo, disposte e liquidate a norma del presente articolo.
 
-Tali spese sono assoggettate a procedura semplificata ed imputate sui capitoli pertinenti che confluiscono nei centri di costo dedicati e rese immediatamente esecutive dalla presente norma.
+4\. Il Collegio dei Sindaci Revisori, nell’effettuare i controlli previsti all’articolo 20 della Legge 30 novembre 2004 n.165, segnala le eventuali anomalie riscontrate nella gestione delle spese di cui al presente articolo alla Commissione di Controllo della Finanza Pubblica attraverso le apposite relazioni di cui all’articolo 109, comma 5 della Legge n. 30/1998.
 
-3.
+5\. In caso di necessità ed urgenza il Comitato Esecutivo, in via del tutto eccezionale ed in deroga a quanto previsto al regolamento interno assunto con delibera del Comitato Esecutivo n.1 del 21 febbraio 2005 adottato ai sensi dell’articolo 14, comma 1, lettera f), della Legge n. 165/2004, allo scopo di sostenere gli oneri indifferibili per misure urgenti di contenimento da COVID-19, ha facoltà di disporre, in equilibrio di bilancio, trasferimenti di fondi fra capitoli anche se appartenenti a diversi Titoli di Spesa.
 
-Le spese di cui al comma 1 sono autorizzate dal Comitato Esecutivo, disposte e liquidate a norma del presente articolo.
-
-4.
-
-Il Collegio dei Sindaci Revisori, nell’effettuare i controlli previsti all’articolo 20 della Legge 30 novembre 2004 n.165, segnala le eventuali anomalie riscontrate nella gestione delle spese di cui al presente articolo alla Commissione di Controllo della Finanza Pubblica attraverso le apposite relazioni di cui all’articolo 109, comma 5 della Legge n. 30/1998.
-
-5.
-
-In caso di necessità ed urgenza il Comitato Esecutivo, in via del tutto eccezionale ed in deroga a quanto previsto al regolamento interno assunto con delibera del Comitato Esecutivo n.1 del 21 febbraio 2005 adottato ai sensi dell’articolo 14, comma 1, lettera f), della Legge n. 165/2004, allo scopo di sostenere gli oneri indifferibili per misure urgenti di contenimento da COVID-19, ha facoltà di disporre, in equilibrio di bilancio, trasferimenti di fondi fra capitoli anche se appartenenti a diversi Titoli di Spesa.
-
-6.
-
-Il Comitato Esecutivo è impegnato ad una attenta valutazione delle risorse disponibili e a rivedere i piani di attività programmati in riferimento all’equilibrio complessivo e all’andamento generale delle previsioni di bilancio.
+6\. Il Comitato Esecutivo è impegnato ad una attenta valutazione delle risorse disponibili e a rivedere i piani di attività programmati in riferimento all’equilibrio complessivo e all’andamento generale delle previsioni di bilancio.
 
 REGOLAMENTO 30 settembre 2025 n.15 REGOLAMENTO SUL CONTROLLO DI LEGITTIMITÀ SUCCESSIVO A CAMPIONE
 
@@ -2925,37 +2715,27 @@ REGOLAMENTO 30 settembre 2025 n.15 REGOLAMENTO SUL CONTROLLO DI LEGITTIMITÀ SUC
 
 (Oggetto)
 
-1.
+1\. Il presente regolamento definisce, in coerenza con le disposizioni di cui all’articolo 109, comma 4 della Legge 18 febbraio 1998 n.30 e successive modifiche, le modalità operative e gli strumenti del controllo di legittimità successivo a campione degli atti di spesa che incidono sul bilancio dello Stato, nonché effettuate sulla base delle eventuali segnalazioni di cui alla Legge 5 settembre 2014 n.141 ovvero da cittadini, residenti ed operatori economici.
 
-Il presente regolamento definisce, in coerenza con le disposizioni di cui all’articolo 109, comma 4 della Legge 18 febbraio 1998 n.30 e successive modifiche, le modalità operative e gli strumenti del controllo di legittimità successivo a campione degli atti di spesa che incidono sul bilancio dello Stato, nonché effettuate sulla base delle eventuali segnalazioni di cui alla Legge 5 settembre 2014 n.141 ovvero da cittadini, residenti ed operatori economici.
-
-2.
-
-Restano valide le norme dettate dall’Ordinamento contabile dello Stato di cui alla Legge n.30/1998 e successive modifiche e dal Regolamento di contabilità di cui al Decreto 24 aprile 2003 n.53 e successive modifiche.
+2\. Restano valide le norme dettate dall’Ordinamento contabile dello Stato di cui alla Legge n.30/1998 e successive modifiche e dal Regolamento di contabilità di cui al Decreto 24 aprile 2003 n.53 e successive modifiche.
 
 ##### Art.2
 
 (Finalità del controllo di legittimità successivo a campione)
 
-1.
-
-Il controllo di legittimità successivo a campione ha la finalità di garantire la regolarità e la correttezza dell’azione amministrativa relativa alla spesa pubblica, assicurando il rispetto delle procedure e la conformità degli atti adottati ai principi di indipendenza, imparzialità e trasparenza, secondo regole chiare, condivise e preventivamente determinate. Il controllo contribuisce alla creazione di un sistema volto a migliorare l’efficacia, l’efficienza e l’economicità dell’azione amministrativa.
+1\. Il controllo di legittimità successivo a campione ha la finalità di garantire la regolarità e la correttezza dell’azione amministrativa relativa alla spesa pubblica, assicurando il rispetto delle procedure e la conformità degli atti adottati ai principi di indipendenza, imparzialità e trasparenza, secondo regole chiare, condivise e preventivamente determinate. Il controllo contribuisce alla creazione di un sistema volto a migliorare l’efficacia, l’efficienza e l’economicità dell’azione amministrativa.
 
 ##### Art.3
 
 (Soggetto preposto al controllo di legittimità successivo a campione)
 
-1.
-
-Il controllo di legittimità successivo a campione è esercitato dalla Commissione di Controllo della Finanza Pubblica (di seguito brevemente CCFP), nominata ai sensi dell’articolo 104 della Legge n.30/1998 e successive modifiche, che si avvale, a tal fine, dell’attività di segreteria, di istruttoria e supporto tecnico amministrativo dell’UO Ragioneria Generale dello Stato.
+1\. Il controllo di legittimità successivo a campione è esercitato dalla Commissione di Controllo della Finanza Pubblica (di seguito brevemente CCFP), nominata ai sensi dell’articolo 104 della Legge n.30/1998 e successive modifiche, che si avvale, a tal fine, dell’attività di segreteria, di istruttoria e supporto tecnico amministrativo dell’UO Ragioneria Generale dello Stato.
 
 ##### Art.4
 
 (Oggetto e contenuti del controllo di legittimità successivo a campione)
 
-1.
-
-Sono soggetti al controllo di legittimità successivo a campione tutti gli atti e provvedimenti amministrativi immediatamente esecutivi ai sensi dell’articolo 107, comma 2 lettera a) della Legge n.30/1998 e successive modifiche, così come di seguito indicato: a) fino ad euro
+1\. Sono soggetti al controllo di legittimità successivo a campione tutti gli atti e provvedimenti amministrativi immediatamente esecutivi ai sensi dell’articolo 107, comma 2 lettera a) della Legge n.30/1998 e successive modifiche, così come di seguito indicato: a) fino ad euro
 
 25.000,00 (venticinquemila/00) per spese che incidono direttamente sulla gestione del bilancio dello Stato autorizzati dal direttore, dal dirigente, dal funzionario delegato, o dal dipendente direttamente coinvolto. Nella fattispecie di cui alla presente lettera sono compresi i provvedimenti di autorizzazione della spesa per forniture o somministrazione di beni e servizi alla Pubblica Amministrazione;
 
@@ -2963,9 +2743,7 @@ b) fino ad euro 2.600,00 (duemilaseicento/00) per spese autorizzate dai Segretar
 
 c) fino ad euro 5.000,00 (cinquemila/00) per spese relative a collaborazioni, consulenze e incarichi professionali autorizzati dal direttore, dal dirigente, dal funzionario delegato, o dal dipendente direttamente coinvolto.
 
-2.
-
-Il controllo di legittimità successivo a campione ha come obiettivo l’accertamento della legittimità dell’azione amministrativa, attraverso la verifica degli atti e dei relativi procedimenti amministrativi dello Stato, e consiste nell'accertamento dei seguenti requisiti:
+2\. Il controllo di legittimità successivo a campione ha come obiettivo l’accertamento della legittimità dell’azione amministrativa, attraverso la verifica degli atti e dei relativi procedimenti amministrativi dello Stato, e consiste nell'accertamento dei seguenti requisiti:
 
 a) la conformità degli atti alle disposizioni della Legge n.30/1998 e successive modifiche, al Regolamento di contabilità, alle leggi di Bilancio, nonché alle leggi, normative e disposizioni amministrative in vigore;
 
@@ -2981,67 +2759,43 @@ e) l’esatta identificazione del beneficiario sulla base dell’autorizzazione 
 
 (Tecniche di campionamento)
 
-1.
+1\. La selezione degli atti da sottoporre a controllo di legittimità successivo a campione è effettuata mediante campionamento casuale semplice, utilizzando una procedura informatica contenuta in una specifica sezione dell’applicativo Pratico. Tale procedura è idonea a garantire la rappresentatività e rispondere ai principi di casualità, perequazione, trasparenza e non discriminazione. Ogni unità organizzativa o Autorità è inclusa nel campione.
 
-La selezione degli atti da sottoporre a controllo di legittimità successivo a campione è effettuata mediante campionamento casuale semplice, utilizzando una procedura informatica contenuta in una specifica sezione dell’applicativo Pratico. Tale procedura è idonea a garantire la rappresentatività e rispondere ai principi di casualità, perequazione, trasparenza e non discriminazione. Ogni unità organizzativa o Autorità è inclusa nel campione.
+2\. La casualità del campionamento è ottenuta estraendo le autorizzazioni di spesa da un elenco, denominato “lista di campionamento”, che include tutti gli atti di spesa potenzialmente soggetti al controllo di legittimità successivo a campione.
 
-2.
-
-La casualità del campionamento è ottenuta estraendo le autorizzazioni di spesa da un elenco, denominato “lista di campionamento”, che include tutti gli atti di spesa potenzialmente soggetti al controllo di legittimità successivo a campione.
-
-3.
-
-La percentuale degli atti da assoggettare al controllo di legittimità successivo a campione è pari al 10 per cento delle autorizzazioni di spesa sottoscritte e perfezionate dalle singole unità organizzative o Autorità per ciascun trimestre di riferimento, a partire dal 1° gennaio 2026.
+3\. La percentuale degli atti da assoggettare al controllo di legittimità successivo a campione è pari al 10 per cento delle autorizzazioni di spesa sottoscritte e perfezionate dalle singole unità organizzative o Autorità per ciascun trimestre di riferimento, a partire dal 1° gennaio 2026.
 
 Qualora il numero delle autorizzazioni di spesa di una singola unità organizzativa o Autorità nel trimestre di riferimento sia inferiore a dieci unità, sarà comunque oggetto di controllo una singola autorizzazione di spesa.
 
-4.
-
-Rientrano nella “lista di campionamento” del trimestre di riferimento anche le autorizzazioni di aumento di spesa.
+4\. Rientrano nella “lista di campionamento” del trimestre di riferimento anche le autorizzazioni di aumento di spesa.
 
 In caso di estrazione di autorizzazioni di aumento di spesa, il controllo di legittimità successivo a campione riguarderà l’intera spesa complessivamente autorizzata, inclusa quella autorizzata in trimestri precedenti, e non solo la variazione in aumento.
 
-5.
+5\. L’estrazione degli atti da sottoporre al controllo viene eseguita al massimo entro il bimestre successivo al trimestre oggetto del controllo. Entro il semestre successivo al trimestre oggetto del controllo deve essere completato il controllo di legittimità successivo a campione da parte della CCFP, ad eccezione delle pratiche per le quali il referto preliminare evidenzi eventuali irregolarità riscontrate; in tal caso la CCFP è tenuta ad adottare il referto definitivo entro il trimestre successivo.
 
-L’estrazione degli atti da sottoporre al controllo viene eseguita al massimo entro il bimestre successivo al trimestre oggetto del controllo. Entro il semestre successivo al trimestre oggetto del controllo deve essere completato il controllo di legittimità successivo a campione da parte della CCFP, ad eccezione delle pratiche per le quali il referto preliminare evidenzi eventuali irregolarità riscontrate; in tal caso la CCFP è tenuta ad adottare il referto definitivo entro il trimestre successivo.
-
-6.
-
-Il Congresso di Stato, su proposta della Segreteria di Stato per le Finanze e il Bilancio, ha la facoltà di modificare con delibera la percentuale degli atti da sottoporre a controllo, di cui al comma 3, ovvero di prevedere controlli mirati su specifiche tipologie di spese.
+6\. Il Congresso di Stato, su proposta della Segreteria di Stato per le Finanze e il Bilancio, ha la facoltà di modificare con delibera la percentuale degli atti da sottoporre a controllo, di cui al comma 3, ovvero di prevedere controlli mirati su specifiche tipologie di spese.
 
 ##### Art.6
 
 (Procedura e modalità operative per l’esame degli atti)
 
-1.
-
-L’estrazione degli atti avviene durante la seduta della CCFP, da parte dell’UO Ragioneria Generale dello Stato, con riferimento alle attività di estrazione degli atti e alla predisposizione
+1\. L’estrazione degli atti avviene durante la seduta della CCFP, da parte dell’UO Ragioneria Generale dello Stato, con riferimento alle attività di estrazione degli atti e alla predisposizione
 
 della “lista di campionamento”. Gli atti estratti dalla “lista di campionamento” sono allegati al verbale di estrazione della CCFP e ne costituiscono parte integrante.
 
-2.
+2\. Gli atti estratti dalla “lista di campionamento”, successivamente alla seduta di cui al comma 1, sono repertoriati nell’applicativo Legit, e un avviso dell’avvenuta estrazione è protocollato ed inviato automaticamente, tramite l’applicativo Doqui Acta, all’unità organizzativa o Autorità interessata. Contestualmente, in automatico, sull’applicativo Doqui Acta è aperto, alla UO Ragioneria Generale dello Stato, anche il relativo fascicolo, uno per ogni atto estratto, riferito al controllo di legittimità successivo a campione.
 
-Gli atti estratti dalla “lista di campionamento”, successivamente alla seduta di cui al comma 1, sono repertoriati nell’applicativo Legit, e un avviso dell’avvenuta estrazione è protocollato ed inviato automaticamente, tramite l’applicativo Doqui Acta, all’unità organizzativa o Autorità interessata. Contestualmente, in automatico, sull’applicativo Doqui Acta è aperto, alla UO Ragioneria Generale dello Stato, anche il relativo fascicolo, uno per ogni atto estratto, riferito al controllo di legittimità successivo a campione.
+3\. Il direttore o dirigente o funzionario delegato o Segretario di Stato o Congresso di Stato o dipendente direttamente coinvolto, che ha autorizzato la spesa, deve completare i campi nella maschera dell’applicativo Pratico, inserendo i collegamenti informatici di tutti gli atti afferenti alla pratica emessi alla data di estrazione, classificati in Doqui Acta ed allegare PDF di altra documentazione utile, entro il termine di quindici giorni consecutivi al ricevimento dell’avviso di avvenuta estrazione.
 
-3.
+4\. La UO Ragioneria Generale dello Stato, ricevuta la conferma di completamento della maschera dell’applicativo Pratico di cui al comma 3, mette a disposizione della CCFP, a sua richiesta, la documentazione pervenuta in formato digitale, insieme al riepilogo redatto dalle singole unità organizzative e Autorità dei documenti pervenuti.
 
-Il direttore o dirigente o funzionario delegato o Segretario di Stato o Congresso di Stato o dipendente direttamente coinvolto, che ha autorizzato la spesa, deve completare i campi nella maschera dell’applicativo Pratico, inserendo i collegamenti informatici di tutti gli atti afferenti alla pratica emessi alla data di estrazione, classificati in Doqui Acta ed allegare PDF di altra documentazione utile, entro il termine di quindici giorni consecutivi al ricevimento dell’avviso di avvenuta estrazione.
-
-4.
-
-La UO Ragioneria Generale dello Stato, ricevuta la conferma di completamento della maschera dell’applicativo Pratico di cui al comma 3, mette a disposizione della CCFP, a sua richiesta, la documentazione pervenuta in formato digitale, insieme al riepilogo redatto dalle singole unità organizzative e Autorità dei documenti pervenuti.
-
-5.
-
-La CCFP, dopo aver esaminato le pratiche relative agli atti estratti, convoca la seduta per la redazione dei relativi referti, assistita da un dipendente dell’UO Ragioneria Generale dello Stato con funzioni di segreteria.
+5\. La CCFP, dopo aver esaminato le pratiche relative agli atti estratti, convoca la seduta per la redazione dei relativi referti, assistita da un dipendente dell’UO Ragioneria Generale dello Stato con funzioni di segreteria.
 
 ##### Art.7
 
 (Refertazione)
 
-1.
-
-A conclusione del controllo successivo di legittimità a campione, la CCFP redige:
+1\. A conclusione del controllo successivo di legittimità a campione, la CCFP redige:
 
 a) un referto preliminare con giudizio positivo e comunque senza rilievo;
 
@@ -3049,87 +2803,55 @@ b) un referto preliminare con evidenza di eventuali irregolarità riscontrate;
 
 c) un referto definitivo, successivo al referto preliminare con rilievi, che può concludersi con un giudizio positivo oppure con la conferma della fondatezza delle violazioni rilevate.
 
-2.
+2\. La CCFP redige il referto preliminare, di cui all’articolo 109, comma 5 della Legge n.30/1998 e successive modifiche, e in caso di riscontro di irregolarità, lo trasmette tempestivamente per via telematica, ai sensi dell’articolo 3, del comma 2 della Legge 20 luglio 2005 n.115, e comunque entro cinque giorni lavorativi, al direttore o dirigente o funzionario delegato o Segretario di Stato o Congresso di Stato o dipendente direttamente coinvolto. Tale soggetto ha facoltà, entro trenta giorni dal ricevimento del referto, di presentare memorie e controdeduzioni.
 
-La CCFP redige il referto preliminare, di cui all’articolo 109, comma 5 della Legge n.30/1998 e successive modifiche, e in caso di riscontro di irregolarità, lo trasmette tempestivamente per via telematica, ai sensi dell’articolo 3, del comma 2 della Legge 20 luglio 2005 n.115, e comunque entro cinque giorni lavorativi, al direttore o dirigente o funzionario delegato o Segretario di Stato o Congresso di Stato o dipendente direttamente coinvolto. Tale soggetto ha facoltà, entro trenta giorni dal ricevimento del referto, di presentare memorie e controdeduzioni.
-
-3.
-
-Acquisite le memorie e controdeduzioni, la CCFP, adotta entro i trenta giorni successivi, il referto definitivo, di cui all’articolo 109, comma 6 della Legge n.30/1998 e successive modifiche, prorogabili di ulteriori trenta giorni qualora la CCFP ritenga necessario effettuare ulteriori verifiche o approfondimenti. Il referto definitivo può concludersi con esito positivo oppure, accertata la fondatezza della violazione, confermare i rilievi già contestati, e deve essere trasmesso ai soggetti di cui al comma 2.
+3\. Acquisite le memorie e controdeduzioni, la CCFP, adotta entro i trenta giorni successivi, il referto definitivo, di cui all’articolo 109, comma 6 della Legge n.30/1998 e successive modifiche, prorogabili di ulteriori trenta giorni qualora la CCFP ritenga necessario effettuare ulteriori verifiche o approfondimenti. Il referto definitivo può concludersi con esito positivo oppure, accertata la fondatezza della violazione, confermare i rilievi già contestati, e deve essere trasmesso ai soggetti di cui al comma 2.
 
 ##### Art.8
 
 (Segnalazioni)
 
-1.
+1\. Qualora la CCFP accerti, nel referto definitivo, la fondatezza della violazione, procede ai sensi dell’articolo 119, comma 2 della Legge n.30/1998, fatte, comunque, salve le segnalazioni all’Autorità giudiziaria, ove ne sussistano i presupposti, anche ai sensi dell’articolo 7 della Legge n.141/2014.
 
-Qualora la CCFP accerti, nel referto definitivo, la fondatezza della violazione, procede ai sensi dell’articolo 119, comma 2 della Legge n.30/1998, fatte, comunque, salve le segnalazioni all’Autorità giudiziaria, ove ne sussistano i presupposti, anche ai sensi dell’articolo 7 della Legge n.141/2014.
-
-2.
-
-Del referto definitivo di cui al comma 1 viene data comunicazione al Direttore della
+2\. Del referto definitivo di cui al comma 1 viene data comunicazione al Direttore della
 
 Funzione Pubblica, in relazione a tutto il Settore Pubblico Allargato, per la comminazione delle eventuali sanzioni disciplinari ai sensi dell’articolo 109, comma 6 della Legge n.30/1998 e successive modifiche.
 
-3.
+3\. La CCFP, qualora ritenga che la violazione sia suscettibile di avere determinato un danno erariale, conferisce mandato direttamente all’UO Avvocatura dello Stato per l’avvio di causa civile ai sensi dell’articolo 109, comma 7 della Legge n.30/1998 e successive modifiche.
 
-La CCFP, qualora ritenga che la violazione sia suscettibile di avere determinato un danno erariale, conferisce mandato direttamente all’UO Avvocatura dello Stato per l’avvio di causa civile ai sensi dell’articolo 109, comma 7 della Legge n.30/1998 e successive modifiche.
-
-4.
-
-I destinatari del referto definitivo, che accerti la fondatezza della violazione e, se del caso, i destinatari indicati nei commi precedenti, informano la CCFP sulle iniziative adottate, comprese le sanzioni disciplinari eventualmente comminate ai responsabili.
+4\. I destinatari del referto definitivo, che accerti la fondatezza della violazione e, se del caso, i destinatari indicati nei commi precedenti, informano la CCFP sulle iniziative adottate, comprese le sanzioni disciplinari eventualmente comminate ai responsabili.
 
 ##### Art.9
 
 (Controllo di legittimità successivo su segnalazione)
 
-1.
+1\. Le segnalazioni, debitamente motivate e sottoscritte, pervenute da agenti pubblici ai sensi dell’articolo 7 della Legge n.141/2014, nonché da cittadini, residenti e operatori economici, devono essere trasmesse in forma scritta alla Direzione Generale della Funzione Pubblica, che ne valuta l’ammissibilità in relazione alle finalità del controllo di legittimità successivo.
 
-Le segnalazioni, debitamente motivate e sottoscritte, pervenute da agenti pubblici ai sensi dell’articolo 7 della Legge n.141/2014, nonché da cittadini, residenti e operatori economici, devono essere trasmesse in forma scritta alla Direzione Generale della Funzione Pubblica, che ne valuta l’ammissibilità in relazione alle finalità del controllo di legittimità successivo.
+2\. Le segnalazioni ritenute ammissibili sono comunicate alla CCFP, che procede al controllo di legittimità successivo se riferite ad atti e provvedimenti di cui all’articolo 4, comma 1.
 
-2.
+3\. Il controllo di legittimità successivo sugli atti segnalati e trasmessi dalla Direzione Generale della Funzione Pubblica, ha lo stesso contenuto previsto dall’articolo 4 e segue le medesime modalità procedurali di cui all’articolo 6.
 
-Le segnalazioni ritenute ammissibili sono comunicate alla CCFP, che procede al controllo di legittimità successivo se riferite ad atti e provvedimenti di cui all’articolo 4, comma 1.
-
-3.
-
-Il controllo di legittimità successivo sugli atti segnalati e trasmessi dalla Direzione Generale della Funzione Pubblica, ha lo stesso contenuto previsto dall’articolo 4 e segue le medesime modalità procedurali di cui all’articolo 6.
-
-4.
-
-L’avviso inviato automaticamente all’unità organizzativa o Autorità interessata, di cui all’articolo 6, comma 2 deve indicare che il controllo è stato avviato a seguito di una segnalazione.
+4\. L’avviso inviato automaticamente all’unità organizzativa o Autorità interessata, di cui all’articolo 6, comma 2 deve indicare che il controllo è stato avviato a seguito di una segnalazione.
 
 ##### Art.10
 
 (Controllo di legittimità successivo sugli atti di spesa per i quali è previsto il controllo preventivo di legittimità ma dichiarati immediatamente esecutivi)
 
-1.
+1\. Gli atti di spesa per i quali è previsto il controllo preventivo di legittimità, ma dichiarati immediatamente esecutivi sotto la propria responsabilità dal Congresso di Stato, dai Direttori di Dipartimenti, dai Dirigenti e dai funzionari delegati, riguardanti spese aventi carattere d’urgenza ed indifferibilità ai sensi dell’articolo 23, comma sesto del Decreto n.53/2003 e successive modifiche, comportano automaticamente, da parte degli stessi, la registrazione del relativo impegno o dei relativi impegni di spesa e l’autorizzazione all’esecutività della spesa sul Bilancio dello Stato. Gli atti dichiarati immediatamente esecutivi sono segnalati dall’applicativo Pratico, in via automatica, all’UO Ragioneria Generale dello Stato e comunicati nella prima seduta utile alla CCFP.
 
-Gli atti di spesa per i quali è previsto il controllo preventivo di legittimità, ma dichiarati immediatamente esecutivi sotto la propria responsabilità dal Congresso di Stato, dai Direttori di Dipartimenti, dai Dirigenti e dai funzionari delegati, riguardanti spese aventi carattere d’urgenza ed indifferibilità ai sensi dell’articolo 23, comma sesto del Decreto n.53/2003 e successive modifiche, comportano automaticamente, da parte degli stessi, la registrazione del relativo impegno o dei relativi impegni di spesa e l’autorizzazione all’esecutività della spesa sul Bilancio dello Stato. Gli atti dichiarati immediatamente esecutivi sono segnalati dall’applicativo Pratico, in via automatica, all’UO Ragioneria Generale dello Stato e comunicati nella prima seduta utile alla CCFP.
+2\. Gli atti di spesa per i quali è previsto il controllo preventivo di legittimità, dichiarati immediatamente esecutivi dai competenti organi degli Enti del Settore Pubblico Allargato e delle Aziende Autonome di Stato, ai sensi dell’articolo 107, comma 3 della Legge n.30/1998 e successive modifiche, sono comunicati, sotto la propria responsabilità, dai medesimi organi alla CCFP.
 
-2.
+3\. Il controllo di legittimità successivo per tutti gli atti di spesa dichiarati immediatamente esecutivi di cui ai commi 1 e 2 ha gli stessi contenuti del controllo successivo di legittimità di cui all’articolo 4 ed è espletato nelle modalità stabilite dall’articolo 23, comma settimo del Decreto Delegato n.53/2003 e successive modifiche, previo invio di tutta la documentazione necessaria alla CCFP da parte del soggetto che ha dichiarato l’atto di spesa immediatamente esecutivo sotto la propria responsabilità.
 
-Gli atti di spesa per i quali è previsto il controllo preventivo di legittimità, dichiarati immediatamente esecutivi dai competenti organi degli Enti del Settore Pubblico Allargato e delle Aziende Autonome di Stato, ai sensi dell’articolo 107, comma 3 della Legge n.30/1998 e successive modifiche, sono comunicati, sotto la propria responsabilità, dai medesimi organi alla CCFP.
-
-3.
-
-Il controllo di legittimità successivo per tutti gli atti di spesa dichiarati immediatamente esecutivi di cui ai commi 1 e 2 ha gli stessi contenuti del controllo successivo di legittimità di cui all’articolo 4 ed è espletato nelle modalità stabilite dall’articolo 23, comma settimo del Decreto Delegato n.53/2003 e successive modifiche, previo invio di tutta la documentazione necessaria alla CCFP da parte del soggetto che ha dichiarato l’atto di spesa immediatamente esecutivo sotto la propria responsabilità.
-
-4.
-
-Il controllo di legittimità successivo per tutti gli atti di spesa dichiarati immediatamente esecutivi è esercitato dalla CCFP, ai sensi dell'articolo 109, comma 2 della Legge n.30/1998 e successive modifiche, la quale si avvale, a tal fine, della UO Ragioneria Generale dello Stato.
+4\. Il controllo di legittimità successivo per tutti gli atti di spesa dichiarati immediatamente esecutivi è esercitato dalla CCFP, ai sensi dell'articolo 109, comma 2 della Legge n.30/1998 e successive modifiche, la quale si avvale, a tal fine, della UO Ragioneria Generale dello Stato.
 
 ##### Art.11
 
 (Relazione annuale e trimestrale sull’esito del controllo successivo)
 
-1.
+1\. La CCFP redige e trasmette annualmente una relazione sull’attività di controllo svolta nell’anno di riferimento al Segretario di Stato per le Finanze e il Bilancio ed al Consiglio Grande e Generale. La relazione contiene i dati statistici relativi all’andamento e all’esito del controllo nel periodo considerato, gli interventi e le misure correttive adottate, nonché ogni altro elemento informativo ritenuto utile.
 
-La CCFP redige e trasmette annualmente una relazione sull’attività di controllo svolta nell’anno di riferimento al Segretario di Stato per le Finanze e il Bilancio ed al Consiglio Grande e Generale. La relazione contiene i dati statistici relativi all’andamento e all’esito del controllo nel periodo considerato, gli interventi e le misure correttive adottate, nonché ogni altro elemento informativo ritenuto utile.
-
-2.
-
-La CCFP è altresì tenuta a redigere e trasmettere trimestralmente al Segretario di Stato per le Finanze e il Bilancio una relazione sugli esiti del controllo di legittimità successivo effettuato:
+2\. La CCFP è altresì tenuta a redigere e trasmettere trimestralmente al Segretario di Stato per le Finanze e il Bilancio una relazione sugli esiti del controllo di legittimità successivo effettuato:
 
 a) sugli atti di spesa soggetti al controllo di legittimità successivo a campione;
 
@@ -3137,22 +2859,14 @@ b) sugli atti soggetti al controllo di legittimità successivo a seguito di segn
 
 c) sugli atti per i quali è previsto il controllo preventivo di legittimità ma dichiarati immediatamente esecutivi.
 
-3.
-
-La relazione può altresì contenere suggerimenti per l’adozione di disposizioni regolamentari finalizzate a colmare lacune o ad attuare disposizioni in materia di procedure contabili.
+3\. La relazione può altresì contenere suggerimenti per l’adozione di disposizioni regolamentari finalizzate a colmare lacune o ad attuare disposizioni in materia di procedure contabili.
 
 ##### Art.12
 
 (Norme finali, di coordinamento e transitorie)
 
-1.
+1\. Le autorizzazioni di aumento di spesa di cui all’articolo 5, comma 4, qualora riferite ad autorizzazioni di spesa iniziali antecedenti al 1° gennaio 2026, non sono soggette al controllo di legittimità successivo a campione.
 
-Le autorizzazioni di aumento di spesa di cui all’articolo 5, comma 4, qualora riferite ad autorizzazioni di spesa iniziali antecedenti al 1° gennaio 2026, non sono soggette al controllo di legittimità successivo a campione.
+2\. Alla Ragioneria Generale dello Stato viene assicurato un fabbisogno adeguato di personale in possesso di competenze in materia giuridica, amministrativa e contabile, e professionalmente qualificato all’assolvimento delle nuove funzioni assegnate. Detto personale è definito nel prossimo fabbisogno.
 
-2.
-
-Alla Ragioneria Generale dello Stato viene assicurato un fabbisogno adeguato di personale in possesso di competenze in materia giuridica, amministrativa e contabile, e professionalmente qualificato all’assolvimento delle nuove funzioni assegnate. Detto personale è definito nel prossimo fabbisogno.
-
-3.
-
-L’efficacia delle disposizioni di cui al presente regolamento decorre a far data dal 1° gennaio 2026.
+3\. L’efficacia delle disposizioni di cui al presente regolamento decorre a far data dal 1° gennaio 2026.

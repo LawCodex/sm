@@ -46,21 +46,15 @@ DECRETO DELEGATO 25 giugno 2018 n.72 DISPOSIZIONI IN MATERIA DI CREDITO AGEVOLAT
 
 (Finalità)
 
-1.
-
-Il presente provvedimento ha lo scopo di sostenere e incentivare lo sviluppo economico della Repubblica di San Marino attraverso l’erogazione di prestiti a tasso agevolato destinati all’avvio di nuove attività economiche e qualificazione, diversificazione e consolidamento delle imprese esistenti. Il Congresso di Stato, a tal fine, è autorizzato a stipulare, con Istituti di Credito, convenzioni istitutive di aperture di credito in relazione a quanto previsto dal presente decreto delegato nonché a reperire finanziamenti internazionali a tasso agevolato nell’entità prevista annualmente dalla legge di approvazione del bilancio dello Stato.
+1\. Il presente provvedimento ha lo scopo di sostenere e incentivare lo sviluppo economico della Repubblica di San Marino attraverso l’erogazione di prestiti a tasso agevolato destinati all’avvio di nuove attività economiche e qualificazione, diversificazione e consolidamento delle imprese esistenti. Il Congresso di Stato, a tal fine, è autorizzato a stipulare, con Istituti di Credito, convenzioni istitutive di aperture di credito in relazione a quanto previsto dal presente decreto delegato nonché a reperire finanziamenti internazionali a tasso agevolato nell’entità prevista annualmente dalla legge di approvazione del bilancio dello Stato.
 
 ### Art. 2
 
 (Ambito di applicazione)
 
-1.
+1\. Possono godere dei benefici derivanti dal presente decreto delegato gli operatori economici che svolgono attività di impresa nel settore industriale, di servizio, artigianale e commerciale in qualsiasi veste giuridica.
 
-Possono godere dei benefici derivanti dal presente decreto delegato gli operatori economici che svolgono attività di impresa nel settore industriale, di servizio, artigianale e commerciale in qualsiasi veste giuridica.
-
-2.
-
-Sono esclusi dai benefici del presente decreto delegato:
+2\. Sono esclusi dai benefici del presente decreto delegato:
 
 a) i soggetti che svolgono attività bancaria, di finanziamento, di locazione finanziaria, così come individuate dalla Legge 17 novembre 2005 n.165 e successive modifiche, nonché le società di cui esse siano socie qualora la partecipazione superi il quinto del capitale sociale e il finanziamento sia erogato da diverso istituto;
 
@@ -78,43 +72,27 @@ c) le società che esercitano, in qualsiasi forma e anche parzialmente, l’atti
 
 (Compatibilità con altre agevolazioni)
 
-1.
-
-I finanziamenti previsti dal presente decreto delegato non sono fra loro cumulabili salvo il caso in cui siano parte di un unico progetto di investimento e non sono cumulabili sul medesimo investimento con altre forme di credito agevolato che
+1\. I finanziamenti previsti dal presente decreto delegato non sono fra loro cumulabili salvo il caso in cui siano parte di un unico progetto di investimento e non sono cumulabili sul medesimo investimento con altre forme di credito agevolato che
 
 prevedano un contributo in conto interessi a carico dello Stato. L’importo finanziato non può eccedere in alcun caso l’ammontare degli oneri connessi alla realizzazione del progetto.
 
-2.
+2\. Inoltre non è ammesso alcun finanziamento, in base al presente decreto delegato, agli operatori economici beneficiari di agevolazioni fiscali in materia di imposte dirette ed in materia di aliquota dell’imposta sulle importazioni ai sensi del Decreto 20 luglio 2004 n. 100, sui medesimi beni o progetti già oggetto delle agevolazioni fiscali.
 
-Inoltre non è ammesso alcun finanziamento, in base al presente decreto delegato, agli operatori economici beneficiari di agevolazioni fiscali in materia di imposte dirette ed in materia di aliquota dell’imposta sulle importazioni ai sensi del Decreto 20 luglio 2004 n. 100, sui medesimi beni o progetti già oggetto delle agevolazioni fiscali.
-
-3.
-
-È consentito rinunciare da parte dell’operatore economico ai benefici di cui al comma precedente optando per le agevolazioni previste dal presente decreto delegato. Tale opzione viene esercitata presentando la richiesta di credito agevolato di cui all'articolo 14 e decorre dal periodo di imposta corrispondente all’anno di presentazione della predetta richiesta. L’Ufficio Tributario è informato in merito dall’Ufficio Attività Economiche.
+3\. È consentito rinunciare da parte dell’operatore economico ai benefici di cui al comma precedente optando per le agevolazioni previste dal presente decreto delegato. Tale opzione viene esercitata presentando la richiesta di credito agevolato di cui all'articolo 14 e decorre dal periodo di imposta corrispondente all’anno di presentazione della predetta richiesta. L’Ufficio Tributario è informato in merito dall’Ufficio Attività Economiche.
 
 ### Art. 4
 
 (Requisiti per l'accesso ai finanziamenti)
 
-1.
+1\. Costituiscono requisiti essenziali per la presentazione della domanda di accesso ai benefici derivanti dal presente decreto delegato, e per l'esame della relativa richiesta di cui all'articolo 14, essere titolari di licenza per l'esercizio di attività industriali, di servizio, artigianali o commerciali, in stato attivo, alla data di presentazione della domanda.
 
-Costituiscono requisiti essenziali per la presentazione della domanda di accesso ai benefici derivanti dal presente decreto delegato, e per l'esame della relativa richiesta di cui all'articolo 14, essere titolari di licenza per l'esercizio di attività industriali, di servizio, artigianali o commerciali, in stato attivo, alla data di presentazione della domanda.
+2\. È altresì ammissibile la richiesta di coloro che avendo presentato istanza per il rilascio di licenza si impegnino all’assunzione di almeno un dipendente, iscritto nelle liste di avviamento al lavoro, a tempo indeterminato entro 6 mesi dal rilascio della licenza, a pena di revoca del credito agevolato concesso e fermo restando l’obbligo di restituzione di quanto già erogato.
 
-2.
+3\. Qualora i progetti per i quali si richiedono i finanziamenti agevolati prevedano requisiti occupazionali superiori, le imprese di cui al comma 2 devono soddisfare quanto richiesto entro 6 mesi dall’ottenimento del finanziamento, a pena di revoca del credito agevolato concesso e fermo restando l’obbligo di restituzione di quanto già erogato
 
-È altresì ammissibile la richiesta di coloro che avendo presentato istanza per il rilascio di licenza si impegnino all’assunzione di almeno un dipendente, iscritto nelle liste di avviamento al lavoro, a tempo indeterminato entro 6 mesi dal rilascio della licenza, a pena di revoca del credito agevolato concesso e fermo restando l’obbligo di restituzione di quanto già erogato.
+4\. Quando il richiedente sia costituito in forma di società di capitali, questi deve avere il capitale sociale versato secondo quanto previsto dalla normativa vigente in materia societaria.
 
-3.
-
-Qualora i progetti per i quali si richiedono i finanziamenti agevolati prevedano requisiti occupazionali superiori, le imprese di cui al comma 2 devono soddisfare quanto richiesto entro 6 mesi dall’ottenimento del finanziamento, a pena di revoca del credito agevolato concesso e fermo restando l’obbligo di restituzione di quanto già erogato
-
-4.
-
-Quando il richiedente sia costituito in forma di società di capitali, questi deve avere il capitale sociale versato secondo quanto previsto dalla normativa vigente in materia societaria.
-
-5.
-
-È precluso l’accesso ai finanziamenti di cui al presente decreto delegato alle imprese che alla data di presentazione della richiesta ricadano in almeno una delle seguenti condizioni:
+5\. È precluso l’accesso ai finanziamenti di cui al presente decreto delegato alle imprese che alla data di presentazione della richiesta ricadano in almeno una delle seguenti condizioni:
 
 a) siano soggetti inidonei ai sensi della normativa vigente in materia societaria e in materia di licenze,
 
@@ -130,17 +108,13 @@ e) che abbiano meno di un dipendente assunto dalle liste di avviamento al lavoro
 
 (Progetti finanziabili)
 
-1.
-
-Il Comitato di cui all’articolo 15 ammette ai finanziamenti previsti dal presente decreto delegato, i progetti aziendali che prevedano nuovi investimenti tesi ad uno sviluppo dell’impresa e/o ad un suo riposizionamento sul mercato e/o al mantenimento della sua capacità competitiva e che, fatte salve specifiche deroghe previste dal presente decreto delegato, comportino il mantenimento o l’incremento del numero delle risorse umane occupate nell’impresa stessa nel rispetto dei limiti minimi occupazionali previsti. Sono, altresì, considerati ammissibili gli investimenti in corso da non più di sei mesi dalla data della richiesta a decorrere dal primo acquisto di beni oggetto dell’investimento.
+1\. Il Comitato di cui all’articolo 15 ammette ai finanziamenti previsti dal presente decreto delegato, i progetti aziendali che prevedano nuovi investimenti tesi ad uno sviluppo dell’impresa e/o ad un suo riposizionamento sul mercato e/o al mantenimento della sua capacità competitiva e che, fatte salve specifiche deroghe previste dal presente decreto delegato, comportino il mantenimento o l’incremento del numero delle risorse umane occupate nell’impresa stessa nel rispetto dei limiti minimi occupazionali previsti. Sono, altresì, considerati ammissibili gli investimenti in corso da non più di sei mesi dalla data della richiesta a decorrere dal primo acquisto di beni oggetto dell’investimento.
 
 ### Art. 6
 
 (Progetti finanziabili per attività industriale)
 
-1.
-
-L’operatore economico titolare di licenza per l’esercizio dell’attività industriale in forza della normativa in materia di licenze, può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di euro 1.000.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
+1\. L’operatore economico titolare di licenza per l’esercizio dell’attività industriale in forza della normativa in materia di licenze, può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di euro 1.000.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
 
 a) all’acquisizione di beni strumentali materiali inerenti l’attività: impianti, attrezzature e macchinari per un valore complessivo minimo di euro 50.000,00 purché alla data di ultima erogazione l’operatore abbia almeno 2 dipendenti a tempo indeterminato se è una società, ovvero un dipendente a tempo indeterminato se impresa individuale. La durata massima del mutuo è di 5 anni con contributo in conto interessi da parte dello Stato pari al 70% del tasso convenzionato. L’investimento si ritiene concluso nei termini richiesti dal presente decreto delegato quando al massimo entro sei mesi dalla erogazione, ovvero dall’ultima erogazione qualora ricorra la situazione di cui all’articolo 18, comma 1, sia stato aggiornato l’avvio alla produzione ove ciò sia richiesto dalle specifiche normative di settore;
 
@@ -156,9 +130,7 @@ d) sono altresì ammissibili investimenti di importo minimo pari a euro 200.000,
 
 (Progetti finanziabili per attività di servizio)
 
-1.
-
-L’operatore economico titolare di licenza per l’esercizio dell’attività di servizio in forza della normativa in materia di licenze può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di euro 500.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
+1\. L’operatore economico titolare di licenza per l’esercizio dell’attività di servizio in forza della normativa in materia di licenze può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di euro 500.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
 
 a) all’acquisizione di impianti, attrezzature e macchinari; per un valore complessivo minimo di euro 30.000,00 a condizione che l’operatore alla data dell’ultima erogazione abbia almeno due dipendenti assunti a tempo indeterminato se è una società, ovvero un dipendente a tempo indeterminato se impresa individuale. La durata massima del mutuo è di cinque anni con contributo in conto interessi da parte dello Stato pari al 70% del tasso convenzionato. L’investimento si ritiene concluso nei termini richiesti dal presente decreto delegato quando al massimo entro sei mesi dalla erogazione, ovvero dall’ultima erogazione qualora ricorra la situazione di cui all’articolo 18, comma 1, sia stato aggiornato l’avvio alla produzione ove ciò sia richiesto dalle specifiche normative di settore;
 
@@ -176,9 +148,7 @@ d) sono altresì ammissibili investimenti di importo minimo pari a euro 200.000,
 
 (Progetti finanziabili per attività artigianale)
 
-1.
-
-L’operatore economico titolare di licenza per l’esercizio dell’attività artigianale in forza della normativa in materia di licenze può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di euro 500.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
+1\. L’operatore economico titolare di licenza per l’esercizio dell’attività artigianale in forza della normativa in materia di licenze può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di euro 500.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
 
 a) all’acquisizione, da parte di titolari di licenza artigianale di produzione e di servizio, di beni strumentali materiali inerenti l'attività: impianti, attrezzature e macchinari per un valore complessivo minimo di euro 20.000,00 purché:
 
@@ -204,9 +174,7 @@ d) sono altresì ammissibili investimenti di importo minimo pari a euro 100.000,
 
 (Progetti finanziabili per attività commerciale)
 
-1.
-
-L’operatore economico titolare di licenza per l’esercizio dell’attività commerciale in forza della normativa in materia di licenze può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di euro 500.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
+1\. L’operatore economico titolare di licenza per l’esercizio dell’attività commerciale in forza della normativa in materia di licenze può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di euro 500.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
 
 a) all’acquisizione di beni strumentali materiali inerenti l’attività: impianti, attrezzature e macchinari per un valore complessivo minimo di:
 
@@ -228,17 +196,13 @@ e) ulteriori progetti di finanziamento potranno essere previsti nell’ambito de
 
 (Progetti finanziabili per attività ricettive)
 
-1.
-
-All’operatore economico titolare di licenza che svolge una delle attività ricettive di cui agli articoli 14, 15, 16, 17 e 18 della Legge 27 gennaio 2006 n.22, nonché a quelli svolgenti quale attività prevalente quella di logistica, deposito, trasporti, non si applica il criterio della proporzione metri quadri-numero di dipendenti di cui alla lettera b) degli articoli 6, 7, 8, e 9. Per tali attività l’importo finanziabile massimo è di euro 1.000.000,00. La durata massima del mutuo è di dieci anni con contributo in conto interessi da parte dello Stato pari al 70% del tasso convenzionato. Gli operatori economici di cui al presente comma possono accedere, nell’arco temporale di due anni, ad un importo di credito agevolato massimo complessivo di euro 1.000.000,00 e per un massimo di due progetti così come individuabili in base alla tipologia della licenza rilasciata.
+1\. All’operatore economico titolare di licenza che svolge una delle attività ricettive di cui agli articoli 14, 15, 16, 17 e 18 della Legge 27 gennaio 2006 n.22, nonché a quelli svolgenti quale attività prevalente quella di logistica, deposito, trasporti, non si applica il criterio della proporzione metri quadri-numero di dipendenti di cui alla lettera b) degli articoli 6, 7, 8, e 9. Per tali attività l’importo finanziabile massimo è di euro 1.000.000,00. La durata massima del mutuo è di dieci anni con contributo in conto interessi da parte dello Stato pari al 70% del tasso convenzionato. Gli operatori economici di cui al presente comma possono accedere, nell’arco temporale di due anni, ad un importo di credito agevolato massimo complessivo di euro 1.000.000,00 e per un massimo di due progetti così come individuabili in base alla tipologia della licenza rilasciata.
 
 ### Art. 11
 
 (Disposizioni comuni)
 
-1.
-
-In riferimento ai progetti di investimento è stabilito che:
+1\. In riferimento ai progetti di investimento è stabilito che:
 
 a) non sono finanziabili costi per investimenti aventi ad oggetto beni mobili, anche registrati, usati;
 
@@ -248,53 +212,33 @@ c) sono ammissibili finanziamenti fra loro cumulabili qualora siano parte di un 
 
 d) i limiti numerici previsti, il cui mancato rispetto costituisce motivo di decadenza, devono essere reintegrati entro sessanta giorni.
 
-2.
-
-Qualora l’operatore economico sia in possesso di diverse tipologie di licenza alla data di richiesta di credito agevolato, l’accesso ai benefici previsti dal presente decreto delegato avviene, fermo restando il limite dei due progetti nell’arco temporale di due anni, entro l’importo massimo erogabile più favorevole in base alle tipologie di licenza di cui l’operatore economico è titolare. Nel caso il rilascio di altra tipologia della licenza avvenga successivamente alla prima richiesta di credito agevolato e la seconda richiesta nell’arco sempre temporale di due anni si riferisca alla nuova tipologia di licenza, si applica al secondo investimento il limite massimo ivi previsto dedotto il valore del primo investimento autorizzato.
+2\. Qualora l’operatore economico sia in possesso di diverse tipologie di licenza alla data di richiesta di credito agevolato, l’accesso ai benefici previsti dal presente decreto delegato avviene, fermo restando il limite dei due progetti nell’arco temporale di due anni, entro l’importo massimo erogabile più favorevole in base alle tipologie di licenza di cui l’operatore economico è titolare. Nel caso il rilascio di altra tipologia della licenza avvenga successivamente alla prima richiesta di credito agevolato e la seconda richiesta nell’arco sempre temporale di due anni si riferisca alla nuova tipologia di licenza, si applica al secondo investimento il limite massimo ivi previsto dedotto il valore del primo investimento autorizzato.
 
 ### Art. 12
 
 (Finanziamenti per immobili di proprietà dell’Ecc.ma Camera)
 
-1.
+1\. L’operatore economico di cui agli articoli 6, 7, 8, 9 e 10 che abbia già usufruito o stia usufruendo dei finanziamenti previsti dal presente decreto delegato, nella misura massima concessa per il tipo di licenza intestata, per progetti di investimento volti alla realizzazione di immobili, ampliamento locali e superfici di lavoro nonché al loro ammodernamento o ristrutturazione al fine di migliorare i processi produttivi, o la sicurezza sul luogo di lavoro o la riduzione di emissioni inquinanti, qualora l’immobile oggetto dell’investimento sia di proprietà dell’Ecc.ma Camera, può avere accesso ad ulteriore credito agevolato per interventi sul medesimo immobile.
 
-L’operatore economico di cui agli articoli 6, 7, 8, 9 e 10 che abbia già usufruito o stia usufruendo dei finanziamenti previsti dal presente decreto delegato, nella misura massima concessa per il tipo di licenza intestata, per progetti di investimento volti alla realizzazione di immobili, ampliamento locali e superfici di lavoro nonché al loro ammodernamento o ristrutturazione al fine di migliorare i processi produttivi, o la sicurezza sul luogo di lavoro o la riduzione di emissioni inquinanti, qualora l’immobile oggetto dell’investimento sia di proprietà dell’Ecc.ma Camera, può avere accesso ad ulteriore credito agevolato per interventi sul medesimo immobile.
+2\. La richiesta deve essere effettuata ai sensi dell’articolo 14.
 
-2.
+3\. Il Comitato di Valutazione di cui all’articolo 15, comma 1, provvede all’istruttoria della pratica entro trenta giorni dal ricevimento della domanda, provvede al suo esame e ne riferisce, per il tramite della Segreteria di Stato per l’Industria, Artigianato e Commercio, al Congresso di Stato per le deliberazioni di competenza.
 
-La richiesta deve essere effettuata ai sensi dell’articolo 14.
+4\. Il Congresso di Stato, vista la domanda ed il riferimento del Comitato di Valutazione, può deliberare la concessione del credito agevolato richiesto stipulando apposita convenzione con l’operatore economico, nella quale si stabilisce l’importo massimo finanziato, la durata e le modalità esecutive dell’erogazione del finanziamento, il termine di realizzazione del progetto, le garanzie sul finanziamento ricevuto nonché ogni altra prescrizione particolare. La delibera con la quale il Congresso di Stato nega la concessione del credito agevolato deve essere debitamente motivata.
 
-3.
+5\. Qualora si verifichino in fase di realizzazione del progetto di investimento variazioni significative rispetto alle previsioni del valore e delle caratteristiche del progetto stesso il Congresso di Stato, previo esame del Comitato di Valutazione, può deliberare la variazione della convenzione di cui al comma 4.
 
-Il Comitato di Valutazione di cui all’articolo 15, comma 1, provvede all’istruttoria della pratica entro trenta giorni dal ricevimento della domanda, provvede al suo esame e ne riferisce, per il tramite della Segreteria di Stato per l’Industria, Artigianato e Commercio, al Congresso di Stato per le deliberazioni di competenza.
+6\. La convenzione stipulata tra il Congresso di Stato e l’operatore economico di cui al comma 4, nonché le eventuali modifiche successive, è sottoposta all’approvazione del Consiglio Grande e Generale.
 
-4.
-
-Il Congresso di Stato, vista la domanda ed il riferimento del Comitato di Valutazione, può deliberare la concessione del credito agevolato richiesto stipulando apposita convenzione con l’operatore economico, nella quale si stabilisce l’importo massimo finanziato, la durata e le modalità esecutive dell’erogazione del finanziamento, il termine di realizzazione del progetto, le garanzie sul finanziamento ricevuto nonché ogni altra prescrizione particolare. La delibera con la quale il Congresso di Stato nega la concessione del credito agevolato deve essere debitamente motivata.
-
-5.
-
-Qualora si verifichino in fase di realizzazione del progetto di investimento variazioni significative rispetto alle previsioni del valore e delle caratteristiche del progetto stesso il Congresso di Stato, previo esame del Comitato di Valutazione, può deliberare la variazione della convenzione di cui al comma 4.
-
-6.
-
-La convenzione stipulata tra il Congresso di Stato e l’operatore economico di cui al comma 4, nonché le eventuali modifiche successive, è sottoposta all’approvazione del Consiglio Grande e Generale.
-
-7.
-
-Il contributo in conto interessi da parte dello Stato è pari al 70% del tasso convenzionato.
+7\. Il contributo in conto interessi da parte dello Stato è pari al 70% del tasso convenzionato.
 
 ### Art. 13
 
 (Finanziamenti convenzionati)
 
-1.
+1\. L’impresa che ponga in essere progetti di investimento in immobili, terreni, impianti, macchinari, beni strumentali materiali o immateriali o altri investimenti aventi l’obiettivo di sviluppare l’impresa e/o riposizionarla sul mercato e/o favorirne e migliorarne capacità competitiva, può sottoscrivere una specifica convenzione con il Congresso di Stato per l’ottenimento del credito agevolato in deroga ai limiti e alle condizioni previsti nel presente decreto delegato.
 
-L’impresa che ponga in essere progetti di investimento in immobili, terreni, impianti, macchinari, beni strumentali materiali o immateriali o altri investimenti aventi l’obiettivo di sviluppare l’impresa e/o riposizionarla sul mercato e/o favorirne e migliorarne capacità competitiva, può sottoscrivere una specifica convenzione con il Congresso di Stato per l’ottenimento del credito agevolato in deroga ai limiti e alle condizioni previsti nel presente decreto delegato.
-
-2.
-
-Qualora tali progetti abbiano ad oggetto l’acquisizione e realizzazione di immobili, l’ampliamento di locali e superfici di lavoro nonché il loro ammodernamento o ristrutturazione al fine di migliorare i processi produttivi, o la sicurezza sul luogo di lavoro o la riduzione di emissioni inquinanti, a condizione che si riferiscano a locali che già siano o divengano sede dell’attività, è necessario che il business plan preveda il soddisfacimento di almeno uno dei seguenti requisiti:
+2\. Qualora tali progetti abbiano ad oggetto l’acquisizione e realizzazione di immobili, l’ampliamento di locali e superfici di lavoro nonché il loro ammodernamento o ristrutturazione al fine di migliorare i processi produttivi, o la sicurezza sul luogo di lavoro o la riduzione di emissioni inquinanti, a condizione che si riferiscano a locali che già siano o divengano sede dell’attività, è necessario che il business plan preveda il soddisfacimento di almeno uno dei seguenti requisiti:
 
 a) l’assunzione di almeno 5 dipendenti a tempo indeterminato assunti dalle liste di avviamento al lavoro;
 
@@ -302,17 +246,11 @@ b) l’incremento della forza lavoro occupata di almeno il 20%, purché almeno i
 
 c) un incremento della tassazione pagata allo Stato, attraverso la tassazione sulle imprese e/o attraverso quella sui nuovi lavoratori impiegati e/o attraverso le imposte indirette nette versate, di valore comparabile con il contributo erogato dallo Stato.
 
-3.
+3\. La richiesta deve essere effettuata ai sensi dell’articolo 14 e deve essere corredata da uno specifico business plan nel quale si evincano, in aggiunta a quanto previsto all’articolo 14 e per gli investimenti di cui al comma 2, le valutazioni e i numeri che portano al soddisfacimento di almeno uno dei requisiti previsti nel comma 2 medesimo.
 
-La richiesta deve essere effettuata ai sensi dell’articolo 14 e deve essere corredata da uno specifico business plan nel quale si evincano, in aggiunta a quanto previsto all’articolo 14 e per gli investimenti di cui al comma 2, le valutazioni e i numeri che portano al soddisfacimento di almeno uno dei requisiti previsti nel comma 2 medesimo.
+4\. Il Comitato di Valutazione di cui all’articolo 15, comma 1, provvede all’istruttoria della pratica entro quindici giorni dal ricevimento della domanda, e ne riferisce, per il tramite della Segreteria di Stato per l’Industria, Artigianato e Commercio, al Congresso di Stato per le deliberazioni di competenza.
 
-4.
-
-Il Comitato di Valutazione di cui all’articolo 15, comma 1, provvede all’istruttoria della pratica entro quindici giorni dal ricevimento della domanda, e ne riferisce, per il tramite della Segreteria di Stato per l’Industria, Artigianato e Commercio, al Congresso di Stato per le deliberazioni di competenza.
-
-5.
-
-Il Congresso di Stato, vista la domanda ed il riferimento del Comitato di Valutazione, può deliberare la concessione del credito agevolato richiesto stipulando apposita convenzione con l’operatore economico, nella quale è stabilito:
+5\. Il Congresso di Stato, vista la domanda ed il riferimento del Comitato di Valutazione, può deliberare la concessione del credito agevolato richiesto stipulando apposita convenzione con l’operatore economico, nella quale è stabilito:
 
 a) l’importo massimo finanziato;
 
@@ -332,33 +270,21 @@ h) ogni altra prescrizione particolare.
 
 La delibera con la quale il Congresso di Stato nega la concessione del credito agevolato deve essere debitamente motivata.
 
-6.
+6\. Qualora si verifichino in fase di realizzazione del progetto di investimento variazioni significative rispetto alle previsioni del valore e delle caratteristiche del progetto stesso il Congresso di Stato, previo esame del Comitato di Valutazione, può deliberare la variazione della convenzione di cui al comma 5 o, qualora non vengano più rispettati i requisiti di cui al comma 2 se applicabili, la revoca della convenzione medesima.
 
-Qualora si verifichino in fase di realizzazione del progetto di investimento variazioni significative rispetto alle previsioni del valore e delle caratteristiche del progetto stesso il Congresso di Stato, previo esame del Comitato di Valutazione, può deliberare la variazione della convenzione di cui al comma 5 o, qualora non vengano più rispettati i requisiti di cui al comma 2 se applicabili, la revoca della convenzione medesima.
-
-7.
-
-La convenzione stipulata tra il Congresso di Stato e l’operatore economico di cui al comma 5, nonché le eventuali modifiche successive, è sottoposta all’approvazione del Consiglio Grande e Generale ed assume validità solamente a partire dall’approvazione stessa.
+7\. La convenzione stipulata tra il Congresso di Stato e l’operatore economico di cui al comma 5, nonché le eventuali modifiche successive, è sottoposta all’approvazione del Consiglio Grande e Generale ed assume validità solamente a partire dall’approvazione stessa.
 
 ### Art. 14
 
 (Richiesta di credito agevolato)
 
-1.
+1\. Le imprese che intendono usufruire dei finanziamenti previsti dal presente decreto delegato devono presentare apposita domanda in carta semplice al Comitato di Valutazione, presso l’Ufficio Attività Economiche.
 
-Le imprese che intendono usufruire dei finanziamenti previsti dal presente decreto delegato devono presentare apposita domanda in carta semplice al Comitato di Valutazione, presso l’Ufficio Attività Economiche.
+2\. La domanda, firmata dal legale rappresentante dell’impresa, rappresenta un impegno unilaterale dell’impresa verso lo Stato: chi sottoscrive la domanda si assume le conseguenti responsabilità di quanto viene dichiarato nella stessa.
 
-2.
+3\. La domanda deve indicare l’ammontare del finanziamento richiesto, i tempi e le modalità di erogazione dello stesso.
 
-La domanda, firmata dal legale rappresentante dell’impresa, rappresenta un impegno unilaterale dell’impresa verso lo Stato: chi sottoscrive la domanda si assume le conseguenti responsabilità di quanto viene dichiarato nella stessa.
-
-3.
-
-La domanda deve indicare l’ammontare del finanziamento richiesto, i tempi e le modalità di erogazione dello stesso.
-
-4.
-
-Alla domanda, a pena di inammissibilità ed irricevibilità della stessa, deve essere allegata una relazione contenente:
+4\. Alla domanda, a pena di inammissibilità ed irricevibilità della stessa, deve essere allegata una relazione contenente:
 
 a) la descrizione del progetto di investimento a norma dell’articolo 5 unitamente alla documentazione utile ad avvalorare le caratteristiche e il valore dell’investimento in riferimento all’attività svolta; attraverso il regolamento di cui all’articolo 29 può essere richiesta la fornitura di ulteriori specificazioni;
 
@@ -372,9 +298,7 @@ d) i tempi di attuazione del progetto ed ogni altro elemento utile alla valutazi
 
 (Modalità di autorizzazione del credito agevolato)
 
-1.
-
-Le domande per usufruire dei finanziamenti previsti sono esaminate dal Comitato di Valutazione in ordine di presentazione entro sessanta giorni lavorativi da quest’ultima, se non previsto diversamente dal presente decreto delegato.
+1\. Le domande per usufruire dei finanziamenti previsti sono esaminate dal Comitato di Valutazione in ordine di presentazione entro sessanta giorni lavorativi da quest’ultima, se non previsto diversamente dal presente decreto delegato.
 
 Il Comitato di Valutazione è composto come segue:
 
@@ -386,33 +310,19 @@ c) il direttore dell’Ufficio Attività di controllo o suo delegato.
 
 Sono invitati a presenziare, senza farne parte, a scopo conoscitivo e consultivo, un rappresentante per ciascuna delle associazioni sindacali e dei sindacati dei datori di lavoro giuridicamente riconosciute ai sensi del Titolo I della Legge n.7/1961 e successive modifiche.
 
-2.
+2\. Le riunioni del Comitato di Valutazione sono indette dal Presidente con comunicazione che deve pervenire agli aventi diritto almeno tre giorni prima della data fissata per la riunione.
 
-Le riunioni del Comitato di Valutazione sono indette dal Presidente con comunicazione che deve pervenire agli aventi diritto almeno tre giorni prima della data fissata per la riunione.
+3\. Le sedute del Comitato di Valutazione sono valide con la presenza della maggioranza dei suoi componenti. Le decisioni sono assunte a maggioranza dei presenti. In caso di parità di voti prevale il voto del Presidente.
 
-3.
+4\. Le decisioni del Comitato di Valutazione vengono trascritte in apposito processo verbale ad opera di un segretario verbalizzante nominato tra i suoi componenti anche al di fuori dei membri stessi e vengono comunicate all’impresa richiedente.
 
-Le sedute del Comitato di Valutazione sono valide con la presenza della maggioranza dei suoi componenti. Le decisioni sono assunte a maggioranza dei presenti. In caso di parità di voti prevale il voto del Presidente.
+5\. Il Comitato di Valutazione delibera l’accesso ai finanziamenti ed ai conseguenti contributi in conto interessi quando siano soddisfatti i requisisti richiesti.
 
-4.
+6\. Nell’accogliere la domanda di finanziamento, il Comitato di Valutazione può imporre al richiedente prescrizioni particolari e/o modalità esecutive ai fini dell’erogazione del finanziamento.
 
-Le decisioni del Comitato di Valutazione vengono trascritte in apposito processo verbale ad opera di un segretario verbalizzante nominato tra i suoi componenti anche al di fuori dei membri stessi e vengono comunicate all’impresa richiedente.
+7\. Qualora si verifichino in fase di realizzazione del progetto di investimento variazioni significative rispetto alle previsioni del valore e delle caratteristiche del progetto stesso, il Comitato di Valutazione può disporre la variazione dello stesso fermo restando il termine di realizzazione di cui al comma 8, a condizione che l’operatore economico autorizzato informi tempestivamente il Comitato stesso.
 
-5.
-
-Il Comitato di Valutazione delibera l’accesso ai finanziamenti ed ai conseguenti contributi in conto interessi quando siano soddisfatti i requisisti richiesti.
-
-6.
-
-Nell’accogliere la domanda di finanziamento, il Comitato di Valutazione può imporre al richiedente prescrizioni particolari e/o modalità esecutive ai fini dell’erogazione del finanziamento.
-
-7.
-
-Qualora si verifichino in fase di realizzazione del progetto di investimento variazioni significative rispetto alle previsioni del valore e delle caratteristiche del progetto stesso, il Comitato di Valutazione può disporre la variazione dello stesso fermo restando il termine di realizzazione di cui al comma 8, a condizione che l’operatore economico autorizzato informi tempestivamente il Comitato stesso.
-
-8.
-
-Il progetto di investimento deve essere realizzato, ad eccezione dei convenzionamenti di cui agli articoli 12 e 13, entro dodici mesi dalla data di ricevimento della delibera di autorizzazione. A fronte di documentate esigenze tale termine può essere prorogato di:
+8\. Il progetto di investimento deve essere realizzato, ad eccezione dei convenzionamenti di cui agli articoli 12 e 13, entro dodici mesi dalla data di ricevimento della delibera di autorizzazione. A fronte di documentate esigenze tale termine può essere prorogato di:
 
 a) ulteriori dodici mesi, qualora il progetto si riferisca agli interventi sugli immobili di cui alla lettera b) degli articoli 6, 7, 8, 9, e 10.
 
@@ -422,25 +332,17 @@ b) ulteriori centottanta giorni per i progetti di cui alle lettere a), c) e d) d
 
 (Contributo in conto interessi)
 
-1.
+1\. I finanziamenti possono essere concessi nella forma del contratto di mutuo, del contratto di locazione finanziaria o nelle diverse forme previste dalle convenzioni finanziarie di cui al comma 3. In caso di locazione finanziaria, il contributo in conto canoni, corrisposto nelle percentuali previste nel presente decreto delegato, viene corrisposto all’operatore economico nella misura che spetterebbe per l’acquisto dei beni medesimi.
 
-I finanziamenti possono essere concessi nella forma del contratto di mutuo, del contratto di locazione finanziaria o nelle diverse forme previste dalle convenzioni finanziarie di cui al comma 3. In caso di locazione finanziaria, il contributo in conto canoni, corrisposto nelle percentuali previste nel presente decreto delegato, viene corrisposto all’operatore economico nella misura che spetterebbe per l’acquisto dei beni medesimi.
+2\. Il credito agevolato può essere concesso, ad eccezione dei finanziamenti convenzionati di cui agli articoli 12 e 13, per un massimo di cinque o dieci anni ai sensi di quanto previsto specificatamente nel presente decreto delegato ed il rimborso del prestito avviene mediante il pagamento di rate semestrali posticipate costanti comprensive della quota di interessi a carico del beneficiario, con scadenza 30 giugno e 31 dicembre di ogni anno; la prima rata scade alla fine del primo semestre successivo a quello in cui è avvenuta l’erogazione della prima parte del prestito. Le convenzioni finanziarie di cui al comma 3 possono prevedere differenti modalità e frequenza di rimborso e non può venir prevista frequenza inferiore a n.1 rata ogni dodici mesi.
 
-2.
-
-Il credito agevolato può essere concesso, ad eccezione dei finanziamenti convenzionati di cui agli articoli 12 e 13, per un massimo di cinque o dieci anni ai sensi di quanto previsto specificatamente nel presente decreto delegato ed il rimborso del prestito avviene mediante il pagamento di rate semestrali posticipate costanti comprensive della quota di interessi a carico del beneficiario, con scadenza 30 giugno e 31 dicembre di ogni anno; la prima rata scade alla fine del primo semestre successivo a quello in cui è avvenuta l’erogazione della prima parte del prestito. Le convenzioni finanziarie di cui al comma 3 possono prevedere differenti modalità e frequenza di rimborso e non può venir prevista frequenza inferiore a n.1 rata ogni dodici mesi.
-
-3.
-
-Qualora l’erogazione del prestito avvenga nel corso del semestre, gli interessi sono totalmente a carico del beneficiario, sino al 30 giugno o 31 dicembre successivo.
+3\. Qualora l’erogazione del prestito avvenga nel corso del semestre, gli interessi sono totalmente a carico del beneficiario, sino al 30 giugno o 31 dicembre successivo.
 
 Gli istituti di credito sottoscrittori della convenzione finanziaria sono tenuti ad applicare per il periodo di preammortamento e limitatamente alle somme ammesse al
 
 prestito agevolato, tassi di interesse non superiori a quelli previsti annualmente nelle succitate Convenzioni finanziarie.
 
-4.
-
-L’operatore economico può anche stipulare mutui di durata superiore al numero di anni massimi indicati nel presente decreto delegato ma in ogni caso non superando il doppio della durata stabilita. In tal caso, l’erogazione del contributo in conto interessi da parte dello Stato è comunque limitata al numero massimo di anni previsto e durante il periodo eccedente deve essere applicato il tasso di cui al comma 3.
+4\. L’operatore economico può anche stipulare mutui di durata superiore al numero di anni massimi indicati nel presente decreto delegato ma in ogni caso non superando il doppio della durata stabilita. In tal caso, l’erogazione del contributo in conto interessi da parte dello Stato è comunque limitata al numero massimo di anni previsto e durante il periodo eccedente deve essere applicato il tasso di cui al comma 3.
 
 L’impegnativa di cui all’articolo 17 deve specificare questa eventualità e le garanzie di cui all’articolo 25 devono tenere conto di quanto indicato nel presente comma e restano soggette alle procedure di cui al comma 6 del medesimo articolo con decadenza corrispondente alla durata del mutuo.
 
@@ -448,83 +350,53 @@ L’impegnativa di cui all’articolo 17 deve specificare questa eventualità e 
 
 (Impegnativa)
 
-1.
+1\. La concessione dei finanziamenti di cui al presente articolo è subordinata all’esistenza, in capo al richiedente, di requisiti di solidità economica e patrimoniale che vengono valutati dall’Istituto di Credito erogante.
 
-La concessione dei finanziamenti di cui al presente articolo è subordinata all’esistenza, in capo al richiedente, di requisiti di solidità economica e patrimoniale che vengono valutati dall’Istituto di Credito erogante.
+2\. L’Istituto di Credito convenzionato, disposto ad erogare i prestiti agevolati, in relazione alla specifica domanda di finanziamento, produce il relativo piano di rimborso del finanziamento e lo trasmette al Comitato di Valutazione indicando le garanzie di cui all’articolo 25.
 
-2.
-
-L’Istituto di Credito convenzionato, disposto ad erogare i prestiti agevolati, in relazione alla specifica domanda di finanziamento, produce il relativo piano di rimborso del finanziamento e lo trasmette al Comitato di Valutazione indicando le garanzie di cui all’articolo 25.
-
-3.
-
-Qualora l’Istituto di Credito ritenga debba essere revocata anche parzialmente l’impegnativa a suo tempo rilasciata, deve darne immediata comunicazione al Comitato di Valutazione per l’adozione delle procedure di revoca anche parziale del credito autorizzato attivando le conseguenti operazioni comprensive del recupero degli interessi a carico dello Stato.
+3\. Qualora l’Istituto di Credito ritenga debba essere revocata anche parzialmente l’impegnativa a suo tempo rilasciata, deve darne immediata comunicazione al Comitato di Valutazione per l’adozione delle procedure di revoca anche parziale del credito autorizzato attivando le conseguenti operazioni comprensive del recupero degli interessi a carico dello Stato.
 
 ### Art. 18
 
 (Erogazione)
 
-1.
+1\. L'erogazione del beneficio avviene a condizione che sia sussistente l’impegnativa di cui all’articolo 17 e siano stati perfezionati i relativi atti a garanzia di cui all’articolo 25, su richiesta dell’operatore economico beneficiario.
 
-L'erogazione del beneficio avviene a condizione che sia sussistente l’impegnativa di cui all’articolo 17 e siano stati perfezionati i relativi atti a garanzia di cui all’articolo 25, su richiesta dell’operatore economico beneficiario.
+2\. Sono considerati finanziabili gli acconti debitamente documentati.
 
-2.
+3\. Il Presidente del Comitato di Valutazione, per conto del Comitato stesso, trasmette all’Istituto di Credito convenzionato e alla Direzione della Finanza Pubblica, le autorizzazioni ad erogare il prestito.
 
-Sono considerati finanziabili gli acconti debitamente documentati.
-
-3.
-
-Il Presidente del Comitato di Valutazione, per conto del Comitato stesso, trasmette all’Istituto di Credito convenzionato e alla Direzione della Finanza Pubblica, le autorizzazioni ad erogare il prestito.
-
-4.
-
-Fatte salve le disposizioni dettate dal presente decreto delegato, gli aspetti procedurali dell’erogazione dei finanziamenti sono disciplinati nell’ambito delle convenzioni stipulate con gli Istituti di Credito.
+4\. Fatte salve le disposizioni dettate dal presente decreto delegato, gli aspetti procedurali dell’erogazione dei finanziamenti sono disciplinati nell’ambito delle convenzioni stipulate con gli Istituti di Credito.
 
 ### Art. 19
 
 (Subingresso nel finanziamento)
 
-1.
+1\. E’ consentito il subingresso nel finanziamento, in tutto oppure in parte, di un altro Istituto di Credito convenzionato, il quale subentra nelle garanzie, personali e reali, accessorie al credito.
 
-E’ consentito il subingresso nel finanziamento, in tutto oppure in parte, di un altro Istituto di Credito convenzionato, il quale subentra nelle garanzie, personali e reali, accessorie al credito.
-
-2.
-
-Il subingresso di cui al comma 1 comporta il trasferimento dei diritti e degli obblighi derivanti dal contratto di finanziamento, nonché dei relativi crediti, alle condizioni stipulate tra il beneficiario e l’Istituto di Credito intermediario. Il
+2\. Il subingresso di cui al comma 1 comporta il trasferimento dei diritti e degli obblighi derivanti dal contratto di finanziamento, nonché dei relativi crediti, alle condizioni stipulate tra il beneficiario e l’Istituto di Credito intermediario. Il
 
 subingresso deve essere annotato nei pubblici registri con le modalità previste dalla normativa vigente.
 
-3.
+3\. L’istituto di Credito cedente ed il subentrante restano obbligati nei confronti dell’erario ai sensi dell’articolo 21, comma 4, ciascuno per la quota di interessi erogata per il periodo nel quale era parte del contratto di finanziamento, salvo diverso accordo tra gli stessi Istituti di Credito.
 
-L’istituto di Credito cedente ed il subentrante restano obbligati nei confronti dell’erario ai sensi dell’articolo 21, comma 4, ciascuno per la quota di interessi erogata per il periodo nel quale era parte del contratto di finanziamento, salvo diverso accordo tra gli stessi Istituti di Credito.
-
-4.
-
-L’accordo di subingresso deve essere comunicato al Comitato di Valutazione entro trenta giorni dalla stipula.
+4\. L’accordo di subingresso deve essere comunicato al Comitato di Valutazione entro trenta giorni dalla stipula.
 
 ### Art. 20
 
 (Cessione dei crediti derivanti dal finanziamento)
 
-1.
+1\. In caso di cessione del credito e delle garanzie che lo assistono ad un soggetto non convenzionato, dopo l’integrale erogazione del finanziamento, il contributo in conto interessi continua a essere erogato al beneficiario del finanziamento per il tramite dell’Istituto di Credito cedente, o da altro Istituto di Credito da questi designato, purché convenzionato o da convenzionarsi.
 
-In caso di cessione del credito e delle garanzie che lo assistono ad un soggetto non convenzionato, dopo l’integrale erogazione del finanziamento, il contributo in conto interessi continua a essere erogato al beneficiario del finanziamento per il tramite dell’Istituto di Credito cedente, o da altro Istituto di Credito da questi designato, purché convenzionato o da convenzionarsi.
+2\. L’Istituto di Credito cedente resta obbligato nei confronti dell’Erario per l’eventuale restituzione del contributo ai sensi dell’articolo 21, comma 4, ivi comprese le quote di contributo erogate dopo la cessione del credito.
 
-2.
-
-L’Istituto di Credito cedente resta obbligato nei confronti dell’Erario per l’eventuale restituzione del contributo ai sensi dell’articolo 21, comma 4, ivi comprese le quote di contributo erogate dopo la cessione del credito.
-
-3.
-
-La cessione di cui al presente articolo deve essere comunicata al Comitato di Valutazione entro trenta giorni dalla stipula.
+3\. La cessione di cui al presente articolo deve essere comunicata al Comitato di Valutazione entro trenta giorni dalla stipula.
 
 ### Art. 21
 
 (Decadenza dei benefici)
 
-1.
-
-Decadono dai benefici del presente decreto delegato e sono tenute alla restituzione, entro centottanta giorni dalla dichiarazione di decadenza da parte del Comitato di Valutazione, del contributo in conti interessi erogato dallo Stato in relazione al finanziamento accordato sino alla data di decadenza in proporzione alla durata del finanziamento rispetto al periodo di fruizione del contributo pubblico e secondo le modalità di cui al comma 3 del presente articolo:
+1\. Decadono dai benefici del presente decreto delegato e sono tenute alla restituzione, entro centottanta giorni dalla dichiarazione di decadenza da parte del Comitato di Valutazione, del contributo in conti interessi erogato dallo Stato in relazione al finanziamento accordato sino alla data di decadenza in proporzione alla durata del finanziamento rispetto al periodo di fruizione del contributo pubblico e secondo le modalità di cui al comma 3 del presente articolo:
 
 a) le imprese che non hanno avviato o completato i progetti oggetto del finanziamento entro i termini stabiliti;
 
@@ -544,53 +416,33 @@ necessarie a verificare la permanenza dei requisiti e l’insussistenza di cause
 
 h) nel caso indicato all’articolo 17, comma 3.
 
-2.
+2\. Il Presidente del Comitato di Valutazione o in assenza il Vicepresidente, a tutela dell’interesse pubblico, informando i componenti del Comitato, provvede alla revoca di cui al presente articolo all’atto dell’accertamento dell’inadempimento.
 
-Il Presidente del Comitato di Valutazione o in assenza il Vicepresidente, a tutela dell’interesse pubblico, informando i componenti del Comitato, provvede alla revoca di cui al presente articolo all’atto dell’accertamento dell’inadempimento.
+3\. L’importo di cui al comma 1, si determina rapportando l’importo del valore totale dei contributi semestrali erogati, al periodo di durata del mutuo fino alla revoca e la durata stabilita del mutuo stesso.
 
-3.
-
-L’importo di cui al comma 1, si determina rapportando l’importo del valore totale dei contributi semestrali erogati, al periodo di durata del mutuo fino alla revoca e la durata stabilita del mutuo stesso.
-
-4.
-
-L’Istituto di Credito erogante o la società concedente i beni oggetto del contratto di locazione finanziaria nei termini di cui al comma 1 sono tenuti a rifondere all’Erario la quota di interessi passivi pagata dall’Erario stesso. La decadenza dai benefici di cui al comma 1 e la conseguente rifusione della quota di interessi passivi dovuta all’Erario non determinano di per sé la decadenza del finanziamento, che è eventualmente dichiarata dall’istituto di Credito, in conformità alle disposizioni di legge e al contratto stipulato.
+4\. L’Istituto di Credito erogante o la società concedente i beni oggetto del contratto di locazione finanziaria nei termini di cui al comma 1 sono tenuti a rifondere all’Erario la quota di interessi passivi pagata dall’Erario stesso. La decadenza dai benefici di cui al comma 1 e la conseguente rifusione della quota di interessi passivi dovuta all’Erario non determinano di per sé la decadenza del finanziamento, che è eventualmente dichiarata dall’istituto di Credito, in conformità alle disposizioni di legge e al contratto stipulato.
 
 ### Art. 22
 
 (Casi di cessazione, revoca, sospensione della licenza d’esercizio)
 
-1.
+1\. Per tutti i prestiti agevolati di qualsiasi natura alle imprese in cui lo Stato si assume o si è assunto l’onere di contribuire al pagamento degli interessi, sia su mutui concessi dagli istituti di credito sia per quelli realizzati tramite locazione finanziaria, in caso di cessazione, revoca, sospensione della licenza di esercizio si applicano le seguenti disposizioni ferme restando le altre condizioni previsti dalle disposizioni autorizzative.
 
-Per tutti i prestiti agevolati di qualsiasi natura alle imprese in cui lo Stato si assume o si è assunto l’onere di contribuire al pagamento degli interessi, sia su mutui concessi dagli istituti di credito sia per quelli realizzati tramite locazione finanziaria, in caso di cessazione, revoca, sospensione della licenza di esercizio si applicano le seguenti disposizioni ferme restando le altre condizioni previsti dalle disposizioni autorizzative.
+2\. Qualora intervengano cessazioni o revoche della licenza secondo le disposizioni in vigore, si dà orso al recupero delle somme erogate secondo i criteri previsti dall’articolo 21.
 
-2.
+3\. In caso di sospensione della licenza, in base alle disposizioni in vigore, che avvenga a qualsiasi titolo, se la sospensione consecutivamente supera i sei mesi, si dà corso alla sospensione del contributo interessi per il semestre o i semestri interessati.
 
-Qualora intervengano cessazioni o revoche della licenza secondo le disposizioni in vigore, si dà orso al recupero delle somme erogate secondo i criteri previsti dall’articolo 21.
-
-3.
-
-In caso di sospensione della licenza, in base alle disposizioni in vigore, che avvenga a qualsiasi titolo, se la sospensione consecutivamente supera i sei mesi, si dà corso alla sospensione del contributo interessi per il semestre o i semestri interessati.
-
-4.
-
-In caso di trasferimento della titolarità della licenza che avvenga o meno con cessione di azienda o di un ramo di azienda, il mutuo viene estinto, oppure ove ne sussistano le condizioni viene trasferito a favore del titolare che subentra stipulando un nuovo contratto di mutuo per il residuo periodo anche attraverso altro Ente erogatore purché sia avanzata richiesta prima del rilascio. In caso di estinzione si applicano i criteri previsti dall’articolo 21 per il recupero delle somme erogate.
+4\. In caso di trasferimento della titolarità della licenza che avvenga o meno con cessione di azienda o di un ramo di azienda, il mutuo viene estinto, oppure ove ne sussistano le condizioni viene trasferito a favore del titolare che subentra stipulando un nuovo contratto di mutuo per il residuo periodo anche attraverso altro Ente erogatore purché sia avanzata richiesta prima del rilascio. In caso di estinzione si applicano i criteri previsti dall’articolo 21 per il recupero delle somme erogate.
 
 ### Art. 23
 
 (Funzioni dell'Ufficio Attività Economiche)
 
-1.
+1\. Ogni comunicazione da rivolgersi al Comitato di Valutazione deve essere indirizzata allo stesso, presso l’Ufficio Attività Economiche.
 
-Ogni comunicazione da rivolgersi al Comitato di Valutazione deve essere indirizzata allo stesso, presso l’Ufficio Attività Economiche.
+2\. L’Ufficio Attività Economiche istruisce la pratica di esame della domanda verificando la corrispondenza della stessa ai requisiti dal presente decreto delegato sulla base delle informazioni in suo possesso e con la facoltà di richiedere ai competenti uffici dell’Amministrazione Pubblica ogni altra ulteriore informazione utile.
 
-2.
-
-L’Ufficio Attività Economiche istruisce la pratica di esame della domanda verificando la corrispondenza della stessa ai requisiti dal presente decreto delegato sulla base delle informazioni in suo possesso e con la facoltà di richiedere ai competenti uffici dell’Amministrazione Pubblica ogni altra ulteriore informazione utile.
-
-3.
-
-L’Ufficio Attività Economiche, avvalendosi anche di altri uffici dell'amministrazione, ha il compito di verificare la permanenza dei requisiti dei
+3\. L’Ufficio Attività Economiche, avvalendosi anche di altri uffici dell'amministrazione, ha il compito di verificare la permanenza dei requisiti dei
 
 richiedenti beneficiari di finanziamenti e di sottoporre tempestivamente al Comitato di Valutazione le situazioni di inadempimento secondo le procedure di cui all’articolo 21.
 
@@ -598,179 +450,111 @@ richiedenti beneficiari di finanziamenti e di sottoporre tempestivamente al Comi
 
 (Cessione dei beni oggetto del finanziamento)
 
-1.
+1\. I beni, per i quali siano stati erogati i finanziamenti di cui al presente decreto delegato, non possono essere ceduti a qualsiasi titolo prima della totale estinzione del finanziamento, pena la decadenza dei benefici a norma dell’articolo 21 salvo i casi di cui ai commi 2 e 3.
 
-I beni, per i quali siano stati erogati i finanziamenti di cui al presente decreto delegato, non possono essere ceduti a qualsiasi titolo prima della totale estinzione del finanziamento, pena la decadenza dei benefici a norma dell’articolo 21 salvo i casi di cui ai commi 2 e 3.
+2\. L’eventuale cessione di beni per i quali sia stato concesso il finanziamento ai sensi del presente decreto delegato deve essere preventivamente autorizzata dal Comitato di Valutazione che può autorizzare la cessione dei beni stessi previo rimborso del debito residuo entro il termine massimo di sessanta giorni dalla data dell’eventuale autorizzazione. Tale rimborso è escluso qualora i beni oggetto del finanziamento siano ceduti ad altro operatore economico avente i necessari requisiti previsti dal presente decreto delegato per ottenere i medesimi benefici ed in osservanza delle disposizioni stabilite dal presente decreto delegato in materia di impegnativa e garanzie.
 
-2.
-
-L’eventuale cessione di beni per i quali sia stato concesso il finanziamento ai sensi del presente decreto delegato deve essere preventivamente autorizzata dal Comitato di Valutazione che può autorizzare la cessione dei beni stessi previo rimborso del debito residuo entro il termine massimo di sessanta giorni dalla data dell’eventuale autorizzazione. Tale rimborso è escluso qualora i beni oggetto del finanziamento siano ceduti ad altro operatore economico avente i necessari requisiti previsti dal presente decreto delegato per ottenere i medesimi benefici ed in osservanza delle disposizioni stabilite dal presente decreto delegato in materia di impegnativa e garanzie.
-
-3.
-
-Qualora i beni ceduti siano sostituiti da altri destinati allo stesso scopo, la disposizione di cui al comma che precede non si applica quando il valore dei nuovi beni sia almeno uguale a quello dei beni sostituiti, purché detta sostituzione sia stata preventivamente autorizzata dal Comitato di Valutazione.
+3\. Qualora i beni ceduti siano sostituiti da altri destinati allo stesso scopo, la disposizione di cui al comma che precede non si applica quando il valore dei nuovi beni sia almeno uguale a quello dei beni sostituiti, purché detta sostituzione sia stata preventivamente autorizzata dal Comitato di Valutazione.
 
 ### Art. 25
 
 (Garanzie)
 
-1.
+1\. I finanziamenti concessi in forza del presente decreto delegato, i relativi interessi e gli altri accessori, ivi compresi gli oneri ed i costi sostenuti a copertura dei rischi finanziari, sono assistiti da privilegio in favore dell’Istituto di Credito erogatore sui beni mobili ed immobili oggetto del finanziamento agevolato. In alcun modo i beni oggetto del finanziamento di cui all’articolo 12 del presente decreto delegato possono costituire garanzia. L'entità delle garanzie deve essere tale da coprire oltre all'ammontare del prestito, l'ammontare complessivo degli interessi a carico dello Stato. Nel caso in cui il finanziamento avvenga in conto canoni come previsto all’articolo 16, comma 1, il richiedente deve depositare presso la società, con la quale stipulerà il contratto di locazione finanziaria, le necessarie garanzie atte a coprire l’ammontare complessivo del contributo conto canoni a carico dello Stato, la quale ne darà comunicazione al Comitato di Valutazione ai sensi dell’articolo 17 ed in tale atto la società concedente i beni oggetto del contratto di locazione finanziaria si impegna al rispetto delle disposizioni previste dal presente decreto delegato.
 
-I finanziamenti concessi in forza del presente decreto delegato, i relativi interessi e gli altri accessori, ivi compresi gli oneri ed i costi sostenuti a copertura dei rischi finanziari, sono assistiti da privilegio in favore dell’Istituto di Credito erogatore sui beni mobili ed immobili oggetto del finanziamento agevolato. In alcun modo i beni oggetto del finanziamento di cui all’articolo 12 del presente decreto delegato possono costituire garanzia. L'entità delle garanzie deve essere tale da coprire oltre all'ammontare del prestito, l'ammontare complessivo degli interessi a carico dello Stato. Nel caso in cui il finanziamento avvenga in conto canoni come previsto all’articolo 16, comma 1, il richiedente deve depositare presso la società, con la quale stipulerà il contratto di locazione finanziaria, le necessarie garanzie atte a coprire l’ammontare complessivo del contributo conto canoni a carico dello Stato, la quale ne darà comunicazione al Comitato di Valutazione ai sensi dell’articolo 17 ed in tale atto la società concedente i beni oggetto del contratto di locazione finanziaria si impegna al rispetto delle disposizioni previste dal presente decreto delegato.
+2\. Il privilegio deve constare di apposita iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale se trattasi di beni mobili.
 
-2.
+3\. Il credito nascente dai finanziamenti di cui al presente decreto delegato viene soddisfatto col valore dei beni mobili ed immobili oggetto del finanziamento, in preferenza di ogni altro creditore privilegiato, ipotecario e pignoratizio ai sensi degli articoli 25 e 26 della Legge Ipotecaria 16 marzo 1854.
 
-Il privilegio deve constare di apposita iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale se trattasi di beni mobili.
-
-3.
-
-Il credito nascente dai finanziamenti di cui al presente decreto delegato viene soddisfatto col valore dei beni mobili ed immobili oggetto del finanziamento, in preferenza di ogni altro creditore privilegiato, ipotecario e pignoratizio ai sensi degli articoli 25 e 26 della Legge Ipotecaria 16 marzo 1854.
-
-4.
-
-Il privilegio di cui al primo comma può essere sostituito o integrato da fideiussioni bancarie, polizze fideiussorie o altre forme di garanzia all’uopo concordate con l’istituto di credito. Possono essere altresì erogati finanziamenti in assenza di
+4\. Il privilegio di cui al primo comma può essere sostituito o integrato da fideiussioni bancarie, polizze fideiussorie o altre forme di garanzia all’uopo concordate con l’istituto di credito. Possono essere altresì erogati finanziamenti in assenza di
 
 garanzie, ma in tal caso l’istituto di credito è tenuto alla restituzione delle somme di cui al comma 6 qualora sia deliberata la decadenza di cui all’articolo 21.
 
-5.
+5\. L’iscrizione del privilegio o la costituzione di altre forme di garanzia, avviene a cura dell’istituto di credito erogatore, il quale ne trasmette certificazione al Comitato di Valutazione, con onere a carico dell’impresa beneficiaria.
 
-L’iscrizione del privilegio o la costituzione di altre forme di garanzia, avviene a cura dell’istituto di credito erogatore, il quale ne trasmette certificazione al Comitato di Valutazione, con onere a carico dell’impresa beneficiaria.
-
-6.
-
-Nel caso il debito relativo al finanziamento sia stato estinto, le garanzie di cui al presente articolo decadono dopo sessanta giorni correnti previa cancellazione presso l’organismo preposto da parte dell’istituto di credito. La stessa procedura si applica per le garanzie rilasciate nei contratti di locazione finanziaria quando questi siano estinti.
+6\. Nel caso il debito relativo al finanziamento sia stato estinto, le garanzie di cui al presente articolo decadono dopo sessanta giorni correnti previa cancellazione presso l’organismo preposto da parte dell’istituto di credito. La stessa procedura si applica per le garanzie rilasciate nei contratti di locazione finanziaria quando questi siano estinti.
 
 ### Art. 26
 
 (Copertura finanziaria)
 
-1.
+1\. Gli oneri a carico dello Stato per la contribuzione in conto interessi relativi ai finanziamenti di cui al presente decreto delegato trovano imputazione sul cap. 2-47226 “Contributi in conto interessi e in conto canoni per gli interventi a sostegno delle attività economiche”.
 
-Gli oneri a carico dello Stato per la contribuzione in conto interessi relativi ai finanziamenti di cui al presente decreto delegato trovano imputazione sul cap. 2-47226 “Contributi in conto interessi e in conto canoni per gli interventi a sostegno delle attività economiche”.
+2\. I finanziamenti deliberati dal Comitato di Valutazione, non erogati entro dodici mesi dalla data ricevimento da parte del richiedente della delibera di autorizzazione del Comitato di Valutazione, decadono.
 
-2.
-
-I finanziamenti deliberati dal Comitato di Valutazione, non erogati entro dodici mesi dalla data ricevimento da parte del richiedente della delibera di autorizzazione del Comitato di Valutazione, decadono.
-
-3.
-
-Gli incentivi finanziari di cui all’articolo 6 della Legge 24 novembre 1997 n. 134 nonché gli eventuali crediti agevolati previsti dalla stessa legge autorizzati dall’Organismo preposto successivi alla data di entrata in vigore del presente decreto delegato sono imputati sul predetto capitolo di spesa.
+3\. Gli incentivi finanziari di cui all’articolo 6 della Legge 24 novembre 1997 n. 134 nonché gli eventuali crediti agevolati previsti dalla stessa legge autorizzati dall’Organismo preposto successivi alla data di entrata in vigore del presente decreto delegato sono imputati sul predetto capitolo di spesa.
 
 ### Art. 27
 
 (Revocatoria)
 
-1.
+1\. Le obbligazioni derivanti dai finanziamenti di cui al presente decreto delegato ed il relativo privilegio indicato al articolo 25 non sono soggetti, dopo il consolidamento del privilegio di cui al comma 2, né all’azione revocatoria concorsuale prevista dall’articolo 3 della Legge 15 novembre 1917 n.17 e successive modifiche né all’azione revocatoria “pauliana”. Analogo trattamento è riconosciuto alle eventuali ulteriori garanzie poste in essere ai fini dell’erogazione dei mutui di cui al presente decreto delegato.
 
-Le obbligazioni derivanti dai finanziamenti di cui al presente decreto delegato ed il relativo privilegio indicato al articolo 25 non sono soggetti, dopo il consolidamento del privilegio di cui al comma 2, né all’azione revocatoria concorsuale prevista dall’articolo 3 della Legge 15 novembre 1917 n.17 e successive modifiche né all’azione revocatoria “pauliana”. Analogo trattamento è riconosciuto alle eventuali ulteriori garanzie poste in essere ai fini dell’erogazione dei mutui di cui al presente decreto delegato.
-
-2.
-
-Il privilegio di cui all’articolo 25, comma 1, si consolida entro dieci giorni dall’iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale. Il predetto termine si applica anche alle eventuali ulteriori garanzie poste in essere ai fini dell’erogazione dei mutui di cui al presente decreto delegato.
+2\. Il privilegio di cui all’articolo 25, comma 1, si consolida entro dieci giorni dall’iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale. Il predetto termine si applica anche alle eventuali ulteriori garanzie poste in essere ai fini dell’erogazione dei mutui di cui al presente decreto delegato.
 
 ### Art. 28
 
 (Esenzioni)
 
-1.
-
-Ai sensi della Legge n.50/1979 e successive modifiche, tutte le operazioni e formalità eseguite in applicazione del presente decreto delegato, sono esenti da ogni tassa di registro, di iscrizione, registrazione e cancellazione di privilegio.
+1\. Ai sensi della Legge n.50/1979 e successive modifiche, tutte le operazioni e formalità eseguite in applicazione del presente decreto delegato, sono esenti da ogni tassa di registro, di iscrizione, registrazione e cancellazione di privilegio.
 
 ### Art. 29
 
 (Regolamento)
 
-1.
-
-Il Congresso di Stato con Regolamento, ai sensi dell’articolo 5, comma 5, della Legge Costituzionale 16 dicembre 2005 n. 185, può precisare le procedure e la modulistica alle quali devono attenersi i richiedenti i benefici di cui al presente decreto delegato, gli Istituti Bancari e i Pubblici Uffici.
+1\. Il Congresso di Stato con Regolamento, ai sensi dell’articolo 5, comma 5, della Legge Costituzionale 16 dicembre 2005 n. 185, può precisare le procedure e la modulistica alle quali devono attenersi i richiedenti i benefici di cui al presente decreto delegato, gli Istituti Bancari e i Pubblici Uffici.
 
 ### Art. 30
 
 (Proroga durata del mutuo agevolato)
 
-1.
+1\. Nel caso in cui l’operatore economico, a causa di documentate situazioni di crisi economica, non riesca ad ottemperare nei termini previsti al pagamento delle rate per il rimborso del prestito ottenuto, si applicano le disposizioni del presente articolo.
 
-Nel caso in cui l’operatore economico, a causa di documentate situazioni di crisi economica, non riesca ad ottemperare nei termini previsti al pagamento delle rate per il rimborso del prestito ottenuto, si applicano le disposizioni del presente articolo.
-
-2.
-
-L’operatore economico può avanzare richiesta all’organo che ha autorizzato il credito precisando e documentando le ragioni che inducono alla richiesta di proroga.
+2\. L’operatore economico può avanzare richiesta all’organo che ha autorizzato il credito precisando e documentando le ragioni che inducono alla richiesta di proroga.
 
 Possono essere ammessi alle procedure previste dal presente articolo gli operatori economici che abbiano pagato almeno quattro rate semestrali del mutuo agevolato ai sensi delle norme in vigore e non abbiano più di due rate scadute.
 
-3.
+3\. La richiesta deve essere corredata da consenso dell’istituto di credito erogante e di eventuale aggiornamento delle garanzie ritenute necessarie.
 
-La richiesta deve essere corredata da consenso dell’istituto di credito erogante e di eventuale aggiornamento delle garanzie ritenute necessarie.
-
-4.
-
-In caso di accoglimento della richiesta, il mutuo originario viene estinto e si stipula un nuovo mutuo per il capitale residuo la cui durata sarà pari al periodo residuo del mutuo originario sommando il periodo della proroga che non potrà superare i cinque anni per i mutui a cinque anni e i dieci anni per quelli a dieci anni.
+4\. In caso di accoglimento della richiesta, il mutuo originario viene estinto e si stipula un nuovo mutuo per il capitale residuo la cui durata sarà pari al periodo residuo del mutuo originario sommando il periodo della proroga che non potrà superare i cinque anni per i mutui a cinque anni e i dieci anni per quelli a dieci anni.
 
 Non sono ammissibili richieste di proroga di mutuo agevolato qualora il mutuo in corso sia già pari al massimo previsto dall’articolo 16, comma 4.
 
-5.
+5\. Durante tale periodo, il contributo in conto interessi resterà comunque ed in ogni caso limitato alla durata del mutuo originario autorizzato ed il contributo in conto interessi da parte dello Stato sarà commisurato alle nuove rate in scadenza pagate secondo il tasso convenzionato ed alla percentuale in conto interessi prevista dalla norma che ha autorizzato il credito agevolato erogato.
 
-Durante tale periodo, il contributo in conto interessi resterà comunque ed in ogni caso limitato alla durata del mutuo originario autorizzato ed il contributo in conto interessi da parte dello Stato sarà commisurato alle nuove rate in scadenza pagate secondo il tasso convenzionato ed alla percentuale in conto interessi prevista dalla norma che ha autorizzato il credito agevolato erogato.
+6\. Nel periodo di proroga del mutuo, l’istituto di credito erogante riconosce all’operatore economico il tasso convenzionato dell’anno di stipula del nuovo mutuo.
 
-6.
+7\. La decorrenza dell’intervento in conto interessi ha inizio dal semestre successivo a quello di presentazione della richiesta.
 
-Nel periodo di proroga del mutuo, l’istituto di credito erogante riconosce all’operatore economico il tasso convenzionato dell’anno di stipula del nuovo mutuo.
-
-7.
-
-La decorrenza dell’intervento in conto interessi ha inizio dal semestre successivo a quello di presentazione della richiesta.
-
-8.
-
-Per ogni mutuo agevolato l’operatore economico può avanzare una sola richiesta di proroga ai sensi del presente articolo.
+8\. Per ogni mutuo agevolato l’operatore economico può avanzare una sola richiesta di proroga ai sensi del presente articolo.
 
 ### Art. 31
 
 (Disposizioni finali)
 
-1.
-
-I termini previsti dal presente decreto delegato sono perentori.
+1\. I termini previsti dal presente decreto delegato sono perentori.
 
 ### Art. 32
 
 (Disposizioni transitorie)
 
-1.
+1\. Le norme di cui alla Legge 28 gennaio 1993 n.13 e successive modifiche ed al Decreto Delegato 28 aprile 2011 n.68 continuano ad avere applicazione per i mutui concessi in base a dette norme e per i finanziamenti erogati in forza di appositi rimandi alla Legge n. 13/1993.
 
-Le norme di cui alla Legge 28 gennaio 1993 n.13 e successive modifiche ed al Decreto Delegato 28 aprile 2011 n.68 continuano ad avere applicazione per i mutui concessi in base a dette norme e per i finanziamenti erogati in forza di appositi rimandi alla Legge n. 13/1993.
+2\. Le norme di cui alla Legge 3 agosto 2009 n.109 e successive modifiche continuano ad avere applicazione per i finanziamenti concessi in base a dette norme.
 
-2.
+3\. Le norme di cui al Decreto Delegato 24 luglio 2013 n. 93 e successive modifiche continuano ad avere applicazione per i mutui concessi in base a tali disposizioni normative mentre le eventuali richieste giacenti, antecedenti la data di entrata in vigore del presente decreto delegato, sono sottoposte alle disposizioni di quest’ultimo. 3bis. Dove in altre norme è presente il rinvio al Decreto Delegato n.93/2013 si applicano le disposizioni del presente decreto delegato.
 
-Le norme di cui alla Legge 3 agosto 2009 n.109 e successive modifiche continuano ad avere applicazione per i finanziamenti concessi in base a dette norme.
+4\. Sui capitoli 2-4-7225 “Finanziamento interventi comparto turistico – commerciale” e 2-4-7220 “Contributo in c/to interessi per crediti agevolati alle imprese (L. n.139/1985 - L. n. 13/1993 - L. n. 35/1996) e incentivi finanziari ex Art. 6, Legge n.134/1997)” continuano a trovare imputazione gli oneri relativi ai prestiti pregressi alla data di entrata in vigore del presente decreto delegato.
 
-3.
+5\. Gli operatori economici che hanno in corso mutui agevolati ai sensi delle norme sopraindicate sono soggetti ai vincoli previsti dalle norme di autorizzazione.
 
-Le norme di cui al Decreto Delegato 24 luglio 2013 n. 93 e successive modifiche continuano ad avere applicazione per i mutui concessi in base a tali disposizioni normative mentre le eventuali richieste giacenti, antecedenti la data di entrata in vigore del presente decreto delegato, sono sottoposte alle disposizioni di quest’ultimo. 3bis. Dove in altre norme è presente il rinvio al Decreto Delegato n.93/2013 si applicano le disposizioni del presente decreto delegato.
+6\. Il Comitato di Valutazione del presente decreto delegato subentra nelle funzioni degli Organi di cui all’articolo 2 della Legge n. 13/1993 e successive modifiche, all’articolo 2, comma 7, della Legge n. 109/2009 e successive modifiche, all’articolo 4 del Decreto Delegato n.68/2011, all’articolo 7 del Decreto Delegato n.93/2013 e all’articolo 17 della Legge 27 giugno 2013 n.71 e successive modifiche.
 
-4.
+7\. In relazione ai commi 1, 2, e 3 del presente articolo, l’Ufficio Attività Economiche svolge i compiti previsti dalle relative normative in capo all’Ufficio Industria, Artigianato e Commercio.
 
-Sui capitoli 2-4-7225 “Finanziamento interventi comparto turistico – commerciale” e 2-4-7220 “Contributo in c/to interessi per crediti agevolati alle imprese (L. n.139/1985 - L. n. 13/1993 - L. n. 35/1996) e incentivi finanziari ex Art. 6, Legge n.134/1997)” continuano a trovare imputazione gli oneri relativi ai prestiti pregressi alla data di entrata in vigore del presente decreto delegato.
+8\. La modalità di cui all’articolo 21, comma 3, trovano applicazione anche per le altre decadenze di erogazioni concesse in forza della Legge n.109/2009. 8bis. Il finanziamento previsto dall’articolo 11 del Decreto Delegato 3 novembre 2015 n.162 resta sottoposto, per quanto espressamente rinviato in tale articolo, al Decreto Delegato n.93/2013.
 
-5.
-
-Gli operatori economici che hanno in corso mutui agevolati ai sensi delle norme sopraindicate sono soggetti ai vincoli previsti dalle norme di autorizzazione.
-
-6.
-
-Il Comitato di Valutazione del presente decreto delegato subentra nelle funzioni degli Organi di cui all’articolo 2 della Legge n. 13/1993 e successive modifiche, all’articolo 2, comma 7, della Legge n. 109/2009 e successive modifiche, all’articolo 4 del Decreto Delegato n.68/2011, all’articolo 7 del Decreto Delegato n.93/2013 e all’articolo 17 della Legge 27 giugno 2013 n.71 e successive modifiche.
-
-7.
-
-In relazione ai commi 1, 2, e 3 del presente articolo, l’Ufficio Attività Economiche svolge i compiti previsti dalle relative normative in capo all’Ufficio Industria, Artigianato e Commercio.
-
-8.
-
-La modalità di cui all’articolo 21, comma 3, trovano applicazione anche per le altre decadenze di erogazioni concesse in forza della Legge n.109/2009. 8bis. Il finanziamento previsto dall’articolo 11 del Decreto Delegato 3 novembre 2015 n.162 resta sottoposto, per quanto espressamente rinviato in tale articolo, al Decreto Delegato n.93/2013.
-
-9.
-
-Fino all’attivazione dell’Ufficio Attività Economiche il Comitato di Valutazione è composto come segue:
+9\. Fino all’attivazione dell’Ufficio Attività Economiche il Comitato di Valutazione è composto come segue:
 
 a) il direttore dell’Ufficio Industria, Artigianato e Commercio o suo delegato, che lo presiede;
 
@@ -778,17 +562,13 @@ b) il direttore dell’Ufficio del Lavoro, o suo delegato;
 
 c) il direttore dell’Ufficio Tributario o suo delegato, con funzioni di vicepresidente che sostituisce in caso di assenza il presidente.
 
-10.
-
-Fino all’attivazione dell’Ufficio Attività Economiche quanto ad esso riferito nel presente decreto delegato si intende attribuito all’Ufficio Industria, Artigianato e Commercio.
+10\. Fino all’attivazione dell’Ufficio Attività Economiche quanto ad esso riferito nel presente decreto delegato si intende attribuito all’Ufficio Industria, Artigianato e Commercio.
 
 ### Art.33
 
 (Abrogazioni)
 
-1.
-
-Fatto salvo quanto previsto all’articolo 32, sono abrogate, in particolare, le seguenti disposizioni:
+1\. Fatto salvo quanto previsto all’articolo 32, sono abrogate, in particolare, le seguenti disposizioni:
 
 \- Legge 28 gennaio 1993 n.13 e successive modifiche;
 
@@ -1548,25 +1328,17 @@ CREDITO AGEVOLATO STRAORDINARIO A SOSTEGNO DELLE ATTIVITÀ ECONOMICHE
 
 (Finalità)
 
-1.
+1\. La presente legge ha lo scopo di sostenere, salvaguardare ed incentivare lo sviluppo economico della Repubblica, mediante l’erogazione di finanziamenti assistiti dal contributo dello Stato rivolti alle imprese in essa operanti. Tale intervento, di carattere straordinario, è volto a contenere gli effetti sui comparti economici sammarinesi della crisi economica nazionale ed internazionale ed alla salvaguardia dell’occupazione interna.
 
-La presente legge ha lo scopo di sostenere, salvaguardare ed incentivare lo sviluppo economico della Repubblica, mediante l’erogazione di finanziamenti assistiti dal contributo dello Stato rivolti alle imprese in essa operanti. Tale intervento, di carattere straordinario, è volto a contenere gli effetti sui comparti economici sammarinesi della crisi economica nazionale ed internazionale ed alla salvaguardia dell’occupazione interna.
+2\. Al fine del raggiungimento delle finalità della presente legge il Congresso di Stato, è autorizzato a convenzionarsi con gli Istituti di Credito operanti in Repubblica, e disponibili all’erogazione dei finanziamenti di cui ai successivi articoli, fino alla concorrenza dell’importo massimo di € 100.000.000,00.
 
-2.
-
-Al fine del raggiungimento delle finalità della presente legge il Congresso di Stato, è autorizzato a convenzionarsi con gli Istituti di Credito operanti in Repubblica, e disponibili all’erogazione dei finanziamenti di cui ai successivi articoli, fino alla concorrenza dell’importo massimo di € 100.000.000,00.
-
-3.
-
-I finanziamenti di cui alla presente legge potranno essere autorizzati ed erogati sino al raggiungimento dell’importo massimo di convenzionamento di cui al comma precedente anche successivamente al 31 dicembre 2009.
+3\. I finanziamenti di cui alla presente legge potranno essere autorizzati ed erogati sino al raggiungimento dell’importo massimo di convenzionamento di cui al comma precedente anche successivamente al 31 dicembre 2009.
 
 ### Art. 2
 
 (Modalità per la concessione del credito agevolato)
 
-1.
-
-Le domande per usufruire dei finanziamenti previsti dalla presente legge sono esaminate da un Comitato Tecnico composto come segue:
+1\. Le domande per usufruire dei finanziamenti previsti dalla presente legge sono esaminate da un Comitato Tecnico composto come segue:
 
 a) il direttore dell’Ufficio Industria Artigianato e Commercio o suo delegato, che lo presiede;
 
@@ -1574,21 +1346,13 @@ b) il direttore dell’Ufficio del Lavoro o suo delegato;
 
 c) il direttore dell’Ufficio Tributario o suo delegato.
 
-2.
+2\. Le riunioni del Comitato Tecnico sono indette dal Presidente con comunicazione che deve pervenire agli aventi diritto almeno tre giorni prima della data fissata per la riunione.
 
-Le riunioni del Comitato Tecnico sono indette dal Presidente con comunicazione che deve pervenire agli aventi diritto almeno tre giorni prima della data fissata per la riunione.
+3\. Le sedute del Comitato Tecnico sono valide con la presenza della maggioranza dei suoi componenti. Le decisioni sono assunte a maggioranza dei suoi componenti.
 
-3.
+4\. Le decisioni del Comitato Tecnico vengono trascritte in apposito processo verbale ad opera di un segretario verbalizzante nominato tra i suoi componenti od anche al di fuori dei membri stessi.
 
-Le sedute del Comitato Tecnico sono valide con la presenza della maggioranza dei suoi componenti. Le decisioni sono assunte a maggioranza dei suoi componenti.
-
-4.
-
-Le decisioni del Comitato Tecnico vengono trascritte in apposito processo verbale ad opera di un segretario verbalizzante nominato tra i suoi componenti od anche al di fuori dei membri stessi.
-
-5.
-
-Il Comitato Tecnico istruisce la pratica di esame della domanda verificando la corrispondenza della stessa ai requisiti della presente legge sulla base delle informazioni in suo possesso e con la facoltà di richiedere ai competenti uffici dell’Amministrazione Pubblica ogni altra ulteriore informazione utile. La pratica istruita, comprensiva della documentazione presentata dal richiedente e corredata dal parere finale di conformità o meno ai requisiti di legge da parte del Comitato Tecnico, va trasmessa al Comitato di Valutazione.
+5\. Il Comitato Tecnico istruisce la pratica di esame della domanda verificando la corrispondenza della stessa ai requisiti della presente legge sulla base delle informazioni in suo possesso e con la facoltà di richiedere ai competenti uffici dell’Amministrazione Pubblica ogni altra ulteriore informazione utile. La pratica istruita, comprensiva della documentazione presentata dal richiedente e corredata dal parere finale di conformità o meno ai requisiti di legge da parte del Comitato Tecnico, va trasmessa al Comitato di Valutazione.
 
 \- Decreto Delegato 6 luglio 2017 n.77;
 
@@ -1598,13 +1362,9 @@ Il Comitato Tecnico istruisce la pratica di esame della domanda verificando la c
 
 \- articolo 21 della Legge 22 dicembre 2015 n.189.
 
-6.
+6\. Il Comitato Tecnico può avvalersi della collaborazione di Uffici Pubblici per la richiesta di informazioni, documenti e ogni altro elemento attinente all’espletamento delle proprie funzioni.
 
-Il Comitato Tecnico può avvalersi della collaborazione di Uffici Pubblici per la richiesta di informazioni, documenti e ogni altro elemento attinente all’espletamento delle proprie funzioni.
-
-7.
-
-Le pratiche istruite dal Comitato Tecnico sono esaminate e decise da un Comitato di Valutazione composto come segue:
+7\. Le pratiche istruite dal Comitato Tecnico sono esaminate e decise da un Comitato di Valutazione composto come segue:
 
 a) un funzionario della Segreteria di Stato per le Finanze e Bilancio che lo presiede;
 
@@ -1618,29 +1378,17 @@ e) un rappresentante delle Associazioni Bancarie e Finanziarie;
 
 f) un rappresentante delle Associazioni degli Operatori Economici.
 
-8.
+8\. Le riunioni del Comitato di Valutazione sono indette dal Presidente con comunicazione che deve pervenire agli aventi diritto almeno tre giorni prima della data fissata per la riunione.
 
-Le riunioni del Comitato di Valutazione sono indette dal Presidente con comunicazione che deve pervenire agli aventi diritto almeno tre giorni prima della data fissata per la riunione.
+9\. Le sedute del Comitato di Valutazione sono valide con la presenza della maggioranza dei suoi componenti. Le decisioni del Comitato di Valutazione vengono assunte a maggioranza dei suoi componenti ed in caso di parità prevale la soluzione proposta dal Presidente.
 
-9.
+10\. Le decisioni del Comitato di Valutazione vengono trascritte in apposito processo verbale ad opera di un segretario verbalizzante nominato tra i suoi componenti od anche al di fuori dei membri stessi.
 
-Le sedute del Comitato di Valutazione sono valide con la presenza della maggioranza dei suoi componenti. Le decisioni del Comitato di Valutazione vengono assunte a maggioranza dei suoi componenti ed in caso di parità prevale la soluzione proposta dal Presidente.
+11\. Il Comitato di Valutazione decide se autorizzare le richieste di finanziamento concesse ai sensi della presente legge, dopo aver esaminato le domande istruite dal Comitato Tecnico e tenuto conto del parere dello stesso. Eventuali decisioni difformi dal parere di conformità del Comitato Tecnico devono essere motivate in dettaglio. Il Comitato di Valutazione ha, inoltre, il compito di verificare la permanenza dei requisiti dei richiedenti beneficiari di finanziamenti.
 
-10.
+12\. Il Comitato di Valutazione può avvalersi della collaborazione di Pubblici Uffici per la richiesta di informazioni, documenti e ogni altro elemento attinente allo svolgimento delle proprie funzioni, ivi compresa la possibilità di demandare controlli per la verifica della permanenza dei requisiti dei richiedenti i benefici derivanti dalla presente legge, ovvero l’ottemperanza alle disposizioni dallo stesso impartite. Il Comitato di Valutazione può richiedere informazioni integrative al Comitato Tecnico, in riferimento alle domande di finanziamento esaminate.
 
-Le decisioni del Comitato di Valutazione vengono trascritte in apposito processo verbale ad opera di un segretario verbalizzante nominato tra i suoi componenti od anche al di fuori dei membri stessi.
-
-11.
-
-Il Comitato di Valutazione decide se autorizzare le richieste di finanziamento concesse ai sensi della presente legge, dopo aver esaminato le domande istruite dal Comitato Tecnico e tenuto conto del parere dello stesso. Eventuali decisioni difformi dal parere di conformità del Comitato Tecnico devono essere motivate in dettaglio. Il Comitato di Valutazione ha, inoltre, il compito di verificare la permanenza dei requisiti dei richiedenti beneficiari di finanziamenti.
-
-12.
-
-Il Comitato di Valutazione può avvalersi della collaborazione di Pubblici Uffici per la richiesta di informazioni, documenti e ogni altro elemento attinente allo svolgimento delle proprie funzioni, ivi compresa la possibilità di demandare controlli per la verifica della permanenza dei requisiti dei richiedenti i benefici derivanti dalla presente legge, ovvero l’ottemperanza alle disposizioni dallo stesso impartite. Il Comitato di Valutazione può richiedere informazioni integrative al Comitato Tecnico, in riferimento alle domande di finanziamento esaminate.
-
-13.
-
-Il funzionario di cui al precedente comma 7 punto b) assume le funzioni di Vice Presidente. In caso di assenza o impedimento del Presidente, il Vice Presidente può convocare le sedute del Comitato di Valutazione e presiederle, sottoscrivere i verbali e le relative delibere.6 Testo originario (Legge 109/2009):
+13\. Il funzionario di cui al precedente comma 7 punto b) assume le funzioni di Vice Presidente. In caso di assenza o impedimento del Presidente, il Vice Presidente può convocare le sedute del Comitato di Valutazione e presiederle, sottoscrivere i verbali e le relative delibere.6 Testo originario (Legge 109/2009):
 
 1\. Le domande per usufruire dei finanziamenti previsti dalla presente legge sono esaminate da un Comitato Tecnico composto come segue:
 
@@ -1660,9 +1408,7 @@ c) il direttore dell’Ufficio Tributario o suo delegato.
 
 (Requisiti per l’accesso ai finanziamenti)
 
-1.
-
-Possono godere dei benefici derivanti dalla presente legge le imprese industriali, artigianali, del turismo, commerciali e di servizio, di qualsivoglia ragione sociale,
+1\. Possono godere dei benefici derivanti dalla presente legge le imprese industriali, artigianali, del turismo, commerciali e di servizio, di qualsivoglia ragione sociale,
 
 5\. Il Comitato Tecnico istruisce la pratica di esame della domanda verificando la corrispondenza della stessa ai requisiti della presente legge sulla base delle informazioni in suo possesso e con la facoltà di richiedere ai competenti uffici dell’Amministrazione Pubblica ogni altra ulteriore informazione utile. La pratica istruita, comprensiva della documentazione presentata dal richiedente e corredata dal parere finale di conformità o meno ai requisiti di legge da parte del Comitato Tecnico, va trasmessa al Comitato di Valutazione.
 
@@ -1686,13 +1432,9 @@ f) un rappresentante delle Associazioni degli Operatori Economici.
 
 9\. Le sedute del Comitato di Valutazione sono valide con la presenza della maggioranza dei suoi componenti. Le decisioni del Comitato di Valutazione vengono assunte a maggioranza dei suoi componenti ed in caso di parità prevale la soluzione proposta dal Presidente.
 
-10.
+10\. Le decisioni del Comitato di Valutazione vengono trascritte in apposito processo verbale ad opera di un segretario verbalizzante nominato tra i suoi componenti od anche al di fuori dei membri stessi.
 
-Le decisioni del Comitato di Valutazione vengono trascritte in apposito processo verbale ad opera di un segretario verbalizzante nominato tra i suoi componenti od anche al di fuori dei membri stessi.
-
-11.
-
-Il Comitato di Valutazione decide se autorizzare le richieste di finanziamento concesse ai sensi della presente legge, dopo aver esaminato le domande istruite dal Comitato Tecnico e tenuto conto del parere dello stesso. Eventuali decisioni difformi dal parere di conformità del Comitato Tecnico devono essere motivate in dettaglio. Il Comitato di Valutazione ha, inoltre, il compito di verificare la permanenza dei requisiti dei richiedenti beneficiari di finanziamenti.
+11\. Il Comitato di Valutazione decide se autorizzare le richieste di finanziamento concesse ai sensi della presente legge, dopo aver esaminato le domande istruite dal Comitato Tecnico e tenuto conto del parere dello stesso. Eventuali decisioni difformi dal parere di conformità del Comitato Tecnico devono essere motivate in dettaglio. Il Comitato di Valutazione ha, inoltre, il compito di verificare la permanenza dei requisiti dei richiedenti beneficiari di finanziamenti.
 
 Il Comitato di Valutazione può avvalersi della collaborazione di Pubblici Uffici per la richiesta di informazioni, documenti e ogni altro elemento attinente allo svolgimento delle proprie funzioni, ivi compresa la possibilità di demandare controlli per la verifica della permanenza dei requisiti dei richiedenti i benefici derivanti dalla presente legge, ovvero l’ottemperanza alle disposizioni dallo stesso impartite. Il Comitato di Valutazione può richiedere informazioni integrative al Comitato Tecnico, in riferimento alle domande di finanziamento esaminate.
 
@@ -1706,25 +1448,17 @@ Dopo il comma 12 dell’articolo 2 della Legge 3 agosto 2009 n.109 è inserito i
 
 organizzate anche in forma societaria, che si impegneranno nella realizzazione di progetti con le caratteristiche richieste al successivo articolo 4.
 
-2.
-
-Costituiscono requisiti essenziali per la presentazione della domanda di accesso ai benefici derivanti dalla presente legge e per la valutazione della relativa domanda da parte del Comitato Tecnico:
+2\. Costituiscono requisiti essenziali per la presentazione della domanda di accesso ai benefici derivanti dalla presente legge e per la valutazione della relativa domanda da parte del Comitato Tecnico:
 
 a) possedere, l’impresa richiedente i benefici, l’autorizzazione (licenza) ad operare alla data di presentazione della domanda;
 
 b) avere, l’impresa richiedente i benefici, alle proprie dipendenze almeno due unità lavorative assunte a tempo indeterminato.
 
-3.
+3\. Quando l’azienda richiedente sia costituita in forma di società di capitali, essa deve avere il capitale sociale sottoscritto, come previsto da apposita legge.
 
-Quando l’azienda richiedente sia costituita in forma di società di capitali, essa deve avere il capitale sociale sottoscritto, come previsto da apposita legge.
+4\. Nell’accogliere la domanda di finanziamento, il Comitato di Valutazione potrà imporre al richiedente prescrizioni particolari e/o modalità esecutive ai fini dell’erogazione del finanziamento.
 
-4.
-
-Nell’accogliere la domanda di finanziamento, il Comitato di Valutazione potrà imporre al richiedente prescrizioni particolari e/o modalità esecutive ai fini dell’erogazione del finanziamento.
-
-5.
-
-E’ precluso l’accesso ai finanziamenti di cui alla presente legge alle imprese:
+5\. E’ precluso l’accesso ai finanziamenti di cui alla presente legge alle imprese:
 
 \- che sono oggetto di azioni esecutive ad opera del Dipartimento Esattoria della Banca Centrale della Repubblica di San Marino, a norma del Titolo II della Legge 25 maggio 2004 n. 70, volte al recupero di crediti vantati della Pubblica Amministrazione o dagli Enti del Settore Pubblico Allargato per importi superiori ad € 5.000,00;
 
@@ -1740,13 +1474,9 @@ E’ precluso l’accesso ai finanziamenti di cui alla presente legge alle impre
 
 (Progetti finanziabili)
 
-1.
+1\. Il Comitato di Valutazione può ammettere ai finanziamenti previsti dalla presente legge, i progetti aziendali che prevedano nuovi investimenti tesi ad uno sviluppo dell’impresa e/o ad un suo riposizionamento sul mercato e/o al mantenimento della sua capacità competitiva, attraverso i quali sia possibile mantenere od incrementare il numero delle risorse umane presso la stessa occupate.
 
-Il Comitato di Valutazione può ammettere ai finanziamenti previsti dalla presente legge, i progetti aziendali che prevedano nuovi investimenti tesi ad uno sviluppo dell’impresa e/o ad un suo riposizionamento sul mercato e/o al mantenimento della sua capacità competitiva, attraverso i quali sia possibile mantenere od incrementare il numero delle risorse umane presso la stessa occupate.
-
-2.
-
-Fatto salvo quanto previsto al comma precedente potranno accedere ai finanziamenti della presente legge i progetti che prevedano:
+2\. Fatto salvo quanto previsto al comma precedente potranno accedere ai finanziamenti della presente legge i progetti che prevedano:
 
 a) investimenti volti alla sostituzione degli impianti, delle attrezzature e dei macchinari necessarie alla gestione corrente dell’azienda;
 
@@ -1762,17 +1492,11 @@ e) gli investimenti tesi all’acquisizioni di aziende o rami d’azienda di imp
 
 f) investimenti aventi come oggetto la formazione professionale merceologica e tecnico informatica di reti commerciali e vendite.
 
-3.
+3\. I progetti che prevedono uno o più investimenti di cui alle lettere b) c) d) ed e) dovranno prevedere al fine della loro ammissibilità al finanziamento precisi piani occupazionali.7 Testo originario (Legge 109/2009):
 
-I progetti che prevedono uno o più investimenti di cui alle lettere b) c) d) ed e) dovranno prevedere al fine della loro ammissibilità al finanziamento precisi piani occupazionali.7 Testo originario (Legge 109/2009):
+1\. Il Comitato di Valutazione può ammettere ai finanziamenti previsti dalla presente legge, i progetti aziendali che prevedano nuovi investimenti tesi ad uno sviluppo dell’impresa e/o ad un suo riposizionamento sul mercato e/o al mantenimento della sua capacità competitiva, attraverso i quali sia possibile mantenere od incrementare il numero delle risorse umane presso la stessa occupate.
 
-1.
-
-Il Comitato di Valutazione può ammettere ai finanziamenti previsti dalla presente legge, i progetti aziendali che prevedano nuovi investimenti tesi ad uno sviluppo dell’impresa e/o ad un suo riposizionamento sul mercato e/o al mantenimento della sua capacità competitiva, attraverso i quali sia possibile mantenere od incrementare il numero delle risorse umane presso la stessa occupate.
-
-2.
-
-Fatto salvo quanto previsto al comma precedente potranno accedere ai finanziamenti della presente legge i progetti che prevedano:
+2\. Fatto salvo quanto previsto al comma precedente potranno accedere ai finanziamenti della presente legge i progetti che prevedano:
 
 a) investimenti volti alla sostituzione degli impianti, delle attrezzature e dei macchinari necessarie alla gestione corrente dell’azienda;
 
@@ -1800,21 +1524,13 @@ Al comma 2, dell’articolo 4, della Legge 3 agosto 2009 n.109 vengono aggiunte 
 
 (Domanda)
 
-1.
+1\. Le imprese che intendono usufruire dei finanziamenti previsti dalla presente legge devono presentare apposita domanda al Comitato Tecnico, presso l’Ufficio Industria, Artigianato e Commercio entro il 31 dicembre 2009.
 
-Le imprese che intendono usufruire dei finanziamenti previsti dalla presente legge devono presentare apposita domanda al Comitato Tecnico, presso l’Ufficio Industria, Artigianato e Commercio entro il 31 dicembre 2009.
+2\. La domanda deve essere sottoscritta dal legale rappresentante dell’impresa rappresenta un impegno unilaterale dell’impresa verso lo Stato di realizzare i progetti presentati e di rispettare i piani occupazionali previsti nell’ambito degli stessi.
 
-2.
+3\. La domanda dovrà indicare l’ammontare del finanziamento richiesto, i tempi e le modalità di erogazione dello stesso. Le modalità di ammortamento dei finanziamenti saranno definite nell’ambito del regolamento di cui al successivo articolo 13, nonché nell’ambito delle convenzioni stipulate con gli istituti di credito eroganti.
 
-La domanda deve essere sottoscritta dal legale rappresentante dell’impresa rappresenta un impegno unilaterale dell’impresa verso lo Stato di realizzare i progetti presentati e di rispettare i piani occupazionali previsti nell’ambito degli stessi.
-
-3.
-
-La domanda dovrà indicare l’ammontare del finanziamento richiesto, i tempi e le modalità di erogazione dello stesso. Le modalità di ammortamento dei finanziamenti saranno definite nell’ambito del regolamento di cui al successivo articolo 13, nonché nell’ambito delle convenzioni stipulate con gli istituti di credito eroganti.
-
-4.
-
-Alla domanda a pena di inammissibilità ed irricevibilità della stessa, dovrà essere allegata una relazione contenente:
+4\. Alla domanda a pena di inammissibilità ed irricevibilità della stessa, dovrà essere allegata una relazione contenente:
 
 a) la descrizione dell’attività svolta;
 
@@ -1832,13 +1548,9 @@ f) i tempi di attuazione del progetto ed ogni altro elemento utile alla valutazi
 
 (Finanziamenti)
 
-1.
+1\. Alle imprese alle quali sulla base dei progetti presentati saranno accordati i benefici della presente Legge sarà accordato un finanziamento sino all’importo massimo di € 5.000.000,00 assistito dal contributo in conto interessi da parte dello Stato.
 
-Alle imprese alle quali sulla base dei progetti presentati saranno accordati i benefici della presente Legge sarà accordato un finanziamento sino all’importo massimo di € 5.000.000,00 assistito dal contributo in conto interessi da parte dello Stato.
-
-2.
-
-La misura del contributo in conto interessi da parte dello Stato, per i progetti previsti all’articolo 4, comma 2, non potrà essere superiore: eventi meteorologici di natura eccezionale individuati da apposito decreto, il quale definisce la misura massima di intervento e le condizioni di ammissibilità ad integrazione e/o modifica di quelle previste dalla presente legge;
+2\. La misura del contributo in conto interessi da parte dello Stato, per i progetti previsti all’articolo 4, comma 2, non potrà essere superiore: eventi meteorologici di natura eccezionale individuati da apposito decreto, il quale definisce la misura massima di intervento e le condizioni di ammissibilità ad integrazione e/o modifica di quelle previste dalla presente legge;
 
 h) investimenti aventi ad oggetto la riparazione e/o sostituzione di macchinari ed attrezzature danneggiate in occasione degli eventi di cui alla lettera g) precedente.”.
 
@@ -1874,37 +1586,23 @@ d) all’80 % per gli investimenti di cui alla lettera d) inerenti ad attrezzatu
 
 e) al 40% per gli investimenti di cui alla lettera b), lettera c) e lettera d) inerenti ad immobili, elevabile al 60% se il piano occupazionale, di cui all’articolo 4, comma 3, prevede un incremento significativo delle unità lavorative.
 
-3.
+3\. La durata del finanziamento non potrà eccedere i 10 anni per i progetti nell’ambito dei quali gli investimenti in beni immobili costituiscono oltre il 50% degli investimenti totali ed in anni 5 per i restanti.
 
-La durata del finanziamento non potrà eccedere i 10 anni per i progetti nell’ambito dei quali gli investimenti in beni immobili costituiscono oltre il 50% degli investimenti totali ed in anni 5 per i restanti.
+4\. L’ammontare e la durata del finanziamento, nonché del contributo in conto interessi a carico dello Stato verranno stabiliti dal Comitato Tecnico di Valutazione fatte salve le disposizioni dei precedenti commi del presente articolo.
 
-4.
+5\. I finanziamenti potranno essere concessi nella forma del contratto di mutuo oppure nella forma del contratto di locazione finanziaria. In quest'ultimo caso, il contributo in conto canoni, corrisposto nelle percentuali previste nel presente articolo, verrà corrisposto nella misura che spetterebbe per l’acquisto dei beni medesimi.
 
-L’ammontare e la durata del finanziamento, nonché del contributo in conto interessi a carico dello Stato verranno stabiliti dal Comitato Tecnico di Valutazione fatte salve le disposizioni dei precedenti commi del presente articolo.
+6\. Il contributo verrà corrisposto ogni anno posticipatamente, alle imprese le cui domande siano state preventivamente approvate dal Comitato di Valutazione di cui al precedente articolo 2.
 
-5.
+7\. Qualora la realizzazione dei progetti comporti variazioni significative rispetto alle previsioni, il Comitato di Valutazione può disporre la variazione del prestito.
 
-I finanziamenti potranno essere concessi nella forma del contratto di mutuo oppure nella forma del contratto di locazione finanziaria. In quest'ultimo caso, il contributo in conto canoni, corrisposto nelle percentuali previste nel presente articolo, verrà corrisposto nella misura che spetterebbe per l’acquisto dei beni medesimi.
-
-6.
-
-Il contributo verrà corrisposto ogni anno posticipatamente, alle imprese le cui domande siano state preventivamente approvate dal Comitato di Valutazione di cui al precedente articolo 2.
-
-7.
-
-Qualora la realizzazione dei progetti comporti variazioni significative rispetto alle previsioni, il Comitato di Valutazione può disporre la variazione del prestito.
-
-8.
-
-Sarà possibile erogare direttamente alle aziende il contributo in conto interessi pattuito dal richiedente il finanziamento.
+8\. Sarà possibile erogare direttamente alle aziende il contributo in conto interessi pattuito dal richiedente il finanziamento.
 
 ### Art. 7
 
 (Decadenza dei benefici)
 
-1.
-
-Decadono dai benefici della presente legge e sono tenute alla restituzione, entro 180 giorni, del capitale residuo e del contributo in conti interessi erogato dallo Stato in relazione al finanziamento accordato sino alla data di decadenza:
+1\. Decadono dai benefici della presente legge e sono tenute alla restituzione, entro 180 giorni, del capitale residuo e del contributo in conti interessi erogato dallo Stato in relazione al finanziamento accordato sino alla data di decadenza:
 
 a) le imprese che non hanno avviato o completato i progetti oggetto del finanziamento entro i termini stabiliti;
 
@@ -1922,93 +1620,63 @@ g) le imprese che non rispettano le condizioni previste nel contratto di prestit
 
 h) le imprese che non forniscono, in base alle richieste del Comitato di Valutazione le informazioni necessarie a verificare la permanenza dei requisiti e l’insussistenza di cause di decadenza successivamente all’erogazione del finanziamento.
 
-2.
-
-La decadenza dai benefici della presente legge viene deliberata dal Comitato di Valutazione qualora sussistano una o più cause di cui al precedente comma 1.
+2\. La decadenza dai benefici della presente legge viene deliberata dal Comitato di Valutazione qualora sussistano una o più cause di cui al precedente comma 1.
 
 ### Art. 8
 
 (Cessione dei beni)
 
-1.
+1\. I beni, per i quali siano stati erogati i finanziamenti di cui alla presente legge, non potranno essere ceduti a qualsiasi titolo prima della totale estinzione del finanziamento, pena la decadenza dei benefici a norma del precedente articolo 7 salvo i casi di cui ai commi seguenti.
 
-I beni, per i quali siano stati erogati i finanziamenti di cui alla presente legge, non potranno essere ceduti a qualsiasi titolo prima della totale estinzione del finanziamento, pena la decadenza dei benefici a norma del precedente articolo 7 salvo i casi di cui ai commi seguenti.
+2\. L’eventuale cessione di beni per i quali sia stato concesso il finanziamento ai sensi della presente legge dovrà essere preventivamente autorizzata dal Comitato di Valutazione che potrà autorizzare la cessione dei beni stessi previo rimborso del debito residuo entro il termine massimo di 60 giorni dalla data dell’eventuale autorizzazione.
 
-2.
-
-L’eventuale cessione di beni per i quali sia stato concesso il finanziamento ai sensi della presente legge dovrà essere preventivamente autorizzata dal Comitato di Valutazione che potrà autorizzare la cessione dei beni stessi previo rimborso del debito residuo entro il termine massimo di 60 giorni dalla data dell’eventuale autorizzazione.
-
-3.
-
-Qualora i beni ceduti siano sostituiti da altri destinati allo stesso scopo produttivo, la disposizione di cui al comma che precede non si applica quando il valore dei nuovi beni sia almeno uguale a quello dei beni sostituiti, purché detta sostituzione sia stata preventivamente autorizzata dal Comitato di Valutazione.
+3\. Qualora i beni ceduti siano sostituiti da altri destinati allo stesso scopo produttivo, la disposizione di cui al comma che precede non si applica quando il valore dei nuovi beni sia almeno uguale a quello dei beni sostituiti, purché detta sostituzione sia stata preventivamente autorizzata dal Comitato di Valutazione.
 
 ### Art. 9
 
 (Copertura finanziaria)
 
-1.
+1\. I contributi in conto interessi e in conto canoni a carico dello Stato relativi ai finanziamenti di cui alla presente legge troveranno imputazione: a. per il corrente esercizio finanziario, sul Cap. 1-3-2390 “Fondo per interventi straordinari a sostegno dell’economia” ovvero su specifico capitolo di spesa da istituirsi in sede di Assestamento di Bilancio; b. per i successivi esercizi finanziari su apposito capitolo individuato nell’ambito delle leggi di bilancio.
 
-I contributi in conto interessi e in conto canoni a carico dello Stato relativi ai finanziamenti di cui alla presente legge troveranno imputazione: a. per il corrente esercizio finanziario, sul Cap. 1-3-2390 “Fondo per interventi straordinari a sostegno dell’economia” ovvero su specifico capitolo di spesa da istituirsi in sede di Assestamento di Bilancio; b. per i successivi esercizi finanziari su apposito capitolo individuato nell’ambito delle leggi di bilancio.
-
-2.
-
-I finanziamenti deliberati dal Comitato di Valutazione non ritirati dal richiedente, entro 12 mesi dalla data di deliberazione di cui al precedente articolo 2, devono intendersi decaduti ed il relativo importo potrà essere utilizzato per il finanziamento di nuove domande.
+2\. I finanziamenti deliberati dal Comitato di Valutazione non ritirati dal richiedente, entro 12 mesi dalla data di deliberazione di cui al precedente articolo 2, devono intendersi decaduti ed il relativo importo potrà essere utilizzato per il finanziamento di nuove domande.
 
 ### Art. 10
 
 (Garanzie)
 
-1.
+1\. I finanziamenti concessi in forza della presente legge sono assistiti da privilegio in favore dell’Istituto di Credito erogatore sui beni mobili ed immobili oggetto del finanziamento agevolato.
 
-I finanziamenti concessi in forza della presente legge sono assistiti da privilegio in favore dell’Istituto di Credito erogatore sui beni mobili ed immobili oggetto del finanziamento agevolato.
+2\. Il privilegio deve constare di apposita iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale se trattasi di beni mobili.
 
-2.
+3\. Il credito nascente dai finanziamenti di cui alla presente legge verrà soddisfatto col valore dei beni mobili ed immobili oggetto del finanziamento, in preferenza di ogni altro creditore privilegiato, ipotecario e pignoratizio ai sensi degli articoli 25 e 26 della Legge Ipotecaria 16 marzo 1854.
 
-Il privilegio deve constare di apposita iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale se trattasi di beni mobili.
-
-3.
-
-Il credito nascente dai finanziamenti di cui alla presente legge verrà soddisfatto col valore dei beni mobili ed immobili oggetto del finanziamento, in preferenza di ogni altro creditore privilegiato, ipotecario e pignoratizio ai sensi degli articoli 25 e 26 della Legge Ipotecaria 16 marzo 1854.
-
-4.
-
-Il privilegio di cui al primo comma può essere sostituito o integrato da fideiussioni bancarie, polizze fideiussorie o altre forme di garanzia all’uopo concordate con l’Istituto di credito.
+4\. Il privilegio di cui al primo comma può essere sostituito o integrato da fideiussioni bancarie, polizze fideiussorie o altre forme di garanzia all’uopo concordate con l’Istituto di credito.
 
 ### Art. 11
 
 (Revocatoria)
 
-1.
+1\. Le obbligazioni derivanti dai finanziamenti di cui alla presente legge ed il relativo privilegio indicato al precedente articolo10 non saranno soggetti, dopo il consolidamento del privilegio di cui al comma seguente, né all’azione revocatoria concorsuale prevista dall’articolo 3 della Legge 15 novembre 1917 n.17 e successive modifiche né all’azione revocatoria “pauliana”.
 
-Le obbligazioni derivanti dai finanziamenti di cui alla presente legge ed il relativo privilegio indicato al precedente articolo10 non saranno soggetti, dopo il consolidamento del privilegio di cui al comma seguente, né all’azione revocatoria concorsuale prevista dall’articolo 3 della Legge 15 novembre 1917 n.17 e successive modifiche né all’azione revocatoria “pauliana”.
-
-2.
-
-Il privilegio di cui al primo comma dell’articolo 10 si consolida entro 10 giorni dall’iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale.
+2\. Il privilegio di cui al primo comma dell’articolo 10 si consolida entro 10 giorni dall’iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale.
 
 ### Art. 12
 
 (Esenzioni)
 
-1.
-
-Le operazioni e formalità eseguite in applicazione della presente legge, sono esenti da ogni tassa di registro, di iscrizione, registrazione e cancellazione di privilegio.
+1\. Le operazioni e formalità eseguite in applicazione della presente legge, sono esenti da ogni tassa di registro, di iscrizione, registrazione e cancellazione di privilegio.
 
 ### Art. 13
 
 (Regolamento applicativo)
 
-1.
-
-Il Congresso di Stato su proposta del Comitato di cui al precedente articolo 2, provvederà all’emanazione di un regolamento per la gestione dei crediti agevolati entro 60 giorni dall’entrata in vigore della presente legge da adottarsi con decreto delegato o regolamento di cui all’articolo 5 comma 5 della Legge Costituzionale n. 185/2005.
+1\. Il Congresso di Stato su proposta del Comitato di cui al precedente articolo 2, provvederà all’emanazione di un regolamento per la gestione dei crediti agevolati entro 60 giorni dall’entrata in vigore della presente legge da adottarsi con decreto delegato o regolamento di cui all’articolo 5 comma 5 della Legge Costituzionale n. 185/2005.
 
 ### Art. 14
 
 (Entrata in vigore)
 
-1.
-
-La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
+1\. La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
 
 DECRETO - LEGGE 28 aprile 2011 n.67 (Ratifica Decreto – Legge 24 marzo 2011 n.42)
 
@@ -2230,21 +1898,15 @@ DISPOSIZIONI IN MATERIA DI CREDITO AGEVOLATO A SUPPORTO DELLE IMPRESE
 
 (Finalità)
 
-1.
-
-Il presente provvedimento ha lo scopo di sostenere e incentivare lo sviluppo economico della Repubblica di San Marino attraverso l’erogazione di prestiti a tasso agevolato destinati all’avvio di nuove attività economiche e qualificazione, diversificazione e consolidamento delle imprese esistenti. Il Congresso di Stato, a tal fine, è autorizzato a stipulare, con Istituti di Credito, convenzioni istitutive di aperture di credito in relazione a quanto previsto dal presente decreto delegato nonché a reperire finanziamenti internazionali a tasso agevolato nell’entità prevista annualmente dalla legge di approvazione del bilancio dello Stato.
+1\. Il presente provvedimento ha lo scopo di sostenere e incentivare lo sviluppo economico della Repubblica di San Marino attraverso l’erogazione di prestiti a tasso agevolato destinati all’avvio di nuove attività economiche e qualificazione, diversificazione e consolidamento delle imprese esistenti. Il Congresso di Stato, a tal fine, è autorizzato a stipulare, con Istituti di Credito, convenzioni istitutive di aperture di credito in relazione a quanto previsto dal presente decreto delegato nonché a reperire finanziamenti internazionali a tasso agevolato nell’entità prevista annualmente dalla legge di approvazione del bilancio dello Stato.
 
 ### Art. 2
 
 (Ambito di applicazione)
 
-1.
+1\. Possono godere dei benefici derivanti dal presente decreto delegato gli operatori economici che svolgono attività di impresa nel settore industriale, di servizio, artigianale e commerciale in qualsiasi veste giuridica.
 
-Possono godere dei benefici derivanti dal presente decreto delegato gli operatori economici che svolgono attività di impresa nel settore industriale, di servizio, artigianale e commerciale in qualsiasi veste giuridica.
-
-2.
-
-Sono esclusi dai benefici del presente decreto delegato:
+2\. Sono esclusi dai benefici del presente decreto delegato:
 
 a) i soggetti che svolgono attività bancaria, di finanziamento, di locazione finanziaria, così come individuate dalla Legge 17 novembre 2005 n.165 e successive modifiche, nonché le società di cui esse siano socie qualora la partecipazione superi il quinto del capitale sociale e il finanziamento sia erogato da diverso istituto;
 
@@ -2272,37 +1934,23 @@ c) le società che esercitano, in qualsiasi forma e anche parzialmente, l’atti
 
 \- articolo 21 della Legge 22 dicembre 2015 n.189.
 
-1.
+1\. I finanziamenti previsti dal presente decreto delegato non sono fra loro cumulabili salvo il caso in cui siano parte di un unico progetto di investimento e non sono cumulabili sul medesimo investimento con altre forme di credito agevolato che prevedano un contributo in conto interessi a carico dello Stato. L’importo finanziato non può eccedere in alcun caso l’ammontare degli oneri connessi alla realizzazione del progetto.
 
-I finanziamenti previsti dal presente decreto delegato non sono fra loro cumulabili salvo il caso in cui siano parte di un unico progetto di investimento e non sono cumulabili sul medesimo investimento con altre forme di credito agevolato che prevedano un contributo in conto interessi a carico dello Stato. L’importo finanziato non può eccedere in alcun caso l’ammontare degli oneri connessi alla realizzazione del progetto.
+2\. Inoltre non è ammesso alcun finanziamento, in base al presente decreto delegato, agli operatori economici beneficiari di agevolazioni fiscali in materia di imposte dirette ed in materia di aliquota dell’imposta sulle importazioni ai sensi del Decreto 20 luglio 2004 n. 100, sui medesimi beni o progetti già oggetto delle agevolazioni fiscali.
 
-2.
-
-Inoltre non è ammesso alcun finanziamento, in base al presente decreto delegato, agli operatori economici beneficiari di agevolazioni fiscali in materia di imposte dirette ed in materia di aliquota dell’imposta sulle importazioni ai sensi del Decreto 20 luglio 2004 n. 100, sui medesimi beni o progetti già oggetto delle agevolazioni fiscali.
-
-3.
-
-È consentito rinunciare da parte dell’operatore economico ai benefici di cui al comma precedente optando per le agevolazioni previste dal presente decreto delegato. Tale opzione viene esercitata presentando la richiesta di credito agevolato di cui al successivo articolo 6 e decorre dal periodo di imposta corrispondente all’anno di presentazione della predetta richiesta. L’Ufficio Tributario è informato in merito dall’Ufficio Industria, Artigianato e Commercio.9
+3\. È consentito rinunciare da parte dell’operatore economico ai benefici di cui al comma precedente optando per le agevolazioni previste dal presente decreto delegato. Tale opzione viene esercitata presentando la richiesta di credito agevolato di cui al successivo articolo 6 e decorre dal periodo di imposta corrispondente all’anno di presentazione della predetta richiesta. L’Ufficio Tributario è informato in merito dall’Ufficio Industria, Artigianato e Commercio.9
 
 ### Art. 4
 
 (Requisiti per l'accesso ai finanziamenti)
 
-1.
+1\. Costituiscono requisiti essenziali per la presentazione della domanda di accesso ai benefici derivanti dal presente decreto delegato, e per l'esame della relativa richiesta di cui all'articolo 6, essere titolari di licenza per l'esercizio di attività industriali, di servizio, artigianali o commerciali, in stato attivo, alla data di presentazione della domanda.
 
-Costituiscono requisiti essenziali per la presentazione della domanda di accesso ai benefici derivanti dal presente decreto delegato, e per l'esame della relativa richiesta di cui all'articolo 6, essere titolari di licenza per l'esercizio di attività industriali, di servizio, artigianali o commerciali, in stato attivo, alla data di presentazione della domanda.
+2\. È altresì ammissibile la richiesta di coloro che avendo presentato istanza per il rilascio di licenza abbiano stipulato una apposita convenzione con la Segreteria di Testo originario (Decreto Delegato 93/2013):
 
-2.
+1\. I finanziamenti previsti dal presente decreto delegato non sono fra loro cumulabili salvo il caso in cui siano parte di un unico progetto di investimento e non sono cumulabili sul medesimo investimento con altre forme di credito agevolato che prevedano un contributo in conto interessi a carico dello Stato. L’importo finanziato non può eccedere in alcun caso l’ammontare degli oneri connessi alla realizzazione del progetto.
 
-È altresì ammissibile la richiesta di coloro che avendo presentato istanza per il rilascio di licenza abbiano stipulato una apposita convenzione con la Segreteria di Testo originario (Decreto Delegato 93/2013):
-
-1.
-
-I finanziamenti previsti dal presente decreto delegato non sono fra loro cumulabili salvo il caso in cui siano parte di un unico progetto di investimento e non sono cumulabili sul medesimo investimento con altre forme di credito agevolato che prevedano un contributo in conto interessi a carico dello Stato. L’importo finanziato non può eccedere in alcun caso l’ammontare degli oneri connessi alla realizzazione del progetto.
-
-2.
-
-Inoltre non è ammesso alcun finanziamento in base al presente decreto delegato agli operatori economici beneficiari di agevolazioni fiscali in materia di imposte dirette ed in materia di aliquota dell'imposta sulle importazioni ai sensi del Decreto 20 luglio 2004 n.100.
+2\. Inoltre non è ammesso alcun finanziamento in base al presente decreto delegato agli operatori economici beneficiari di agevolazioni fiscali in materia di imposte dirette ed in materia di aliquota dell'imposta sulle importazioni ai sensi del Decreto 20 luglio 2004 n.100.
 
 È consentito rinunciare da parte dell’operatore economico ai benefici di cui al comma precedente optando per le agevolazioni previste dal presente decreto delegato. Tale opzione viene esercitata presentando la richiesta di credito agevolato di cui al successivo articolo 6 e decorre dal periodo di imposta corrispondente all’anno di presentazione della predetta richiesta. L’Ufficio Tributario è informato in merito dall’Ufficio Industria, Artigianato e Commercio.
 
@@ -2316,13 +1964,9 @@ Decreto Delegato 6 luglio 2017 n.77, Articolo 1:
 
 Stato per il Lavoro per l’assunzione di non meno di due dipendenti a tempo indeterminato, di cui almeno il 50% dalle liste di avviamento al lavoro.
 
-3.
+3\. Quando il richiedente sia costituito in forma di società di capitali, questi deve avere il capitale sociale versato come previsto dalla Legge 23 febbraio 2006 n. 47 e successive modifiche.
 
-Quando il richiedente sia costituito in forma di società di capitali, questi deve avere il capitale sociale versato come previsto dalla Legge 23 febbraio 2006 n. 47 e successive modifiche.
-
-4.
-
-È precluso l’accesso ai finanziamenti di cui al presente decreto delegato alle imprese che alla data di presentazione della richiesta:
+4\. È precluso l’accesso ai finanziamenti di cui al presente decreto delegato alle imprese che alla data di presentazione della richiesta:
 
 \- siano soggetti inidonei ai sensi della Legge n.47/2006 e successive modifiche e della normativa in materia di licenze, o
 
@@ -2336,13 +1980,9 @@ Quando il richiedente sia costituito in forma di società di capitali, questi de
 
 (Progetti finanziabili)
 
-1.
+1\. Il Comitato previsto all’articolo 7 ammette ai finanziamenti previsti dal presente decreto delegato, i progetti aziendali che prevedano nuovi investimenti tesi ad uno sviluppo dell’impresa e/o ad un suo riposizionamento sul mercato e/o al mantenimento della sua capacità competitiva e che, fatte salve specifiche deroghe previste dal presente decreto, comportino il mantenimento o l’incremento del numero delle risorse umane occupate nell’impresa stessa nel rispetto dei limiti minimi occupazionali previsti. Sono, altresì, considerati ammissibili gli investimenti in corso da non più di sei mesi dalla data della richiesta a decorrere dal primo acquisto di beni oggetto dell’investimento.
 
-Il Comitato previsto all’articolo 7 ammette ai finanziamenti previsti dal presente decreto delegato, i progetti aziendali che prevedano nuovi investimenti tesi ad uno sviluppo dell’impresa e/o ad un suo riposizionamento sul mercato e/o al mantenimento della sua capacità competitiva e che, fatte salve specifiche deroghe previste dal presente decreto, comportino il mantenimento o l’incremento del numero delle risorse umane occupate nell’impresa stessa nel rispetto dei limiti minimi occupazionali previsti. Sono, altresì, considerati ammissibili gli investimenti in corso da non più di sei mesi dalla data della richiesta a decorrere dal primo acquisto di beni oggetto dell’investimento.
-
-2.
-
-L’operatore economico titolare di licenza per l’esercizio dell’attività industriale in forza della normativa in materia di licenze, può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di € 1.000.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
+2\. L’operatore economico titolare di licenza per l’esercizio dell’attività industriale in forza della normativa in materia di licenze, può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di € 1.000.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
 
 a) all’acquisizione di beni strumentali materiali inerenti l’attività: impianti, attrezzature e macchinari per un valore complessivo minimo di € 50.000,00 purché alla data di ultima erogazione l’operatore abbia almeno 2 dipendenti se è una società, ovvero un dipendente a tempo indeterminato se impresa individuale. La durata massima del mutuo è di 5 anni con contributo in conto interessi da parte dello Stato pari al 70% del tasso convenzionato. L’investimento si ritiene concluso nei termini richiesti dal presente decreto delegato quando al massimo entro sei mesi dalla erogazione, ovvero dall’ultima erogazione qualora ricorra la situazione di cui all’articolo 10, comma 1, sia stato aggiornato l’avvio alla produzione ove ciò sia richiesto dalle specifiche normative di settore;
 
@@ -2354,9 +1994,7 @@ c) all’acquisizione di beni strumentali immateriali di diritto di brevetto ind
 
 d) sono altresì ammissibili investimenti di importo minimo pari a € 200.000,00 di cui alle superiori lettere per un progetto, anche parziale, di riposizionamento, riqualificazione e/o cambiamento dell’oggetto dell’attività a condizione che sia previsto un accordo di assunzione di personale con la Segreteria di Stato per il Lavoro, di almeno due dipendenti a tempo indeterminato di cui almeno il 50% assunto dalle liste di avviamento al lavoro, da assumersi entro sessanta giorni dalla data di ricevimento della delibera di autorizzazione. La durata massima del mutuo è di cinque anni con contributo in conto interessi da parte dello Stato pari al 100% del tasso convenzionato.
 
-3.
-
-L’operatore economico titolare di licenza per l’esercizio dell’attività di servizio in forza della normativa in materia di licenze può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di € 500.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
+3\. L’operatore economico titolare di licenza per l’esercizio dell’attività di servizio in forza della normativa in materia di licenze può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di € 500.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
 
 a) all’acquisizione di impianti, attrezzature e macchinari; per un valore complessivo minimo di € 30.000,00 a condizione che l’operatore alla data dell’ultima erogazione abbia almeno due dipendenti assunti a tempo indeterminato se è una società, ovvero un dipendente a tempo indeterminato se impresa individuale. La durata massima del mutuo è di cinque anni con contributo in conto interessi da parte dello Stato pari al 70% del tasso convenzionato. L’investimento si ritiene concluso nei termini richiesti dal presente decreto delegato quando al massimo entro sei mesi dalla erogazione, ovvero dall’ultima erogazione qualora ricorra la situazione di cui all’articolo 10, comma 1, sia stato aggiornato l’avvio alla produzione ove ciò sia richiesto dalle specifiche normative di settore;
 
@@ -2368,9 +2006,7 @@ c) all’acquisizione di beni strumentali immateriali di diritto di brevetto ind
 
 d) sono altresì ammissibili investimenti di importo minimo pari a € 200.000,00 di cui alle superiori lettere per un progetto, anche parziale, di riposizionamento, riqualificazione e/o cambiamento dell’oggetto dell’attività a condizione che sia previsto un accordo di assunzione di personale con la Segreteria di Stato per il Lavoro di almeno due dipendenti di cui almeno il 50% assunto dalle liste di avviamento al lavoro, da assumersi entro sessanta giorni dalla data di ricevimento della delibera di autorizzazione. La durata massima del mutuo è di cinque anni con contributo in conto interessi da parte dello Stato pari al 100% del tasso convenzionato.
 
-4.
-
-L’operatore economico titolare di licenza per l’esercizio dell’attività artigianale in forza della normativa in materia di licenze può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di € 500.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
+4\. L’operatore economico titolare di licenza per l’esercizio dell’attività artigianale in forza della normativa in materia di licenze può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di € 500.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
 
 a) all’acquisizione, da parte di titolari di licenza artigianale di produzione e di servizio, di beni strumentali materiali inerenti l'attività: impianti, attrezzature e macchinari per un valore complessivo minimo di € 20.000,00 purché:
 
@@ -2392,9 +2028,7 @@ c) all’acquisizione di beni strumentali immateriali di diritto di brevetto ind
 
 d) sono altresì ammissibili investimenti di importo minimo pari a € 100.000,00 di cui alle superiori lettere per un progetto, anche parziale, di riposizionamento, riqualificazione e/o cambiamento dell’oggetto dell’attività a condizione che sia previsto un accordo di assunzione di personale con la Segreteria di Stato per il Lavoro di un dipendente a tempo indeterminato assunto dalle liste di avviamento al lavoro o di più dipendenti di cui almeno il 50% assunto dalle liste di avviamento al lavoro, da assumersi entro sessanta giorni dalla data di ricevimento della delibera di autorizzazione. La durata massima del mutuo è di cinque anni con contributo in conto interessi da parte dello Stato pari al 100% del tasso convenzionato.
 
-5.
-
-L’operatore economico titolare di licenza per l’esercizio dell’attività commerciale in forza della normativa in materia di licenze può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di € 500.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
+5\. L’operatore economico titolare di licenza per l’esercizio dell’attività commerciale in forza della normativa in materia di licenze può accedere nell’arco temporale di due anni ad un importo di credito agevolato massimo complessivo di € 500.000,00 e per un massimo di due progetti, e per i progetti di investimento volti:
 
 a) all’acquisizione di beni strumentali materiali inerenti l’attività: impianti, attrezzature e macchinari per un valore complessivo minimo di:
 
@@ -2412,13 +2046,9 @@ d) sono altresì ammissibili investimenti di importo minimo pari a € 100.000,0
 
 e) ulteriori progetti di finanziamento potranno essere previsti nell’ambito dell’emanazione del Piano di Valorizzazione del Commercio di cui alla Legge 26 luglio 2010 n. 130.
 
-6.
+6\. All’operatore economico titolare di licenza che svolge una delle attività ricettive di cui agli articoli 14, 15, 16, 17 e 18 della Legge 27 gennaio 2006 n.22, nonché a quelli svolgenti quale attività prevalente quella di logistica, deposito, trasporti, non si applica il criterio della proporzione metri quadri-numero di dipendenti di cui alle precedenti lettere b) commi 2, 3, 4 e 5. Per tali attività l’importo finanziabile massimo è di € 1.000.000,00. La durata massima del mutuo è di dieci anni con contributo in conto interessi da parte dello Stato pari al 70% del tasso convenzionato. Gli operatori economici di cui al presente comma possono accedere, nell’arco temporale di due anni, ad un importo di credito agevolato massimo complessivo di € 1.000.000,00 e per un massimo di due progetti così come individuabili in base alla tipologia della licenza rilasciata.
 
-All’operatore economico titolare di licenza che svolge una delle attività ricettive di cui agli articoli 14, 15, 16, 17 e 18 della Legge 27 gennaio 2006 n.22, nonché a quelli svolgenti quale attività prevalente quella di logistica, deposito, trasporti, non si applica il criterio della proporzione metri quadri-numero di dipendenti di cui alle precedenti lettere b) commi 2, 3, 4 e 5. Per tali attività l’importo finanziabile massimo è di € 1.000.000,00. La durata massima del mutuo è di dieci anni con contributo in conto interessi da parte dello Stato pari al 70% del tasso convenzionato. Gli operatori economici di cui al presente comma possono accedere, nell’arco temporale di due anni, ad un importo di credito agevolato massimo complessivo di € 1.000.000,00 e per un massimo di due progetti così come individuabili in base alla tipologia della licenza rilasciata.
-
-7.
-
-In riferimento ai progetti di investimento è stabilito che:
+7\. In riferimento ai progetti di investimento è stabilito che:
 
 a) non sono finanziabili costi per investimenti aventi ad oggetto beni mobili, anche registrati, usati;
 
@@ -2432,61 +2062,37 @@ d) l’arco temporale di due anni di cui ai commi 2, 3, 4, 5 e 6 dell’articolo
 
 e) i limiti numerici previsti, il cui mancato rispetto costituisce motivo di decadenza, devono essere reintegrati entro sessanta giorni.
 
-8.
-
-Qualora l’operatore economico sia in possesso di diverse tipologie di licenza alla data di richiesta di credito agevolato, l’accesso ai benefici previsti dal presente decreto avviene, fermo restando il limite dei due progetti nell’arco temporale di due anni, entro l’importo massimo erogabile più favorevole in base alle tipologie di licenza di cui l’operatore economico è titolare. Nel caso il rilascio di altra tipologia della licenza avvenga successivamente alla prima richiesta di credito agevolato e la seconda richiesta nell’arco sempre temporale di due anni si riferisca alla nuova tipologia di licenza, si applica al secondo investimento il limite massimo ivi previsto dedotto il valore del primo investimento autorizzato.
+8\. Qualora l’operatore economico sia in possesso di diverse tipologie di licenza alla data di richiesta di credito agevolato, l’accesso ai benefici previsti dal presente decreto avviene, fermo restando il limite dei due progetti nell’arco temporale di due anni, entro l’importo massimo erogabile più favorevole in base alle tipologie di licenza di cui l’operatore economico è titolare. Nel caso il rilascio di altra tipologia della licenza avvenga successivamente alla prima richiesta di credito agevolato e la seconda richiesta nell’arco sempre temporale di due anni si riferisca alla nuova tipologia di licenza, si applica al secondo investimento il limite massimo ivi previsto dedotto il valore del primo investimento autorizzato.
 
 ### Art.5 – bis
 
 (Finanziamenti per immobili di proprietà dell’Ecc.ma Camera)
 
-1.
+1\. L’operatore economico di cui all’articolo 5, commi 2, 3, 4, 5 e 6, che abbia già usufruito o stia usufruendo dei finanziamenti previsti dal presente decreto delegato, nella misura massima concessa per il tipo di licenza intestata, per progetti di investimento volti alla realizzazione di immobili, ampliamento locali e superfici di lavoro nonché al loro ammodernamento o ristrutturazione al fine di migliorare i processi produttivi, o la sicurezza sul luogo di lavoro o la riduzione di emissioni inquinanti, qualora l’immobile oggetto dell’investimento sia di proprietà dell’Ecc.ma Camera, può avere accesso ad ulteriore credito agevolato per interventi sul medesimo immobile.
 
-L’operatore economico di cui all’articolo 5, commi 2, 3, 4, 5 e 6, che abbia già usufruito o stia usufruendo dei finanziamenti previsti dal presente decreto delegato, nella misura massima concessa per il tipo di licenza intestata, per progetti di investimento volti alla realizzazione di immobili, ampliamento locali e superfici di lavoro nonché al loro ammodernamento o ristrutturazione al fine di migliorare i processi produttivi, o la sicurezza sul luogo di lavoro o la riduzione di emissioni inquinanti, qualora l’immobile oggetto dell’investimento sia di proprietà dell’Ecc.ma Camera, può avere accesso ad ulteriore credito agevolato per interventi sul medesimo immobile.
+2\. La richiesta deve essere effettuata ai sensi dell’articolo 6.
 
-2.
+3\. Il Comitato di Valutazione di cui al comma 1 dell’articolo 7 provvede all’istruttoria della pratica entro trenta giorni dal ricevimento della domanda, provvede al suo esame e ne riferisce, per il tramite della Segreteria di Stato per l’Industria, Artigianato e Commercio, al Congresso di Stato per le deliberazioni di competenza.
 
-La richiesta deve essere effettuata ai sensi dell’articolo 6.
+4\. Il Congresso di Stato, vista la domanda ed il riferimento del Comitato di Valutazione, può deliberare la concessione del credito agevolato richiesto stipulando apposita convenzione con l’operatore economico, nella quale si stabilisce l’importo massimo finanziato, la durata e le modalità esecutive dell’erogazione del finanziamento, il termine di realizzazione del progetto, le garanzie sul finanziamento ricevuto nonché ogni altra prescrizione particolare. La delibera con la quale il Congresso di Stato nega la concessione del credito agevolato deve essere debitamente motivata.
 
-3.
+5\. Qualora si verifichino in fase di realizzazione del progetto di investimento variazioni significative rispetto alle previsioni del valore e delle caratteristiche del progetto stesso il Congresso di Stato, previo esame del Comitato di Valutazione tempestivamente informato dall’operatore economico autorizzato, può deliberare la variazione della convenzione di cui al comma precedente.
 
-Il Comitato di Valutazione di cui al comma 1 dell’articolo 7 provvede all’istruttoria della pratica entro trenta giorni dal ricevimento della domanda, provvede al suo esame e ne riferisce, per il tramite della Segreteria di Stato per l’Industria, Artigianato e Commercio, al Congresso di Stato per le deliberazioni di competenza.
+6\. La convenzione stipulata tra il Congresso di Stato e l’operatore economico di cui al comma 4, nonché le eventuali modifiche successive, è sottoposta all’approvazione del Consiglio Grande e Generale.
 
-4.
-
-Il Congresso di Stato, vista la domanda ed il riferimento del Comitato di Valutazione, può deliberare la concessione del credito agevolato richiesto stipulando apposita convenzione con l’operatore economico, nella quale si stabilisce l’importo massimo finanziato, la durata e le modalità esecutive dell’erogazione del finanziamento, il termine di realizzazione del progetto, le garanzie sul finanziamento ricevuto nonché ogni altra prescrizione particolare. La delibera con la quale il Congresso di Stato nega la concessione del credito agevolato deve essere debitamente motivata.
-
-5.
-
-Qualora si verifichino in fase di realizzazione del progetto di investimento variazioni significative rispetto alle previsioni del valore e delle caratteristiche del progetto stesso il Congresso di Stato, previo esame del Comitato di Valutazione tempestivamente informato dall’operatore economico autorizzato, può deliberare la variazione della convenzione di cui al comma precedente.
-
-6.
-
-La convenzione stipulata tra il Congresso di Stato e l’operatore economico di cui al comma 4, nonché le eventuali modifiche successive, è sottoposta all’approvazione del Consiglio Grande e Generale.
-
-7.
-
-Il contributo in conto interessi da parte dello Stato è pari al 70% del tasso convenzionato.10
+7\. Il contributo in conto interessi da parte dello Stato è pari al 70% del tasso convenzionato.10
 
 ### Art. 6
 
 (Richiesta di credito agevolato)
 
-1.
+1\. Le imprese che intendono usufruire dei finanziamenti previsti dal presente decreto delegato devono presentare apposita domanda in carta semplice al Comitato di Valutazione, presso l’Ufficio Industria, Artigianato e Commercio.
 
-Le imprese che intendono usufruire dei finanziamenti previsti dal presente decreto delegato devono presentare apposita domanda in carta semplice al Comitato di Valutazione, presso l’Ufficio Industria, Artigianato e Commercio.
+2\. La domanda, firmata dal legale rappresentante dell’impresa e vistata da un sindacato dei datori di lavoro regolarmente riconosciuto dalla Legge n.7/1961, rappresenta un impegno unilaterale dell’impresa verso lo Stato: chi sottoscrive la domanda si assume le conseguenti responsabilità di quanto viene dichiarato nella stessa.
 
-2.
+3\. La domanda deve indicare l’ammontare del finanziamento richiesto, i tempi e le modalità di erogazione dello stesso.
 
-La domanda, firmata dal legale rappresentante dell’impresa e vistata da un sindacato dei datori di lavoro regolarmente riconosciuto dalla Legge n.7/1961, rappresenta un impegno unilaterale dell’impresa verso lo Stato: chi sottoscrive la domanda si assume le conseguenti responsabilità di quanto viene dichiarato nella stessa.
-
-3.
-
-La domanda deve indicare l’ammontare del finanziamento richiesto, i tempi e le modalità di erogazione dello stesso.
-
-4.
-
-Alla domanda, a pena di inammissibilità ed irricevibilità della stessa, deve essere allegata una relazione contenente:
+4\. Alla domanda, a pena di inammissibilità ed irricevibilità della stessa, deve essere allegata una relazione contenente:
 
 a) la descrizione del progetto di investimento a norma dell’articolo 5 unitamente alla documentazione utile ad avvalorare le caratteristiche e il valore dell’investimento in Testo originario:
 
@@ -2522,9 +2128,7 @@ d) i tempi di attuazione del progetto ed ogni altro elemento utile alla valutazi
 
 (Modalità di autorizzazione del credito agevolato)
 
-1.
-
-Le domande per usufruire dei finanziamenti previsti dal presente decreto delegato sono esaminate in ordine di presentazione entro sessanta giorni lavorativi dalla loro presentazione, dal Comitato di Valutazione composto come segue:
+1\. Le domande per usufruire dei finanziamenti previsti dal presente decreto delegato sono esaminate in ordine di presentazione entro sessanta giorni lavorativi dalla loro presentazione, dal Comitato di Valutazione composto come segue:
 
 a) il direttore dell’Ufficio Industria Artigianato e Commercio o suo delegato, che lo presiede;
 
@@ -2534,33 +2138,19 @@ c) il direttore dell’Ufficio Tributario o suo delegato, con funzioni di vicepr
 
 Sono invitati a presenziare, senza farne parte, a scopo conoscitivo e consultivo, un rappresentante per ciascuna delle associazioni sindacali e dei sindacati dei datori di lavoro giuridicamente riconosciute ai sensi del Titolo I della Legge n.7/1961 e successiva modifiche. Le nomine di cui al presente comma vengono effettuate tramite delibera del Congresso di Stato.
 
-2.
+2\. Le riunioni del Comitato di Valutazione sono indette dal Presidente con comunicazione che deve pervenire agli aventi diritto almeno tre giorni prima della data fissata per la riunione ed in caso di parità prevale la soluzione proposta dal Presidente.
 
-Le riunioni del Comitato di Valutazione sono indette dal Presidente con comunicazione che deve pervenire agli aventi diritto almeno tre giorni prima della data fissata per la riunione ed in caso di parità prevale la soluzione proposta dal Presidente.
+3\. Le sedute del Comitato di Valutazione sono valide con la presenza della maggioranza dei suoi componenti. Le decisioni sono assunte a maggioranza dei presenti.
 
-3.
+4\. Le decisioni del Comitato di Valutazione vengono trascritte in apposito processo verbale ad opera di un segretario verbalizzante nominato tra i suoi componenti anche al di fuori dei membri stessi e vengono comunicate all’impresa richiedente.
 
-Le sedute del Comitato di Valutazione sono valide con la presenza della maggioranza dei suoi componenti. Le decisioni sono assunte a maggioranza dei presenti.
+5\. Il Comitato di Valutazione delibera l’accesso ai finanziamenti ed ai conseguenti contributi in conto interessi quando siano soddisfatti i requisisti richiesti.
 
-4.
+6\. Nell’accogliere la domanda di finanziamento, il Comitato di Valutazione può imporre al richiedente prescrizioni particolari e/o modalità esecutive ai fini dell’erogazione del finanziamento.
 
-Le decisioni del Comitato di Valutazione vengono trascritte in apposito processo verbale ad opera di un segretario verbalizzante nominato tra i suoi componenti anche al di fuori dei membri stessi e vengono comunicate all’impresa richiedente.
+7\. Qualora si verifichino in fase di realizzazione del progetto di investimento variazioni significative rispetto alle previsioni del valore e delle caratteristiche del progetto stesso, il Comitato di Valutazione può disporre la variazione dello stesso fermo restando il termine di realizzazione di cui al successivo comma 8, a condizione che l’operatore economico autorizzato informi tempestivamente il Comitato stesso.
 
-5.
-
-Il Comitato di Valutazione delibera l’accesso ai finanziamenti ed ai conseguenti contributi in conto interessi quando siano soddisfatti i requisisti richiesti.
-
-6.
-
-Nell’accogliere la domanda di finanziamento, il Comitato di Valutazione può imporre al richiedente prescrizioni particolari e/o modalità esecutive ai fini dell’erogazione del finanziamento.
-
-7.
-
-Qualora si verifichino in fase di realizzazione del progetto di investimento variazioni significative rispetto alle previsioni del valore e delle caratteristiche del progetto stesso, il Comitato di Valutazione può disporre la variazione dello stesso fermo restando il termine di realizzazione di cui al successivo comma 8, a condizione che l’operatore economico autorizzato informi tempestivamente il Comitato stesso.
-
-8.
-
-Il progetto di investimento deve essere realizzato entro dodici mesi dalla data di ricevimento della delibera di autorizzazione. A fronte di documentate esigenze tale termine può essere prorogato di
+8\. Il progetto di investimento deve essere realizzato entro dodici mesi dalla data di ricevimento della delibera di autorizzazione. A fronte di documentate esigenze tale termine può essere prorogato di
 
 a) ulteriori dodici mesi, qualora il progetto si riferisca agli interventi sugli immobili di cui al punto b) commi 2, 3, 4, 5 e 6 dell’articolo 5;
 
@@ -2570,17 +2160,11 @@ b) ulteriore centottanta giorni per i progetti di cui ai punti a), c) e d) commi
 
 (Contributo in conto interessi)
 
-1.
+1\. I finanziamenti possono essere concessi nella forma del contratto di mutuo, del contratto di locazione finanziaria o nelle diverse forme previste dalle convenzioni finanziarie di cui al successivo comma 3. In caso di locazione finanziaria, il contributo in conto canoni, corrisposto nelle percentuali previste nel presente decreto, viene corrisposto all’operatore economico nella misura che spetterebbe per l’acquisto dei beni medesimi.
 
-I finanziamenti possono essere concessi nella forma del contratto di mutuo, del contratto di locazione finanziaria o nelle diverse forme previste dalle convenzioni finanziarie di cui al successivo comma 3. In caso di locazione finanziaria, il contributo in conto canoni, corrisposto nelle percentuali previste nel presente decreto, viene corrisposto all’operatore economico nella misura che spetterebbe per l’acquisto dei beni medesimi.
+2\. Il credito agevolato può essere concesso per un massimo di cinque o dieci anni a seconda di quanto previsto dall’articolo 5 ed il rimborso del prestito avviene mediante il pagamento di rate semestrali posticipate costanti comprensive della quota di interessi a carico del beneficiario, con scadenza 30 giugno e 31 dicembre di ogni anno; la prima rata scade alla fine del primo semestre successivo a quello in cui è avvenuta l’erogazione della prima parte del prestito.
 
-2.
-
-Il credito agevolato può essere concesso per un massimo di cinque o dieci anni a seconda di quanto previsto dall’articolo 5 ed il rimborso del prestito avviene mediante il pagamento di rate semestrali posticipate costanti comprensive della quota di interessi a carico del beneficiario, con scadenza 30 giugno e 31 dicembre di ogni anno; la prima rata scade alla fine del primo semestre successivo a quello in cui è avvenuta l’erogazione della prima parte del prestito.
-
-3.
-
-Qualora l’erogazione del prestito avvenga nel corso del semestre, gli interessi sono totalmente a carico del beneficiario, sino al 30 giugno o 31 dicembre successivo.
+3\. Qualora l’erogazione del prestito avvenga nel corso del semestre, gli interessi sono totalmente a carico del beneficiario, sino al 30 giugno o 31 dicembre successivo.
 
 Gli istituti di credito sottoscrittori della convenzione finanziaria sono tenuti ad applicare per il periodo di preammortamento e limitatamente alle somme ammesse al prestito agevolato, tassi di interesse non superiori a quelli previsti annualmente nelle succitate Convenzioni finanziarie. 3bis. L’operatore economico può anche stipulare mutui di durata superiore al numero di anni massimi indicati nel presente decreto ma in ogni caso non superando il doppio della durata stabilita. In tal caso, l’erogazione del contributo in conto interessi da parte dello Stato è comunque limitata al numero massimo di anni previsto e durante il periodo eccedente dovrà essere applicato il tasso di cui al comma precedente.
 
@@ -2600,17 +2184,11 @@ Testo originario (Decreto Delegato n.93/2013):
 
 (Impegnativa)
 
-1.
+1\. La concessione dei finanziamenti di cui al presente articolo è subordinata all’esistenza, in capo al richiedente, di requisiti di solidità economica e patrimoniale che vengono valutati dall’Istituto di Credito erogante.
 
-La concessione dei finanziamenti di cui al presente articolo è subordinata all’esistenza, in capo al richiedente, di requisiti di solidità economica e patrimoniale che vengono valutati dall’Istituto di Credito erogante.
+2\. L’Istituto di Credito convenzionato, disposto ad erogare i prestiti agevolati, in relazione alla specifica domanda di finanziamento, produce il relativo piano di rimborso del finanziamento e lo trasmette al Comitato di Valutazione indicando le garanzie di cui all’articolo 14.
 
-2.
-
-L’Istituto di Credito convenzionato, disposto ad erogare i prestiti agevolati, in relazione alla specifica domanda di finanziamento, produce il relativo piano di rimborso del finanziamento e lo trasmette al Comitato di Valutazione indicando le garanzie di cui all’articolo 14.
-
-3.
-
-Qualora l’Istituto di Credito ritenga debba essere revocata anche parzialmente l’impegnativa a suo tempo rilasciata, deve darne immediata comunicazione al Comitato di Valutazione per l’adozione delle procedure di revoca anche parziale del credito autorizzato attivando le conseguenti operazioni comprensive del recupero degli interessi a carico dello Stato.12 indicato nel presente comma e restano soggette alle procedure di cui all’ultimo comma del medesimo articolo con decadenza corrispondente alla durata del mutuo.
+3\. Qualora l’Istituto di Credito ritenga debba essere revocata anche parzialmente l’impegnativa a suo tempo rilasciata, deve darne immediata comunicazione al Comitato di Valutazione per l’adozione delle procedure di revoca anche parziale del credito autorizzato attivando le conseguenti operazioni comprensive del recupero degli interessi a carico dello Stato.12 indicato nel presente comma e restano soggette alle procedure di cui all’ultimo comma del medesimo articolo con decadenza corrispondente alla durata del mutuo.
 
 Modifiche legislative:
 
@@ -2624,13 +2202,9 @@ Decreto Delegato 6 luglio 2017 n.77, Articolo 3:
 
 “2. Il credito agevolato può essere concesso per un massimo di cinque o dieci anni ai sensi di quanto previsto dall’articolo 5 ed il rimborso del prestito avviene mediante il pagamento di rate semestrali posticipate costanti comprensive della quota di interessi a carico del beneficiario, con scadenza 30 giugno e 31 dicembre di ogni anno; la prima rata scade alla fine del primo semestre successivo a quello in cui è avvenuta l’erogazione della prima parte del prestito. Le convenzioni finanziarie di cui al comma 3 possono prevedere differenti modalità e frequenza di rimborso e non può venir prevista frequenza inferiore a n.1 rata ogni dodici mesi.”. 12 Testo originario (Decreto Delegato n.93/2013):
 
-1.
+1\. La concessione dei finanziamenti di cui al presente articolo è subordinata all’esistenza, in capo al richiedente, di requisiti di solidità economica e patrimoniale che vengono valutati dall’Istituto di Credito erogante.
 
-La concessione dei finanziamenti di cui al presente articolo è subordinata all’esistenza, in capo al richiedente, di requisiti di solidità economica e patrimoniale che vengono valutati dall’Istituto di Credito erogante.
-
-2.
-
-L’Istituto di Credito convenzionato, disposto ad erogare i prestiti agevolati, in relazione alla specifica domanda di mutuo, produce il relativo piano di ammortamento del finanziamento e lo trasmette al Comitato di Valutazione indicando le garanzie di cui all’articolo 14.
+2\. L’Istituto di Credito convenzionato, disposto ad erogare i prestiti agevolati, in relazione alla specifica domanda di mutuo, produce il relativo piano di ammortamento del finanziamento e lo trasmette al Comitato di Valutazione indicando le garanzie di cui all’articolo 14.
 
 Qualora l’Istituto di Credito ritenga debba essere revocata anche parzialmente l’impegnativa a suo tempo rilasciata, deve darne immediata comunicazione al Comitato di Valutazione per l’adozione delle procedure di revoca anche parziale del credito autorizzato attivando le conseguenti operazioni comprensive del recupero degli interessi a carico dello Stato.
 
@@ -2644,41 +2218,25 @@ Decreto Delegato 6 luglio 2017 n.77, Articolo 4:
 
 Art 10 (Erogazione)
 
-1.
+1\. L'erogazione del beneficio avviene dopo aver documentato la realizzazione anche parziale dell'investimento, a condizione che sia sussistente l’impegnativa di cui al precedente articolo e siano stati perfezionati i relativi atti a garanzia di cui all’articolo 14.
 
-L'erogazione del beneficio avviene dopo aver documentato la realizzazione anche parziale dell'investimento, a condizione che sia sussistente l’impegnativa di cui al precedente articolo e siano stati perfezionati i relativi atti a garanzia di cui all’articolo 14.
+2\. Sono considerati finanziabili gli acconti debitamente documentati.
 
-2.
+3\. Il Presidente del Comitato di Valutazione, per conto del Comitato stesso, trasmette all’Istituto di Credito convenzionato e alla Direzione della Finanza Pubblica, le autorizzazioni ad erogare il prestito.
 
-Sono considerati finanziabili gli acconti debitamente documentati.
-
-3.
-
-Il Presidente del Comitato di Valutazione, per conto del Comitato stesso, trasmette all’Istituto di Credito convenzionato e alla Direzione della Finanza Pubblica, le autorizzazioni ad erogare il prestito.
-
-4.
-
-Fatte salve le disposizioni dettate dal presente decreto delegato, gli aspetti procedurali dell’erogazione dei finanziamenti sono disciplinati nell’ambito delle convenzioni stipulate con gli Istituti di Credito.
+4\. Fatte salve le disposizioni dettate dal presente decreto delegato, gli aspetti procedurali dell’erogazione dei finanziamenti sono disciplinati nell’ambito delle convenzioni stipulate con gli Istituti di Credito.
 
 ### Art.10 - bis
 
 (Subingresso nel finanziamento)
 
-1.
+1\. E’ consentito il subingresso nel finanziamento, in tutto oppure in parte, di un altro Istituto di Credito convenzionato, il quale subentra nelle garanzie, personali e reali, accessorie al credito.
 
-E’ consentito il subingresso nel finanziamento, in tutto oppure in parte, di un altro Istituto di Credito convenzionato, il quale subentra nelle garanzie, personali e reali, accessorie al credito.
+2\. Il subingresso di cui al comma 1 comporta il trasferimento dei diritti e degli obblighi derivanti dal contratto di finanziamento, nonché dei relativi crediti, alle condizioni stipulate tra il beneficiario e l’Istituto di Credito intermediario. Il subingresso deve essere annotato nei pubblici registri con le modalità previste dalla normativa vigente.
 
-2.
+3\. L’istituto di Credito cedente ed il subentrante restano obbligati nei confronti dell’erario ai sensi dell’art. 11, comma 4, ciascuno per la quota di interessi erogata per il periodo nel quale era parte del contratto di finanziamento, salvo diverso accordo tra gli stessi Istituti di Credito.
 
-Il subingresso di cui al comma 1 comporta il trasferimento dei diritti e degli obblighi derivanti dal contratto di finanziamento, nonché dei relativi crediti, alle condizioni stipulate tra il beneficiario e l’Istituto di Credito intermediario. Il subingresso deve essere annotato nei pubblici registri con le modalità previste dalla normativa vigente.
-
-3.
-
-L’istituto di Credito cedente ed il subentrante restano obbligati nei confronti dell’erario ai sensi dell’art. 11, comma 4, ciascuno per la quota di interessi erogata per il periodo nel quale era parte del contratto di finanziamento, salvo diverso accordo tra gli stessi Istituti di Credito.
-
-4.
-
-L’accordo di subingresso deve essere comunicato al Comitato di Valutazione entro trenta giorni dalla stipula.13
+4\. L’accordo di subingresso deve essere comunicato al Comitato di Valutazione entro trenta giorni dalla stipula.13
 
 ### Art.10 - ter
 
@@ -2700,21 +2258,15 @@ Decreto Delegato 6 luglio 2017 n.77, Articolo 5:
 
 4\. L’accordo di subingresso deve essere comunicato al Comitato di Valutazione entro trenta giorni dalla stipula.”.
 
-1.
+1\. In caso di cessione del credito e delle garanzie che lo assistono ad un soggetto non convenzionato, dopo l’integrale erogazione del finanziamento, il contributo in conto interessi continua a essere erogato al beneficiario del finanziamento per il tramite dell’Istituto di Credito cedente, o da altro Istituto di Credito da questi designato.
 
-In caso di cessione del credito e delle garanzie che lo assistono ad un soggetto non convenzionato, dopo l’integrale erogazione del finanziamento, il contributo in conto interessi continua a essere erogato al beneficiario del finanziamento per il tramite dell’Istituto di Credito cedente, o da altro Istituto di Credito da questi designato.
-
-2.
-
-L’Istituto di Credito cedente resta obbligato nei confronti dell’Erario per l’eventuale restituzione del contributo ai sensi dell’art. 11, comma 4, ivi comprese le quote di contributo erogate dopo la cessione del credito. 2-bis. La cessione di cui al presente articolo deve essere comunicata al Comitato di Valutazione entro trenta giorni dalla stipula.14
+2\. L’Istituto di Credito cedente resta obbligato nei confronti dell’Erario per l’eventuale restituzione del contributo ai sensi dell’art. 11, comma 4, ivi comprese le quote di contributo erogate dopo la cessione del credito. 2-bis. La cessione di cui al presente articolo deve essere comunicata al Comitato di Valutazione entro trenta giorni dalla stipula.14
 
 ### Art. 11
 
 (Decadenza dei benefici)
 
-1.
-
-Decadono dai benefici del presente decreto delegato e sono tenute alla restituzione, entro centottanta giorni dalla dichiarazione di decadenza da parte del Comitato di Valutazione, del contributo in conti interessi erogato dallo Stato in relazione al finanziamento accordato sino alla data di decadenza in proporzione alla durata del finanziamento rispetto al periodo di fruizione del contributo pubblico e secondo le modalità di cui al comma 3 del presente articolo:
+1\. Decadono dai benefici del presente decreto delegato e sono tenute alla restituzione, entro centottanta giorni dalla dichiarazione di decadenza da parte del Comitato di Valutazione, del contributo in conti interessi erogato dallo Stato in relazione al finanziamento accordato sino alla data di decadenza in proporzione alla durata del finanziamento rispetto al periodo di fruizione del contributo pubblico e secondo le modalità di cui al comma 3 del presente articolo:
 
 a) le imprese che non hanno avviato o completato i progetti oggetto del finanziamento entro i termini stabiliti;
 
@@ -2744,23 +2296,15 @@ g) le imprese che non forniscono, in base alle richieste del Comitato di Valutaz
 
 h) nel caso indicato all’articolo 9, comma 3.
 
-2.
+2\. Il Presidente del Comitato di Valutazione o in assenza il Vicepresidente, a tutela dell’interesse pubblico, informando i componenti del Comitato, provvede alla revoca di cui al presente articolo all’atto dell’accertamento dell’inadempimento.
 
-Il Presidente del Comitato di Valutazione o in assenza il Vicepresidente, a tutela dell’interesse pubblico, informando i componenti del Comitato, provvede alla revoca di cui al presente articolo all’atto dell’accertamento dell’inadempimento.
+3\. L’importo di cui al comma 1 del presente articolo, si determina rapportando l’importo del valore totale dei contributi semestrali erogati, al periodo di durata del mutuo fino alla revoca e la durata stabilita del mutuo stesso.
 
-3.
-
-L’importo di cui al comma 1 del presente articolo, si determina rapportando l’importo del valore totale dei contributi semestrali erogati, al periodo di durata del mutuo fino alla revoca e la durata stabilita del mutuo stesso.
-
-4.
-
-L’Istituto di Credito erogante o la società concedente i beni oggetto del contratto di locazione finanziaria nei termini di cui al comma 1 sono tenuti a rifondere all’Erario la quota di interessi passivi pagata dall’Erario stesso. La decadenza dai benefici di cui al comma 1 e la conseguente rifusione della quota di interessi passivi dovuta all’Erario non determinano di per sé la decadenza del finanziamento, che è eventualmente dichiarata dall’istituto di Credito, in conformità alle disposizioni di legge e al contratto stipulato.15
+4\. L’Istituto di Credito erogante o la società concedente i beni oggetto del contratto di locazione finanziaria nei termini di cui al comma 1 sono tenuti a rifondere all’Erario la quota di interessi passivi pagata dall’Erario stesso. La decadenza dai benefici di cui al comma 1 e la conseguente rifusione della quota di interessi passivi dovuta all’Erario non determinano di per sé la decadenza del finanziamento, che è eventualmente dichiarata dall’istituto di Credito, in conformità alle disposizioni di legge e al contratto stipulato.15
 
 Testo originario (Decreto Delegato n.93/2013):
 
-1.
-
-Decadono dai benefici del presente decreto delegato e sono tenute alla restituzione, entro centottanta giorni dalla dichiarazione di decadenza da parte del Comitato di Valutazione, del capitale residuo e del contributo in conti interessi erogato dallo Stato in relazione al finanziamento accordato sino alla data di decadenza in proporzione alla durata del finanziamento rispetto al periodo di fruizione del contributo pubblico e secondo le modalità di cui al comma 3 del presente articolo:
+1\. Decadono dai benefici del presente decreto delegato e sono tenute alla restituzione, entro centottanta giorni dalla dichiarazione di decadenza da parte del Comitato di Valutazione, del capitale residuo e del contributo in conti interessi erogato dallo Stato in relazione al finanziamento accordato sino alla data di decadenza in proporzione alla durata del finanziamento rispetto al periodo di fruizione del contributo pubblico e secondo le modalità di cui al comma 3 del presente articolo:
 
 a) le imprese che non hanno avviato o completato i progetti oggetto del finanziamento entro i termini stabiliti;
 
@@ -2778,17 +2322,11 @@ g) le imprese che non forniscono, in base alle richieste del Comitato di Valutaz
 
 h) nel caso indicato all’articolo 9, comma 3.
 
-2.
+2\. Il Presidente del Comitato di Valutazione o in assenza il Vicepresidente, a tutela dell’interesse pubblico, informando i componenti del Comitato, provvede alla revoca di cui al presente articolo all’atto dell’accertamento dell’inadempimento.
 
-Il Presidente del Comitato di Valutazione o in assenza il Vicepresidente, a tutela dell’interesse pubblico, informando i componenti del Comitato, provvede alla revoca di cui al presente articolo all’atto dell’accertamento dell’inadempimento.
+3\. L’importo di cui al comma 1 del presente articolo, si determina rapportando l’importo del valore totale dei contributi semestrali erogati, al periodo di durata del mutuo fino alla revoca e la durata stabilita del mutuo stesso.
 
-3.
-
-L’importo di cui al comma 1 del presente articolo, si determina rapportando l’importo del valore totale dei contributi semestrali erogati, al periodo di durata del mutuo fino alla revoca e la durata stabilita del mutuo stesso.
-
-4.
-
-L’Istituto di Credito erogante o la società concedente i beni oggetto del contratto di locazione finanziaria nei termini di cui al comma 1 sono tenuti:
+4\. L’Istituto di Credito erogante o la società concedente i beni oggetto del contratto di locazione finanziaria nei termini di cui al comma 1 sono tenuti:
 
 ### Art. 11 bis
 
@@ -2830,33 +2368,21 @@ h) nel caso indicato all’articolo 9, comma 3.
 
 4\. L’Istituto di Credito erogante o la società concedente i beni oggetto del contratto di locazione finanziaria nei termini di cui al comma 1 sono tenuti a rifondere all’Erario la quota di interessi passivi pagata dall’Erario stesso. La decadenza dai benefici di cui al comma 1 e la conseguente rifusione della quota di interessi passivi dovuta all’Erario non determinano di per sé la decadenza del finanziamento, che è eventualmente dichiarata dall’istituto di Credito, in conformità alle disposizioni di legge e al contratto stipulato.”.
 
-8.
+8\. Per tutti i prestiti agevolati di qualsiasi natura alle imprese in cui lo Stato si assume o si è assunto l’onere di contribuire al pagamento degli interessi, sia su mutui concessi dagli istituti di credito sia per quelli realizzati tramite locazione finanziaria, in caso di cessazione, revoca, sospensione della licenza di esercizio si applicano le seguenti disposizioni ferme restando le altre condizioni previsti dalle disposizioni autorizzative.
 
-Per tutti i prestiti agevolati di qualsiasi natura alle imprese in cui lo Stato si assume o si è assunto l’onere di contribuire al pagamento degli interessi, sia su mutui concessi dagli istituti di credito sia per quelli realizzati tramite locazione finanziaria, in caso di cessazione, revoca, sospensione della licenza di esercizio si applicano le seguenti disposizioni ferme restando le altre condizioni previsti dalle disposizioni autorizzative.
+9\. Qualora intervengano cessazioni o revoche della licenza secondo le disposizioni in vigore, si dà corso al recupero delle somme erogate secondo i criteri previsti dall’articolo 11.
 
-9.
+10\. In caso di sospensione della licenza, in base alle disposizioni in vigore, che avvenga a qualsiasi titolo, se la sospensione consecutivamente supera i sei mesi, si dà corso alla sospensione del contributo interessi per il semestre o i semestri interessati.
 
-Qualora intervengano cessazioni o revoche della licenza secondo le disposizioni in vigore, si dà corso al recupero delle somme erogate secondo i criteri previsti dall’articolo 11.
-
-10.
-
-In caso di sospensione della licenza, in base alle disposizioni in vigore, che avvenga a qualsiasi titolo, se la sospensione consecutivamente supera i sei mesi, si dà corso alla sospensione del contributo interessi per il semestre o i semestri interessati.
-
-11.
-
-In caso di trasferimento della titolarità della licenza che avvenga o meno con cessione di azienda o di un ramo di azienda, il mutuo viene estinto, oppure ove ne sussistano le condizioni viene trasferito a favore del titolare che subentra stipulando un nuovo contratto di mutuo per il residuo periodo anche attraverso altro Ente erogatore purchè sia avanzata richiesta prima del rilascio. In caso di estinzione si applicano i criteri previsti dall’articolo 11 per il recupero delle somme erogate.16
+11\. In caso di trasferimento della titolarità della licenza che avvenga o meno con cessione di azienda o di un ramo di azienda, il mutuo viene estinto, oppure ove ne sussistano le condizioni viene trasferito a favore del titolare che subentra stipulando un nuovo contratto di mutuo per il residuo periodo anche attraverso altro Ente erogatore purchè sia avanzata richiesta prima del rilascio. In caso di estinzione si applicano i criteri previsti dall’articolo 11 per il recupero delle somme erogate.16
 
 ### Art. 12
 
 (Funzioni dell'Ufficio Industria, Artigianato e Commercio)
 
-1.
+1\. Ogni comunicazione da rivolgersi al Comitato di Valutazione deve essere indirizzata allo stesso, presso l’Ufficio Industria, Artigianato e Commercio.
 
-Ogni comunicazione da rivolgersi al Comitato di Valutazione deve essere indirizzata allo stesso, presso l’Ufficio Industria, Artigianato e Commercio.
-
-2.
-
-L’Ufficio Industria, Artigianato e Commercio istruisce la pratica di esame della domanda verificando la corrispondenza della stessa ai requisiti dal presente decreto delegato sulla base delle informazioni in suo possesso e con la facoltà di richiedere ai competenti uffici dell’Amministrazione Pubblica ogni altra ulteriore informazione utile.
+2\. L’Ufficio Industria, Artigianato e Commercio istruisce la pratica di esame della domanda verificando la corrispondenza della stessa ai requisiti dal presente decreto delegato sulla base delle informazioni in suo possesso e con la facoltà di richiedere ai competenti uffici dell’Amministrazione Pubblica ogni altra ulteriore informazione utile.
 
 Testo originario:
 
@@ -2874,75 +2400,45 @@ Decreto Delegato 20 marzo 2015 n.33, Articolo Unico:
 
 4\. In caso di trasferimento della titolarità della licenza che avvenga o meno con cessione di azienda o di un ramo di azienda, il mutuo viene estinto, oppure ove ne sussistano le condizioni viene trasferito a favore del titolare che subentra stipulando un nuovo contratto di mutuo per il residuo periodo anche attraverso altro Ente erogatore purchè sia avanzata richiesta prima del rilascio. In caso di estinzione si applicano i criteri previsti dall’articolo 11 per il recupero delle somme erogate.”.
 
-3.
-
-L’Ufficio Industria Artigianato e Commercio, avvalendosi anche di altri uffici dell'amministrazione, ha il compito di verificare la permanenza dei requisiti dei richiedenti beneficiari di finanziamenti e di sottoporre tempestivamente al Comitato di Valutazione le situazioni di inadempimento secondo le procedute di cui all’articolo 11.
+3\. L’Ufficio Industria Artigianato e Commercio, avvalendosi anche di altri uffici dell'amministrazione, ha il compito di verificare la permanenza dei requisiti dei richiedenti beneficiari di finanziamenti e di sottoporre tempestivamente al Comitato di Valutazione le situazioni di inadempimento secondo le procedute di cui all’articolo 11.
 
 ### Art. 13
 
 (Cessione dei beni oggetto del finanziamento)
 
-1.
+1\. I beni, per i quali siano stati erogati i finanziamenti di cui al presente decreto delegato, non possono essere ceduti a qualsiasi titolo prima della totale estinzione del finanziamento, pena la decadenza dei benefici a norma del precedente articolo 11 salvo i casi di cui ai commi seguenti.
 
-I beni, per i quali siano stati erogati i finanziamenti di cui al presente decreto delegato, non possono essere ceduti a qualsiasi titolo prima della totale estinzione del finanziamento, pena la decadenza dei benefici a norma del precedente articolo 11 salvo i casi di cui ai commi seguenti.
+2\. L’eventuale cessione di beni per i quali sia stato concesso il finanziamento ai sensi del presente decreto delegato deve essere preventivamente autorizzata dal Comitato di Valutazione che può autorizzare la cessione dei beni stessi previo rimborso del debito residuo entro il termine massimo di sessanta giorni dalla data dell’eventuale autorizzazione. Tale rimborso è escluso qualora i beni oggetto del finanziamento siano ceduti ad altro operatore economico avente i necessari requisiti previsti dal presente decreto delegato per ottenere i medesimi benefici ed in osservanza delle disposizioni stabilite dal presente decreto delegato in materia di impegnativa e garanzie.
 
-2.
-
-L’eventuale cessione di beni per i quali sia stato concesso il finanziamento ai sensi del presente decreto delegato deve essere preventivamente autorizzata dal Comitato di Valutazione che può autorizzare la cessione dei beni stessi previo rimborso del debito residuo entro il termine massimo di sessanta giorni dalla data dell’eventuale autorizzazione. Tale rimborso è escluso qualora i beni oggetto del finanziamento siano ceduti ad altro operatore economico avente i necessari requisiti previsti dal presente decreto delegato per ottenere i medesimi benefici ed in osservanza delle disposizioni stabilite dal presente decreto delegato in materia di impegnativa e garanzie.
-
-3.
-
-Qualora i beni ceduti siano sostituiti da altri destinati allo stesso scopo, la disposizione di cui al comma che precede non si applica quando il valore dei nuovi beni sia almeno uguale a quello dei beni sostituiti, purché detta sostituzione sia stata preventivamente autorizzata dal Comitato di Valutazione.
+3\. Qualora i beni ceduti siano sostituiti da altri destinati allo stesso scopo, la disposizione di cui al comma che precede non si applica quando il valore dei nuovi beni sia almeno uguale a quello dei beni sostituiti, purché detta sostituzione sia stata preventivamente autorizzata dal Comitato di Valutazione.
 
 ### Art. 14
 
 (Garanzie)
 
-1.
+1\. I finanziamenti concessi in forza del presente decreto delegato, i relativi interessi e gli altri accessori, ivi compresi gli oneri ed i costi sostenuti a copertura dei rischi finanziari, sono assistiti da privilegio in favore dell’Istituto di Credito erogatore sui beni mobili ed immobili oggetto del finanziamento agevolato. In alcun modo i beni oggetto del finanziamento di cui all’articolo 5-bis del presente decreto possono costituire garanzia. L'entità delle garanzie deve essere tale da coprire oltre all'ammontare del prestito, l'ammontare complessivo degli interessi a carico dello Stato. Nel caso in cui il finanziamento avvenga in conto canoni come previsto al comma 1 dell’articolo 8, il richiedente deve depositare presso la società, con la quale stipulerà il contratto di locazione finanziaria, le necessarie garanzie atte a coprire l’ammontare complessivo del contributo conto canoni a carico dello Stato, la quale ne darà comunicazione al Comitato di Valutazione ai sensi dell’articolo 9 del presente decreto ed in tale atto la società concedente i beni oggetto del contratto di locazione finanziaria si impegna al rispetto delle disposizioni previste dal presente decreto.
 
-I finanziamenti concessi in forza del presente decreto delegato, i relativi interessi e gli altri accessori, ivi compresi gli oneri ed i costi sostenuti a copertura dei rischi finanziari, sono assistiti da privilegio in favore dell’Istituto di Credito erogatore sui beni mobili ed immobili oggetto del finanziamento agevolato. In alcun modo i beni oggetto del finanziamento di cui all’articolo 5-bis del presente decreto possono costituire garanzia. L'entità delle garanzie deve essere tale da coprire oltre all'ammontare del prestito, l'ammontare complessivo degli interessi a carico dello Stato. Nel caso in cui il finanziamento avvenga in conto canoni come previsto al comma 1 dell’articolo 8, il richiedente deve depositare presso la società, con la quale stipulerà il contratto di locazione finanziaria, le necessarie garanzie atte a coprire l’ammontare complessivo del contributo conto canoni a carico dello Stato, la quale ne darà comunicazione al Comitato di Valutazione ai sensi dell’articolo 9 del presente decreto ed in tale atto la società concedente i beni oggetto del contratto di locazione finanziaria si impegna al rispetto delle disposizioni previste dal presente decreto.
+2\. Il privilegio deve constare di apposita iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale se trattasi di beni mobili.
 
-2.
+3\. Il credito nascente dai finanziamenti di cui al presente decreto delegato viene soddisfatto col valore dei beni mobili ed immobili oggetto del finanziamento, in preferenza di ogni altro creditore privilegiato, ipotecario e pignoratizio ai sensi degli articoli 25 e 26 della Legge Ipotecaria 16 marzo 1854.
 
-Il privilegio deve constare di apposita iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale se trattasi di beni mobili.
-
-3.
-
-Il credito nascente dai finanziamenti di cui al presente decreto delegato viene soddisfatto col valore dei beni mobili ed immobili oggetto del finanziamento, in preferenza di ogni altro creditore privilegiato, ipotecario e pignoratizio ai sensi degli articoli 25 e 26 della Legge Ipotecaria 16 marzo 1854.
-
-4.
-
-Il privilegio di cui al primo comma può essere sostituito o integrato da fideiussioni bancarie, polizze fideiussorie o altre forme di garanzia all’uopo concordate con l’istituto di credito. Possono essere altresì erogati finanziamenti in assenza di
+4\. Il privilegio di cui al primo comma può essere sostituito o integrato da fideiussioni bancarie, polizze fideiussorie o altre forme di garanzia all’uopo concordate con l’istituto di credito. Possono essere altresì erogati finanziamenti in assenza di
 
 garanzie, ma in tal caso l’istituto di credito è tenuto alla restituzione delle somme di cui al comma 6 del presente articolo qualora sia deliberata la decadenza di cui all’articolo 11 del presente decreto delegato.
 
-5.
+5\. L’iscrizione del privilegio o la costituzione di altre forme di garanzia, avviene a cura dell’istituto di credito erogatore, il quale ne trasmette certificazione al Comitato di Valutazione, con onere a carico dell’impresa beneficiaria.
 
-L’iscrizione del privilegio o la costituzione di altre forme di garanzia, avviene a cura dell’istituto di credito erogatore, il quale ne trasmette certificazione al Comitato di Valutazione, con onere a carico dell’impresa beneficiaria.
+6\. Nel caso il debito relativo al finanziamento sia stato estinto, le garanzie di cui al presente articolo decadono dopo sessanta giorni correnti previa cancellazione presso l’organismo preposto da parte dell’istituto di credito. La stessa procedura si applica per le garanzie rilasciate nei contratti di locazione finanziaria quando questi siano estinti.17 Testo originario (Decreto Delegato n.93/2013):
 
-6.
+1\. I finanziamenti concessi in forza del presente decreto delegato sono assistiti da privilegio in favore dell’Istituto di Credito erogatore sui beni mobili ed immobili oggetto del finanziamento agevolato. L'entità delle garanzie deve essere tale da coprire oltre all'ammontare del prestito, l'ammontare complessivo degli interessi a carico dello Stato. Nel caso in cui il finanziamento avvenga in conto canoni come previsto al comma 1 dell’articolo 8, il richiedente deve depositare presso la società, con la quale stipulerà il contratto di locazione finanziaria, le necessarie garanzie atte a coprire l’ammontare complessivo del contributo conto canoni a carico dello Stato, la quale ne darà comunicazione al Comitato di Valutazione ai sensi dell’articolo 9 del presente decreto ed in tale atto la società concedente i beni oggetto del contratto di locazione finanziaria si impegna al rispetto delle disposizioni previste dal presente decreto.
 
-Nel caso il debito relativo al finanziamento sia stato estinto, le garanzie di cui al presente articolo decadono dopo sessanta giorni correnti previa cancellazione presso l’organismo preposto da parte dell’istituto di credito. La stessa procedura si applica per le garanzie rilasciate nei contratti di locazione finanziaria quando questi siano estinti.17 Testo originario (Decreto Delegato n.93/2013):
+2\. Il privilegio deve constare di apposita iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale se trattasi di beni mobili.
 
-1.
+3\. Il credito nascente dai finanziamenti di cui al presente decreto delegato viene soddisfatto col valore dei beni mobili ed immobili oggetto del finanziamento, in preferenza di ogni altro creditore privilegiato, ipotecario e pignoratizio ai sensi degli articoli 25 e 26 della Legge Ipotecaria 16 marzo 1854.
 
-I finanziamenti concessi in forza del presente decreto delegato sono assistiti da privilegio in favore dell’Istituto di Credito erogatore sui beni mobili ed immobili oggetto del finanziamento agevolato. L'entità delle garanzie deve essere tale da coprire oltre all'ammontare del prestito, l'ammontare complessivo degli interessi a carico dello Stato. Nel caso in cui il finanziamento avvenga in conto canoni come previsto al comma 1 dell’articolo 8, il richiedente deve depositare presso la società, con la quale stipulerà il contratto di locazione finanziaria, le necessarie garanzie atte a coprire l’ammontare complessivo del contributo conto canoni a carico dello Stato, la quale ne darà comunicazione al Comitato di Valutazione ai sensi dell’articolo 9 del presente decreto ed in tale atto la società concedente i beni oggetto del contratto di locazione finanziaria si impegna al rispetto delle disposizioni previste dal presente decreto.
+4\. Il privilegio di cui al primo comma può essere sostituito o integrato da fideiussioni bancarie, polizze fideiussorie o altre forme di garanzia all’uopo concordate con l’istituto di credito. Possono essere altresì erogati finanziamenti in assenza di garanzie, ma in tal caso l’istituto di credito è tenuto alla restituzione delle somme di cui al comma 6 del presente articolo qualora sia deliberata la decadenza di cui all’articolo 11 del presente decreto delegato.
 
-2.
-
-Il privilegio deve constare di apposita iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale se trattasi di beni mobili.
-
-3.
-
-Il credito nascente dai finanziamenti di cui al presente decreto delegato viene soddisfatto col valore dei beni mobili ed immobili oggetto del finanziamento, in preferenza di ogni altro creditore privilegiato, ipotecario e pignoratizio ai sensi degli articoli 25 e 26 della Legge Ipotecaria 16 marzo 1854.
-
-4.
-
-Il privilegio di cui al primo comma può essere sostituito o integrato da fideiussioni bancarie, polizze fideiussorie o altre forme di garanzia all’uopo concordate con l’istituto di credito. Possono essere altresì erogati finanziamenti in assenza di garanzie, ma in tal caso l’istituto di credito è tenuto alla restituzione delle somme di cui al comma 6 del presente articolo qualora sia deliberata la decadenza di cui all’articolo 11 del presente decreto delegato.
-
-5.
-
-L’iscrizione del privilegio o la costituzione di altre forme di garanzia, avviene a cura dell’istituto di credito erogatore, il quale ne trasmette certificazione al Comitato di Valutazione, con onere a carico dell’impresa beneficiaria.
+5\. L’iscrizione del privilegio o la costituzione di altre forme di garanzia, avviene a cura dell’istituto di credito erogatore, il quale ne trasmette certificazione al Comitato di Valutazione, con onere a carico dell’impresa beneficiaria.
 
 Nel caso il mutuo sia stato estinto, le garanzie di cui al presente articolo decadono dopo sessanta giorni correnti previa cancellazione presso l’organismo preposto da parte dell’istituto di credito. La stessa procedura si applica per le garanzie rilasciate nei contratti di locazione finanziaria quando questi siano estinti. 17
 
@@ -2960,29 +2456,19 @@ Decreto Delegato 6 luglio 2017 n.77, Articolo 8:
 
 (Copertura finanziaria)
 
-1.
+1\. Gli oneri a carico dello Stato per la contribuzione in conto interessi relativi ai finanziamenti di cui al presente decreto delegato trovano imputazione sul cap. 2-47226 “Contributi in conto interessi e in conto canoni per gli interventi a sostegno delle attività economiche”.
 
-Gli oneri a carico dello Stato per la contribuzione in conto interessi relativi ai finanziamenti di cui al presente decreto delegato trovano imputazione sul cap. 2-47226 “Contributi in conto interessi e in conto canoni per gli interventi a sostegno delle attività economiche”.
+2\. I finanziamenti deliberati dal Comitato di Valutazione, non erogati entro dodic mesi dalla data ricevimento da parte del richiedente della delibera di autorizzazione del Comitato di Valutazione, decadono.
 
-2.
-
-I finanziamenti deliberati dal Comitato di Valutazione, non erogati entro dodic mesi dalla data ricevimento da parte del richiedente della delibera di autorizzazione del Comitato di Valutazione, decadono.
-
-3.
-
-Gli incentivi finanziari di cui all’articolo 6 della Legge 24 novembre 1997 n. 134 nonché gli eventuali crediti agevolati previsti dalla stessa legge autorizzati dall’Organismo preposto successivi alla data di entrata in vigore saranno imputati sul predetto capitolo di spesa.
+3\. Gli incentivi finanziari di cui all’articolo 6 della Legge 24 novembre 1997 n. 134 nonché gli eventuali crediti agevolati previsti dalla stessa legge autorizzati dall’Organismo preposto successivi alla data di entrata in vigore saranno imputati sul predetto capitolo di spesa.
 
 ### Art. 16
 
 (Revocatoria)
 
-1.
+1\. Le obbligazioni derivanti dai finanziamenti di cui al presente decreto delegato ed il relativo privilegio indicato al precedente articolo 14 non sono soggetti, dopo il consolidamento del privilegio di cui al comma seguente, né all’azione revocatoria concorsuale prevista dall’articolo 3 della Legge 15 novembre 1917 n.17 e successive modifiche né all’azione revocatoria “pauliana”. Analogo trattamento è riconosciuto alle eventuali ulteriori garanzie poste in essere ai fini dell’erogazione dei mutui di cui al presente decreto .
 
-Le obbligazioni derivanti dai finanziamenti di cui al presente decreto delegato ed il relativo privilegio indicato al precedente articolo 14 non sono soggetti, dopo il consolidamento del privilegio di cui al comma seguente, né all’azione revocatoria concorsuale prevista dall’articolo 3 della Legge 15 novembre 1917 n.17 e successive modifiche né all’azione revocatoria “pauliana”. Analogo trattamento è riconosciuto alle eventuali ulteriori garanzie poste in essere ai fini dell’erogazione dei mutui di cui al presente decreto .
-
-2.
-
-Il privilegio di cui al primo comma dell’articolo 14 si consolida entro dieci giorni dall’iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale. Il il contratto di locazione finanziaria, le necessarie garanzie atte a coprire l’ammontare complessivo del contributo conto canoni a carico dello Stato, la quale ne darà comunicazione al Comitato di Valutazione ai sensi dell’articolo 9 del presente decreto ed in tale atto la società concedente i beni oggetto del contratto di locazione finanziaria si impegna al rispetto delle disposizioni previste dal presente decreto.
+2\. Il privilegio di cui al primo comma dell’articolo 14 si consolida entro dieci giorni dall’iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale. Il il contratto di locazione finanziaria, le necessarie garanzie atte a coprire l’ammontare complessivo del contributo conto canoni a carico dello Stato, la quale ne darà comunicazione al Comitato di Valutazione ai sensi dell’articolo 9 del presente decreto ed in tale atto la società concedente i beni oggetto del contratto di locazione finanziaria si impegna al rispetto delle disposizioni previste dal presente decreto.
 
 2\. Il privilegio deve constare di apposita iscrizione presso la Conservatoria dei Registri Immobiliari o del Tribunale se trattasi di beni mobili.
 
@@ -3008,127 +2494,77 @@ predetto termine si applica anche alle eventuali ulteriori garanzie poste in ess
 
 (Disposizioni transitorie)
 
-1.
+1\. Le norme di cui alla Legge 28 gennaio 1993 n.13 e successive modifiche ed al Decreto Delegato 28 aprile 2011 n.68 continuano ad avere applicazione per le eventuali richieste giacenti antecedenti la data di entrata in vigore del presente decreto delegato, nonché per quelle in corso per le quali non è stato ancora erogato il mutuo nonché per le altre leggi che erogano finanziamenti in forza di appositi rimandi alla Legge n. 13/1993.
 
-Le norme di cui alla Legge 28 gennaio 1993 n.13 e successive modifiche ed al Decreto Delegato 28 aprile 2011 n.68 continuano ad avere applicazione per le eventuali richieste giacenti antecedenti la data di entrata in vigore del presente decreto delegato, nonché per quelle in corso per le quali non è stato ancora erogato il mutuo nonché per le altre leggi che erogano finanziamenti in forza di appositi rimandi alla Legge n. 13/1993.
+2\. Le norme di cui alla alle Legge 3 agosto 2009 n.109 e successive modifiche continuano ad avere applicazione per le pratiche di finanziamento in corso per le quali non è stato ancora erogato il mutuo.
 
-2.
+3\. Sui capitoli 2-4-7225 “Finanziamento interventi comparto turistico – commerciale” e 2-4-7220 “Contributo in c/to interessi per crediti agevolati alle imprese (L. n.139/1985 - L. n. 13/1993 - L. n. 35/1996) e incentivi finanziari ex Art. 6, Legge n.134/1997)” continuano a trovare imputazione gli oneri relativi ai prestiti pregressi alla data di entrata in vigore del presente decreto delegato.
 
-Le norme di cui alla alle Legge 3 agosto 2009 n.109 e successive modifiche continuano ad avere applicazione per le pratiche di finanziamento in corso per le quali non è stato ancora erogato il mutuo.
+4\. In relazione ai finanziamenti autorizzati nel corrente esercizio ai sensi del presente decreto delegato e di quelli autorizzati in data antecedente all’entrata in vigore del presente decreto delegato, il Congresso di Stato è autorizzato a convenzionarsi per l’esercizio 2013 con gli Istituti di Credito disponibili fino alla concorrenza dell’importo complessivo di € 15.000.000,00.
 
-3.
+5\. Gli operatori economici che hanno in corso mutui agevolati ai sensi delle norme sopraindicate sono soggetti ai vincoli previsti dalle norme di autorizzazione.
 
-Sui capitoli 2-4-7225 “Finanziamento interventi comparto turistico – commerciale” e 2-4-7220 “Contributo in c/to interessi per crediti agevolati alle imprese (L. n.139/1985 - L. n. 13/1993 - L. n. 35/1996) e incentivi finanziari ex Art. 6, Legge n.134/1997)” continuano a trovare imputazione gli oneri relativi ai prestiti pregressi alla data di entrata in vigore del presente decreto delegato.
+6\. Il Comitato di Valutazione del presente decreto delegato subentra nelle funzioni degli Organi di cui all’articolo 2 della Legge n. 13/1993 e successive modifiche, all’articolo 2, comma 7, della Legge n. 109/2009 e successive modifiche ed all’articolo 4 del Decreto Delegato n.68/2011.
 
-4.
+7\. In relazione ai commi 1 e 2 del presente articolo, l’Ufficio Industria, Artigianato e Commercio continua a svolgere i compiti previsti dalle relative normative.
 
-In relazione ai finanziamenti autorizzati nel corrente esercizio ai sensi del presente decreto delegato e di quelli autorizzati in data antecedente all’entrata in vigore del presente decreto delegato, il Congresso di Stato è autorizzato a convenzionarsi per l’esercizio 2013 con gli Istituti di Credito disponibili fino alla concorrenza dell’importo complessivo di € 15.000.000,00.
+8\. Sono ammissibili ai benefici della presente decreto delegato i progetti di impresa la cui implementazione è stata avviata a partire dal 1° gennaio 2013. Il termine decorre, in caso di beni mobili, dalla data di consegna, anche in parte, dei beni relativi all'investimento e, in caso di beni immobili, dalla data di stipula dell'atto notarile, se trattasi di acquisizione o dalla data della pratica edilizia qualora trattasi di ampliamento di immobile già di proprietà o ristrutturazione dello stesso. La presentazione della richiesta relativa ai predetti investimenti deve avvenire entro il 30 settembre 2013
 
-5.
-
-Gli operatori economici che hanno in corso mutui agevolati ai sensi delle norme sopraindicate sono soggetti ai vincoli previsti dalle norme di autorizzazione.
-
-6.
-
-Il Comitato di Valutazione del presente decreto delegato subentra nelle funzioni degli Organi di cui all’articolo 2 della Legge n. 13/1993 e successive modifiche, all’articolo 2, comma 7, della Legge n. 109/2009 e successive modifiche ed all’articolo 4 del Decreto Delegato n.68/2011.
-
-7.
-
-In relazione ai commi 1 e 2 del presente articolo, l’Ufficio Industria, Artigianato e Commercio continua a svolgere i compiti previsti dalle relative normative.
-
-8.
-
-Sono ammissibili ai benefici della presente decreto delegato i progetti di impresa la cui implementazione è stata avviata a partire dal 1° gennaio 2013. Il termine decorre, in caso di beni mobili, dalla data di consegna, anche in parte, dei beni relativi all'investimento e, in caso di beni immobili, dalla data di stipula dell'atto notarile, se trattasi di acquisizione o dalla data della pratica edilizia qualora trattasi di ampliamento di immobile già di proprietà o ristrutturazione dello stesso. La presentazione della richiesta relativa ai predetti investimenti deve avvenire entro il 30 settembre 2013
-
-9.
-
-La modalità di cui all’articolo 11, comma 3, trovano applicazione anche per le altre decadenze di erogazioni concesse in forza della Legge n.109/2009.
+9\. La modalità di cui all’articolo 11, comma 3, trovano applicazione anche per le altre decadenze di erogazioni concesse in forza della Legge n.109/2009.
 
 ### Art.19
 
 (Regolamento)
 
-1.
-
-Il Congresso di Stato provvederà all’emanazione di apposito Regolamento ai sensi dell’articolo 5, comma 5, della Legge Costituzionale 16 dicembre 2005 n. 185 al fine di definire procedure e modulistica ai quali devono attenersi i richiedenti i benefici di cui al presente decreto delegato, gli Istituti Bancari e i Pubblici Uffici.
+1\. Il Congresso di Stato provvederà all’emanazione di apposito Regolamento ai sensi dell’articolo 5, comma 5, della Legge Costituzionale 16 dicembre 2005 n. 185 al fine di definire procedure e modulistica ai quali devono attenersi i richiedenti i benefici di cui al presente decreto delegato, gli Istituti Bancari e i Pubblici Uffici.
 
 ### Art.19-bis
 
 (Proroga durata del mutuo agevolato)
 
-1.
+1\. Al fine di sostenere gli operatori economici, che avendo fatto ricorso a forme di crediti agevolati alle imprese non riescono ad ottemperare nei termini previsti al pagamento delle rate per il rimborso del prestito ottenuto a causa dell’attuale crisi economica, considerato anche quanto indicato all’articolo 49, comma 4, della Legge 21 dicembre 2012 n.150, sono stabilite le seguenti procedure destinate a prorogare la durata del mutuo autorizzato limitando l’onere in conto interessi a carico del bilancio dello Stato al periodo inizialmente previsto.
 
-Al fine di sostenere gli operatori economici, che avendo fatto ricorso a forme di crediti agevolati alle imprese non riescono ad ottemperare nei termini previsti al pagamento delle rate per il rimborso del prestito ottenuto a causa dell’attuale crisi economica, considerato anche quanto indicato all’articolo 49, comma 4, della Legge 21 dicembre 2012 n.150, sono stabilite le seguenti procedure destinate a prorogare la durata del mutuo autorizzato limitando l’onere in conto interessi a carico del bilancio dello Stato al periodo inizialmente previsto.
-
-2.
-
-L’operatore economico può avanzare richiesta all’organo che ha autorizzato il credito precisando e documentando le ragioni che inducono alla richiesta di proroga.
+2\. L’operatore economico può avanzare richiesta all’organo che ha autorizzato il credito precisando e documentando le ragioni che inducono alla richiesta di proroga.
 
 Possono essere ammessi alle procedure previste dal presente articolo gli operatori economici che abbiano pagato almeno quattro rate semestrali del mutuo agevolato ai sensi delle norme in vigore e non abbiano più di due rate scadute.
 
-3.
+3\. La richiesta deve essere corredata da consenso dell’istituto di credito erogante e di eventuale aggiornamento delle garanzie ritenute necessarie.
 
-La richiesta deve essere corredata da consenso dell’istituto di credito erogante e di eventuale aggiornamento delle garanzie ritenute necessarie.
-
-4.
-
-In caso di accoglimento della richiesta, il mutuo originario viene estinto e si stipula un nuovo mutuo per il capitale residuo la cui durata sarà pari al periodo residuo del mutuo originario sommando il periodo della proroga che non potrà superare i cinque anni per i mutui a cinque anni e i dieci anni per quelli a dieci anni.
+4\. In caso di accoglimento della richiesta, il mutuo originario viene estinto e si stipula un nuovo mutuo per il capitale residuo la cui durata sarà pari al periodo residuo del mutuo originario sommando il periodo della proroga che non potrà superare i cinque anni per i mutui a cinque anni e i dieci anni per quelli a dieci anni.
 
 Non sono ammissibili richieste di proroga di mutuo agevolato qualora il mutuo in corso sia già pari al massimo previsto dall’articolo 8, comma 3-bis.
 
-5.
+5\. Durante tale periodo, il contributo in conto interessi resterà comunque ed in ogni caso limitato alla durata del mutuo originario autorizzato ed il contributo in conto interessi da parte dello Stato sarà commisurato alle nuove rate in scadenza pagate secondo il tasso convenzionato ed alla percentuale in conto interessi prevista dalla norma che ha autorizzato il credito agevolato erogato.
 
-Durante tale periodo, il contributo in conto interessi resterà comunque ed in ogni caso limitato alla durata del mutuo originario autorizzato ed il contributo in conto interessi da parte dello Stato sarà commisurato alle nuove rate in scadenza pagate secondo il tasso convenzionato ed alla percentuale in conto interessi prevista dalla norma che ha autorizzato il credito agevolato erogato.
+6\. Nel periodo di proroga del mutuo, l’istituto di credito erogante riconosce all’operatore economico il tasso convenzionato dell’anno di stipula del nuovo mutuo.
 
-6.
-
-Nel periodo di proroga del mutuo, l’istituto di credito erogante riconosce all’operatore economico il tasso convenzionato dell’anno di stipula del nuovo mutuo.
-
-7.
-
-In via transitoria ed al fine di espletare le procedure inerenti il presente articolo è consentito presentare la relativa richiesta fino al 28 febbraio 2016 al fine di veder riconosciuto la decorrenza del contributo in conto interessi dall’1 gennaio 2016. Dopo tale termine transitorio, la decorrenza dell’intervento in conto interessi sarà dal semestre successivo a quello di presentazione della richiesta. 7-bis. Per ogni mutuo agevolato l’operatore economico può avanzare una sola richiesta di proroga ai sensi del presente articolo.18
+7\. In via transitoria ed al fine di espletare le procedure inerenti il presente articolo è consentito presentare la relativa richiesta fino al 28 febbraio 2016 al fine di veder riconosciuto la decorrenza del contributo in conto interessi dall’1 gennaio 2016. Dopo tale termine transitorio, la decorrenza dell’intervento in conto interessi sarà dal semestre successivo a quello di presentazione della richiesta. 7-bis. Per ogni mutuo agevolato l’operatore economico può avanzare una sola richiesta di proroga ai sensi del presente articolo.18
 
 Testo originario (Decreto Delegato 93/2013):
 
-1.
-
-Al fine di sostenere gli operatori economici, che avendo fatto ricorso a forme di crediti agevolati alle imprese non riescono ad ottemperare nei termini previsti al pagamento delle rate per il rimborso del prestito ottenuto a causa dell’attuale crisi economica, considerato anche quanto indicato all’articolo 49, comma 4, della Legge 21 dicembre 2012 n.150, sono stabilite le
+1\. Al fine di sostenere gli operatori economici, che avendo fatto ricorso a forme di crediti agevolati alle imprese non riescono ad ottemperare nei termini previsti al pagamento delle rate per il rimborso del prestito ottenuto a causa dell’attuale crisi economica, considerato anche quanto indicato all’articolo 49, comma 4, della Legge 21 dicembre 2012 n.150, sono stabilite le
 
 ### Art.20
 
 (Disposizioni finali)
 
-1.
-
-I termini previsti dal presente decreto delegato sono perentori.
+1\. I termini previsti dal presente decreto delegato sono perentori.
 
 ### Art. 21
 
 (Entrata in vigore)
 
-1.
+1\. Gli effetti del presente decreto decorreranno dal trentesimo giorno successivo a quello della sua legale pubblicazione. seguenti procedure destinate a prorogare la durata del mutuo autorizzato limitando l’onere in conto interessi a carico del bilancio dello Stato al periodo inizialmente previsto.
 
-Gli effetti del presente decreto decorreranno dal trentesimo giorno successivo a quello della sua legale pubblicazione. seguenti procedure destinate a prorogare la durata del mutuo autorizzato limitando l’onere in conto interessi a carico del bilancio dello Stato al periodo inizialmente previsto.
+2\. L’operatore economico può avanzare richiesta all’organo che ha autorizzato il credito precisando e documentando le ragioni che inducono alla richiesta di proroga. Possono essere ammessi alle procedure previste dal presente articolo gli operatori economici che abbiano pagato almeno quattro rate semestrali del mutuo agevolato ai sensi delle norme in vigore e non abbiano più di due rate scadute.
 
-2.
+3\. La richiesta deve essere corredata da consenso dell’istituto di credito erogante e di eventuale aggiornamento delle garanzie ritenute necessarie.
 
-L’operatore economico può avanzare richiesta all’organo che ha autorizzato il credito precisando e documentando le ragioni che inducono alla richiesta di proroga. Possono essere ammessi alle procedure previste dal presente articolo gli operatori economici che abbiano pagato almeno quattro rate semestrali del mutuo agevolato ai sensi delle norme in vigore e non abbiano più di due rate scadute.
+4\. In caso di accoglimento della richiesta il mutuo originario viene estinto e si stipula un nuovo mutuo per il capitale residuo la cui durata sarà pari al periodo residuo del mutuo originario sommando il periodo della proroga che non potrà superare due anni per i mutui a cinque anni e cinque anni per quelli a dieci anni.
 
-3.
+5\. Durante tale periodo, il contributo in conto interessi resterà comunque ed in ogni caso limitato alla durata del mutuo originario autorizzato ed il contributo in conto interessi da parte dello Stato sarà commisurato alle nuove rate in scadenza pagate secondo il tasso convenzionato ed alla percentuale in conto interessi prevista dalla norma che ha autorizzato il credito agevolato erogato.
 
-La richiesta deve essere corredata da consenso dell’istituto di credito erogante e di eventuale aggiornamento delle garanzie ritenute necessarie.
-
-4.
-
-In caso di accoglimento della richiesta il mutuo originario viene estinto e si stipula un nuovo mutuo per il capitale residuo la cui durata sarà pari al periodo residuo del mutuo originario sommando il periodo della proroga che non potrà superare due anni per i mutui a cinque anni e cinque anni per quelli a dieci anni.
-
-5.
-
-Durante tale periodo, il contributo in conto interessi resterà comunque ed in ogni caso limitato alla durata del mutuo originario autorizzato ed il contributo in conto interessi da parte dello Stato sarà commisurato alle nuove rate in scadenza pagate secondo il tasso convenzionato ed alla percentuale in conto interessi prevista dalla norma che ha autorizzato il credito agevolato erogato.
-
-6.
-
-Nel periodo di proroga del mutuo, l’istituto di credito erogante riconosce all’operatore economico il tasso convenzionato dell’anno di stipula del nuovo mutuo.
+6\. Nel periodo di proroga del mutuo, l’istituto di credito erogante riconosce all’operatore economico il tasso convenzionato dell’anno di stipula del nuovo mutuo.
 
 Le richieste di cui al presente articolo possono essere presentate fino al 31/12/2013.
 
@@ -3154,65 +2590,45 @@ REGOLAMENTO 11 settembre 2013 n.3 REGOLAMENTO DI ESECUZIONE DEL DECRETO DELEGATO
 
 (Domanda)
 
-1.
+1\. Per accedere ai finanziamenti di cui al Decreto Delegato 24 luglio 2013 n. 93 le imprese sono tenute a presentare domanda al Comitato di Valutazione, di cui all’articolo 7, comma 1, del suddetto decreto delegato, presso l’Ufficio Industria, Artigianato e Commercio.
 
-Per accedere ai finanziamenti di cui al Decreto Delegato 24 luglio 2013 n. 93 le imprese sono tenute a presentare domanda al Comitato di Valutazione, di cui all’articolo 7, comma 1, del suddetto decreto delegato, presso l’Ufficio Industria, Artigianato e Commercio.
+2\. La domanda, firmata dal legale rappresentante dell’impresa e vistata da un sindacato dei datori di lavoro regolarmente riconosciuto dalla Legge n.7/1961, rappresenta un impegno unilaterale dell’impresa verso lo Stato: chi sottoscrive la domanda si assume le conseguenti responsabilità di quanto viene dichiarato nella stessa.
 
-2.
-
-La domanda, firmata dal legale rappresentante dell’impresa e vistata da un sindacato dei datori di lavoro regolarmente riconosciuto dalla Legge n.7/1961, rappresenta un impegno unilaterale dell’impresa verso lo Stato: chi sottoscrive la domanda si assume le conseguenti responsabilità di quanto viene dichiarato nella stessa.
-
-3.
-
-La domanda di accesso al credito deve essere corredata, a pena di inammissibilità e irricevibilità, di tutta la documentazione prevista nello schema di domanda allegato al presente Regolamento.
+3\. La domanda di accesso al credito deve essere corredata, a pena di inammissibilità e irricevibilità, di tutta la documentazione prevista nello schema di domanda allegato al presente Regolamento.
 
 ### Art. 2
 
 (Istruttoria)
 
-1.
-
-Il Comitato di Valutazione procede all’esame delle domande secondo l’ordine cronologico di presentazione.
+1\. Il Comitato di Valutazione procede all’esame delle domande secondo l’ordine cronologico di presentazione.
 
 ### Art. 3
 
 (Deliberazione)
 
-1.
+1\. Le decisioni del Comitato di Valutazione vengono comunicate al legale rappresentante dell’impresa nonché all’Istituto di Credito eventualmente indicato dall’impresa purché convenzionato.
 
-Le decisioni del Comitato di Valutazione vengono comunicate al legale rappresentante dell’impresa nonché all’Istituto di Credito eventualmente indicato dall’impresa purché convenzionato.
+2\. L’Istituto di Credito produce impegnativa in relazione alla specifica domanda ed il relativo piano di ammortamento del finanziamento e li trasmette al Comitato di Valutazione ed alla Direzione della Finanza Pubblica.
 
-2.
-
-L’Istituto di Credito produce impegnativa in relazione alla specifica domanda ed il relativo piano di ammortamento del finanziamento e li trasmette al Comitato di Valutazione ed alla Direzione della Finanza Pubblica.
-
-3.
-
-Il Presidente del Comitato di Valutazione, per conto del Comitato stesso, trasmette all’Istituto di Credito convenzionato le autorizzazioni ad erogare il prestito, dandone comunicazione anche alla Direzione della Finanza Pubblica ed all’Avvocatura dello Stato.
+3\. Il Presidente del Comitato di Valutazione, per conto del Comitato stesso, trasmette all’Istituto di Credito convenzionato le autorizzazioni ad erogare il prestito, dandone comunicazione anche alla Direzione della Finanza Pubblica ed all’Avvocatura dello Stato.
 
 ### Art. 4
 
 (Garanzie)
 
-1.
-
-L’iscrizione del privilegio o la costituzione di altre forme di garanzia, ai sensi dell’articolo 14 del Decreto Delegato n. 93/2013, avviene a cura dell’Istituto di Credito erogatore, il quale ne trasmette certificazione al Comitato di Valutazione.
+1\. L’iscrizione del privilegio o la costituzione di altre forme di garanzia, ai sensi dell’articolo 14 del Decreto Delegato n. 93/2013, avviene a cura dell’Istituto di Credito erogatore, il quale ne trasmette certificazione al Comitato di Valutazione.
 
 ### Art. 5
 
 (Convenzione con Istituti di Credito)
 
-1.
-
-Il Congresso di Stato ha cura di stipulare con gli Istituti di Credito apposita convenzione in esecuzione alle disposizioni di Legge ed al presente regolamento.
+1\. Il Congresso di Stato ha cura di stipulare con gli Istituti di Credito apposita convenzione in esecuzione alle disposizioni di Legge ed al presente regolamento.
 
 ### Art. 6
 
 (Comunicazioni)
 
-1.
-
-Ogni comunicazione da rivolgersi al Comitato di Valutazione deve essere indirizzata allo stesso, presso l’Ufficio Industria, Artigianato e Commercio.
+1\. Ogni comunicazione da rivolgersi al Comitato di Valutazione deve essere indirizzata allo stesso, presso l’Ufficio Industria, Artigianato e Commercio.
 
 Allegato (carta libera)
 
@@ -3250,17 +2666,11 @@ INTERVENTI URGENTI A SOSTEGNO DEL SISTEMA ECONOMICO ATTI A FAVORIRE IL CONSOLIDA
 
 (Credito Agevolato Straordinario di cui alla Legge n.109/2009)
 
-1.
+1\. Il termine di cui all’articolo 5 primo comma della Legge 3 agosto 2009 n.109 e di cui all’articolo 1 primo comma del relativo Regolamento di esecuzione del 22 ottobre 2009 n. 2, già modificati con l’articolo 27 comma 2 della Legge 21 dicembre 2009 n.168, sono prorogati al 31 dicembre 2010.
 
-Il termine di cui all’articolo 5 primo comma della Legge 3 agosto 2009 n.109 e di cui all’articolo 1 primo comma del relativo Regolamento di esecuzione del 22 ottobre 2009 n. 2, già modificati con l’articolo 27 comma 2 della Legge 21 dicembre 2009 n.168, sono prorogati al 31 dicembre 2010.
+2\. Gli orientamenti di carattere generale nella valutazione delle istanze di accesso ai benefici della Legge 3 agosto 2009 n.109 assunti dal Comitato di Valutazione di cui all’articolo 2 comma 7 della predetta Legge assumono piena efficacia interpretativa con la presa d’atto del Congresso di Stato.
 
-2.
-
-Gli orientamenti di carattere generale nella valutazione delle istanze di accesso ai benefici della Legge 3 agosto 2009 n.109 assunti dal Comitato di Valutazione di cui all’articolo 2 comma 7 della predetta Legge assumono piena efficacia interpretativa con la presa d’atto del Congresso di Stato.
-
-3.
-
-Le tipologie di progetti finanziabili di cui all’articolo 4, nonché l’ammontare del contributo in conto interessi relativo agli stessi di cui all’articolo 6 della predetta legge, possono essere variati con decreto delegato, fatte salve le istanze già approvate ed ammesse all’entrata in vigore del presente decreto-legge.
+3\. Le tipologie di progetti finanziabili di cui all’articolo 4, nonché l’ammontare del contributo in conto interessi relativo agli stessi di cui all’articolo 6 della predetta legge, possono essere variati con decreto delegato, fatte salve le istanze già approvate ed ammesse all’entrata in vigore del presente decreto-legge.
 
 DECRETO DELEGATO 28 aprile 2011 n.68 (Ratifica Decreto Delegato 24 febbraio 2011 n.45)
 
@@ -3318,17 +2728,13 @@ INCENTIVI PER LA PROMOZIONE E IL SOSTEGNO DEL COMPARTO TURISTICO E COMMERCIALE
 
 (Ambito di applicazione)
 
-1.
-
-Il presente decreto individua le modalità di impiego delle risorse previste annualmente dalla legge di Bilancio dello Stato per la promozione ed il sostegno del settore turistico e commerciale.
+1\. Il presente decreto individua le modalità di impiego delle risorse previste annualmente dalla legge di Bilancio dello Stato per la promozione ed il sostegno del settore turistico e commerciale.
 
 ### Art. 2
 
 (Accesso alle agevolazioni)
 
-1.
-
-Possono richiedere l’accesso al credito agevolato ed agli incentivi fiscali previsti dal presente decreto i seguenti soggetti:
+1\. Possono richiedere l’accesso al credito agevolato ed agli incentivi fiscali previsti dal presente decreto i seguenti soggetti:
 
 a) le imprese commerciali al dettaglio, siano esse esercitate da persona giuridica o persona fisica, operanti nelle vie di interesse turistico di cui all’articolo 123 della Legge 19 luglio 1995 n.87, nel centro storico della capitale e nei centri storici della Repubblica così come individuati dall’Allegato B della Legge 26 luglio 2010 n.130;
 
@@ -3342,13 +2748,9 @@ d) le imprese commerciali al dettaglio, siano esse esercitate da persona giuridi
 
 (Contenuto e valutazione della domanda di accesso alle agevolazioni)
 
-1.
+1\. La domanda di accesso alle agevolazioni di cui al presente decreto è indirizzata alla Commissione istituita all’articolo 4 ed è presentata all’Ufficio Industria, Artigianato e Commercio che esercita le funzioni di segreteria della Commissione medesima.
 
-La domanda di accesso alle agevolazioni di cui al presente decreto è indirizzata alla Commissione istituita all’articolo 4 ed è presentata all’Ufficio Industria, Artigianato e Commercio che esercita le funzioni di segreteria della Commissione medesima.
-
-2.
-
-La domanda è corredata della documentazione necessaria ad illustrare il progetto di intervento e ad evidenziare la rispondenza del progetto medesimo alle finalità di cui al comma 6.
+2\. La domanda è corredata della documentazione necessaria ad illustrare il progetto di intervento e ad evidenziare la rispondenza del progetto medesimo alle finalità di cui al comma 6.
 
 \- Decreto Delegato 24 luglio 2013 n.93;
 
@@ -3362,9 +2764,7 @@ La domanda è corredata della documentazione necessaria ad illustrare il progett
 
 \- articolo 21 della Legge 22 dicembre 2015 n.189.
 
-3.
-
-La domanda contiene i seguenti elementi dettagliati in rapporto all’importanza dell’investimento:
+3\. La domanda contiene i seguenti elementi dettagliati in rapporto all’importanza dell’investimento:
 
 a) piano economico, finanziario e delle risorse umane necessarie per l’intervento;
 
@@ -3382,17 +2782,11 @@ g) dichiarazione relativa all’eventuale avvenuto godimento di altri interventi
 
 h) dichiarazione attestante la normalità dei rapporti tributari e contributivi.
 
-4.
+4\. La presentazione di dichiarazioni di cui al comma 3 non veritiere comporta l’applicazione delle sanzioni previste dal Codice Penale.
 
-La presentazione di dichiarazioni di cui al comma 3 non veritiere comporta l’applicazione delle sanzioni previste dal Codice Penale.
+5\. L’Ufficio Industria, Artigianato e Commercio istruisce le istanze, anche richiedendo integrazioni alla documentazione presentata, e predispone le pratiche per l’esame della Commissione istituita all’articolo 4 corredandole della propria valutazione sulla congruità dei progetti e delle agevolazioni richiesti.
 
-5.
-
-L’Ufficio Industria, Artigianato e Commercio istruisce le istanze, anche richiedendo integrazioni alla documentazione presentata, e predispone le pratiche per l’esame della Commissione istituita all’articolo 4 corredandole della propria valutazione sulla congruità dei progetti e delle agevolazioni richiesti.
-
-6.
-
-La valutazione delle domande compete alla Commissione istituita all’articolo 4, la quale delibera, di norma trimestralmente, in merito all’ammissibilità dei progetti ai finanziamenti ed agli incentivi fiscali tenuto conto dei seguenti obiettivi:
+6\. La valutazione delle domande compete alla Commissione istituita all’articolo 4, la quale delibera, di norma trimestralmente, in merito all’ammissibilità dei progetti ai finanziamenti ed agli incentivi fiscali tenuto conto dei seguenti obiettivi:
 
 a) riconversione delle attività commerciali in linea con i contenuti programmatici del Piano di Valorizzazione del Commercio;
 
@@ -3404,23 +2798,17 @@ d) in relazione alle attività esercitate all’interno del Centro Storico della
 
 e) in relazione alle attività di cui all’articolo 2, comma 1, lettera c), ampliamento della capacità ricettiva e qualificazione dell’offerta del servizio ricettivo in base agli standard di classificazione delle medesime attività. 3
 
-7.
-
-Ai fini di cui al comma 6, lettera a), si intende per riconversione dell’attività di impresa la conversione dell’attuale attività verso una nuova attività di commercializzazione di categorie di prodotti individuate come strategiche dal Piano di Valorizzazione del Commercio.
+7\. Ai fini di cui al comma 6, lettera a), si intende per riconversione dell’attività di impresa la conversione dell’attuale attività verso una nuova attività di commercializzazione di categorie di prodotti individuate come strategiche dal Piano di Valorizzazione del Commercio.
 
 ### Art. 4
 
 (Commissione di Valutazione)
 
-1.
-
-E’ istituita la Commissione di Valutazione, di seguito denominata anche Commissione, con il compito di valutare le istanze di cui all’articolo 3, stabilendo
+1\. E’ istituita la Commissione di Valutazione, di seguito denominata anche Commissione, con il compito di valutare le istanze di cui all’articolo 3, stabilendo
 
 l’ammissione alle agevolazioni previste dal presente decreto nonché la misura delle agevolazioni stesse.
 
-2.
-
-La Commissione è composta dai seguenti membri:
+2\. La Commissione è composta dai seguenti membri:
 
 a) 1 rappresentante della Segreteria di Stato per l’Industria, l’Artigianato e il Commercio con funzione di coordinatore;
 
@@ -3432,41 +2820,25 @@ d) 1 rappresentante della Segreteria di Stato per il Territorio e l’Ambiente;
 
 e) 3 rappresentanti delle Associazioni di Categoria del settore nominati su proposta delle stesse.
 
-3.
+3\. Il Coordinatore, sentito l’Ufficio Industria, Artigianato e Commercio, convoca la Commissione con comunicazione scritta da inviarsi almeno cinque giorni prima della seduta e ne fissa l’ordine del giorno.
 
-Il Coordinatore, sentito l’Ufficio Industria, Artigianato e Commercio, convoca la Commissione con comunicazione scritta da inviarsi almeno cinque giorni prima della seduta e ne fissa l’ordine del giorno.
+4\. Le decisioni e le proposte assunte dalla Commissione sono prese con votazione di tutti i presenti in base al criterio della maggioranza semplice.
 
-4.
+5\. Alle riunioni della Commissione possono partecipare, ove richiesto e senza diritto di voto, anche funzionari degli uffici dello Stato.
 
-Le decisioni e le proposte assunte dalla Commissione sono prese con votazione di tutti i presenti in base al criterio della maggioranza semplice.
-
-5.
-
-Alle riunioni della Commissione possono partecipare, ove richiesto e senza diritto di voto, anche funzionari degli uffici dello Stato.
-
-6.
-
-L’Ufficio Industria, Artigianato e Commercio cura la verbalizzazione e l’esecuzione delle decisioni.
+6\. L’Ufficio Industria, Artigianato e Commercio cura la verbalizzazione e l’esecuzione delle decisioni.
 
 ### Art. 5
 
 (Finanziamento dei progetti attraverso la concessione di credito agevolato)
 
-1.
+1\. La Commissione delibera l’ammissione dei progetti oggetto delle domande di cui all’articolo 3 al credito agevolato assistito dal contributo dello Stato.
 
-La Commissione delibera l’ammissione dei progetti oggetto delle domande di cui all’articolo 3 al credito agevolato assistito dal contributo dello Stato.
+2\. Il Congresso di Stato è autorizzato annualmente dalla legge di bilancio a convenzionarsi con gli istituti di credito disponibili all’erogazione dei finanziamenti di cui al comma 1 fino alla concorrenza dell’importo stabilito dalla legge di bilancio medesima e nei limiti dello stanziamento previsto a bilancio a copertura degli oneri per il contributo in conto interessi a carico dello Stato; su indicazione della Commissione, l’importo complessivo previsto a bilancio può essere specificamente ripartito per il finanziamento degli interventi descritti al comma 4.
 
-2.
+3\. Fatte salve le disposizioni dettate dal presente decreto, gli aspetti procedurali dell’erogazione dei finanziamenti sono disciplinati nell’ambito delle convenzioni stipulate con gli istituti di credito.
 
-Il Congresso di Stato è autorizzato annualmente dalla legge di bilancio a convenzionarsi con gli istituti di credito disponibili all’erogazione dei finanziamenti di cui al comma 1 fino alla concorrenza dell’importo stabilito dalla legge di bilancio medesima e nei limiti dello stanziamento previsto a bilancio a copertura degli oneri per il contributo in conto interessi a carico dello Stato; su indicazione della Commissione, l’importo complessivo previsto a bilancio può essere specificamente ripartito per il finanziamento degli interventi descritti al comma 4.
-
-3.
-
-Fatte salve le disposizioni dettate dal presente decreto, gli aspetti procedurali dell’erogazione dei finanziamenti sono disciplinati nell’ambito delle convenzioni stipulate con gli istituti di credito.
-
-4.
-
-La Commissione delibera il finanziamento di ogni singolo progetto secondo le modalità di seguito indicate:
+4\. La Commissione delibera il finanziamento di ogni singolo progetto secondo le modalità di seguito indicate:
 
 a) per gli interventi volti all’adeguamento delle esposizioni pubblicitarie, degli infissi e dei sistemi di tendaggio effettuati dalle imprese commerciali al dettaglio e dalle imprese esercitanti l’attività di preparazione e somministrazione di cibi e bevande operanti nel centro storico della capitale e nelle vie di interesse turistico di cui all’articolo 123 della Legge n.87/1995 in conformità alle previsioni della “Variante al Piano Particolareggiato della Zona A1 03 Centro Storico di San Marino Città e dei P.P. delle vie di interesse turistico” approvata in data 19 maggio 2010 il finanziamento è riconosciuto unicamente per gli interventi effettuati prima delle scadenze previste nel precitato strumento urbanistico ed è erogato nelle misure seguenti:
 
@@ -3490,147 +2862,93 @@ d) fino ad un massimo di € 200.000,00 per l’acquisto, finalizzato all’ampl
 
 e) fino ad un massimo di € 250.000,00 per la riconversione dell’attività commerciale e per l’avvio di attività aventi caratteristiche di innovazione, qualità, attrattività commerciale e o turistica tali da accrescere e valorizzare il settore commerciale in cui andranno ad inserirsi in linea con i contenuti programmatici del Piano di Valorizzazione del Commercio.
 
-5.
-
-I finanziamenti di cui ai al comma 4 sono fra loro cumulabili solamente nel caso in cui siano parte di un unico progetto e non sono cumulabili con altre forme di credito agevolato che prevedano un contributo in conto interessi a carico dello Stato.
+5\. I finanziamenti di cui ai al comma 4 sono fra loro cumulabili solamente nel caso in cui siano parte di un unico progetto e non sono cumulabili con altre forme di credito agevolato che prevedano un contributo in conto interessi a carico dello Stato.
 
 L’importo finanziato non può eccedere in alcun caso l’ammontare degli oneri connessi alla realizzazione del progetto.
 
-6.
+6\. Le imprese possono accedere ai finanziamenti di cui al comma 4 limitatamente ad un solo progetto all’anno; le medesime imprese possono presentare, nell’arco temporale di un decennio, da calcolarsi dalla data delle prima autorizzazione concessa dalla Commissione di Valutazione, sino ad un massimo di quattro progetti.
 
-Le imprese possono accedere ai finanziamenti di cui al comma 4 limitatamente ad un solo progetto all’anno; le medesime imprese possono presentare, nell’arco temporale di un decennio, da calcolarsi dalla data delle prima autorizzazione concessa dalla Commissione di Valutazione, sino ad un massimo di quattro progetti.
-
-7.
-
-Il credito agevolato può essere concesso per un massimo di 10 anni ed il rimborso del prestito avviene mediante il pagamento di rate semestrali posticipate costanti comprensive della quota di interessi a carico del beneficiario, con scadenza 30 giugno e 31 dicembre di ogni anno; la prima rata scadrà alla fine del primo semestre successivo a quello in cui è avvenuta l’erogazione della prima rata del prestito.
+7\. Il credito agevolato può essere concesso per un massimo di 10 anni ed il rimborso del prestito avviene mediante il pagamento di rate semestrali posticipate costanti comprensive della quota di interessi a carico del beneficiario, con scadenza 30 giugno e 31 dicembre di ogni anno; la prima rata scadrà alla fine del primo semestre successivo a quello in cui è avvenuta l’erogazione della prima rata del prestito.
 
 Qualora l’erogazione del prestito avvenga nel corso del semestre, gli interessi sono totalmente a carico del beneficiario, sino al 30 giugno o 31 dicembre successivo .
 
-8.
+8\. L’erogazione del finanziamento accordato è subordinata alle garanzie fornite dal titolare dell’impresa all’istituto di credito erogante.
 
-L’erogazione del finanziamento accordato è subordinata alle garanzie fornite dal titolare dell’impresa all’istituto di credito erogante.
+9\. La garanzia deve essere di entità tale da coprire anche l’ammontare complessivo degli interessi a carico dello Stato.
 
-9.
-
-La garanzia deve essere di entità tale da coprire anche l’ammontare complessivo degli interessi a carico dello Stato.
-
-10.
-
-Sono poste a carico dello Stato le seguenti quote degli interessi passivi dovuti agli istituti di credito eroganti in relazione ai finanziamenti concessi a mente del presente articolo:
+10\. Sono poste a carico dello Stato le seguenti quote degli interessi passivi dovuti agli istituti di credito eroganti in relazione ai finanziamenti concessi a mente del presente articolo:
 
 a) una quota pari al 100% del tasso di interesse sui mutui contratti ai sensi del presente articolo relativi ai finanziamenti di cui al comma 4, lettera a), numero 1), 2) e 3.1) e di cui al medesimo comma 4, lettere d) ed e);
 
 b) una quota pari al 75% del tasso di interesse sui mutui contratti ai sensi del presente articolo relativi ai finanziamenti di cui al comma 4, lettera a), numeri 3.2) e 3.3) e di cui al medesimo comma 4, lettere b) e c).
 
-11.
-
-Fermo restando quanto sopra, la quota di interessi a carico dello Stato, qualora l’impresa acceda a più finanziamenti così come previsto al comma 6, è decurtata del 15% rispetto a quella sopra indicata per il secondo progetto, del 20% per il terzo
+11\. Fermo restando quanto sopra, la quota di interessi a carico dello Stato, qualora l’impresa acceda a più finanziamenti così come previsto al comma 6, è decurtata del 15% rispetto a quella sopra indicata per il secondo progetto, del 20% per il terzo
 
 progetto e del 25% per il quarto ed ultimo progetto fruibile nel decennio di riferimento.
 
-12.
-
-La concessione dei finanziamenti di cui al presente articolo è, comunque, subordinata all’esistenza, in capo al richiedente, di requisiti di solidità economica e patrimoniale che verranno valutati dall’istituto di credito erogante.
+12\. La concessione dei finanziamenti di cui al presente articolo è, comunque, subordinata all’esistenza, in capo al richiedente, di requisiti di solidità economica e patrimoniale che verranno valutati dall’istituto di credito erogante.
 
 ### Art. 6
 
 (Incentivi fiscali)
 
-1.
+1\. La Commissione delibera, inoltre, l’ammissione ad incentivi fiscali consistenti nel riconoscimento di una aliquota agevolata dell’imposta monofase dovuta in relazione agli acquisti di beni, per un periodo massimo di tre anni in favore delle imprese che intendano attuare i progetti di cui all’articolo 3, comma 6, lettere a) e b).
 
-La Commissione delibera, inoltre, l’ammissione ad incentivi fiscali consistenti nel riconoscimento di una aliquota agevolata dell’imposta monofase dovuta in relazione agli acquisti di beni, per un periodo massimo di tre anni in favore delle imprese che intendano attuare i progetti di cui all’articolo 3, comma 6, lettere a) e b).
+2\. L’aliquota agevolata riconosciuta in favore delle sopra indicate imprese è pari al 10 %.
 
-2.
-
-L’aliquota agevolata riconosciuta in favore delle sopra indicate imprese è pari al 10 %.
-
-3.
-
-Al fine del riconoscimento dell’aliquota agevolata dell’imposta monofase, l’operatore economico presenta apposita istanza all’Ufficio Industria, Artigianato e Commercio che, a seguito della decisione favorevole della Commissione assunta ai sensi del comma 1, comunica all’Ufficio Tributario l’ammissione al godimento dell’incentivo fiscale.
+3\. Al fine del riconoscimento dell’aliquota agevolata dell’imposta monofase, l’operatore economico presenta apposita istanza all’Ufficio Industria, Artigianato e Commercio che, a seguito della decisione favorevole della Commissione assunta ai sensi del comma 1, comunica all’Ufficio Tributario l’ammissione al godimento dell’incentivo fiscale.
 
 ### Art. 7
 
 (Adempimenti successivi all’ammissione al credito agevolato)
 
-1.
+1\. L’Ufficio Industria, Artigianato e Commercio coadiuva la Commissione nell’espletamento delle sue attività e dà attuazione alle deliberazioni della stessa.
 
-L’Ufficio Industria, Artigianato e Commercio coadiuva la Commissione nell’espletamento delle sue attività e dà attuazione alle deliberazioni della stessa.
+2\. Le decisioni della Commissione sono trasmesse, a cura dell’Ufficio Industria, Artigianato e Commercio, al soggetto interessato, all’istituto di credito erogante ed alla Direzione Generale della Finanza Pubblica; in particolare, su disposizione del Coordinatore, la documentazione istruttoria delle pratiche può essere trasmessa all’istituto di credito prescelto per l’erogazione del finanziamento.
 
-2.
+3\. Ai fini dell’erogazione del credito agevolato, l’istituto di credito produce eventuale impegnativa in relazione alla specifica domanda ed al piano di ammortamento del finanziamento richiesto.
 
-Le decisioni della Commissione sono trasmesse, a cura dell’Ufficio Industria, Artigianato e Commercio, al soggetto interessato, all’istituto di credito erogante ed alla Direzione Generale della Finanza Pubblica; in particolare, su disposizione del Coordinatore, la documentazione istruttoria delle pratiche può essere trasmessa all’istituto di credito prescelto per l’erogazione del finanziamento.
+4\. Successivamente alla presentazione dell’impegnativa di cui al comma 3, l’Ufficio Industria, Artigianato e Commercio, eventualmente coadiuvato dai competenti uffici della Pubblica Amministrazione, verifica l’avvio degli interventi oggetto del progetto finanziato e provvede a far pervenire al richiedente, all’istituto di credito erogante ed alla Direzione Generale della Finanza Pubblica, previa presentazione delle fatture e/o della documentazione a supporto degli oneri sostenuti, l’autorizzazione del Coordinatore della Commissione per l’erogazione del mutuo agevolato.
 
-3.
+5\. La Commissione di Valutazione stabilisce la modalità di erogazione del prestito che può avvenire anche in più fasi.
 
-Ai fini dell’erogazione del credito agevolato, l’istituto di credito produce eventuale impegnativa in relazione alla specifica domanda ed al piano di ammortamento del finanziamento richiesto.
-
-4.
-
-Successivamente alla presentazione dell’impegnativa di cui al comma 3, l’Ufficio Industria, Artigianato e Commercio, eventualmente coadiuvato dai competenti uffici della Pubblica Amministrazione, verifica l’avvio degli interventi oggetto del progetto finanziato e provvede a far pervenire al richiedente, all’istituto di credito erogante ed alla Direzione Generale della Finanza Pubblica, previa presentazione delle fatture e/o della documentazione a supporto degli oneri sostenuti, l’autorizzazione del Coordinatore della Commissione per l’erogazione del mutuo agevolato.
-
-5.
-
-La Commissione di Valutazione stabilisce la modalità di erogazione del prestito che può avvenire anche in più fasi.
-
-6.
-
-Almeno due giorni prima dell’effettuazione delle operazioni bancarie o delle operazioni di rientro delle somme in relazione alle quali è stato concesso il credito agevolato, l’istituto di credito erogante comunica all’Ufficio Industria, Artigianato e Commercio ed alla Direzione Generale della Finanza Pubblica i contratti di finanziamento e le operazioni convenute.
+6\. Almeno due giorni prima dell’effettuazione delle operazioni bancarie o delle operazioni di rientro delle somme in relazione alle quali è stato concesso il credito agevolato, l’istituto di credito erogante comunica all’Ufficio Industria, Artigianato e Commercio ed alla Direzione Generale della Finanza Pubblica i contratti di finanziamento e le operazioni convenute.
 
 ### Art.8
 
 (Controlli)
 
-1.
+1\. L’Ufficio Industria, Artigianato e Commercio è competente in materia di controlli volti a garantire il rispetto delle disposizioni del presente decreto, riferendo periodicamente alla Commissione di Valutazione; a tal fine, l’Ufficio ha facoltà di svolgere, anche avvalendosi di altri uffici dell’Amministrazione Pubblica, tutti i controlli che riterrà necessari per verificare l’esatta e puntuale attuazione degli interventi oggetto delle agevolazioni previste dai superiori articoli.
 
-L’Ufficio Industria, Artigianato e Commercio è competente in materia di controlli volti a garantire il rispetto delle disposizioni del presente decreto, riferendo periodicamente alla Commissione di Valutazione; a tal fine, l’Ufficio ha facoltà di svolgere, anche avvalendosi di altri uffici dell’Amministrazione Pubblica, tutti i controlli che riterrà necessari per verificare l’esatta e puntuale attuazione degli interventi oggetto delle agevolazioni previste dai superiori articoli.
+2\. In particolare, l’Ufficio Industria, Artigianato e Commercio controlla la regolarità delle erogazioni e dei piani di rientro; allo scopo di consentire il predetto controllo, gli istituti di credito eroganti sono tenuti a segnalare immediatamente all’Ufficio Industria, Artigianato e Commercio ed alla Direzione Generale della Finanza Pubblica ogni irregolarità connessa all’esecuzione dei piani di rientro concordati. Gli stessi istituti di credito, ai fini dell’emissione a loro favore delle liquidazioni di spesa relative agli oneri a carico dello Stato, trasmettono, ad ogni scadenza delle rate di credito, all’Ufficio Industria, Artigianato e Commercio ed alla Direzione Generale della Finanza Pubblica la documentazione necessaria.
 
-2.
+3\. L’Ufficio Industria, Artigianato e Commercio, a seguito dell’accertamento di eventuali inadempienze totali o parziali nonché della constatazione della falsità o incompletezza delle dichiarazioni effettuate in sede di presentazione della domanda di accesso alle agevolazioni, provvede a contestarle all’operatore interessato il quale ha trenta giorni per fare pervenire all’ufficio medesimo controdeduzioni; decorso tale termine, l’ufficio trasmette alla Commissione di Valutazione l’accertamento e la relativa contestazione nonché le eventuali controdeduzioni dell’operatore.
 
-In particolare, l’Ufficio Industria, Artigianato e Commercio controlla la regolarità delle erogazioni e dei piani di rientro; allo scopo di consentire il predetto controllo, gli istituti di credito eroganti sono tenuti a segnalare immediatamente all’Ufficio Industria, Artigianato e Commercio ed alla Direzione Generale della Finanza Pubblica ogni irregolarità connessa all’esecuzione dei piani di rientro concordati. Gli stessi istituti di credito, ai fini dell’emissione a loro favore delle liquidazioni di spesa relative agli oneri a carico dello Stato, trasmettono, ad ogni scadenza delle rate di credito, all’Ufficio Industria, Artigianato e Commercio ed alla Direzione Generale della Finanza Pubblica la documentazione necessaria.
+4\. La Commissione, presa visione della predetta documentazione, ha facoltà di stabilire un congruo periodo di tempo per l’eliminazione delle inadempienze; qualora, decorso tale periodo, le irregolarità non risultino sanate, la Commissione procede a revocare o a dichiarare la decadenza dei benefici riconosciuti in favore dell’operatore inadempiente. Qualora l’inadempienza consista nel mancato pagamento di due rate consecutive del mutuo, la Commissione dichiara la revoca del credito e degli eventuali incentivi fiscali.
 
-3.
-
-L’Ufficio Industria, Artigianato e Commercio, a seguito dell’accertamento di eventuali inadempienze totali o parziali nonché della constatazione della falsità o incompletezza delle dichiarazioni effettuate in sede di presentazione della domanda di accesso alle agevolazioni, provvede a contestarle all’operatore interessato il quale ha trenta giorni per fare pervenire all’ufficio medesimo controdeduzioni; decorso tale termine, l’ufficio trasmette alla Commissione di Valutazione l’accertamento e la relativa contestazione nonché le eventuali controdeduzioni dell’operatore.
-
-4.
-
-La Commissione, presa visione della predetta documentazione, ha facoltà di stabilire un congruo periodo di tempo per l’eliminazione delle inadempienze; qualora, decorso tale periodo, le irregolarità non risultino sanate, la Commissione procede a revocare o a dichiarare la decadenza dei benefici riconosciuti in favore dell’operatore inadempiente. Qualora l’inadempienza consista nel mancato pagamento di due rate consecutive del mutuo, la Commissione dichiara la revoca del credito e degli eventuali incentivi fiscali.
-
-5.
-
-La revoca o la decadenza è comunicata all’operatore inadempiente, all’istituto di credito erogante, all’Avvocatura dello Stato, alla Direzione Generale della Finanza Pubblica ed agli Uffici interessati e comporta:
+5\. La revoca o la decadenza è comunicata all’operatore inadempiente, all’istituto di credito erogante, all’Avvocatura dello Stato, alla Direzione Generale della Finanza Pubblica ed agli Uffici interessati e comporta:
 
 a) nel caso di credito agevolato: la cessazione del finanziamento, l’obbligo di restituzione del capitale maggiorato degli interessi al tasso legale all’istituto di credito, l’obbligo di restituzione all’erario delle somme da quest’ultimo erogate a titolo di interessi passivi sino alla data della revoca o decadenza maggiorate degli interessi al tasso legale. La restituzione dovrà avvenire entro 180 giorni decorrenti dalla data della revoca o decadenza. L’istituto di credito erogante è tenuto a rifondere all’erario la quota di interessi passivi pagata dall’erario stesso rivalendosi sull’operatore per il recupero del capitale e degli interessi.
 
 b) nel caso di godimento dell’aliquota agevolata dell’imposta monofase: la cessazione del godimento dell’aliquota agevolata, l’obbligo di restituzione all’erario delle somme non versate a titolo di imposta monofase sino alla data della revoca o decadenza maggiorate degli interessi al tasso legale entro 180 giorni dalla data della revoca o decadenza.
 
-6.
-
-In caso di false dichiarazioni, è, comunque, fatta salva la concorrente applicazione delle sanzioni penali previste.
+6\. In caso di false dichiarazioni, è, comunque, fatta salva la concorrente applicazione delle sanzioni penali previste.
 
 ### Art.9
 
 (Disposizioni Finali)
 
-1.
+1\. E’ preclusa all’operatore economico la possibilità di accedere ai finanziamenti ed agli incentivi fiscali di cui al presente decreto nel caso in cui questi, alla data di presentazione dell’istanza, risulti debitore moroso nei confronti dello Stato per tributi non pagati.
 
-E’ preclusa all’operatore economico la possibilità di accedere ai finanziamenti ed agli incentivi fiscali di cui al presente decreto nel caso in cui questi, alla data di presentazione dell’istanza, risulti debitore moroso nei confronti dello Stato per tributi non pagati.
+2\. La Commissione di Valutazione ha facoltà di dettare norme applicative del presente decreto mediante l’adozione di regolamento.
 
-2.
-
-La Commissione di Valutazione ha facoltà di dettare norme applicative del presente decreto mediante l’adozione di regolamento.
-
-3.
-
-In attuazione di quanto previsto dall’articolo 63 della Legge 22 dicembre 2010 n.194, il Congresso di Stato, su proposta della Segreteria di Stato competente, ha facoltà di individuare, mediante propria delibera, le categorie di prodotti strategiche ai sensi di quanto previsto dall’articolo 3, commi 6, lettera a) e 7 del presente decreto nonché le tipologie di imprese rientranti nella fattispecie di cui al superiore articolo 2, comma 1, lettera d).
+3\. In attuazione di quanto previsto dall’articolo 63 della Legge 22 dicembre 2010 n.194, il Congresso di Stato, su proposta della Segreteria di Stato competente, ha facoltà di individuare, mediante propria delibera, le categorie di prodotti strategiche ai sensi di quanto previsto dall’articolo 3, commi 6, lettera a) e 7 del presente decreto nonché le tipologie di imprese rientranti nella fattispecie di cui al superiore articolo 2, comma 1, lettera d).
 
 ### Art.10
 
 (Abrogazioni)
 
-1.
-
-Il Decreto Delegato 30 maggio 2006 n.78, il Decreto Delegato 7 luglio 2008 n.106 ed il Regolamento 27 marzo 2007 n.3 sono abrogati.
+1\. Il Decreto Delegato 30 maggio 2006 n.78, il Decreto Delegato 7 luglio 2008 n.106 ed il Regolamento 27 marzo 2007 n.3 sono abrogati.
 
 DECRETO DELEGATO 10 dicembre 2013 n.165 (decaduto)
 
@@ -3640,13 +2958,9 @@ DECRETO DELEGATO IN APPLICAZIONE DEGLI ARTICOLI 18,20, 28, 37 DELLA LEGGE 27 GIU
 
 (Limitazione di accesso ai benefici in fase di avviamento)
 
-1.
+1\. Le società di cui al Titolo II della Legge n. 71/2013 non possono accedere ai benefici previsti dal Decreto Delegato 24 luglio 2013 n. 93 - Disposizioni in materia di credito agevolato a supporto delle imprese - per i primi tre anni di attività.
 
-Le società di cui al Titolo II della Legge n. 71/2013 non possono accedere ai benefici previsti dal Decreto Delegato 24 luglio 2013 n. 93 - Disposizioni in materia di credito agevolato a supporto delle imprese - per i primi tre anni di attività.
-
-2.
-
-Le società di cui al Titolo II della Legge n. 71/2013 che non siano di nuova costituzione e che usufruiscono di benefici derivanti dall’applicazione di leggi di credito agevolato precedentemente erogati all’entrata in vigore del Decreto Delegato 24 luglio 2013 n. 93 e successive modifiche mantengono tali benefici fino al loro esaurimento.
+2\. Le società di cui al Titolo II della Legge n. 71/2013 che non siano di nuova costituzione e che usufruiscono di benefici derivanti dall’applicazione di leggi di credito agevolato precedentemente erogati all’entrata in vigore del Decreto Delegato 24 luglio 2013 n. 93 e successive modifiche mantengono tali benefici fino al loro esaurimento.
 
 DECRETO DELEGATO 25 aprile 2014 n.63 (Ratifica Decreto Delegato 11 marzo 2014 n.29)
 
@@ -3656,13 +2970,9 @@ DECRETO DELEGATO IN APPLICAZIONE DEGLI ARTICOLI 18, 20, 28, 37 DELLA LEGGE 27 GI
 
 (Limitazione di accesso ai benefici in fase di avviamento)
 
-1.
+1\. Le società di cui al Titolo II della Legge n.71/2013 non possono accedere ai benefici previsti dal Decreto Delegato 24 luglio 2013 n. 93 - Disposizioni in materia di credito agevolato a supporto delle imprese - per i primi 3 anni di attività.
 
-Le società di cui al Titolo II della Legge n.71/2013 non possono accedere ai benefici previsti dal Decreto Delegato 24 luglio 2013 n. 93 - Disposizioni in materia di credito agevolato a supporto delle imprese - per i primi 3 anni di attività.
-
-2.
-
-Le società di cui al Titolo II della Legge n.71 del 27 giugno 2013 che non siano di nuova costituzione e che usufruiscono di benefici derivanti dall’applicazione di leggi di credito agevolato precedentemente erogati all’entrata in vigore del Decreto Delegato 24 luglio 2013 n. 93 e successive modifiche o che, dopo l’entrata in vigore di quest’ultimo e successive modifiche, usufruiscano dei benefici da essi derivanti, mantengono tali benefici fino al loro esaurimento, se autorizzati precedentemente il rilevamento dell’attività.
+2\. Le società di cui al Titolo II della Legge n.71 del 27 giugno 2013 che non siano di nuova costituzione e che usufruiscono di benefici derivanti dall’applicazione di leggi di credito agevolato precedentemente erogati all’entrata in vigore del Decreto Delegato 24 luglio 2013 n. 93 e successive modifiche o che, dopo l’entrata in vigore di quest’ultimo e successive modifiche, usufruiscano dei benefici da essi derivanti, mantengono tali benefici fino al loro esaurimento, se autorizzati precedentemente il rilevamento dell’attività.
 
 LEGGE 5 dicembre 2014 n.211 LEGGE IN MATERIA DI EDITORIA E DI PROFESSIONE DEGLI OPERATORI DELL’INFORMAZIONE
 
@@ -3670,17 +2980,13 @@ LEGGE 5 dicembre 2014 n.211 LEGGE IN MATERIA DI EDITORIA E DI PROFESSIONE DEGLI 
 
 (Provvidenze per l’Editoria)
 
-1.
-
-Al fine di promuovere e sostenere il settore dell’informazione, sono previsti i seguenti benefici:
+1\. Al fine di promuovere e sostenere il settore dell’informazione, sono previsti i seguenti benefici:
 
 a) contributo sino ad un massimo del 7% sul costo del prodotto editoriale documentato, di cui all’Allegato B alla presente legge, fino ad un massimo di euro 10.000,00 (diecimila/00) per ogni singola testata. La predetta percentuale e il predetto Allegato B possono essere modificati con decreto delegato;
 
 b) contributo sino ad un massimo del 30% sul costo derivante dal servizio di fornitura di notiziari da parte delle principali agenzie di informazione, fino ad un massimo di euro 5.000,00 (cinquemila/00) per ogni singola testata.
 
-2.
-
-Non sono ammessi nel computo del costo del prodotto editoriale di cui alla superiore lettera a) i costi sostenuti:
+2\. Non sono ammessi nel computo del costo del prodotto editoriale di cui alla superiore lettera a) i costi sostenuti:
 
 a) per personale avente funzioni diverse da quelle di operatore dell’informazione;
 
@@ -3688,41 +2994,25 @@ b) per spese generali di gestione;
 
 c) per interessi passivi a qualsiasi titolo derivanti.
 
-3.
+3\. Gli oneri derivanti dalla corresponsione dei contributi di cui alle superiori lettere a) e b) del comma 1 sono imputati su apposito capitolo nel Bilancio dello Stato “Interventi di sostegno per le attività editoriali” e vengono erogati annualmente nell’ambito della disponibilità di bilancio.
 
-Gli oneri derivanti dalla corresponsione dei contributi di cui alle superiori lettere a) e b) del comma 1 sono imputati su apposito capitolo nel Bilancio dello Stato “Interventi di sostegno per le attività editoriali” e vengono erogati annualmente nell’ambito della disponibilità di bilancio.
+4\. Hanno diritto a godere dei benefici previsti al comma 1 tutte le imprese editrici e testate giornalistiche che operano sul territorio. Le imprese editrici di libri, purché operanti nel territorio, hanno diritto di godere esclusivamente dei benefici previsti alla lettera a) del comma 1.
 
-4.
+5\. Le provvidenze di cui al presente articolo non sono incompatibili con altri interventi a sostegno delle imprese a condizione che un eventuale finanziamento di credito agevolato ai sensi del Decreto Delegato 24 luglio 2013 n.93 o una detassazione sugli utili reinvestiti non riguardi gli stessi beni e servizi in relazione ai quali sono elargite le provvidenze.
 
-Hanno diritto a godere dei benefici previsti al comma 1 tutte le imprese editrici e testate giornalistiche che operano sul territorio. Le imprese editrici di libri, purché operanti nel territorio, hanno diritto di godere esclusivamente dei benefici previsti alla lettera a) del comma 1.
+6\. Le pubblicazioni periodiche di cui all’articolo 27, di partiti, movimenti o associazioni senza fini di lucro, giuridicamente riconosciute, con esclusione di quelle stampate a cura dello Stato o di organismi pubblici, di quelle che abbiano scopo prevalentemente pubblicitario o di informazione e promozione commerciale e di quelle aventi caratteri della pubblicazione occasionale e non continuativa, usufruiscono di un contributo pubblico annuo, qualora la testata periodica effettui in un anno solare almeno sei pubblicazioni distinte, di euro 100,00 (cento/00) per ogni numero del periodico, sino ad un massimo di ventiquattro numeri.
 
-5.
+7\. L’Autorità delibera sulle richieste di provvidenze di cui al comma 6 ed è tenuta a verificare i requisiti ai sensi dell’articolo 27 e del superiore comma 6.
 
-Le provvidenze di cui al presente articolo non sono incompatibili con altri interventi a sostegno delle imprese a condizione che un eventuale finanziamento di credito agevolato ai sensi del Decreto Delegato 24 luglio 2013 n.93 o una detassazione sugli utili reinvestiti non riguardi gli stessi beni e servizi in relazione ai quali sono elargite le provvidenze.
-
-6.
-
-Le pubblicazioni periodiche di cui all’articolo 27, di partiti, movimenti o associazioni senza fini di lucro, giuridicamente riconosciute, con esclusione di quelle stampate a cura dello Stato o di organismi pubblici, di quelle che abbiano scopo prevalentemente pubblicitario o di informazione e promozione commerciale e di quelle aventi caratteri della pubblicazione occasionale e non continuativa, usufruiscono di un contributo pubblico annuo, qualora la testata periodica effettui in un anno solare almeno sei pubblicazioni distinte, di euro 100,00 (cento/00) per ogni numero del periodico, sino ad un massimo di ventiquattro numeri.
-
-7.
-
-L’Autorità delibera sulle richieste di provvidenze di cui al comma 6 ed è tenuta a verificare i requisiti ai sensi dell’articolo 27 e del superiore comma 6.
-
-8.
-
-Gli oneri derivanti dalla corresponsione dei contributi di cui al comma 6 sono imputati su apposito capitolo nel Bilancio dello Stato “Contributo alla stampa periodica” e vengono erogati annualmente nell’ambito della disponibilità di bilancio.
+8\. Gli oneri derivanti dalla corresponsione dei contributi di cui al comma 6 sono imputati su apposito capitolo nel Bilancio dello Stato “Contributo alla stampa periodica” e vengono erogati annualmente nell’ambito della disponibilità di bilancio.
 
 ### Art.34
 
 (Imprese ammesse alle provvidenze e procedura di ammissione)
 
-1.
+1\. Hanno diritto ai benefici di cui alla presente legge oltre agli editori puri, ovvero alle imprese editrici iscritte al Registro delle imprese editrici di cui all’articolo 23, anche le testate giornalistiche iscritte all’elenco delle testate giornalistiche di cui all’articolo 21.
 
-Hanno diritto ai benefici di cui alla presente legge oltre agli editori puri, ovvero alle imprese editrici iscritte al Registro delle imprese editrici di cui all’articolo 23, anche le testate giornalistiche iscritte all’elenco delle testate giornalistiche di cui all’articolo 21.
-
-2.
-
-Non sono ammessi al godimento delle provvidenze per l’editoria i soggetti di cui al comma 1:
+2\. Non sono ammessi al godimento delle provvidenze per l’editoria i soggetti di cui al comma 1:
 
 a) che abbiano una percentuale di contenuto pubblicitario superiore al 40% della pubblicazione;
 
@@ -3742,27 +3032,17 @@ h) che non attestino o attestino falsamente la regolarità della propria posizio
 
 i) ai quali siano elevate sanzioni nel triennio precedente per violazione delle norme in materia di assunzione di lavoratori.
 
-3.
+3\. Ai fini del computo di cui alla lettera a) del precedente comma, si intendono assimilati alla pubblicità gli articoli od i servizi aventi lo scopo primario di accreditare presso il pubblico un’immagine favorevole di attività o prodotti o servizi. Non vengono computati i messaggi pubblicitari, le iniziative promosse da istituzioni, enti e associazioni aventi ad oggetto iniziative con finalità sociali.
 
-Ai fini del computo di cui alla lettera a) del precedente comma, si intendono assimilati alla pubblicità gli articoli od i servizi aventi lo scopo primario di accreditare presso il pubblico un’immagine favorevole di attività o prodotti o servizi. Non vengono computati i messaggi pubblicitari, le iniziative promosse da istituzioni, enti e associazioni aventi ad oggetto iniziative con finalità sociali.
+4\. Per i prodotti editoriali pubblicati tramite internet il calcolo del contenuto pubblicitario verrà effettuato con criteri quanto più possibile omogenei con quelli inerenti le pubblicazioni su carta stampata.
 
-4.
+5\. Per poter usufruire delle provvidenze, le imprese editrici e testate giornalistiche in possesso dei requisiti e che intendono beneficiare del contributo previsto al comma 1 dell’articolo 33 devono inoltrare apposita domanda con allegata la documentazione indicata al successivo comma 7 all’Ufficio Industria, Artigianato e Commercio, che istruisce la pratica, verifica il possesso dei requisiti e trasmette all’Autorità per la valutazione finale. Il responsabile del procedimento amministrativo dell’Ufficio Industria, Artigianato e Commercio che esegue tutti gli accertamenti, istruisce la pratica e la parte successiva alla valutazione, è tenuto a partecipare alle riunioni dell’Autorità se dalla stessa invitato.
 
-Per i prodotti editoriali pubblicati tramite internet il calcolo del contenuto pubblicitario verrà effettuato con criteri quanto più possibile omogenei con quelli inerenti le pubblicazioni su carta stampata.
-
-5.
-
-Per poter usufruire delle provvidenze, le imprese editrici e testate giornalistiche in possesso dei requisiti e che intendono beneficiare del contributo previsto al comma 1 dell’articolo 33 devono inoltrare apposita domanda con allegata la documentazione indicata al successivo comma 7 all’Ufficio Industria, Artigianato e Commercio, che istruisce la pratica, verifica il possesso dei requisiti e trasmette all’Autorità per la valutazione finale. Il responsabile del procedimento amministrativo dell’Ufficio Industria, Artigianato e Commercio che esegue tutti gli accertamenti, istruisce la pratica e la parte successiva alla valutazione, è tenuto a partecipare alle riunioni dell’Autorità se dalla stessa invitato.
-
-6.
-
-La domanda deve essere inoltrata entro il 31 dicembre dell’esercizio per cui si intende effettuare richiesta e completata con l’invio della documentazione di cui al successivo comma entro il 30 aprile dell’anno successivo, corredata di una
+6\. La domanda deve essere inoltrata entro il 31 dicembre dell’esercizio per cui si intende effettuare richiesta e completata con l’invio della documentazione di cui al successivo comma entro il 30 aprile dell’anno successivo, corredata di una
 
 dichiarazione dalla quale risulti il numero di copie tirate giornalmente o per singolo numero.
 
-7.
-
-Ai fini del completamento della domanda, i soggetti di cui al comma 1 devono presentare:
+7\. Ai fini del completamento della domanda, i soggetti di cui al comma 1 devono presentare:
 
 a) copia del bilancio dell’esercizio precedente;
 
@@ -3778,9 +3058,7 @@ f) dettaglio del calcolo di ogni provvidenza richiesta;
 
 g) dichiarazione che attesti la regolarità della posizione fiscale e contributiva dell’impresa e che a carico dell’impresa non sono state elevate sanzioni nel triennio precedente per violazione delle norme in materia di assunzione dei lavoratori.
 
-8.
-
-L’Autorità può revocare il contributo di cui al comma 1 qualora verifichi distorsioni o violazioni.
+8\. L’Autorità può revocare il contributo di cui al comma 1 qualora verifichi distorsioni o violazioni.
 
 LEGGE 7 agosto 2015 n.137 MODIFICHE ALLA LEGGE 29 GENNAIO 1992 N.7 – PIANO REGOLATORE GENERALE (P.R.G.) PER L’ATTUAZIONE DI INTERVENTI DI SVILUPPO ECONOMICO
 
@@ -3788,13 +3066,9 @@ LEGGE 7 agosto 2015 n.137 MODIFICHE ALLA LEGGE 29 GENNAIO 1992 N.7 – PIANO REG
 
 (Finalità)
 
-1.
+1\. La presente legge è finalizzata ad apportare al vigente Piano Regolatore Generale (P.R.G.) le modifiche necessarie a consentire l’attuazione di un progetto utile allo sviluppo economico del Paese denominato “Luxury Departement Store San Marino”.
 
-La presente legge è finalizzata ad apportare al vigente Piano Regolatore Generale (P.R.G.) le modifiche necessarie a consentire l’attuazione di un progetto utile allo sviluppo economico del Paese denominato “Luxury Departement Store San Marino”.
-
-2.
-
-A titolo di compensazione viene attuata la conversione di un’area produttiva esistente in area agricola, con contestuale inserimento all’interno di una più vasta Area Naturalistica Tutelata.
+2\. A titolo di compensazione viene attuata la conversione di un’area produttiva esistente in area agricola, con contestuale inserimento all’interno di una più vasta Area Naturalistica Tutelata.
 
 DECRETO DELEGATO 3 novembre 2015 n.162 (Ratifica Decreto Delegato 19 ottobre 2015 n.155)
 
@@ -3804,17 +3078,13 @@ ADEGUAMENTI NORMATIVI PER L’ATTUAZIONE DEL PROGETTO DI CUI ALL’ARTICOLO 1, C
 
 (Ambito di applicazione)
 
-1.
-
-Le disposizioni del presente decreto delegato sono finalizzate a disciplinare gli adeguamenti normativi necessari all’attuazione dell’accordo di cui all’articolo 5 della Legge 7 agosto 2015 n. 137, volto a disciplinare le condizioni per la realizzazione di un centro commerciale in località Rovereta sulle aree indicate agli articoli 2 e 3 della medesima legge.
+1\. Le disposizioni del presente decreto delegato sono finalizzate a disciplinare gli adeguamenti normativi necessari all’attuazione dell’accordo di cui all’articolo 5 della Legge 7 agosto 2015 n. 137, volto a disciplinare le condizioni per la realizzazione di un centro commerciale in località Rovereta sulle aree indicate agli articoli 2 e 3 della medesima legge.
 
 ### Art.2
 
 (Definizioni)
 
-1.
-
-Nel presente decreto delegato, i seguenti termini assumono i seguenti significati:
+1\. Nel presente decreto delegato, i seguenti termini assumono i seguenti significati:
 
 a) per “Accordo”, la convenzione intercorrente tra il Congresso di Stato e i Promotori;
 
@@ -3842,9 +3112,7 @@ j) per “Società Partecipanti”, congiuntamente la Società Commerciale e/o l
 
 (Applicazione degli incentivi della Legge I.G.R.)
 
-1.
-
-Alle Società Partecipanti, per la realizzazione della Fase 1, si applicano le disposizioni di cui al Titolo IV della Legge I.G.R., secondo le seguenti modalità:
+1\. Alle Società Partecipanti, per la realizzazione della Fase 1, si applicano le disposizioni di cui al Titolo IV della Legge I.G.R., secondo le seguenti modalità:
 
 a) ai fini delle misure di cui al Titolo IV della Legge I.G.R., le Società Partecipanti si considerano come un’unica società;
 
@@ -3866,65 +3134,45 @@ g) il trattamento fiscale di cui all’articolo 73, comma 1, lettera c) della Le
 
 h) l’articolo 67 della Legge I.G.R. trova applicazione nei limiti e secondo quanto previsto nell’Accordo.
 
-2.
-
-Alle Società Partecipanti, per la realizzazione della Fase 2, si applicano le medesime disposizioni di cui al comma 1 che precede, fermo restando che:
+2\. Alle Società Partecipanti, per la realizzazione della Fase 2, si applicano le medesime disposizioni di cui al comma 1 che precede, fermo restando che:
 
 a) ogni Società Partecipante può optare, indipendentemente dalle altre, per la decorrenza delle misure incentivanti entro l’anno successivo a quello di autorizzazione della Fase 2, ai sensi dell’articolo 11, comma 2, lettera b) del presente decreto delegato e tali misure sono riconosciute fino al settimo anno successivo a quello di esercizio della suddetta opzione;
 
 b) in ogni caso, il trattamento fiscale di cui all’articolo 73, comma 1, lettera c) della Legge I.G.R. si esaurisce al termine dei sei anni decorrenti secondo le modalità di cui alla lettera e) del comma 1 che precede.
 
-3.
-
-Gli incentivi fiscali di cui ai commi 1 e 2 non potranno in ogni caso superare la somma complessiva di euro 55.750.000,00.
+3\. Gli incentivi fiscali di cui ai commi 1 e 2 non potranno in ogni caso superare la somma complessiva di euro 55.750.000,00.
 
 ### Art.5
 
 (Rivalutazione degli attivi)
 
-1.
+1\. E’ consentita la rivalutazione monetaria degli attivi delle Società Partecipanti e il saldo attivo di rivalutazione non è computato ai fini del raggiungimento della concorrenza del valore dell’investimento ai sensi dell’articolo 63, comma 3, della Legge I.G.R.
 
-E’ consentita la rivalutazione monetaria degli attivi delle Società Partecipanti e il saldo attivo di rivalutazione non è computato ai fini del raggiungimento della concorrenza del valore dell’investimento ai sensi dell’articolo 63, comma 3, della Legge I.G.R.
+2\. La rivalutazione è attuata mediante applicazione dei criteri già disciplinati all’articolo 60 commi 3, 4, 5, 7, 13 e 14 della Legge 21 dicembre 2009 n. 168, per quanto compatibili.
 
-2.
-
-La rivalutazione è attuata mediante applicazione dei criteri già disciplinati all’articolo 60 commi 3, 4, 5, 7, 13 e 14 della Legge 21 dicembre 2009 n. 168, per quanto compatibili.
-
-3.
-
-Il saldo attivo di rivalutazione è fiscalmente imponibile nel periodo d’imposta in cui viene effettuata la rivalutazione e sarà sottoposto al medesimo trattamento fiscale tempo per tempo vigente in capo alle Società Partecipanti. Al saldo attivo di rivalutazione non si applica l’articolo 124, comma 2, della Legge I.G.R..
+3\. Il saldo attivo di rivalutazione è fiscalmente imponibile nel periodo d’imposta in cui viene effettuata la rivalutazione e sarà sottoposto al medesimo trattamento fiscale tempo per tempo vigente in capo alle Società Partecipanti. Al saldo attivo di rivalutazione non si applica l’articolo 124, comma 2, della Legge I.G.R..
 
 ### Art.6
 
 (Imposta sulle importazioni)
 
-1.
-
-L’imposta sulle importazioni per le opere edili e gli interventi connessi alla realizzazione dei beni previsti dal Progetto è applicata nella misura prevista dal Decreto 20 luglio 2004 n. 100, pari al 6%.
+1\. L’imposta sulle importazioni per le opere edili e gli interventi connessi alla realizzazione dei beni previsti dal Progetto è applicata nella misura prevista dal Decreto 20 luglio 2004 n. 100, pari al 6%.
 
 ### Art.7
 
 (Imposte di registro)
 
-1.
+1\. Sui contratti di trasferimento della proprietà dei terreni sui quali sarà realizzato il Progetto si applicano le imposte nella misura complessiva del 3,9% e più precisamente l’imposta di registro nella misura del 2,5%, di trascrizione nella misura dell’1% e di voltura nella misura dello 0,40%, quale tassazione vigente alla data del presente decreto e della stipula della convenzione.
 
-Sui contratti di trasferimento della proprietà dei terreni sui quali sarà realizzato il Progetto si applicano le imposte nella misura complessiva del 3,9% e più precisamente l’imposta di registro nella misura del 2,5%, di trascrizione nella misura dell’1% e di voltura nella misura dello 0,40%, quale tassazione vigente alla data del presente decreto e della stipula della convenzione.
+2\. I contratti di appalto di opere, ovvero i contratti aventi analogo contenuto per la realizzazione delle opere relative al Progetto sono assoggettati all’imposta di registro fissa di euro 2.000,00; i contratti di subappalto stipulati allo stesso fine sono assoggettati all’imposta di registro fissa di euro 200,00.
 
-2.
-
-I contratti di appalto di opere, ovvero i contratti aventi analogo contenuto per la realizzazione delle opere relative al Progetto sono assoggettati all’imposta di registro fissa di euro 2.000,00; i contratti di subappalto stipulati allo stesso fine sono assoggettati all’imposta di registro fissa di euro 200,00.
-
-3.
-
-I contratti di affitto di ramo d’azienda stipulati dalla Società Commerciale sono assoggettati, sino al 31 dicembre 2021, all’ imposta di registro dello 0,50%, ovvero alla minore aliquota prevista tempo per tempo dalla legge, da corrispondersi annualmente in via anticipata sul canone contrattualmente pattuito per l’anno o per il minor periodo; a partire dall’1gennaio 2022 i suddetti contratti sono soggetti all’imposta di registro al momento vigente, da corrispondersi annualmente in via anticipata sul canone contrattualmente pattuito per l’anno o per il minor periodo.
+3\. I contratti di affitto di ramo d’azienda stipulati dalla Società Commerciale sono assoggettati, sino al 31 dicembre 2021, all’ imposta di registro dello 0,50%, ovvero alla minore aliquota prevista tempo per tempo dalla legge, da corrispondersi annualmente in via anticipata sul canone contrattualmente pattuito per l’anno o per il minor periodo; a partire dall’1gennaio 2022 i suddetti contratti sono soggetti all’imposta di registro al momento vigente, da corrispondersi annualmente in via anticipata sul canone contrattualmente pattuito per l’anno o per il minor periodo.
 
 ### Art.8
 
 (Modifiche all’articolo 29 della Legge 26 luglio 2010 n. 130 come sostituito dall’articolo 4 bis del Decreto Delegato 30 ottobre 2014 n.174)
 
-1.
-
-L’articolo 29, comma 1 della Legge 26 luglio 2010 n. 130 come sostituito dall’articolo 4 bis del Decreto Delegato n.174/2014 è così sostituito:
+1\. L’articolo 29, comma 1 della Legge 26 luglio 2010 n. 130 come sostituito dall’articolo 4 bis del Decreto Delegato n.174/2014 è così sostituito:
 
 “1. I centri commerciali, così come definiti al precedente articolo 23, comma 5, sono quelli individuati nell’allegato C alla presente legge.”.
 
@@ -3932,33 +3180,25 @@ L’articolo 29, comma 1 della Legge 26 luglio 2010 n. 130 come sostituito dall�
 
 (Modifiche all’allegato C della Legge 26 luglio 2010 n. 130)
 
-1.
-
-All’allegato C della Legge 26 luglio 2010 n. 130 è aggiunto il centro commerciale ubicato in località Rovereta, sulle aree destinate a “Zona a progetto speciale di sviluppo” indicate all’articolo 3 della Legge 7 agosto 2015 n.137.
+1\. All’allegato C della Legge 26 luglio 2010 n. 130 è aggiunto il centro commerciale ubicato in località Rovereta, sulle aree destinate a “Zona a progetto speciale di sviluppo” indicate all’articolo 3 della Legge 7 agosto 2015 n.137.
 
 ### Art.10
 
 (Applicazione delle disposizioni dell’articolo 20, comma 3, della Legge 27 giugno 2013 n. 71)
 
-1.
-
-Ai fini dell’applicazione dell’articolo 20, comma 3, della Legge 27 giugno 2013 n. 71 si stabilisce che:
+1\. Ai fini dell’applicazione dell’articolo 20, comma 3, della Legge 27 giugno 2013 n. 71 si stabilisce che:
 
 \- le Società Partecipanti ed i Promotori sono riconosciuti quali soggetti affermati nel proprio specifico settore a livello internazionale;
 
 \- i marchi oggetto di vendita al dettaglio negli esercizi commerciali stabiliti all’interno del centro commerciale di cui all’articolo 1 dell’Allegato B dell’Accordo, così come previsto dall’Accordo, sono riconosciuti come marchi affermati a livello internazionale.
 
-2.
-
-I titolari delle licenze rilasciate in applicazione dell’articolo 20, comma 3, della Legge 27 giugno 2013, n. 71 non sono assoggettati alle disposizioni di cui all’articolo 8 del Decreto Delegato 25 aprile 2014 n. 63.
+2\. I titolari delle licenze rilasciate in applicazione dell’articolo 20, comma 3, della Legge 27 giugno 2013, n. 71 non sono assoggettati alle disposizioni di cui all’articolo 8 del Decreto Delegato 25 aprile 2014 n. 63.
 
 ### Art.11
 
 (Applicazione delle disposizioni in materia di credito agevolato alle imprese)
 
-1.
-
-Alla Società Commerciale, per la realizzazione della Fase 1, è accordato un contributo in conto interessi secondo le seguenti modalità:
+1\. Alla Società Commerciale, per la realizzazione della Fase 1, è accordato un contributo in conto interessi secondo le seguenti modalità:
 
 a) l’importo massimo del finanziamento sul quale è riconosciuto il contributo in conto interessi è pari ad euro 40.000.000,00;
 
@@ -3978,9 +3218,7 @@ f) ai fini di cui all’articolo 7, comma 8, del Decreto Delegato n. 93/2013 i t
 
 g) il credito agevolato sarà erogato da soggetti vigilati ai sensi della Legge 17 novembre 2005, n. 165 convenzionati con l’Ecc.ma Camera, i quali potranno agire d’intesa con soggetti finanziari esteri, assoggettati a vigilanza equivalente a quella della predetta Legge n. 165/2005; i soggetti finanziari esteri beneficeranno dei medesimi diritti e saranno assoggettati ai medesimi obblighi previsti in capo ai soggetti finanziatori sammarinesi dal Decreto Delegato 24 luglio 2013, n. 93 e dalla relativa convenzione.
 
-2.
-
-Per la realizzazione della Fase 2, si applicano le medesime disposizioni di cui al comma 1 che precede, fermo restando che:
+2\. Per la realizzazione della Fase 2, si applicano le medesime disposizioni di cui al comma 1 che precede, fermo restando che:
 
 a) l’importo massimo del finanziamento sul quale è riconosciuto il contributo in conto interessi è pari ad euro 25.000.000,00;
 
@@ -3990,44 +3228,28 @@ b) il contributo per la Fase 2 sarà autorizzato all’esito positivo della Fase
 
 (Deposito del Progetto)
 
-1.
-
-Il Progetto è depositato presso l’Ufficio Industria, Artigianato e Commercio entro novanta giorni dall’entrata in vigore del presente decreto delegato. 1 bis. Al Comitato Tecnico Valutatore, istituito con Legge 27 giugno 2013 n. 71, è attribuito il controllo periodico sul buon andamento e sulla corretta realizzazione del Progetto nei modi e termini previsti dal presente decreto delegato e dall’Accordo sottoscritto.
+1\. Il Progetto è depositato presso l’Ufficio Industria, Artigianato e Commercio entro novanta giorni dall’entrata in vigore del presente decreto delegato. 1 bis. Al Comitato Tecnico Valutatore, istituito con Legge 27 giugno 2013 n. 71, è attribuito il controllo periodico sul buon andamento e sulla corretta realizzazione del Progetto nei modi e termini previsti dal presente decreto delegato e dall’Accordo sottoscritto.
 
 ### Art.13
 
 (Licenze e affitto di ramo d’azienda)
 
-1.
+1\. Il Centro Commerciale può esercitare l’attività negli immobili realizzati sulle aree individuate nel Progetto, mediante un’unica licenza contenente più merceologie, da esercitare anche in più edifici o locali anche non attigui.
 
-Il Centro Commerciale può esercitare l’attività negli immobili realizzati sulle aree individuate nel Progetto, mediante un’unica licenza contenente più merceologie, da esercitare anche in più edifici o locali anche non attigui.
-
-2.
-
-Ai fini del rilascio delle licenze temporanee di cui all’articolo 29, comma 5 della Legge 26 luglio 2010 n. 130, la Società Commerciale può stipulare più contratti di affitto di ramo d’azienda anche per le medesime categorie merceologiche, con il solo limite che l’attività di commercio sia svolta nel Centro Commerciale.
+2\. Ai fini del rilascio delle licenze temporanee di cui all’articolo 29, comma 5 della Legge 26 luglio 2010 n. 130, la Società Commerciale può stipulare più contratti di affitto di ramo d’azienda anche per le medesime categorie merceologiche, con il solo limite che l’attività di commercio sia svolta nel Centro Commerciale.
 
 ### Art.14
 
 (Disposizioni varie)
 
-1.
+1\. Ai fini del perfezionamento della permuta di cui all’Accordo non si applicano i disposti di cui agli articoli 6, comma 3 e 9, comma 3, della Legge 21 gennaio 2004 n.
 
-Ai fini del perfezionamento della permuta di cui all’Accordo non si applicano i disposti di cui agli articoli 6, comma 3 e 9, comma 3, della Legge 21 gennaio 2004 n.
+2\. Possono essere in comune alle varie unità immobiliari i servizi igienici per il pubblico e quelli necessari in adempimento alla Legge 18 febbraio 1998 n.31 purché risultino in adeguato numero, disposizione e funzionalità rispetto al progetto stesso e ai fruitori previsti.
 
-6.
-
-2.
-
-Possono essere in comune alle varie unità immobiliari i servizi igienici per il pubblico e quelli necessari in adempimento alla Legge 18 febbraio 1998 n.31 purché risultino in adeguato numero, disposizione e funzionalità rispetto al progetto stesso e ai fruitori previsti.
-
-3.
-
-Le distanze dei fabbricati dalle strade sono misurate ai sensi dell’articolo 16 della Legge 29 gennaio 1992 n.7 comma 1 terza alinea.
+3\. Le distanze dei fabbricati dalle strade sono misurate ai sensi dell’articolo 16 della Legge 29 gennaio 1992 n.7 comma 1 terza alinea.
 
 ### Art.15
 
 (Disposizioni finali)
 
-1.
-
-Per tutti i fini di cui al presente decreto delegato, ai termini per la realizzazione del Progetto si applica un periodo di tolleranza di dodici mesi.
+1\. Per tutti i fini di cui al presente decreto delegato, ai termini per la realizzazione del Progetto si applica un periodo di tolleranza di dodici mesi.

@@ -173,9 +173,7 @@ Contro il diniego del Conservatore, ritenuto infondato dal richiedente, può ess
 
 ## Art. 15
 
-1.
-
-La richiesta della formalità della trascrizione degli atti di cui all'art. 3 lettere a), b), c), e), f) h), m) e p) nonché degli atti conseguenti ai provvedimenti di cui alla lettera d) e degli altri atti o delle scritture private autenticate soggette all’obbligo della custodia e conservazione incombe sul notaio rogante o autenticante. Il pagamento delle relative imposte incombe sul notaio per gli atti da lui rogati e sulle parti contraenti per le scritture private autenticate.
+1\. La richiesta della formalità della trascrizione degli atti di cui all'art. 3 lettere a), b), c), e), f) h), m) e p) nonché degli atti conseguenti ai provvedimenti di cui alla lettera d) e degli altri atti o delle scritture private autenticate soggette all’obbligo della custodia e conservazione incombe sul notaio rogante o autenticante. Il pagamento delle relative imposte incombe sul notaio per gli atti da lui rogati e sulle parti contraenti per le scritture private autenticate.
 
 ABROGATO La trascrizione dei trasferimenti che avvengono a causa di morte è fatta d'ufficio dal Conservatore appena riscossa la tassa di successione, qualora non vi abbiano già provveduto gli interessati.
 
@@ -211,13 +209,9 @@ ALTRE NORME LEGGE 30 APRILE 2014 N.73 ORDINAMENTO DEL NOTARIATO
 
 (Autenticazione delle sottoscrizioni)
 
-1.
+1\. L'autenticazione delle sottoscrizioni apposte ad una scrittura privata deve essere redatta di seguito alle sottoscrizioni stesse.
 
-L'autenticazione delle sottoscrizioni apposte ad una scrittura privata deve essere redatta di seguito alle sottoscrizioni stesse.
-
-2.
-
-Essa deve contenere:
+2\. Essa deve contenere:
 
 a) l’intitolazione “Autenticazione di firma” o altra analoga;
 
@@ -245,21 +239,13 @@ n) l’attestazione che la scrittura privata sulla quale è apposta la sottoscri
 
 o) la sottoscrizione del notaio, con l'impronta del suo sigillo, alla fine dell’autenticazione, e la sua firma, sempre accompagnata dell’impronta del sigillo, nel margine di ciascun foglio della scrittura privata.
 
-3.
+3\. L’autenticazione delle sottoscrizioni è emessa in unico originale.
 
-L’autenticazione delle sottoscrizioni è emessa in unico originale.
+4\. L’autenticazione delle sottoscrizioni è redatta nelle forme di cui al presente articolo per ogni fine di legge e quindi anche ai fini delle formalità ipotecarie.
 
-4.
+5\. Le sottoscrizioni, apposte contestualmente ad una scrittura privata, possono essere autenticate in un unico verbale.
 
-L’autenticazione delle sottoscrizioni è redatta nelle forme di cui al presente articolo per ogni fine di legge e quindi anche ai fini delle formalità ipotecarie.
-
-5.
-
-Le sottoscrizioni, apposte contestualmente ad una scrittura privata, possono essere autenticate in un unico verbale.
-
-6.
-
-Le autenticazioni, apposte di seguito sulla medesima scrittura, hanno ciascuna il proprio numero di repertorio; se tale scrittura privata autenticata, è anche conservata dal Notaio, ha il numero di custodia e conservazione per l’ultima autentica apposta.
+6\. Le autenticazioni, apposte di seguito sulla medesima scrittura, hanno ciascuna il proprio numero di repertorio; se tale scrittura privata autenticata, è anche conservata dal Notaio, ha il numero di custodia e conservazione per l’ultima autentica apposta.
 
 DECRETO DELEGATO 1 settembre 2023 n.126 (Ratifica Decreto Delegato 6 giugno 2023 n.92)
 
@@ -269,22 +255,14 @@ DISPOSIZIONI TRANSITORIE RELATIVE AL TRASFERIMENTO DI IMMOBILI DA COSTRUIRE
 
 (Finalità)
 
-1.
-
-Il presente decreto delegato, adottato ai sensi del comma 31, dell’articolo 10 della Legge 23 dicembre 2022 n. 171, è volto ad introdurre disposizioni transitorie per il trasferimento di immobili da costruire, ad integrazione delle pertinenti disposizioni contenute nella Legge 29 ottobre 1981 n.87 e successive modifiche e nella Legge 29 ottobre 1981 n.88 e successive modifiche.
+1\. Il presente decreto delegato, adottato ai sensi del comma 31, dell’articolo 10 della Legge 23 dicembre 2022 n. 171, è volto ad introdurre disposizioni transitorie per il trasferimento di immobili da costruire, ad integrazione delle pertinenti disposizioni contenute nella Legge 29 ottobre 1981 n.87 e successive modifiche e nella Legge 29 ottobre 1981 n.88 e successive modifiche.
 
 ## Art. 2
 
 (Disposizioni transitorie relative al trasferimento di immobili da costruire)
 
-1.
+1\. Agli atti aventi per oggetto il trasferimento della proprietà o dei diritti reali di immobili da costruire, sono allegati gli elaborati planimetrici predisposti e sottoscritti dai professionisti incaricati, con l’indicazione delle quote millesimali e delle superfici. La parte alienante dichiara in atto gli estremi del titolo edilizio e di aver rilasciato all’acquirente copia dell’ultimo progetto approvato. Il professionista incaricato della predisposizione dell’elaborato planimetrico di cui al presente articolo attesta che la consistenza dell’immobile, così come rappresentata nel predetto elaborato, è conforme a quanto previsto dall’ultimo progetto approvato. La predetta attestazione è effettuata mediante dichiarazione da allegare all’atto o da apporre a margine dell’elaborato planimetrico.
 
-Agli atti aventi per oggetto il trasferimento della proprietà o dei diritti reali di immobili da costruire, sono allegati gli elaborati planimetrici predisposti e sottoscritti dai professionisti incaricati, con l’indicazione delle quote millesimali e delle superfici. La parte alienante dichiara in atto gli estremi del titolo edilizio e di aver rilasciato all’acquirente copia dell’ultimo progetto approvato. Il professionista incaricato della predisposizione dell’elaborato planimetrico di cui al presente articolo attesta che la consistenza dell’immobile, così come rappresentata nel predetto elaborato, è conforme a quanto previsto dall’ultimo progetto approvato. La predetta attestazione è effettuata mediante dichiarazione da allegare all’atto o da apporre a margine dell’elaborato planimetrico.
+2\. Si definiscono immobili da costruire i fabbricati per i quali sia stata rilasciata la concessione edilizia e che siano ancora da edificare o la cui costruzione non risulti essere stata ultimata.
 
-2.
-
-Si definiscono immobili da costruire i fabbricati per i quali sia stata rilasciata la concessione edilizia e che siano ancora da edificare o la cui costruzione non risulti essere stata ultimata.
-
-3.
-
-Le disposizioni di cui al presente decreto delegato non si applicano agli atti aventi per oggetto il trasferimento della proprietà o dei diritti reali di fabbricati che siano allo stato grezzo, ai sensi dell’articolo 84, comma 1, lettera ss), della Legge 14 dicembre 2017 n.140, purché accatastati. In tale caso si applicano le disposizioni di cui all’articolo 79 della Legge n.140/2017 e successive modifiche.
+3\. Le disposizioni di cui al presente decreto delegato non si applicano agli atti aventi per oggetto il trasferimento della proprietà o dei diritti reali di fabbricati che siano allo stato grezzo, ai sensi dell’articolo 84, comma 1, lettera ss), della Legge 14 dicembre 2017 n.140, purché accatastati. In tale caso si applicano le disposizioni di cui all’articolo 79 della Legge n.140/2017 e successive modifiche.

@@ -378,9 +378,9 @@ La cifra individuale determina la graduatoria dei candidati all'interno della me
 
 a) della cifra elettorale di ciascuna delle liste appartenenti alla stessa coalizione, comprese le liste non ammesse alla distribuzione dei seggi ai sensi del comma 4;
 
-b) dei voti espressi solo alla coalizione senza espressione del voto di lista ai sensi del comma 1 dell'articolo 36.
+b) dei voti espressi solo alla coalizione senza espressione del voto di lista ai sensi del comma 1 dell'articolo
 
-7\. L’Ufficio Elettorale Centrale divide il totale dei voti validi per 2 e aumenta di 1 la cifra del quoziente eventualmente arrotondato per eccesso. Il risultato di tale operazione determina il numero minimo di voti validi richiesto per attribuire a una coalizione o a una singola lista la vittoria elettorale. Nel caso in cui nessuna lista o coalizione di liste consegua il numero minimo di voti validi richiesto, la vittoria è attribuita alla lista o alla coalizione di liste che, avendo conseguito il maggior numero di voti, in base alle operazioni di cui al successivo comma 9 consegue anche 30 (trenta) dei 60 (sessanta) quozienti validi.
+36\. 7. L’Ufficio Elettorale Centrale divide il totale dei voti validi per 2 e aumenta di 1 la cifra del quoziente eventualmente arrotondato per eccesso. Il risultato di tale operazione determina il numero minimo di voti validi richiesto per attribuire a una coalizione o a una singola lista la vittoria elettorale. Nel caso in cui nessuna lista o coalizione di liste consegua il numero minimo di voti validi richiesto, la vittoria è attribuita alla lista o alla coalizione di liste che, avendo conseguito il maggior numero di voti, in base alle operazioni di cui al successivo comma 9 consegue anche 30 (trenta) dei 60 (sessanta) quozienti validi.
 
 8\. Il risultato del primo turno determina l'assegnazione dei seggi a ciascuna lista e si procede sulla base delle seguenti disposizioni:
 

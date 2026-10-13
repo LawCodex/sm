@@ -618,13 +618,9 @@ PRINCIPI GENERALI
 
 (Finalità)
 
-1.
+1\. Il presente decreto delegato definisce le condizioni, i presupposti e le procedure da adottare per i contratti fra la Pubblica Amministrazione, gli Enti del Settore Pubblico Allargato e le Aziende Autonome di Stato, da un lato, e le imprese, dall’altro, aventi per oggetto l’acquisizione di beni, di consumo o d’uso, e di servizi, in attuazione della Legge 27 marzo 2002 n.49 e successive modificazioni.
 
-Il presente decreto delegato definisce le condizioni, i presupposti e le procedure da adottare per i contratti fra la Pubblica Amministrazione, gli Enti del Settore Pubblico Allargato e le Aziende Autonome di Stato, da un lato, e le imprese, dall’altro, aventi per oggetto l’acquisizione di beni, di consumo o d’uso, e di servizi, in attuazione della Legge 27 marzo 2002 n.49 e successive modificazioni.
-
-2.
-
-Nello svolgimento dell’attività di approvvigionamento di beni e servizi, la Repubblica di San Marino persegue l’obiettivo della tutela della salute e dell’ambiente e della promozione dello sviluppo sostenibile nelle sue componenti ambientali, sociali ed economiche, promuovendo l’introduzione, nei capitolati e negli atti di gara, di criteri e parametri ecologici, anche in deroga al criterio del prezzo più basso, che garantiscano:
+2\. Nello svolgimento dell’attività di approvvigionamento di beni e servizi, la Repubblica di San Marino persegue l’obiettivo della tutela della salute e dell’ambiente e della promozione dello sviluppo sostenibile nelle sue componenti ambientali, sociali ed economiche, promuovendo l’introduzione, nei capitolati e negli atti di gara, di criteri e parametri ecologici, anche in deroga al criterio del prezzo più basso, che garantiscano:
 
 a) la riduzione nell’utilizzo delle risorse naturali, anche mediante l’utilizzo di materiali riciclati;
 
@@ -642,13 +638,9 @@ f) una durata di vita dei beni più estesa rispetto alla media dei prodotti anal
 
 (Ambito di applicazione)
 
-1.
+1\. Rientra nell’ambito di applicazione della Legge 27 marzo 2002 n.49 e del presente decreto delegato anche la singola cessione di beni e servizi.
 
-Rientra nell’ambito di applicazione della Legge 27 marzo 2002 n.49 e del presente decreto delegato anche la singola cessione di beni e servizi.
-
-2.
-
-Sono, invece, esclusi dall’ambito di applicazione della Legge n.49/2002 e del presente decreto delegato:
+2\. Sono, invece, esclusi dall’ambito di applicazione della Legge n.49/2002 e del presente decreto delegato:
 
 a) i contratti di fornitura o somministrazione di beni e di servizi complementari alle opere pubbliche disciplinati dalla Legge 17 settembre 1999 n.96 e dal Decreto 20 gennaio 2000 n.10 e successive modificazioni. Per forniture o somministrazioni di beni e servizi complementari alle opere pubbliche si intendono quelle funzionalmente connesse e/o accessorie alla realizzazione ed implementazione di
 
@@ -678,13 +670,9 @@ l) il noleggio di spazi e l'acquisto di relativi servizi relativamente ad eventi
 
 (Ambito di applicazione)
 
-1.
+1\. Sono esclusi dall’ambito di applicazione del presente decreto delegato, i contratti di fornitura o somministrazione di beni e di servizi complementari alle opere pubbliche che sono disciplinati dalla Legge 17 settembre 1999 n.96 e dal Decreto 20 gennaio 2000 n.10 e successive modificazioni.
 
-Sono esclusi dall’ambito di applicazione del presente decreto delegato, i contratti di fornitura o somministrazione di beni e di servizi complementari alle opere pubbliche che sono disciplinati dalla Legge 17 settembre 1999 n.96 e dal Decreto 20 gennaio 2000 n.10 e successive modificazioni.
-
-2.
-
-Sono, altresì, escluse dall’ambito di applicazione del presente decreto delegato le concessioni di servizi pubblici il cui esercizio sia attribuito, sulla base delle norme vigenti, alla Pubblica Amministrazione, ad Aziende Autonome ed Enti del Settore Pubblico Allargato nonché le concessioni di servizi disciplinate da leggi speciali.
+2\. Sono, altresì, escluse dall’ambito di applicazione del presente decreto delegato le concessioni di servizi pubblici il cui esercizio sia attribuito, sulla base delle norme vigenti, alla Pubblica Amministrazione, ad Aziende Autonome ed Enti del Settore Pubblico Allargato nonché le concessioni di servizi disciplinate da leggi speciali.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, articolo 2 (Modifiche all’articolo 2 del Decreto Delegato n.26/2015)
 
@@ -696,13 +684,9 @@ MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, articolo 2 (Modifiche
 
 (Principi generali)
 
-1.
+1\. L’attività contrattuale di cui all’articolo 1 deve garantire il perseguimento dei fini di pubblico interesse, la qualità delle prestazioni, l’osservanza di criteri ecologici ed etici e svolgersi nel rispetto dei principi di economicità, efficacia, efficienza, tempestività e correttezza.
 
-L’attività contrattuale di cui all’articolo 1 deve garantire il perseguimento dei fini di pubblico interesse, la qualità delle prestazioni, l’osservanza di criteri ecologici ed etici e svolgersi nel rispetto dei principi di economicità, efficacia, efficienza, tempestività e correttezza.
-
-2.
-
-L’affidamento del contratto d’appalto è disposto nel rispetto dei principi di libera concorrenza, parità di trattamento, trasparenza, rotazione e pubblicità con le
+2\. L’affidamento del contratto d’appalto è disposto nel rispetto dei principi di libera concorrenza, parità di trattamento, trasparenza, rotazione e pubblicità con le
 
 1\. Rientra nell’ambito di applicazione della Legge 27 marzo 2002 n.49 e del presente decreto delegato anche la singola cessione di beni e servizi.
 
@@ -742,21 +726,15 @@ Legge 30 maggio 2019 n. 88
 
 modalità di cui agli articoli che seguono.
 
-3.
+3\. E’ vietata la stipulazione di contratti di appalto di servizi finalizzati all’esecuzione di prestazioni lavorative in relazione alle quali siano previsti profili di ruolo (PDR) non ricoperti nell’ambito del fabbisogno del Settore Pubblico Allargato.
 
-E’ vietata la stipulazione di contratti di appalto di servizi finalizzati all’esecuzione di prestazioni lavorative in relazione alle quali siano previsti profili di ruolo (PDR) non ricoperti nell’ambito del fabbisogno del Settore Pubblico Allargato.
-
-4.
-
-Nel rispetto dei principi di cui ai commi 1 e 2, i criteri di partecipazione alle gare e di aggiudicazione dell’appalto devono essere tali da:
+4\. Nel rispetto dei principi di cui ai commi 1 e 2, i criteri di partecipazione alle gare e di aggiudicazione dell’appalto devono essere tali da:
 
 a) non escludere le piccole e medie imprese, anche attraverso, ove possibile ed economicamente conveniente, la suddivisione degli appalti in lotti funzionali;
 
 b) prevedere, nel maggior grado possibile, elementi, individuati espressamente nei documenti di gara, ispirati a esigenze sociali, alla tutela dei lavoratori, della salute e dell’ambiente ed alla promozione dello sviluppo, la cui incidenza dovrà essere valorizzata rispetto all’elemento del prezzo più basso.
 
-5.
-
-I provvedimenti amministrativi adottati ai sensi del presente decreto delegato dalla Stazione Appaltante e dalla Camera di Commercio, Industria, Artigianato e Agricoltura della Repubblica di San Marino (CCIAA) sono adeguatamente motivati nel rispetto delle disposizioni di cui agli articoli 21 e 22 della Legge 5 ottobre 2011 n.160: in particolare, la decisione di ricorrere ad una procedura a concorso limitato o negoziata per l’affidamento dell’appalto è motivata e documentata con riferimento alla sussistenza delle condizioni che consentano il ricorso alla licitazione o alla trattativa privata2.
+5\. I provvedimenti amministrativi adottati ai sensi del presente decreto delegato dalla Stazione Appaltante e dalla Camera di Commercio, Industria, Artigianato e Agricoltura della Repubblica di San Marino (CCIAA) sono adeguatamente motivati nel rispetto delle disposizioni di cui agli articoli 21 e 22 della Legge 5 ottobre 2011 n.160: in particolare, la decisione di ricorrere ad una procedura a concorso limitato o negoziata per l’affidamento dell’appalto è motivata e documentata con riferimento alla sussistenza delle condizioni che consentano il ricorso alla licitazione o alla trattativa privata2.
 
 Testo originario (Decreto Delegato 2 marzo 2015 n.26)
 
@@ -764,21 +742,13 @@ Testo originario (Decreto Delegato 2 marzo 2015 n.26)
 
 (Principi generali)
 
-1.
+1\. L’attività contrattuale di cui all’articolo 1 deve garantire il perseguimento dei fini di pubblico interesse, la qualità delle prestazioni, l’osservanza di criteri ecologici ed etici e svolgersi nel rispetto dei principi di economicità, efficacia, efficienza, tempestività e correttezza.
 
-L’attività contrattuale di cui all’articolo 1 deve garantire il perseguimento dei fini di pubblico interesse, la qualità delle prestazioni, l’osservanza di criteri ecologici ed etici e svolgersi nel rispetto dei principi di economicità, efficacia, efficienza, tempestività e correttezza.
+2\. L’affidamento del contratto d’appalto è disposto nel rispetto dei principi di libera concorrenza, parità di trattamento, trasparenza, rotazione e pubblicità con le modalità di cui agli articoli che seguono.
 
-2.
+3\. E’ vietata la stipulazione di contratti di appalto di servizi finalizzati all’esecuzione di prestazioni lavorative in relazione alle quali siano previsti profili di ruolo (PDR) non ricoperti nell’ambito del fabbisogno del Settore Pubblico Allargato.
 
-L’affidamento del contratto d’appalto è disposto nel rispetto dei principi di libera concorrenza, parità di trattamento, trasparenza, rotazione e pubblicità con le modalità di cui agli articoli che seguono.
-
-3.
-
-E’ vietata la stipulazione di contratti di appalto di servizi finalizzati all’esecuzione di prestazioni lavorative in relazione alle quali siano previsti profili di ruolo (PDR) non ricoperti nell’ambito del fabbisogno del Settore Pubblico Allargato.
-
-4.
-
-Nel rispetto dei principi di cui ai commi 1 e 2, i criteri di partecipazione alle gare e di aggiudicazione dell’appalto devono essere tali da:
+4\. Nel rispetto dei principi di cui ai commi 1 e 2, i criteri di partecipazione alle gare e di aggiudicazione dell’appalto devono essere tali da:
 
 a) non escludere le piccole e medie imprese, anche attraverso, ove possibile ed economicamente conveniente, la suddivisione degli appalti in lotti funzionali;
 
@@ -794,9 +764,7 @@ b) prevedere, nel maggior grado possibile, elementi, individuati espressamente n
 
 (Definizioni)
 
-1.
-
-Ai fini del presente decreto delegato si intendono:
+1\. Ai fini del presente decreto delegato si intendono:
 
 a) per “appalti pubblici di forniture o somministrazione”: gli appalti pubblici diversi da quelli di lavori o di opere, finalizzati alla stipulazione dei contratti di cui alla Legge n.49/2002 aventi per oggetto l’acquisto, la locazione finanziaria, la locazione o l’acquisto a riscatto, con o senza opzione per l’acquisto, di: a. cose a fini di consumo o d’uso; b. servizi da soli ovvero congiuntamente ai beni di cui al numero 1);
 
@@ -814,9 +782,7 @@ d) per “responsabile del procedimento”: il soggetto individuato ai sensi del
 
 (Definizioni)
 
-1.
-
-Ai fini del presente decreto delegato si intendono:
+1\. Ai fini del presente decreto delegato si intendono:
 
 a) per “appalti pubblici di forniture o somministrazione”: gli appalti pubblici diversi da quelli di lavori o di opere, finalizzati alla stipulazione dei contratti di cui alla Legge n.49/2002 aventi per oggetto l’acquisto, la locazione finanziaria, la locazione o l’acquisto a riscatto, con o senza opzione per l’acquisto, di: a. cose a fini di consumo o d’uso; b. servizi da soli ovvero congiuntamente ai beni di cui al numero 1);
 
@@ -850,37 +816,23 @@ In particolare, redige gli atti di gara, individua la tipologia di gara ed il cr
 
 (Programma di approvvigionamento)
 
-1.
+1\. Entro il 31 gennaio di ogni anno, il Congresso di Stato, su proposta della Stazione Appaltante, al fine di ottimizzare la gestione degli acquisti dei beni e servizi, approva il programma di approvvigionamento, da redigersi entro il 30 settembre dell’anno precedente in conformità alla normativa vigente, agli indirizzi di politica amministrativa, economica e sociale indicati nel Programma economico e nel rispetto della compatibilità di bilancio.
 
-Entro il 31 gennaio di ogni anno, il Congresso di Stato, su proposta della Stazione Appaltante, al fine di ottimizzare la gestione degli acquisti dei beni e servizi, approva il programma di approvvigionamento, da redigersi entro il 30 settembre dell’anno precedente in conformità alla normativa vigente, agli indirizzi di politica amministrativa, economica e sociale indicati nel Programma economico e nel rispetto della compatibilità di bilancio.
-
-2.
-
-Il Congresso di Stato ha facoltà di apportare modifiche al programma di cui al comma 1, anche sulla base di sopravvenute esigenze se in stretta correlazione con le disponibilità di bilancio.
+2\. Il Congresso di Stato ha facoltà di apportare modifiche al programma di cui al comma 1, anche sulla base di sopravvenute esigenze se in stretta correlazione con le disponibilità di bilancio.
 
 3\. Con l’approvazione dei programmi di approvvigionamento il Congresso di Stato delega le Stazioni Appaltanti ad assumere l’autorizzazione di spesa, senza alcun limite di importo nell’ambito degli stanziamenti iscritti nel bilancio di previsione annuale con riferimento sia ai capitoli di parte corrente sia in conto capitale, ed a sottoscrivere il contratto con l’impresa aggiudicataria.
 
 4\. Nei casi di urgenza ed indifferibilità debitamente motivati dalla Stazione Appaltante tali da non consentire l’approvazione da parte del Congresso di Stato delle modifiche di cui al comma 2, l’autorizzazione alla spesa relativa all’acquisto di beni e servizi non contemplati nei programmi di approvvigionamento è rilasciata secondo quanto previsto dall’articolo 23 del Decreto 24 aprile 2003 n.53 e successive modificazioni. La disposizione di cui al periodo precedente si applica anche nei casi in cui non sia stato approvato il programma di approvvigionamento.5
 
-2.
+2\. L’UO Acquisti, Servizi Generali e Logistica cura altresì tutte le procedure necessarie alla determinazione, definizione e aggiornamento dei listini e dei prezzari di riferimento dei beni di consumo ricorrenti e/o servizi ricorrenti, i quali dovranno essere definiti in collaborazione con l’Osservatorio Prezzi di cui al Decreto 25 gennaio 2006 n. 9, e con l’UO Informatica, Tecnologia, Dati e Statistica, onde predisporre dati reali confrontabili e consultabili, utili ad acquisire conoscenze per le attività di acquisto di cui al presente decreto delegato, che verranno regolarmente pubblicati sul Portale dei Servizi PA di cui all’articolo 4, comma 1, punto c) del presente decreto delegato.
 
-L’UO Acquisti, Servizi Generali e Logistica cura altresì tutte le procedure necessarie alla determinazione, definizione e aggiornamento dei listini e dei prezzari di riferimento dei beni di consumo ricorrenti e/o servizi ricorrenti, i quali dovranno essere definiti in collaborazione con l’Osservatorio Prezzi di cui al Decreto 25 gennaio 2006 n. 9, e con l’UO Informatica, Tecnologia, Dati e Statistica, onde predisporre dati reali confrontabili e consultabili, utili ad acquisire conoscenze per le attività di acquisto di cui al presente decreto delegato, che verranno regolarmente pubblicati sul Portale dei Servizi PA di cui all’articolo 4, comma 1, punto c) del presente decreto delegato.
+3\. L’UO Acquisti, Servizi Generali e Logistica pianifica il programma delle acquisizioni dei beni e l’acquisizione e dismissione dei servizi, tenendo conto dei risultati di gestione del magazzino corrente dei generi e materiali di consumo, anche sulla base dei dati dell’attività di inventario dei beni, allo scopo di predisporre con maggiore adeguatezza il Piano di Approvvigionamento di cui al successivo articolo 6.
 
-3.
+4\. Al fine di espletare efficientemente le proprie funzioni, l’UO Acquisti, Servizi Generali e Logistica collabora con l’UO o servizio interessato e ha l’obbligo di stipulare, entro i novanta giorni successivi alla ratifica del presente decreto delegato, protocolli operativi con le Aziende Autonome e gli Enti del Settore Pubblico Allargato volti a disciplinare le procedure da osservarsi per la definizione del programma di approvvigionamento e per la gestione delle gare, con particolare riferimento alla redazione dei documenti di gara.
 
-L’UO Acquisti, Servizi Generali e Logistica pianifica il programma delle acquisizioni dei beni e l’acquisizione e dismissione dei servizi, tenendo conto dei risultati di gestione del magazzino corrente dei generi e materiali di consumo, anche sulla base dei dati dell’attività di inventario dei beni, allo scopo di predisporre con maggiore adeguatezza il Piano di Approvvigionamento di cui al successivo articolo 6.
+5\. Il personale del Settore Pubblico Allargato addetto a funzioni connesse all’espletamento di gare d’appalto presso UO, Dipartimenti, Aziende Autonome ed Enti del Settore Pubblico Allargato è assegnato all’UO Acquisti, Servizi Generali e Logistica secondo quanto previsto dall’articolo 78, comma 1, secondo periodo della Legge 5 dicembre 2011 n.188; l’assegnazione è disposta con provvedimento della Direzione Generale della Funzione Pubblica.
 
-4.
-
-Al fine di espletare efficientemente le proprie funzioni, l’UO Acquisti, Servizi Generali e Logistica collabora con l’UO o servizio interessato e ha l’obbligo di stipulare, entro i novanta giorni successivi alla ratifica del presente decreto delegato, protocolli operativi con le Aziende Autonome e gli Enti del Settore Pubblico Allargato volti a disciplinare le procedure da osservarsi per la definizione del programma di approvvigionamento e per la gestione delle gare, con particolare riferimento alla redazione dei documenti di gara.
-
-5.
-
-Il personale del Settore Pubblico Allargato addetto a funzioni connesse all’espletamento di gare d’appalto presso UO, Dipartimenti, Aziende Autonome ed Enti del Settore Pubblico Allargato è assegnato all’UO Acquisti, Servizi Generali e Logistica secondo quanto previsto dall’articolo 78, comma 1, secondo periodo della Legge 5 dicembre 2011 n.188; l’assegnazione è disposta con provvedimento della Direzione Generale della Funzione Pubblica.
-
-6.
-
-L’incarico sulla posizione di Dirigente dell’UO Acquisti, Servizi Generali e Logistica è soggetto ad obbligo di rotazione, secondo quanto previsto dall’articolo 76, comma 6, della Legge n.188/2011 ed il predetto incarico ha durata massima di sei anni consecutivi.”
+6\. L’incarico sulla posizione di Dirigente dell’UO Acquisti, Servizi Generali e Logistica è soggetto ad obbligo di rotazione, secondo quanto previsto dall’articolo 76, comma 6, della Legge n.188/2011 ed il predetto incarico ha durata massima di sei anni consecutivi.”
 
 Modifiche Legislative Decreto Delegato 29 aprile 2022 n.73, articolo 12 comma 3 “L’articolo 5 del Decreto Delegato 2 marzo 2015 n.26 è abrogato” 5 Testo originario (Decreto Delegato 2 marzo 2015 n.26)
 
@@ -888,49 +840,29 @@ Modifiche Legislative Decreto Delegato 29 aprile 2022 n.73, articolo 12 comma 3 
 
 (Norme sulla pubblicità e sulle comunicazioni)
 
-1.
+1\. I protocolli operativi di cui all’articolo 5, comma 2, il programma di approvvigionamento di cui all’articolo 6, il bando di gara, la lettera di invito ed i capitolati d’appalto sono tempestivamente pubblicati dalla Stazione Appaltante sul portale dei Servizi PA in area appositamente dedicata; il programma di approvvigionamento è pubblicato entro sette giorni dalla sua approvazione.
 
-I protocolli operativi di cui all’articolo 5, comma 2, il programma di approvvigionamento di cui all’articolo 6, il bando di gara, la lettera di invito ed i capitolati d’appalto sono tempestivamente pubblicati dalla Stazione Appaltante sul portale dei Servizi PA in area appositamente dedicata; il programma di approvvigionamento è pubblicato entro sette giorni dalla sua approvazione.
+2\. Le offerte presentate dalle imprese concorrenti, i verbali di gara, la delibera di aggiudicazione, i contratti, i certificati di verifica di conformità e le attestazioni di regolare esecuzione sono pubblicati sullo stesso portale al termine della procedura di gara.
 
-2.
+3\. Non sono pubblicate le informazioni contenute nelle offerte ovvero a giustificazione delle medesime che costituiscano, secondo motivata e comprovata dichiarazione prodotta dall’impresa partecipante al momento della presentazione dell’offerta, segreti tecnici e commerciali.
 
-Le offerte presentate dalle imprese concorrenti, i verbali di gara, la delibera di aggiudicazione, i contratti, i certificati di verifica di conformità e le attestazioni di regolare esecuzione sono pubblicati sullo stesso portale al termine della procedura di gara.
+4\. La pubblicazione degli atti di gara sul sito assolve l’onere di pubblicità e vale ad ogni effetto di legge come accesso agli atti di gara.
 
-3.
+5\. Le comunicazioni alle imprese non aggiudicatarie, oltre che notificate alle imprese, sono pubblicate sul sito, fatto salvo l’eventuale oscuramento di dati per giustificati motivi.
 
-Non sono pubblicate le informazioni contenute nelle offerte ovvero a giustificazione delle medesime che costituiscano, secondo motivata e comprovata dichiarazione prodotta dall’impresa partecipante al momento della presentazione dell’offerta, segreti tecnici e commerciali.
-
-4.
-
-La pubblicazione degli atti di gara sul sito assolve l’onere di pubblicità e vale ad ogni effetto di legge come accesso agli atti di gara.
-
-5.
-
-Le comunicazioni alle imprese non aggiudicatarie, oltre che notificate alle imprese, sono pubblicate sul sito, fatto salvo l’eventuale oscuramento di dati per giustificati motivi.
-
-6.
-
-L’invio delle domande di iscrizione al Registro dei Fornitori, le comunicazioni fra imprese, CCIAA e Stazione Appaltante e la presentazione delle offerte potranno
+6\. L’invio delle domande di iscrizione al Registro dei Fornitori, le comunicazioni fra imprese, CCIAA e Stazione Appaltante e la presentazione delle offerte potranno
 
 ##### Art.6
 
 (Programma di approvvigionamento)
 
-1.
+1\. Entro il 31 gennaio di ogni anno, il Congresso di Stato, su proposta della Stazione Appaltante, al fine di ottimizzare la gestione degli acquisti dei beni e servizi, approva il programma di approvvigionamento, da redigersi entro il 30 settembre dell’anno precedente in conformità alla normativa vigente, agli indirizzi di politica amministrativa, economica e sociale indicati nel Programma economico e nel rispetto della compatibilità di bilancio.
 
-Entro il 31 gennaio di ogni anno, il Congresso di Stato, su proposta della Stazione Appaltante, al fine di ottimizzare la gestione degli acquisti dei beni e servizi, approva il programma di approvvigionamento, da redigersi entro il 30 settembre dell’anno precedente in conformità alla normativa vigente, agli indirizzi di politica amministrativa, economica e sociale indicati nel Programma economico e nel rispetto della compatibilità di bilancio.
+2\. Il Congresso di Stato ha facoltà di apportare modifiche al programma di cui al comma 1, anche sulla base di sopravvenute esigenze se in stretta correlazione con le disponibilità di bilancio.
 
-2.
+3\. Con l’approvazione del programma di approvvigionamento il Congresso di Stato delega l’UO Acquisti, Servizi Generali e Logistica ad adottare l’impegno di spesa, ad assumere la relativa autorizzazione di spesa ed a sottoscrivere il contratto con l’operatore economico aggiudicatario.
 
-Il Congresso di Stato ha facoltà di apportare modifiche al programma di cui al comma 1, anche sulla base di sopravvenute esigenze se in stretta correlazione con le disponibilità di bilancio.
-
-3.
-
-Con l’approvazione del programma di approvvigionamento il Congresso di Stato delega l’UO Acquisti, Servizi Generali e Logistica ad adottare l’impegno di spesa, ad assumere la relativa autorizzazione di spesa ed a sottoscrivere il contratto con l’operatore economico aggiudicatario.
-
-4.
-
-Nei casi di urgenza ed indifferibilità, opportunamente motivati nella deliberazione a contrattare assunta dalla Stazione Appaltante, tali da non consentire l’approvazione da parte del Congresso di Stato delle modifiche di cui al comma 2, l’autorizzazione alla spesa relativa all’acquisto di beni e servizi non contemplati nei programmi di approvvigionamento è rilasciata secondo quanto previsto dall’articolo 23 del Decreto 24 aprile 2003 n.53 e successive modificazioni.
+4\. Nei casi di urgenza ed indifferibilità, opportunamente motivati nella deliberazione a contrattare assunta dalla Stazione Appaltante, tali da non consentire l’approvazione da parte del Congresso di Stato delle modifiche di cui al comma 2, l’autorizzazione alla spesa relativa all’acquisto di beni e servizi non contemplati nei programmi di approvvigionamento è rilasciata secondo quanto previsto dall’articolo 23 del Decreto 24 aprile 2003 n.53 e successive modificazioni.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 4 (Modifiche all’articolo 6 del Decreto Delegato n.26/2015)
 
@@ -954,25 +886,15 @@ Registro dei fornitori
 
 (Registro dei Fornitori)
 
-1.
+1\. Ai sensi di quanto previsto dall’articolo 1 della Legge n. 49/2002, è istituito il Registro dei fornitori e dei prestatori di beni e servizi alla Pubblica Amministrazione e agli Enti Pubblici.
 
-Ai sensi di quanto previsto dall’articolo 1 della Legge n. 49/2002, è istituito il Registro dei fornitori e dei prestatori di beni e servizi alla Pubblica Amministrazione e agli Enti Pubblici.
+2\. Fatto salvo quanto previsto al comma 6, la partecipazione alle gare d’appalto è riservata alle imprese iscritte nel Registro dei Fornitori.
 
-2.
+3\. Il Registro dei Fornitori è tenuto dalla CCIAA la quale provvede a curare l’iscrizione, la sospensione e la cancellazione delle imprese nel Registro medesimo adottando i relativi provvedimenti.
 
-Fatto salvo quanto previsto al comma 6, la partecipazione alle gare d’appalto è riservata alle imprese iscritte nel Registro dei Fornitori.
+4\. Il Registro dei Fornitori è suddiviso per categorie merceologiche, per tipologie di servizi e per caratteristiche imprenditoriali conformemente al codice ATECO ed è consultabile sul sito di CCIAA.
 
-3.
-
-Il Registro dei Fornitori è tenuto dalla CCIAA la quale provvede a curare l’iscrizione, la sospensione e la cancellazione delle imprese nel Registro medesimo adottando i relativi provvedimenti.
-
-4.
-
-Il Registro dei Fornitori è suddiviso per categorie merceologiche, per tipologie di servizi e per caratteristiche imprenditoriali conformemente al codice ATECO ed è consultabile sul sito di CCIAA.
-
-5.
-
-Ai fini della tenuta del Registro dei Fornitori e di tutti gli adempimenti ad esso connessi e conseguenti, la CCIAA è gestore di pubblico servizio ai sensi delle norme vigenti e, nello svolgimento delle attività e compiti inerenti, i funzionari di CCIAA assumono la qualifica di pubblico ufficiale.
+5\. Ai fini della tenuta del Registro dei Fornitori e di tutti gli adempimenti ad esso connessi e conseguenti, la CCIAA è gestore di pubblico servizio ai sensi delle norme vigenti e, nello svolgimento delle attività e compiti inerenti, i funzionari di CCIAA assumono la qualifica di pubblico ufficiale.
 
 6\. Fatto salvo quanto previsto al comma 7, qualora nel Registro dei Fornitori siano iscritte meno di cinque imprese in possesso dei requisiti richiesti, la Stazione Appaltante può consentire la partecipazione, dandone evidenza negli atti di gara, ad aste pubbliche, licitazioni e trattative private ad imprese non iscritte nel Registro dei Fornitori, purché non cancellate dallo stesso, per:
 
@@ -994,29 +916,17 @@ d) particolari motivi d’urgenza legati ad interventi di protezione civile.
 
 (Registro dei Fornitori)
 
-1.
+1\. Ai sensi di quanto previsto dall’articolo 1 della Legge n. 49/2002, è istituito il Registro dei fornitori e dei prestatori di beni e servizi alla Pubblica Amministrazione e agli Enti Pubblici (Registro dei Fornitori).
 
-Ai sensi di quanto previsto dall’articolo 1 della Legge n. 49/2002, è istituito il Registro dei fornitori e dei prestatori di beni e servizi alla Pubblica Amministrazione e agli Enti Pubblici (Registro dei Fornitori).
+2\. Fatto salvo quanto previsto al comma 6, la partecipazione alle gare d’appalto è riservata alle imprese iscritte nel Registro dei Fornitori.
 
-2.
+3\. Il Registro dei Fornitori è tenuto dalla CCIAA la quale provvede a curare l’iscrizione, la sospensione e la cancellazione delle imprese nel Registro medesimo adottando i relativi provvedimenti.
 
-Fatto salvo quanto previsto al comma 6, la partecipazione alle gare d’appalto è riservata alle imprese iscritte nel Registro dei Fornitori.
+4\. Il Registro dei Fornitori è suddiviso per categorie merceologiche, per tipologie di servizi e per caratteristiche imprenditoriali conformemente al codice ATECO ed è consultabile sul sito di CCIAA.
 
-3.
+5\. Ai fini della tenuta del Registro dei Fornitori e di tutti gli adempimenti ad esso connessi e conseguenti, la CCIAA è gestore di pubblico servizio ai sensi delle norme vigenti e, nello svolgimento delle attività e compiti inerenti, i funzionari di CCIAA assumono la qualifica di pubblico ufficiale.
 
-Il Registro dei Fornitori è tenuto dalla CCIAA la quale provvede a curare l’iscrizione, la sospensione e la cancellazione delle imprese nel Registro medesimo adottando i relativi provvedimenti.
-
-4.
-
-Il Registro dei Fornitori è suddiviso per categorie merceologiche, per tipologie di servizi e per caratteristiche imprenditoriali conformemente al codice ATECO ed è consultabile sul sito di CCIAA.
-
-5.
-
-Ai fini della tenuta del Registro dei Fornitori e di tutti gli adempimenti ad esso connessi e conseguenti, la CCIAA è gestore di pubblico servizio ai sensi delle norme vigenti e, nello svolgimento delle attività e compiti inerenti, i funzionari di CCIAA assumono la qualifica di pubblico ufficiale.
-
-6.
-
-Qualora nel Registro dei Fornitori siano iscritte meno di tre imprese in possesso dei requisiti richiesti, la Stazione Appaltante può, nell’ambito di licitazione privata, invitare alle gare e, nell’ambito di trattativa privata, consultare imprese non iscritte nel Registro dei Fornitori, purché non cancellate dallo stesso, per:
+6\. Qualora nel Registro dei Fornitori siano iscritte meno di tre imprese in possesso dei requisiti richiesti, la Stazione Appaltante può, nell’ambito di licitazione privata, invitare alle gare e, nell’ambito di trattativa privata, consultare imprese non iscritte nel Registro dei Fornitori, purché non cancellate dallo stesso, per:
 
 a) la fornitura di beni o servizi che presentino particolari caratteristiche tecniche o qualitative o la cui esecuzione richiede un particolare grado di specializzazione e organizzazione;
 
@@ -1026,9 +936,7 @@ c) altri gravi giustificati motivi legati all’opportunità e convenienza econo
 
 d) particolari motivi d’urgenza legati ad interventi di protezione civile.
 
-7.
-
-Le modalità di iscrizione al Registro dei Fornitori, i diritti di pratica, la documentazione da produrre, le scadenze e le modalità di comunicazione dei provvedimenti della CCIAA sono disciplinati con Regolamento del Congresso di Stato.
+7\. Le modalità di iscrizione al Registro dei Fornitori, i diritti di pratica, la documentazione da produrre, le scadenze e le modalità di comunicazione dei provvedimenti della CCIAA sono disciplinati con Regolamento del Congresso di Stato.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 5 (Modifiche all’articolo 8 del Decreto Delegato n.26/2015)
 
@@ -1130,9 +1038,7 @@ di certificazione sottoscritta unicamente dal titolare o dal legale rappresentan
 
 (Requisiti di iscrizione)
 
-1.
-
-Ai fini dell’iscrizione nel Registro dei Fornitori, l’impresa deve essere in possesso dei seguenti requisiti:
+1\. Ai fini dell’iscrizione nel Registro dei Fornitori, l’impresa deve essere in possesso dei seguenti requisiti:
 
 a) il titolare o legale rappresentante dell’impresa sia cittadino sammarinese o di Paese che, in base a norme di diritto internazionale o ad accordi bilaterali siglati con la Repubblica di San Marino, consenta alle imprese sammarinesi la partecipazione ad appalti pubblici a condizioni di reciprocità;
 
@@ -1160,31 +1066,19 @@ n) abbia adempiuto agli obblighi in materia di assunzione di soggetti invalidi e
 
 o) non sia stata destinataria di sanzioni nel triennio precedente per violazione delle norme in materia di assunzione di lavoratori e di sicurezza sui luoghi di lavoro.
 
-2.
+2\. L’iscrizione nel Registro dei Fornitori costituisce per la Stazione Appaltante presunzione di idoneità alla prestazione limitatamente alle categorie per le quali l’impresa è iscritta.
 
-L’iscrizione nel Registro dei Fornitori costituisce per la Stazione Appaltante presunzione di idoneità alla prestazione limitatamente alle categorie per le quali l’impresa è iscritta.
+3\. L’iscrizione nel Registro dei Fornitori è soggetta a rinnovo annuale.
 
-3.
+4\. La Stazione Appaltante, prima di adottare la delibera di aggiudicazione, rinvia alla CCIAA per la verifica sulla permanenza, in capo all’impresa iscritta al Registro dei Fornitori risultata migliore offerente, dei requisiti richiesti per la partecipazione alla gara e della veridicità di quanto contenuto nelle dichiarazioni sostitutive. Resta ferma la facoltà di CCIAA di verificare, mediante controlli a campione o su richiesta della Stazione Appaltante, effettuati in qualsiasi momento, anche avvalendosi degli uffici competenti o su segnalazione, la permanenza dei requisiti e di procedere ad accertamenti d’ufficio volti ad appurare la veridicità di quanto contenuto nelle dichiarazioni presentate.
 
-L’iscrizione nel Registro dei Fornitori è soggetta a rinnovo annuale.
-
-4.
-
-La Stazione Appaltante, prima di adottare la delibera di aggiudicazione, rinvia alla CCIAA per la verifica sulla permanenza, in capo all’impresa iscritta al Registro dei Fornitori risultata migliore offerente, dei requisiti richiesti per la partecipazione alla gara e della veridicità di quanto contenuto nelle dichiarazioni sostitutive. Resta ferma la facoltà di CCIAA di verificare, mediante controlli a campione o su richiesta della Stazione Appaltante, effettuati in qualsiasi momento, anche avvalendosi degli uffici competenti o su segnalazione, la permanenza dei requisiti e di procedere ad accertamenti d’ufficio volti ad appurare la veridicità di quanto contenuto nelle dichiarazioni presentate.
-
-5.
-
-Le imprese stabilite in Paesi che, in base a norme di diritto internazionale o ad accordi bilaterali siglati con la Repubblica di San Marino, consentano alle imprese sammarinesi la partecipazione ad appalti pubblici a condizioni di reciprocità, possono iscriversi al Registro dei Fornitori alle medesime condizioni
+5\. Le imprese stabilite in Paesi che, in base a norme di diritto internazionale o ad accordi bilaterali siglati con la Repubblica di San Marino, consentano alle imprese sammarinesi la partecipazione ad appalti pubblici a condizioni di reciprocità, possono iscriversi al Registro dei Fornitori alle medesime condizioni
 
 richieste alle imprese sammarinesi; ai fini dell’iscrizione, esse producono documentazione conforme alle normative vigenti nei rispettivi Paesi, idonea a dimostrare il possesso di tutti i requisiti prescritti per la partecipazione delle imprese sammarinesi alle gare ed a certificare gli stati, qualità personali e fatti previsti al comma 1.
 
-6.
+6\. Le imprese non iscritte al Registro dei Fornitori invitate alle gare a mente dell’articolo 8, comma 6, si qualificano alla singola gara producendo documentazione conforme alle normative vigenti nei rispettivi Paesi, idonea a dimostrare il possesso di tutti i requisiti prescritti per la partecipazione delle imprese sammarinesi alle gare ed a certificare gli stati, qualità personali e fatti previsti al comma 1.
 
-Le imprese non iscritte al Registro dei Fornitori invitate alle gare a mente dell’articolo 8, comma 6, si qualificano alla singola gara producendo documentazione conforme alle normative vigenti nei rispettivi Paesi, idonea a dimostrare il possesso di tutti i requisiti prescritti per la partecipazione delle imprese sammarinesi alle gare ed a certificare gli stati, qualità personali e fatti previsti al comma 1.
-
-7.
-
-Con Regolamento del Congresso di Stato è individuata la documentazione da produrre per dimostrare il possesso dei requisiti previsti dal presente articolo nonché le caratteristiche imprenditoriali e di idoneità tecnica di cui all’articolo 12 della Legge n. 49/2002.
+7\. Con Regolamento del Congresso di Stato è individuata la documentazione da produrre per dimostrare il possesso dei requisiti previsti dal presente articolo nonché le caratteristiche imprenditoriali e di idoneità tecnica di cui all’articolo 12 della Legge n. 49/2002.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 6 (Modifiche all’articolo 9 del Decreto Delegato n.26/2015)
 
@@ -1262,11 +1156,9 @@ b) nel caso di appalto costituito da più lotti: la somma complessiva degli impo
 
 Legge 24 giugno 2022 n.94, articolo 14 commi 4 e 5
 
-4.
+4\. L’articolo 9, comma 4, lettera c) del Decreto Delegato 2 marzo 2015 n.26 è così sostituito: “c) impresa aggiudicataria nei casi di cui all’articolo 17, comma 5, lettere a), l), m) e n);”. omissis
 
-L’articolo 9, comma 4, lettera c) del Decreto Delegato 2 marzo 2015 n.26 è così sostituito: “c) impresa aggiudicataria nei casi di cui all’articolo 17, comma 5, lettere a), l), m) e n);”. omissis 5.
-
-L’alinea dell’articolo 9, comma 8 del Decreto Delegato n.26/2015 è così sostituita: “Salvo il caso in cui la gara non preveda alcun valore poiché indetta con il criterio di aggiudicazione di cui all’articolo 13, comma 2, lettera a), ai fini dell’individuazione delle soglie di cui al comma 7 e dell’articolo 9-bis, si assumono, i seguenti valori indicati dalla Stazione Appaltante nel bando di gara, nella lettera d’invito o negli altri documenti di gara:”.
+5\. L’alinea dell’articolo 9, comma 8 del Decreto Delegato n.26/2015 è così sostituita: “Salvo il caso in cui la gara non preveda alcun valore poiché indetta con il criterio di aggiudicazione di cui all’articolo 13, comma 2, lettera a), ai fini dell’individuazione delle soglie di cui al comma 7 e dell’articolo 9-bis, si assumono, i seguenti valori indicati dalla Stazione Appaltante nel bando di gara, nella lettera d’invito o negli altri documenti di gara:”.
 
 1 ovvero abbia presentato dichiarazioni, atti o documenti falsi o mendaci. La Stazione Appaltante è, invece, sempre obbligata ad effettuare la verifica prima dell’emissione dell’attestazione finale di esecuzione;
 
@@ -1288,9 +1180,7 @@ b) l’impresa iscritta al Registro dei Fornitori è cancellata dal medesimo Reg
 
 (Verifica dei requisiti in capo ai titolari effettivi)
 
-1.
-
-Nell’ambito delle verifiche di cui all’articolo 9, comma 4, la CCIAA verifica, ai fine dell’aggiudicazione dell’appalto, la sussistenza, in capo ai titolari effettivi dell’impresa risultata miglior offerente, dei requisiti di cui al comma 1 del medesimo articolo 9.
+1\. Nell’ambito delle verifiche di cui all’articolo 9, comma 4, la CCIAA verifica, ai fine dell’aggiudicazione dell’appalto, la sussistenza, in capo ai titolari effettivi dell’impresa risultata miglior offerente, dei requisiti di cui al comma 1 del medesimo articolo 9.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 7 (Modifiche all’articolo 9-bis del Decreto Delegato n.26/2015)
 
@@ -1316,9 +1206,7 @@ c) per appalti di valore superiore ad euro 150.000,00: la verifica è obbligator
 
 (Sospensione)
 
-1.
-
-La sospensione dal Registro dei Fornitori ha luogo nel caso di:
+1\. La sospensione dal Registro dei Fornitori ha luogo nel caso di:
 
 a) mancata comunicazione delle variazioni dei requisiti e di quanto oggetto di dichiarazioni presentate dall’impresa, nel termine di trenta giorni dall’avvenuta variazione;
 
@@ -1332,29 +1220,19 @@ e) sospensione dal registro delle imprese abilitate e dei soggetti abilitati per
 
 f) richiesta motivata dell’impresa medesima.
 
-2.
+2\. E’ facoltà della Stazione Appaltante richiedere alla CCIAA la sospensione dell’iscrizione nel Registro dei Fornitori, di imprese che abbiano pendente un’azione giudiziaria con l’Ecc.ma Camera della Repubblica di San Marino o con Aziende Autonome di Stato o Enti del Settore Pubblico Allargato.
 
-E’ facoltà della Stazione Appaltante richiedere alla CCIAA la sospensione dell’iscrizione nel Registro dei Fornitori, di imprese che abbiano pendente un’azione giudiziaria con l’Ecc.ma Camera della Repubblica di San Marino o con Aziende Autonome di Stato o Enti del Settore Pubblico Allargato.
+3\. L’impresa sospesa dal Registro dei Fornitori per l’ipotesi di cui al comma 1, lettera f) può richiedere in ogni momento alla CCIAA di essere nuovamente iscritta nel Registro.
 
-3.
-
-L’impresa sospesa dal Registro dei Fornitori per l’ipotesi di cui al comma 1, lettera f) può richiedere in ogni momento alla CCIAA di essere nuovamente iscritta nel Registro.
-
-4.
-
-La sospensione è comunicata all’impresa interessata e può essere revocata, fatto salvo quanto previsto al comma 3, solo a seguito della regolarizzazione della posizione dell’impresa o della riacquisizione dei requisiti di iscrizione temporaneamente persi.
+4\. La sospensione è comunicata all’impresa interessata e può essere revocata, fatto salvo quanto previsto al comma 3, solo a seguito della regolarizzazione della posizione dell’impresa o della riacquisizione dei requisiti di iscrizione temporaneamente persi.
 
 ##### Art.11
 
 (Cancellazione)
 
-1.
+1\. Le imprese che abbiano perso i requisiti di cui all’articolo 9 sono cancellate dal Registro dei Fornitori.
 
-Le imprese che abbiano perso i requisiti di cui all’articolo 9 sono cancellate dal Registro dei Fornitori.
-
-2.
-
-Oltre che per le ipotesi di cui al comma 1, la cancellazione dal Registro dei Fornitori ha luogo nei casi di:
+2\. Oltre che per le ipotesi di cui al comma 1, la cancellazione dal Registro dei Fornitori ha luogo nei casi di:
 
 a) mancata comunicazione delle variazioni dei requisiti e di quanto oggetto di dichiarazioni presentate dall’impresa, nel termine di sessanta giorni dall’avvenuta variazione;
 
@@ -1374,13 +1252,9 @@ f) tenuta di condotte irregolari recidivanti di cui all’articolo 22 del Decret
 
 g) richiesta dell’impresa.
 
-3.
+3\. Ferma restando la cancellazione dal Registro dei Fornitori a carico dell’impresa, il legale rappresentante o il titolare della medesima impresa diviene soggetto non abilitato a presentare domande di iscrizione o rinnovo al Registro, anche per conto di altre imprese, per il successivo anno dal provvedimento di cancellazione.
 
-Ferma restando la cancellazione dal Registro dei Fornitori a carico dell’impresa, il legale rappresentante o il titolare della medesima impresa diviene soggetto non abilitato a presentare domande di iscrizione o rinnovo al Registro, anche per conto di altre imprese, per il successivo anno dal provvedimento di cancellazione.
-
-4.
-
-L’impresa cancellata dal Registro dei Fornitori può richiedere di essere nuovamente iscritta nel Registro decorso un anno dall’avvenuta cancellazione, fatto salvo quanto previsto dall’articolo 23 del Decreto - Legge n.156/2011.
+4\. L’impresa cancellata dal Registro dei Fornitori può richiedere di essere nuovamente iscritta nel Registro decorso un anno dall’avvenuta cancellazione, fatto salvo quanto previsto dall’articolo 23 del Decreto - Legge n.156/2011.
 
 #### Sezione II
 
@@ -1390,9 +1264,7 @@ Scelta del contraente
 
 (Sistemi di scelta)
 
-1.
-
-L’impresa cui affidare la fornitura di beni o il servizio è scelta dalla Stazione Appaltante attraverso i seguenti metodi:
+1\. L’impresa cui affidare la fornitura di beni o il servizio è scelta dalla Stazione Appaltante attraverso i seguenti metodi:
 
 a) asta pubblica;
 
@@ -1402,37 +1274,23 @@ c) appalto concorso;
 
 d) trattativa privata.
 
-2.
+2\. Di norma la Stazione Appaltante utilizza l’asta pubblica; qualora la tipologia e/o le caratteristiche dei beni e/o servizi non consentano l’utilizzo dell’asta pubblica, la Stazione Appaltante è tenuta a motivare la scelta di altro sistema.
 
-Di norma la Stazione Appaltante utilizza l’asta pubblica; qualora la tipologia e/o le caratteristiche dei beni e/o servizi non consentano l’utilizzo dell’asta pubblica, la Stazione Appaltante è tenuta a motivare la scelta di altro sistema.
+3\. La Stazione Appaltante procede, ove possibile, tenuto conto della tipologia dei beni e servizi da acquisire, ad indire la gara d’appalto in relazione al fabbisogno calcolato su base annua.
 
-3.
+4\. Qualora conforme ai principi fondamentali di economicità ed efficacia della spesa, è consentita la conclusione di contratti pluriennali di fornitura o somministrazione di beni e servizi secondo quanto previsto dall’articolo 57, primo comma, della Legge 20 dicembre 2002 n.112.
 
-La Stazione Appaltante procede, ove possibile, tenuto conto della tipologia dei beni e servizi da acquisire, ad indire la gara d’appalto in relazione al fabbisogno calcolato su base annua.
+5\. E’ fatto divieto alla Stazione Appaltante di procedere al frazionamento della fornitura o servizio oggetto della gara al solo fine di accedere a procedure di gara semplificate.
 
-4.
-
-Qualora conforme ai principi fondamentali di economicità ed efficacia della spesa, è consentita la conclusione di contratti pluriennali di fornitura o somministrazione di beni e servizi secondo quanto previsto dall’articolo 57, primo comma, della Legge 20 dicembre 2002 n.112.
-
-5.
-
-E’ fatto divieto alla Stazione Appaltante di procedere al frazionamento della fornitura o servizio oggetto della gara al solo fine di accedere a procedure di gara semplificate.
-
-6.
-
-La Stazione Appaltante nel provvedimento di cui al comma 2 indica altresì, ai sensi di quanto previsto dall’articolo 17 della Legge n.160/2011, il soggetto responsabile del procedimento.
+6\. La Stazione Appaltante nel provvedimento di cui al comma 2 indica altresì, ai sensi di quanto previsto dall’articolo 17 della Legge n.160/2011, il soggetto responsabile del procedimento.
 
 ##### Art. 13
 
 (Criteri di aggiudicazione)
 
-1.
+1\. L’aggiudicazione dell’appalto, fatto salvo quanto previsto per l’appalto concorso, può essere deliberata con il criterio del prezzo più basso oppure con il criterio dell’offerta economicamente più vantaggiosa.
 
-L’aggiudicazione dell’appalto, fatto salvo quanto previsto per l’appalto concorso, può essere deliberata con il criterio del prezzo più basso oppure con il criterio dell’offerta economicamente più vantaggiosa.
-
-2.
-
-L’utilizzo del criterio di aggiudicazione del prezzo più basso è consentito solo
+2\. L’utilizzo del criterio di aggiudicazione del prezzo più basso è consentito solo
 
 qualora nella descrizione della prestazione richiesta siano esplicitate la qualità e l’ecologicità che caratterizzano il bene o servizio, nel rispetto dei principi di cui all’articolo 1, comma 2. Il prezzo più basso è determinato mediante:
 
@@ -1444,9 +1302,7 @@ c) offerta a ribasso sui prezzi indicati nel bando, gara nella quale le imprese 
 
 d) offerta a ribasso percentuale medio, gara nella quale le imprese concorrenti sono invitate ad offrire uno sconto percentuale che eguagli o maggiormente si avvicini alla media degli sconti contenuti nelle offerte, dopo aver scartato il più alto e il più basso. Tale criterio può essere ritenuto valido purché, espletata la gara, risultino essere pervenute almeno cinque risposte scritte valide.
 
-3.
-
-L’aggiudicazione con il criterio dell’offerta economicamente più vantaggiosa è determinata in base ad una pluralità di elementi variabili, tra cui, in particolare:
+3\. L’aggiudicazione con il criterio dell’offerta economicamente più vantaggiosa è determinata in base ad una pluralità di elementi variabili, tra cui, in particolare:
 
 a) il perseguimento di esigenze sociali, pari opportunità, e promozione dello sviluppo sostenibile;
 
@@ -1476,49 +1332,33 @@ o) la trasparenza degli assetti societari;
 
 p) eventuali ulteriori elementi individuabili in base al tipo di prestazione richiesta.
 
-4.
+4\. Il capitolato speciale d’appalto o il bando di gara o la lettera di invito elencano i criteri di valutazione e precisano la ponderazione relativa attribuita a ciascuno di essi, anche mediante una soglia, espressa con un valore numerico determinato in cui lo scarto tra il punteggio della soglia e quello massimo deve essere appropriato.
 
-Il capitolato speciale d’appalto o il bando di gara o la lettera di invito elencano i criteri di valutazione e precisano la ponderazione relativa attribuita a ciascuno di essi, anche mediante una soglia, espressa con un valore numerico determinato in cui lo scarto tra il punteggio della soglia e quello massimo deve essere appropriato.
-
-5.
-
-Per attuare la ponderazione la Stazione Appaltante utilizza metodologie tali da consentire l’individuazione con un unico parametro numerico finale dell’offerta più vantaggiosa.
+5\. Per attuare la ponderazione la Stazione Appaltante utilizza metodologie tali da consentire l’individuazione con un unico parametro numerico finale dell’offerta più vantaggiosa.
 
 ##### Art. 14
 
 (L’asta pubblica)
 
-1.
+1\. L’asta pubblica costituisce il procedimento con il quale la Stazione Appaltante rende pubblicamente noti l’oggetto e le condizioni del contratto e riceve le offerte dei concorrenti, secondo le modalità previste nel bando di gara, accettando come contraente colui che ha presentato l’offerta migliore.
 
-L’asta pubblica costituisce il procedimento con il quale la Stazione Appaltante rende pubblicamente noti l’oggetto e le condizioni del contratto e riceve le offerte dei concorrenti, secondo le modalità previste nel bando di gara, accettando come contraente colui che ha presentato l’offerta migliore.
+2\. La procedura d’asta pubblica è indetta mediante l’emissione di bando di gara ed è adottata quando le caratteristiche della prestazione o particolari circostanze non richiedano giustificatamente una procedura diversa.
 
-2.
-
-La procedura d’asta pubblica è indetta mediante l’emissione di bando di gara ed è adottata quando le caratteristiche della prestazione o particolari circostanze non richiedano giustificatamente una procedura diversa.
-
-3.
-
-La Stazione Appaltante può stabilire, mediante espressa indicazione nel bando di gara, che l’aggiudicazione del contratto di appalto avvenga attraverso un’asta elettronica nei casi in cui le specifiche dell’appalto possano essere fissate in maniera precisa e la valutazione delle offerte sia effettuabile automaticamente da un mezzo elettronico, sulla base di elementi quantificabili in modo tale da essere espressi in cifre o percentuali. L’asta elettronica riguarda:
+3\. La Stazione Appaltante può stabilire, mediante espressa indicazione nel bando di gara, che l’aggiudicazione del contratto di appalto avvenga attraverso un’asta elettronica nei casi in cui le specifiche dell’appalto possano essere fissate in maniera precisa e la valutazione delle offerte sia effettuabile automaticamente da un mezzo elettronico, sulla base di elementi quantificabili in modo tale da essere espressi in cifre o percentuali. L’asta elettronica riguarda:
 
 a) unicamente i prezzi, quando l’appalto viene aggiudicato al prezzo più basso;
 
 b) i prezzi e i valori degli elementi dell’offerta indicati negli atti di gara, quando l’appalto viene aggiudicato all’offerta economicamente più vantaggiosa.
 
-4.
-
-La Stazione Appaltante non può ricorrere alle aste elettroniche abusivamente o in modo tale da impedire, limitare o distorcere la concorrenza o comunque in modo da modificare l’oggetto dell’appalto, come definito dal bando e dagli altri atti di gara.
+4\. La Stazione Appaltante non può ricorrere alle aste elettroniche abusivamente o in modo tale da impedire, limitare o distorcere la concorrenza o comunque in modo da modificare l’oggetto dell’appalto, come definito dal bando e dagli altri atti di gara.
 
 ##### Art. 15
 
 (La licitazione privata)
 
-1.
+1\. La licitazione privata è una gara a concorso limitato per l’acquisizione di beni o servizi, indetta mediante lettera d’invito, alla quale partecipano le imprese individuate dalla Stazione Appaltante.
 
-La licitazione privata è una gara a concorso limitato per l’acquisizione di beni o servizi, indetta mediante lettera d’invito, alla quale partecipano le imprese individuate dalla Stazione Appaltante.
-
-2.
-
-La procedura della licitazione privata può essere adottata:
+2\. La procedura della licitazione privata può essere adottata:
 
 a) quando l’asta pubblica comporta per la Stazione Appaltante un aggravio in termini di onerosità, in netta sproporzione rispetto ai vantaggi dell’operazione;
 
@@ -1526,59 +1366,37 @@ b) quando l’asta pubblica è andata deserta o tutte le offerte sono risultate 
 
 c) se, con deliberazione motivata, la Stazione Appaltante ritiene l’asta pubblica non opportuna, con particolare riferimento al valore della prestazione.
 
-3.
+3\. La Stazione Appaltante rivolge l’invito a partecipare alla licitazione privata alle imprese individuate sulla base di informazioni riguardanti le caratteristiche di qualificazione economico-finanziaria, tecnico-organizzativa desunte dal mercato e necessarie per l’esecuzione del contratto di appalto, tenuto conto delle prescrizioni e condizioni fissate nel capitolato speciale.
 
-La Stazione Appaltante rivolge l’invito a partecipare alla licitazione privata alle imprese individuate sulla base di informazioni riguardanti le caratteristiche di qualificazione economico-finanziaria, tecnico-organizzativa desunte dal mercato e necessarie per l’esecuzione del contratto di appalto, tenuto conto delle prescrizioni e condizioni fissate nel capitolato speciale.
-
-4.
-
-Le imprese così individuate sono invitate contemporaneamente a presentare le offerte con lettera trasmessa almeno dieci giorni prima della data fissata per la presentazione delle offerte.
+4\. Le imprese così individuate sono invitate contemporaneamente a presentare le offerte con lettera trasmessa almeno dieci giorni prima della data fissata per la presentazione delle offerte.
 
 ##### Art. 16
 
 (Appalto Concorso)
 
-1.
+1\. L’appalto concorso è una forma di gara riservata ad imprese che presentano progetti esecutivi comprensivi di un’offerta economica per la loro attuazione.
 
-L’appalto concorso è una forma di gara riservata ad imprese che presentano progetti esecutivi comprensivi di un’offerta economica per la loro attuazione.
-
-2.
-
-L’affidamento mediante appalto concorso è consentito per l’acquisizione di beni o servizi di particolare complessità o ad elevata componente tecnologica od artistica, la cui progettazione ed esecuzione richieda il possesso di competenze
+2\. L’affidamento mediante appalto concorso è consentito per l’acquisizione di beni o servizi di particolare complessità o ad elevata componente tecnologica od artistica, la cui progettazione ed esecuzione richieda il possesso di competenze
 
 particolari.
 
-3.
+3\. La Stazione Appaltante descrive in maniera dettagliata i beni ed i servizi, ponendo un limite massimo di spesa.
 
-La Stazione Appaltante descrive in maniera dettagliata i beni ed i servizi, ponendo un limite massimo di spesa.
+4\. Le imprese concorrenti formulano precise proposte progettuali ed economiche, con analitica indicazione del servizio o della fornitura che si impegnano ad eseguire, nonché dei corrispettivi che richiedono e di ogni altra condizione alla quale sono disposte ad eseguire la loro prestazione.
 
-4.
+5\. L’aggiudicazione avviene sulla base del criterio dell’offerta economicamente più vantaggiosa.
 
-Le imprese concorrenti formulano precise proposte progettuali ed economiche, con analitica indicazione del servizio o della fornitura che si impegnano ad eseguire, nonché dei corrispettivi che richiedono e di ogni altra condizione alla quale sono disposte ad eseguire la loro prestazione.
-
-5.
-
-L’aggiudicazione avviene sulla base del criterio dell’offerta economicamente più vantaggiosa.
-
-6.
-
-L’appalto concorso può essere indetto, a discrezione della Stazione Appaltante e su deliberazione motivata della stessa, con pubblico bando o con invito diretto.
+6\. L’appalto concorso può essere indetto, a discrezione della Stazione Appaltante e su deliberazione motivata della stessa, con pubblico bando o con invito diretto.
 
 ##### Art. 17
 
 (Trattativa Privata)
 
-1.
+1\. Per trattativa privata si intende una procedura negoziata in cui la Stazione Appaltante consulta le imprese di propria scelta in possesso dei requisiti richiesti, sulla base di informazioni riguardanti le caratteristiche di qualificazione economicofinanziaria e tecnico-organizzativa desunte dal mercato, nel rispetto dei principi di cui all’articolo 3, comma 2, negoziando i termini del contratto.
 
-Per trattativa privata si intende una procedura negoziata in cui la Stazione Appaltante consulta le imprese di propria scelta in possesso dei requisiti richiesti, sulla base di informazioni riguardanti le caratteristiche di qualificazione economicofinanziaria e tecnico-organizzativa desunte dal mercato, nel rispetto dei principi di cui all’articolo 3, comma 2, negoziando i termini del contratto.
+2\. La negoziazione è effettuata, fatto salvo quanto previsto al comma 5, con almeno tre imprese selezionate ed avviene attraverso indagine documentale compiuta mediante il contemporaneo invio alle imprese stesse di lettera contenente gli elementi essenziali della prestazione richiesta finalizzata all’acquisizione di preventivi datati e sottoscritti dai rispettivi titolari o legali rappresentanti.
 
-2.
-
-La negoziazione è effettuata, fatto salvo quanto previsto al comma 5, con almeno tre imprese selezionate ed avviene attraverso indagine documentale compiuta mediante il contemporaneo invio alle imprese stesse di lettera contenente gli elementi essenziali della prestazione richiesta finalizzata all’acquisizione di preventivi datati e sottoscritti dai rispettivi titolari o legali rappresentanti.
-
-3.
-
-Il metodo della trattativa privata può essere usato in uno dei seguenti casi:
+3\. Il metodo della trattativa privata può essere usato in uno dei seguenti casi:
 
 a) quando è andata deserta l’asta pubblica o la licitazione privata e una nuova gara non pone in prospettiva risultati apprezzabili;
 
@@ -1592,17 +1410,13 @@ e) per forniture o somministrazioni di beni e servizi di importo compreso tra eu
 
 2.601,00 (duemilaseicentouno/00) ed euro 15.000,00 (quindicimila/00). E’ fatto salvo quanto previsto dalla lettera h) del successivo comma 5.
 
-4.
-
-Nei casi di cui al comma 3, lettera d), la Stazione Appaltante, prima di procedere alla negoziazione del contratto, può instaurare con le imprese individuate, garantendo loro parità di trattamento, un dialogo finalizzato all’individuazione ed alla definizione della prestazione più idonea a soddisfare le necessità o obiettivi che la stessa Stazione Appaltante si prefigge. In esito al predetto dialogo, la Stazione Appaltante procede con le seguenti modalità:
+4\. Nei casi di cui al comma 3, lettera d), la Stazione Appaltante, prima di procedere alla negoziazione del contratto, può instaurare con le imprese individuate, garantendo loro parità di trattamento, un dialogo finalizzato all’individuazione ed alla definizione della prestazione più idonea a soddisfare le necessità o obiettivi che la stessa Stazione Appaltante si prefigge. In esito al predetto dialogo, la Stazione Appaltante procede con le seguenti modalità:
 
 a) ritiene, motivatamente, che nessuna delle soluzioni proposte soddisfi le proprie necessità o obiettivi; in tal caso informa immediatamente le imprese consultate, alle quali non spetta alcun indennizzo o risarcimento, oppure,
 
 b) dopo aver dichiarato concluso il dialogo e averne informato le imprese consultate, la Stazione Appaltante avvia la negoziazione con le stesse secondo quanto previsto al comma 2.
 
-5.
-
-La Stazione Appaltante può procedere alla negoziazione con una sola impresa, tramite contatto diretto con la stessa, nei seguenti casi:
+5\. La Stazione Appaltante può procedere alla negoziazione con una sola impresa, tramite contatto diretto con la stessa, nei seguenti casi:
 
 a) qualora per particolari motivi di natura tecnica ed artistica ovvero attinenti alla tutela di diritti esclusivi debitamente indicati e documentati dalla Stazione Appaltante, il bene o il servizio può essere fornito soltanto da una impresa;
 
@@ -1630,9 +1444,7 @@ prezzi definiti per la fornitura dei suddetti beni agli omologhi corpi o istituz
 
 n) per la fornitura di beni o servizi esclusivi o infungibili.
 
-6.
-
-Nei casi in cui si proceda ai sensi del comma 5, la redazione del verbale di esame e valutazione dell’offerta è facoltativa ed è rimessa alla discrezionalità della Stazione Appaltante in ragione delle caratteristiche dello specifico procedimento.
+6\. Nei casi in cui si proceda ai sensi del comma 5, la redazione del verbale di esame e valutazione dell’offerta è facoltativa ed è rimessa alla discrezionalità della Stazione Appaltante in ragione delle caratteristiche dello specifico procedimento.
 
 Qualora non si proceda alla redazione del verbale le fasi di negoziazione e la valutazione relativa alla congruità del prezzo sono riportate nell’ambito della delibera di aggiudicazione.9 9 Testo originario (Decreto Delegato 2 marzo 2015 n.26)
 
@@ -1640,17 +1452,11 @@ Qualora non si proceda alla redazione del verbale le fasi di negoziazione e la v
 
 (Trattativa Privata)
 
-1.
+1\. Per trattativa privata si intende una procedura negoziata in cui la Stazione Appaltante consulta le imprese di propria scelta in possesso dei requisiti richiesti, sulla base di informazioni riguardanti le caratteristiche di qualificazione economico-finanziaria e tecnico-organizzativa desunte dal mercato, nel rispetto dei principi di cui all’articolo 3, comma 2, negoziando i termini del contratto.
 
-Per trattativa privata si intende una procedura negoziata in cui la Stazione Appaltante consulta le imprese di propria scelta in possesso dei requisiti richiesti, sulla base di informazioni riguardanti le caratteristiche di qualificazione economico-finanziaria e tecnico-organizzativa desunte dal mercato, nel rispetto dei principi di cui all’articolo 3, comma 2, negoziando i termini del contratto.
+2\. La negoziazione è effettuata, fatto salvo quanto previsto al comma 5, con almeno tre imprese selezionate ed avviene attraverso indagine documentale compiuta mediante il contemporaneo invio alle imprese stesse di lettera contenente gli elementi essenziali della prestazione richiesta finalizzata all’acquisizione di preventivi datati e sottoscritti dai rispettivi titolari o legali rappresentanti.
 
-2.
-
-La negoziazione è effettuata, fatto salvo quanto previsto al comma 5, con almeno tre imprese selezionate ed avviene attraverso indagine documentale compiuta mediante il contemporaneo invio alle imprese stesse di lettera contenente gli elementi essenziali della prestazione richiesta finalizzata all’acquisizione di preventivi datati e sottoscritti dai rispettivi titolari o legali rappresentanti.
-
-3.
-
-Il metodo della trattativa privata può essere usato in uno dei seguenti casi:
+3\. Il metodo della trattativa privata può essere usato in uno dei seguenti casi:
 
 a) quando è andata deserta l’asta pubblica o la licitazione privata e una nuova gara non pone in prospettiva risultati apprezzabili;
 
@@ -1662,17 +1468,13 @@ d) se la natura e l’entità della prestazione non possono essere determinate i
 
 e) per la fornitura e somministrazione beni o servizi di importo compreso tra euro 501,00 ed euro 5.000,00.
 
-4.
-
-Nei casi di cui al comma 3, lettera d), la Stazione Appaltante, prima di procedere alla negoziazione del contratto, può instaurare con le imprese individuate, garantendo loro parità di trattamento, un dialogo finalizzato all’individuazione ed alla definizione della prestazione più idonea a soddisfare le necessità o obiettivi che la stessa Stazione Appaltante si prefigge. In esito al predetto dialogo, la Stazione Appaltante procede con le seguenti modalità:
+4\. Nei casi di cui al comma 3, lettera d), la Stazione Appaltante, prima di procedere alla negoziazione del contratto, può instaurare con le imprese individuate, garantendo loro parità di trattamento, un dialogo finalizzato all’individuazione ed alla definizione della prestazione più idonea a soddisfare le necessità o obiettivi che la stessa Stazione Appaltante si prefigge. In esito al predetto dialogo, la Stazione Appaltante procede con le seguenti modalità:
 
 a) ritiene, motivatamente, che nessuna delle soluzioni proposte soddisfi le proprie necessità o obiettivi; in tal caso informa immediatamente le imprese consultate, alle quali non spetta alcun indennizzo o risarcimento, oppure,
 
 b) b) dopo aver dichiarato concluso il dialogo e averne informato le imprese consultate, la Stazione Appaltante avvia la negoziazione con le stesse secondo quanto previsto al comma 2.
 
-5.
-
-La Stazione Appaltante può procedere alla negoziazione con una sola impresa, tramite contatto diretto con la stessa, nei seguenti casi:
+5\. La Stazione Appaltante può procedere alla negoziazione con una sola impresa, tramite contatto diretto con la stessa, nei seguenti casi:
 
 a) qualora per particolari motivi di natura tecnica ed artistica ovvero attinenti alla tutela di diritti esclusivi debitamente indicati e documentati dalla Stazione Appaltante, il bene o il servizio può essere fornito soltanto da una impresa;
 
@@ -1692,9 +1494,7 @@ g) per forniture quotate e acquistate in una borsa di materie prime e per l’ac
 
 h) per forniture o somministrazioni di beni e servizi di importo non superiore ad euro 500,00.
 
-6.
-
-Le fasi della negoziazione devono constare da apposito verbale.
+6\. Le fasi della negoziazione devono constare da apposito verbale.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 8 (Modifiche all’articolo 17 del Decreto Delegato n.26/2015)
 
@@ -1742,33 +1542,19 @@ Procedura di scelta
 
 (Bando di gara, lettera di invito e capitolato d’appalto)
 
-1.
+1\. Il bando di gara e la lettera di invito indicano in maniera puntuale, chiara, dettagliata e completa di ogni elemento essenziale, l’oggetto della fornitura o somministrazione di beni o servizi da eseguire; sono, in particolare, esattamente individuate tutte le caratteristiche tecniche del bene o del servizio richiesto, le caratteristiche che ne qualificano la sostenibilità ambientale nonché ogni altro elemento che la Stazione Appaltante ritenga rilevante nell’esecuzione della prestazione richiesta così da consentire la comprensione dell’oggetto, delle modalità e condizioni di esecuzione della stessa, in condizioni di parità di accesso fra tutte le imprese concorrenti.
 
-Il bando di gara e la lettera di invito indicano in maniera puntuale, chiara, dettagliata e completa di ogni elemento essenziale, l’oggetto della fornitura o somministrazione di beni o servizi da eseguire; sono, in particolare, esattamente individuate tutte le caratteristiche tecniche del bene o del servizio richiesto, le caratteristiche che ne qualificano la sostenibilità ambientale nonché ogni altro elemento che la Stazione Appaltante ritenga rilevante nell’esecuzione della prestazione richiesta così da consentire la comprensione dell’oggetto, delle modalità e condizioni di esecuzione della stessa, in condizioni di parità di accesso fra tutte le imprese concorrenti.
+2\. Il capitolato generale d’appalto descrive le condizioni e prescrizioni generali da applicare indistintamente alle forniture o somministrazioni di beni o servizi.
 
-2.
+3\. Il capitolato speciale d’appalto individua il bene o servizio richiesto con la singola gara d’appalto, le sue caratteristiche tecniche, le modalità e la periodicità della prestazione.
 
-Il capitolato generale d’appalto descrive le condizioni e prescrizioni generali da applicare indistintamente alle forniture o somministrazioni di beni o servizi.
+4\. Le condizioni e prescrizioni di cui ai commi 2 e 3 possono essere contenute anche in un unico documento.
 
-3.
+5\. Il capitolato generale ed il capitolato speciale sono allegati al bando di gara ovvero alla lettera di invito e le disposizioni in essi contenute, costituiscono, unitamente al bando di gara, alla lettera di invito e alle disposizioni contenute nella Legge n.49/2002, nel presente decreto delegato e nei Regolamenti di attuazione del Congresso di Stato la normativa di riferimento della gara indetta dalla Stazione Appaltante.
 
-Il capitolato speciale d’appalto individua il bene o servizio richiesto con la singola gara d’appalto, le sue caratteristiche tecniche, le modalità e la periodicità della prestazione.
+6\. Le prescrizioni e condizioni contenute nel capitolato generale e nel capitolato speciale sono, di norma, immodificabili. La Stazione Appaltante può, tuttavia, procedere alla definizione di diverse condizioni supplementari purché non contrastanti con quelle contenute nei capitolati generali e speciali e rispondenti a motivate ed obiettive esigenze connesse alla natura e alla tipologia della prestazione richiesta.
 
-4.
-
-Le condizioni e prescrizioni di cui ai commi 2 e 3 possono essere contenute anche in un unico documento.
-
-5.
-
-Il capitolato generale ed il capitolato speciale sono allegati al bando di gara ovvero alla lettera di invito e le disposizioni in essi contenute, costituiscono, unitamente al bando di gara, alla lettera di invito e alle disposizioni contenute nella Legge n.49/2002, nel presente decreto delegato e nei Regolamenti di attuazione del Congresso di Stato la normativa di riferimento della gara indetta dalla Stazione Appaltante.
-
-6.
-
-Le prescrizioni e condizioni contenute nel capitolato generale e nel capitolato speciale sono, di norma, immodificabili. La Stazione Appaltante può, tuttavia, procedere alla definizione di diverse condizioni supplementari purché non contrastanti con quelle contenute nei capitolati generali e speciali e rispondenti a motivate ed obiettive esigenze connesse alla natura e alla tipologia della prestazione richiesta.
-
-7.
-
-Le condizioni supplementari di cui al comma 6 possono consistere, qualora l’impresa aggiudicataria debba procedere al reperimento di nuovi lavoratori subordinati per fare fronte alla prestazione oggetto d’appalto, in obblighi di assunzione di disoccupati o inoccupati iscritti nelle liste di avviamento al lavoro.
+7\. Le condizioni supplementari di cui al comma 6 possono consistere, qualora l’impresa aggiudicataria debba procedere al reperimento di nuovi lavoratori subordinati per fare fronte alla prestazione oggetto d’appalto, in obblighi di assunzione di disoccupati o inoccupati iscritti nelle liste di avviamento al lavoro.
 
 Stante quanto previsto all’articolo 12, commi primo e secondo della Legge n.49/2002 ed all’articolo 9 relativamente al possesso da parte dell’impresa concorrente di caratteristiche imprenditoriali e tecnico-organizzative adeguate ai fini “e) per forniture o somministrazioni di beni e servizi di importo compreso tra euro 2.601,00 (duemilaseicentouno/00) ed euro 15.000,00 (quindicimila/00).”.
 
@@ -1788,21 +1574,13 @@ dell’aggiudicazione dell’appalto, le predette nuove assunzioni non potranno,
 
 (Associazioni temporanee d’impresa)
 
-1.
+1\. E’ sempre consentita la partecipazione alla gara d’appalto alle imprese iscritte nel Registro dei Fornitori oltre che singolarmente, anche in forma di associazione temporanea di impresa o in consorzi. Qualora la Stazione Appaltante si avvalga della facoltà di cui all’articolo 8, comma 6, è consentita la partecipazione alla gara d’appalto tramite associazioni temporanee d’impresa o consorzi costituiti anche da imprese non iscritte nel Registro dei Fornitori. La Stazione Appaltante ha facoltà, dandone evidenza negli atti iniziali di gara, di subordinare la costituzione di associazioni temporanee d’impresa di cui al precedente periodo all’individuazione di impresa capogruppo iscritta nel Registro dei Fornitori.
 
-E’ sempre consentita la partecipazione alla gara d’appalto alle imprese iscritte nel Registro dei Fornitori oltre che singolarmente, anche in forma di associazione temporanea di impresa o in consorzi. Qualora la Stazione Appaltante si avvalga della facoltà di cui all’articolo 8, comma 6, è consentita la partecipazione alla gara d’appalto tramite associazioni temporanee d’impresa o consorzi costituiti anche da imprese non iscritte nel Registro dei Fornitori. La Stazione Appaltante ha facoltà, dandone evidenza negli atti iniziali di gara, di subordinare la costituzione di associazioni temporanee d’impresa di cui al precedente periodo all’individuazione di impresa capogruppo iscritta nel Registro dei Fornitori.
+2\. Ai fini del presente decreto delegato, si considera associazione temporanea di impresa l’aggregazione di più imprese, in forma occasionale e temporanea, al solo scopo di partecipare ad una gara indetta dalla Pubblica Amministrazione o da Enti Pubblici. L’associazione temporanea di impresa si realizza attraverso il conferimento di mandato collettivo speciale e dei poteri di rappresentanza ad una delle imprese partecipanti al gruppo, detta capogruppo, ad opera delle altre.
 
-2.
+3\. La costituzione e il mandato collettivo conferito dalle imprese mandanti alla capogruppo deve constare da atto pubblico o scrittura privata autenticata avente data precedente alla presentazione dell’offerta; in tale caso la domanda di partecipazione alla gara è presentata dalla capogruppo, la quale esprime l’offerta e sottoscrive il contratto in nome e per conto proprio e delle mandanti.
 
-Ai fini del presente decreto delegato, si considera associazione temporanea di impresa l’aggregazione di più imprese, in forma occasionale e temporanea, al solo scopo di partecipare ad una gara indetta dalla Pubblica Amministrazione o da Enti Pubblici. L’associazione temporanea di impresa si realizza attraverso il conferimento di mandato collettivo speciale e dei poteri di rappresentanza ad una delle imprese partecipanti al gruppo, detta capogruppo, ad opera delle altre.
-
-3.
-
-La costituzione e il mandato collettivo conferito dalle imprese mandanti alla capogruppo deve constare da atto pubblico o scrittura privata autenticata avente data precedente alla presentazione dell’offerta; in tale caso la domanda di partecipazione alla gara è presentata dalla capogruppo, la quale esprime l’offerta e sottoscrive il contratto in nome e per conto proprio e delle mandanti.
-
-4.
-
-In alternativa alle modalità di cui al comma 3, l’associazione temporanea 10 TESTO ORIGINARIO
+4\. In alternativa alle modalità di cui al comma 3, l’associazione temporanea 10 TESTO ORIGINARIO
 
 Decreto Delegato 4 marzo 2019 n. 42
 
@@ -1818,45 +1596,27 @@ Decreto Delegato 4 marzo 2019 n. 42
 
 d’impresa può essere costituita successivamente alla presentazione della domanda di partecipazione, esclusivamente con imprese che non abbiano partecipato o, in caso di licitazione privata, non siano state invitate alla gara di appalto; in questo caso la domanda di partecipazione è sottoscritta da ciascuna impresa e deve contenere l’indicazione della capogruppo e l’impegno a costituire, almeno cinque giorni prima della data indicata per la sottoscrizione del contratto, il raggruppamento, a pena di decadenza dall’aggiudicazione e di perdita della cauzione provvisoria.
 
-5.
+5\. L’offerta presentata dall’associazione temporanea di imprese deve indicare le parti di prestazioni contrattuali, proporzionate a ciascuna quota di partecipazione, poste a carico di ciascuna impresa appartenente al raggruppamento.
 
-L’offerta presentata dall’associazione temporanea di imprese deve indicare le parti di prestazioni contrattuali, proporzionate a ciascuna quota di partecipazione, poste a carico di ciascuna impresa appartenente al raggruppamento.
+6\. E’ vietato all’impresa concorrente di partecipare alla gara in più di una associazione temporanea d’impresa o in consorzio ovvero di partecipare alla gara anche in forma individuale se ha partecipato alla gara medesima in associazione temporanea di impresa o consorzio.
 
-6.
-
-E’ vietato all’impresa concorrente di partecipare alla gara in più di una associazione temporanea d’impresa o in consorzio ovvero di partecipare alla gara anche in forma individuale se ha partecipato alla gara medesima in associazione temporanea di impresa o consorzio.
-
-7.
-
-In caso di risarcimento del danno e/o applicazione di penali, le imprese che costituiscono l’associazione rispondono nei confronti della Stazione Appaltante solidalmente e senza beneficio di preventiva escussione dell’impresa la cui porzione di prestazione non sia stata eseguita correttamente.11 11 Testo originario (Decreto Delegato 2 marzo 2015 n.26)
+7\. In caso di risarcimento del danno e/o applicazione di penali, le imprese che costituiscono l’associazione rispondono nei confronti della Stazione Appaltante solidalmente e senza beneficio di preventiva escussione dell’impresa la cui porzione di prestazione non sia stata eseguita correttamente.11 11 Testo originario (Decreto Delegato 2 marzo 2015 n.26)
 
 ##### Art. 19
 
 (Associazioni temporanee d’impresa)
 
-1.
+1\. E’ sempre consentita la partecipazione alla gara d’appalto alle imprese iscritte nel Registro dei Fornitori oltre che singolarmente, anche in forma di associazione temporanea di impresa o in consorzi.
 
-E’ sempre consentita la partecipazione alla gara d’appalto alle imprese iscritte nel Registro dei Fornitori oltre che singolarmente, anche in forma di associazione temporanea di impresa o in consorzi.
+2\. Ai fini del presente decreto delegato, si considera associazione temporanea di impresa l’aggregazione di più imprese, in forma occasionale e temporanea, al solo scopo di partecipare ad una gara indetta dalla Pubblica Amministrazione o da Enti Pubblici. L’associazione temporanea di impresa si realizza attraverso il conferimento di mandato collettivo speciale e dei poteri di rappresentanza ad una delle imprese partecipanti al gruppo, detta capogruppo, ad opera delle altre.
 
-2.
+3\. La costituzione e il mandato collettivo conferito dalle imprese mandanti alla capogruppo deve constare da atto pubblico o scrittura privata autenticata avente data precedente alla presentazione dell’offerta; in tale caso la domanda di partecipazione alla gara è presentata dalla capogruppo, la quale esprime l’offerta e sottoscrive il contratto in nome e per conto proprio e delle mandanti.
 
-Ai fini del presente decreto delegato, si considera associazione temporanea di impresa l’aggregazione di più imprese, in forma occasionale e temporanea, al solo scopo di partecipare ad una gara indetta dalla Pubblica Amministrazione o da Enti Pubblici. L’associazione temporanea di impresa si realizza attraverso il conferimento di mandato collettivo speciale e dei poteri di rappresentanza ad una delle imprese partecipanti al gruppo, detta capogruppo, ad opera delle altre.
+4\. In alternativa alle modalità di cui al comma 3, l’associazione temporanea d’impresa può essere costituita successivamente alla presentazione della domanda di partecipazione, esclusivamente con imprese che non abbiano partecipato o, in caso di licitazione privata, non siano state invitate alla gara di appalto; in questo caso la domanda di partecipazione è sottoscritta da ciascuna impresa e deve contenere l’indicazione della capogruppo e l’impegno a costituire, almeno cinque giorni prima della data indicata per la sottoscrizione del contratto, il raggruppamento, a pena di decadenza dall’aggiudicazione e di perdita della cauzione provvisoria.
 
-3.
+5\. L’offerta presentata dall’associazione temporanea di imprese deve indicare le parti di prestazioni contrattuali, proporzionate a ciascuna quota di partecipazione, poste a carico di ciascuna impresa appartenente al raggruppamento.
 
-La costituzione e il mandato collettivo conferito dalle imprese mandanti alla capogruppo deve constare da atto pubblico o scrittura privata autenticata avente data precedente alla presentazione dell’offerta; in tale caso la domanda di partecipazione alla gara è presentata dalla capogruppo, la quale esprime l’offerta e sottoscrive il contratto in nome e per conto proprio e delle mandanti.
-
-4.
-
-In alternativa alle modalità di cui al comma 3, l’associazione temporanea d’impresa può essere costituita successivamente alla presentazione della domanda di partecipazione, esclusivamente con imprese che non abbiano partecipato o, in caso di licitazione privata, non siano state invitate alla gara di appalto; in questo caso la domanda di partecipazione è sottoscritta da ciascuna impresa e deve contenere l’indicazione della capogruppo e l’impegno a costituire, almeno cinque giorni prima della data indicata per la sottoscrizione del contratto, il raggruppamento, a pena di decadenza dall’aggiudicazione e di perdita della cauzione provvisoria.
-
-5.
-
-L’offerta presentata dall’associazione temporanea di imprese deve indicare le parti di prestazioni contrattuali, proporzionate a ciascuna quota di partecipazione, poste a carico di ciascuna impresa appartenente al raggruppamento.
-
-6.
-
-E’ vietato all’impresa concorrente di partecipare alla gara in più di una associazione temporanea d’impresa o in consorzio ovvero di partecipare alla gara anche in forma individuale se ha partecipato alla gara medesima in associazione temporanea di impresa o consorzio.
+6\. E’ vietato all’impresa concorrente di partecipare alla gara in più di una associazione temporanea d’impresa o in consorzio ovvero di partecipare alla gara anche in forma individuale se ha partecipato alla gara medesima in associazione temporanea di impresa o consorzio.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 10 (Modifiche all’articolo 19 del Decreto Delegato n.26/2015)
 
@@ -1868,17 +1628,11 @@ MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 10 (Modifich
 
 (Deposito cauzionale a garanzia della sottoscrizione del contratto)
 
-1.
+1\. Le imprese partecipanti alla gara di appalto sono tenute a prestare una cauzione pari al 2% dell’importo dell’offerta mediante assegno circolare oppure mediante fideiussione bancaria o assicurativa.
 
-Le imprese partecipanti alla gara di appalto sono tenute a prestare una cauzione pari al 2% dell’importo dell’offerta mediante assegno circolare oppure mediante fideiussione bancaria o assicurativa.
+2\. La cauzione copre la mancata sottoscrizione del contratto per volontà dell’aggiudicatario ed è svincolata al momento della sottoscrizione del contratto d’appalto.
 
-2.
-
-La cauzione copre la mancata sottoscrizione del contratto per volontà dell’aggiudicatario ed è svincolata al momento della sottoscrizione del contratto d’appalto.
-
-3.
-
-La cauzione è dovuta per le gara d’appalto di importo superiore ad euro
+3\. La cauzione è dovuta per le gara d’appalto di importo superiore ad euro
 
 50.000,00.
 
@@ -1886,33 +1640,21 @@ La cauzione è dovuta per le gara d’appalto di importo superiore ad euro
 
 (Esame delle offerte)
 
-1.
+1\. Le offerte in gara sono esaminate sotto il profilo contabile, tecnico ed economico dal responsabile del procedimento o dalla Commissione. Deve essere innanzitutto verificata l’idoneità degli offerenti.
 
-Le offerte in gara sono esaminate sotto il profilo contabile, tecnico ed economico dal responsabile del procedimento o dalla Commissione. Deve essere innanzitutto verificata l’idoneità degli offerenti.
+2\. Il contenuto e le modalità di presentazione delle offerte, la procedura di valutazione delle stesse ed i casi di esclusione dall’esame sono definiti con Regolamento del Congresso di Stato.
 
-2.
+3\. In caso di aggiudicazione con il criterio dell’offerta economicamente più vantaggiosa, e qualora sia necessario valutare aspetti di natura tecnica o di particolare complessità, l’esame delle offerte è demandato ad una Commissione, composta da tecnici selezionati preferibilmente tra funzionari della Pubblica Amministrazione muniti di specifica competenza tecnica e professionalità nel settore, di cui uno con funzioni di Presidente.
 
-Il contenuto e le modalità di presentazione delle offerte, la procedura di valutazione delle stesse ed i casi di esclusione dall’esame sono definiti con Regolamento del Congresso di Stato.
+4\. La Stazione Appaltante procede alla nomina della Commissione scaduti i termini per la presentazione dell’offerta.
 
-3.
-
-In caso di aggiudicazione con il criterio dell’offerta economicamente più vantaggiosa, e qualora sia necessario valutare aspetti di natura tecnica o di particolare complessità, l’esame delle offerte è demandato ad una Commissione, composta da tecnici selezionati preferibilmente tra funzionari della Pubblica Amministrazione muniti di specifica competenza tecnica e professionalità nel settore, di cui uno con funzioni di Presidente.
-
-4.
-
-La Stazione Appaltante procede alla nomina della Commissione scaduti i termini per la presentazione dell’offerta.
-
-5.
-
-Dopo l’apertura dei plichi contenenti le offerte, e fino al momento dell’aggiudicazione dell’appalto, il responsabile del procedimento ovvero la Commissione può contattare l’impresa offerente per acquisire chiarimenti su aspetti già indicati nell’offerta; gli esiti di tali contatti possono essere tenuti riservati su richiesta dell’impresa e solo nei casi previsti dall’articolo 7, comma 3. L’offerta dell’impresa che, contattata dalla Stazione Appaltante non fornisce i chiarimenti richiesti, è esclusa dalla valutazione.
+5\. Dopo l’apertura dei plichi contenenti le offerte, e fino al momento dell’aggiudicazione dell’appalto, il responsabile del procedimento ovvero la Commissione può contattare l’impresa offerente per acquisire chiarimenti su aspetti già indicati nell’offerta; gli esiti di tali contatti possono essere tenuti riservati su richiesta dell’impresa e solo nei casi previsti dall’articolo 7, comma 3. L’offerta dell’impresa che, contattata dalla Stazione Appaltante non fornisce i chiarimenti richiesti, è esclusa dalla valutazione.
 
 ##### Art. 22
 
 (Offerte anomale)
 
-1.
-
-La Stazione Appaltante ha, inoltre, a suo motivato giudizio, il diritto di non procedere all’aggiudicazione anche a seguito di emissione del bando o dell’invio delle lettere di invito qualora:
+1\. La Stazione Appaltante ha, inoltre, a suo motivato giudizio, il diritto di non procedere all’aggiudicazione anche a seguito di emissione del bando o dell’invio delle lettere di invito qualora:
 
 a) le offerte pervenute non siano idonee o convenienti;
 
@@ -1922,33 +1664,21 @@ c) qualora i corrispettivi risultanti dalle offerte delle imprese siano troppo e
 
 troppo bassi rispetto ai prezzi correnti di mercato.
 
-2.
+2\. Nella predisposizione delle gare di appalto e nella valutazione dell’anomalia delle offerte, la Stazione Appaltante è tenuta a verificare che il valore economico sia adeguato e sufficiente rispetto al costo del lavoro e al costo relativo alla sicurezza, i quali devono essere specificamente indicati e risultare congrui rispetto all’entità e alle caratteristiche della prestazione.
 
-Nella predisposizione delle gare di appalto e nella valutazione dell’anomalia delle offerte, la Stazione Appaltante è tenuta a verificare che il valore economico sia adeguato e sufficiente rispetto al costo del lavoro e al costo relativo alla sicurezza, i quali devono essere specificamente indicati e risultare congrui rispetto all’entità e alle caratteristiche della prestazione.
+3\. Il costo del lavoro è determinato periodicamente, in apposite tabelle, dalla CCIAA - che, a tal fine, si rapporta con i competenti servizi ed unità organizzative del Settore Pubblico Allargato - sulla base dei valori economici previsti dalla contrattazione collettiva e delle norme in materia previdenziale ed assistenziale; in assenza di contratto collettivo applicabile, il costo del lavoro è determinato in relazione al contratto collettivo del settore merceologico più vicino a quello preso in considerazione.
 
-3.
+4\. Il costo relativo alla sicurezza non può essere comunque soggetto a ribasso.
 
-Il costo del lavoro è determinato periodicamente, in apposite tabelle, dalla CCIAA - che, a tal fine, si rapporta con i competenti servizi ed unità organizzative del Settore Pubblico Allargato - sulla base dei valori economici previsti dalla contrattazione collettiva e delle norme in materia previdenziale ed assistenziale; in assenza di contratto collettivo applicabile, il costo del lavoro è determinato in relazione al contratto collettivo del settore merceologico più vicino a quello preso in considerazione.
-
-4.
-
-Il costo relativo alla sicurezza non può essere comunque soggetto a ribasso.
-
-5.
-
-Al fine di stabilire il prezzo base nei bandi o lettere di invito, di valutare la convenienza o meno dell’aggiudicazione, nonché al fine di stabilire se l’offerta sia anormalmente bassa, la Stazione Appaltante tiene conto del miglior prezzo di mercato, ove rilevabile, e prende in considerazione listini e prezziari di beni e servizi, normalmente in uso, eventuali rilevazioni statistiche ed ogni altro elemento di conoscenza.
+5\. Al fine di stabilire il prezzo base nei bandi o lettere di invito, di valutare la convenienza o meno dell’aggiudicazione, nonché al fine di stabilire se l’offerta sia anormalmente bassa, la Stazione Appaltante tiene conto del miglior prezzo di mercato, ove rilevabile, e prende in considerazione listini e prezziari di beni e servizi, normalmente in uso, eventuali rilevazioni statistiche ed ogni altro elemento di conoscenza.
 
 ##### Art. 23
 
 (Invalidità e irregolarità degli atti e provvedimenti di gara)
 
-1.
+1\. Agli atti e provvedimenti amministrativi emessi nell’ambito del procedimento relativo alla gara di appalto si applicano le disposizioni in materia di invalidità e irregolarità previste dal Titolo VI della Legge n.160/2011.
 
-Agli atti e provvedimenti amministrativi emessi nell’ambito del procedimento relativo alla gara di appalto si applicano le disposizioni in materia di invalidità e irregolarità previste dal Titolo VI della Legge n.160/2011.
-
-2.
-
-In particolare, la gara di appalto, prima della stipula del contratto, può essere annullata quando sussistano motivi in ordine alla legittimità del provvedimento secondo quanto previsto dall’articolo 44 della Legge n.160/2011 e può essere revocata quando il capitolato d’appalto debba essere sostanzialmente modificato e quando la Stazione Appaltante lo ritenga necessario ed opportuno in presenza dei motivi di cui all’articolo 45 della medesima Legge n.160/2011.
+2\. In particolare, la gara di appalto, prima della stipula del contratto, può essere annullata quando sussistano motivi in ordine alla legittimità del provvedimento secondo quanto previsto dall’articolo 44 della Legge n.160/2011 e può essere revocata quando il capitolato d’appalto debba essere sostanzialmente modificato e quando la Stazione Appaltante lo ritenga necessario ed opportuno in presenza dei motivi di cui all’articolo 45 della medesima Legge n.160/2011.
 
 ##### Art. 24
 
@@ -1960,9 +1690,7 @@ Si veda Legge 24 giugno 2022 n.94, articolo 14 “1.
 
 Allo scopo di coordinare le disposizioni di cui al Decreto - Legge 13 maggio 2015 n.70 e di cui all'articolo 24, comma 1 del Decreto Delegato 2 marzo 2015 n.26 e successive modifiche con quelle dettate dall'articolo 14 della Legge 29 ottobre 2021 n.183, l'applicazione di quanto previsto nei summenzionati decreto - legge e decreto delegato è sospesa sino all'adozione di apposito regolamento del Congresso di Stato, da assumersi entro il 31 dicembre 2022, volto a disciplinare i termini di esecuzione del precitato articolo 14 della Legge n.183/2021.
 
-2.
-
-Sino all'adozione del regolamento previsto al comma 1 oppure di eventuale atto di normazione di rango primario, le Stazioni Appaltanti sono tenute ad acquisire, ai fini dell’aggiudicazione di commesse di importo superiore ad euro 150.000,00 ed unicamente qualora nell'assetto societario dell'impresa aggiudicataria, sammarinese od estera, siano presenti partecipazioni in capo a società fiduciarie, sammarinesi od estere, dichiarazione sostitutiva di atto di notorietà contenente:
+2\. Sino all'adozione del regolamento previsto al comma 1 oppure di eventuale atto di normazione di rango primario, le Stazioni Appaltanti sono tenute ad acquisire, ai fini dell’aggiudicazione di commesse di importo superiore ad euro 150.000,00 ed unicamente qualora nell'assetto societario dell'impresa aggiudicataria, sammarinese od estera, siano presenti partecipazioni in capo a società fiduciarie, sammarinesi od estere, dichiarazione sostitutiva di atto di notorietà contenente:
 
 a) le generalità dei fiducianti;
 
@@ -1984,9 +1712,7 @@ b) per i provvedimenti di esclusione e i provvedimenti di aggiudicazione dalla l
 
 b) la misura della partecipazione a ciascuno ascrivibile nonché, ove diversi da persone fisiche, le generalità dei loro titolari effettivi.
 
-3.
-
-La dichiarazione sostitutiva di cui al comma 2 è sottoscritta, anche in deroga a quanto previsto dall’articolo 3, comma 2, della Legge 5 ottobre 2011 n.159, dal legale rappresentante della società aggiudicataria, il quale è soggetto, in caso di dichiarazioni false o mendaci, alla responsabilità penale di cui all’articolo 24 della Legge n.159/2011.
+3\. La dichiarazione sostitutiva di cui al comma 2 è sottoscritta, anche in deroga a quanto previsto dall’articolo 3, comma 2, della Legge 5 ottobre 2011 n.159, dal legale rappresentante della società aggiudicataria, il quale è soggetto, in caso di dichiarazioni false o mendaci, alla responsabilità penale di cui all’articolo 24 della Legge n.159/2011.
 
 Omissis”. 13 Testo originario (Decreto Delegato 2 marzo 2015 n.26)
 
@@ -1994,25 +1720,15 @@ Omissis”. 13 Testo originario (Decreto Delegato 2 marzo 2015 n.26)
 
 (Delibera di aggiudicazione)
 
-1.
+1\. La Stazione Appaltante in seguito alla valutazione delle offerte e della graduatoria stilata, individua l’impresa risultata miglior offerente.
 
-La Stazione Appaltante in seguito alla valutazione delle offerte e della graduatoria stilata, individua l’impresa risultata miglior offerente.
+2\. La Stazione Appaltante trasmette la delibera di aggiudicazione, unitamente all’autorizzazione di spesa ed agli atti della procedura, compreso lo schema del contratto di appalto, ove previsto, all’organo competente per il controllo preventivo di legittimità.
 
-2.
+3\. In caso di esito positivo, la delibera di aggiudicazione diviene efficace e il responsabile del procedimento comunica l’esito della gara all’impresa aggiudicataria ed a tutte le altre imprese utilmente collocatesi in graduatoria.
 
-La Stazione Appaltante trasmette la delibera di aggiudicazione, unitamente all’autorizzazione di spesa ed agli atti della procedura, compreso lo schema del contratto di appalto, ove previsto, all’organo competente per il controllo preventivo di legittimità.
+4\. In deroga a quanto previsto dall’articolo 13, comma secondo, della Legge 28 giugno 1989 n.68 la delibera di aggiudicazione può essere impugnata dinanzi al Tribunale Amministrativo nel termine perentorio di trenta giorni dalla sua comunicazione.
 
-3.
-
-In caso di esito positivo, la delibera di aggiudicazione diviene efficace e il responsabile del procedimento comunica l’esito della gara all’impresa aggiudicataria ed a tutte le altre imprese utilmente collocatesi in graduatoria.
-
-4.
-
-In deroga a quanto previsto dall’articolo 13, comma secondo, della Legge 28 giugno 1989 n.68 la delibera di aggiudicazione può essere impugnata dinanzi al Tribunale Amministrativo nel termine perentorio di trenta giorni dalla sua comunicazione.
-
-5.
-
-Nel caso in cui l’espletamento del procedimento dovesse evidenziare l’impossibilità di procedere entro i limiti dell’impegno assunto, la Stazione Appaltante può procedere alla sottoscrizione di un contratto di importo limitato alla somma disponibile.
+5\. Nel caso in cui l’espletamento del procedimento dovesse evidenziare l’impossibilità di procedere entro i limiti dell’impegno assunto, la Stazione Appaltante può procedere alla sottoscrizione di un contratto di importo limitato alla somma disponibile.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 11 (Modifiche all’articolo 24 del Decreto Delegato n.26/2015)
 
@@ -2050,21 +1766,13 @@ PROCEDURE SPECIALI
 
 (Servizi e forniture ricorrenti)
 
-1.
+1\. La Stazione Appaltante può stipulare con singole imprese, regolarmente iscritte nel Registro dei Fornitori, associazioni temporanee di imprese, consorzi ed associazioni di categoria, accordi commerciali quadro tesi a definire il listino prezzi relativi alla fornitura o somministrazione di beni o servizi ricorrenti durante l’anno per una o più UO, Dipartimenti, Aziende Autonome ed Enti del Settore Pubblico Allargato.
 
-La Stazione Appaltante può stipulare con singole imprese, regolarmente iscritte nel Registro dei Fornitori, associazioni temporanee di imprese, consorzi ed associazioni di categoria, accordi commerciali quadro tesi a definire il listino prezzi relativi alla fornitura o somministrazione di beni o servizi ricorrenti durante l’anno per una o più UO, Dipartimenti, Aziende Autonome ed Enti del Settore Pubblico Allargato.
+2\. I listini prezzi definiti a mente del comma 1 hanno validità annuale secondo quanto previsto nell’ambito dell’accordo commerciale e sono applicati alle forniture o somministrazioni effettuate durante il periodo di validità dell’accordo medesimo.
 
-2.
+3\. Gli accordi di cui al comma 1 sono stipulati con imprese che abbiano manifestato la propria accettazione dei listini prezzi definiti dalla Stazione Appaltante.
 
-I listini prezzi definiti a mente del comma 1 hanno validità annuale secondo quanto previsto nell’ambito dell’accordo commerciale e sono applicati alle forniture o somministrazioni effettuate durante il periodo di validità dell’accordo medesimo.
-
-3.
-
-Gli accordi di cui al comma 1 sono stipulati con imprese che abbiano manifestato la propria accettazione dei listini prezzi definiti dalla Stazione Appaltante.
-
-4.
-
-Nel caso di pluralità di imprese che abbiano manifestato la propria accettazione, le singole prestazioni sono affidate alle imprese secondo criteri di trasparenza, rotazione, parità di trattamento e proporzionalità.
+4\. Nel caso di pluralità di imprese che abbiano manifestato la propria accettazione, le singole prestazioni sono affidate alle imprese secondo criteri di trasparenza, rotazione, parità di trattamento e proporzionalità.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 13 (Modifiche al Capo III del Decreto Delegato n.26/2015)
 
@@ -2298,9 +2006,7 @@ d) se l’appalto è stato aggiudicato mediante asta elettronica.
 
 10\. In ragione di peculiari modalità di perfezionamento del contratto con particolare riferimento ai rapporti contrattuali di importo non superiore ad euro 15.000,00 definiti tramite sistemi informatici possono essere individuate tipologie di beni e servizi per i quali non occorre lo scambio di note ai sensi di quanto previsto al comma
 
-8.
-
-11\. L’individuazione di tali tipologie di beni e servizi è definita nell’ambito del programma di approvvigionamento oppure mediante delibera del Congresso di Stato, su proposta obbligatoria e motivata delle Stazioni Appaltanti.
+8\. 11. L’individuazione di tali tipologie di beni e servizi è definita nell’ambito del programma di approvvigionamento oppure mediante delibera del Congresso di Stato, su proposta obbligatoria e motivata delle Stazioni Appaltanti.
 
 12\. I contratti perfezionati con le modalità di cui ai commi 10 e 11 sono esenti da qualsiasi imposta indiretta.15 15 Testo originario (Decreto Delegato n. 26/2015)
 
@@ -2308,25 +2014,15 @@ d) se l’appalto è stato aggiudicato mediante asta elettronica.
 
 (Stipulazione dei contratti)
 
-1.
+1\. La Stazione Appaltante, divenuta inoppugnabile la delibera di aggiudicazione di cui all’articolo 24, procede, in relazione ad appalti il cui importo sia superiore ad euro 15.000,00 alla sottoscrizione del contratto con l’impresa aggiudicataria.
 
-La Stazione Appaltante, divenuta inoppugnabile la delibera di aggiudicazione di cui all’articolo 24, procede, in relazione ad appalti il cui importo sia superiore ad euro 15.000,00 alla sottoscrizione del contratto con l’impresa aggiudicataria.
+2\. Il contratto è redatto in forma scritta ed è sottoscritto da entrambe le parti in due originali, di cui una copia fotostatica è consegnata all’impresa aggiudicataria dopo la registrazione.
 
-2.
+3\. Il contratto riporta in maniera puntuale ed esauriente la descrizione della prestazione, in termini sia quantitativi che qualitativi.
 
-Il contratto è redatto in forma scritta ed è sottoscritto da entrambe le parti in due originali, di cui una copia fotostatica è consegnata all’impresa aggiudicataria dopo la registrazione.
+4\. Nel caso di appalti il cui importo non sia superiore ad euro 15.000,00 il contratto è formalizzato mediante scambio di lettere commerciali fra Stazione Appaltante ed impresa.
 
-3.
-
-Il contratto riporta in maniera puntuale ed esauriente la descrizione della prestazione, in termini sia quantitativi che qualitativi.
-
-4.
-
-Nel caso di appalti il cui importo non sia superiore ad euro 15.000,00 il contratto è formalizzato mediante scambio di lettere commerciali fra Stazione Appaltante ed impresa.
-
-5.
-
-Il contratto di appalto, sottoscritto da entrambe le parti, è immediatamente efficace.
+5\. Il contratto di appalto, sottoscritto da entrambe le parti, è immediatamente efficace.
 
 ##### Art. 26-bis
 
@@ -2342,9 +2038,7 @@ c) sia dichiarata la nullità del contratto ai sensi dell’articolo 24 della Le
 
 2\. La Stazione appaltante ha, altresì, la facoltà di dichiarare la decadenza dal contratto nei seguenti casi:
 
-6.
-
-L’impresa appaltatrice può decadere o decade dal contratto secondo quanto previsto dall’articolo 23 del Decreto - Legge n.156/2011.
+6\. L’impresa appaltatrice può decadere o decade dal contratto secondo quanto previsto dall’articolo 23 del Decreto - Legge n.156/2011.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 12 (Modifiche all’articolo 26 del Decreto Delegato n.26/2015)
 
@@ -2472,29 +2166,17 @@ b) l’impresa iscritta al Registro dei Fornitori è cancellata dal medesimo Reg
 
 4\. Qualora la prestazione sia da rendere all’estero da soggetto residente all’estero, è dovuta l’imposta fissa in misura minima e pertanto il contratto, secondo le regole generali, non è soggetto a registrazione a termine fisso.”.
 
-1.
+1\. L’impresa aggiudicataria, per importi superiori ad euro 25.000,00, è obbligata a costituire una cauzione per l’esecuzione del contratto.
 
-L’impresa aggiudicataria, per importi superiori ad euro 25.000,00, è obbligata a costituire una cauzione per l’esecuzione del contratto.
+2\. La cauzione, di importo pari al 10% dell’offerta presentata, è costituita da una fideiussione rilasciata da primario istituto di credito o da compagnia di assicurazione.
 
-2.
+3\. La cauzione definitiva è depositata all’atto della firma del contratto e ha validità per l’intera durata della fornitura o servizio, fino al collaudo18 o alle verifiche di conformità.
 
-La cauzione, di importo pari al 10% dell’offerta presentata, è costituita da una fideiussione rilasciata da primario istituto di credito o da compagnia di assicurazione.
+4\. La Stazione Appaltante ha facoltà, tenuto conto delle caratteristiche della prestazione richiesta e delle modalità e condizioni di esecuzione della stessa, di procedere alla progressiva diminuzione della cauzione sulla base dell’avanzamento dello stato di esecuzione della prestazione, secondo quanto previsto nel capitolato speciale di appalto, fermo restando lo svincolo del 25% dell’importo della cauzione all’atto del collaudo19 o delle verifiche di conformità.
 
-3.
+5\. L’impresa aggiudicataria che non si presenta ovvero si rifiuta di prestare la cauzione di cui al comma 1, decade dall’aggiudicazione; in tale caso la Stazione Appaltante, incamera la cauzione di cui all’articolo 20 e può procedere alla sottoscrizione del contratto con l’impresa risultata seconda migliore offerente in graduatoria.
 
-La cauzione definitiva è depositata all’atto della firma del contratto e ha validità per l’intera durata della fornitura o servizio, fino al collaudo18 o alle verifiche di conformità.
-
-4.
-
-La Stazione Appaltante ha facoltà, tenuto conto delle caratteristiche della prestazione richiesta e delle modalità e condizioni di esecuzione della stessa, di procedere alla progressiva diminuzione della cauzione sulla base dell’avanzamento dello stato di esecuzione della prestazione, secondo quanto previsto nel capitolato speciale di appalto, fermo restando lo svincolo del 25% dell’importo della cauzione all’atto del collaudo19 o delle verifiche di conformità.
-
-5.
-
-L’impresa aggiudicataria che non si presenta ovvero si rifiuta di prestare la cauzione di cui al comma 1, decade dall’aggiudicazione; in tale caso la Stazione Appaltante, incamera la cauzione di cui all’articolo 20 e può procedere alla sottoscrizione del contratto con l’impresa risultata seconda migliore offerente in graduatoria.
-
-6.
-
-Il Congresso di Stato con proprio Regolamento, adottato su proposta obbligatoria e debitamente motivata della Stazione Appaltante, può individuare tipologie di gare di appalto in relazione alle quali, in considerazione delle caratteristiche della specifica fornitura e somministrazione di beni e/o servizi e/o dell’impresa, l’obbligo di prestazione dei depositi cauzionali di cui agli articoli 20 e 27 possa essere escluso.20 18
+6\. Il Congresso di Stato con proprio Regolamento, adottato su proposta obbligatoria e debitamente motivata della Stazione Appaltante, può individuare tipologie di gare di appalto in relazione alle quali, in considerazione delle caratteristiche della specifica fornitura e somministrazione di beni e/o servizi e/o dell’impresa, l’obbligo di prestazione dei depositi cauzionali di cui agli articoli 20 e 27 possa essere escluso.20 18
 
 Decreto delegato 4 marzo 2019 n. 42, Articolo 23 (Disposizioni di raccordo del Decreto Delegato n.26/2015)
 
@@ -2512,49 +2194,31 @@ Decreto delegato 4 marzo 2019 n. 42, Articolo 23 (Disposizioni di raccordo del D
 
 (Deposito cauzionale a garanzia della corretta esecuzione del contratto)
 
-1.
+1\. L’impresa aggiudicataria, per importi superiori ad euro 15.000,00, è obbligata a costituire una cauzione per l’esecuzione del contratto.
 
-L’impresa aggiudicataria, per importi superiori ad euro 15.000,00, è obbligata a costituire una cauzione per l’esecuzione del contratto.
+2\. La cauzione, di importo pari al 10% dell’offerta presentata, è costituita da una fideiussione rilasciata da primario istituto di credito o da compagnia di assicurazione.
 
-2.
+3\. La cauzione definitiva è depositata all’atto della firma del contratto e ha validità per l’intera durata della fornitura o servizio, fino al collaudo o alle verifiche di conformità.
 
-La cauzione, di importo pari al 10% dell’offerta presentata, è costituita da una fideiussione rilasciata da primario istituto di credito o da compagnia di assicurazione.
-
-3.
-
-La cauzione definitiva è depositata all’atto della firma del contratto e ha validità per l’intera durata della fornitura o servizio, fino al collaudo o alle verifiche di conformità.
-
-4.
-
-La Stazione Appaltante ha facoltà, tenuto conto delle caratteristiche della prestazione richiesta e delle modalità e condizioni di esecuzione della stessa, di procedere alla progressiva diminuzione della cauzione sulla base dell’avanzamento dello stato di esecuzione della prestazione, secondo quanto
+4\. La Stazione Appaltante ha facoltà, tenuto conto delle caratteristiche della prestazione richiesta e delle modalità e condizioni di esecuzione della stessa, di procedere alla progressiva diminuzione della cauzione sulla base dell’avanzamento dello stato di esecuzione della prestazione, secondo quanto
 
 ##### Art.28
 
 (Ritenute di garanzia)
 
-1.
+1\. A titolo di garanzia dell’esatto adempimento del contratto, la Stazione Appaltante trattiene un decimo del compenso finale per una durata di diciotto mesi dopo l’atto di collaudo21.
 
-A titolo di garanzia dell’esatto adempimento del contratto, la Stazione Appaltante trattiene un decimo del compenso finale per una durata di diciotto mesi dopo l’atto di collaudo21.
-
-2.
-
-Il Congresso di Stato con proprio Regolamento, adottato su proposta obbligatoria della Stazione Appaltante, può individuare tipologie di gare di appalto in relazione alle quali, in considerazione delle caratteristiche della specifica fornitura e somministrazione di beni e/o servizi, l’obbligo della ritenuta di garanzia possa essere previsto per un periodo inferiore a quello stabilito al comma 1 ovvero escluso.
+2\. Il Congresso di Stato con proprio Regolamento, adottato su proposta obbligatoria della Stazione Appaltante, può individuare tipologie di gare di appalto in relazione alle quali, in considerazione delle caratteristiche della specifica fornitura e somministrazione di beni e/o servizi, l’obbligo della ritenuta di garanzia possa essere previsto per un periodo inferiore a quello stabilito al comma 1 ovvero escluso.
 
 ##### Art.29
 
 (Copertura assicurativa)
 
-1.
+1\. L’appaltatore è tenuto a stipulare una polizza assicurativa che tenga indenne la Stazione Appaltante da tutti i rischi derivanti dall’esecuzione della prestazione da qualsiasi causa determinati, salvo quelli derivanti da errori del capitolato speciale di appalto e da cause di forza maggiore.
 
-L’appaltatore è tenuto a stipulare una polizza assicurativa che tenga indenne la Stazione Appaltante da tutti i rischi derivanti dall’esecuzione della prestazione da qualsiasi causa determinati, salvo quelli derivanti da errori del capitolato speciale di appalto e da cause di forza maggiore.
+2\. La polizza assicurativa di cui al comma 1 deve, altresì, coprire il rischio derivante dalla responsabilità civile per danni a cose, di proprietà della Stazione Appaltante o di terzi, nonché per danni a terzi nell’esecuzione delle prestazioni dedotte nel contratto sino alla data di emissione del certificato positivo di collaudo22 previsto nel capitolato speciale di appalto, fermo restando lo svincolo del 25% dell’importo della cauzione all’atto del collaudo o delle verifiche di conformità.
 
-2.
-
-La polizza assicurativa di cui al comma 1 deve, altresì, coprire il rischio derivante dalla responsabilità civile per danni a cose, di proprietà della Stazione Appaltante o di terzi, nonché per danni a terzi nell’esecuzione delle prestazioni dedotte nel contratto sino alla data di emissione del certificato positivo di collaudo22 previsto nel capitolato speciale di appalto, fermo restando lo svincolo del 25% dell’importo della cauzione all’atto del collaudo o delle verifiche di conformità.
-
-5.
-
-L’impresa aggiudicataria che non si presenta ovvero si rifiuta di prestare la cauzione di cui al comma 1, decade dall’aggiudicazione; in tale caso la Stazione Appaltante, incamera la cauzione di cui all’articolo 20 e può procedere alla sottoscrizione del contratto con l’impresa risultata seconda migliore offerente in graduatoria MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Art. 15 (Modifiche all’articolo 27 del Decreto Delegato n.26/2015)
+5\. L’impresa aggiudicataria che non si presenta ovvero si rifiuta di prestare la cauzione di cui al comma 1, decade dall’aggiudicazione; in tale caso la Stazione Appaltante, incamera la cauzione di cui all’articolo 20 e può procedere alla sottoscrizione del contratto con l’impresa risultata seconda migliore offerente in graduatoria MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Art. 15 (Modifiche all’articolo 27 del Decreto Delegato n.26/2015)
 
 1\. L’articolo 27, comma 1 del Decreto Delegato n.26/2015 e successive modifiche è così modificato:
 
@@ -2574,13 +2238,9 @@ Decreto delegato 4 marzo 2019 n. 42, Articolo 23 (Disposizioni di raccordo del D
 
 o della verifica di conformità.
 
-3.
+3\. E’ facoltà della Stazione Appaltante provvedere, in presenza di forniture di rilevante valore o di particolare pregio, alla stipulazione di una polizza assicurativa specifica - denominata CAR (ContractAllRisk) - che garantisca da tutti i rischi derivanti dall’esecuzione della fornitura sia la Stazione Appaltante che le eventuali imprese coinvolte nell’esecuzione del contratto.
 
-E’ facoltà della Stazione Appaltante provvedere, in presenza di forniture di rilevante valore o di particolare pregio, alla stipulazione di una polizza assicurativa specifica - denominata CAR (ContractAllRisk) - che garantisca da tutti i rischi derivanti dall’esecuzione della fornitura sia la Stazione Appaltante che le eventuali imprese coinvolte nell’esecuzione del contratto.
-
-4.
-
-Il Congresso di Stato con proprio Regolamento, adottato su proposta obbligatoria della Stazione Appaltante, può individuare tipologie di gare di appalto in relazione alle quali, in considerazione delle caratteristiche della specifica fornitura e somministrazione di beni e/o servizi, l’obbligo della copertura assicurativa possa essere escluso ovvero l’estensione della stessa possa essere variata.
+4\. Il Congresso di Stato con proprio Regolamento, adottato su proposta obbligatoria della Stazione Appaltante, può individuare tipologie di gare di appalto in relazione alle quali, in considerazione delle caratteristiche della specifica fornitura e somministrazione di beni e/o servizi, l’obbligo della copertura assicurativa possa essere escluso ovvero l’estensione della stessa possa essere variata.
 
 #### Sezione II
 
@@ -2590,13 +2250,9 @@ Esecuzione del contratto
 
 (Direttore dell’esecuzione)
 
-1.
+1\. La Stazione Appaltante verifica il regolare andamento dell’esecuzione del contratto da parte dell’impresa attraverso il responsabile del procedimento che assume la veste di direttore dell’esecuzione.
 
-La Stazione Appaltante verifica il regolare andamento dell’esecuzione del contratto da parte dell’impresa attraverso il responsabile del procedimento che assume la veste di direttore dell’esecuzione.
-
-2.
-
-Nel caso di prestazioni particolarmente complesse sotto il profilo tecnologico o qualitativo, la Stazione Appaltante, dopo aver reso documentazione dettagliata ed approfondita sulle motivazioni che richiedono l’affidamento dei compiti ad un soggetto diverso dal responsabile del procedimento, può nominare uno o più soggetti, anche esterni all’Amministrazione, cui affidare le attività di competenza del direttore dell’esecuzione.
+2\. Nel caso di prestazioni particolarmente complesse sotto il profilo tecnologico o qualitativo, la Stazione Appaltante, dopo aver reso documentazione dettagliata ed approfondita sulle motivazioni che richiedono l’affidamento dei compiti ad un soggetto diverso dal responsabile del procedimento, può nominare uno o più soggetti, anche esterni all’Amministrazione, cui affidare le attività di competenza del direttore dell’esecuzione.
 
 3\. Il direttore dell’esecuzione:
 
@@ -2628,29 +2284,19 @@ direttore dell’esecuzione copia degli atti di gara, del contratto ed ogni altr
 
 (Inizio esecuzione)
 
-1.
+1\. Fatto salvo quanto previsto al comma 3, l’esecuzione del contratto ha luogo solo quando lo stesso è sottoscritto e efficace.
 
-Fatto salvo quanto previsto al comma 3, l’esecuzione del contratto ha luogo solo quando lo stesso è sottoscritto e efficace.
-
-2.
-
-Il capitolato speciale o altro documento contrattuale può subordinare l’avvio dell’esecuzione del contratto alla redazione di apposito verbale di avvio in contraddittorio con l’impresa esecutrice. 23 Testo originario (Decreto Delegato n. 26/2015)
+2\. Il capitolato speciale o altro documento contrattuale può subordinare l’avvio dell’esecuzione del contratto alla redazione di apposito verbale di avvio in contraddittorio con l’impresa esecutrice. 23 Testo originario (Decreto Delegato n. 26/2015)
 
 ##### Art.30
 
 (Direttore dell’esecuzione)
 
-1.
+1\. La Stazione Appaltante verifica il regolare andamento dell’esecuzione del contratto da parte dell’impresa attraverso il responsabile del procedimento che assume la veste di direttore dell’esecuzione.
 
-La Stazione Appaltante verifica il regolare andamento dell’esecuzione del contratto da parte dell’impresa attraverso il responsabile del procedimento che assume la veste di direttore dell’esecuzione.
+2\. Nel caso di prestazioni particolarmente complesse sotto il profilo tecnologico o qualitativo, la Stazione Appaltante, dopo aver reso documentazione dettagliata ed approfondita sulle motivazioni che richiedono l’affidamento dei compiti ad un soggetto diverso dal responsabile del procedimento, può nominare uno o più soggetti, anche esterni all’Amministrazione, cui affidare le attività di competenza del direttore dell’esecuzione.
 
-2.
-
-Nel caso di prestazioni particolarmente complesse sotto il profilo tecnologico o qualitativo, la Stazione Appaltante, dopo aver reso documentazione dettagliata ed approfondita sulle motivazioni che richiedono l’affidamento dei compiti ad un soggetto diverso dal responsabile del procedimento, può nominare uno o più soggetti, anche esterni all’Amministrazione, cui affidare le attività di competenza del direttore dell’esecuzione.
-
-3.
-
-Il direttore dell’esecuzione:
+3\. Il direttore dell’esecuzione:
 
 a) sovraintende alla regolare esecuzione del contratto da parte dell’impresa, verificando che le attività e le prestazioni contrattuali siano eseguite in conformità dei documenti contrattuali;
 
@@ -2696,125 +2342,79 @@ h) è responsabile di tutti gli atti che attengono alla fase di esecuzione del c
 
 “4. Nell’ipotesi di cui al comma 2 il responsabile del procedimento trasmette al direttore dell’esecuzione copia degli atti di gara, del contratto ed ogni altra documentazione ritenuta necessaria per l’espletamento dell’incarico.”.
 
-3.
-
-Se la delibera di aggiudicazione è divenuta efficace ai sensi dell’articolo 24, comma 3, la Stazione Appaltante può autorizzare l’esecuzione della prestazione prima della sottoscrizione del contratto, nelle seguenti ipotesi:
+3\. Se la delibera di aggiudicazione è divenuta efficace ai sensi dell’articolo 24, comma 3, la Stazione Appaltante può autorizzare l’esecuzione della prestazione prima della sottoscrizione del contratto, nelle seguenti ipotesi:
 
 a) quando il contratto ha ad oggetto beni o servizi che, per la loro natura o per il luogo in cui deve essere eseguito il contratto, debbono essere immediatamente consegnati o svolti;
 
 b) in casi di comprovata urgenza.
 
-4.
+4\. La Stazione Appaltante autorizza l’esecuzione anticipata del contratto attraverso apposito provvedimento che indica in concreto i motivi che giustificano l’esecuzione anticipata.
 
-La Stazione Appaltante autorizza l’esecuzione anticipata del contratto attraverso apposito provvedimento che indica in concreto i motivi che giustificano l’esecuzione anticipata.
-
-5.
-
-Nei casi di cui al comma 3, nell’ipotesi di mancata stipulazione del contratto, la Stazione Appaltante tiene conto delle prestazioni eseguite dall’impresa per il rimborso delle relative spese.
+5\. Nei casi di cui al comma 3, nell’ipotesi di mancata stipulazione del contratto, la Stazione Appaltante tiene conto delle prestazioni eseguite dall’impresa per il rimborso delle relative spese.
 
 ##### Art.32
 
 (Ritardo nell’esecuzione del contratto)
 
-1.
+1\. Qualora l’avvio dell’esecuzione avvenga in ritardo rispetto al termine indicato nel contratto per fatto o colpa della Stazione Appaltante, l’impresa appaltatrice può chiedere di recedere dal contratto.
 
-Qualora l’avvio dell’esecuzione avvenga in ritardo rispetto al termine indicato nel contratto per fatto o colpa della Stazione Appaltante, l’impresa appaltatrice può chiedere di recedere dal contratto.
+2\. Nel caso di accoglimento dell’istanza di recesso l’impresa ha diritto al rimborso di tutte le spese effettivamente sostenute.
 
-2.
-
-Nel caso di accoglimento dell’istanza di recesso l’impresa ha diritto al rimborso di tutte le spese effettivamente sostenute.
-
-3.
-
-Ove l’istanza dell’impresa non sia accolta e si proceda tardivamente all’avvio dell’esecuzione del contratto, l’impresa ha diritto ad un compenso per i maggiori oneri derivanti dal ritardo, purché essi siano debitamente documentati ed effettivamente riconducibili al ritardo dell’avvio dell’esecuzione in questione.
+3\. Ove l’istanza dell’impresa non sia accolta e si proceda tardivamente all’avvio dell’esecuzione del contratto, l’impresa ha diritto ad un compenso per i maggiori oneri derivanti dal ritardo, purché essi siano debitamente documentati ed effettivamente riconducibili al ritardo dell’avvio dell’esecuzione in questione.
 
 ##### Art.33
 
 (Esecuzione)
 
-1.
+1\. L’impresa esecutrice adempie alle prestazioni convenute nel contratto con propri mezzi e personale, fatta salva l’ipotesi di cessione del contratto di cui all’articolo 15 della Legge n.49/2002.
 
-L’impresa esecutrice adempie alle prestazioni convenute nel contratto con propri mezzi e personale, fatta salva l’ipotesi di cessione del contratto di cui all’articolo 15 della Legge n.49/2002.
+2\. L’impresa esecutrice è responsabile nei confronti dei suoi dipendenti per l’adempimento di tutti gli obblighi di ordine legale, amministrativo, professionali e riguardanti la sicurezza e l’igiene sul lavoro vigenti.
 
-2.
+3\. La Stazione Appaltante può, in qualsiasi momento dell’esecuzione del contratto d’appalto, effettuare verifiche e/o controlli attraverso il responsabile del procedimento che in tutte le fasi di esecuzione del contratto assume il ruolo di direttore dell’esecuzione; egli accerta, verifica e monitora costantemente la corretta esecuzione delle prescrizioni contrattuali e ha cura di redigere un documento attestante gli esiti di ogni accesso di verifica.
 
-L’impresa esecutrice è responsabile nei confronti dei suoi dipendenti per l’adempimento di tutti gli obblighi di ordine legale, amministrativo, professionali e riguardanti la sicurezza e l’igiene sul lavoro vigenti.
+4\. Qualora durante le verifiche di cui al comma che precede venissero rilevate anomalie o inadempienze, il direttore dell’esecuzione è tenuto a segnalarne la natura nel documento di verifica onde consentire alla Stazione Appaltante di richiamare l’impresa esecutrice attraverso ordini di servizio.
 
-3.
-
-La Stazione Appaltante può, in qualsiasi momento dell’esecuzione del contratto d’appalto, effettuare verifiche e/o controlli attraverso il responsabile del procedimento che in tutte le fasi di esecuzione del contratto assume il ruolo di direttore dell’esecuzione; egli accerta, verifica e monitora costantemente la corretta esecuzione delle prescrizioni contrattuali e ha cura di redigere un documento attestante gli esiti di ogni accesso di verifica.
-
-4.
-
-Qualora durante le verifiche di cui al comma che precede venissero rilevate anomalie o inadempienze, il direttore dell’esecuzione è tenuto a segnalarne la natura nel documento di verifica onde consentire alla Stazione Appaltante di richiamare l’impresa esecutrice attraverso ordini di servizio.
-
-5.
-
-Dopo due richiami a mezzo di ordini di servizio, all’impresa esecutrice viene comminata una penale di Euro 500,00, che raddoppia in caso di recidiva.24 24 Testo originario (Decreto Delegato n. 26/2015)
+5\. Dopo due richiami a mezzo di ordini di servizio, all’impresa esecutrice viene comminata una penale di Euro 500,00, che raddoppia in caso di recidiva.24 24 Testo originario (Decreto Delegato n. 26/2015)
 
 ##### Art.33
 
 (Esecuzione)
 
-1.
-
-L’impresa esecutrice adempie alle prestazioni convenute nel contratto con propri mezzi e
+1\. L’impresa esecutrice adempie alle prestazioni convenute nel contratto con propri mezzi e
 
 ##### Art.34
 
 (Penali)
 
-1.
+1\. Fatto salvo quanto previsto all’articolo 52 della Legge n.49/2002, il contratto definisce le penali da applicare nel caso di ingiustificato ritardato adempimento o di inadempimento degli obblighi contrattuali in relazione alla tipologia, all’entità e alla complessità della prestazione convenuta.
 
-Fatto salvo quanto previsto all’articolo 52 della Legge n.49/2002, il contratto definisce le penali da applicare nel caso di ingiustificato ritardato adempimento o di inadempimento degli obblighi contrattuali in relazione alla tipologia, all’entità e alla complessità della prestazione convenuta.
+2\. Il pagamento delle penali dovute dall’impresa è disposto mediante incameramento della cauzione definitiva oppure mediante detrazione dai pagamenti dovuti.
 
-2.
+3\. Nel caso in cui la penale dovuta superi il dieci per cento dell’importo complessivamente pattuito, la Stazione Appaltante può risolvere il contratto per grave inadempimento.
 
-Il pagamento delle penali dovute dall’impresa è disposto mediante incameramento della cauzione definitiva oppure mediante detrazione dai pagamenti dovuti.
-
-3.
-
-Nel caso in cui la penale dovuta superi il dieci per cento dell’importo complessivamente pattuito, la Stazione Appaltante può risolvere il contratto per grave inadempimento.
-
-4.
-
-In nessun caso il ritardato adempimento o l’inadempimento degli obblighi contrattuali può comportare per lo Stato un aggravio dei costi sostenuti.
+4\. In nessun caso il ritardato adempimento o l’inadempimento degli obblighi contrattuali può comportare per lo Stato un aggravio dei costi sostenuti.
 
 ##### Art.35
 
 (Contabilità e pagamenti)
 
-1.
+1\. Il contratto indica i termini e le modalità di pagamento relativi alle prestazioni contrattuali.
 
-Il contratto indica i termini e le modalità di pagamento relativi alle prestazioni contrattuali.
-
-2.
-
-I pagamenti sono disposti previo accertamento da parte del direttore dell’esecuzione, del corretto adempimento, in termini di quantità e qualità, delle prestazioni dedotte in contratto. E’ facoltà dell’esecutore presentare contestazioni scritte alla Stazione Appaltante in occasione dei pagamenti.
+2\. I pagamenti sono disposti previo accertamento da parte del direttore dell’esecuzione, del corretto adempimento, in termini di quantità e qualità, delle prestazioni dedotte in contratto. E’ facoltà dell’esecutore presentare contestazioni scritte alla Stazione Appaltante in occasione dei pagamenti.
 
 ##### Art.36
 
 (Divieto di modifiche introdotte dall’impresa esecutrice)
 
-1.
+1\. Nessuna variazione o modifica al contratto né all’esecuzione delle attività che ineriscono alla fornitura di beni e/o servizi cui il contratto fa riferimento può essere personale, fatta salva l’ipotesi di cessione del contratto di cui all’articolo 15 della Legge n.49/2002.
 
-Nessuna variazione o modifica al contratto né all’esecuzione delle attività che ineriscono alla fornitura di beni e/o servizi cui il contratto fa riferimento può essere personale, fatta salva l’ipotesi di cessione del contratto di cui all’articolo 15 della Legge n.49/2002.
+2\. L’impresa esecutrice è responsabile nei confronti dei suoi dipendenti per l’adempimento di tutti gli obblighi di ordine legale, amministrativo, professionali e riguardanti la sicurezza e l’igiene sul lavoro vigenti.
 
-2.
+3\. La UO Acquisti, Servizi Generali e Logistica può, in qualsiasi momento dell’esecuzione del contratto d’appalto, effettuare verifiche e/o controlli attraverso il responsabile del procedimento che in tutte le fasi di esecuzione del contratto assume il ruolo di direttore dell’esecuzione; egli accerta, verifica e monitora costantemente la corretta esecuzione delle prescrizioni contrattuali e ha cura di redigere un documento attestante gli esiti di ogni accesso di verifica.
 
-L’impresa esecutrice è responsabile nei confronti dei suoi dipendenti per l’adempimento di tutti gli obblighi di ordine legale, amministrativo, professionali e riguardanti la sicurezza e l’igiene sul lavoro vigenti.
+4\. Qualora durante le verifiche di cui al comma che precede venissero rilevate anomalie o inadempienze, il direttore dell’esecuzione è tenuto a segnalarne la natura nel documento di verifica onde consentire alla Stazione Appaltante di richiamare l’impresa esecutrice attraverso ordini di servizio.
 
-3.
-
-La UO Acquisti, Servizi Generali e Logistica può, in qualsiasi momento dell’esecuzione del contratto d’appalto, effettuare verifiche e/o controlli attraverso il responsabile del procedimento che in tutte le fasi di esecuzione del contratto assume il ruolo di direttore dell’esecuzione; egli accerta, verifica e monitora costantemente la corretta esecuzione delle prescrizioni contrattuali e ha cura di redigere un documento attestante gli esiti di ogni accesso di verifica.
-
-4.
-
-Qualora durante le verifiche di cui al comma che precede venissero rilevate anomalie o inadempienze, il direttore dell’esecuzione è tenuto a segnalarne la natura nel documento di verifica onde consentire alla Stazione Appaltante di richiamare l’impresa esecutrice attraverso ordini di servizio.
-
-5.
-
-Dopo due richiami a mezzo di ordini di servizio, all’impresa esecutrice viene comminata una penale di Euro 500,00, che raddoppia in caso di recidiva.
+5\. Dopo due richiami a mezzo di ordini di servizio, all’impresa esecutrice viene comminata una penale di Euro 500,00, che raddoppia in caso di recidiva.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 23 (Disposizioni di raccordo del Decreto Delegato n.26/2015)
 
@@ -2824,21 +2424,15 @@ MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 23 (Disposiz
 
 introdotta dall’impresa se non precedentemente disposta dal direttore dell’esecuzione e preventivamente approvata dalla Stazione Appaltante nel rispetto delle condizioni e dei limiti previsti nell’articolo che segue.
 
-2.
-
-Le modifiche non previamente autorizzate non danno titolo a pagamenti o rimborsi di sorta e possono comportare la rimessa in pristino, a carico dell’impresa, della situazione originaria preesistente.
+2\. Le modifiche non previamente autorizzate non danno titolo a pagamenti o rimborsi di sorta e possono comportare la rimessa in pristino, a carico dell’impresa, della situazione originaria preesistente.
 
 ##### Art. 37
 
 (Varianti introdotte dalla Stazione Appaltante)
 
-1.
+1\. La Stazione Appaltante non può richiedere alcuna variazione ai contratti stipulati, se non nei casi di seguito previsti.
 
-La Stazione Appaltante non può richiedere alcuna variazione ai contratti stipulati, se non nei casi di seguito previsti.
-
-2.
-
-Ai sensi di quanto previsto dall’articolo 50 della Legge n.49/2002, la Stazione Appaltante può richiedere variazioni al contratto nei seguenti casi:
+2\. Ai sensi di quanto previsto dall’articolo 50 della Legge n.49/2002, la Stazione Appaltante può richiedere variazioni al contratto nei seguenti casi:
 
 a) per esigenze derivanti da sopravvenute disposizioni legislative e regolamentari;
 
@@ -2848,25 +2442,17 @@ c) per la presenza di eventi eccezionali ed imprevisti inerenti alla natura e al
 
 d) per migliorare le prestazioni oggetto del contratto, a condizione che le varianti non comportino modifiche sostanziali, e siano motivate da obiettive esigenze derivanti da circostanze sopravvenute e imprevedibili al momento della stipula del contratto e che siano richieste nell’esclusivo interesse della Stazione Appaltante.
 
-3.
+3\. Nei casi previsti al comma 2 la Stazione Appaltante può chiedere all’impresa una variazione in aumento o in diminuzione delle prestazioni fino a concorrenza di un quinto del prezzo complessivo previsto dal contratto che l’esecutore è tenuto ad eseguire alle stesse condizioni e prezzi del contratto originario senza diritto ad alcuna indennità ad eccezione del corrispettivo relativo alle nuove prestazioni. La variazione in aumento o in diminuzione delle prestazioni contrattuali è formalizzata tramite scambio di note commerciali, fatti salvi i casi di cui all’articolo 26, commi 10 e 11.
 
-Nei casi previsti al comma 2 la Stazione Appaltante può chiedere all’impresa una variazione in aumento o in diminuzione delle prestazioni fino a concorrenza di un quinto del prezzo complessivo previsto dal contratto che l’esecutore è tenuto ad eseguire alle stesse condizioni e prezzi del contratto originario senza diritto ad alcuna indennità ad eccezione del corrispettivo relativo alle nuove prestazioni. La variazione in aumento o in diminuzione delle prestazioni contrattuali è formalizzata tramite scambio di note commerciali, fatti salvi i casi di cui all’articolo 26, commi 10 e 11.
-
-4.
-
-In ogni caso l’impresa ha l’obbligo di eseguire le variazioni di carattere non sostanziale che siano ritenute opportune dalla Stazione Appaltante, a condizione che non mutino sostanzialmente la natura delle attività oggetto del contratto e non comportino a carico dell’impresa maggiori oneri.25 25 Testo originario (Decreto Delegato n. 26/2015)
+4\. In ogni caso l’impresa ha l’obbligo di eseguire le variazioni di carattere non sostanziale che siano ritenute opportune dalla Stazione Appaltante, a condizione che non mutino sostanzialmente la natura delle attività oggetto del contratto e non comportino a carico dell’impresa maggiori oneri.25 25 Testo originario (Decreto Delegato n. 26/2015)
 
 ##### Art.37
 
 (Varianti introdotte dalla Stazione Appaltante)
 
-1.
+1\. La UO Acquisti, Servizi Generali e Logistica non può richiedere alcuna variazione ai contratti stipulati, se non nei casi di seguito previsti.
 
-La UO Acquisti, Servizi Generali e Logistica non può richiedere alcuna variazione ai contratti stipulati, se non nei casi di seguito previsti.
-
-2.
-
-Ai sensi di quanto previsto dall’articolo 50 della Legge 27 marzo 2002 n. 49, la Stazione Appaltante può richiedere variazioni al contratto nei seguenti casi:
+2\. Ai sensi di quanto previsto dall’articolo 50 della Legge 27 marzo 2002 n. 49, la Stazione Appaltante può richiedere variazioni al contratto nei seguenti casi:
 
 a) per esigenze derivanti da sopravvenute disposizioni legislative e regolamentari;
 
@@ -2874,39 +2460,27 @@ b) per cause impreviste e imprevedibili debitamente documentate, accertate dal r
 
 c) per la presenza di eventi eccezionali ed imprevisti inerenti alla natura e alla specificità dei beni o dei luoghi sui quali si interviene, verificatisi nel corso di esecuzione del contratto.
 
-3.
-
-Nei casi previsti al comma 2 la Stazione Appaltante può chiedere all’impresa una variazione in
+3\. Nei casi previsti al comma 2 la Stazione Appaltante può chiedere all’impresa una variazione in
 
 ##### Art.38
 
 (Termini di esecuzione e sospensione)
 
-1.
+1\. Le prestazioni dedotte nel contratto sono adempiute dall’impresa nel termine fissato nel medesimo contratto.
 
-Le prestazioni dedotte nel contratto sono adempiute dall’impresa nel termine fissato nel medesimo contratto.
+2\. Qualora circostanze particolari impediscano temporaneamente la regolare esecuzione delle prestazioni oggetto del contratto, il direttore dell’esecuzione ne ordina la sospensione, indicando le ragioni e l’imputabilità delle medesime.
 
-2.
-
-Qualora circostanze particolari impediscano temporaneamente la regolare esecuzione delle prestazioni oggetto del contratto, il direttore dell’esecuzione ne ordina la sospensione, indicando le ragioni e l’imputabilità delle medesime.
-
-3.
-
-La sospensione delle prestazione di cui al comma 2 è ammessa:
+3\. La sospensione delle prestazione di cui al comma 2 è ammessa:
 
 a) in caso di forza maggiore; aumento o in diminuzione delle prestazioni fino a concorrenza di un quinto del prezzo complessivo previsto dal contratto che l’esecutore è tenuto ad eseguire, previa sottoscrizione di apposito atto, alle stesse condizioni e prezzi del contratto originario senza diritto ad alcuna indennità ad eccezione del corrispettivo relativo alle nuove prestazioni. Nel caso in cui la variazione superi tale limite, la Stazione Appaltante procede alla stipula di un atto aggiuntivo al contratto principale dopo aver acquisito il consenso dell’impresa.
 
-4.
-
-Sono ammesse, nell’esclusivo interesse della Stazione Appaltante, le varianti, in aumento o in diminuzione, finalizzate al miglioramento delle prestazioni oggetto del contratto, a condizione che tali varianti non comportino modifiche sostanziali e siano motivate da obiettive esigenze derivanti da circostanze sopravvenute e imprevedibili al momento della stipula del contratto.
+4\. Sono ammesse, nell’esclusivo interesse della Stazione Appaltante, le varianti, in aumento o in diminuzione, finalizzate al miglioramento delle prestazioni oggetto del contratto, a condizione che tali varianti non comportino modifiche sostanziali e siano motivate da obiettive esigenze derivanti da circostanze sopravvenute e imprevedibili al momento della stipula del contratto.
 
 L’importo in aumento o in diminuzione relativo a tali varianti non può superare un quinto dell’importo originario del contratto e deve trovare copertura nella somma stanziata per l’esecuzione della prestazione.
 
 Le varianti di cui al presente comma sono approvate dalla UO Acquisti, Servizi Generali e Logistica che, per mezzo del direttore dell’esecuzione, procede alla stipula di atti aggiuntivi.
 
-5.
-
-In ogni caso l’impresa ha l’obbligo di eseguire le variazioni di carattere non sostanziale che siano ritenute opportune dalla Stazione Appaltante, a condizione che non mutino sostanzialmente la natura delle attività oggetto del contratto e non comportino a carico dell’impresa maggiori oneri.
+5\. In ogni caso l’impresa ha l’obbligo di eseguire le variazioni di carattere non sostanziale che siano ritenute opportune dalla Stazione Appaltante, a condizione che non mutino sostanzialmente la natura delle attività oggetto del contratto e non comportino a carico dell’impresa maggiori oneri.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Art. 17 (Modifiche all’articolo 37 del Decreto Delegato n.26/2015)
 
@@ -2934,57 +2508,33 @@ b) in caso di sopraggiunte speciali circostanze non prevedibili al momento della
 
 c) in caso di pubblico interesse o necessità.
 
-4.
+4\. Il direttore dell’esecuzione, con l’intervento dell’impresa, compila il verbale di sospensione indicando le ragioni che hanno determinato l’interruzione delle prestazioni oggetto del contratto, le prestazioni già effettuate, le eventuali cautele per la ripresa dell’esecuzione del contratto senza che siano richiesti ulteriori oneri, i mezzi e gli strumenti esistenti che rimangono eventualmente nel luogo dove l’attività era in corso di svolgimento. Il verbale di sospensione è firmato dall’impresa e dal direttore dell’esecuzione.
 
-Il direttore dell’esecuzione, con l’intervento dell’impresa, compila il verbale di sospensione indicando le ragioni che hanno determinato l’interruzione delle prestazioni oggetto del contratto, le prestazioni già effettuate, le eventuali cautele per la ripresa dell’esecuzione del contratto senza che siano richiesti ulteriori oneri, i mezzi e gli strumenti esistenti che rimangono eventualmente nel luogo dove l’attività era in corso di svolgimento. Il verbale di sospensione è firmato dall’impresa e dal direttore dell’esecuzione.
+5\. I verbali di ripresa dell’esecuzione del contratto, da redigere a cura del direttore dell’esecuzione non appena sono venute a cessare le cause della sospensione, sono firmati dall’impresa ed eventualmente inviati al responsabile del procedimento nei modi e nei termini di cui al comma 4. Nel verbale di ripresa il direttore indica il nuovo termine ultimo di esecuzione del contratto, calcolato tenendo in considerazione la durata della sospensione e gli effetti da questa prodotti.
 
-5.
+6\. Non sono ammesse ulteriori sospensioni.
 
-I verbali di ripresa dell’esecuzione del contratto, da redigere a cura del direttore dell’esecuzione non appena sono venute a cessare le cause della sospensione, sono firmati dall’impresa ed eventualmente inviati al responsabile del procedimento nei modi e nei termini di cui al comma 4. Nel verbale di ripresa il direttore indica il nuovo termine ultimo di esecuzione del contratto, calcolato tenendo in considerazione la durata della sospensione e gli effetti da questa prodotti.
-
-6.
-
-Non sono ammesse ulteriori sospensioni.
-
-7.
-
-L’impresa esecutrice è responsabile della tenuta in sicurezza degli ambienti in cui si svolge l’esecuzione del contratto anche durante la sospensione di cui al presente articolo.
+7\. L’impresa esecutrice è responsabile della tenuta in sicurezza degli ambienti in cui si svolge l’esecuzione del contratto anche durante la sospensione di cui al presente articolo.
 
 ##### Art. 38-bis
 
 (Subappalto e cessione del contratto)
 
-1.
+1\. In conformità a quanto previsto dagli articoli 13 e 15 della Legge n.49/2002 e dell’articolo 33, comma 1, l’impresa adempie alle prestazioni convenute nel contratto con propri mezzi e personale, fatta salve le ipotesi di subappalto e cessione del contratto che devono essere preventivamente ed espressamente autorizzate dalla Stazione Appaltante.
 
-In conformità a quanto previsto dagli articoli 13 e 15 della Legge n.49/2002 e dell’articolo 33, comma 1, l’impresa adempie alle prestazioni convenute nel contratto con propri mezzi e personale, fatta salve le ipotesi di subappalto e cessione del contratto che devono essere preventivamente ed espressamente autorizzate dalla Stazione Appaltante.
+2\. Il subappalto e la cessione di contratto possono essere autorizzati, esclusivamente sino ad una quota parte della fornitura o somministrazione non superiore al 30 % dell’importo del contratto, nei confronti sia di impresa iscritta nel Registro dei Fornitori sia di impresa non iscritta; in quest’ultimo caso l’impresa subappaltatrice o cessionaria è tenuta, ai fini del rilascio della predetta autorizzazione, e con riferimento ad appalti di valore superiore alle soglie minime di cui all’articolo 9, comma 7, a documentare alla Stazione Appaltante il possesso dei requisiti previsti per le imprese iscritte al Registro dei Fornitori.
 
-2.
+3\. La Stazione Appaltante non può autorizzare né il subappalto né la cessione del contratto nei confronti di imprese che hanno partecipato alla gara d’appalto.
 
-Il subappalto e la cessione di contratto possono essere autorizzati, esclusivamente sino ad una quota parte della fornitura o somministrazione non superiore al 30 % dell’importo del contratto, nei confronti sia di impresa iscritta nel Registro dei Fornitori sia di impresa non iscritta; in quest’ultimo caso l’impresa subappaltatrice o cessionaria è tenuta, ai fini del rilascio della predetta autorizzazione, e con riferimento ad appalti di valore superiore alle soglie minime di cui all’articolo 9, comma 7, a documentare alla Stazione Appaltante il possesso dei requisiti previsti per le imprese iscritte al Registro dei Fornitori.
+4\. In relazione alle prestazioni affidate in subappalto l’impresa appaltatrice è tenuta a praticare nei confronti del subappaltatore un prezzo complessivo che preveda un ribasso non superiore al venti per cento rispetto al prezzo di aggiudicazione. Resta fermo quanto previsto dall’articolo 22, commi 2 e 4.
 
-3.
+5\. Parimenti il prezzo di cessione del contratto di fornitura non può superare il venti per cento del valore della quota parte del contratto ceduto.
 
-La Stazione Appaltante non può autorizzare né il subappalto né la cessione del contratto nei confronti di imprese che hanno partecipato alla gara d’appalto.
+6\. L’impresa autorizzata al subappalto o alla cessione del contratto deposita presso la Stazione Appaltante lo schema di contratto di subappalto o cessione almeno cinque giorni prima della sua sottoscrizione.
 
-4.
+7\. L’esecuzione delle prestazioni affidate in subappalto non può formare oggetto di ulteriore subappalto.
 
-In relazione alle prestazioni affidate in subappalto l’impresa appaltatrice è tenuta a praticare nei confronti del subappaltatore un prezzo complessivo che preveda un ribasso non superiore al venti per cento rispetto al prezzo di aggiudicazione. Resta fermo quanto previsto dall’articolo 22, commi 2 e 4.
-
-5.
-
-Parimenti il prezzo di cessione del contratto di fornitura non può superare il venti per cento del valore della quota parte del contratto ceduto.
-
-6.
-
-L’impresa autorizzata al subappalto o alla cessione del contratto deposita presso la Stazione Appaltante lo schema di contratto di subappalto o cessione almeno cinque giorni prima della sua sottoscrizione.
-
-7.
-
-L’esecuzione delle prestazioni affidate in subappalto non può formare oggetto di ulteriore subappalto.
-
-8.
-
-Il regime di responsabilità di cui all’articolo 25 della Legge n.49/2002 è applicato nei medesimi termini anche nei confronti del subappaltatore.26
+8\. Il regime di responsabilità di cui all’articolo 25 della Legge n.49/2002 è applicato nei medesimi termini anche nei confronti del subappaltatore.26
 
 ##### Art.39
 
@@ -3020,9 +2570,7 @@ TESTO ORIGINARIO Decreto Delegato 4 marzo 2019 n. 42
 
 (Ultimazione dell’esecuzione)
 
-1.
-
-Ultimato l’adempimento delle prestazioni dedotte nel contratto, l’impresa ne dà comunicazione al direttore dell’esecuzione che rilascia l’attestazione di avvenuta ultimazione delle prestazioni e procede alla verifica di conformità con le modalità indicate negli articoli che seguono.
+1\. Ultimato l’adempimento delle prestazioni dedotte nel contratto, l’impresa ne dà comunicazione al direttore dell’esecuzione che rilascia l’attestazione di avvenuta ultimazione delle prestazioni e procede alla verifica di conformità con le modalità indicate negli articoli che seguono.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42
 
@@ -3048,21 +2596,13 @@ Verifica di conformità
 
 (Oggetto delle attività di verifica di conformità)
 
-1.
+1\. I contratti pubblici di forniture e di servizi sono soggetti a verifica di conformità al fine di accertarne la regolare esecuzione, rispetto alle condizioni ed ai termini stabiliti nel contratto.
 
-I contratti pubblici di forniture e di servizi sono soggetti a verifica di conformità al fine di accertarne la regolare esecuzione, rispetto alle condizioni ed ai termini stabiliti nel contratto.
+2\. Le attività di verifica di conformità sono dirette a certificare che le prestazioni contrattuali siano state eseguite a regola d’arte sotto il profilo tecnico e funzionale, in conformità e nel rispetto delle condizioni, modalità, termini e prescrizioni del contratto, nonché nel rispetto delle eventuali leggi di settore. Le attività di verifica hanno, altresì, lo scopo di accertare che i dati risultanti dalla contabilità e dai documenti giustificativi corrispondano fra loro e con le risultanze di fatto, fermi restando gli eventuali accertamenti tecnici previsti dalle leggi di settore.
 
-2.
+3\. Nei casi in cui le particolari caratteristiche dell’oggetto contrattuale non consentano la verifica di conformità per la totalità delle prestazioni contrattuali, è fatta salva la possibilità di effettuare, in relazione alla natura dei beni e dei servizi ed al loro valore, controlli a campione con modalità comunque idonee a garantire la verifica dell’esecuzione contrattuale.
 
-Le attività di verifica di conformità sono dirette a certificare che le prestazioni contrattuali siano state eseguite a regola d’arte sotto il profilo tecnico e funzionale, in conformità e nel rispetto delle condizioni, modalità, termini e prescrizioni del contratto, nonché nel rispetto delle eventuali leggi di settore. Le attività di verifica hanno, altresì, lo scopo di accertare che i dati risultanti dalla contabilità e dai documenti giustificativi corrispondano fra loro e con le risultanze di fatto, fermi restando gli eventuali accertamenti tecnici previsti dalle leggi di settore.
-
-3.
-
-Nei casi in cui le particolari caratteristiche dell’oggetto contrattuale non consentano la verifica di conformità per la totalità delle prestazioni contrattuali, è fatta salva la possibilità di effettuare, in relazione alla natura dei beni e dei servizi ed al loro valore, controlli a campione con modalità comunque idonee a garantire la verifica dell’esecuzione contrattuale.
-
-4.
-
-Fermo restando il rilascio del certificato di verifica di conformità28 di cui al successivo articolo [49]29, nei casi in cui particolari caratteristiche dell’oggetto contrattuale non consentano l’effettuazione delle attività di verifica di conformità secondo le norme della presente sezione, la Stazione Appaltante segue tali attività in forma semplificata facendo ricorso alle certificazioni di qualità, ove esistenti, ovvero a documentazioni di contenuto analogo, attestanti la conformità delle prestazioni contrattuali eseguite alle prescrizioni contrattuali.
+4\. Fermo restando il rilascio del certificato di verifica di conformità28 di cui al successivo articolo [49]29, nei casi in cui particolari caratteristiche dell’oggetto contrattuale non consentano l’effettuazione delle attività di verifica di conformità secondo le norme della presente sezione, la Stazione Appaltante segue tali attività in forma semplificata facendo ricorso alle certificazioni di qualità, ove esistenti, ovvero a documentazioni di contenuto analogo, attestanti la conformità delle prestazioni contrattuali eseguite alle prescrizioni contrattuali.
 
 ##### Art.41
 
@@ -3092,37 +2632,27 @@ Regolamento 7 marzo 2019 n. 3, articolo 25 (comma 2)
 
 (Termini delle attività di verifica di conformità)
 
-1.
+1\. La verifica di conformità è avviata, fatto salvo quanto previsto dall'articolo 44, comma 1, entro il termine previsto dal contratto
 
-La verifica di conformità è avviata, fatto salvo quanto previsto dall'articolo 44, comma 1, entro il termine previsto dal contratto
-
-2.
-
-E’ obbligatoria la verifica di conformità in corso di esecuzione, sempre che non sussistano le condizioni per il rilascio dell’attestazione di regolare esecuzione:
+2\. E’ obbligatoria la verifica di conformità in corso di esecuzione, sempre che non sussistano le condizioni per il rilascio dell’attestazione di regolare esecuzione:
 
 a) nei casi in cui per la natura dei prodotti da fornire o dei servizi da prestare sia possibile soltanto l’effettuazione di una verifica di conformità in corso di esecuzione contrattuale;
 
 b) nel caso di appalto di forniture e di servizi con prestazioni continuative, secondo i criteri di periodicità stabiliti nel contratto.
 
-3.
-
-In tutti gli altri casi, tenuto conto della natura delle prestazioni, del contenuto del contratto e di ogni altra circostanza, resta ferma la facoltà della Stazione Appaltante di procedere a verifica di conformità in corso di esecuzione al fine di accertare la piena e corretta esecuzione delle prestazioni contrattuali, con la cadenza adeguata per un accertamento progressivo della regolare esecuzione delle prestazioni. 30
+3\. In tutti gli altri casi, tenuto conto della natura delle prestazioni, del contenuto del contratto e di ogni altra circostanza, resta ferma la facoltà della Stazione Appaltante di procedere a verifica di conformità in corso di esecuzione al fine di accertare la piena e corretta esecuzione delle prestazioni contrattuali, con la cadenza adeguata per un accertamento progressivo della regolare esecuzione delle prestazioni. 30
 
 ##### Art.42
 
 (Incarico di verifica della conformità)
 
-1.
-
-La verifica di conformità è effettuata direttamente dal direttore dell’esecuzione del contratto, fatta salva l’ipotesi di cui all’articolo 30, comma 2.
+1\. La verifica di conformità è effettuata direttamente dal direttore dell’esecuzione del contratto, fatta salva l’ipotesi di cui all’articolo 30, comma 2.
 
 ##### Art.43
 
 (Documenti da fornirsi al soggetto incaricato della verifica di conformità)
 
-1.
-
-Se la verifica di conformità è demandata a soggetto diverso dal direttore dell’esecuzione, così come definito al precedente articolo 30, comma 2, il 30 Testo originario (Decreto Delegato n.26/2015):
+1\. Se la verifica di conformità è demandata a soggetto diverso dal direttore dell’esecuzione, così come definito al precedente articolo 30, comma 2, il 30 Testo originario (Decreto Delegato n.26/2015):
 
 ##### Art.41
 
@@ -3164,25 +2694,17 @@ d) risultanze degli accertamenti di cui all’articolo 35;
 
 e) certificati delle eventuali prove effettuate.
 
-2.
-
-E’ facoltà del soggetto incaricato della verifica di conformità chiedere al responsabile del procedimento o al direttore dell’esecuzione, se diverso dal responsabile del procedimento, altra documentazione ritenuta necessaria per l’espletamento dell’incarico.
+2\. E’ facoltà del soggetto incaricato della verifica di conformità chiedere al responsabile del procedimento o al direttore dell’esecuzione, se diverso dal responsabile del procedimento, altra documentazione ritenuta necessaria per l’espletamento dell’incarico.
 
 ##### Art.44
 
 (Estensione della verifica di conformità)
 
-1.
+1\. La verifica di conformità è conclusa entro il termine stabilito dal contratto e comunque non oltre venti giorni dall’ultimazione dell’esecuzione delle prestazioni contrattuali.
 
-La verifica di conformità è conclusa entro il termine stabilito dal contratto e comunque non oltre venti giorni dall’ultimazione dell’esecuzione delle prestazioni contrattuali.
+2\. Dell’eventuale prolungamento delle operazioni rispetto al termine di cui al comma che precede e delle relative cause il soggetto incaricato della verifica di conformità trasmette formale comunicazione all’impresa e al responsabile del procedimento, con l’indicazione dei provvedimenti da assumere per la ripresa e il completamento delle operazioni di verifica di conformità.
 
-2.
-
-Dell’eventuale prolungamento delle operazioni rispetto al termine di cui al comma che precede e delle relative cause il soggetto incaricato della verifica di conformità trasmette formale comunicazione all’impresa e al responsabile del procedimento, con l’indicazione dei provvedimenti da assumere per la ripresa e il completamento delle operazioni di verifica di conformità.
-
-3.
-
-La verifica della corretta esecuzione delle prestazioni contrattuali è effettuata con tutti i mezzi ed accertamenti ritenuti necessari.
+3\. La verifica della corretta esecuzione delle prestazioni contrattuali è effettuata con tutti i mezzi ed accertamenti ritenuti necessari.
 
 ##### Art.45
 
@@ -3190,17 +2712,11 @@ La verifica della corretta esecuzione delle prestazioni contrattuali è effettua
 
 ##### Art. 45
 
-1.
+1\. Nel caso di verifica di conformità in corso di esecuzione devono essere invitati ai controlli l’impresa ed il direttore dell’esecuzione e deve essere redatto apposito verbale.
 
-Nel caso di verifica di conformità in corso di esecuzione devono essere invitati ai controlli l’impresa ed il direttore dell’esecuzione e deve essere redatto apposito verbale.
+2\. Ove il direttore dell’esecuzione svolga le funzioni di soggetto incaricato della verifica di conformità deve essere invitato un rappresentante della Stazione Appaltante.
 
-2.
-
-Ove il direttore dell’esecuzione svolga le funzioni di soggetto incaricato della verifica di conformità deve essere invitato un rappresentante della Stazione Appaltante.
-
-3.
-
-I verbali, da trasmettere al responsabile del procedimento entro dieci giorni successivi alla data dei controlli, riferiscono anche sull’andamento dell’esecuzione contrattuale e sul rispetto dei termini contrattuali e contengono le osservazioni ed i suggerimenti ritenuti necessari, ferme restando le competenze della Stazione Appaltante e del direttore dell’esecuzione.
+3\. I verbali, da trasmettere al responsabile del procedimento entro dieci giorni successivi alla data dei controlli, riferiscono anche sull’andamento dell’esecuzione contrattuale e sul rispetto dei termini contrattuali e contengono le osservazioni ed i suggerimenti ritenuti necessari, ferme restando le competenze della Stazione Appaltante e del direttore dell’esecuzione.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42
 
@@ -3240,13 +2756,9 @@ f) l’articolo 47 della Legge 21 dicembre 2017 n.147. 32 Testo originario (Decr
 
 (Verifica di conformità definitiva e relativi avvisi)
 
-1.
+1\. Esaminati i documenti acquisiti ed accertatane la completezza, il soggetto incaricato della verifica di conformità fissa il giorno del controllo definitivo e ne informa il responsabile del procedimento ed il direttore dell’esecuzione, se la verifica di conformità è effettuata da soggetto diverso dal direttore dell’esecuzione. Il direttore dell’esecuzione dà tempestivo avviso all’impresa del giorno della verifica di conformità affinché quest’ultimo possa intervenire.
 
-Esaminati i documenti acquisiti ed accertatane la completezza, il soggetto incaricato della verifica di conformità fissa il giorno del controllo definitivo e ne informa il responsabile del procedimento ed il direttore dell’esecuzione, se la verifica di conformità è effettuata da soggetto diverso dal direttore dell’esecuzione. Il direttore dell’esecuzione dà tempestivo avviso all’impresa del giorno della verifica di conformità affinché quest’ultimo possa intervenire.
-
-2.
-
-Il direttore dell’esecuzione ha l’obbligo di presenziare al controllo definitivo.
+2\. Il direttore dell’esecuzione ha l’obbligo di presenziare al controllo definitivo.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42
 
@@ -3278,9 +2790,7 @@ f) l’articolo 47 della Legge 21 dicembre 2017 n.147. 33 Testo originario (Decr
 
 (Processo verbale)
 
-1.
-
-Della verifica di conformità è redatto processo verbale che, oltre ad una sintetica descrizione dell’esecuzione delle prestazioni contrattuali e dei principali estremi dell’appalto, deve contenere le seguenti indicazioni:
+1\. Della verifica di conformità è redatto processo verbale che, oltre ad una sintetica descrizione dell’esecuzione delle prestazioni contrattuali e dei principali estremi dell’appalto, deve contenere le seguenti indicazioni:
 
 a) gli eventuali estremi del provvedimento di nomina del soggetto incaricato della verifica di conformità;
 
@@ -3288,21 +2798,15 @@ b) il giorno della verifica di conformità;
 
 c) le generalità degli intervenuti al controllo e di coloro che, sebbene invitati, non sono intervenuti.
 
-2.
+2\. Nel processo verbale sono descritti i rilievi fatti dal soggetto incaricato della verifica di conformità, le singole operazioni e le verifiche compiute, il numero dei rilievi effettuati e i risultati ottenuti.
 
-Nel processo verbale sono descritti i rilievi fatti dal soggetto incaricato della verifica di conformità, le singole operazioni e le verifiche compiute, il numero dei rilievi effettuati e i risultati ottenuti.
-
-3.
-
-I processi verbali sono sottoscritti da tutti i soggetti intervenuti.
+3\. I processi verbali sono sottoscritti da tutti i soggetti intervenuti.
 
 ##### Art.48
 
 (Verifiche e valutazioni del soggetto che procede alla verifica di conformità) [ABROGATO]34
 
-4.
-
-Copia dei verbali vengono archiviati a cura della Stazione Appaltante che provvederà a pubblicarli anche su apposita sezione del portale Servizi PA.
+4\. Copia dei verbali vengono archiviati a cura della Stazione Appaltante che provvederà a pubblicarli anche su apposita sezione del portale Servizi PA.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42
 
@@ -3334,17 +2838,11 @@ f) l’articolo 47 della Legge 21 dicembre 2017 n.147. 34 Testo originario (Decr
 
 (Verifiche e valutazioni del soggetto che procede alla verifica di conformità)
 
-1.
+1\. Il soggetto che procede alla verifica di conformità provvede a raffrontare i dati di fatto risultanti dal processo verbale di controllo con gli eventuali dati relativi al contratto e con i documenti contabili e a formulare le proprie considerazioni sul modo con cui l’impresa ha osservato le prescrizioni contrattuali e le eventuali indicazioni del direttore dell’esecuzione.
 
-Il soggetto che procede alla verifica di conformità provvede a raffrontare i dati di fatto risultanti dal processo verbale di controllo con gli eventuali dati relativi al contratto e con i documenti contabili e a formulare le proprie considerazioni sul modo con cui l’impresa ha osservato le prescrizioni contrattuali e le eventuali indicazioni del direttore dell’esecuzione.
+2\. Sulla base di quanto rilevato il soggetto che procede alla verifica di conformità indica se le prestazioni sono o meno collaudabili ovvero, riscontrandosi difetti o mancanze di lieve entità riguardo all’esecuzione, collaudabili previo adempimento delle prescrizioni impartite all’impresa, con assegnazione di un termine per adempiere.
 
-2.
-
-Sulla base di quanto rilevato il soggetto che procede alla verifica di conformità indica se le prestazioni sono o meno collaudabili ovvero, riscontrandosi difetti o mancanze di lieve entità riguardo all’esecuzione, collaudabili previo adempimento delle prescrizioni impartite all’impresa, con assegnazione di un termine per adempiere.
-
-3.
-
-Con apposita relazione riservata il soggetto che procede al controllo espone il proprio parere sulle contestazioni dell’esecutore e sulle eventuali penali sulle quali non sia già intervenuta una risoluzione definitiva.
+3\. Con apposita relazione riservata il soggetto che procede al controllo espone il proprio parere sulle contestazioni dell’esecutore e sulle eventuali penali sulle quali non sia già intervenuta una risoluzione definitiva.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42
 
@@ -3514,13 +3012,9 @@ f) l’acquisizione della dichiarazione sostitutiva o dell’atto di notorietà 
 
 (Attestazione di regolare esecuzione)
 
-1.
+1\. Qualora la Stazione Appaltante per le prestazioni contrattuali di importo inferiore ad Euro 50.000,00 non ritenga necessario conferire l’incarico di verifica di conformità, si dà luogo ad un’attestazione di regolare esecuzione emessa dal direttore dell’esecuzione e confermata dal responsabile del procedimento che la sottoscrive.
 
-Qualora la Stazione Appaltante per le prestazioni contrattuali di importo inferiore ad Euro 50.000,00 non ritenga necessario conferire l’incarico di verifica di conformità, si dà luogo ad un’attestazione di regolare esecuzione emessa dal direttore dell’esecuzione e confermata dal responsabile del procedimento che la sottoscrive.
-
-2.
-
-L’attestazione di regolare esecuzione è emessa non oltre dieci giorni dalla ultimazione dell’esecuzione e contiene almeno i seguenti elementi:
+2\. L’attestazione di regolare esecuzione è emessa non oltre dieci giorni dalla ultimazione dell’esecuzione e contiene almeno i seguenti elementi:
 
 a) gli estremi del contratto e degli eventuali atti aggiuntivi;
 
@@ -3530,9 +3024,7 @@ c) l’importo totale ovvero l’importo a saldo da pagare all’esecutore;
 
 d) la certificazione di regolare esecuzione.
 
-3.
-
-Qualora la sottoscrizione del contratto sia sostituita dallo scambio di lettere commerciali a mente dell’articolo 26, comma 4, il direttore dell’esecuzione emette un’attestazione di regolare esecuzione.
+3\. Qualora la sottoscrizione del contratto sia sostituita dallo scambio di lettere commerciali a mente dell’articolo 26, comma 4, il direttore dell’esecuzione emette un’attestazione di regolare esecuzione.
 
 MODIFICHE LEGISLATIVE Decreto Delegato 4 marzo 2019 n. 42, Articolo 20 (Modifiche all’articolo 51 del Decreto Delegato n. 26/2015)
 
@@ -3594,31 +3086,19 @@ TESTO ORIGINARIO Decreto Delegato 4 marzo 2019 n. 42
 
 (Norme finali e transitorie)
 
-1.
+1\. Sino all’istituzione del Registro dei fornitori di cui all’articolo 8, che dovrà avvenire entro il 30 giugno 2015, le Stazioni Appaltanti utilizzano i registri eventualmente in loro possesso.
 
-Sino all’istituzione del Registro dei fornitori di cui all’articolo 8, che dovrà avvenire entro il 30 giugno 2015, le Stazioni Appaltanti utilizzano i registri eventualmente in loro possesso.
+2\. Sino all’approvazione del programma di approvvigionamento previsto all’articolo 6, si applicano le vigenti norme contabili ed amministrative in materia di impegno, autorizzazione e controllo di legittimità della spesa. Il programma di approvvigionamento, può, inoltre, individuare quali stazioni appaltanti in riferimento alla fornitura o somministrazione di specifiche tipologie di beni e servizi, singole UO, Dipartimenti, Aziende Autonome ed Enti del Settore Pubblico Allargato che assolveranno le funzioni ed i compiti previsti nel predetto programma.
 
-2.
+3\. Le disposizioni sulla pubblicità di cui all’articolo 7 si applicano a seguito dell’attivazione dell’apposito servizio sul portale PA secondo i termini individuati dal Congresso di Stato con propria deliberazione che dovrà essere assunta entro trenta giorni dall’attivazione del Registro dei Fornitori.
 
-Sino all’approvazione del programma di approvvigionamento previsto all’articolo 6, si applicano le vigenti norme contabili ed amministrative in materia di impegno, autorizzazione e controllo di legittimità della spesa. Il programma di approvvigionamento, può, inoltre, individuare quali stazioni appaltanti in riferimento alla fornitura o somministrazione di specifiche tipologie di beni e servizi, singole UO, Dipartimenti, Aziende Autonome ed Enti del Settore Pubblico Allargato che assolveranno le funzioni ed i compiti previsti nel predetto programma.
-
-3.
-
-Le disposizioni sulla pubblicità di cui all’articolo 7 si applicano a seguito dell’attivazione dell’apposito servizio sul portale PA secondo i termini individuati dal Congresso di Stato con propria deliberazione che dovrà essere assunta entro trenta giorni dall’attivazione del Registro dei Fornitori.
-
-4.
-
-Sino all’avvio e completa operatività della UO Acquisti, Servizi Generali e Logistica, stabilita mediante deliberazione del Congresso di Stato, le funzioni relative all’espletamento delle gare di appalto attualmente attribuite a UO, Dipartimenti, Aziende Autonome ed Enti del Settore Pubblico Allargato permangono in capo alle medesime; l’avvio della predetta UO dovrà avvenire entro il 30 giugno
+4\. Sino all’avvio e completa operatività della UO Acquisti, Servizi Generali e Logistica, stabilita mediante deliberazione del Congresso di Stato, le funzioni relative all’espletamento delle gare di appalto attualmente attribuite a UO, Dipartimenti, Aziende Autonome ed Enti del Settore Pubblico Allargato permangono in capo alle medesime; l’avvio della predetta UO dovrà avvenire entro il 30 giugno
 
 2015.
 
-5.
+5\. Il Congresso di Stato ha facoltà di dettare norme di attuazione del presente decreto delegato mediante proprio Regolamento adottato ai sensi dell’articolo 2, comma 2, lettera h) della Legge Costituzionale 15 dicembre 2005 n.183; mediante Regolamento potranno, in particolare essere rivisti, aggiornati ed integrati la documentazione ed i requisiti previsti dall’articolo 9 e conseguentemente i casi di sospensione e cancellazione dal Registro dei Fornitori.
 
-Il Congresso di Stato ha facoltà di dettare norme di attuazione del presente decreto delegato mediante proprio Regolamento adottato ai sensi dell’articolo 2, comma 2, lettera h) della Legge Costituzionale 15 dicembre 2005 n.183; mediante Regolamento potranno, in particolare essere rivisti, aggiornati ed integrati la documentazione ed i requisiti previsti dall’articolo 9 e conseguentemente i casi di sospensione e cancellazione dal Registro dei Fornitori.
-
-6.
-
-Il presente decreto delegato è soggetto a revisione al fine di verificarne i risultati ed i problemi applicativi trascorso un anno dalla sua entrata in vigore e potrà essere modificato allo scopo di garantire l’appropriatezza dell’intervento.
+6\. Il presente decreto delegato è soggetto a revisione al fine di verificarne i risultati ed i problemi applicativi trascorso un anno dalla sua entrata in vigore e potrà essere modificato allo scopo di garantire l’appropriatezza dell’intervento.
 
 (Risoluzione di casi pratico operativi di particolare complessità)
 
@@ -4428,21 +3908,13 @@ NORME FINALI
 
 (Contenuto e accesso al Registro dei Fornitori)
 
-1.
+1\. Il Registro dei Fornitori contiene la denominazione, l’indirizzo della sede legale, il recapito telefonico, l’indirizzo di posta elettronica, il codice operatore economico delle imprese iscritte o analogo codice identificativo previsto, per le imprese estere, dai rispettivi ordinamenti nazionali, la data di originaria iscrizione nonché la data di effettuazione delle verifiche sulla permanenza dei requisiti di iscrizione e sulla veridicità delle dichiarazioni presentate ovvero l’indicazione relativa alla non effettuazione delle suddette verifiche.
 
-Il Registro dei Fornitori contiene la denominazione, l’indirizzo della sede legale, il recapito telefonico, l’indirizzo di posta elettronica, il codice operatore economico delle imprese iscritte o analogo codice identificativo previsto, per le imprese estere, dai rispettivi ordinamenti nazionali, la data di originaria iscrizione nonché la data di effettuazione delle verifiche sulla permanenza dei requisiti di iscrizione e sulla veridicità delle dichiarazioni presentate ovvero l’indicazione relativa alla non effettuazione delle suddette verifiche.
+2\. Le imprese sono classificate nel Registro dei Fornitori secondo le categorie merceologiche e le tipologie di servizi identificati dai rispettivi codici ATECO; qualora un’impresa non sia in possesso di codice ATECO, la Camera di Commercio, Industria, Artigianato e Agricoltura della Repubblica di San Marino (CCIAA) provvede a classificarla sentita l’UO Ufficio Industria, Artigianato e Commercio.
 
-2.
+3\. Il Registro dei Fornitori è consultabile in via telematica da chiunque ne faccia richiesta previa registrazione e pagamento della somma di euro 3,00 a visura, modificabile con delibera del Congresso di Stato su proposta della CCIAA.
 
-Le imprese sono classificate nel Registro dei Fornitori secondo le categorie merceologiche e le tipologie di servizi identificati dai rispettivi codici ATECO; qualora un’impresa non sia in possesso di codice ATECO, la Camera di Commercio, Industria, Artigianato e Agricoltura della Repubblica di San Marino (CCIAA) provvede a classificarla sentita l’UO Ufficio Industria, Artigianato e Commercio.
-
-3.
-
-Il Registro dei Fornitori è consultabile in via telematica da chiunque ne faccia richiesta previa registrazione e pagamento della somma di euro 3,00 a visura, modificabile con delibera del Congresso di Stato su proposta della CCIAA.
-
-4.
-
-Le unità organizzative, le Aziende Autonome di Stato, gli Enti del Settore Pubblico Allargato ed i gestori di pubblici servizi, previa apposita registrazione ed adesione, hanno accesso gratuito ai seguenti dati del Registro dei Fornitori:
+4\. Le unità organizzative, le Aziende Autonome di Stato, gli Enti del Settore Pubblico Allargato ed i gestori di pubblici servizi, previa apposita registrazione ed adesione, hanno accesso gratuito ai seguenti dati del Registro dei Fornitori:
 
 a) denominazione;
 
@@ -4472,37 +3944,21 @@ n) data di originaria iscrizione. 4 bis. I dati di cui al comma 4, lettere f), g
 
 (Modalità di iscrizione e disposizioni per la reiscrizione al Registro dei Fornitori)
 
-1.
+1\. L’impresa che intenda iscriversi al Registro dei Fornitori presenta apposita domanda alla CCIAA.
 
-L’impresa che intenda iscriversi al Registro dei Fornitori presenta apposita domanda alla CCIAA.
+2\. La domanda di iscrizione al Registro dei Fornitori e la documentazione a corredo, oltre che mediante consegna a mano presso gli uffici della CCIAA oppure spedizione a mezzo posta con plico raccomandato o a mezzo corriere, possono, se relative ad imprese aventi sede legale nella Repubblica di San Marino, essere inviate a mezzo telefax unitamente a copia fotostatica non autenticata di documento di identità del titolare o legale rappresentante dell’impresa da questi dichiarata conforme all’originale e sottoscritta, contenente la dichiarazione di cui all’articolo 9, comma 2 della Legge 5 ottobre 2011 n.159.
 
-2.
+3\. Fatto salvo quanto previsto dal seguente periodo del presente comma, le comunicazioni che intercorrano fra la CCIAA e le imprese iscritte nel Registro dei Fornitori sono effettuate mediante posta elettronica. Sino all’introduzione di un sistema di posta elettronica certificata, i provvedimenti di diniego di iscrizione, sospensione e cancellazione dal Registro dei Fornitori, debitamente motivati, sono comunicati da CCIAA all’impresa a mezzo di lettera raccomandata con avviso di ricevimento entro cinque giorni dalla loro adozione; tali provvedimenti sono impugnabili dall’impresa dinanzi al Tribunale ai sensi del Titolo II della Legge 28 giugno 1989 n.68.
 
-La domanda di iscrizione al Registro dei Fornitori e la documentazione a corredo, oltre che mediante consegna a mano presso gli uffici della CCIAA oppure spedizione a mezzo posta con plico raccomandato o a mezzo corriere, possono, se relative ad imprese aventi sede legale nella Repubblica di San Marino, essere inviate a mezzo telefax unitamente a copia fotostatica non autenticata di documento di identità del titolare o legale rappresentante dell’impresa da questi dichiarata conforme all’originale e sottoscritta, contenente la dichiarazione di cui all’articolo 9, comma 2 della Legge 5 ottobre 2011 n.159.
+4\. La CCIAA fa seguire all’inoltro di ogni comunicazione via posta elettronica verso l’impresa, l’invio in automatico, anche attraverso sistemi di terze parti, di due sms, a distanza di 24 ore uno dall’altro, al numero di telefono cellulare indicato dall’impresa, notificando l’invio della comunicazione di cui sopra; ciò fa prova dell’avvenuta ricezione della comunicazione da parte dell’impresa. La CCIAA conserva il documento informatico contenente i log degli sms inviati.
 
-3.
+5\. L’iscrizione al Registro dei Fornitori è curata dalla CCIAA ed è effettuata esclusivamente sulla base del riscontro della regolarità formale della domanda. La CCIAA entro dieci giorni dalla presentazione della domanda, comunica l’avvenuta iscrizione o il diniego di iscrizione.
 
-Fatto salvo quanto previsto dal seguente periodo del presente comma, le comunicazioni che intercorrano fra la CCIAA e le imprese iscritte nel Registro dei Fornitori sono effettuate mediante posta elettronica. Sino all’introduzione di un sistema di posta elettronica certificata, i provvedimenti di diniego di iscrizione, sospensione e cancellazione dal Registro dei Fornitori, debitamente motivati, sono comunicati da CCIAA all’impresa a mezzo di lettera raccomandata con avviso di ricevimento entro cinque giorni dalla loro adozione; tali provvedimenti sono impugnabili dall’impresa dinanzi al Tribunale ai sensi del Titolo II della Legge 28 giugno 1989 n.68.
+6\. Le imprese iscritte al Registro dei Fornitori hanno l’obbligo di comunicare ogni variazione dei requisiti di iscrizione entro i successivi trenta giorni. Il Registro dei Fornitori è tempestivamente aggiornato sulla base dei nuovi dati pervenuti in caso di variazione dei requisiti nonché nel caso di sospensione o cancellazione a norma dei successivi articoli, a cura di CCIAA.
 
-4.
+7\. Su richiesta dell’impresa, la CCIAA rilascia il certificato di iscrizione al Registro dei Fornitori; tale certificato ha validità dalla data del suo rilascio fino alla data del successivo rinnovo di iscrizione.
 
-La CCIAA fa seguire all’inoltro di ogni comunicazione via posta elettronica verso l’impresa, l’invio in automatico, anche attraverso sistemi di terze parti, di due sms, a distanza di 24 ore uno dall’altro, al numero di telefono cellulare indicato dall’impresa, notificando l’invio della comunicazione di cui sopra; ciò fa prova dell’avvenuta ricezione della comunicazione da parte dell’impresa. La CCIAA conserva il documento informatico contenente i log degli sms inviati.
-
-5.
-
-L’iscrizione al Registro dei Fornitori è curata dalla CCIAA ed è effettuata esclusivamente sulla base del riscontro della regolarità formale della domanda. La CCIAA entro dieci giorni dalla presentazione della domanda, comunica l’avvenuta iscrizione o il diniego di iscrizione.
-
-6.
-
-Le imprese iscritte al Registro dei Fornitori hanno l’obbligo di comunicare ogni variazione dei requisiti di iscrizione entro i successivi trenta giorni. Il Registro dei Fornitori è tempestivamente aggiornato sulla base dei nuovi dati pervenuti in caso di variazione dei requisiti nonché nel caso di sospensione o cancellazione a norma dei successivi articoli, a cura di CCIAA.
-
-7.
-
-Su richiesta dell’impresa, la CCIAA rilascia il certificato di iscrizione al Registro dei Fornitori; tale certificato ha validità dalla data del suo rilascio fino alla data del successivo rinnovo di iscrizione.
-
-8.
-
-Ai fini dell’iscrizione al Registro dei Fornitori e successivi rinnovi annuali sono stabiliti in favore
+8\. Ai fini dell’iscrizione al Registro dei Fornitori e successivi rinnovi annuali sono stabiliti in favore
 
 5\. Fino al trasferimento in capo all’UAE delle funzioni di cui al comma 4, la Stazione Appaltante che si avvale dell’Agenzia per lo Sviluppo Economico - Camera di Commercio S.p.A. per la verifica della sussistenza dei requisiti di cui all’articolo 9, comma 1 del Decreto Delegato n. 26/2015 e successive modifiche, indica nel bando di gara o nella lettera d’invito o negli altri documenti di gara, gli oneri a carico dell’impresa partecipante per l’esecuzione della predetta verifica.
 
@@ -4518,13 +3974,9 @@ a) per la prima iscrizione: euro 200,00;
 
 b) per i successivi rinnovi annuali: euro 100,00.
 
-9.
+9\. Fatti salvi gli accertamenti obbligatori previsti dal Decreto Delegato n.26/2015, dal presente regolamento e dalle norme vigenti in materia, la CCIAA effettua annualmente gli accertamenti d’ufficio di cui all’articolo 8 della Legge n.159/2011 su un campione, determinato con sorteggio pubblico, pari almeno al 10% delle imprese iscritte al Registro dei Fornitori.
 
-Fatti salvi gli accertamenti obbligatori previsti dal Decreto Delegato n.26/2015, dal presente regolamento e dalle norme vigenti in materia, la CCIAA effettua annualmente gli accertamenti d’ufficio di cui all’articolo 8 della Legge n.159/2011 su un campione, determinato con sorteggio pubblico, pari almeno al 10% delle imprese iscritte al Registro dei Fornitori.
-
-10.
-
-I divieti previsti rispettivamente dal comma 3 e dal comma 4 dell’articolo 11 del Decreto Delegato n.26/2015 sussistono esclusivamente in caso di:
+10\. I divieti previsti rispettivamente dal comma 3 e dal comma 4 dell’articolo 11 del Decreto Delegato n.26/2015 sussistono esclusivamente in caso di:
 
 a) perdita dei requisiti di cui all’articolo 9, comma 1, lettere c) ed e) del Decreto Delegato n.26/2015 in capo a titolare, legale rappresentante, amministratori e direttore generale dell’impresa. I divieti conseguenti al verificarsi delle ipotesi di cui alla presente lettera a) non si applicano in caso di avvenuta sostituzione dei soggetti interessati comunicata alla CCIAA entro sessanta giorni dalla data di perdita dei requisiti;
 
@@ -4538,13 +3990,9 @@ Si rinvia alla nota precedente per il testo dell’articolo 4 del Regolamento n.
 
 (Comunicazioni fra Stazione Appaltante ed imprese concorrenti ed impresa appaltatrice)
 
-1.
+1\. Fatto salvo quanto previsto al comma 2, le comunicazioni che intercorrano fra la Stazione Appaltante, le imprese concorrenti e l’impresa appaltatrice possono essere effettuate mediante posta elettronica.
 
-Fatto salvo quanto previsto al comma 2, le comunicazioni che intercorrano fra la Stazione Appaltante, le imprese concorrenti e l’impresa appaltatrice possono essere effettuate mediante posta elettronica.
-
-2.
-
-Sino all’introduzione di un sistema di posta elettronica certificata, i provvedimenti di annullamento o di revoca della gara di cui all’articolo 23 del Decreto Delegato n. 26/2015, debitamente motivati, sono trasmessi dalla Stazione Appaltante alle imprese partecipanti a mezzo raccomandata con avviso di ricevimento entro cinque giorni dall’adozione e riportano menzione dell’eventuale intenzione di indire una nuova gara; tali provvedimenti sono impugnabili dall’impresa dinanzi al Tribunale ai sensi del Titolo II della Legge 28 giugno 1989 n. 68.
+2\. Sino all’introduzione di un sistema di posta elettronica certificata, i provvedimenti di annullamento o di revoca della gara di cui all’articolo 23 del Decreto Delegato n. 26/2015, debitamente motivati, sono trasmessi dalla Stazione Appaltante alle imprese partecipanti a mezzo raccomandata con avviso di ricevimento entro cinque giorni dall’adozione e riportano menzione dell’eventuale intenzione di indire una nuova gara; tali provvedimenti sono impugnabili dall’impresa dinanzi al Tribunale ai sensi del Titolo II della Legge 28 giugno 1989 n. 68.
 
 La Stazione Appaltante fa seguire all’invio di ogni comunicazione via posta elettronica verso l’impresa, l’invio in automatico, anche attraverso sistemi di terze parti, di due sms, a distanza di 24 ore uno dall’altro, al numero di telefono cellulare indicato dall’impresa, notificando l’invio della comunicazione di cui sopra; ciò fa prova dell’avvenuta ricezione della comunicazione da parte dell’impresa. La Stazione Appaltante conserva il documento informatico contenente i log degli sms inviati.
 
@@ -4556,9 +4004,7 @@ La Stazione Appaltante fa seguire all’invio di ogni comunicazione via posta el
 
 2\. Il riferimento all’articolo 49 del Decreto Delegato n. 26/2015 contenuto all’articolo 40, comma 4 del medesimo decreto delegato è da intendersi effettuato all’articolo
 
-51.
-
-3\. Le verifiche previste dall’articolo 24, comma 1 del Decreto Delegato n. 26/2015 e successive modifiche non sono effettuate nei confronti delle imprese di cui all’articolo 9, comma 4 del medesimo decreto delegato.
+51\. 3. Le verifiche previste dall’articolo 24, comma 1 del Decreto Delegato n. 26/2015 e successive modifiche non sono effettuate nei confronti delle imprese di cui all’articolo 9, comma 4 del medesimo decreto delegato.
 
 ##### Art. 26
 
@@ -4574,29 +4020,21 @@ ALTRE NORME REGOLAMENTO 29 APRILE 2015 N.5 REGOLAMENTO PER LA CONOSCIBILITÀ DEI
 
 (Finalità)
 
-1.
-
-Il presente regolamento detta disposizioni applicative dell’articolo 68, comma 1, della Legge 23 dicembre 2014 n. 219 in ordine agli adempimenti previsti per le imprese che intendano beneficiare di fondi pubblici o di agevolazioni fiscali o contributive a qualunque titolo o che risultino migliori offerenti in appalti pubblici.
+1\. Il presente regolamento detta disposizioni applicative dell’articolo 68, comma 1, della Legge 23 dicembre 2014 n. 219 in ordine agli adempimenti previsti per le imprese che intendano beneficiare di fondi pubblici o di agevolazioni fiscali o contributive a qualunque titolo o che risultino migliori offerenti in appalti pubblici.
 
 ##### Art.2
 
 (Agevolazioni fiscali e diverse)
 
-1.
+1\. Il titolare o legale rappresentante di impresa che presenti istanze per beneficiare di fondi pubblici o di agevolazioni fiscali o contributive a qualunque titolo deve presentare una dichiarazione, in allegato all’istanza e sotto la propria responsabilità civile e penale, contenente i nominativi di tutti gli effettivi beneficiari dell’impresa, ossia delle persone fisiche che percepiscono gli utili/il reddito dell’impresa medesima.
 
-Il titolare o legale rappresentante di impresa che presenti istanze per beneficiare di fondi pubblici o di agevolazioni fiscali o contributive a qualunque titolo deve presentare una dichiarazione, in allegato all’istanza e sotto la propria responsabilità civile e penale, contenente i nominativi di tutti gli effettivi beneficiari dell’impresa, ossia delle persone fisiche che percepiscono gli utili/il reddito dell’impresa medesima.
-
-2.
-
-La dichiarazione di cui al comma 1 è redatta in conformità al modello di cui all’Allegato al presente regolamento.
+2\. La dichiarazione di cui al comma 1 è redatta in conformità al modello di cui all’Allegato al presente regolamento.
 
 ##### Art. 3
 
 (Mandati fiduciari)
 
-1.
-
-Nel caso l’impresa richiedente il beneficio/agevolazione fiscale o contributiva [o risultante la migliore offerente in appalti pubblici]47, abbia nella propria compagine societaria quote possedute tramite mandato fiduciario, il legale rappresentante dell’impresa medesima deve allegare alla dichiarazione di cui al precedente articolo, l’attestazione rilasciata dalla Fiduciaria sammarinese o estera dell’effettivo beneficiario del mandato fiduciario.
+1\. Nel caso l’impresa richiedente il beneficio/agevolazione fiscale o contributiva [o risultante la migliore offerente in appalti pubblici]47, abbia nella propria compagine societaria quote possedute tramite mandato fiduciario, il legale rappresentante dell’impresa medesima deve allegare alla dichiarazione di cui al precedente articolo, l’attestazione rilasciata dalla Fiduciaria sammarinese o estera dell’effettivo beneficiario del mandato fiduciario.
 
 ##### Art.4
 
@@ -4610,27 +4048,19 @@ Si veda nota all’articolo 4
 
 (Appalti Pubblici)
 
-1.
-
-Prima di procedere all’assegnazione di appalti pubblici di forniture o somministrazioni di beni e servizi, la Camera di Commercio, Industria, Artigianato e Agricoltura della Repubblica di San Marino, al fine di effettuare la verifica prevista dall’articolo 9 bis del Decreto Delegato 2 marzo 2015 n. 26, richiede all’impresa, risultante la migliore offerente in appalti pubblici, la dichiarazione di cui all’articolo 2 e
+1\. Prima di procedere all’assegnazione di appalti pubblici di forniture o somministrazioni di beni e servizi, la Camera di Commercio, Industria, Artigianato e Agricoltura della Repubblica di San Marino, al fine di effettuare la verifica prevista dall’articolo 9 bis del Decreto Delegato 2 marzo 2015 n. 26, richiede all’impresa, risultante la migliore offerente in appalti pubblici, la dichiarazione di cui all’articolo 2 e
 
 ##### Art. 5
 
 (Norma finale)
 
-1.
-
-1\. Le disposizioni del presente regolamento non si applicano alle società quotate in borsa ed a quelle le cui quote sociali sono in capo a più di venti soggetti diversi.
+1\. 1. Le disposizioni del presente regolamento non si applicano alle società quotate in borsa ed a quelle le cui quote sociali sono in capo a più di venti soggetti diversi.
 
 l’eventuale attestazione di cui all’articolo 3.
 
-2.
+2\. In attesa dell’istituzione del Registro dei fornitori e dei prestatori di beni e servizi alla Pubblica Amministrazione ed agli Enti Pubblici, le funzioni previste al comma 1 sono demandate alle stazioni appaltanti come disposto dall’articolo 52 del Decreto Delegato n.26/2015.
 
-In attesa dell’istituzione del Registro dei fornitori e dei prestatori di beni e servizi alla Pubblica Amministrazione ed agli Enti Pubblici, le funzioni previste al comma 1 sono demandate alle stazioni appaltanti come disposto dall’articolo 52 del Decreto Delegato n.26/2015.
-
-3.
-
-Per gli appalti pubblici relativi a lavori, servizi e forniture complementari alle opere pubbliche, i competenti servizi degli Enti Pubblici e delle Aziende Autonome del Settore Pubblico Allargato, richiedono la dichiarazione di cui all’articolo 2 e l’eventuale attestazione di cui all’articolo 3 all’impresa risultante la migliore offerente.
+3\. Per gli appalti pubblici relativi a lavori, servizi e forniture complementari alle opere pubbliche, i competenti servizi degli Enti Pubblici e delle Aziende Autonome del Settore Pubblico Allargato, richiedono la dichiarazione di cui all’articolo 2 e l’eventuale attestazione di cui all’articolo 3 all’impresa risultante la migliore offerente.
 
 La dichiarazione e l’eventuale attestazione sono richieste per forniture o somministrazioni di beni e servizi di importo superiore ad euro 15.000,00 e per opere pubbliche di importo superiore ad euro 50.000,00 MODIFICHE LEGISLATIVE DECRETO DELEGATO 4 marzo 2019 n.42
 
@@ -4670,33 +4100,19 @@ DECRETO DELEGATO 15 GIUGNO 2011 N.97 NORME PER LA PROGETTAZIONE E LA REALIZZAZIO
 
 ##### Art. 24
 
-1.
+1\. L’Ente appaltante ha facoltà di stipulare accordi commerciali tesi a definire specifici listini prezzi relativi alla fornitura di cose a fini di consumo ovvero d’uso delle quali si preveda la ricorrente necessità durante l’anno.
 
-L’Ente appaltante ha facoltà di stipulare accordi commerciali tesi a definire specifici listini prezzi relativi alla fornitura di cose a fini di consumo ovvero d’uso delle quali si preveda la ricorrente necessità durante l’anno.
+2\. I listini prezzi definiti a mente del comma 1 hanno validità annuale, semestrale o trimestrale, secondo quanto previsto nell’ambito dell’accordo commerciale e sono applicati alle forniture effettuate all’Ente appaltante durante il periodo di validità dell’accordo medesimo.
 
-2.
+3\. L’individuazione delle imprese con le quali stipulare gli accordi commerciali di cui al comma 1 avviene mediante procedura negoziata volta ad individuare le imprese disponibili ad applicare il listino prezzi definito unilateralmente dall’Ente appaltante a mente di quanto previsto dall’articolo 37 della Legge 27 marzo 2002 n.49.
 
-I listini prezzi definiti a mente del comma 1 hanno validità annuale, semestrale o trimestrale, secondo quanto previsto nell’ambito dell’accordo commerciale e sono applicati alle forniture effettuate all’Ente appaltante durante il periodo di validità dell’accordo medesimo.
+4\. Per quanto concerne l’esecuzione di lavori di manutenzione ordinaria o straordinaria su manufatti di proprietà dell’Ecc.ma Camera o destinati ad uso pubblico, l’Ente appaltante ha facoltà di stipulare accordi con imprese edili iscritte nell’apposito Registro che accettino di applicare nell’anno di riferimento i listini prezzi stabiliti unilateralmente dall’Ente appaltante medesimo. L’importo del singolo intervento manutentivo effettuabile in forza degli accordi di cui al presente comma non può superare € 50.000,00.
 
-3.
+5\. La procedura attivata ai sensi del comma 4 stabilisce il limite complessivo di spesa relativo agli interventi di manutenzione ordinaria e straordinaria da affidare alle imprese nel corso dell’anno di riferimento; tale limite complessivo annuo di spesa non può essere superiore ad € 250.000,00, fermo restando il sopra indicato limite di spesa per il singolo intervento di € 50.000,00.
 
-L’individuazione delle imprese con le quali stipulare gli accordi commerciali di cui al comma 1 avviene mediante procedura negoziata volta ad individuare le imprese disponibili ad applicare il listino prezzi definito unilateralmente dall’Ente appaltante a mente di quanto previsto dall’articolo 37 della Legge 27 marzo 2002 n.49.
+6\. L’individuazione delle imprese con le quali stipulare gli accordi commerciali di cui al comma 4 avviene mediante procedura negoziata nell’ambito delle quali sono stabilite le condizioni di esecuzione degli interventi manutentivi.
 
-4.
-
-Per quanto concerne l’esecuzione di lavori di manutenzione ordinaria o straordinaria su manufatti di proprietà dell’Ecc.ma Camera o destinati ad uso pubblico, l’Ente appaltante ha facoltà di stipulare accordi con imprese edili iscritte nell’apposito Registro che accettino di applicare nell’anno di riferimento i listini prezzi stabiliti unilateralmente dall’Ente appaltante medesimo. L’importo del singolo intervento manutentivo effettuabile in forza degli accordi di cui al presente comma non può superare € 50.000,00.
-
-5.
-
-La procedura attivata ai sensi del comma 4 stabilisce il limite complessivo di spesa relativo agli interventi di manutenzione ordinaria e straordinaria da affidare alle imprese nel corso dell’anno di riferimento; tale limite complessivo annuo di spesa non può essere superiore ad € 250.000,00, fermo restando il sopra indicato limite di spesa per il singolo intervento di € 50.000,00.
-
-6.
-
-L’individuazione delle imprese con le quali stipulare gli accordi commerciali di cui al comma 4 avviene mediante procedura negoziata nell’ambito delle quali sono stabilite le condizioni di esecuzione degli interventi manutentivi.
-
-7.
-
-Gli accordi di cui ai commi 1 e 4 sono stipulati dall’Ente appaltante con non più di dieci imprese che abbiano manifestato la propria accettazione dei listini prezzi, individuate nel rispetto dei principi di trasparenza, rotazione, parità di trattamento e proporzionalità nonché secondo i criteri fissati dai Regolamenti assunti dalle Aziende Autonome di Stato ai sensi dell’articolo 6, comma primo, numeri 7) e 10) della Legge 26 novembre 1980 n.88. Nel caso di pluralità di imprese che abbiano manifestato la propria accettazione, l’importo complessivo della fornitura o dei lavori manutentivi è suddiviso proporzionalmente fra le imprese medesime.
+7\. Gli accordi di cui ai commi 1 e 4 sono stipulati dall’Ente appaltante con non più di dieci imprese che abbiano manifestato la propria accettazione dei listini prezzi, individuate nel rispetto dei principi di trasparenza, rotazione, parità di trattamento e proporzionalità nonché secondo i criteri fissati dai Regolamenti assunti dalle Aziende Autonome di Stato ai sensi dell’articolo 6, comma primo, numeri 7) e 10) della Legge 26 novembre 1980 n.88. Nel caso di pluralità di imprese che abbiano manifestato la propria accettazione, l’importo complessivo della fornitura o dei lavori manutentivi è suddiviso proporzionalmente fra le imprese medesime.
 
 DECRETO DELEGATO 4 marzo 2019 n.42 INTERVENTI DI SEMPLIFICAZIONE DELLE NORME IN MATERIA DI PROCEDIMENTO E CONTRATTO DI FORNITURA O SOMMINISTRAZIONE DELLA PUBBLICA AMMINISTRAZIONE E DEGLI ENTI PUBBLICI
 

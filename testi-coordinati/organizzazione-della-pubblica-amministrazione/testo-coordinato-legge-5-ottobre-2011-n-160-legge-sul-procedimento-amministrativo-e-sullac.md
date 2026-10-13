@@ -59,9 +59,7 @@ PRINCIPI E DISPOSIZIONI GENERALI
 
 (Ambito di applicazione)
 
-1.
-
-Gli organi, uffici, servizi, enti ed aziende autonome dello Stato sono preposti alla realizzazione dei fini di pubblico interesse stabiliti dalla legge nel rispetto dei diritti e tenendo conto degli interessi dei privati secondo i programmi e le direttive deliberati dal Congresso di Stato per il raggiungimento degli obiettivi da questo prefissati. A tal fine l’azione amministrativa, oltre a conformarsi ai criteri di legalità, imparzialità ed efficienza, si esplica con autonomia operativa e responsabilità di gestione secondo criteri di pubblicità, efficacia ed economicità. In particolare, la presente legge attua i principi e le disposizioni contenuti:
+1\. Gli organi, uffici, servizi, enti ed aziende autonome dello Stato sono preposti alla realizzazione dei fini di pubblico interesse stabiliti dalla legge nel rispetto dei diritti e tenendo conto degli interessi dei privati secondo i programmi e le direttive deliberati dal Congresso di Stato per il raggiungimento degli obiettivi da questo prefissati. A tal fine l’azione amministrativa, oltre a conformarsi ai criteri di legalità, imparzialità ed efficienza, si esplica con autonomia operativa e responsabilità di gestione secondo criteri di pubblicità, efficacia ed economicità. In particolare, la presente legge attua i principi e le disposizioni contenuti:
 
 a) nell’articolo 3, commi 14 e 15 e nell’articolo 14 della “Dichiarazione dei diritti dei cittadini e dei principi fondamentali dell’ordinamento sammarinese;
 
@@ -71,25 +69,17 @@ c) nell’articolo 16 della Legge Qualificata 15 dicembre 2005 n. 184;
 
 d) negli articoli 1 e 5 della Legge 31 luglio 2009 n. 105.
 
-2.
-
-Fatto salvo quanto previsto al Titolo IV, la presente legge si applica:
+2\. Fatto salvo quanto previsto al Titolo IV, la presente legge si applica:
 
 a) all’Amministrazione Pubblica intesa come l’intero complesso degli organi, uffici, servizi, aziende ed enti autonomi dello Stato, altrimenti detta anche Amministrazione;
 
 b) ai soggetti “interessati”, cioè destinatari di provvedimenti amministrativi che incidono su una situazione giuridica soggettiva di cui sono titolari.
 
-3.
+3\. Le disposizioni della presente legge si applicano altresì all’Amministrazione ed a persone pubbliche o private che erogano un pubblico servizio, se ed in quanto compatibili e fatte salve norme speciali.
 
-Le disposizioni della presente legge si applicano altresì all’Amministrazione ed a persone pubbliche o private che erogano un pubblico servizio, se ed in quanto compatibili e fatte salve norme speciali.
+4\. L’Amministrazione, se non è tenuta al rispetto di specifiche norme che disciplinano singoli procedimenti, svolge la propria azione secondo le disposizioni della presente legge. Le disposizioni della presente legge comunque integrano, se necessario e in quanto compatibili, le discipline dei singoli procedimenti.
 
-4.
-
-L’Amministrazione, se non è tenuta al rispetto di specifiche norme che disciplinano singoli procedimenti, svolge la propria azione secondo le disposizioni della presente legge. Le disposizioni della presente legge comunque integrano, se necessario e in quanto compatibili, le discipline dei singoli procedimenti.
-
-5.
-
-Le disposizioni di cui alla presente legge non si applicano:
+5\. Le disposizioni di cui alla presente legge non si applicano:
 
 a) ai procedimenti giurisdizionali;
 
@@ -107,13 +97,9 @@ f) agli atti a contenuto generale, di pianificazione e programmazione. 1
 
 (Principi generali)
 
-1.
+1\. Nelle relazioni con i cittadini l’Amministrazione, oltre a conformarsi ai criteri di cui all’articolo 1, si attiene al rispetto dei principi di buona fede e di trasparenza, astenendosi da ogni atto arbitrario e da ogni superfluo formalismo, tale da rendere inutilmente più gravoso il procedimento.
 
-Nelle relazioni con i cittadini l’Amministrazione, oltre a conformarsi ai criteri di cui all’articolo 1, si attiene al rispetto dei principi di buona fede e di trasparenza, astenendosi da ogni atto arbitrario e da ogni superfluo formalismo, tale da rendere inutilmente più gravoso il procedimento.
-
-2.
-
-L’Amministrazione esercita il potere discrezionale nei casi ed entro i limiti stabiliti dalla legge, secondo criteri di obiettività, di ragionevolezza e di proporzionalità, nonché in modo conforme allo scopo per il quale il potere discrezionale le è conferito, adottando i provvedimenti più appropriati tenuto conto delle circostanze. L’Amministrazione conforma la propria azione alla realizzazione
+2\. L’Amministrazione esercita il potere discrezionale nei casi ed entro i limiti stabiliti dalla legge, secondo criteri di obiettività, di ragionevolezza e di proporzionalità, nonché in modo conforme allo scopo per il quale il potere discrezionale le è conferito, adottando i provvedimenti più appropriati tenuto conto delle circostanze. L’Amministrazione conforma la propria azione alla realizzazione
 
 TESTO ORIGINARIO (Legge n. 160/2011)
 
@@ -169,9 +155,7 @@ Decreto - Legge 25 luglio 2016 n. 89
 
 dell’interesse generale, astenendosi da comportamenti volti ad assicurare ad alcuno vantaggi indebiti.
 
-3.
-
-Qualora per il numero degli interessati le comunicazioni personali e le notificazioni non siano possibili in forma individuale o risultino particolarmente gravose, l’Amministrazione provvede a rendere noti gli elementi necessari mediante forme di pubblicità idonee di volta in volta stabilite dall’Amministrazione medesima.
+3\. Qualora per il numero degli interessati le comunicazioni personali e le notificazioni non siano possibili in forma individuale o risultino particolarmente gravose, l’Amministrazione provvede a rendere noti gli elementi necessari mediante forme di pubblicità idonee di volta in volta stabilite dall’Amministrazione medesima.
 
 In particolare, nei casi di cui al precedente periodo le comunicazioni e notificazioni individuali, anche relative ad atti e provvedimenti amministrativi cumulativi, potranno essere sostituite dalla pubblicazione all’Albo dell’ufficio competente e sul portale dell’Amministrazione. Non possono essere oggetto di pubblicazione i soli dati di cui all’articolo 8, comma 1 della Legge 21 dicembre 2018 n.171.2
 
@@ -179,9 +163,7 @@ In particolare, nei casi di cui al precedente periodo le comunicazioni e notific
 
 (Cooperazione e collaborazione tra le Amministrazioni)
 
-1.
-
-Le relazioni tra gli organi, uffici, servizi, aziende ed enti dello Stato si esplicano conformemente ai principi di cooperazione e di collaborazione nel rispetto delle rispettive competenze, ai fini del più efficace svolgimento delle funzioni e della più economica ed efficiente erogazione dei servizi ai cittadini.
+1\. Le relazioni tra gli organi, uffici, servizi, aziende ed enti dello Stato si esplicano conformemente ai principi di cooperazione e di collaborazione nel rispetto delle rispettive competenze, ai fini del più efficace svolgimento delle funzioni e della più economica ed efficiente erogazione dei servizi ai cittadini.
 
 ### Art.4
 
@@ -213,41 +195,29 @@ DECRETO DELEGATO 29 ottobre 2021 n.184
 
 “3. Qualora per il numero degli interessati le comunicazioni personali e le notificazioni non siano possibili in forma individuale o risultino particolarmente gravose, l’Amministrazione provvede a rendere noti gli elementi necessari mediante forme di pubblicità idonee di volta in volta stabilite dall’Amministrazione medesima. In particolare, nei casi di cui al precedente periodo le comunicazioni e notificazioni individuali, anche relative ad atti e provvedimenti amministrativi cumulativi, potranno essere sostituite dalla pubblicazione all’Albo dell’ufficio competente e sul portale dell’Amministrazione. Non possono essere oggetto di pubblicazione i soli dati di cui all’articolo 8, comma 1 della Legge 21 dicembre 2018 n.171.”.
 
-1.
-
-Nell’esercizio delle proprie funzioni, per un più efficiente svolgimento della sua attività l’Amministrazione si avvale, sia nei rapporti interni tra i vari Uffici, enti ed aziende, sia con i privati, delle tecniche e dei mezzi elettronici, informatici e telematici, nei limiti consentiti dalle leggi vigenti.
+1\. Nell’esercizio delle proprie funzioni, per un più efficiente svolgimento della sua attività l’Amministrazione si avvale, sia nei rapporti interni tra i vari Uffici, enti ed aziende, sia con i privati, delle tecniche e dei mezzi elettronici, informatici e telematici, nei limiti consentiti dalle leggi vigenti.
 
 ### Art.5
 
 (Obbligo di provvedere)
 
-1.
-
-L’Amministrazione è tenuta a concludere un procedimento con l’adozione di un provvedimento espresso qualora si tratti di un atto dovuto, cioè la sua emissione sia prescritta dalla legge. Tali procedimenti possono essere:
+1\. L’Amministrazione è tenuta a concludere un procedimento con l’adozione di un provvedimento espresso qualora si tratti di un atto dovuto, cioè la sua emissione sia prescritta dalla legge. Tali procedimenti possono essere:
 
 a) iniziati su istanza degli “interessati”, così come definiti all’articolo 1, comma 2, lettera b);
 
 b) iniziati d’ufficio.
 
-2.
-
-Qualora un procedimento si estingua per revoca o decadenza dell’atto di inizio, per rinuncia della parte istante ovvero per qualsiasi altra causa prevista dalla legge il provvedimento consisterà nella dichiarazione dell’estinzione con l’indicazione del fatto o dell’atto o della circostanza che l’ha determinata e delle norme applicabili.
+2\. Qualora un procedimento si estingua per revoca o decadenza dell’atto di inizio, per rinuncia della parte istante ovvero per qualsiasi altra causa prevista dalla legge il provvedimento consisterà nella dichiarazione dell’estinzione con l’indicazione del fatto o dell’atto o della circostanza che l’ha determinata e delle norme applicabili.
 
 ### Art.6
 
 (Termini)
 
-1.
+1\. Il termine massimo entro il quale deve essere adottato il provvedimento a norma dell’articolo 5, comma 1 è fissato dalla legge ovvero dalle disposizioni regolatrici di ciascun procedimento.
 
-Il termine massimo entro il quale deve essere adottato il provvedimento a norma dell’articolo 5, comma 1 è fissato dalla legge ovvero dalle disposizioni regolatrici di ciascun procedimento.
+2\. Qualora non sia preventivamente determinato ai sensi del comma 1, il termine massimo entro il quale deve essere adottato il provvedimento a norma dell’articolo 5, comma 1 è di sessanta giorni. Il termine decorre dalla data comunicata con l’avvio del procedimento dall’Amministrazione competente.
 
-2.
-
-Qualora non sia preventivamente determinato ai sensi del comma 1, il termine massimo entro il quale deve essere adottato il provvedimento a norma dell’articolo 5, comma 1 è di sessanta giorni. Il termine decorre dalla data comunicata con l’avvio del procedimento dall’Amministrazione competente.
-
-3.
-
-Il termine di cui al comma 1 o al comma 2 è sospeso nei seguenti casi:
+3\. Il termine di cui al comma 1 o al comma 2 è sospeso nei seguenti casi:
 
 a) quando l’ufficio procedente, ai fini dell’adozione del provvedimento, debba obbligatoriamente acquisire, anche da un altro ufficio dell’Amministrazione o da specifici enti, pareri, rapporti, valutazioni tecniche o relazioni informative;
 
@@ -257,9 +227,7 @@ c) quando sia necessario o opportuno richiedere agli interessati documenti, info
 
 d) quando sia necessario richiedere agli interessati di integrare la domanda o la documentazione prodotta al fine di sanare irregolarità formali che non siano tali da determinarne l’irricevibilità.
 
-4.
-
-Il termine di cui al comma 1 o al comma 2, è sospeso fino all’acquisizione di quanto richiesto nei casi di cui al comma 3, lettere a), b), c) e d), ovvero fino alla scadenza del termine assegnato agli interessati nei casi di cui al comma 3, lettere c) e
+4\. Il termine di cui al comma 1 o al comma 2, è sospeso fino all’acquisizione di quanto richiesto nei casi di cui al comma 3, lettere a), b), c) e d), ovvero fino alla scadenza del termine assegnato agli interessati nei casi di cui al comma 3, lettere c) e
 
 d). In ogni caso la sospensione non può superare i due mesi dalla data di invio delle richieste ai sensi del comma 3. Il mancato rispetto del termine di sanatoria delle irregolarità formali ai sensi della lettera d) del comma 3 determina la decadenza della domanda, senza pregiudizio per il diritto di presentarne una nuova purché non siano scaduti eventuali termini perentori. 3
 
@@ -309,21 +277,13 @@ d) quando sia necessario richiedere agli interessati di integrare la domanda o l
 
 (Silenzio)
 
-1.
+1\. Fatto salvo quanto previsto al successivo comma 3, nei procedimenti ad istanza di parte volti al rilascio di provvedimenti, il silenzio dell’Amministrazione equivale a provvedimento di accoglimento della domanda, senza necessità di ulteriori istanze o diffide, se il competente ufficio od organo dello Stato non comunica all’interessato, nei termini di cui all’articolo 6, il provvedimento di diniego. Tali termini decorrono dalla data di ricevimento della domanda del privato.
 
-Fatto salvo quanto previsto al successivo comma 3, nei procedimenti ad istanza di parte volti al rilascio di provvedimenti, il silenzio dell’Amministrazione equivale a provvedimento di accoglimento della domanda, senza necessità di ulteriori istanze o diffide, se il competente ufficio od organo dello Stato non comunica all’interessato, nei termini di cui all’articolo 6, il provvedimento di diniego. Tali termini decorrono dalla data di ricevimento della domanda del privato.
+2\. Nei casi in cui il silenzio equivalga ad accoglimento della domanda, il competente ufficio od organo dello Stato può assumere determinazioni in via di autotutela, ai sensi del Titolo VI della presente legge.
 
-2.
+3\. I provvedimenti in relazione ai quali si applichi l’istituto del silenzio assenso sono individuati tramite regolamento del Congresso di Stato. L’istituto del silenzio assenso non si applica agli atti e procedimenti in cui siano coinvolti interessi pubblici connessi alla tutela ambientale, idrogeologica, paesaggistico-territoriale, alla conservazione dei beni artistici, culturali e monumentali, alla salute ed alla pubblica incolumità, alla cittadinanza, residenza e soggiorno in territorio.
 
-Nei casi in cui il silenzio equivalga ad accoglimento della domanda, il competente ufficio od organo dello Stato può assumere determinazioni in via di autotutela, ai sensi del Titolo VI della presente legge.
-
-3.
-
-I provvedimenti in relazione ai quali si applichi l’istituto del silenzio assenso sono individuati tramite regolamento del Congresso di Stato. L’istituto del silenzio assenso non si applica agli atti e procedimenti in cui siano coinvolti interessi pubblici connessi alla tutela ambientale, idrogeologica, paesaggistico-territoriale, alla conservazione dei beni artistici, culturali e monumentali, alla salute ed alla pubblica incolumità, alla cittadinanza, residenza e soggiorno in territorio.
-
-4.
-
-Salvo i casi in cui nei procedimenti avviati ad istanza di parte il silenzio dell’Amministrazione adita protratto oltre i termini di cui all’articolo 6 sia considerato ai sensi dei superiori commi nonché per espressa ulteriore disposizione di legge come accoglimento dell’istanza, contro il comportamento omissivo dell’Amministrazione protratto oltre i medesimi termini si applica l’articolo 10, comma 2, della Legge 28 giugno 1989 n.68. 4
+4\. Salvo i casi in cui nei procedimenti avviati ad istanza di parte il silenzio dell’Amministrazione adita protratto oltre i termini di cui all’articolo 6 sia considerato ai sensi dei superiori commi nonché per espressa ulteriore disposizione di legge come accoglimento dell’istanza, contro il comportamento omissivo dell’Amministrazione protratto oltre i medesimi termini si applica l’articolo 10, comma 2, della Legge 28 giugno 1989 n.68. 4
 
 c) e d). In ogni caso la sospensione non può superare i due mesi dalla data di invio delle richieste ai sensi del comma 3.
 
@@ -353,41 +313,27 @@ INIZIO DEL PROCEDIMENTO. PARTECIPAZIONE
 
 (Modi di inizio del procedimento)
 
-1.
+1\. I procedimenti amministrativi possono iniziarsi d’ufficio o su istanza di uno dei soggetti “interessati”, ai sensi dell’articolo 1, comma 2, lettera b).
 
-I procedimenti amministrativi possono iniziarsi d’ufficio o su istanza di uno dei soggetti “interessati”, ai sensi dell’articolo 1, comma 2, lettera b).
-
-2.
-
-L’istanza dà inizio ad un procedimento amministrativo regolato dalle norme della presente legge solo quando chi la propone ha un diritto soggettivo o un interesse legittimo a che sia emanato un provvedimento.
+2\. L’istanza dà inizio ad un procedimento amministrativo regolato dalle norme della presente legge solo quando chi la propone ha un diritto soggettivo o un interesse legittimo a che sia emanato un provvedimento.
 
 ### Art. 9
 
 (Inizio del procedimento)
 
-1.
+1\. L’Amministrazione decide quando avviare un procedimento amministrativo d’ufficio sulla base di una adeguata valutazione discrezionale.
 
-L’Amministrazione decide quando avviare un procedimento amministrativo d’ufficio sulla base di una adeguata valutazione discrezionale.
-
-2.
-
-L’Amministrazione è comunque tenuta a procedere d’ufficio ogni volta che debba adottare un provvedimento in esecuzione di una norma di legge o di regolamento.
+2\. L’Amministrazione è comunque tenuta a procedere d’ufficio ogni volta che debba adottare un provvedimento in esecuzione di una norma di legge o di regolamento.
 
 ### Art. 10
 
 (Presentazione delle istanze)
 
-1.
+1\. Ogni istanza diretta alla Pubblica Amministrazione deve essere presentata o inviata in forma scritta, a meno che disposizioni particolari non stabiliscano una forma diversa, all’organo competente a emettere il provvedimento.
 
-Ogni istanza diretta alla Pubblica Amministrazione deve essere presentata o inviata in forma scritta, a meno che disposizioni particolari non stabiliscano una forma diversa, all’organo competente a emettere il provvedimento.
+2\. Salvo che la legge non richieda la formazione di uno specifico verbale, delle istanze è presa nota e ne è rilasciata ricevuta direttamente nelle mani dell’istante ovvero per mezzo posta con raccomandata con avviso di ricevimento, qualora l’istanza sia trasmessa a mezzo posta ordinaria.
 
-2.
-
-Salvo che la legge non richieda la formazione di uno specifico verbale, delle istanze è presa nota e ne è rilasciata ricevuta direttamente nelle mani dell’istante ovvero per mezzo posta con raccomandata con avviso di ricevimento, qualora l’istanza sia trasmessa a mezzo posta ordinaria.
-
-3.
-
-Non si rilascia ricevuta:
+3\. Non si rilascia ricevuta:
 
 a) quando il provvedimento richiesto è emesso immediatamente;
 
@@ -399,37 +345,25 @@ a) quando il provvedimento richiesto è emesso immediatamente;
 
 b) quando l’istanza è notificata a mezzo di ufficiale giudiziario.
 
-4.
+4\. Quando l’istanza sia stata spedita con le forme e modalità di cui al comma 5, non è obbligatorio il rilascio della ricevuta.
 
-Quando l’istanza sia stata spedita con le forme e modalità di cui al comma 5, non è obbligatorio il rilascio della ricevuta.
-
-5.
-
-Salvo che la legge disponga diversamente, la spedizione delle istanze di cui al comma 1 può essere eseguita per mezzo posta, con raccomandata con avviso di ricevimento o per via telematica o per telefax, sulla base delle disposizioni vigenti. La spedizione per via telematica equivale alla spedizione per mezzo posta se è eseguita con le modalità e le forme di cui all’articolo 3 della Legge 20 luglio 2005 n. 115, tenuto conto del Decreto 8 settembre 2005 n. 156 e comunque in conformità alle norme vigenti sulla trasmissione per via telematica.5
+5\. Salvo che la legge disponga diversamente, la spedizione delle istanze di cui al comma 1 può essere eseguita per mezzo posta, con raccomandata con avviso di ricevimento o per via telematica o per telefax, sulla base delle disposizioni vigenti. La spedizione per via telematica equivale alla spedizione per mezzo posta se è eseguita con le modalità e le forme di cui all’articolo 3 della Legge 20 luglio 2005 n. 115, tenuto conto del Decreto 8 settembre 2005 n. 156 e comunque in conformità alle norme vigenti sulla trasmissione per via telematica.5
 
 ### Art. 11
 
 (Rappresentanza)
 
-1.
+1\. Gli interessati possono presentare le loro istanze anche per mezzo di uno o più rappresentanti. In tal caso la delega deve essere rilasciata per iscritto.
 
-Gli interessati possono presentare le loro istanze anche per mezzo di uno o più rappresentanti. In tal caso la delega deve essere rilasciata per iscritto.
-
-2.
-
-La delega conferisce al rappresentante la facoltà di rappresentare l’interessato nella trattazione dell’affare a tutti gli effetti, a meno che la legge non disponga diversamente.
+2\. La delega conferisce al rappresentante la facoltà di rappresentare l’interessato nella trattazione dell’affare a tutti gli effetti, a meno che la legge non disponga diversamente.
 
 ### Art. 12
 
 (Comunicazione di inizio del procedimento)
 
-1.
+1\. Salvo i casi di cui all’articolo 14, comma 3, l’Amministrazione che proceda d’ufficio o su proposta di altra autorità è tenuta a darne comunicazione agli “interessati” di cui all’articolo 1, comma 2, lettera b) e ai soggetti di cui all’articolo 14, comma 2, qualora individuati o facilmente individuabili.
 
-Salvo i casi di cui all’articolo 14, comma 3, l’Amministrazione che proceda d’ufficio o su proposta di altra autorità è tenuta a darne comunicazione agli “interessati” di cui all’articolo 1, comma 2, lettera b) e ai soggetti di cui all’articolo 14, comma 2, qualora individuati o facilmente individuabili.
-
-2.
-
-Per i procedimenti ad istanza di parte la consegna o l’invio della ricevuta dell’istanza ai sensi dell’articolo 10 costituisce la comunicazione dell’inizio del procedimento.
+2\. Per i procedimenti ad istanza di parte la consegna o l’invio della ricevuta dell’istanza ai sensi dell’articolo 10 costituisce la comunicazione dell’inizio del procedimento.
 
 ### Art. 13
 
@@ -447,13 +381,9 @@ Decreto Delegato 29 marzo 2021 n. 61
 
 (Forma e contenuto della comunicazione)
 
-1.
+1\. L’Amministrazione comunica l’inizio del procedimento con raccomandata con avviso di ricevimento.
 
-L’Amministrazione comunica l’inizio del procedimento con raccomandata con avviso di ricevimento.
-
-2.
-
-Nella comunicazione debbono essere indicati:
+2\. Nella comunicazione debbono essere indicati:
 
 a) l’Amministrazione competente;
 
@@ -467,33 +397,21 @@ e) nei procedimenti ad iniziativa di parte, la data di presentazione della relat
 
 f) l’ufficio in cui si può prendere visione degli atti.
 
-3.
+3\. L’omissione totale o parziale della comunicazione di cui al presente articolo può esser fatta valere esclusivamente dagli interessati.
 
-L’omissione totale o parziale della comunicazione di cui al presente articolo può esser fatta valere esclusivamente dagli interessati.
+4\. Le indicazioni di cui al comma 2 possono essere inserite nella ricevuta dell’istanza.
 
-4.
-
-Le indicazioni di cui al comma 2 possono essere inserite nella ricevuta dell’istanza.
-
-5.
-
-Quando non si rilascia ricevuta ai sensi dell’articolo 10, comma 3, salvo il caso di cui alla lettera a) del medesimo comma, l’Amministrazione deve comunque inviare al più presto una comunicazione contenente le indicazioni di cui al presente articolo, comma 2.
+5\. Quando non si rilascia ricevuta ai sensi dell’articolo 10, comma 3, salvo il caso di cui alla lettera a) del medesimo comma, l’Amministrazione deve comunque inviare al più presto una comunicazione contenente le indicazioni di cui al presente articolo, comma 2.
 
 ### Art. 14
 
 (Partecipazione)
 
-1.
+1\. Salvo disposizione contraria, in caso di procedimento d’ufficio le norme del presente titolo trovano applicazione solo quando il procedimento implichi l’adozione di provvedimenti che incidano su un diritto o un interesse legittimo dei destinatari.
 
-Salvo disposizione contraria, in caso di procedimento d’ufficio le norme del presente titolo trovano applicazione solo quando il procedimento implichi l’adozione di provvedimenti che incidano su un diritto o un interesse legittimo dei destinatari.
+2\. L’Amministrazione adotta tutte le misure necessarie affinché nei procedimenti i soggetti “interessati”, ai sensi dell’articolo 1, comma 2, lettera b), possano partecipare ai relativi procedimenti ai fini delle più compiute realizzazione e tutela dei loro diritti soggettivi e interessi legittimi. Analoghe misure adotta nei procedimenti d’ufficio nei confronti dei soggetti di cui al comma 1 del presente articolo. L’Amministrazione può ammettere a partecipare anche soggetti portatori di interessi, anche pubblici e diffusi, nei confronti dei quali il provvedimento può causare un pregiudizio. In ogni caso la eventuale mancata partecipazione non pregiudica la prosecuzione del procedimento.
 
-2.
-
-L’Amministrazione adotta tutte le misure necessarie affinché nei procedimenti i soggetti “interessati”, ai sensi dell’articolo 1, comma 2, lettera b), possano partecipare ai relativi procedimenti ai fini delle più compiute realizzazione e tutela dei loro diritti soggettivi e interessi legittimi. Analoghe misure adotta nei procedimenti d’ufficio nei confronti dei soggetti di cui al comma 1 del presente articolo. L’Amministrazione può ammettere a partecipare anche soggetti portatori di interessi, anche pubblici e diffusi, nei confronti dei quali il provvedimento può causare un pregiudizio. In ogni caso la eventuale mancata partecipazione non pregiudica la prosecuzione del procedimento.
-
-3.
-
-La disposizione del comma 2 non si applica nei seguenti casi:
+3\. La disposizione del comma 2 non si applica nei seguenti casi:
 
 a) qualora sussistano ragioni derivanti da particolari esigenze di celerità del procedimento;
 
@@ -505,21 +423,15 @@ d) quando la sua applicazione possa compromettere l’ordine pubblico interno, l
 
 e) in tutti i procedimenti nei quali la partecipazione sia disciplinata in modo specifico da norme particolari.
 
-4.
+4\. L’Amministrazione ha comunque facoltà di assumere provvedimenti cautelari anche prima di aver dato comunicazione agli interessati dell’inizio del procedimento.
 
-L’Amministrazione ha comunque facoltà di assumere provvedimenti cautelari anche prima di aver dato comunicazione agli interessati dell’inizio del procedimento.
-
-5.
-
-I privati che partecipano ai procedimenti conformano i propri comportamenti alla buona fede e alla correttezza e comunque a criteri tali da non impedire o non ostacolare o ritardare il buon andamento e l’efficienza dell’azione amministrativa.
+5\. I privati che partecipano ai procedimenti conformano i propri comportamenti alla buona fede e alla correttezza e comunque a criteri tali da non impedire o non ostacolare o ritardare il buon andamento e l’efficienza dell’azione amministrativa.
 
 ### Art. 15
 
 (Diritti dei soggetti che intervengono)
 
-1.
-
-I soggetti che possono intervenire ai sensi dell’articolo 14 hanno diritto:
+1\. I soggetti che possono intervenire ai sensi dell’articolo 14 hanno diritto:
 
 a) di conoscere lo stato del procedimento;
 
@@ -527,9 +439,7 @@ b) di prendere visione degli atti del procedimento e di estrarne copia, salvo qu
 
 c) di presentare osservazioni ovvero proposte per iscritto o con audizioni, nonché di allegare documenti.
 
-2.
-
-L’Amministrazione non è tenuta ad accogliere richieste di audizione manifestamente pretestuose, dilatorie o ripetitive.
+2\. L’Amministrazione non è tenuta ad accogliere richieste di audizione manifestamente pretestuose, dilatorie o ripetitive.
 
 3\. L’Amministrazione ha l'obbligo di prendere in considerazione gli atti di cui al comma 1, lettera c) valutandone la rilevanza. Si applica l’articolo 18.
 
@@ -541,41 +451,27 @@ COMPETENZA E RESPONSABILITÀ DEL PROCEDIMENTO E DEL PROVVEDIMENTO
 
 (Competenza, responsabilità e identificazione dei procedimenti)
 
-1.
+1\. Qualora non sia previsto altrimenti da specifiche norme di legge che disciplinano singoli procedimenti, ciascun Dirigente del Settore Pubblico Allargato è competente per l’adozione dei provvedimenti amministrativi necessari per il perseguimento della missione e delle funzioni di tutela e di realizzazione del pubblico interesse in capo all’Unità Organizzativa della quale ha la dirigenza, ed è responsabile dell’attività istruttoria dei relativi procedimenti e di ogni altro relativo adempimento.
 
-Qualora non sia previsto altrimenti da specifiche norme di legge che disciplinano singoli procedimenti, ciascun Dirigente del Settore Pubblico Allargato è competente per l’adozione dei provvedimenti amministrativi necessari per il perseguimento della missione e delle funzioni di tutela e di realizzazione del pubblico interesse in capo all’Unità Organizzativa della quale ha la dirigenza, ed è responsabile dell’attività istruttoria dei relativi procedimenti e di ogni altro relativo adempimento.
+2\. Le singole Unità Organizzative dell’Amministrazione ed i singoli enti sono tenuti ad identificare i provvedimenti ed i relativi procedimenti di loro competenza. La Direzione Generale della Funzione Pubblica e i Direttori Generali degli Enti predispongono e aggiornano una apposita tabella recante l’indicazione di tali provvedimenti e dei relativi procedimenti sulla base delle indicazioni fornite dalle singole Unità organizzative/Enti.
 
-2.
-
-Le singole Unità Organizzative dell’Amministrazione ed i singoli enti sono tenuti ad identificare i provvedimenti ed i relativi procedimenti di loro competenza. La Direzione Generale della Funzione Pubblica e i Direttori Generali degli Enti predispongono e aggiornano una apposita tabella recante l’indicazione di tali provvedimenti e dei relativi procedimenti sulla base delle indicazioni fornite dalle singole Unità organizzative/Enti.
-
-3.
-
-La tabella, è resa pubblica e posta a disposizione del pubblico in forma aggiornata presso ciascuna Unità Organizzativa ed Ente e nei pertinenti siti internet, nonché nel sito della Direzione Generale della Funzione Pubblica.
+3\. La tabella, è resa pubblica e posta a disposizione del pubblico in forma aggiornata presso ciascuna Unità Organizzativa ed Ente e nei pertinenti siti internet, nonché nel sito della Direzione Generale della Funzione Pubblica.
 
 ### Art. 17
 
 (Responsabilità del procedimento)
 
-1.
+1\. I Dirigenti del Settore Pubblico Allargato e il personale in servizio, ai quali compete l’adozione di provvedimenti amministrativi o che concorrano in qualsiasi forma, in ragione del loro ufficio, allo svolgimento dei relativi procedimenti sono personalmente responsabili per le azioni o per le omissioni rilevanti al buon andamento della trattazione degli affari di loro competenza o che vengano loro affidati; essi adottano le misure opportune per rimuovere gli ostacoli che impediscano, rendano difficile o ritardino il pieno esercizio dei diritti degli interessati o la tutela dei loro interessi legittimi, disponendo quanto è necessario per evitare o eliminare qualsiasi irregolarità nella trattazione dei procedimenti. Essi si astengono dall’agire in vista del proprio interesse personale e dall’utilizzare le prerogative legate al loro ufficio nell’interesse particolare di individui o di gruppi di individui, allo scopo di ottenere un interesse personale diretto o indiretto; in particolare, si astengono da qualsiasi tipo di comportamento volto ad ottenere un vantaggio indebito per compiere o omettere atti conformi ai propri doveri o compiere atti contrari al proprio ufficio.
 
-I Dirigenti del Settore Pubblico Allargato e il personale in servizio, ai quali compete l’adozione di provvedimenti amministrativi o che concorrano in qualsiasi forma, in ragione del loro ufficio, allo svolgimento dei relativi procedimenti sono personalmente responsabili per le azioni o per le omissioni rilevanti al buon andamento della trattazione degli affari di loro competenza o che vengano loro affidati; essi adottano le misure opportune per rimuovere gli ostacoli che impediscano, rendano difficile o ritardino il pieno esercizio dei diritti degli interessati o la tutela dei loro interessi legittimi, disponendo quanto è necessario per evitare o eliminare qualsiasi irregolarità nella trattazione dei procedimenti. Essi si astengono dall’agire in vista del proprio interesse personale e dall’utilizzare le prerogative legate al loro ufficio nell’interesse particolare di individui o di gruppi di individui, allo scopo di ottenere un interesse personale diretto o indiretto; in particolare, si astengono da qualsiasi tipo di comportamento volto ad ottenere un vantaggio indebito per compiere o omettere atti conformi ai propri doveri o compiere atti contrari al proprio ufficio.
+2\. Il Dirigente competente ai sensi del comma 1 dell’articolo 16 provvede al più presto ad assegnare nell’ambito della Unità Organizzativa di competenza la responsabilità dell’attività istruttoria di ogni singolo procedimento ed eventualmente del provvedimento da adottare. Il Dirigente può in ogni momento revocare l’assegnazione.
 
-2.
-
-Il Dirigente competente ai sensi del comma 1 dell’articolo 16 provvede al più presto ad assegnare nell’ambito della Unità Organizzativa di competenza la responsabilità dell’attività istruttoria di ogni singolo procedimento ed eventualmente del provvedimento da adottare. Il Dirigente può in ogni momento revocare l’assegnazione.
-
-3.
-
-Della assegnazione a norma del comma 2 o della sua eventuale revoca è data immediata comunicazione agli interessati di cui all’articolo 14, comma 2.
+3\. Della assegnazione a norma del comma 2 o della sua eventuale revoca è data immediata comunicazione agli interessati di cui all’articolo 14, comma 2.
 
 ### Art. 18
 
 (Funzioni del responsabile del procedimento)
 
-1.
-
-Il responsabile del procedimento:
+1\. Il responsabile del procedimento:
 
 a) valuta le condizioni di ammissibilità, i requisiti di legittimazione e i presupposti rilevanti per l’adozione del provvedimento;
 
@@ -591,9 +487,7 @@ f) cura i rapporti con tutti i soggetti interessati al provvedimento e esegue le
 
 g) adotta il provvedimento finale se ne ha la competenza, ovvero formula la proposta di provvedimento con le proprie valutazioni e trasmette gli atti preparatori all’autorità competente per l’adozione.
 
-2.
-
-L’autorità competente per l’adozione del provvedimento finale, in caso sia diversa dal responsabile del procedimento, qualora si discosti dalle risultanze dell’attività istruttoria e dalla proposta di provvedimento formulata ai sensi della lettera
+2\. L’autorità competente per l’adozione del provvedimento finale, in caso sia diversa dal responsabile del procedimento, qualora si discosti dalle risultanze dell’attività istruttoria e dalla proposta di provvedimento formulata ai sensi della lettera
 
 g) del comma 1, deve darne motivazione nel provvedimento finale. In ogni caso la medesima autorità può sempre richiedere un supplemento di attività istruttoria tenuto conto dei termini entro il quale deve essere adottato il provvedimento a norma dell’articolo 6.
 
@@ -601,75 +495,47 @@ g) del comma 1, deve darne motivazione nel provvedimento finale. In ogni caso la
 
 (Documenti in possesso dell’Amministrazione)
 
-1.
+1\. Il responsabile del procedimento acquisisce d’ufficio i documenti attestanti atti, fatti, stati e qualità personali necessari per l’attività istruttoria del procedimento quando sono in possesso dell’ufficio procedente, ovvero sono detenuti da altri uffici dell’Amministrazione. I gestori di pubblici servizi accedono ai dati dell’amministrazione in base alle regole stabilite con Decreto Delegato. L’ufficio procedente può richiedere agli interessati i soli elementi necessari per la ricerca dei documenti.
 
-Il responsabile del procedimento acquisisce d’ufficio i documenti attestanti atti, fatti, stati e qualità personali necessari per l’attività istruttoria del procedimento quando sono in possesso dell’ufficio procedente, ovvero sono detenuti da altri uffici dell’Amministrazione. I gestori di pubblici servizi accedono ai dati dell’amministrazione in base alle regole stabilite con Decreto Delegato. L’ufficio procedente può richiedere agli interessati i soli elementi necessari per la ricerca dei documenti.
+2\. Il responsabile del procedimento accerta d’ufficio i fatti, gli atti, gli stati e le qualità personali che lo stesso ufficio procedente o altro ufficio dell’Amministrazione è tenuta a certificare.
 
-2.
-
-Il responsabile del procedimento accerta d’ufficio i fatti, gli atti, gli stati e le qualità personali che lo stesso ufficio procedente o altro ufficio dell’Amministrazione è tenuta a certificare.
-
-3.
-
-Si applicano, in quanto compatibili, le vigenti disposizioni sulla documentazione amministrativa.
+3\. Si applicano, in quanto compatibili, le vigenti disposizioni sulla documentazione amministrativa.
 
 ### Art. 20
 
 (Pareri e valutazioni tecniche)
 
-1.
+1\. Qualora un ufficio dell’Amministrazione sia competente ad esprimere un parere in via obbligatoria, è tenuto a rilasciarlo entro il termine massimo di trenta giorni dalla data del ricevimento della richiesta o in tempi più brevi in caso di urgenza.
 
-Qualora un ufficio dell’Amministrazione sia competente ad esprimere un parere in via obbligatoria, è tenuto a rilasciarlo entro il termine massimo di trenta giorni dalla data del ricevimento della richiesta o in tempi più brevi in caso di urgenza.
+2\. Se il parere è richiesto in via facoltativa, l’ufficio dell’Amministrazione cui il parere è richiesto deve comunicare immediatamente all’ufficio richiedente il termine entro il quale renderà il parere.
 
-2.
+3\. Nel caso di inutile decorso dei termini di cui ai commi 1 e 2, l’ufficio richiedente può procedere anche in mancanza del parere richiesto, a meno che l’ufficio che deve rilasciarlo non richieda, per una sola volta, un prolungamento del termine non superiore ai quindici giorni per necessità istruttorie.
 
-Se il parere è richiesto in via facoltativa, l’ufficio dell’Amministrazione cui il parere è richiesto deve comunicare immediatamente all’ufficio richiedente il termine entro il quale renderà il parere.
+4\. Qualora un ufficio dell’Amministrazione sia competente ad esprimere una valutazione tecnica la cui acquisizione sia necessaria per l’adozione di un provvedimento, è tenuto a rilasciarla entro trenta giorni dalla data del ricevimento della richiesta.
 
-3.
-
-Nel caso di inutile decorso dei termini di cui ai commi 1 e 2, l’ufficio richiedente può procedere anche in mancanza del parere richiesto, a meno che l’ufficio che deve rilasciarlo non richieda, per una sola volta, un prolungamento del termine non superiore ai quindici giorni per necessità istruttorie.
-
-4.
-
-Qualora un ufficio dell’Amministrazione sia competente ad esprimere una valutazione tecnica la cui acquisizione sia necessaria per l’adozione di un provvedimento, è tenuto a rilasciarla entro trenta giorni dalla data del ricevimento della richiesta.
-
-5.
-
-L’ufficio che deve rilasciare una valutazione tecnica ai sensi del comma 4 può richiedere, per una sola volta, un prolungamento del termine non superiore ai quindici giorni per necessità istruttorie. Nel caso di inutile decorso del termine di cui al comma 4, ovvero del termine prorogato di cui al presente comma, l’ufficio procedente può richiedere la valutazione tecnica ad una entità pubblica o privata, preferibilmente di livello universitario, anche non sammarinese, che sia dotata di qualificazione e di capacità tecnica equivalente a quella dell’ufficio preventivamente adito.
+5\. L’ufficio che deve rilasciare una valutazione tecnica ai sensi del comma 4 può richiedere, per una sola volta, un prolungamento del termine non superiore ai quindici giorni per necessità istruttorie. Nel caso di inutile decorso del termine di cui al comma 4, ovvero del termine prorogato di cui al presente comma, l’ufficio procedente può richiedere la valutazione tecnica ad una entità pubblica o privata, preferibilmente di livello universitario, anche non sammarinese, che sia dotata di qualificazione e di capacità tecnica equivalente a quella dell’ufficio preventivamente adito.
 
 ### Art. 21
 
 (Motivazione dei provvedimenti)
 
-1.
-
-L’autorità competente per l’adozione del provvedimento finale deve curare che i provvedimenti adottati siano adeguatamente motivati a norma dell’articolo 22. 2.
+1\. L’autorità competente per l’adozione del provvedimento finale deve curare che i provvedimenti adottati siano adeguatamente motivati a norma dell’articolo 22. 2.
 
 Nella motivazione sono indicate le considerazioni di diritto e di fatto, nonché le valutazioni di carattere amministrativo o tecnico che hanno determinato la decisione dell’Amministrazione.
 
-3.
-
-Qualora la decisione sia fondata sulla base di motivi che risultano da un altro atto amministrativo richiamato nel provvedimento, con la comunicazione di questo deve essere indicato anche l’atto richiamato che deve essere reso disponibile secondo le disposizioni della presente legge.
+3\. Qualora la decisione sia fondata sulla base di motivi che risultano da un altro atto amministrativo richiamato nel provvedimento, con la comunicazione di questo deve essere indicato anche l’atto richiamato che deve essere reso disponibile secondo le disposizioni della presente legge.
 
 ### Art. 22
 
 (Obbligo di motivazione)
 
-1.
+1\. I soggetti “interessati”, ai sensi dell’articolo 1, comma 2, lettera b), hanno diritto di conoscere tempestivamente i motivi dei provvedimenti amministrativi che li riguardano quando questi siano tali da incidere restrittivamente sulla propria situazione giuridica. Coloro che sono ammessi a partecipare al procedimento amministrativo ai sensi dell’articolo 14, comma 2 possono fare richiesta della motivazione di un atto all’Amministrazione competente.
 
-I soggetti “interessati”, ai sensi dell’articolo 1, comma 2, lettera b), hanno diritto di conoscere tempestivamente i motivi dei provvedimenti amministrativi che li riguardano quando questi siano tali da incidere restrittivamente sulla propria situazione giuridica. Coloro che sono ammessi a partecipare al procedimento amministrativo ai sensi dell’articolo 14, comma 2 possono fare richiesta della motivazione di un atto all’Amministrazione competente.
+2\. I provvedimenti amministrativi, di cui alla presente legge, devono essere motivati in forma scritta ai sensi dell’articolo 21.
 
-2.
+3\. Per gli atti vincolati è sufficiente l’indicazione delle norme in applicazione delle quali il provvedimento è adottato e dei presupposti ai quali tali norme ricollegano la necessaria adozione del provvedimento.
 
-I provvedimenti amministrativi, di cui alla presente legge, devono essere motivati in forma scritta ai sensi dell’articolo 21.
-
-3.
-
-Per gli atti vincolati è sufficiente l’indicazione delle norme in applicazione delle quali il provvedimento è adottato e dei presupposti ai quali tali norme ricollegano la necessaria adozione del provvedimento.
-
-4.
-
-In via eccezionale è valido il provvedimento che non può essere motivato a causa dell’urgenza purché le ragioni dell’urgenza siano indicate nel provvedimento medesimo. In questo caso, l’ufficio che ha adottato il provvedimento deve inoltrare al soggetto interessato la motivazione del provvedimento entro e non oltre trenta giorni dalla sua adozione. Il termine per impugnare rimane sospeso fino alla data di
+4\. In via eccezionale è valido il provvedimento che non può essere motivato a causa dell’urgenza purché le ragioni dell’urgenza siano indicate nel provvedimento medesimo. In questo caso, l’ufficio che ha adottato il provvedimento deve inoltrare al soggetto interessato la motivazione del provvedimento entro e non oltre trenta giorni dalla sua adozione. Il termine per impugnare rimane sospeso fino alla data di
 
 ricevimento da parte dell’interessato della motivazione e comunque non oltre i trenta giorni.
 
@@ -677,25 +543,17 @@ ricevimento da parte dell’interessato della motivazione e comunque non oltre i
 
 (Obblighi dell’Amministrazione per i provvedimenti attributivi di vantaggi economici)
 
-1.
+1\. La concessione di sovvenzioni, contributi, sussidi ed ausili finanziari e l’attribuzione di vantaggi economici di qualunque genere sono subordinate alla predeterminazione da parte delle amministrazioni che ne hanno la competenza dei criteri e delle modalità alle quali devono attenersi.
 
-La concessione di sovvenzioni, contributi, sussidi ed ausili finanziari e l’attribuzione di vantaggi economici di qualunque genere sono subordinate alla predeterminazione da parte delle amministrazioni che ne hanno la competenza dei criteri e delle modalità alle quali devono attenersi.
-
-2.
-
-L'effettiva osservanza dei criteri e delle modalità di cui al comma 1 deve risultare dai singoli provvedimenti attributivi dei vantaggi economici di cui al presente articolo.
+2\. L'effettiva osservanza dei criteri e delle modalità di cui al comma 1 deve risultare dai singoli provvedimenti attributivi dei vantaggi economici di cui al presente articolo.
 
 ### Art. 24
 
 (Adempimenti formali)
 
-1.
+1\. I provvedimenti sono comunicati agli “interessati” di cui all’articolo 1, comma 2, lettera b), e devono contenere l’indicazione del termine entro il quale possono essere eventualmente impugnati e dell’autorità alla quale è possibile ricorrere.
 
-I provvedimenti sono comunicati agli “interessati” di cui all’articolo 1, comma 2, lettera b), e devono contenere l’indicazione del termine entro il quale possono essere eventualmente impugnati e dell’autorità alla quale è possibile ricorrere.
-
-2.
-
-Salvo che la legge disponga diversamente, la comunicazione di cui al comma 1 è eseguita per mezzo posta, tramite raccomandata con avviso di ricevimento. La comunicazione per via telematica equivale alla spedizione per mezzo posta qualora l’interessato vi acconsenta, se è eseguita con le modalità e le forme di cui all’articolo 3 della Legge 20 luglio 2005 n. 115, tenuto conto del Decreto 8 settembre 2005 n. 156 e comunque in conformità alle norme vigenti sulla trasmissione per via telematica.
+2\. Salvo che la legge disponga diversamente, la comunicazione di cui al comma 1 è eseguita per mezzo posta, tramite raccomandata con avviso di ricevimento. La comunicazione per via telematica equivale alla spedizione per mezzo posta qualora l’interessato vi acconsenta, se è eseguita con le modalità e le forme di cui all’articolo 3 della Legge 20 luglio 2005 n. 115, tenuto conto del Decreto 8 settembre 2005 n. 156 e comunque in conformità alle norme vigenti sulla trasmissione per via telematica.
 
 ## TITOLO IV
 
@@ -705,37 +563,25 @@ ACCESSO AI DOCUMENTI AMMINISTRATIVI –SANZIONI
 
 (Accesso ai documenti amministrativi)
 
-1.
-
-Ai fini del presente Titolo IV, si intendono:
+1\. Ai fini del presente Titolo IV, si intendono:
 
 a) per "interessati", tutti i soggetti privati, compresi quelli portatori di interessi pubblici o diffusi, che abbiano un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento al quale è chiesto l’accesso;
 
 b) per "controinteressati", tutti i soggetti, individuati o facilmente individuabili in base alla natura del documento richiesto, che dall’esercizio dell’accesso vedrebbero compromesso il loro diritto alla riservatezza.
 
-2.
+2\. Gli interessati possono accedere ai documenti amministrativi che sono in possesso dell’Amministrazione ai fini della tutela dei loro diritti soggettivi e interessi legittimi.
 
-Gli interessati possono accedere ai documenti amministrativi che sono in possesso dell’Amministrazione ai fini della tutela dei loro diritti soggettivi e interessi legittimi.
+3\. I cittadini sammarinesi, i cittadini stranieri residenti o soggiornanti in Repubblica e le persone giuridiche, associazioni, fondazioni, enti che hanno sede legale in Repubblica possono, altresì, accedere ai documenti amministrativi che sono in possesso dell’Amministrazione anche indipendentemente da fini di tutela di posizioni giuridiche qualificate e differenziate e senza necessità di motivare la richiesta di accesso.
 
-3.
+4\. Gli organi, uffici, servizi, Aziende ed Enti autonomi dello Stato cui è indirizzata la richiesta di accesso presentata ai sensi del comma 2 o del comma 3 sono tenuti, qualora siano individuati o facilmente individuabili controinteressati, a darne tempestivamente comunicazione agli stessi, mediante invio di copia della richiesta medesima con raccomandata con avviso di ricevimento o tramite canali informatici sicuri, secondo quanto previsto dalle norme in materia.
 
-I cittadini sammarinesi, i cittadini stranieri residenti o soggiornanti in Repubblica e le persone giuridiche, associazioni, fondazioni, enti che hanno sede legale in Repubblica possono, altresì, accedere ai documenti amministrativi che sono in possesso dell’Amministrazione anche indipendentemente da fini di tutela di posizioni giuridiche qualificate e differenziate e senza necessità di motivare la richiesta di accesso.
-
-4.
-
-Gli organi, uffici, servizi, Aziende ed Enti autonomi dello Stato cui è indirizzata la richiesta di accesso presentata ai sensi del comma 2 o del comma 3 sono tenuti, qualora siano individuati o facilmente individuabili controinteressati, a darne tempestivamente comunicazione agli stessi, mediante invio di copia della richiesta medesima con raccomandata con avviso di ricevimento o tramite canali informatici sicuri, secondo quanto previsto dalle norme in materia.
-
-5.
-
-I controinteressati possono presentare una motivata opposizione alla richiesta di accesso con riferimento alla sussistenza dei limiti di cui all’articolo 30, comma 3 nonché ad esigenze di protezione di dati personali. La motivata opposizione è presentata entro i seguenti termini perentori:
+5\. I controinteressati possono presentare una motivata opposizione alla richiesta di accesso con riferimento alla sussistenza dei limiti di cui all’articolo 30, comma 3 nonché ad esigenze di protezione di dati personali. La motivata opposizione è presentata entro i seguenti termini perentori:
 
 a) per le richieste di accesso di cui al comma 2, entro dieci giorni dalla ricezione della comunicazione;
 
 b) per le richieste di accesso di cui al comma 3, entro trenta giorni dalla ricezione della comunicazione.6
 
-6.
-
-Decorsi i termini di cui al comma 5, l’Amministrazione, accertata la ricezione della comunicazione, provvede sulla richiesta entro il termine previsto all’articolo 29, comma 1.7
+6\. Decorsi i termini di cui al comma 5, l’Amministrazione, accertata la ricezione della comunicazione, provvede sulla richiesta entro il termine previsto all’articolo 29, comma 1.7
 
 Confronta con articolo 61, comma 4 della Legge n.140/2017, così come modificato dall’articolo 5 del DECRETO DELEGATO 29 aprile 2022 n.73 che ha introdotto in particolare, il seguente comma:
 
@@ -803,29 +649,19 @@ a) per le richieste di accesso di cui al comma 2, entro dieci giorni dalla ricez
 
 (Ambito di applicazione dell’accesso)
 
-1.
-
-Sono documenti amministrativi tutti i documenti o insiemi di documenti che siano comunque prodotti o ricevuti dalla Amministrazione nello svolgimento delle missioni e delle funzioni di tutela dell’interesse pubblico nonché di esercizio dei servizi pubblici, quali che siano la loro data, la loro forma e il loro supporto materiale.8
+1\. Sono documenti amministrativi tutti i documenti o insiemi di documenti che siano comunque prodotti o ricevuti dalla Amministrazione nello svolgimento delle missioni e delle funzioni di tutela dell’interesse pubblico nonché di esercizio dei servizi pubblici, quali che siano la loro data, la loro forma e il loro supporto materiale.8
 
 ### Art. 27
 
 (Disposizioni in materia di accesso)
 
-1.
+1\. Salvo le eccezioni di cui all’articolo 30, gli Uffici dell’Amministrazione interpellati sono tenuti a dare in consultazione i documenti che essi detengono a coloro che ne fanno richiesta ai sensi dell’articolo 25.
 
-Salvo le eccezioni di cui all’articolo 30, gli Uffici dell’Amministrazione interpellati sono tenuti a dare in consultazione i documenti che essi detengono a coloro che ne fanno richiesta ai sensi dell’articolo 25.
+2\. La consultazione di documenti preparatori di un provvedimento amministrativo in corso di elaborazione è ammessa ai sensi di quanto previsto dagli articoli 14, comma 2 e 15, comma 1, lettera b).
 
-2.
+3\. La pubblicazione di un documento su un supporto ufficiale della Amministrazione o su un sito internet gestito da uno degli organi o degli uffici dello Stato costituisce pieno adempimento degli obblighi di cui al presente articolo.
 
-La consultazione di documenti preparatori di un provvedimento amministrativo in corso di elaborazione è ammessa ai sensi di quanto previsto dagli articoli 14, comma 2 e 15, comma 1, lettera b).
-
-3.
-
-La pubblicazione di un documento su un supporto ufficiale della Amministrazione o su un sito internet gestito da uno degli organi o degli uffici dello Stato costituisce pieno adempimento degli obblighi di cui al presente articolo.
-
-4.
-
-La richiesta di accesso ai documenti è presentata all’Amministrazione che ha formato il documento o che lo detiene stabilmente. L’Amministrazione, per quanto possibile, collabora con l’interessato per l’identificazione del documento richiesto. Se l’ufficio interpellato non è in possesso del documento richiesto, ovvero non è autorizzato a consentire l’accesso, indirizza, per quanto possibile, il richiedente verso l’ufficio competente.
+4\. La richiesta di accesso ai documenti è presentata all’Amministrazione che ha formato il documento o che lo detiene stabilmente. L’Amministrazione, per quanto possibile, collabora con l’interessato per l’identificazione del documento richiesto. Se l’ufficio interpellato non è in possesso del documento richiesto, ovvero non è autorizzato a consentire l’accesso, indirizza, per quanto possibile, il richiedente verso l’ufficio competente.
 
 b) per le richieste di accesso di cui al comma 3, entro trenta giorni dalla ricezione della comunicazione.
 
@@ -849,17 +685,13 @@ MODIFICHE LEGISLATIVE Decreto - Legge 25 luglio 2016 n. 89
 
 1\. Gli articoli 26, comma 2 e 30, comma 2, lettera d) della Legge n. 160/2011 sono abrogati. E’, altresì, soppressa l’espressione “ai sensi dell’articolo 25” di cui all’articolo 32, comma 2 della medesima Legge n. 160/2011.
 
-5.
-
-Qualora un ufficio dell’Amministrazione riceva una richiesta di accesso per un documento del quale non abbia più la detenzione, perché lo ha consegnato ad un altro ufficio o comunque lo ha versato all’Amministrazione archivistica, l’ufficio interpellato trasmette la domanda all’ufficio che ha la detenzione del documento dandone comunicazione all’interessato.9
+5\. Qualora un ufficio dell’Amministrazione riceva una richiesta di accesso per un documento del quale non abbia più la detenzione, perché lo ha consegnato ad un altro ufficio o comunque lo ha versato all’Amministrazione archivistica, l’ufficio interpellato trasmette la domanda all’ufficio che ha la detenzione del documento dandone comunicazione all’interessato.9
 
 ### Art. 28
 
 (Esercizio dell’accesso)
 
-1.
-
-L’accesso si esercita a scelta del richiedente, tenuto conto delle possibilità tecniche dell’Amministrazione, in uno o più dei seguenti modi, fatte salve particolari modalità di accesso previste da norme speciali:
+1\. L’accesso si esercita a scelta del richiedente, tenuto conto delle possibilità tecniche dell’Amministrazione, in uno o più dei seguenti modi, fatte salve particolari modalità di accesso previste da norme speciali:
 
 a) per consultazione gratuita nei locali dell’ufficio che conserva la documentazione, purché il suo stato di conservazione lo permetta;
 
@@ -867,9 +699,7 @@ b) per copia purché non arrechi danno alla documentazione, o non sia vietato pe
 
 c) per posta elettronica gratuita se il documento è disponibile in formato elettronico che garantisca l’immodificabilità del contenuto del documento medesimo.
 
-2.
-
-La consultazione dei documenti è eseguita dal richiedente o da persona da questo incaricata, anche con l’eventuale assistenza di altra persona, le generalità della quale devono essere indicate nella richiesta. Chi esegue la consultazione può prendere
+2\. La consultazione dei documenti è eseguita dal richiedente o da persona da questo incaricata, anche con l’eventuale assistenza di altra persona, le generalità della quale devono essere indicate nella richiesta. Chi esegue la consultazione può prendere
 
 TESTO ORIGINARIO (LEGGE N. 160/2011)
 
@@ -901,21 +731,15 @@ MODIFICHE LEGISLATIVE Decreto - Legge 25 luglio 2016 n. 89
 
 appunti e trascrivere in tutto o in parte i documenti presi in visione, salvo che ciò sia vietato da disposizioni particolari.
 
-3.
-
-Un apposito regolamento stabilirà le tariffe per la riproduzione e la copia dei documenti di cui alla lettera b) del comma 1, nonché per l’eventuale autenticazione.
+3\. Un apposito regolamento stabilirà le tariffe per la riproduzione e la copia dei documenti di cui alla lettera b) del comma 1, nonché per l’eventuale autenticazione.
 
 ### Art. 29
 
 (Modalità dell’esercizio dell’accesso)
 
-1.
+1\. L’Amministrazione interpellata provvede entro trenta giorni dalla scadenza del termine concesso all’uno o più controinteressati per la presentazione di eventuale opposizione a mente dell’articolo 25, comma 5. Decorso tale termine, si applica l’articolo 10, comma 2, della Legge 28 giugno 1989 n.68.
 
-L’Amministrazione interpellata provvede entro trenta giorni dalla scadenza del termine concesso all’uno o più controinteressati per la presentazione di eventuale opposizione a mente dell’articolo 25, comma 5. Decorso tale termine, si applica l’articolo 10, comma 2, della Legge 28 giugno 1989 n.68.
-
-2.
-
-L’Amministrazione non è tenuta a dar corso alle richieste di accesso:
+2\. L’Amministrazione non è tenuta a dar corso alle richieste di accesso:
 
 a) qualora accolga l’opposizione presentata dai soggetti controinteressati ai sensi dell’articolo 25, commi 4 e 5;
 
@@ -923,25 +747,15 @@ b) se esse non sono sufficientemente precise o sono formulate in modo tale da no
 
 c) se esse sono manifestamente irragionevoli, abusive, pretestuose e quantitativamente eccessive.
 
-3.
+3\. L’esercizio dell’accesso è limitato, differito o negato nei casi e nei limiti stabiliti dall’articolo 30.
 
-L’esercizio dell’accesso è limitato, differito o negato nei casi e nei limiti stabiliti dall’articolo 30.
+4\. Il provvedimento con il quale l’Amministrazione dichiari di non poter procedere all’esame della richiesta di accesso ai sensi del comma 2, ovvero con il quale limiti, differisca o rifiuti l’accesso ai sensi del comma 3 deve essere formulato in forma scritta e deve essere motivato.
 
-4.
+5\. Il provvedimento di cui al comma 4 è impugnabile dinanzi agli organi della giurisdizione amministrativa secondo i principi comuni.
 
-Il provvedimento con il quale l’Amministrazione dichiari di non poter procedere all’esame della richiesta di accesso ai sensi del comma 2, ovvero con il quale limiti, differisca o rifiuti l’accesso ai sensi del comma 3 deve essere formulato in forma scritta e deve essere motivato.
+6\. Il provvedimento di accoglimento della richiesta di accesso contiene l’indicazione dell’ufficio, presso il quale l’accesso è consentito.
 
-5.
-
-Il provvedimento di cui al comma 4 è impugnabile dinanzi agli organi della giurisdizione amministrativa secondo i principi comuni.
-
-6.
-
-Il provvedimento di accoglimento della richiesta di accesso contiene l’indicazione dell’ufficio, presso il quale l’accesso è consentito.
-
-7.
-
-L’accoglimento della richiesta di accesso a un documento comporta la facoltà di accesso agli altri documenti nello stesso richiamati e appartenenti al medesimo procedimento, salve le eccezioni di legge e di cui all’articolo 30. 10 10
+7\. L’accoglimento della richiesta di accesso a un documento comporta la facoltà di accesso agli altri documenti nello stesso richiamati e appartenenti al medesimo procedimento, salve le eccezioni di legge e di cui all’articolo 30. 10 10
 
 TESTO ORIGINARIO (LEGGE N. 160/2011)
 
@@ -967,13 +781,9 @@ c) se esse sono manifestamente irragionevoli, abusive, pretestuose e quantitativ
 
 (Limiti all’esercizio dell’accesso)
 
-1.
+1\. L’accesso è escluso per tutti gli atti e i documenti espressamente dichiarati riservati dalla legge.
 
-L’accesso è escluso per tutti gli atti e i documenti espressamente dichiarati riservati dalla legge.
-
-2.
-
-L’accesso è limitato, differito o negato se può arrecare pregiudizio:
+2\. L’accesso è limitato, differito o negato se può arrecare pregiudizio:
 
 a) all’esercizio della sovranità e alla difesa nazionale della Repubblica;
 
@@ -987,9 +797,7 @@ f) alla politica economica e finanziaria della Repubblica;
 
 g) allo svolgimento di tutte le attività ispettive, di controllo e di vigilanza.
 
-3.
-
-L’accesso inoltre è limitato, differito o negato:
+3\. L’accesso inoltre è limitato, differito o negato:
 
 a) se può causare la divulgazione di informazioni liberamente fornite da terzi a un’autorità che sia tenuta al segreto;
 
@@ -1029,9 +837,7 @@ b) se può causare la rivelazione di segreti professionali, ovvero di segreti in
 
 c) se può ledere la sfera privata di terzi.
 
-4.
-
-Solo i diretti interessati possono accedere:
+4\. Solo i diretti interessati possono accedere:
 
 a) ai documenti relativi alle persone contenenti dati e informazioni di carattere riservato, quali i dati personali idonei a rivelare l’origine razziale ed etnica, le convinzioni religiose, filosofiche o di altro genere, le opinioni politiche, l'adesione a partiti, associazioni od organizzazioni a carattere religioso, filosofico, politico;
 
@@ -1041,21 +847,13 @@ c) ai documenti contenenti dati personali idonei a rivelare la vita sessuale o i
 
 d) ai documenti amministrativi relativi ai procedimenti di selezione del personale contenenti informazioni di carattere psico-attitudinale.
 
-5.
+5\. Hanno diritto di accedere ai documenti di carattere sanitario sia i diretti interessati, sia, a scelta di questi, il medico o i medici all’uopo designati.
 
-Hanno diritto di accedere ai documenti di carattere sanitario sia i diretti interessati, sia, a scelta di questi, il medico o i medici all’uopo designati.
+6\. Quando la richiesta di accesso riguarda un documento che contiene menzioni o informazioni che non sono accessibili in applicazione del presente articolo, ma che è possibile occultare o eliminare, la consultazione è consentita una volta occultata o eliminata la menzione o l’informazione.
 
-6.
+7\. Restano comunque ferme le specifiche disposizioni di legge vigenti che limitano l’accesso ai documenti amministrativi.
 
-Quando la richiesta di accesso riguarda un documento che contiene menzioni o informazioni che non sono accessibili in applicazione del presente articolo, ma che è possibile occultare o eliminare, la consultazione è consentita una volta occultata o eliminata la menzione o l’informazione.
-
-7.
-
-Restano comunque ferme le specifiche disposizioni di legge vigenti che limitano l’accesso ai documenti amministrativi.
-
-8.
-
-Le limitazioni di cui al presente articolo cessano una volta che i documenti siano divenuti consultabili ai sensi delle norme sulla consultabilità dei documenti versati all’Archivio di Stato. 11
+8\. Le limitazioni di cui al presente articolo cessano una volta che i documenti siano divenuti consultabili ai sensi delle norme sulla consultabilità dei documenti versati all’Archivio di Stato. 11
 
 11
 
@@ -1099,25 +897,17 @@ a) ai documenti relativi alle persone contenenti dati e informazioni di caratter
 
 (Obblighi dell’Amministrazione in materia di pubblicazione e diffusione di documenti)
 
-1.
+1\. Fatte salve le norme sulla pubblicazione ufficiale degli atti e dei provvedimenti dello Stato, l’Amministrazione è sempre tenuta a dare idonea pubblicità alle direttive, circolari, istruzioni, disposizioni comunque denominate che contengono interpretazioni o note esplicative di norme di diritto o che contengono la descrizione di procedure amministrative ovvero disposizioni relative all’organizzazione amministrativa.
 
-Fatte salve le norme sulla pubblicazione ufficiale degli atti e dei provvedimenti dello Stato, l’Amministrazione è sempre tenuta a dare idonea pubblicità alle direttive, circolari, istruzioni, disposizioni comunque denominate che contengono interpretazioni o note esplicative di norme di diritto o che contengono la descrizione di procedure amministrative ovvero disposizioni relative all’organizzazione amministrativa.
+2\. L’Amministrazione di propria iniziativa, al fine di promuovere la trasparenza e l’efficacia dell’azione amministrativa nonché la partecipazione dei cittadini alla cura e alla tutela dell’interesse pubblico, anche avvalendosi degli strumenti elettronici e telematici, adotta le misure necessarie per la pubblicazione e la diffusione della conoscenza dei documenti amministrativi da essa prodotti o ricevuti.
 
-2.
-
-L’Amministrazione di propria iniziativa, al fine di promuovere la trasparenza e l’efficacia dell’azione amministrativa nonché la partecipazione dei cittadini alla cura e alla tutela dell’interesse pubblico, anche avvalendosi degli strumenti elettronici e telematici, adotta le misure necessarie per la pubblicazione e la diffusione della conoscenza dei documenti amministrativi da essa prodotti o ricevuti.
-
-3.
-
-In ogni caso, i documenti amministrativi che rientrano nei casi previsti dall’articolo 30 o che contengono dati, menzioni o informazioni di carattere personale non possono essere resi pubblici prima che siano stati occultati tali dati, menzioni o informazioni o prima che siano stati fatti oggetto di un trattamento tale da rendere impossibile l’identificazione delle persone che vi sono nominate, a meno che queste non vi acconsentano.
+3\. In ogni caso, i documenti amministrativi che rientrano nei casi previsti dall’articolo 30 o che contengono dati, menzioni o informazioni di carattere personale non possono essere resi pubblici prima che siano stati occultati tali dati, menzioni o informazioni o prima che siano stati fatti oggetto di un trattamento tale da rendere impossibile l’identificazione delle persone che vi sono nominate, a meno che queste non vi acconsentano.
 
 ### Art. 32
 
 (Limiti dell’utilizzazione dei dati derivanti dall’accesso ai documenti amministrativi)
 
-1.
-
-Chiunque acceda ai documenti amministrativi a norma dell’articolo 25 è responsabile della utilizzazione dei dati e delle informazioni raccolti.
+1\. Chiunque acceda ai documenti amministrativi a norma dell’articolo 25 è responsabile della utilizzazione dei dati e delle informazioni raccolti.
 
 b) ai documenti contenenti i dati personali idonei a rivelare lo stato di salute o comunque dati o informazioni di natura sanitaria;
 
@@ -1141,37 +931,25 @@ MODIFICHE LEGISLATIVE Decreto - Legge 25 luglio 2016 n. 89
 
 1\. Gli articoli 26, comma 2 e 30, comma 2, lettera d) della Legge n. 160/2011 sono abrogati. E’, altresì, soppressa l’espressione “ai sensi dell’articolo 25” di cui all’articolo 32, comma 2 della medesima Legge n. 160/2011.
 
-2.
+2\. I dati e le informazioni pubbliche raccolte in conseguenza di un accesso ai documenti amministrativi concesso ai sensi della presente legge sono utilizzabili nei limiti della tutela delle situazioni giuridicamente rilevanti.
 
-I dati e le informazioni pubbliche raccolte in conseguenza di un accesso ai documenti amministrativi concesso ai sensi della presente legge sono utilizzabili nei limiti della tutela delle situazioni giuridicamente rilevanti.
-
-3.
-
-E’ comunque vietata ogni utilizzazione a fini commerciali dei dati e delle informazioni raccolti in conseguenza di un accesso ai documenti amministrativi concesso ai sensi della presente legge. 12
+3\. E’ comunque vietata ogni utilizzazione a fini commerciali dei dati e delle informazioni raccolti in conseguenza di un accesso ai documenti amministrativi concesso ai sensi della presente legge. 12
 
 ### Art. 33
 
 (Utilizzazione dei documenti pubblici)
 
-1.
+1\. I dati e le informazioni contenuti nei documenti resi pubblici ai sensi dell’articolo 31 possono essere liberamente utilizzati, salvo che ciò non sia espressamente vietato da norme speciali, anche per fini diversi da quelli della missione di tutela dell’interesse pubblico o della missione del servizio pubblico in funzione dei quali i documenti sono stati prodotti o ricevuti.
 
-I dati e le informazioni contenuti nei documenti resi pubblici ai sensi dell’articolo 31 possono essere liberamente utilizzati, salvo che ciò non sia espressamente vietato da norme speciali, anche per fini diversi da quelli della missione di tutela dell’interesse pubblico o della missione del servizio pubblico in funzione dei quali i documenti sono stati prodotti o ricevuti.
-
-2.
-
-E’ vietata ogni utilizzazione dei documenti consultati in contrasto con il diritto della loro proprietà letteraria ovvero con le norme sul diritto d’autore.
+2\. E’ vietata ogni utilizzazione dei documenti consultati in contrasto con il diritto della loro proprietà letteraria ovvero con le norme sul diritto d’autore.
 
 ### Art. 34
 
 (Sanzioni)
 
-1.
+1\. Salvo che il fatto non costituisca più grave reato, la violazione del divieto di cui all’articolo 32, comma 3, è punita con la prigionia di primo grado e con la multa a giorni di secondo grado.
 
-Salvo che il fatto non costituisca più grave reato, la violazione del divieto di cui all’articolo 32, comma 3, è punita con la prigionia di primo grado e con la multa a giorni di secondo grado.
-
-2.
-
-Salvo che il fatto non costituisca più grave reato, la violazione del divieto di cui all’articolo 33, comma 2, è punita con la prigionia e la multa a giorni di secondo grado.
+2\. Salvo che il fatto non costituisca più grave reato, la violazione del divieto di cui all’articolo 33, comma 2, è punita con la prigionia e la multa a giorni di secondo grado.
 
 ## TITOLO V
 
@@ -1185,9 +963,9 @@ TESTO ORIGINARIO (LEGGE N. 160/2011)
 
 1\. Chiunque acceda ai documenti amministrativi a norma dell’articolo 25 è responsabile della utilizzazione dei dati e delle informazioni raccolti.
 
-2\. I dati e le informazioni pubbliche raccolte in conseguenza di un accesso ai documenti amministrativi concesso ai sensi della presente legge sono utilizzabili nei limiti della tutela delle situazioni giuridicamente rilevanti ai sensi dell’articolo 25.
+2\. I dati e le informazioni pubbliche raccolte in conseguenza di un accesso ai documenti amministrativi concesso ai sensi della presente legge sono utilizzabili nei limiti della tutela delle situazioni giuridicamente rilevanti ai sensi dell’articolo
 
-3\. E’ comunque vietata ogni utilizzazione a fini commerciali dei dati e delle informazioni raccolti in conseguenza di un accesso ai documenti amministrativi concesso ai sensi della presente legge.
+25\. 3. E’ comunque vietata ogni utilizzazione a fini commerciali dei dati e delle informazioni raccolti in conseguenza di un accesso ai documenti amministrativi concesso ai sensi della presente legge.
 
 MODIFICHE LEGISLATIVE Decreto - Legge 25 luglio 2016 n. 89
 
@@ -1201,45 +979,31 @@ MODIFICHE LEGISLATIVE Decreto - Legge 25 luglio 2016 n. 89
 
 (Efficacia ed esecutività dei provvedimenti)
 
-1.
+1\. I provvedimenti amministrativi efficaci sono eseguiti immediatamente, salvo che sia diversamente stabilito dalla legge o dal provvedimento medesimo, e fatte salve le disposizioni sul controllo preventivo di legittimità.
 
-I provvedimenti amministrativi efficaci sono eseguiti immediatamente, salvo che sia diversamente stabilito dalla legge o dal provvedimento medesimo, e fatte salve le disposizioni sul controllo preventivo di legittimità.
-
-2.
-
-Il provvedimento limitativo della sfera giuridica dei privati acquista efficacia nei confronti di ciascun destinatario con la comunicazione allo stesso effettuata anche nelle forme previste all’articolo 2, comma 3. Il provvedimento limitativo della sfera giuridica dei privati non avente carattere sanzionatorio può contenere una motivata clausola di immediata efficacia. I provvedimenti limitativi della sfera giuridica dei privati aventi carattere cautelare ed urgente sono immediatamente efficaci.
+2\. Il provvedimento limitativo della sfera giuridica dei privati acquista efficacia nei confronti di ciascun destinatario con la comunicazione allo stesso effettuata anche nelle forme previste all’articolo 2, comma 3. Il provvedimento limitativo della sfera giuridica dei privati non avente carattere sanzionatorio può contenere una motivata clausola di immediata efficacia. I provvedimenti limitativi della sfera giuridica dei privati aventi carattere cautelare ed urgente sono immediatamente efficaci.
 
 ### Art. 36
 
 (Sospensione)
 
-1.
-
-L’efficacia ovvero l’esecuzione del provvedimento amministrativo può essere sospesa, per motivate ragioni e per il tempo strettamente necessario, dallo stesso organo che lo ha emanato ovvero da altro organo previsto dalla legge. La sospensione interrompe temporaneamente e non retroattivamente gli effetti dell’atto fino allo scadere del termine, se esso è stato previsto, oppure al verificarsi dell’evento al quale è condizionata la durata. Il termine della sospensione può essere prorogato o differito per una sola volta, nonché ridotto per sopravvenute esigenze.
+1\. L’efficacia ovvero l’esecuzione del provvedimento amministrativo può essere sospesa, per motivate ragioni e per il tempo strettamente necessario, dallo stesso organo che lo ha emanato ovvero da altro organo previsto dalla legge. La sospensione interrompe temporaneamente e non retroattivamente gli effetti dell’atto fino allo scadere del termine, se esso è stato previsto, oppure al verificarsi dell’evento al quale è condizionata la durata. Il termine della sospensione può essere prorogato o differito per una sola volta, nonché ridotto per sopravvenute esigenze.
 
 ### Art. 37
 
 (Esecutorietà)
 
-1.
+1\. Nei casi e nei modi previsti dalla legge, l’Amministrazione può imporre coattivamente l’adempimento degli obblighi nei confronti dei privati. Il provvedimento costitutivo di obblighi indica il termine e le modalità dell’esecuzione da parte del soggetto obbligato. Qualora l’interessato non ottemperi, l’Amministrazione, previa diffida, può provvedere all’esecuzione coattiva nei casi e nei modi previsti dalla legge.
 
-Nei casi e nei modi previsti dalla legge, l’Amministrazione può imporre coattivamente l’adempimento degli obblighi nei confronti dei privati. Il provvedimento costitutivo di obblighi indica il termine e le modalità dell’esecuzione da parte del soggetto obbligato. Qualora l’interessato non ottemperi, l’Amministrazione, previa diffida, può provvedere all’esecuzione coattiva nei casi e nei modi previsti dalla legge.
-
-2.
-
-Ai fini dell’esecuzione delle obbligazioni aventi ad oggetto somme di denaro si applicano le disposizioni per l’esecuzione coattiva dei crediti dello Stato.
+2\. Ai fini dell’esecuzione delle obbligazioni aventi ad oggetto somme di denaro si applicano le disposizioni per l’esecuzione coattiva dei crediti dello Stato.
 
 ### Art. 38
 
 (Ritiro del provvedimento prima del controllo)
 
-1.
+1\. L’Amministrazione che ha adottato l’atto può ritirare il provvedimento inviato all’organo di controllo nelle more della decisione di legittimità, mediante richiesta scritta e motivata trasmessa all’organo di controllo medesimo.
 
-L’Amministrazione che ha adottato l’atto può ritirare il provvedimento inviato all’organo di controllo nelle more della decisione di legittimità, mediante richiesta scritta e motivata trasmessa all’organo di controllo medesimo.
-
-2.
-
-Il provvedimento ritirato non è esecutivo.
+2\. Il provvedimento ritirato non è esecutivo.
 
 ## TITOLO VI
 
@@ -1249,77 +1013,53 @@ INVALIDITÀ E IRREGOLARITÀ DEL PROVVEDIMENTO AMMINISTRATIVO
 
 (Errata corrige per errore materiale)
 
-1.
-
-L’Amministrazione competente provvede alla correzione degli errori materiali chiaramente riconoscibili incorsi nella redazione dell’atto o provvedimento, mediante errata corrige cioè mediante redazione di successivo documento a correzione degli errori del primo.
+1\. L’Amministrazione competente provvede alla correzione degli errori materiali chiaramente riconoscibili incorsi nella redazione dell’atto o provvedimento, mediante errata corrige cioè mediante redazione di successivo documento a correzione degli errori del primo.
 
 ### Art. 40
 
 (Rettifica o riforma del provvedimento)
 
-1.
-
-Nel caso di errore sostanziale o di errore materiale che non rientri nell’ipotesi di errore sanabile con errata corrige, l’Amministrazione competente rettifica l’atto o il provvedimento con un nuovo atto o provvedimento che modifica, integra o sostituisce parte di quello precedente.
+1\. Nel caso di errore sostanziale o di errore materiale che non rientri nell’ipotesi di errore sanabile con errata corrige, l’Amministrazione competente rettifica l’atto o il provvedimento con un nuovo atto o provvedimento che modifica, integra o sostituisce parte di quello precedente.
 
 ### Art. 41
 
 (Convalida del provvedimento)
 
-1.
+1\. La convalida è una dichiarazione di volontà dell’autorità che ha emanato l’atto o, se questo è viziato di incompetenza, dell’autorità competente ad emanarlo, diretta a riconoscere i vizi dell’atto medesimo e ad eliminarli.
 
-La convalida è una dichiarazione di volontà dell’autorità che ha emanato l’atto o, se questo è viziato di incompetenza, dell’autorità competente ad emanarlo, diretta a riconoscere i vizi dell’atto medesimo e ad eliminarli.
-
-2.
-
-L’Amministrazione può intervenire con sanatoria, nei casi previsti dalla legge, per convalidare provvedimenti adottati in assenza dei presupposti.
+2\. L’Amministrazione può intervenire con sanatoria, nei casi previsti dalla legge, per convalidare provvedimenti adottati in assenza dei presupposti.
 
 ### Art. 42
 
 (Nullità del provvedimento)
 
-1.
+1\. È nullo il provvedimento amministrativo che manca degli elementi essenziali, che è viziato da difetto assoluto di attribuzione, che è stato adottato in violazione o elusione del giudicato, nonché negli altri casi espressamente previsti dalla legge.
 
-È nullo il provvedimento amministrativo che manca degli elementi essenziali, che è viziato da difetto assoluto di attribuzione, che è stato adottato in violazione o elusione del giudicato, nonché negli altri casi espressamente previsti dalla legge.
-
-2.
-
-I ricorsi relativi alla nullità dei provvedimenti amministrativi sono attribuiti alla giurisdizione esclusiva del Giudice Amministrativo.
+2\. I ricorsi relativi alla nullità dei provvedimenti amministrativi sono attribuiti alla giurisdizione esclusiva del Giudice Amministrativo.
 
 ### Art. 43
 
 (Annullabilità del provvedimento)
 
-1.
+1\. È annullabile il provvedimento amministrativo adottato in violazione di legge o viziato da eccesso di potere o da incompetenza.
 
-È annullabile il provvedimento amministrativo adottato in violazione di legge o viziato da eccesso di potere o da incompetenza.
-
-2.
-
-Non è annullabile il provvedimento adottato in violazione di norme sul procedimento o sulla forma degli atti qualora, per la natura vincolata del provvedimento, sia palese che il suo contenuto dispositivo non avrebbe potuto essere diverso da quello in concreto adottato. Il provvedimento amministrativo non è comunque annullabile per mancata comunicazione dell’avvio del procedimento qualora l’Amministrazione dimostri che il contenuto del provvedimento non avrebbe potuto essere diverso da quello in concreto adottato. 3. Si applicano le disposizioni relative ai ricorsi avanti al Giudice Amministrativo di cui alla Legge 28 giugno 1989 n.68 e al ricorso in opposizione di cui all’articolo 12 della medesima legge.
+2\. Non è annullabile il provvedimento adottato in violazione di norme sul procedimento o sulla forma degli atti qualora, per la natura vincolata del provvedimento, sia palese che il suo contenuto dispositivo non avrebbe potuto essere diverso da quello in concreto adottato. Il provvedimento amministrativo non è comunque annullabile per mancata comunicazione dell’avvio del procedimento qualora l’Amministrazione dimostri che il contenuto del provvedimento non avrebbe potuto essere diverso da quello in concreto adottato. 3. Si applicano le disposizioni relative ai ricorsi avanti al Giudice Amministrativo di cui alla Legge 28 giugno 1989 n.68 e al ricorso in opposizione di cui all’articolo 12 della medesima legge.
 
 ### Art. 44
 
 (Annullamento d’ufficio)
 
-1.
+1\. Il provvedimento amministrativo illegittimo in quanto viziato da violazione di legge, eccesso di potere o incompetenza, può essere annullato d’ufficio, sussistendone le ragioni di interesse pubblico, entro un termine ragionevole e tenendo conto degli interessi dei destinatari, dall’organo che lo ha emanato, ovvero da altro organo previsto dalla legge.
 
-Il provvedimento amministrativo illegittimo in quanto viziato da violazione di legge, eccesso di potere o incompetenza, può essere annullato d’ufficio, sussistendone le ragioni di interesse pubblico, entro un termine ragionevole e tenendo conto degli interessi dei destinatari, dall’organo che lo ha emanato, ovvero da altro organo previsto dalla legge.
-
-2.
-
-È fatta salva la possibilità di convalida del provvedimento annullabile, sussistendone le ragioni di interesse pubblico ed entro un termine ragionevole.
+2\. È fatta salva la possibilità di convalida del provvedimento annullabile, sussistendone le ragioni di interesse pubblico ed entro un termine ragionevole.
 
 ### Art. 45
 
 (Revoca del provvedimento)
 
-1.
+1\. Per sopravvenuti motivi di pubblico interesse ovvero nel caso di mutamento della situazione di fatto o di nuova valutazione dell’interesse pubblico originario, il provvedimento amministrativo ad efficacia durevole può essere revocato da parte dell’organo che lo ha emanato ovvero da altro organo previsto dalla legge. La revoca determina la inidoneità del provvedimento revocato a produrre ulteriori effetti.
 
-Per sopravvenuti motivi di pubblico interesse ovvero nel caso di mutamento della situazione di fatto o di nuova valutazione dell’interesse pubblico originario, il provvedimento amministrativo ad efficacia durevole può essere revocato da parte dell’organo che lo ha emanato ovvero da altro organo previsto dalla legge. La revoca determina la inidoneità del provvedimento revocato a produrre ulteriori effetti.
-
-2.
-
-Si applicano le disposizioni relative ai ricorsi avanti al Giudice Amministrativo di cui alla Legge 28 giugno 1989 n.68 e al ricorso in opposizione di cui all’articolo 12 della medesima legge.
+2\. Si applicano le disposizioni relative ai ricorsi avanti al Giudice Amministrativo di cui alla Legge 28 giugno 1989 n.68 e al ricorso in opposizione di cui all’articolo 12 della medesima legge.
 
 ## TITOLO VII
 
@@ -1329,29 +1069,19 @@ NORME TRANSITORIE E FINALI
 
 (Norme Transitorie)
 
-1.
+1\. Gli uffici interessati effettuano una ricognizione dei provvedimenti di loro competenza e predispongono quanto necessario ad esplicitare i rispettivi procedimenti e a dare piena applicazione alla presente legge entro il termine massimo di centottanta giorni dalla sua entrata in vigore.
 
-Gli uffici interessati effettuano una ricognizione dei provvedimenti di loro competenza e predispongono quanto necessario ad esplicitare i rispettivi procedimenti e a dare piena applicazione alla presente legge entro il termine massimo di centottanta giorni dalla sua entrata in vigore.
+2\. I procedimenti, già in corso alla data di applicazione di cui al comma che precede, sono regolati dalle norme vigenti alla data di inizio degli stessi.
 
-2.
+3\. Fino alla costituzione degli organi della Direzione Generale della Funzione Pubblica, le direttive, il coordinamento ed il supporto tecnico sono demandati ad organi ed uffici dell’Amministrazione individuati con delibera del Congresso di Stato.
 
-I procedimenti, già in corso alla data di applicazione di cui al comma che precede, sono regolati dalle norme vigenti alla data di inizio degli stessi.
-
-3.
-
-Fino alla costituzione degli organi della Direzione Generale della Funzione Pubblica, le direttive, il coordinamento ed il supporto tecnico sono demandati ad organi ed uffici dell’Amministrazione individuati con delibera del Congresso di Stato.
-
-4.
-
-Le imposte, tasse e tributi nonché i diritti d’ufficio previsti per i provvedimenti e procedimenti nonché per il rilascio di documenti amministrativi nel Settore Pubblico Allargato sono, in tutto o in parte, sostituiti, anche qualora attualmente stabiliti da norme di rango primario oppure da Commissioni e Collegi, con diritti di pratica definiti ed aggiornati mediante ordinanza del Congresso di Stato. I predetti diritti di pratica sono commisurati al tipo di procedimento e di attività cui si riferiscono. Allo scopo di garantire uniformità e coerenza nell’individuazione dei predetti diritti, l’ordinanza di cui al presente comma è assunta su proposta della Direzione Generale della Funzione Pubblica e delle Aziende Autonome di Stato ed Enti del Settore Pubblico Allargato. 13
+4\. Le imposte, tasse e tributi nonché i diritti d’ufficio previsti per i provvedimenti e procedimenti nonché per il rilascio di documenti amministrativi nel Settore Pubblico Allargato sono, in tutto o in parte, sostituiti, anche qualora attualmente stabiliti da norme di rango primario oppure da Commissioni e Collegi, con diritti di pratica definiti ed aggiornati mediante ordinanza del Congresso di Stato. I predetti diritti di pratica sono commisurati al tipo di procedimento e di attività cui si riferiscono. Allo scopo di garantire uniformità e coerenza nell’individuazione dei predetti diritti, l’ordinanza di cui al presente comma è assunta su proposta della Direzione Generale della Funzione Pubblica e delle Aziende Autonome di Stato ed Enti del Settore Pubblico Allargato. 13
 
 ### Art. 47
 
 (Abrogazioni)
 
-1.
-
-Sono abrogate tutte le norme in contrasto con la presente legge.
+1\. Sono abrogate tutte le norme in contrasto con la presente legge.
 
 13
 
@@ -1379,6 +1109,4 @@ MODIFICHE LEGISLATIVE Legge 23 dicembre 2020 n. 223 Art. 83, comma 3 (Modifiche 
 
 (Entrata in vigore)
 
-1.
-
-La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.
+1\. La presente legge entra in vigore il quindicesimo giorno successivo a quello della sua legale pubblicazione.

@@ -1250,9 +1250,7 @@ l) realizzazione di manufatti di tipo precario ad uso agricolo ai sensi dell’a
 
 1\. Non sono soggetti né a concessione né ad autorizzazione edilizia gli interventi di manutenzione ordinaria consistenti in opere di riparazione, rinnovamento e sostituzione delle finiture degli edifici e le opere necessarie a mantenere in efficienza gli impianti tecnologici esistenti. Sono opere di manutenzione ordinaria quelle elencate all’articolo
 
-100.
-
-2\. Le opere e gli interventi di manutenzione ordinaria sono soggetti alla presentazione di una comunicazione redatta su apposito modulo da presentarsi presso l’Ufficio per l’Edilizia.
+100\. 2. Le opere e gli interventi di manutenzione ordinaria sono soggetti alla presentazione di una comunicazione redatta su apposito modulo da presentarsi presso l’Ufficio per l’Edilizia.
 
 3\. L’avvio dei lavori di cui al comma 1 in assenza della comunicazione di cui al comma 2 o l’indicazione, in tale comunicazione, di interventi non compresi nella tipologia di opere di cui all’articolo 100 in quanto soggetti a concessione o autorizzazione edilizia comporta, in caso di accertamento, l’applicazione di una sanzione pecuniaria, da parte dell’Ispettorato di Vigilanza, di euro 500,00=(cinquecento,00).
 
@@ -1400,35 +1398,23 @@ i) nel caso di provvedimento negativo deve essere data motivazione delle ragioni
 
 (Ritiro della concessione e della autorizzazione)
 
-1.
-
-Il ritiro della concessione e della autorizzazione da parte del richiedente, presso l’Ufficio per l’Edilizia, avviene a seguito dell’approvazione esplicita da parte, rispettivamente, della Commissione Tecnica per l’Edilizia o del Dirigente dell'Ufficio per l’Edilizia ed è subordinato alla consegna all'Ufficio per l’Edilizia di:
+1\. Il ritiro della concessione e della autorizzazione da parte del richiedente, presso l’Ufficio per l’Edilizia, avviene a seguito dell’approvazione esplicita da parte, rispettivamente, della Commissione Tecnica per l’Edilizia o del Dirigente dell'Ufficio per l’Edilizia ed è subordinato alla consegna all'Ufficio per l’Edilizia di:
 
 a) ricevuta attestante l'avvenuto pagamento del contributo di concessione di cui all'articolo 50;
 
 b) eventuali atti d'obbligo debitamente registrati e trascritti relativi ad impegni o vincoli assunti dal titolare della concessione o dell'autorizzazione.
 
-2.
+2\. Il provvedimento di concessione o autorizzazione edilizia è corredato da una copia dei disegni approvati e debitamente vistati.
 
-Il provvedimento di concessione o autorizzazione edilizia è corredato da una copia dei disegni approvati e debitamente vistati.
+3\. Il ritiro della concessione edilizia deve avvenire entro un anno dalla avvenuta comunicazione del suo rilascio pena la decadenza della concessione stessa.
 
-3.
-
-Il ritiro della concessione edilizia deve avvenire entro un anno dalla avvenuta comunicazione del suo rilascio pena la decadenza della concessione stessa.
-
-4.
-
-Dell’avvenuto rilascio delle concessioni o autorizzazioni edilizie è data notizia al pubblico mediante affissione all’Albo dell'Unità Organizzativa (UO) Ufficio Pianificazione Territoriale e per l’Edilizia (UPTE) e mediante pubblicazione su sito internet dell’Amministrazione. 4 bis. Chiunque può prendere visione presso l'UO UPTE della concessione o autorizzazione edilizia e dei relativi elaborati grafici di progetto mediante il pagamento di diritto stabilito con Ordinanza del Congresso di Stato. 4 ter. L’UO UPTE rilascia copie ed estratti, in forma semplice o autentica, dei documenti riguardanti i titoli abilitativi edilizi, previa integrazione del contraddittorio previsto dalla vigente normativa in materia di accesso agli atti amministrativi con i soggetti proprietari o concessionari o superficiari delle porzioni di immobile riprodotte nella copia o estratto.
+4\. Dell’avvenuto rilascio delle concessioni o autorizzazioni edilizie è data notizia al pubblico mediante affissione all’Albo dell'Unità Organizzativa (UO) Ufficio Pianificazione Territoriale e per l’Edilizia (UPTE) e mediante pubblicazione su sito internet dell’Amministrazione. 4 bis. Chiunque può prendere visione presso l'UO UPTE della concessione o autorizzazione edilizia e dei relativi elaborati grafici di progetto mediante il pagamento di diritto stabilito con Ordinanza del Congresso di Stato. 4 ter. L’UO UPTE rilascia copie ed estratti, in forma semplice o autentica, dei documenti riguardanti i titoli abilitativi edilizi, previa integrazione del contraddittorio previsto dalla vigente normativa in materia di accesso agli atti amministrativi con i soggetti proprietari o concessionari o superficiari delle porzioni di immobile riprodotte nella copia o estratto.
 
 Il termine perentorio per la presentazione di eventuale motivata opposizione da parte dei controinteressati, con riferimento alle richieste di accesso di cui ai commi 2 e 3 dell’articolo 25 della Legge 5 ottobre 2011 n.160 e successive modifiche, è ridotto a 5 giorni dal ricevimento della comunicazione dell’UO UPTE. 4 quater. La documentazione che riguardi edifici o manufatti per i quali è d’obbligo una comprensibile riservatezza (istituti di credito, di cambio, sedi consolari, edifici pubblici, luoghi di culto, etc.) può essere visionata o acquisita in copia od estratto, semplice o autentico, solo dal proprietario o concessionario o titolare del diritto di superficie sull’immobile o loro delegati o da soggetto titolare di una posizione giuridicamente tutelata nonché da funzionari della Pubblica Amministrazione. I soggetti che prendono visione dei documenti di cui al presente comma sono tenuti a sottoscrivere moduli all'uopo predisposti.
 
-5.
+5\. Il ritiro della concessione da parte del richiedente, per interventi di nuova costruzione ai sensi dell’articolo 109, è subordinato all'esistenza delle opere di urbanizzazione primaria da dimostrarsi con apposita documentazione rilasciata dall’AASS o dall’AASLP o all'impegno del proprietario, da assumersi mediante convenzione da stipularsi ai sensi della Sezione III del Capo I, di sostenere gli oneri relativi o la realizzazione delle stesse, con esclusione delle reti tecnologiche, contemporaneamente alla costruzione oggetto della concessione o autorizzazione. La costruzione delle reti tecnologiche resta di competenza all’ente gestore delle stesse che provvederà ad addebitarne i costi al proprietario. All’atto di richiesta di conformità edilizia e agibilità, al fine del rilascio della stessa, dovrà essere allegata documentazione attestante la realizzazione delle opere di urbanizzazione primaria rilasciata dall’AASLP e dall’AASS.
 
-Il ritiro della concessione da parte del richiedente, per interventi di nuova costruzione ai sensi dell’articolo 109, è subordinato all'esistenza delle opere di urbanizzazione primaria da dimostrarsi con apposita documentazione rilasciata dall’AASS o dall’AASLP o all'impegno del proprietario, da assumersi mediante convenzione da stipularsi ai sensi della Sezione III del Capo I, di sostenere gli oneri relativi o la realizzazione delle stesse, con esclusione delle reti tecnologiche, contemporaneamente alla costruzione oggetto della concessione o autorizzazione. La costruzione delle reti tecnologiche resta di competenza all’ente gestore delle stesse che provvederà ad addebitarne i costi al proprietario. All’atto di richiesta di conformità edilizia e agibilità, al fine del rilascio della stessa, dovrà essere allegata documentazione attestante la realizzazione delle opere di urbanizzazione primaria rilasciata dall’AASLP e dall’AASS.
-
-6.
-
-Nei casi di cui al comma 5 qualora il richiedente assuma l’impegno ovvero si assuma i costi di realizzazione delle opere di urbanizzazione primaria, lo stesso non è tenuto alla corresponsione degli oneri relativi alle opere di urbanizzazione primaria (U1) di cui all’Allegato “C” alla presente legge. 5
+6\. Nei casi di cui al comma 5 qualora il richiedente assuma l’impegno ovvero si assuma i costi di realizzazione delle opere di urbanizzazione primaria, lo stesso non è tenuto alla corresponsione degli oneri relativi alle opere di urbanizzazione primaria (U1) di cui all’Allegato “C” alla presente legge. 5
 
 Testo originario (Legge n. 140/2017)
 
@@ -1486,9 +1472,9 @@ In ragione delle tempistiche previste dall'articolo 37 della Legge 22 dicembre 2
 
 (Varianti al progetto)
 
-1\. I progetti in variante a quelli oggetto di concessione od autorizzazione edilizia ancora validi ed efficaci sono assoggettati rispettivamente alla procedura di cui all’articolo 59 o 60.
+1\. I progetti in variante a quelli oggetto di concessione od autorizzazione edilizia ancora validi ed efficaci sono assoggettati rispettivamente alla procedura di cui all’articolo 59 o
 
-2\. Fatte salve prescrizioni maggiormente restrittive dettate dagli strumenti di pianificazione attuativa e ad esclusione degli interventi su fabbricati o manufatti ricadenti nell’ambito di competenza della CCM, degli interventi su fabbricati che comportino varianti sostanziali al progetto strutturale, nonché di eventuali interventi che interferiscano sulla vegetazione esistente, è ammessa la facoltà di apportare modifiche in corso d’opera senza necessità di ottenere preventivamente il rilascio di titolo autorizzativo in variante, purché esse non comportino variazioni essenziali al progetto approvato. Le variazioni sono considerate essenziali quando sono in contrasto con le norme in vigore e le prescrizioni urbanistiche di zona e nei seguenti casi:
+60\. 2. Fatte salve prescrizioni maggiormente restrittive dettate dagli strumenti di pianificazione attuativa e ad esclusione degli interventi su fabbricati o manufatti ricadenti nell’ambito di competenza della CCM, degli interventi su fabbricati che comportino varianti sostanziali al progetto strutturale, nonché di eventuali interventi che interferiscano sulla vegetazione esistente, è ammessa la facoltà di apportare modifiche in corso d’opera senza necessità di ottenere preventivamente il rilascio di titolo autorizzativo in variante, purché esse non comportino variazioni essenziali al progetto approvato. Le variazioni sono considerate essenziali quando sono in contrasto con le norme in vigore e le prescrizioni urbanistiche di zona e nei seguenti casi:
 
 a) superino in misura superiore al 10% almeno uno degli indici edilizi indicati nel progetto approvato ed in particolare il rapporto di copertura, l’If, l’Uf, la superficie utile lorda, il volume, l’altezza, le distanze dai confini di proprietà;
 
@@ -1522,9 +1508,9 @@ se non residenti in territorio, in relazione alla richiesta di accesso agli atti
 
 8\. Nei casi di cui al comma 5 si applicano le sanzioni di cui al comma 7.
 
-9\. L’integrale corresponsione della sanzione pecuniaria di cui ai commi 7 e 8 produce i medesimi effetti della concessione o autorizzazione edilizia in sanatoria di cui all’articolo 75.
+9\. L’integrale corresponsione della sanzione pecuniaria di cui ai commi 7 e 8 produce i medesimi effetti della concessione o autorizzazione edilizia in sanatoria di cui all’articolo
 
-10\. A seguito dell’approvazione della concessione o autorizzazione edilizia di cui al comma7, il certificato di conformità edilizia e agibilità o il certificato di rispondenza edilizia, è rilasciato nel rispetto dei requisiti indicati all’articolo 71, comma 1, e dei termini stabiliti dal medesimo articolo.
+75\. 10. A seguito dell’approvazione della concessione o autorizzazione edilizia di cui al comma7, il certificato di conformità edilizia e agibilità o il certificato di rispondenza edilizia, è rilasciato nel rispetto dei requisiti indicati all’articolo 71, comma 1, e dei termini stabiliti dal medesimo articolo.
 
 11\. Non è ammessa la facoltà di oblazione volontaria di cui all'articolo 33, comma primo, lettera a), della Legge 28 giugno 1989 n.68.
 
@@ -2752,9 +2738,7 @@ Legge 31 ottobre 2018 n. 137
 
 (Superficie utile lorda edificabile)
 
-1.
-
-La superficie utile lorda edificabile (Sul), esistente o di progetto, si misura in mq e si calcola come somma delle superfici lorde di tutti i piani entro e fuori terra, comprese le superfici di:
+1\. La superficie utile lorda edificabile (Sul), esistente o di progetto, si misura in mq e si calcola come somma delle superfici lorde di tutti i piani entro e fuori terra, comprese le superfici di:
 
 a) murature perimetrali ed interne salvo quanto previsto al comma 2 lettera k);
 
@@ -2768,9 +2752,7 @@ e) piani seminterrati non rientranti nell’esclusione di cui al comma 2, letter
 
 f) volumi tecnici e impiantistici non rientranti nelle esclusioni di cui al comma 2, lettere b) e j).
 
-2.
-
-Sono escluse dal calcolo della Sul le superfici di:
+2\. Sono escluse dal calcolo della Sul le superfici di:
 
 a) un solo piano seminterrato, sotto il perimetro dell’edificio e fuori perimetro per una superficie lorda massima pari al 10% della Sf, fino ad altezza interna di m 2,50, da misurarsi dall’estradosso del solaio sottostante all’intradosso del solaio del piano sovrastante, con funzioni secondarie a quelle principali come individuate dall’articolo 83, comma 3;
 
@@ -2788,9 +2770,7 @@ g) impianti di depurazione di acque o di lavorazioni artigianali e/o industriali
 
 Art. 24, comma 3
 
-3.
-
-La lettera vv) del comma 1 dell’articolo 84 della Legge n.140/2017 è così sostituita:
+3\. La lettera vv) del comma 1 dell’articolo 84 della Legge n.140/2017 è così sostituita:
 
 “vv) dichiarazione di idoneità statica: dichiarazione contenente l’attestazione del professionista abilitato che l’opera è atta a sopportare i sovraccarichi di progetto in condizioni statiche, escludendo azioni sismiche o di tipo dinamico in genere. La predetta dichiarazione è redatta sulla base di linee guida proposte dall’Ordine degli Ingegneri e Architetti della Repubblica di San Marino e adottate dalla Commissione Politiche Territoriali.”.
 
@@ -2818,13 +2798,9 @@ k) murature perimetrali per lo spessore eccedente i 30 cm e sino allo spessore d
 
 l) arredi delle aree pertinenziali degli edifici come definiti all’articolo 84, comma,1 lettera cc).
 
-3.
+3\. Le disposizioni di cui al comma 2 non si applicano agli edifici esistenti a qualunque funzione destinati, di rilevante interesse storico, ambientale e culturale inclusi in Zone A “zone omogenee di carattere storico ambientale” di cui all’articolo 33 della Legge n.7/1992 nonché per gli edifici inseriti nell’elenco di cui alla Legge n.147/2005.
 
-Le disposizioni di cui al comma 2 non si applicano agli edifici esistenti a qualunque funzione destinati, di rilevante interesse storico, ambientale e culturale inclusi in Zone A “zone omogenee di carattere storico ambientale” di cui all’articolo 33 della Legge n.7/1992 nonché per gli edifici inseriti nell’elenco di cui alla Legge n.147/2005.
-
-4.
-
-Le disposizioni di cui al comma 2, lettera h), non si applicano agli interventi edilizi in zona D, zona D1 e zona D2 e nel caso di edifici con un solo piano fuori terra computabile in termini di superficie utile lorda. 15 15
+4\. Le disposizioni di cui al comma 2, lettera h), non si applicano agli interventi edilizi in zona D, zona D1 e zona D2 e nel caso di edifici con un solo piano fuori terra computabile in termini di superficie utile lorda. 15 15
 
 Testo originario (Legge n. 140/2017) Art.85 (Superficie utile lorda edificabile)
 
@@ -2956,9 +2932,7 @@ d) gli strati isolanti applicati ai solai di copertura, per la parte che ecceda 
 
 (Distanze dai confini di proprietà (D))
 
-1.
-
-La distanza del fabbricato dai confini di proprietà (D) è misurata dalle parti fisse, siano esse strutturali o non, dell’unità edilizia e deve rispettare i seguenti minimi e prescrizioni:
+1\. La distanza del fabbricato dai confini di proprietà (D) è misurata dalle parti fisse, siano esse strutturali o non, dell’unità edilizia e deve rispettare i seguenti minimi e prescrizioni:
 
 a) per gli ampliamenti di edifici esistenti che abbiano distanze dai confini inferiori a quelle previste dalle norme di zona si mantengono, per i rispettivi fronti, le distanze dai confini di proprietà esistenti con il minimo di m 3,00;
 
@@ -2970,9 +2944,7 @@ d) per i piani interrati di cui all’articolo 84, comma 1, lettera s) e le oper
 
 e) per tutti gli edifici, anche interrati o seminterrati, e le opere strutturali si deve rispettare la distanza minima dal confine di Stato di m 10,00. Distanze inferiori potranno essere consentite dalla Commissione per le Politiche Territoriali per opere di infrastrutture pubbliche e viarie.
 
-2.
-
-Ai fini del calcolo della distanza del fabbricato dai confini di proprietà sono esclusi balconi, ballatoi, pensiline e cornicioni aggettanti fino ad una sporgenza massima di m 1,50 che comunque devono rispettare i seguenti minimi:
+2\. Ai fini del calcolo della distanza del fabbricato dai confini di proprietà sono esclusi balconi, ballatoi, pensiline e cornicioni aggettanti fino ad una sporgenza massima di m 1,50 che comunque devono rispettare i seguenti minimi:
 
 a) i balconi, i ballatoi, le pensiline aggettanti devono rispettare la distanza minima di m 3,00 dal confine di proprietà;
 
@@ -2986,21 +2958,15 @@ Decreto Delegato 29 aprile 2019 n. 70 Art. 3, comma 1
 
 b) i cornicioni aggettanti devono rispettare la distanza minima di m 1,50 dal confine di proprietà.
 
-3.
-
-E’ prevista una distanza minima dai confini di proprietà pari a m 1,50 per i seguenti interventi realizzati su edifici esistenti:
+3\. E’ prevista una distanza minima dai confini di proprietà pari a m 1,50 per i seguenti interventi realizzati su edifici esistenti:
 
 a) scale di sicurezza esterne e impianti tecnologici di modesta entità quando imposte da norme di sicurezza o prevenzione incendi;
 
 b) mezzi di sollevamento verticale o interventi finalizzati al superamento delle barriere architettoniche, fatto salvo quanto previsto all’articolo 156.
 
-4.
+4\. Distanze inferiori a quelle previste dalle norme di zona possono essere previste nelle zone a Piano Particolareggiato con il minimo assoluto di m 3,00 dal confine di proprietà.
 
-Distanze inferiori a quelle previste dalle norme di zona possono essere previste nelle zone a Piano Particolareggiato con il minimo assoluto di m 3,00 dal confine di proprietà.
-
-5.
-
-E' consentita la costruzione a confine nei seguenti casi:
+5\. E' consentita la costruzione a confine nei seguenti casi:
 
 a) ove risulti da atto registrato e trascritto l'assenso del proprietario del terreno contiguo;
 
@@ -3008,25 +2974,15 @@ b) ove esista, e limitatamente a questa, parte edificata in aderenza o a confine
 
 La costruzione a confine è subordinata al parere favorevole dell’AASLP e dell’AASS qualora siano presenti passaggi di infrastrutture pubbliche.
 
-6.
+6\. Negli interventi edilizi di ampliamento su edifici esistenti i cui fronti non siano paralleli ed equidistanti alle linee di confine e le distanze dai confini siano in parte inferiori a quelle previste dalle norme di zona, la distanza dal confine di proprietà è calcolata facendo la media tra la distanza dalla parte di edificio più vicina al confine e quella più lontana con il minimo assoluto di m 3,00 e fatto salvo quanto previsto al comma 1, lettera d). In tal caso il fronte dell’edificio esistente, che presenta una distanza inferiore a quelle previste dalle norme di zona, deve essere almeno il 50% del fronte risultante dal progetto dell’ampliamento.
 
-Negli interventi edilizi di ampliamento su edifici esistenti i cui fronti non siano paralleli ed equidistanti alle linee di confine e le distanze dai confini siano in parte inferiori a quelle previste dalle norme di zona, la distanza dal confine di proprietà è calcolata facendo la media tra la distanza dalla parte di edificio più vicina al confine e quella più lontana con il minimo assoluto di m 3,00 e fatto salvo quanto previsto al comma 1, lettera d). In tal caso il fronte dell’edificio esistente, che presenta una distanza inferiore a quelle previste dalle norme di zona, deve essere almeno il 50% del fronte risultante dal progetto dell’ampliamento.
+7\. Non si computano ai fini del calcolo della distanza minima dei fabbricati dai confini le opere di coibentazione termica delle pareti esterne degli edifici esistenti e di nuova costruzione realizzate come previsto dall’articolo 5 del Decreto Delegato n.51/2017 e successive modifiche. Restano esclusi dalla predetta disposizione gli edifici inclusi in Zone A “zone omogenee di carattere storico ambientale” di cui all’articolo 33 della Legge n.7/1992 nonché per gli edifici inseriti nell’elenco di cui alla Legge n.147/2005.
 
-7.
+8\. Non si computano ai fini del calcolo della distanza minima dei fabbricati dai confini di proprietà gli interventi individuati all’articolo 90, comma 5, lettere a) e b).
 
-Non si computano ai fini del calcolo della distanza minima dei fabbricati dai confini le opere di coibentazione termica delle pareti esterne degli edifici esistenti e di nuova costruzione realizzate come previsto dall’articolo 5 del Decreto Delegato n.51/2017 e successive modifiche. Restano esclusi dalla predetta disposizione gli edifici inclusi in Zone A “zone omogenee di carattere storico ambientale” di cui all’articolo 33 della Legge n.7/1992 nonché per gli edifici inseriti nell’elenco di cui alla Legge n.147/2005.
+9\. Sono fatte salve le disposizioni previste per gli interventi di ristrutturazione edilizia con demolizione e ricostruzione dell’edificio esistente di cui all’articolo 106 della presente legge e agli articoli 3 e 4 del Decreto Delegato n.51/2017 e successive modifiche.
 
-8.
-
-Non si computano ai fini del calcolo della distanza minima dei fabbricati dai confini di proprietà gli interventi individuati all’articolo 90, comma 5, lettere a) e b).
-
-9.
-
-Sono fatte salve le disposizioni previste per gli interventi di ristrutturazione edilizia con demolizione e ricostruzione dell’edificio esistente di cui all’articolo 106 della presente legge e agli articoli 3 e 4 del Decreto Delegato n.51/2017 e successive modifiche.
-
-10.
-
-Quanto previsto al presente articolo si applica esclusivamente in materia di distanze dai confini di proprietà. Sono fatte salve le disposizioni sulle distanze minime dalle strade di cui all’articolo 90. 17 17 Testo originario (Legge n. 140/2017)
+10\. Quanto previsto al presente articolo si applica esclusivamente in materia di distanze dai confini di proprietà. Sono fatte salve le disposizioni sulle distanze minime dalle strade di cui all’articolo 90. 17 17 Testo originario (Legge n. 140/2017)
 
 ##### Art.88
 
@@ -3436,9 +3392,7 @@ e) rifacimento di sottoservizi e impianti tecnologici, realizzazione di volumi t
 
 urbanistici vigenti e delle norme in materia edilizia ed edificatoria. Eventuali opere di manutenzione straordinaria non conformi alle prescrizioni della presente legge o non rispondenti alle norme di decoro sono soggette alle sanzioni previste agli articoli 74 e
 
-120.
-
-3\. Tali interventi, se effettuati su edifici di rilevante interesse storico, ambientale e culturale inclusi in Zone A “zone omogenee di carattere storico ambientale” di cui all’articolo 33 della Legge n.7/1992 nonché sugli immobili, complessi, organismi e manufatti di valore monumentale inseriti nell’elenco di cui alla Legge n.147/2005 sono soggetti alla preventiva autorizzazione della CCM ai fini dell’ottenimento del titolo edilizio.
+120\. 3. Tali interventi, se effettuati su edifici di rilevante interesse storico, ambientale e culturale inclusi in Zone A “zone omogenee di carattere storico ambientale” di cui all’articolo 33 della Legge n.7/1992 nonché sugli immobili, complessi, organismi e manufatti di valore monumentale inseriti nell’elenco di cui alla Legge n.147/2005 sono soggetti alla preventiva autorizzazione della CCM ai fini dell’ottenimento del titolo edilizio.
 
 4\. In particolare sono da considerarsi opere di manutenzione straordinaria:
 
@@ -4506,9 +4460,7 @@ IV. accessibili mensa, spogliatoi, luoghi ricreativi e servizi di pertinenza.
 
 (Prestiti agevolati finalizzati all'eliminazione delle barriere architettoniche)
 
-1.
-
-E’ concesso il prestito agevolato, assistito da contributo pubblico, per la realizzazione di opere finalizzate all’abbattimento e all’eliminazione delle barriere architettoniche negli edifici adibiti a civile abitazione, anche al fine di adeguare gli edifici adibiti a civile abitazione con tecnologie, apparati, strumenti e opere atte all’eliminazione delle barriere della comprensione e della comunicazione, compresi sistemi hardware, software, automazione e domotica. 1 bis. Il prestito di cui al comma 1, richiesto dai soggetti di cui al comma 5, anche ai sensi della Legge n.136/2021, è finanziato fino all’importo di euro 5.000,00 dal contributo a fondo perduto stanziato sul capitolo di spesa 2-3-7437 “Contributi a fondo perduto per gli interventi di cui all’articolo 154 della Legge 14 dicembre 2017 n.140”, mentre il prestito agevolato viene attivato per gli importi eventualmente eccedenti tale somma, nel limite massimo previsto dal successivo comma 2. 1ter. La selezione degli aventi diritto al contributo a fondo perduto di cui al comma 1 bis, da recepire con integrazioni al regolamento di cui all’articolo 154 comma 10, della Legge 14 dicembre 2017 n.140, avviene:
+1\. E’ concesso il prestito agevolato, assistito da contributo pubblico, per la realizzazione di opere finalizzate all’abbattimento e all’eliminazione delle barriere architettoniche negli edifici adibiti a civile abitazione, anche al fine di adeguare gli edifici adibiti a civile abitazione con tecnologie, apparati, strumenti e opere atte all’eliminazione delle barriere della comprensione e della comunicazione, compresi sistemi hardware, software, automazione e domotica. 1 bis. Il prestito di cui al comma 1, richiesto dai soggetti di cui al comma 5, anche ai sensi della Legge n.136/2021, è finanziato fino all’importo di euro 5.000,00 dal contributo a fondo perduto stanziato sul capitolo di spesa 2-3-7437 “Contributi a fondo perduto per gli interventi di cui all’articolo 154 della Legge 14 dicembre 2017 n.140”, mentre il prestito agevolato viene attivato per gli importi eventualmente eccedenti tale somma, nel limite massimo previsto dal successivo comma 2. 1ter. La selezione degli aventi diritto al contributo a fondo perduto di cui al comma 1 bis, da recepire con integrazioni al regolamento di cui all’articolo 154 comma 10, della Legge 14 dicembre 2017 n.140, avviene:
 
 a) nel caso in cui gli importi da finanziare non eccedano la capienza del capitolo 2-37437, a ciascun avente diritto nella quota del 100% del finanziamento fino al limite di euro 5.000,00;
 
@@ -4518,43 +4470,25 @@ c) i contributi a fondo perduto spettanti a coloro che, in esito alla selezione 
 
 d) in corso di ogni esercizio finanziario verranno prese in considerazione solamente le richieste effettuate entro il 31 marzo. Le domande effettuate successivamente al 31 marzo di ciascun anno, salvo che la disabilità non sia intervenuta successivamente, verranno prese in carico nell’esercizio finanziario successivo.
 
-2.
+2\. Il prestito è concesso nella percentuale dell’80% della somma necessaria per l’esecuzione delle opere e comunque in somma non superiore a euro 40.000,00.
 
-Il prestito è concesso nella percentuale dell’80% della somma necessaria per l’esecuzione delle opere e comunque in somma non superiore a euro 40.000,00.
+3\. Il Congresso di Stato è autorizzato a stipulare con istituti di credito sammarinesi convenzioni finanziarie istitutive di aperture di credito per la concessione del prestito agevolato assistito da garanzia dell’Amministrazione.
 
-3.
-
-Il Congresso di Stato è autorizzato a stipulare con istituti di credito sammarinesi convenzioni finanziarie istitutive di aperture di credito per la concessione del prestito agevolato assistito da garanzia dell’Amministrazione.
-
-4.
-
-E’ posta a carico del Bilancio dello Stato una quota pari al 70% del tasso d’interesse sui mutui contratti ai sensi della presente legge; la differenza tra la quota a carico dello Stato ed il tasso praticato dagli istituti di credito è a carico del mutuatario.
+4\. E’ posta a carico del Bilancio dello Stato una quota pari al 70% del tasso d’interesse sui mutui contratti ai sensi della presente legge; la differenza tra la quota a carico dello Stato ed il tasso praticato dagli istituti di credito è a carico del mutuatario.
 
 La Legge di Bilancio fissa gli stanziamenti per ciascun esercizio a copertura degli oneri per interessi a carico dello Stato e contiene l’indicazione delle somme per le quali lo Stato presta garanzia coperta dal privilegio e dalle altre forme di garanzia.
 
-5.
+5\. Il prestito agevolato è concesso dalla Commissione per la Gestione dell’Edilizia Residenziale ai proprietari, usufruttuari e locatari con disabilità, riconosciuti mediante certificazione medica, od aventi a carico persone con disabilità, per progetti funzionalmente correlati al tipo di disabilità e conformi alle disposizioni della presente legge. La richiesta per tale prestito deve essere effettuata entro il 31 agosto di ogni anno.
 
-Il prestito agevolato è concesso dalla Commissione per la Gestione dell’Edilizia Residenziale ai proprietari, usufruttuari e locatari con disabilità, riconosciuti mediante certificazione medica, od aventi a carico persone con disabilità, per progetti funzionalmente correlati al tipo di disabilità e conformi alle disposizioni della presente legge. La richiesta per tale prestito deve essere effettuata entro il 31 agosto di ogni anno.
+6\. Il prestito è rimborsabile entro il periodo massimo di venti anni mediante rate semestrali posticipate da pagarsi dal 15 al 30 giugno e dal 15 al 31 dicembre.
 
-6.
+7\. L’erogazione del prestito è effettuata dagli istituti di credito convenzionati nella misura del 50% a seguito dell’invio della raccomandata di inizio dei lavori ai sensi dell’articolo 68 o della presentazione del modulo per la manutenzione ai sensi del comma 4 dell’articolo 55 qualora per le opere da realizzare la predetta raccomandata non sia richiesta. Il restante 50% viene corrisposto alla presentazione del certificato di conformità edilizia ed agibilità ai sensi dell’articolo 71 o di documentazione fotografica che attesti l’avvenuta realizzazione delle opere qualora per le opere da realizzare il predetto certificato non sia richiesto.
 
-Il prestito è rimborsabile entro il periodo massimo di venti anni mediante rate semestrali posticipate da pagarsi dal 15 al 30 giugno e dal 15 al 31 dicembre.
+8\. Sugli immobili oggetto del beneficio di cui alla presente legge grava, a favore dell’Ecc.ma Camera, il privilegio a garanzia del prestito e degli interessi, con preferenza su ogni altro creditore, fino all’estinzione.
 
-7.
+9\. Gli usufruttuari ed i locatari ai quali è concesso il prestito agevolato prestano, a favore dell’Ecc.ma Camera, la garanzia ritenuta idonea dalla Commissione per la Gestione dell’Edilizia Residenziale.
 
-L’erogazione del prestito è effettuata dagli istituti di credito convenzionati nella misura del 50% a seguito dell’invio della raccomandata di inizio dei lavori ai sensi dell’articolo 68 o della presentazione del modulo per la manutenzione ai sensi del comma 4 dell’articolo 55 qualora per le opere da realizzare la predetta raccomandata non sia richiesta. Il restante 50% viene corrisposto alla presentazione del certificato di conformità edilizia ed agibilità ai sensi dell’articolo 71 o di documentazione fotografica che attesti l’avvenuta realizzazione delle opere qualora per le opere da realizzare il predetto certificato non sia richiesto.
-
-8.
-
-Sugli immobili oggetto del beneficio di cui alla presente legge grava, a favore dell’Ecc.ma Camera, il privilegio a garanzia del prestito e degli interessi, con preferenza su ogni altro creditore, fino all’estinzione.
-
-9.
-
-Gli usufruttuari ed i locatari ai quali è concesso il prestito agevolato prestano, a favore dell’Ecc.ma Camera, la garanzia ritenuta idonea dalla Commissione per la Gestione dell’Edilizia Residenziale.
-
-10.
-
-E’ demandata alla Commissione per la Gestione dell’Edilizia Residenziale la redazione di un regolamento che definisca le modalità per l’erogazione dei finanziamenti, i tipi di intervento per i quali sono concessi i prestiti agevolati e le relative forme di garanzia. 23 23 Testo originario (Legge n. 140/2017)
+10\. E’ demandata alla Commissione per la Gestione dell’Edilizia Residenziale la redazione di un regolamento che definisca le modalità per l’erogazione dei finanziamenti, i tipi di intervento per i quali sono concessi i prestiti agevolati e le relative forme di garanzia. 23 23 Testo originario (Legge n. 140/2017)
 
 ##### Art.154
 
@@ -4598,9 +4532,7 @@ La formulazione corretta del suddetto articolo 154, comma 7, è pertanto la segu
 
 LEGGE 22 dicembre 2021 n.207, Art. 11 comma 2,
 
-2.
-
-L’articolo 154 della Legge 14 dicembre 2017 n.140 è modificato come segue:
+2\. L’articolo 154 della Legge 14 dicembre 2017 n.140 è modificato come segue:
 
 “Art.154 (Prestiti agevolati finalizzati all’eliminazione delle barriere architettoniche)
 
@@ -6518,25 +6450,17 @@ c) interruttore della luce posto ad una altezza da terra di m. 0,90.
 
 Arredi fissi
 
-1.
+1\. All'interno di locali pubblici o di uso pubblico i banconi e gli arredi utilizzati per le normali operazioni di pubblico dovranno essere predisposti in modo che almeno una parte di essi, nella quale dovranno essere assicurati tutti i servizi erogati all'interno della struttura, risponda ai requisiti di cui alle presenti disposizioni. A tal fine è necessario che la loro disposizione all'interno della struttura permetta la possibilità di utilizzo e di movimento anche a persone con difficoltà motorie o sensopercettive.
 
-All'interno di locali pubblici o di uso pubblico i banconi e gli arredi utilizzati per le normali operazioni di pubblico dovranno essere predisposti in modo che almeno una parte di essi, nella quale dovranno essere assicurati tutti i servizi erogati all'interno della struttura, risponda ai requisiti di cui alle presenti disposizioni. A tal fine è necessario che la loro disposizione all'interno della struttura permetta la possibilità di utilizzo e di movimento anche a persone con difficoltà motorie o sensopercettive.
+2\. Nel caso dell'adozione di transenne, percorsi obbligati, cancelletti a spinta, ecc., occorre che questi siano realizzati nel rispetto delle presenti disposizioni e siano dimensionati in modo da consentire il passaggio agevole di una carrozzina; occorre poi disporre che gli elementi mobili non siano di difficile individuazione o utilizzo e che non risultino di intralcio al passaggio.
 
-2.
-
-Nel caso dell'adozione di transenne, percorsi obbligati, cancelletti a spinta, ecc., occorre che questi siano realizzati nel rispetto delle presenti disposizioni e siano dimensionati in modo da consentire il passaggio agevole di una carrozzina; occorre poi disporre che gli elementi mobili non siano di difficile individuazione o utilizzo e che non risultino di intralcio al passaggio.
-
-3.
-
-I piano d’appoggio devono avere le seguenti caratteristiche:
+3\. I piano d’appoggio devono avere le seguenti caratteristiche:
 
 a) altezza da terra del piano m. 0,80;
 
 b) spazio sottostante di altezza minima m. 0,65 e di profondità minima m. 0,45.
 
-4.
-
-I banconi devono avere le seguenti caratteristiche:
+4\. I banconi devono avere le seguenti caratteristiche:
 
 a) altezza piano di appoggio tra m. 0,80 e m. 0,90;
 
@@ -6544,17 +6468,13 @@ b) aggetto del piano di appoggio m. 0,20;
 
 c) zoccolo di altezza da terra m. 0,20 rientrante di m. 0,20.
 
-5.
-
-I banchi di cassa devono avere le seguenti caratteristiche:
+5\. I banchi di cassa devono avere le seguenti caratteristiche:
 
 a) altezza massima m. 0,80;
 
 b) distanza minima tra due banchi m. 0,90.
 
-6.
-
-Per ogni locale di carattere commerciale nel quale sia prevista la presenza di camerini di prova di articoli di abbigliamento, di questi almeno uno per ogni locale dovrà essere realizzato nel rispetto delle seguenti caratteristiche:
+6\. Per ogni locale di carattere commerciale nel quale sia prevista la presenza di camerini di prova di articoli di abbigliamento, di questi almeno uno per ogni locale dovrà essere realizzato nel rispetto delle seguenti caratteristiche:
 
 a) dimensioni minime interne 1,50 x 1,20;
 
@@ -6634,9 +6554,7 @@ a) strade residenziali;
 
 b) spazi di sosta o parcheggio; 27 LEGGE 14 DICEMBRE 2017 N.140, Art.160 comma 6
 
-6.
-
-Fino all’approvazione del nuovo strumento di pianificazione generale restano in vigore le Sezioni I, II e III del Capo I della Legge 19 luglio 1995 n.87.
+6\. Fino all’approvazione del nuovo strumento di pianificazione generale restano in vigore le Sezioni I, II e III del Capo I della Legge 19 luglio 1995 n.87.
 
 c) fognature;
 
@@ -6734,9 +6652,7 @@ b) relazione tecnica con indicazione della via e numero civico;
 
 c) fotografie in numero sufficiente alla identificazione generale della esposizione richiesta; 28 LEGGE 14 DICEMBRE 2017 N.140, Art.160 comma 7
 
-7.
-
-Fino all’adozione del decreto delegato di cui all’articolo 133 restano in vigore le disposizioni di cui alla
+7\. Fino all’adozione del decreto delegato di cui all’articolo 133 restano in vigore le disposizioni di cui alla
 
 #### Sezione IV del Capo IV della Legge 19 luglio 1995 n.87.
 
@@ -6828,9 +6744,7 @@ Modifiche legislative:
 
 DECRETO - LEGGE 26 ottobre 2010 n.175, Art.4
 
-1.
-
-L’articolo 110, comma 1°, secondo periodo della Legge 19 luglio 1995 n.87 è così modificato:
+1\. L’articolo 110, comma 1°, secondo periodo della Legge 19 luglio 1995 n.87 è così modificato:
 
 “Ad eccezione delle tipologie di attività da individuarsi con Regolamento del Congresso di Stato, il deposito di merce, senza alcun espositore, al di fuori della soglia del locale sede di esercizio è vietato.”.
 
@@ -6922,9 +6836,7 @@ Modifiche legislative:
 
 DECRETO - LEGGE 26 ottobre 2010 n.175, Art.6
 
-1.
-
-L’articolo 118, comma 3°, della Legge 19 luglio 1995 n.87 è sostituito dal seguente:
+1\. L’articolo 118, comma 3°, della Legge 19 luglio 1995 n.87 è sostituito dal seguente:
 
 “3°. Per le attività di servizio sono permesse sino a tre indicazioni stradali da installarsi a cura dell’Azienda Autonoma di Stato di Produzione su indicazione delle proprietà in accordo con l’Azienda stessa, escluse le attività presenti in nuclei e centri storici.”.
 
@@ -7058,9 +6970,7 @@ Modifiche legislative:
 
 DECRETO - LEGGE 26 ottobre 2010 n.175, Art.8
 
-1.
-
-L’articolo 126 della Legge 19 luglio 1995 n.87 è così sostituito:
+1\. L’articolo 126 della Legge 19 luglio 1995 n.87 è così sostituito:
 
 “Art.126 Vigilanza 1°. La vigilanza sull’applicazione delle presenti norme è affidata all’Ispettorato di Vigilanza di cui all’articolo 175 che la esercita in collaborazione con le Forze di Polizia.”.
 
@@ -7170,9 +7080,7 @@ Dichiarazione del valore monumentale 1°Entro quindici giorni dalla pubblicazion
 
 Selezione e schedatura dei monumenti 1°La C.C.M. è tenuta a fornire gli elenchi dei manufatti o immobili con valore di monumento, individuati, mediante documentata schedatura e catalogazione, entro l'ambito stabilito nell'articolo 1, per la redazione delle apposite proposte di legge entro il 30 giugno 1996; successivamente almeno, ogni cinque anni, curerà l'aggiornamento degli elenchi. 2°Nella preparazione di detti elenchi la C.C.M. potrà avvalersi della collaborazione di tecnici ed esperti che opereranno sotto il controllo e la supervisione della Commissione stessa. 3°Gli eventuali oneri saranno da imputarsi sul bilancio del Dicastero Pubblica Istruzione e Cultura.
 
-8.
-
-Fino all’entrata in vigore di nuova normativa restano in vigore le disposizioni di cui al Capo VII e dell’articolo 214, comma 1, della Legge 19 luglio 1995 n.87.
+8\. Fino all’entrata in vigore di nuova normativa restano in vigore le disposizioni di cui al Capo VII e dell’articolo 214, comma 1, della Legge 19 luglio 1995 n.87.
 
 4°Le schede di catalogazione saranno conservate dal Museo di Stato che le rende disponibili alla consultazione da parte di chi ne faccia richiesta.
 
@@ -7202,9 +7110,7 @@ Modifiche legislative:
 
 LEGGE 14 DICEMBRE 2017 N.140, Art.160 comma 8
 
-8.
-
-Fino all’entrata in vigore di nuova normativa restano in vigore le disposizioni di cui al Capo VII e dell’articolo 214, comma 1, della Legge 19 luglio 1995 n.87. 36 Confronta LEGGE 28 ottobre 2005 n.147, Art.15 (Estensione delle prescrizioni)
+8\. Fino all’entrata in vigore di nuova normativa restano in vigore le disposizioni di cui al Capo VII e dell’articolo 214, comma 1, della Legge 19 luglio 1995 n.87. 36 Confronta LEGGE 28 ottobre 2005 n.147, Art.15 (Estensione delle prescrizioni)
 
 Le prescrizioni di cui agli articoli 12 e 13 della presente legge integrano le norme e le procedure previste dall'articolo 214 della Legge 19 luglio 1995 n.87 per quanto attiene le case a catalogo A (recupero a fini museali) e B (case a restauro) di cui alla Legge 18 settembre 1990 n. 103.
 
@@ -7364,13 +7270,9 @@ Per i primi 8 mq. 3 mesi 6 mesi 9 mesi 12 mesi 1° Categoria 13,10 17,00 20,90 2
 
 Si veda anche DECRETO - LEGGE 26 ottobre 2010 n.175, art.7
 
-1.
+1\. Nella Categoria 1 di cui alle Tariffe dell’Allegato “C” della Legge 19 luglio 1995 n.87 e successive modificazioni rientrano anche le esposizioni pubblicitarie effettuate da attività ubicate lungo le strade classificate di tipo “a” ai sensi dell’articolo 15 della Legge 29 gennaio 1992 n.7 (P.R.G.).
 
-Nella Categoria 1 di cui alle Tariffe dell’Allegato “C” della Legge 19 luglio 1995 n.87 e successive modificazioni rientrano anche le esposizioni pubblicitarie effettuate da attività ubicate lungo le strade classificate di tipo “a” ai sensi dell’articolo 15 della Legge 29 gennaio 1992 n.7 (P.R.G.).
-
-2.
-
-Il Congresso di Stato ha facoltà di definire nuove Categorie di attività con la delibera di aggiornamento delle tariffe di cui all’articolo 125, comma 2° della Legge 19 luglio 1995 n.87.
+2\. Il Congresso di Stato ha facoltà di definire nuove Categorie di attività con la delibera di aggiornamento delle tariffe di cui all’articolo 125, comma 2° della Legge 19 luglio 1995 n.87.
 
 DECRETO - LEGGE 26 ottobre 2010 n.175
 
@@ -7384,53 +7286,37 @@ INTERVENTI IN MATERIA DI ESPOSIZIONI PUBBLICITARIE
 
 ##### Art.4
 
-1.
-
-L’articolo 110, comma 1°, secondo periodo della Legge 19 luglio 1995 n.87 è così modificato:
+1\. L’articolo 110, comma 1°, secondo periodo della Legge 19 luglio 1995 n.87 è così modificato:
 
 “Ad eccezione delle tipologie di attività da individuarsi con Regolamento del Congresso di Stato, il deposito di merce, senza alcun espositore, al di fuori della soglia del locale sede di esercizio è vietato.”.
 
 ##### Art.5
 
-1.
+1\. Rientrano nella tipologia di cui all’articolo 110, comma 1°, lettere C e D, della Legge 19 luglio 1995 n.87, anche i cartelli, le insegne, le scritte, gli striscioni, le immagini pubblicitarie e simili installati temporaneamente in cantieri edili.
 
-Rientrano nella tipologia di cui all’articolo 110, comma 1°, lettere C e D, della Legge 19 luglio 1995 n.87, anche i cartelli, le insegne, le scritte, gli striscioni, le immagini pubblicitarie e simili installati temporaneamente in cantieri edili.
-
-2.
-
-Le insegne temporanee di cui al comma 1 sono denunciate all’Ufficio Urbanistica mediante dichiarazione che indichi la superficie, l’ubicazione, la durata e le caratteristiche dell’esposizione medesima.
+2\. Le insegne temporanee di cui al comma 1 sono denunciate all’Ufficio Urbanistica mediante dichiarazione che indichi la superficie, l’ubicazione, la durata e le caratteristiche dell’esposizione medesima.
 
 ##### Art.6
 
-1.
-
-L’articolo 118, comma 3°, della Legge 19 luglio 1995 n.87 è sostituito dal seguente:
+1\. L’articolo 118, comma 3°, della Legge 19 luglio 1995 n.87 è sostituito dal seguente:
 
 “3°. Per le attività di servizio sono permesse sino a tre indicazioni stradali da installarsi a cura dell’Azienda Autonoma di Stato di Produzione su indicazione delle proprietà in accordo con l’Azienda stessa, escluse le attività presenti in nuclei e centri storici.”.
 
 ##### Art.7
 
-1.
+1\. Nella Categoria 1 di cui alle Tariffe dell’Allegato “C” della Legge 19 luglio 1995 n.87 e successive modificazioni rientrano anche le esposizioni pubblicitarie effettuate da attività ubicate lungo le strade classificate di tipo “a” ai sensi dell’articolo 15 della Legge 29 gennaio 1992 n.7 (P.R.G.).
 
-Nella Categoria 1 di cui alle Tariffe dell’Allegato “C” della Legge 19 luglio 1995 n.87 e successive modificazioni rientrano anche le esposizioni pubblicitarie effettuate da attività ubicate lungo le strade classificate di tipo “a” ai sensi dell’articolo 15 della Legge 29 gennaio 1992 n.7 (P.R.G.).
-
-2.
-
-Il Congresso di Stato ha facoltà di definire nuove Categorie di attività con la delibera di aggiornamento delle tariffe di cui all’articolo 125, comma 2° della Legge 19 luglio 1995 n.87.
+2\. Il Congresso di Stato ha facoltà di definire nuove Categorie di attività con la delibera di aggiornamento delle tariffe di cui all’articolo 125, comma 2° della Legge 19 luglio 1995 n.87.
 
 ##### Art.8
 
-1.
-
-L’articolo 126 della Legge 19 luglio 1995 n.87 è così sostituito:
+1\. L’articolo 126 della Legge 19 luglio 1995 n.87 è così sostituito:
 
 “Art.126 Vigilanza 1°. La vigilanza sull’applicazione delle presenti norme è affidata all’Ispettorato di Vigilanza di cui all’articolo 175 che la esercita in collaborazione con le Forze di Polizia.”.
 
 ##### Art.9
 
-1.
-
-L’articolo 127 della Legge 19 luglio 1995 n.87 è così sostituito:
+1\. L’articolo 127 della Legge 19 luglio 1995 n.87 è così sostituito:
 
 “Art.127 1°. Nei confronti dei contravventori alle norme del presente Capo vengono adottati i seguenti provvedimenti:
 
@@ -7442,9 +7328,7 @@ c) al terzo accertamento: sanzione pecuniaria amministrativa di € 7.500,00=. 2
 
 ##### Art.10
 
-1.
-
-L’articolo 128, comma 2° della Legge 19 luglio 1995 n.87 è così sostituito:
+1\. L’articolo 128, comma 2° della Legge 19 luglio 1995 n.87 è così sostituito:
 
 “2°. Tale sanzione è applicata dal Dirigente dell’Ispettorato di Vigilanza di cui all’articolo 175.”.
 
@@ -7454,49 +7338,33 @@ L’articolo 128, comma 2° della Legge 19 luglio 1995 n.87 è così sostituito:
 
 ##### Art.11
 
-1.
-
-I soggetti che abbiano realizzato esposizioni pubblicitarie in assenza o in difformità dall’autorizzazione di cui all’articolo 109 della Legge 19 luglio 1995 n.87 che intendano regolarizzare le esposizioni abusive, devono denunciarne la consistenza, entro novanta giorni dall'entrata in vigore del presente decreto-legge, all’Ufficio Urbanistica e richiederne espressamente la regolarizzazione, previo pagamento della sanzione pecuniaria amministrativa determinata a norma dell’articolo 13. 38
+1\. I soggetti che abbiano realizzato esposizioni pubblicitarie in assenza o in difformità dall’autorizzazione di cui all’articolo 109 della Legge 19 luglio 1995 n.87 che intendano regolarizzare le esposizioni abusive, devono denunciarne la consistenza, entro novanta giorni dall'entrata in vigore del presente decreto-legge, all’Ufficio Urbanistica e richiederne espressamente la regolarizzazione, previo pagamento della sanzione pecuniaria amministrativa determinata a norma dell’articolo 13. 38
 
 ##### Art.12
 
-1.
-
-L'Ufficio Urbanistica predispone apposito modulo da allegarsi alla domanda di regolarizzazione la quale dovrà essere corredata da progetto che rappresenti lo stato di fatto dell’esposizione pubblicitaria unitamente alla documentazione di cui alle lettere b), c) ed e) dell’articolo 109, comma 1°, della Legge 19 luglio 1995 n.87 ed a dichiarazione relativa al periodo di realizzazione dell'abuso.
+1\. L'Ufficio Urbanistica predispone apposito modulo da allegarsi alla domanda di regolarizzazione la quale dovrà essere corredata da progetto che rappresenti lo stato di fatto dell’esposizione pubblicitaria unitamente alla documentazione di cui alle lettere b), c) ed e) dell’articolo 109, comma 1°, della Legge 19 luglio 1995 n.87 ed a dichiarazione relativa al periodo di realizzazione dell'abuso.
 
 38 DECRETO - LEGGE 31 gennaio 2011 n.18
 
 Articolo Unico
 
-1.
+1\. I termini di scadenza di cui all’articolo 11, comma 1 ed all’articolo 13, comma 2, secondo periodo del Decreto Legge 26 ottobre 2010 n.175 stabiliti rispettivamente per la presentazione delle domande di regolarizzazione delle esposizioni pubblicitarie abusive e per la presentazione delle denunce delle insegne temporanee di cui all’articolo 5, comma 1, del predetto decreto - legge sono prorogati al 28 febbraio 2011.
 
-I termini di scadenza di cui all’articolo 11, comma 1 ed all’articolo 13, comma 2, secondo periodo del Decreto Legge 26 ottobre 2010 n.175 stabiliti rispettivamente per la presentazione delle domande di regolarizzazione delle esposizioni pubblicitarie abusive e per la presentazione delle denunce delle insegne temporanee di cui all’articolo 5, comma 1, del predetto decreto - legge sono prorogati al 28 febbraio 2011.
-
-2.
-
-Contestualmente alla consegna della domanda, il richiedente deposita copia della quietanza attestante l'avvenuto pagamento della sanzione pecuniaria amministrativa calcolata dal tecnico progettista sulla base dei parametri di cui all’articolo 13.
+2\. Contestualmente alla consegna della domanda, il richiedente deposita copia della quietanza attestante l'avvenuto pagamento della sanzione pecuniaria amministrativa calcolata dal tecnico progettista sulla base dei parametri di cui all’articolo 13.
 
 ##### Art.13
 
-1.
+1\. La sanzione pecuniaria amministrativa per il rilascio della regolarizzazione delle esposizioni pubblicitarie abusive è fissata nel quadruplo della tassa dovuta su base annua per la pubblicità sanata.
 
-La sanzione pecuniaria amministrativa per il rilascio della regolarizzazione delle esposizioni pubblicitarie abusive è fissata nel quadruplo della tassa dovuta su base annua per la pubblicità sanata.
+2\. Le esistenti insegne temporanee di cui all’articolo 4 soggiacciono alla tassazione di cui alla tabella contenuta nell’Allegato “C” della Legge 19 luglio 1995 n.87 e successive modificazioni. Nel caso in cui tali insegne siano denunciate entro novanta giorni dall’entrata in vigore del presente decreto-legge, non si applica la sanzione prevista al comma 1. In relazione alle insegne non denunciate entro il termine di cui al periodo precedente, si applicano le sanzioni di cui agli articoli 127 e 128 della Legge 19 luglio 1995 n.87 come modificati dal presente decreto-legge.
 
-2.
-
-Le esistenti insegne temporanee di cui all’articolo 4 soggiacciono alla tassazione di cui alla tabella contenuta nell’Allegato “C” della Legge 19 luglio 1995 n.87 e successive modificazioni. Nel caso in cui tali insegne siano denunciate entro novanta giorni dall’entrata in vigore del presente decreto-legge, non si applica la sanzione prevista al comma 1. In relazione alle insegne non denunciate entro il termine di cui al periodo precedente, si applicano le sanzioni di cui agli articoli 127 e 128 della Legge 19 luglio 1995 n.87 come modificati dal presente decreto-legge.
-
-3.
-
-Non è ammesso l’esercizio della facoltà di cui all’articolo 33, comma primo, lettera
+3\. Non è ammesso l’esercizio della facoltà di cui all’articolo 33, comma primo, lettera
 
 a) della Legge 28 giugno 1989 n.68.
 
 ##### Art.14
 
-1.
-
-La regolarizzazione di cui all’articolo 10 non si applica alle seguenti esposizioni pubblicitarie:
+1\. La regolarizzazione di cui all’articolo 10 non si applica alle seguenti esposizioni pubblicitarie:
 
 a) esposizioni realizzate in violazione dell’articolo 107 della Legge 19 luglio 1995 n.87;
 
@@ -7518,9 +7386,7 @@ i) merce depositata, senza alcun espositore, in mostra al di fuori della soglia 
 
 l) cartelli, insegne, scritte, striscioni, immagini pubblicitarie e simili installati al di fuori della particella catastale sulla quale insiste l’immobile sede dell’attività pubblicizzata.
 
-2.
-
-La regolarizzazione non si applica, altresì, a pubblicità straordinarie ed insegne pubblicitarie che abbiano complessivamente una estensione superiore ad 1/5 della superficie della facciata dell’edificio sulla quale o in corrispondenza della quale sono installate.
+2\. La regolarizzazione non si applica, altresì, a pubblicità straordinarie ed insegne pubblicitarie che abbiano complessivamente una estensione superiore ad 1/5 della superficie della facciata dell’edificio sulla quale o in corrispondenza della quale sono installate.
 
 LEGGE 30 ottobre 1924 N. 32 - Legge sulla tutela del ciglio del monte, delle mura castellane e delle zone adiacenti
 
@@ -7870,9 +7736,7 @@ NORME RELATIVE ALLA PRESENTAZIONE DI ISTANZE E DOCUMENTI NEGLI AMBITI EDILIZIO, 
 
 (Presentazione delle istanze in via telematica)
 
-1.
-
-Le istanze e relativi documenti a corredo nonché le comunicazioni (di seguito, cumulativamente, indicati con il termine “istanze”) relative ai sotto elencati ambiti e settori dell’attività amministrativa afferenti al Dipartimento Territorio e Ambiente possono essere facoltativamente presentate alle competenti UO in via telematica mediante il programma applicativo denominato “Gestione Elettronica dei Documenti Informatici” (in seguito brevemente GEDI), accessibili dal Portale della Pubblica Amministrazione, previa richiesta di abilitazione:
+1\. Le istanze e relativi documenti a corredo nonché le comunicazioni (di seguito, cumulativamente, indicati con il termine “istanze”) relative ai sotto elencati ambiti e settori dell’attività amministrativa afferenti al Dipartimento Territorio e Ambiente possono essere facoltativamente presentate alle competenti UO in via telematica mediante il programma applicativo denominato “Gestione Elettronica dei Documenti Informatici” (in seguito brevemente GEDI), accessibili dal Portale della Pubblica Amministrazione, previa richiesta di abilitazione:
 
 a) edilizio;
 
@@ -7884,25 +7748,15 @@ d) dell’efficientamento energetico e delle energie rinnovabili;
 
 e) ambientale.
 
-2.
+2\. La decorrenza della possibilità di presentazione delle istanze negli ambiti e settori dell’attività amministrativa di cui al comma 1 tramite il programma applicativo GEDI è stabilita, in ragione della progressiva implementazione del suddetto programma, tramite direttiva della DGFP. Sino all’avvio dell’utilizzo del programma applicativo GEDI non è consentita la presentazione, in via telematica, all’ UO Ufficio Pianificazione Territoriale e per l’Edilizia (in seguito brevemente UPTE) di istanze volte all’ottenimento di titoli abilitativi all’esecuzione di interventi edilizi tramite le forme di cui al Capo III.
 
-La decorrenza della possibilità di presentazione delle istanze negli ambiti e settori dell’attività amministrativa di cui al comma 1 tramite il programma applicativo GEDI è stabilita, in ragione della progressiva implementazione del suddetto programma, tramite direttiva della DGFP. Sino all’avvio dell’utilizzo del programma applicativo GEDI non è consentita la presentazione, in via telematica, all’ UO Ufficio Pianificazione Territoriale e per l’Edilizia (in seguito brevemente UPTE) di istanze volte all’ottenimento di titoli abilitativi all’esecuzione di interventi edilizi tramite le forme di cui al Capo III.
+3\. A decorre dall’1 settembre 2023, le istanze e relativi documenti a corredo in ambito catastale sono obbligatoriamente presentate all’UO Ufficio Tecnico del Catasto e Cartografia (in seguito brevemente UTCC) mediante i programmi applicativi denominati “Gestione Richieste Aggiornamento Terreni” (in seguito brevemente GRAT) e “Gestione Richieste Aggiornamento Fabbricati” (in seguito brevemente GRAF) accessibili dal Portale della Pubblica Amministrazione, previa richiesta di abilitazione a “Servizi catastali - aggiornamento catastale”.
 
-3.
+4\. La disciplina delle modalità di presentazione in via telematica di pratiche urbanistiche, di pratiche relative al settore agricolo e di pratiche destinate a commissioni e collegi aventi competenza negli ambiti e settori dell’attività amministrativa di cui al comma 1 è stabilita tramite successiva integrazione al presente decreto delegato.
 
-A decorre dall’1 settembre 2023, le istanze e relativi documenti a corredo in ambito catastale sono obbligatoriamente presentate all’UO Ufficio Tecnico del Catasto e Cartografia (in seguito brevemente UTCC) mediante i programmi applicativi denominati “Gestione Richieste Aggiornamento Terreni” (in seguito brevemente GRAT) e “Gestione Richieste Aggiornamento Fabbricati” (in seguito brevemente GRAF) accessibili dal Portale della Pubblica Amministrazione, previa richiesta di abilitazione a “Servizi catastali - aggiornamento catastale”.
+5\. Le istanze si ritengono ad ogni effetto validamente presentate qualora trasmesse alle competenti UO UPTE, UTCC, Servizio Protezione Civile (in seguito brevemente SPC) e Ufficio Prevenzione Ambiente e Vigilanza del Territorio (in seguito brevemente UPAV) con le modalità di cui ai successivi articoli della presente Sezione.
 
-4.
-
-La disciplina delle modalità di presentazione in via telematica di pratiche urbanistiche, di pratiche relative al settore agricolo e di pratiche destinate a commissioni e collegi aventi competenza negli ambiti e settori dell’attività amministrativa di cui al comma 1 è stabilita tramite successiva integrazione al presente decreto delegato.
-
-5.
-
-Le istanze si ritengono ad ogni effetto validamente presentate qualora trasmesse alle competenti UO UPTE, UTCC, Servizio Protezione Civile (in seguito brevemente SPC) e Ufficio Prevenzione Ambiente e Vigilanza del Territorio (in seguito brevemente UPAV) con le modalità di cui ai successivi articoli della presente Sezione.
-
-6.
-
-I diritti di pratica stabiliti per la presentazione delle istanze sono significativamente differenziati a seconda che i documenti siano presentati in forma elettronica oppure analogica e, in quest’ultimo caso, a seconda della voluminosità.
+6\. I diritti di pratica stabiliti per la presentazione delle istanze sono significativamente differenziati a seconda che i documenti siano presentati in forma elettronica oppure analogica e, in quest’ultimo caso, a seconda della voluminosità.
 
 Qualora la pratica non possa essere presentata in forma elettronica per giustificati motivi legati a malfunzionamenti di sistemi informatici o all’eccessiva dimensione dei file si applicano specifici diritti di pratica.
 
@@ -7910,29 +7764,19 @@ Qualora la pratica non possa essere presentata in forma elettronica per giustifi
 
 (Sottoscrizione delle istanze presentate tramite GEDI, GRAT e GRAF)
 
-1.
+1\. Le istanze negli ambiti e settori dell’attività amministrativa di cui all’articolo 15, comma 1 nonché in ambito catastale presentate in via telematica possono essere sottoscritte da parte del solo tecnico abilitato e sotto l’esclusiva responsabilità di quest’ultimo; ciò anche a modifica di quanto previsto dalla Legge 14 dicembre 2017 n.140 e successive modifiche, dalla Legge 23 gennaio 2015 n.2, dalla Legge 25 gennaio 2011 n.5, dal Decreto Delegato 24 febbraio 2016 n.18 e successive modifiche e relativo errata corrige, nonché dalle norme speciali in materia di sanatoria edilizia straordinaria.
 
-Le istanze negli ambiti e settori dell’attività amministrativa di cui all’articolo 15, comma 1 nonché in ambito catastale presentate in via telematica possono essere sottoscritte da parte del solo tecnico abilitato e sotto l’esclusiva responsabilità di quest’ultimo; ciò anche a modifica di quanto previsto dalla Legge 14 dicembre 2017 n.140 e successive modifiche, dalla Legge 23 gennaio 2015 n.2, dalla Legge 25 gennaio 2011 n.5, dal Decreto Delegato 24 febbraio 2016 n.18 e successive modifiche e relativo errata corrige, nonché dalle norme speciali in materia di sanatoria edilizia straordinaria.
-
-2.
-
-Nel caso di sottoscrizione da parte del solo tecnico abilitato, è onere di quest’ultimo acquisire dal proprietario o concessionario o titolare del diritto di superficie sull’immobile o loro delegati l’atto di procura speciale di delega per la sottoscrizione digitale e per la presentazione telematica delle istanze. Tale atto è conservato sotto la cura e responsabilità del tecnico incaricato.
+2\. Nel caso di sottoscrizione da parte del solo tecnico abilitato, è onere di quest’ultimo acquisire dal proprietario o concessionario o titolare del diritto di superficie sull’immobile o loro delegati l’atto di procura speciale di delega per la sottoscrizione digitale e per la presentazione telematica delle istanze. Tale atto è conservato sotto la cura e responsabilità del tecnico incaricato.
 
 ##### Art. 17
 
 (Disposizioni comuni per la presentazione delle istanze tramite GEDI)
 
-1.
+1\. Il programma applicativo GEDI prevede l’effettuazione, da parte dell’istante abilitato e legittimato alla presentazione, di richiesta preliminare di prenotazione dell’istanza che si intende avanzare. La richiesta di prenotazione dell’istanza effettuata secondo i termini previsti ai commi 2 e 3 diviene presentazione effettiva solo a seguito dell’esecuzione delle operazioni indicate al comma 5.
 
-Il programma applicativo GEDI prevede l’effettuazione, da parte dell’istante abilitato e legittimato alla presentazione, di richiesta preliminare di prenotazione dell’istanza che si intende avanzare. La richiesta di prenotazione dell’istanza effettuata secondo i termini previsti ai commi 2 e 3 diviene presentazione effettiva solo a seguito dell’esecuzione delle operazioni indicate al comma 5.
+2\. L’istanza è sottoscritta dall’uno o più soggetti abilitati e legittimati alla presentazione sotto l’esclusiva responsabilità di questi ultimi, nella forma del documento amministrativo elettronico sottoscritto con firma elettronica qualificata. Qualora l’istanza sia presentata da tecnico abilitato, la stessa è sottoscritta con firma elettronica qualificata contenente la specifica qualifica professionale del titolare.
 
-2.
-
-L’istanza è sottoscritta dall’uno o più soggetti abilitati e legittimati alla presentazione sotto l’esclusiva responsabilità di questi ultimi, nella forma del documento amministrativo elettronico sottoscritto con firma elettronica qualificata. Qualora l’istanza sia presentata da tecnico abilitato, la stessa è sottoscritta con firma elettronica qualificata contenente la specifica qualifica professionale del titolare.
-
-3.
-
-L’inserimento dell’istanza, ivi compresi i pareri ed autorizzazioni previsti dall’articolo 57, comma 9 della Legge n.140/2017 e quelli di competenza di altre UO od organi, avviene con le seguenti modalità:
+3\. L’inserimento dell’istanza, ivi compresi i pareri ed autorizzazioni previsti dall’articolo 57, comma 9 della Legge n.140/2017 e quelli di competenza di altre UO od organi, avviene con le seguenti modalità:
 
 a) inserimento diretto dei dati generali della richiesta;
 
@@ -7940,33 +7784,23 @@ b) compilazione dei dati tecnici;
 
 c) caricamento dei documenti amministrativi elettronici a corredo dell’istanza previsti dalle pertinenti normative. I suddetti documenti a corredo, sottoscritti anch’essi con firma elettronica qualificata del soggetto, pubblico o privato, emittente, sono caricati in formato PDF/A. In relazione alle pratiche di competenza dell’UO SPC non è necessario il caricamento del progetto architettonico in quanto tale documento è già acquisito internamente e, quindi, consultabile dall’UO medesima tramite il programma applicativo GEDI.
 
-4.
+4\. L’UO UPTE, l’UO SPC e l’UO UPAV, ciascuno in relazione all’ambito e settore amministrativo di competenza, a seguito della prenotazione di cui ai superiori commi, controllano la completezza dei dati e dei documenti inseriti e, in caso di esito positivo, richiedono il pagamento dei diritti di pratica.
 
-L’UO UPTE, l’UO SPC e l’UO UPAV, ciascuno in relazione all’ambito e settore amministrativo di competenza, a seguito della prenotazione di cui ai superiori commi, controllano la completezza dei dati e dei documenti inseriti e, in caso di esito positivo, richiedono il pagamento dei diritti di pratica.
-
-5.
-
-L’assegnazione del protocollo al documento amministrativo elettronico formato secondo quanto stabilito dai superiori commi e l’invio al soggetto abilitato e legittimato alla presentazione dell’istanza della ricevuta di avvenuto deposito dell’istanza avviene a seguito del pagamento dei diritti di pratica e della trasmissione in formato elettronico, tramite il programma applicativo GEDI, della ricevuta di pagamento.
+5\. L’assegnazione del protocollo al documento amministrativo elettronico formato secondo quanto stabilito dai superiori commi e l’invio al soggetto abilitato e legittimato alla presentazione dell’istanza della ricevuta di avvenuto deposito dell’istanza avviene a seguito del pagamento dei diritti di pratica e della trasmissione in formato elettronico, tramite il programma applicativo GEDI, della ricevuta di pagamento.
 
 ##### Art.18
 
 (Sospensione della pratica ed integrazione della documentazione)
 
-1.
+1\. Qualora la pratica sia sospesa da parte dell’istruttore designato per esigenze di integrazione documentale, il soggetto abilitato e legittimato alla presentazione dell’istanza provvede a trasmettere le integrazioni richieste in formato elettronico tramite il programma applicativo GEDI.
 
-Qualora la pratica sia sospesa da parte dell’istruttore designato per esigenze di integrazione documentale, il soggetto abilitato e legittimato alla presentazione dell’istanza provvede a trasmettere le integrazioni richieste in formato elettronico tramite il programma applicativo GEDI.
-
-2.
-
-La documentazione elettronica integrativa di cui al comma 1 è accompagnata da relazione con cui si riscontrino i profili e motivi di sospensione evidenziati nella comunicazione dell’UO.
+2\. La documentazione elettronica integrativa di cui al comma 1 è accompagnata da relazione con cui si riscontrino i profili e motivi di sospensione evidenziati nella comunicazione dell’UO.
 
 ##### Art. 19
 
 (Irricevibilità delle istanze presentate tramite GEDI)
 
-1.
-
-Sono irricevibili e archiviate d’ufficio le istanze inoltrate in formato elettronico tramite il programma applicativo GEDI in caso di:
+1\. Sono irricevibili e archiviate d’ufficio le istanze inoltrate in formato elettronico tramite il programma applicativo GEDI in caso di:
 
 1) documentazione non sottoscritta con firma elettronica qualificata oppure sottoscritta con firma elettronica non valida. Nel caso l’istanza sia presentata da tecnico abilitato, la stessa è irricevibile qualora la documentazione non sia sottoscritta con firma elettronica qualificata contenente la specifica qualifica professionale del titolare;
 
@@ -7982,41 +7816,27 @@ c);
 
 6) qualora la rilevanza delle omissioni sia tale da non consentire la completa identificazione dell’intervento, dell’immobile o di altri elementi essenziali all’istruttoria della pratica.
 
-2.
-
-Nel caso in cui l’istanza, ai sensi del comma 1, sia dichiarata irricevibile la stessa potrà essere presentata nuovamente.
+2\. Nel caso in cui l’istanza, ai sensi del comma 1, sia dichiarata irricevibile la stessa potrà essere presentata nuovamente.
 
 ##### Art. 20
 
 (Rilascio del provvedimento in esito a pratiche presentate tramite GEDI e conservazione nel tempo dei documenti digitali)
 
-1.
+1\. All’atto del rilascio dei provvedimenti finali di rispettiva competenza, l’UO UPTE, l’UO SPC e l’UO UPAV appongono una marca temporale qualificata volta ad estendere la validità temporale del documento amministrativo elettronico per un periodo di venti anni; qualora il provvedimento finale comprenda elaborati grafici approvati, la marca temporale è apposta anche su questi ultimi.
 
-All’atto del rilascio dei provvedimenti finali di rispettiva competenza, l’UO UPTE, l’UO SPC e l’UO UPAV appongono una marca temporale qualificata volta ad estendere la validità temporale del documento amministrativo elettronico per un periodo di venti anni; qualora il provvedimento finale comprenda elaborati grafici approvati, la marca temporale è apposta anche su questi ultimi.
+2\. Il rilascio da parte dell’UO UPTE, dell’UO SPC e dell’UO UPAV, in favore dell’uno o più soggetti abilitati e legittimati alla presentazione dell’istanza, dei documenti amministrativi elettronici di cui al comma 1 avviene attraverso l’invio all’interessato, tramite SERC, di una comunicazione contenente le indicazioni per accedere all’indirizzo web da cui poter scaricare i suddetti provvedimenti e gli eventuali elaborati grafici approvati muniti di marca temporale.
 
-2.
+3\. Per quanto concerne i provvedimenti finali consistenti in titoli abilitativi all’esecuzione di interventi edilizi, la data dell’atto di scarico del provvedimento costituisce la data di ritiro della concessione od autorizzazione edilizia ai sensi dell’articolo 61 della Legge n.140/2017 e, pertanto, deve avvenire entro un anno dal ricevimento della comunicazione di cui al comma 2.
 
-Il rilascio da parte dell’UO UPTE, dell’UO SPC e dell’UO UPAV, in favore dell’uno o più soggetti abilitati e legittimati alla presentazione dell’istanza, dei documenti amministrativi elettronici di cui al comma 1 avviene attraverso l’invio all’interessato, tramite SERC, di una comunicazione contenente le indicazioni per accedere all’indirizzo web da cui poter scaricare i suddetti provvedimenti e gli eventuali elaborati grafici approvati muniti di marca temporale.
-
-3.
-
-Per quanto concerne i provvedimenti finali consistenti in titoli abilitativi all’esecuzione di interventi edilizi, la data dell’atto di scarico del provvedimento costituisce la data di ritiro della concessione od autorizzazione edilizia ai sensi dell’articolo 61 della Legge n.140/2017 e, pertanto, deve avvenire entro un anno dal ricevimento della comunicazione di cui al comma 2.
-
-4.
-
-L’Amministrazione garantisce nel tempo la conservazione dei propri documenti digitali tramite il predetto programma applicativo GEDI secondo parametri di integrità e autenticità, governo e controllo degli accessi ed audit trail conformi alle raccomandazioni ed alle linee guida internazionali, senza ricorrere a processi di conservazione sostitutiva.
+4\. L’Amministrazione garantisce nel tempo la conservazione dei propri documenti digitali tramite il predetto programma applicativo GEDI secondo parametri di integrità e autenticità, governo e controllo degli accessi ed audit trail conformi alle raccomandazioni ed alle linee guida internazionali, senza ricorrere a processi di conservazione sostitutiva.
 
 ##### Art. 21
 
 (Disposizioni in merito alla presentazione delle denunce di variazione catastale tramite GRAT e GRAF)
 
-1.
+1\. Le denunce di variazione catastale, sia a Catasto Terreni che Catasto Fabbricati, sono presentate esclusivamente attraverso i programmi applicativi GRAT e GRAF.
 
-Le denunce di variazione catastale, sia a Catasto Terreni che Catasto Fabbricati, sono presentate esclusivamente attraverso i programmi applicativi GRAT e GRAF.
-
-2.
-
-La procedura telematica per le variazioni catastali si articola secondo le seguenti fasi:
+2\. La procedura telematica per le variazioni catastali si articola secondo le seguenti fasi:
 
 a) variazioni a Catasto Fabbricati tramite programma applicativo GRAF:
 
@@ -8054,30 +7874,18 @@ disegno planimetrico in formato vettoriale;
 
 7) l’UO UTCC, verificata la completezza della pratica presentata, assegna un numero di protocollo e attraverso il programma applicativo, comunica al tecnico abilitato l’avvio del procedimento amministrativo, anche ai fini della decorrenza dei termini previsti dalla normativa di riferimento.
 
-3.
+3\. Le eventuali sospensioni del procedimento amministrativo sono comunicate al tecnico abilitato attraverso i predetti programmi applicativi.
 
-Le eventuali sospensioni del procedimento amministrativo sono comunicate al tecnico abilitato attraverso i predetti programmi applicativi.
+4\. L’esito del procedimento amministrativo è comunicato al tecnico abilitato attraverso il programma applicativo e, limitatamente alle variazioni che incidono sulla rendita catastale, alla proprietà con raccomandata con ricevuta di ritorno ovvero con SERC; la notifica alla proprietà è effettuata ai fini dell’eventuale ricorso alla Commissione Censuaria Permanente.
 
-4.
-
-L’esito del procedimento amministrativo è comunicato al tecnico abilitato attraverso il programma applicativo e, limitatamente alle variazioni che incidono sulla rendita catastale, alla proprietà con raccomandata con ricevuta di ritorno ovvero con SERC; la notifica alla proprietà è effettuata ai fini dell’eventuale ricorso alla Commissione Censuaria Permanente.
-
-5.
-
-Le modalità tecnico-operative di dettaglio che regolano le procedure telematiche di variazione catastale restano disciplinate, sino alla loro modifica ai sensi di quanto previsto dall’articolo 22, dalle vigenti circolari dell’UO UTCC nonché, per quanto riguarda il Catasto Terreni, anche dal Regolamento 27 novembre 2015 n.15.
+5\. Le modalità tecnico-operative di dettaglio che regolano le procedure telematiche di variazione catastale restano disciplinate, sino alla loro modifica ai sensi di quanto previsto dall’articolo 22, dalle vigenti circolari dell’UO UTCC nonché, per quanto riguarda il Catasto Terreni, anche dal Regolamento 27 novembre 2015 n.15.
 
 ##### Art. 22
 
 (Circolari applicative e norme comuni)
 
-1.
+1\. L’UO UPTE, l’UO UTCC, l’UO SPC e l’UO UPAV emettono, sentita l’Autorità ICT, direttive e/o circolari al fine di fornire indirizzi e dettagliare ulteriormente le modalità applicative per la presentazione delle pratiche di rispettiva competenza in formato elettronico.
 
-L’UO UPTE, l’UO UTCC, l’UO SPC e l’UO UPAV emettono, sentita l’Autorità ICT, direttive e/o circolari al fine di fornire indirizzi e dettagliare ulteriormente le modalità applicative per la presentazione delle pratiche di rispettiva competenza in formato elettronico.
+2\. Tramite circolare del Direttore del Dipartimento Territorio e Ambiente può essere adottato un modello di procura speciale di delega.
 
-2.
-
-Tramite circolare del Direttore del Dipartimento Territorio e Ambiente può essere adottato un modello di procura speciale di delega.
-
-3.
-
-La disposizione di cui all’articolo 11, comma 2 della Legge n.159/2011 relativa all’obbligo di spedizione delle istanze e delle dichiarazioni unitamente alla copia fotostatica non autenticata di un documento di identità dell’interessato da questi sottoscritta e dichiarata come conforme all’originale, contenente la dichiarazione di cui al comma 2 dell’articolo 9 della medesima legge, non si applica alla trasmissione all’Amministrazione di documenti elettronici ai sensi della presente Sezione.
+3\. La disposizione di cui all’articolo 11, comma 2 della Legge n.159/2011 relativa all’obbligo di spedizione delle istanze e delle dichiarazioni unitamente alla copia fotostatica non autenticata di un documento di identità dell’interessato da questi sottoscritta e dichiarata come conforme all’originale, contenente la dichiarazione di cui al comma 2 dell’articolo 9 della medesima legge, non si applica alla trasmissione all’Amministrazione di documenti elettronici ai sensi della presente Sezione.

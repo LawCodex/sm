@@ -208,11 +208,9 @@ Coloro i quali abbiano raggiunto il termine di cui al comma precedente potranno 
 
 (Nomina)
 
-1\. Il Congresso di Stato è composto da Segretari di Stato, in numero non superiore a dieci, nominati dal Consiglio Grande e Generale di norma fra i propri componenti. 2 Possono essere nominati Segretari di Stato, con votazione a maggioranza dei due terzi dei componenti il Consiglio Grande e Generale, in numero non superiore ad un terzo dei componenti il Congresso di Stato, anche cittadini che non siano membri del Consiglio Grande e Generale, in possesso dei requisiti per essere eletti Consiglieri. 3 Il Consiglio Grande e Generale, successivamente alla votazione con la quale approva, a maggioranza assoluta, il programma di governo, nomina, per elezione a scrutinio palese per appello nominale e con un’unica votazione complessiva a maggioranza assoluta, e con una votazione a maggioranza dei due terzi dei componenti il Consiglio Grande e Generale per le nomine di cui al precedente comma 2, i Segretari di Stato, indicando per ciascuno di essi il dicastero al quale è preposto secondo la ripartizione di cui al successivo articolo 2.
+1\. Il Congresso di Stato è composto da Segretari di Stato, in numero non superiore a dieci, nominati dal Consiglio Grande e Generale di norma fra i propri componenti. 2 Possono essere nominati Segretari di Stato, con votazione a maggioranza dei due terzi dei componenti il Consiglio Grande e Generale, in numero non superiore ad un terzo dei componenti il Congresso di Stato, anche cittadini che non siano membri del Consiglio Grande e Generale, in possesso dei requisiti per essere eletti Consiglieri. 3 Il Consiglio Grande e Generale, successivamente alla votazione con la quale approva, a maggioranza assoluta, il programma di governo, nomina, per elezione a scrutinio palese per appello nominale e con un’unica votazione complessiva a maggioranza assoluta, e con una votazione a maggioranza dei due terzi dei componenti il Consiglio Grande e Generale per le nomine di cui al precedente comma 2, i Segretari di Stato, indicando per ciascuno di essi il dicastero al quale è preposto secondo la ripartizione di cui al successivo articolo
 
-### Art.2
-
-(Dicasteri)
+2\. Art.2 (Dicasteri)
 
 1\. I dicasteri di cui al comma 3 dell’articolo 1 sono i seguenti:
 
@@ -498,17 +496,11 @@ MODIFICHE LEGISLATIVE Legge Qualificata 12 settembre 2006 n. 1, articolo 1 L’a
 
 Legge Qualificata 7 novembre 2011 n. 3, articolo 14 (Norme finali e transitorie)
 
-1.
+1\. La presente legge entra in vigore il quinto giorno successivo a quello della sua legale pubblicazione.
 
-La presente legge entra in vigore il quinto giorno successivo a quello della sua legale pubblicazione.
+2\. L’applicazione della presente legge decorre dalla data che sarà individuata con la legge ordinaria di riforma della struttura e del modello organizzativo dell’amministrazione pubblica, al fine di consentire il coordinamento anche con le norme della legge di bilancio.
 
-2.
-
-L’applicazione della presente legge decorre dalla data che sarà individuata con la legge ordinaria di riforma della struttura e del modello organizzativo dell’amministrazione pubblica, al fine di consentire il coordinamento anche con le norme della legge di bilancio.
-
-3.
-
-A partire dalla data di cui al secondo comma, sono abrogate le norme in contrasto con la presente legge ed in particolare i commi 1 e 2 dell’articolo 18 della Legge Qualificata n. 184/2005 e successive modifiche e decreti applicativi.
+3\. A partire dalla data di cui al secondo comma, sono abrogate le norme in contrasto con la presente legge ed in particolare i commi 1 e 2 dell’articolo 18 della Legge Qualificata n. 184/2005 e successive modifiche e decreti applicativi.
 
 ### Art.20
 
@@ -1148,11 +1140,7 @@ DISPOSIZIONI FINALI
 
 1\. Le modifiche al presente regolamento sono approvate dal Congresso di Stato secondo le modalità di cui all'articolo 8, comma 3, della Legge Qualificata 15 dicembre 2005 n.
 
-184.
-
-### Art. 37
-
-(Disposizioni transitorie)
+184\. Art. 37 (Disposizioni transitorie)
 
 1\. Le disposizioni di cui all’articolo 35 si applicano alle delibere adottate da parte del Congresso di Stato successivamente all’entrata in vigore del presente regolamento.
 
@@ -1180,25 +1168,17 @@ LEGGE QUALIFICATA 7 NOVEMBRE 2011 N.3 DIPARTIMENTI DELLA PUBBLICA AMMINISTRAZION
 
 (Finalità)
 
-1.
-
-La presente legge individua i Dipartimenti della Pubblica Amministrazione i quali, ai sensi dell’articolo 18, ultimo comma, della Legge Qualificata 15 dicembre 2005 n. 184, sono indipendenti dalle sfere di competenza che conseguono alla formazione dell’Esecutivo.
+1\. La presente legge individua i Dipartimenti della Pubblica Amministrazione i quali, ai sensi dell’articolo 18, ultimo comma, della Legge Qualificata 15 dicembre 2005 n. 184, sono indipendenti dalle sfere di competenza che conseguono alla formazione dell’Esecutivo.
 
 ### Art. 2
 
 (Caratteristiche dei Dipartimenti)
 
-1.
+1\. I Dipartimenti della Pubblica Amministrazione svolgono, ai sensi del comma 3 dell’articolo 18 della Legge Qualificata n.184/2005, le funzioni amministrative ed organizzative attribuite dalla legge ordinaria negli ambiti di riferimento per essi previsti dalla presente legge qualificata.
 
-I Dipartimenti della Pubblica Amministrazione svolgono, ai sensi del comma 3 dell’articolo 18 della Legge Qualificata n.184/2005, le funzioni amministrative ed organizzative attribuite dalla legge ordinaria negli ambiti di riferimento per essi previsti dalla presente legge qualificata.
+2\. L’attribuzione delle Unità Organizzative ai Dipartimenti, sulla base di quanto previsto al precedente comma, è prevista con decreto delegato.
 
-2.
-
-L’attribuzione delle Unità Organizzative ai Dipartimenti, sulla base di quanto previsto al precedente comma, è prevista con decreto delegato.
-
-3.
-
-Gli Enti e le Aziende Autonome dello Stato non fanno parte dei Dipartimenti della Pubblica Amministrazione. Con legge ordinaria, con decreto e con regolamento, in coerenza con il modello organizzativo adottato, sono previste le forme e modalità più confacenti per il coordinamento amministrativo delle UO del Settore Pubblico Allargato con i Dipartimenti di cui alla presente legge qualificata.
+3\. Gli Enti e le Aziende Autonome dello Stato non fanno parte dei Dipartimenti della Pubblica Amministrazione. Con legge ordinaria, con decreto e con regolamento, in coerenza con il modello organizzativo adottato, sono previste le forme e modalità più confacenti per il coordinamento amministrativo delle UO del Settore Pubblico Allargato con i Dipartimenti di cui alla presente legge qualificata.
 
 ### Art. 3
 
@@ -1212,9 +1192,7 @@ Dipartimento Affari Esteri Dipartimento Affari Istituzionali e Giustizia Diparti
 
 (Dipartimento Affari Esteri)
 
-1.
-
-Il Dipartimento Affari Esteri opera nell’ambito delle funzioni amministrative e diplomatiche attraverso cui lo Stato attua la politica estera, tiene le relazioni internazionali, svolge attività di rappresentanza, di coordinamento e di tutela degli interessi della Repubblica e dei cittadini sammarinesi in sede internazionale, supportando
+1\. Il Dipartimento Affari Esteri opera nell’ambito delle funzioni amministrative e diplomatiche attraverso cui lo Stato attua la politica estera, tiene le relazioni internazionali, svolge attività di rappresentanza, di coordinamento e di tutela degli interessi della Repubblica e dei cittadini sammarinesi in sede internazionale, supportando
 
 gli organi istituzionali ed i settori dell’amministrazione di volta in volta interessati ai temi trattati.
 
@@ -1222,86 +1200,62 @@ gli organi istituzionali ed i settori dell’amministrazione di volta in volta i
 
 (Dipartimento Affari Istituzionali e Giustizia)
 
-1.
-
-Il Dipartimento Affari Istituzionali e Giustizia opera nell’ambito delle funzioni amministrative che supportano il funzionamento e l’attività degli organi istituzionali e giurisdizionali, che supportano l’attività dell’amministrazione e delle istituzioni pubbliche sul piano giuridico-legale, che esercitano la tutela legale dello Stato e della Ecc.ma Camera, che curano le attività, gli atti ed i registri relativi allo status giuridico dei cittadini ed inerenti i servizi demografici ed elettorali.
+1\. Il Dipartimento Affari Istituzionali e Giustizia opera nell’ambito delle funzioni amministrative che supportano il funzionamento e l’attività degli organi istituzionali e giurisdizionali, che supportano l’attività dell’amministrazione e delle istituzioni pubbliche sul piano giuridico-legale, che esercitano la tutela legale dello Stato e della Ecc.ma Camera, che curano le attività, gli atti ed i registri relativi allo status giuridico dei cittadini ed inerenti i servizi demografici ed elettorali.
 
 ### Art. 6
 
 (Dipartimento Finanze e Bilancio)
 
-1.
-
-Il Dipartimento Finanze e Bilancio opera nell’ambito delle funzioni amministrative preposte alla pianificazione, attuazione e controllo delle norme e delle strategie finanziarie, di bilancio e fiscali.
+1\. Il Dipartimento Finanze e Bilancio opera nell’ambito delle funzioni amministrative preposte alla pianificazione, attuazione e controllo delle norme e delle strategie finanziarie, di bilancio e fiscali.
 
 ### Art. 7
 
 (Dipartimento Economia)
 
-1.
-
-Il Dipartimento Economia opera nell’ambito delle funzioni amministrative attraverso cui si realizzano le strategie riguardanti il sistema economico, le attività economiche ed il lavoro.
+1\. Il Dipartimento Economia opera nell’ambito delle funzioni amministrative attraverso cui si realizzano le strategie riguardanti il sistema economico, le attività economiche ed il lavoro.
 
 ### Art. 8
 
 (Dipartimento Territorio e Ambiente)
 
-1.
-
-Il Dipartimento Territorio e Ambiente opera nell’ambito delle funzioni amministrative che si occupano della regolamentazione, rilevazione e controllo dell’uso del territorio e dell’attività edilizia, e della salvaguardia dell’ambiente.
+1\. Il Dipartimento Territorio e Ambiente opera nell’ambito delle funzioni amministrative che si occupano della regolamentazione, rilevazione e controllo dell’uso del territorio e dell’attività edilizia, e della salvaguardia dell’ambiente.
 
 ### Art. 9
 
 (Dipartimento Istruzione)
 
-1.
-
-Il Dipartimento Istruzione opera nell’ambito delle funzioni amministrative attraverso cui lo Stato garantisce l’istruzione.
+1\. Il Dipartimento Istruzione opera nell’ambito delle funzioni amministrative attraverso cui lo Stato garantisce l’istruzione.
 
 ### Art. 10
 
 (Dipartimento Turismo e Cultura)
 
-1.
-
-Il Dipartimento Turismo e Cultura opera nell’ambito delle funzioni amministrative preposte alla promozione del turismo e della cultura nonché alla gestione delle attività ed iniziative connesse.
+1\. Il Dipartimento Turismo e Cultura opera nell’ambito delle funzioni amministrative preposte alla promozione del turismo e della cultura nonché alla gestione delle attività ed iniziative connesse.
 
 ### Art. 11
 
 (Dipartimento Funzione Pubblica)
 
-1.
-
-Il Dipartimento della Funzione Pubblica opera nell’ambito delle funzioni amministrative attraverso cui si dà applicazione alle norme e ai contratti relativi al personale alle dipendenze del settore pubblico allargato, e si supporta l’operatività di uffici e servizi della Pubblica Amministrazione.
+1\. Il Dipartimento della Funzione Pubblica opera nell’ambito delle funzioni amministrative attraverso cui si dà applicazione alle norme e ai contratti relativi al personale alle dipendenze del settore pubblico allargato, e si supporta l’operatività di uffici e servizi della Pubblica Amministrazione.
 
 ### Art. 12
 
 (Riserva di legge ordinaria)
 
-1.
-
-L’individuazione dei dipartimenti è demandata a legge ordinaria, ferme restando le finalità e le caratteristiche di cui agli articoli 1 e 2 della presente legge qualificata e di cui ai commi 3 e 4 dell’articolo 18 della Legge Qualificata n.184/2005.
+1\. L’individuazione dei dipartimenti è demandata a legge ordinaria, ferme restando le finalità e le caratteristiche di cui agli articoli 1 e 2 della presente legge qualificata e di cui ai commi 3 e 4 dell’articolo 18 della Legge Qualificata n.184/2005.
 
 ### Art. 13
 
 (Modifiche alla descrizione dei settori e accorpamenti)
 
-1.
-
-La descrizione dei settori dei dipartimenti, così come effettuata dalla presente legge, può essere modificata con fonte normativa del medesimo rango previsto per l’assegnazione delle Unità Organizzative ai dipartimenti medesimi. Parimenti, i dipartimenti individuati dalla presente legge possono essere oggetto di accorpamento con decreto delegato in coerenza con le norme del modello organizzativo e per la adattabilità ed economicità della struttura della PA.
+1\. La descrizione dei settori dei dipartimenti, così come effettuata dalla presente legge, può essere modificata con fonte normativa del medesimo rango previsto per l’assegnazione delle Unità Organizzative ai dipartimenti medesimi. Parimenti, i dipartimenti individuati dalla presente legge possono essere oggetto di accorpamento con decreto delegato in coerenza con le norme del modello organizzativo e per la adattabilità ed economicità della struttura della PA.
 
 ### Art. 14
 
 (Norme finali e transitorie)
 
-1.
+1\. La presente legge entra in vigore il quinto giorno successivo a quello della sua legale pubblicazione.
 
-La presente legge entra in vigore il quinto giorno successivo a quello della sua legale pubblicazione.
+2\. L’applicazione della presente legge decorre dalla data che sarà individuata con la legge ordinaria di riforma della struttura e del modello organizzativo dell’amministrazione pubblica, al fine di consentire il coordinamento anche con le norme della legge di bilancio.
 
-2.
-
-L’applicazione della presente legge decorre dalla data che sarà individuata con la legge ordinaria di riforma della struttura e del modello organizzativo dell’amministrazione pubblica, al fine di consentire il coordinamento anche con le norme della legge di bilancio.
-
-3.
-
-A partire dalla data di cui al secondo comma, sono abrogate le norme in contrasto con la presente legge ed in particolare i commi 1 e 2 dell’articolo 18 della Legge Qualificata n. 184/2005 e successive modifiche e decreti applicativi.
+3\. A partire dalla data di cui al secondo comma, sono abrogate le norme in contrasto con la presente legge ed in particolare i commi 1 e 2 dell’articolo 18 della Legge Qualificata n. 184/2005 e successive modifiche e decreti applicativi.

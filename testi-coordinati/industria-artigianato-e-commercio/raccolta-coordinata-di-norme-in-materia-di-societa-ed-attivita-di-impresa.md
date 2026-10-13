@@ -53,9 +53,7 @@ DEFINIZIONI E ASPETTI GENERALI
 
 (Definizioni)
 
-1.
-
-Nella presente legge, i seguenti termini assumono i seguenti significati:
+1\. Nella presente legge, i seguenti termini assumono i seguenti significati:
 
 1) per “Legge”, la presente legge, le sue successive modifiche ed integrazioni;
 
@@ -103,35 +101,23 @@ b) se riferita a persona fisica, il Certificato Penale Generale e il Certificato
 
 11) per “Fideiussione”, la garanzia autonoma di pagamento rilasciata da istituto bancario sammarinese recante la clausola “a prima richiesta e senza eccezioni”.
 
-2.
-
-La Certificazione dei soggetti non residenti o avente sede nella Repubblica di San Marino dovrà essere sostanzialmente equivalente a quella indicata al numero 9 del comma 1. Sarà considerata sostanzialmente equivalente la certificazione dalla quale emerga l’insussistenza della qualità di Soggetto Inidoneo. Il Dipartimento Affari
+2\. La Certificazione dei soggetti non residenti o avente sede nella Repubblica di San Marino dovrà essere sostanzialmente equivalente a quella indicata al numero 9 del comma 1. Sarà considerata sostanzialmente equivalente la certificazione dalla quale emerga l’insussistenza della qualità di Soggetto Inidoneo. Il Dipartimento Affari
 
 Esteri potrà emanare circolari al fine di individuare a livello generale le equivalenze o precisare ulteriormente i criteri di valutazione dell’equivalenza sostanziale della Certificazione. Nel caso in cui lo Stato straniero non rilasci certificati con caratteristiche analoghe a quelle indicate dalla Legge, la Certificazione è sostituita dalla dichiarazione dell’Autorità consolare competente, che dovrà indicare anche l’esistenza di eventuali altri documenti sostitutivi rilasciati dalle Autorità statali straniere.
 
-3.
+3\. Fatto salvo quanto previsto all’articolo 12 della Legge 5 ottobre 2011 n.159, la Certificazione può in ogni caso essere sostituita da dichiarazione attestante il possesso dei requisiti di cui al numero 8 del comma 1 con le forme e sotto le comminatorie previste rispettivamente dagli articoli 13 e 24 della Legge 5 ottobre 2011 n.159 oppure con dichiarazione giurata autenticata da notaio.
 
-Fatto salvo quanto previsto all’articolo 12 della Legge 5 ottobre 2011 n.159, la Certificazione può in ogni caso essere sostituita da dichiarazione attestante il possesso dei requisiti di cui al numero 8 del comma 1 con le forme e sotto le comminatorie previste rispettivamente dagli articoli 13 e 24 della Legge 5 ottobre 2011 n.159 oppure con dichiarazione giurata autenticata da notaio.
+4\. La Certificazione, in originale o in copia conforme, può essere formata anche in lingua inglese; se formata in altra lingua è corredata di traduzione in lingua italiana asseverata avanti la competente Autorità Sammarinese.
 
-4.
-
-La Certificazione, in originale o in copia conforme, può essere formata anche in lingua inglese; se formata in altra lingua è corredata di traduzione in lingua italiana asseverata avanti la competente Autorità Sammarinese.
-
-5.
-
-Ai fini della presente legge le certificazioni e le dichiarazioni di cui ai commi che precedono hanno validità sei mesi dalla data di rilascio.
+5\. Ai fini della presente legge le certificazioni e le dichiarazioni di cui ai commi che precedono hanno validità sei mesi dalla data di rilascio.
 
 ###### Art.2
 
 (Tipi di Società)
 
-1.
+1\. Le società che hanno sede nel territorio della Repubblica di San Marino sono soggette alle leggi sammarinesi e, se hanno per oggetto un’attività economica esercitata allo scopo di dividere gli utili tra i soci, debbono essere costituite secondo uno dei tipi regolati dalla legge.
 
-Le società che hanno sede nel territorio della Repubblica di San Marino sono soggette alle leggi sammarinesi e, se hanno per oggetto un’attività economica esercitata allo scopo di dividere gli utili tra i soci, debbono essere costituite secondo uno dei tipi regolati dalla legge.
-
-2.
-
-Sono salve le disposizioni riguardanti le società che esercitano le attività di cui alle Leggi 17 novembre 2005 n.165 e 22 novembre 2005 n.168, le società cooperative e ogni altra società disciplinata da leggi speciali, per le quali la presente legge non trova applicazione per la parte difformemente regolata.
+2\. Sono salve le disposizioni riguardanti le società che esercitano le attività di cui alle Leggi 17 novembre 2005 n.165 e 22 novembre 2005 n.168, le società cooperative e ogni altra società disciplinata da leggi speciali, per le quali la presente legge non trova applicazione per la parte difformemente regolata.
 
 3\. La partecipazione dello Stato o di altri Enti pubblici a società di capitali costituite nella Repubblica non comporta deroga alle norme della presente legge.
 
@@ -155,43 +141,25 @@ b) società di capitali:
 
 (Società tra professionisti)
 
-1.
-
-Coloro che esercitano la libera professione ai sensi della Legge 20 febbraio 1991 n.28 e successive modifiche ed integrazioni possono costituire tra loro una società per svolgere in comune l'attività professionale cui sono abilitati, per coordinare le prestazioni intellettuali proprie di abilitazioni diverse e per fornire servizi e beni
+1\. Coloro che esercitano la libera professione ai sensi della Legge 20 febbraio 1991 n.28 e successive modifiche ed integrazioni possono costituire tra loro una società per svolgere in comune l'attività professionale cui sono abilitati, per coordinare le prestazioni intellettuali proprie di abilitazioni diverse e per fornire servizi e beni
 
 connessi o semplicemente ausiliari all’esercizio delle professioni dei singoli soci, senza necessità del nulla-osta di cui al successivo articolo 16.
 
-2.
+2\. Tali società e l’attività dei soci sono regolate dalle norme sulle società in nome collettivo, nonché dalle discipline vigenti per l’esercizio delle professioni intellettuali, in genere, e delle singole professioni, in quanto compatibili.
 
-Tali società e l’attività dei soci sono regolate dalle norme sulle società in nome collettivo, nonché dalle discipline vigenti per l’esercizio delle professioni intellettuali, in genere, e delle singole professioni, in quanto compatibili.
+3\. La società può essere costituita con un numero di soci non superiore ad un quindicesimo degli iscritti negli albi di appartenenza dei soci. Nel caso di società interprofessionali, il calcolo si esegue in rapporto a tutti gli albi di tutti i soci.
 
-3.
+4\. La ragione sociale deve contenere il nome di almeno due dei soci, indicare le attività della società e deve essere seguita dalla dicitura "società tra professionisti".
 
-La società può essere costituita con un numero di soci non superiore ad un quindicesimo degli iscritti negli albi di appartenenza dei soci. Nel caso di società interprofessionali, il calcolo si esegue in rapporto a tutti gli albi di tutti i soci.
+5\. Nella corrispondenza, negli atti o nelle comunicazioni della società debbono essere riportati i nomi di tutti i soci.
 
-4.
+6\. L'incarico professionale si intende assunto dalla società anche se conferito al singolo socio e, nello svolgimento degli incarichi professionali, i soci debbono rendere nota la loro appartenenza alla società. I doveri del segreto professionale e della riservatezza si estendono a tutti i soci, i quali devono adoperarsi per farli osservare anche dai collaboratori, dagli ausiliari e dai dipendenti della società.
 
-La ragione sociale deve contenere il nome di almeno due dei soci, indicare le attività della società e deve essere seguita dalla dicitura "società tra professionisti".
+7\. L'appartenenza del professionista a società tra professionisti deve essere portata a conoscenza dei clienti, delle controparti e degli organi della pubblica amministrazione.
 
-5.
+8\. Per quanto attiene ai mandati professionali in corso di svolgimento all'atto della costituzione della società, la comunicazione deve essere effettuata in occasione del primo atto di esercizio del mandato dopo la costituzione.
 
-Nella corrispondenza, negli atti o nelle comunicazioni della società debbono essere riportati i nomi di tutti i soci.
-
-6.
-
-L'incarico professionale si intende assunto dalla società anche se conferito al singolo socio e, nello svolgimento degli incarichi professionali, i soci debbono rendere nota la loro appartenenza alla società. I doveri del segreto professionale e della riservatezza si estendono a tutti i soci, i quali devono adoperarsi per farli osservare anche dai collaboratori, dagli ausiliari e dai dipendenti della società.
-
-7.
-
-L'appartenenza del professionista a società tra professionisti deve essere portata a conoscenza dei clienti, delle controparti e degli organi della pubblica amministrazione.
-
-8.
-
-Per quanto attiene ai mandati professionali in corso di svolgimento all'atto della costituzione della società, la comunicazione deve essere effettuata in occasione del primo atto di esercizio del mandato dopo la costituzione.
-
-9.
-
-Alle prestazioni fornite dalla società si applicano, per i compensi, le indennità e le spese, le norme relative alle tariffe della professione di chi ha eseguito la prestazione. Se la prestazione è eseguita da più soci, si applica il compenso stabilito per un solo professionista, salvo diverso accordo con il cliente. L’opinamento per la determinazione dei compensi dovuti alla società, è dato dal Consiglio dell’Ordine o del Collegio professionale di appartenenza del professionista che ha eseguito la prestazione. Le prestazioni interprofessionali devono essere esplicitamente richieste o concordate con il cliente; in tal caso le attività sono valutate separatamente e danno diritto a separati compensi, altrimenti è dovuto il compenso per l’attività di un solo professionista e con l’applicazione di una sola tariffa.
+9\. Alle prestazioni fornite dalla società si applicano, per i compensi, le indennità e le spese, le norme relative alle tariffe della professione di chi ha eseguito la prestazione. Se la prestazione è eseguita da più soci, si applica il compenso stabilito per un solo professionista, salvo diverso accordo con il cliente. L’opinamento per la determinazione dei compensi dovuti alla società, è dato dal Consiglio dell’Ordine o del Collegio professionale di appartenenza del professionista che ha eseguito la prestazione. Le prestazioni interprofessionali devono essere esplicitamente richieste o concordate con il cliente; in tal caso le attività sono valutate separatamente e danno diritto a separati compensi, altrimenti è dovuto il compenso per l’attività di un solo professionista e con l’applicazione di una sola tariffa.
 
 10\. L’attività professionale svolta dai soci dà luogo a tutti gli obblighi ed ai diritti previsti dalle norme previdenziali e fiscali per le varie professioni; i contributi di carattere oggettivo sono dovuti nella stessa misura che si applica agli atti compiuti dal professionista singolo.
 
@@ -205,9 +173,7 @@ Alle prestazioni fornite dalla società si applicano, per i compensi, le indenni
 
 15\. Gli albi degli ordini e dei collegi professionali istituiti e regolati ai sensi della Legge 20 febbraio 1991 n.28 e successive modifiche e integrazioni contengono, per i relativi iscritti, l'indicazione della qualità di componente di società tra professionisti.
 
-16.
-
-Gli ordini ed i collegi professionali esercitano, nei confronti degli iscritti componenti di società tra professionisti, i poteri e le funzioni previsti dalla Legge 20 febbraio 1991 n.28 e successive modifiche e integrazioni riguardo ai singoli professionisti. In particolare, essi tutelano la dignità della professione ed assicurano il rispetto dei principi di deontologia professionale applicabili all'esercizio dell'attività in forma societaria.
+16\. Gli ordini ed i collegi professionali esercitano, nei confronti degli iscritti componenti di società tra professionisti, i poteri e le funzioni previsti dalla Legge 20 febbraio 1991 n.28 e successive modifiche e integrazioni riguardo ai singoli professionisti. In particolare, essi tutelano la dignità della professione ed assicurano il rispetto dei principi di deontologia professionale applicabili all'esercizio dell'attività in forma societaria.
 
 17\. La violazione dei patti sociali può costituire infrazione disciplinare.
 
@@ -231,33 +197,23 @@ Gli ordini ed i collegi professionali esercitano, nei confronti degli iscritti c
 
 (Responsabilità per le obbligazioni sociali)
 
-1.
+1\. Nella società in nome collettivo tutti i soci rispondono solidalmente ed illimitatamente per le obbligazioni sociali ed il patto contrario non ha effetto nei confronti dei terzi.
 
-Nella società in nome collettivo tutti i soci rispondono solidalmente ed illimitatamente per le obbligazioni sociali ed il patto contrario non ha effetto nei confronti dei terzi.
-
-2.
-
-Nella società di capitali, per le obbligazioni sociali risponde soltanto la società con il suo patrimonio.
+2\. Nella società di capitali, per le obbligazioni sociali risponde soltanto la società con il suo patrimonio.
 
 ###### Art.5
 
 (Ragione sociale)
 
-1.
+1\. Nella denominazione sociale deve essere sempre indicato il tipo di società.
 
-Nella denominazione sociale deve essere sempre indicato il tipo di società.
-
-2.
-
-La ragione sociale delle società in nome collettivo deve contenere anche il nome di uno o più soci.
+2\. La ragione sociale delle società in nome collettivo deve contenere anche il nome di uno o più soci.
 
 ###### Art.6
 
 (Registro delle Società)
 
-1.
-
-È istituito il Registro delle Società, tenuto con strumenti informatici, presso l’Ufficio Attività Economiche, per l’iscrizione unicamente dei seguenti dati di ciascuna società:
+1\. È istituito il Registro delle Società, tenuto con strumenti informatici, presso l’Ufficio Attività Economiche, per l’iscrizione unicamente dei seguenti dati di ciascuna società:
 
 a) estremi dell’atto costitutivo e del nulla-osta del Congresso di Stato, ove richiesto da leggi speciali, e degli eventuali successivi provvedimenti di autorizzazione o revoca dei medesimi;
 
@@ -283,43 +239,29 @@ k) esistenza di pegno sulle partecipazioni delle società stesse;
 
 l) esistenza di sequestri o di pignoramenti sulle partecipazioni.
 
-2.
-
-Le iscrizioni nel Registro dei dati di cui al precedente comma 1 sono eseguite, previa verifica delle condizioni richieste dalla normativa vigente, dall’Ufficio Attività Economiche. Tale Ufficio provvede all’iscrizione ordinariamente nel termine di cinque giorni dall’istanza degli amministratori o dei liquidatori da effettuarsi entro quindici giorni dalla data dell’atto o di quella di sua registrazione, salva diversa disposizione di legge. All’istanza devono essere allegati i documenti e le certificazioni richiesti dalla legge in originale o in copia autentica e, in caso di atto ricevuto o autenticato da un notaio estero, l’atto pubblico di deposito degli stessi ricevuto da notaio sammarinese.
+2\. Le iscrizioni nel Registro dei dati di cui al precedente comma 1 sono eseguite, previa verifica delle condizioni richieste dalla normativa vigente, dall’Ufficio Attività Economiche. Tale Ufficio provvede all’iscrizione ordinariamente nel termine di cinque giorni dall’istanza degli amministratori o dei liquidatori da effettuarsi entro quindici giorni dalla data dell’atto o di quella di sua registrazione, salva diversa disposizione di legge. All’istanza devono essere allegati i documenti e le certificazioni richiesti dalla legge in originale o in copia autentica e, in caso di atto ricevuto o autenticato da un notaio estero, l’atto pubblico di deposito degli stessi ricevuto da notaio sammarinese.
 
 Sono in ogni caso fatti salvi gli accordi internazionali di reciproco riconoscimento degli atti formati nei rispettivi stati.
 
 Contro il diniego dell’iscrizione, gli amministratori o i liquidatori, ovvero in difetto i soci, possono, nei trenta giorni successivi, ricorrere, con atto depositato anche all’Ufficio Attività Economiche, al Commissario della Legge, che, con procedura sommaria e sentite eventualmente solo le parti, se ritiene il ricorso fondato, ordina l’iscrizione nel Registro. Il decreto del Commissario della Legge è soggetto a reclamo davanti al Giudice d’Appello nei trenta giorni successivi alla notificazione.
 
-3.
+3\. Il Registro è pubblico e chiunque può prenderne libera visione. Il Congresso di Stato adotta decreto delegato che fornisce prescrizioni sulle modalità di accesso e legittimo interesse, di tenuta e consultazione del Registro, nonché relativamente ai documenti allegati alle istanze di iscrizione.
 
-Il Registro è pubblico e chiunque può prenderne libera visione. Il Congresso di Stato adotta decreto delegato che fornisce prescrizioni sulle modalità di accesso e legittimo interesse, di tenuta e consultazione del Registro, nonché relativamente ai documenti allegati alle istanze di iscrizione.
-
-4.
-
-Tutti gli atti, i documenti e i certificati di cui è prescritto il deposito presso l’Ufficio Attività Economiche sono trasmessi tramite raccomandata elettronica al
+4\. Tutti gli atti, i documenti e i certificati di cui è prescritto il deposito presso l’Ufficio Attività Economiche sono trasmessi tramite raccomandata elettronica al
 
 dedicato domicilio digitale o mediante gli strumenti informatici con avviso di ricevimento che saranno indicati dall’Ufficio Attività Economiche.
 
-5.
+5\. In caso di procedura di liquidazione di cui al Titolo V, e in ogni altra di competenza del Commissario della Legge e in generale del Tribunale, l’Ufficio Attività Economiche trasmette gli atti della società al Tribunale che sono restituiti a tale Ufficio una volta terminata la procedura.
 
-In caso di procedura di liquidazione di cui al Titolo V, e in ogni altra di competenza del Commissario della Legge e in generale del Tribunale, l’Ufficio Attività Economiche trasmette gli atti della società al Tribunale che sono restituiti a tale Ufficio una volta terminata la procedura.
+6\. Il provvedimento del Commissario della Legge oggetto di iscrizione nel Pubblico Registro è notificato a tal fine all’Ufficio Attività Economiche.
 
-6.
-
-Il provvedimento del Commissario della Legge oggetto di iscrizione nel Pubblico Registro è notificato a tal fine all’Ufficio Attività Economiche.
-
-7.
-
-Le modifiche dei dati di cui al comma 1, fintanto che non siano iscritti nel Registro, non sono opponibili ai terzi a meno che si provi che costoro ne fossero a conoscenza.
+7\. Le modifiche dei dati di cui al comma 1, fintanto che non siano iscritti nel Registro, non sono opponibili ai terzi a meno che si provi che costoro ne fossero a conoscenza.
 
 ###### Art.7
 
 (Indicazioni nella corrispondenza e negli annunci anche digitali)
 
-1.
-
-Nella corrispondenza anche digitale, negli atti, negli annunci anche digitali, nei titoli emessi o redatti di ciascuna società devono essere indicati:
+1\. Nella corrispondenza anche digitale, negli atti, negli annunci anche digitali, nei titoli emessi o redatti di ciascuna società devono essere indicati:
 
 \- la denominazione, il tipo e la sede della società;
 
@@ -335,57 +277,35 @@ Nella corrispondenza anche digitale, negli atti, negli annunci anche digitali, n
 
 (Sede Sociale)
 
-1.
+1\. La sede della società deve essere stabilita nel territorio della Repubblica di San Marino.
 
-La sede della società deve essere stabilita nel territorio della Repubblica di San Marino.
-
-2.
-
-Alla sede sociale indicata nello statuto si intende effettuata con pieno effetto ogni notificazione e comunicazione; in caso di irreperibilità della sede, accertata dall’Ufficiale Giudiziario, la notificazione è effettuata validamente mediante affissione ad valvas Palatii.
+2\. Alla sede sociale indicata nello statuto si intende effettuata con pieno effetto ogni notificazione e comunicazione; in caso di irreperibilità della sede, accertata dall’Ufficiale Giudiziario, la notificazione è effettuata validamente mediante affissione ad valvas Palatii.
 
 ###### Art.9
 
 (Oggetto sociale)
 
-1.
-
-L’oggetto sociale deve essere lecito, possibile e determinato.
+1\. L’oggetto sociale deve essere lecito, possibile e determinato.
 
 ###### Art.10
 
 (Conferimenti e versamenti)
 
-1.
+1\. Nelle Società di capitali, il valore dei conferimenti non può essere complessivamente inferiore all’ammontare del capitale sociale.
 
-Nelle Società di capitali, il valore dei conferimenti non può essere complessivamente inferiore all’ammontare del capitale sociale.
+2\. Qualora lo statuto non preveda diversamente, i conferimenti devono essere effettuati in denaro.
 
-2.
+3\. Almeno la metà dei conferimenti del capitale sociale iniziale della società devono essere effettuati entro centoventi giorni liberi successivi alla data di iscrizione nel Registro.
 
-Qualora lo statuto non preveda diversamente, i conferimenti devono essere effettuati in denaro.
+4\. In ogni caso, il versamento di tutti i conferimenti deve essere richiesto dagli amministratori ed effettuato entro i tre anni successivi all’iscrizione della società nel Registro.
 
-3.
+5\. L’avvenuto versamento dei conferimenti e la sua datazione sono attestati da una dichiarazione resa con le forme e sotto le comminatorie previste rispettivamente dagli articoli 13 e 24 della Legge 5 ottobre 2011 n.159 ovvero con dichiarazione giurata autenticata da notaio da depositarsi entro trenta giorni presso l’Ufficio Attività Economiche, a cura degli amministratori.
 
-Almeno la metà dei conferimenti del capitale sociale iniziale della società devono essere effettuati entro centoventi giorni liberi successivi alla data di iscrizione nel Registro.
+6\. Il mancato versamento dei conferimenti nei termini previsti è causa di scioglimento della società e si deve procedere alla liquidazione, fermo quanto previsto al successivo articolo 11. In caso di inerzia degli amministratori, la liquidazione può essere disposta d’ufficio. Il Commissario della Legge, a tal fine, assegna preventivamente agli amministratori un termine non superiore a sessanta giorni per l’iscrizione dell’avvenuto versamento dei conferimenti ovvero per procedere alla convocazione di apposita assemblea per l’adozione delle deliberazioni all’uopo necessarie.
 
-4.
+7\. I conferimenti possono essere in denaro o in natura secondo quanto previsto dai soci nell’atto costitutivo o nella delibera di aumento di capitale.
 
-In ogni caso, il versamento di tutti i conferimenti deve essere richiesto dagli amministratori ed effettuato entro i tre anni successivi all’iscrizione della società nel Registro.
-
-5.
-
-L’avvenuto versamento dei conferimenti e la sua datazione sono attestati da una dichiarazione resa con le forme e sotto le comminatorie previste rispettivamente dagli articoli 13 e 24 della Legge 5 ottobre 2011 n.159 ovvero con dichiarazione giurata autenticata da notaio da depositarsi entro trenta giorni presso l’Ufficio Attività Economiche, a cura degli amministratori.
-
-6.
-
-Il mancato versamento dei conferimenti nei termini previsti è causa di scioglimento della società e si deve procedere alla liquidazione, fermo quanto previsto al successivo articolo 11. In caso di inerzia degli amministratori, la liquidazione può essere disposta d’ufficio. Il Commissario della Legge, a tal fine, assegna preventivamente agli amministratori un termine non superiore a sessanta giorni per l’iscrizione dell’avvenuto versamento dei conferimenti ovvero per procedere alla convocazione di apposita assemblea per l’adozione delle deliberazioni all’uopo necessarie.
-
-7.
-
-I conferimenti possono essere in denaro o in natura secondo quanto previsto dai soci nell’atto costitutivo o nella delibera di aumento di capitale.
-
-8.
-
-I conferimenti in denaro possono essere effettuati alternativamente mediante:
+8\. I conferimenti in denaro possono essere effettuati alternativamente mediante:
 
 a) il versamento delle corrispondenti somme presso un istituto di credito sammarinese;
 
@@ -395,9 +315,7 @@ Resta facoltà del socio di provvedere in ogni momento al versamento in denaro i
 
 Nel caso in cui, trenta giorni prima della scadenza della Fideiussione, il socio non provveda al rinnovo per eguale periodo ovvero al versamento delle corrispondenti somme secondo le modalità previste dalla legge, l’amministratore deve tempestivamente escutere la fideiussione destinando il ricavato in conto versamento capitale sociale.
 
-9.
-
-Oltre al denaro, possono essere conferiti tutti i beni suscettibili di valutazione economica, ma non prestazioni di opera o servizi o diritti personali di godimento.
+9\. Oltre al denaro, possono essere conferiti tutti i beni suscettibili di valutazione economica, ma non prestazioni di opera o servizi o diritti personali di godimento.
 
 10\. Il socio che ha conferito un credito risponde della insolvenza del debitore.
 
@@ -413,61 +331,39 @@ Oltre al denaro, possono essere conferiti tutti i beni suscettibili di valutazio
 
 (Mora del socio)
 
-1.
+1\. Se il socio non esegue i pagamenti dovuti, decorsi trenta giorni dalla richiesta, gli amministratori, se non ritengono utile promuovere azione per l’adempimento, offrono la partecipazione del socio moroso agli altri soci adempienti, in proporzione alla loro partecipazione, per un corrispettivo non inferiore ai conferimenti ancora dovuti. In mancanza di offerte da parte degli altri soci non morosi, gli amministratori devono dichiarare escluso di diritto il socio moroso, trattenendo le somme riscosse, salvo il risarcimento dei maggiori danni.
 
-Se il socio non esegue i pagamenti dovuti, decorsi trenta giorni dalla richiesta, gli amministratori, se non ritengono utile promuovere azione per l’adempimento, offrono la partecipazione del socio moroso agli altri soci adempienti, in proporzione alla loro partecipazione, per un corrispettivo non inferiore ai conferimenti ancora dovuti. In mancanza di offerte da parte degli altri soci non morosi, gli amministratori devono dichiarare escluso di diritto il socio moroso, trattenendo le somme riscosse, salvo il risarcimento dei maggiori danni.
+2\. Le partecipazioni non vendute devono essere estinte con la corrispondente riduzione del capitale.
 
-2.
+3\. La richiesta dell’amministratore di provvedere al versamento deve essere rivolta contestualmente e alle medesime condizioni a tutti i soci che non vi abbiano adempiuto.
 
-Le partecipazioni non vendute devono essere estinte con la corrispondente riduzione del capitale.
+4\. Il socio in mora nei versamenti non può esercitare il diritto di voto.
 
-3.
-
-La richiesta dell’amministratore di provvedere al versamento deve essere rivolta contestualmente e alle medesime condizioni a tutti i soci che non vi abbiano adempiuto.
-
-4.
-
-Il socio in mora nei versamenti non può esercitare il diritto di voto.
-
-5.
-
-Il presente articolo si applica, in quanto compatibile, anche nei confronti del socio che non abbia adempiuto alle prestazioni accessorie.
+5\. Il presente articolo si applica, in quanto compatibile, anche nei confronti del socio che non abbia adempiuto alle prestazioni accessorie.
 
 ###### Art.12
 
 (Socio unico)
 
-1.
+1\. Le società di capitali possono avere un socio unico al momento della loro costituzione così come per successiva riunione di tutte le partecipazioni in capo ad un solo soggetto. Nelle società di capitali, la riunione di tutte le partecipazioni in capo ad un unico soggetto non implica lo scioglimento delle stesse.
 
-Le società di capitali possono avere un socio unico al momento della loro costituzione così come per successiva riunione di tutte le partecipazioni in capo ad un solo soggetto. Nelle società di capitali, la riunione di tutte le partecipazioni in capo ad un unico soggetto non implica lo scioglimento delle stesse.
+2\. Il socio unico esercita i poteri e diritti attribuiti ai soci o all’assemblea dalla legge o dallo statuto.
 
-2.
+3\. L’esistenza del socio unico di una società di capitali [che non abbia emesso azioni al portatore] deve essere iscritta nel Registro.
 
-Il socio unico esercita i poteri e diritti attribuiti ai soci o all’assemblea dalla legge o dallo statuto.
-
-3.
-
-L’esistenza del socio unico di una società di capitali [che non abbia emesso azioni al portatore] deve essere iscritta nel Registro.
-
-4.
-
-In caso di insolvenza della società, il socio unico risponde illimitatamente delle obbligazioni sociali sorte nel periodo in cui tutte le partecipazioni sono state da lui possedute esclusivamente qualora:
+4\. In caso di insolvenza della società, il socio unico risponde illimitatamente delle obbligazioni sociali sorte nel periodo in cui tutte le partecipazioni sono state da lui possedute esclusivamente qualora:
 
 a) la richiesta di iscrizione nel Registro dell’esistenza del socio unico non sia formulata entro i termini previsti dall’articolo 20 della Legge per il deposito dell’atto costitutivo, in caso di costituzione di società con atto unilaterale, ovvero b) la richiesta di iscrizione nel Registro dell’esistenza del socio unico non sia formulata entro i termini previsti dagli articoli 26, comma 2, e 28, comma 3, della Legge, in caso di successiva riunione di tutte le partecipazioni in capo ad un solo soggetto, ovvero
 
 c) il capitale sociale non risulti versato per almeno la metà dei conferimenti entro il termine di centoventi giorni e per intero entro il termine di tre anni dalla data di iscrizione nel Registro della società costituita con atto unilaterale.
 
-5.
-
-Nelle società di persone, il venir meno della pluralità dei soci è causa di scioglimento della società, se la pluralità non viene ricostituita nei successivi tre mesi.
+5\. Nelle società di persone, il venir meno della pluralità dei soci è causa di scioglimento della società, se la pluralità non viene ricostituita nei successivi tre mesi.
 
 ###### Art.13
 
 (Ammontare del capitale sociale)
 
-1.
-
-L’ammontare del capitale sociale non può essere inferiore a:
+1\. L’ammontare del capitale sociale non può essere inferiore a:
 
 1) € 25.500,00 (venticinquemilacinquecento euro) nelle società a responsabilità limitata;
 
@@ -479,45 +375,27 @@ L’ammontare del capitale sociale non può essere inferiore a:
 
 (Riduzione del capitale sociale)
 
-1.
+1\. Quando risulta che il capitale sociale è diminuito di oltre un terzo, gli amministratori, e nel caso di inerzia il collegio sindacale o il sindaco unico, devono senza indugio convocare l’assemblea per gli opportuni provvedimenti e, qualora le perdite non siano prontamente coperte, l’assemblea dovrà provvedere a ridurre il capitale sociale salvi i limiti di legge.
 
-Quando risulta che il capitale sociale è diminuito di oltre un terzo, gli amministratori, e nel caso di inerzia il collegio sindacale o il sindaco unico, devono senza indugio convocare l’assemblea per gli opportuni provvedimenti e, qualora le perdite non siano prontamente coperte, l’assemblea dovrà provvedere a ridurre il capitale sociale salvi i limiti di legge.
+2\. La riduzione del capitale sociale deve essere deliberata anche in caso di rimborso delle partecipazioni ai soci che esercitano il diritto di recesso, in caso sia previsto dallo statuto o dalla Legge, ovvero anche nel caso di esclusione del socio moroso.
 
-2.
+3\. La riduzione del capitale sociale può essere deliberata quando risulti esuberante rispetto agli scopi sociali. La deliberazione può essere eseguita soltanto trascorsi novanta giorni dall’iscrizione della stessa nel Registro, purché entro questo termine nessun creditore abbia presentato opposizione.
 
-La riduzione del capitale sociale deve essere deliberata anche in caso di rimborso delle partecipazioni ai soci che esercitano il diritto di recesso, in caso sia previsto dallo statuto o dalla Legge, ovvero anche nel caso di esclusione del socio moroso.
+4\. La convocazione dell’assemblea che deve provvedere alla riduzione del capitale sociale, nei casi in cui questa sia obbligatoria, può essere disposta dal Commissario della Legge d’ufficio o su istanza di chiunque ne abbia interesse, qualora non vi provveda chi è obbligato ad effettuarla ai sensi del comma 1.
 
-3.
+5\. Nel caso in cui l’assemblea, convocata a norma dei commi che precedono, non adotti i provvedimenti di legge, il Commissario della Legge, su istanza degli amministratori, dei sindaci, di qualunque interessato ovvero d’ufficio, dispone la riduzione del capitale in ragione delle perdite risultanti dal bilancio, con decreto da iscriversi nel Registro.
 
-La riduzione del capitale sociale può essere deliberata quando risulti esuberante rispetto agli scopi sociali. La deliberazione può essere eseguita soltanto trascorsi novanta giorni dall’iscrizione della stessa nel Registro, purché entro questo termine nessun creditore abbia presentato opposizione.
-
-4.
-
-La convocazione dell’assemblea che deve provvedere alla riduzione del capitale sociale, nei casi in cui questa sia obbligatoria, può essere disposta dal Commissario della Legge d’ufficio o su istanza di chiunque ne abbia interesse, qualora non vi provveda chi è obbligato ad effettuarla ai sensi del comma 1.
-
-5.
-
-Nel caso in cui l’assemblea, convocata a norma dei commi che precedono, non adotti i provvedimenti di legge, il Commissario della Legge, su istanza degli amministratori, dei sindaci, di qualunque interessato ovvero d’ufficio, dispone la riduzione del capitale in ragione delle perdite risultanti dal bilancio, con decreto da iscriversi nel Registro.
-
-6.
-
-Se, per la perdita di oltre un terzo del capitale, questo si riduce al di sotto del minimo di legge, gli amministratori devono convocare l'assemblea per i provvedimenti di cui all’art. 106, comma 1, punto 4), nel termine ivi previsto.
+6\. Se, per la perdita di oltre un terzo del capitale, questo si riduce al di sotto del minimo di legge, gli amministratori devono convocare l'assemblea per i provvedimenti di cui all’art. 106, comma 1, punto 4), nel termine ivi previsto.
 
 ###### Art.15
 
 (Aumento del capitale sociale)
 
-1.
+1\. Non può essere deliberato l’aumento di capitale ovvero l’emissione di obbligazioni convertibili fino a che il capitale sociale precedentemente sottoscritto non sia interamente versato.
 
-Non può essere deliberato l’aumento di capitale ovvero l’emissione di obbligazioni convertibili fino a che il capitale sociale precedentemente sottoscritto non sia interamente versato.
+2\. In caso di violazione del precedente comma, gli amministratori sono solidalmente responsabili per i danni arrecati ai soci ed ai terzi. Restano in ogni caso salvi gli obblighi assunti con la sottoscrizione delle azioni emesse in violazione del precedente comma.
 
-2.
-
-In caso di violazione del precedente comma, gli amministratori sono solidalmente responsabili per i danni arrecati ai soci ed ai terzi. Restano in ogni caso salvi gli obblighi assunti con la sottoscrizione delle azioni emesse in violazione del precedente comma.
-
-3.
-
-L’assemblea può aumentare il capitale sociale imputando a capitale le riserve e gli altri fondi iscritti in bilancio in quanto disponibili. In questo caso le partecipazioni di nuova emissione devono avere le stesse caratteristiche di quelle in circolazione e devono essere assegnate gratuitamente ai soci in proporzione di quelle da essi possedute. [Nelle società anonime e] nelle società per azioni l’aumento di capitale può essere eseguito anche mediante aumento del valore nominale delle azioni. 2 bis. Qualora la deliberazione assembleare di aumento del capitale sociale non preveda diversamente, i conferimenti devono essere effettuati in denaro da versarsi nei termini di cui ai commi 3 e 4 e secondo le modalità di cui al comma 8 dell’articolo 10. Avvenuto il versamento si applica il disposto di cui all’articolo 10, comma 5, in merito alla relativa attestazione e all’iscrizione nel Registro.
+3\. L’assemblea può aumentare il capitale sociale imputando a capitale le riserve e gli altri fondi iscritti in bilancio in quanto disponibili. In questo caso le partecipazioni di nuova emissione devono avere le stesse caratteristiche di quelle in circolazione e devono essere assegnate gratuitamente ai soci in proporzione di quelle da essi possedute. [Nelle società anonime e] nelle società per azioni l’aumento di capitale può essere eseguito anche mediante aumento del valore nominale delle azioni. 2 bis. Qualora la deliberazione assembleare di aumento del capitale sociale non preveda diversamente, i conferimenti devono essere effettuati in denaro da versarsi nei termini di cui ai commi 3 e 4 e secondo le modalità di cui al comma 8 dell’articolo 10. Avvenuto il versamento si applica il disposto di cui all’articolo 10, comma 5, in merito alla relativa attestazione e all’iscrizione nel Registro.
 
 ##### CAPO II
 
@@ -527,9 +405,7 @@ DELLA COSTITUZIONE E DELLE MODIFICHE DELLO STATUTO
 
 (Autorizzazioni e condizioni per la costituzione)
 
-1.
-
-Per la costituzione di una Società di capitali è necessario:
+1\. Per la costituzione di una Società di capitali è necessario:
 
 1) che il capitale sociale sia interamente sottoscritto;
 
@@ -539,73 +415,45 @@ Per la costituzione di una Società di capitali è necessario:
 
 4) che tutti i soci non siano Soggetti Inidonei.
 
-2.
+2\. Per la costituzione di una Società di persone, si applica il comma 1 in quanto compatibile.
 
-Per la costituzione di una Società di persone, si applica il comma 1 in quanto compatibile.
+3\. Per costituire [le società anonime,] e società di cui all’articolo 2, comma 5, le società per le quali sia espressamente previsto da leggi speciali, le società il cui oggetto sociale contenga attività economiche o settori merceologici compresi nel decreto di cui al successivo comma 6, occorre ottenere una autorizzazione amministrativa preventiva e non revocabile, che si esprime in un nulla osta del Congresso di Stato.
 
-3.
+4\. Fermo restando il rispetto dell’articolo 9, le società di cui al comma che precede, [con esclusione delle società anonime], possono modificare l’oggetto sociale senza il nulla osta qualora la modifica non riguardi attività economiche o settori merceologici compresi nel decreto di cui al successivo comma 6.
 
-Per costituire [le società anonime,] e società di cui all’articolo 2, comma 5, le società per le quali sia espressamente previsto da leggi speciali, le società il cui oggetto sociale contenga attività economiche o settori merceologici compresi nel decreto di cui al successivo comma 6, occorre ottenere una autorizzazione amministrativa preventiva e non revocabile, che si esprime in un nulla osta del Congresso di Stato.
+5\. Il nulla-osta è richiesto al Congresso di Stato mediante apposita istanza corredata da un piano aziendale di massima che convinca, in termini oggettivi e soggettivi, della sua affidabilità e della sua compatibilità con le esigenze economicosociali della Repubblica. Il Congresso di Stato nel concedere il nulla-osta ha facoltà di imporre limiti e condizioni a garanzia della corretta realizzazione del piano aziendale.
 
-4.
+6\. In casi d’urgenza ovvero al fine di prevenire distorsioni del contesto socioeconomico della Repubblica, con decreto delegato può essere stabilita la necessità di nulla osta del Congresso di Stato per la costituzione di società aventi ad oggetto particolari attività economiche o settori merceologici.
 
-Fermo restando il rispetto dell’articolo 9, le società di cui al comma che precede, [con esclusione delle società anonime], possono modificare l’oggetto sociale senza il nulla osta qualora la modifica non riguardi attività economiche o settori merceologici compresi nel decreto di cui al successivo comma 6.
-
-5.
-
-Il nulla-osta è richiesto al Congresso di Stato mediante apposita istanza corredata da un piano aziendale di massima che convinca, in termini oggettivi e soggettivi, della sua affidabilità e della sua compatibilità con le esigenze economicosociali della Repubblica. Il Congresso di Stato nel concedere il nulla-osta ha facoltà di imporre limiti e condizioni a garanzia della corretta realizzazione del piano aziendale.
-
-6.
-
-In casi d’urgenza ovvero al fine di prevenire distorsioni del contesto socioeconomico della Repubblica, con decreto delegato può essere stabilita la necessità di nulla osta del Congresso di Stato per la costituzione di società aventi ad oggetto particolari attività economiche o settori merceologici.
-
-7.
-
-Con decreto delegato possono essere dettate specifiche regolamentazioni per le attività economiche e per i settori merceologici individuati nel decreto previsto dal comma che precede. 7 bis. I soggetti che hanno ottenuto un nulla osta dal Congresso di Stato al fine dell’esercizio delle attività riservate di cui al comma 6, pena la decadenza del medesimo nulla osta, devono conseguire la relativa licenza entro 12 mesi dall’iscrizione al Registro delle società, salvo diversamente indicato nella delibera stessa di concessione del nulla osta.
+7\. Con decreto delegato possono essere dettate specifiche regolamentazioni per le attività economiche e per i settori merceologici individuati nel decreto previsto dal comma che precede. 7 bis. I soggetti che hanno ottenuto un nulla osta dal Congresso di Stato al fine dell’esercizio delle attività riservate di cui al comma 6, pena la decadenza del medesimo nulla osta, devono conseguire la relativa licenza entro 12 mesi dall’iscrizione al Registro delle società, salvo diversamente indicato nella delibera stessa di concessione del nulla osta.
 
 ###### Art.17
 
 (Partecipazione di Società Fiduciarie)
 
-1.
+1\. All’atto dell’accettazione dell’incarico fiduciario, le Società Fiduciarie che, sulla base del mandato fiduciario, costituiscano società, ne acquisiscano o ne posseggano partecipazioni, devono obbligatoriamente e preventivamente procurarsi la Certificazione relativa ai fiducianti nonché dichiarare, rispettivamente in sede di atto costitutivo della società o acquisitivo delle partecipazioni, la natura fiduciaria del proprio intervento, richiamando gli estremi dell’autorizzazione all’esercizio dell’attività riservata.
 
-All’atto dell’accettazione dell’incarico fiduciario, le Società Fiduciarie che, sulla base del mandato fiduciario, costituiscano società, ne acquisiscano o ne posseggano partecipazioni, devono obbligatoriamente e preventivamente procurarsi la Certificazione relativa ai fiducianti nonché dichiarare, rispettivamente in sede di atto costitutivo della società o acquisitivo delle partecipazioni, la natura fiduciaria del proprio intervento, richiamando gli estremi dell’autorizzazione all’esercizio dell’attività riservata.
+2\. Le Società Fiduciarie non potranno costituire società, acquisirne o possederne partecipazioni sulla base di un incarico fiduciario, qualora dalla Certificazione risulti che il fiduciante o il titolare effettivo sia un Soggetto Inidoneo.
 
-2.
+3\. Trattandosi di attività riservata ad imprese finanziarie essa rimane comunque soggetta ai poteri regolamentari e di vigilanza della Banca Centrale della Repubblica di San Marino.
 
-Le Società Fiduciarie non potranno costituire società, acquisirne o possederne partecipazioni sulla base di un incarico fiduciario, qualora dalla Certificazione risulti che il fiduciante o il titolare effettivo sia un Soggetto Inidoneo.
+4\. Nei casi di cui al primo comma, l’esistenza del socio unico e la relativa disciplina di cui all’articolo 12, deve intendersi riferita al fiduciante e non alla fiduciaria.
 
-3.
+5\. Nei casi di cui al primo comma, l’Inidoneità, la Certificazione e la relativa disciplina di cui alla presente Legge, deve intendersi riferita al fiduciante ed al titolare effettivo di questi, non alla Società Fiduciaria.
 
-Trattandosi di attività riservata ad imprese finanziarie essa rimane comunque soggetta ai poteri regolamentari e di vigilanza della Banca Centrale della Repubblica di San Marino.
-
-4.
-
-Nei casi di cui al primo comma, l’esistenza del socio unico e la relativa disciplina di cui all’articolo 12, deve intendersi riferita al fiduciante e non alla fiduciaria.
-
-5.
-
-Nei casi di cui al primo comma, l’Inidoneità, la Certificazione e la relativa disciplina di cui alla presente Legge, deve intendersi riferita al fiduciante ed al titolare effettivo di questi, non alla Società Fiduciaria.
-
-6.
-
-La [Cancelleria Commerciale del Tribunale Unico] comunica all’Archivio della Partecipazioni Fiduciarie della Banca Centrale della Repubblica di San Marino le modifiche delle partecipazioni societarie detenute tramite mandato fiduciario.
+6\. La [Cancelleria Commerciale del Tribunale Unico] comunica all’Archivio della Partecipazioni Fiduciarie della Banca Centrale della Repubblica di San Marino le modifiche delle partecipazioni societarie detenute tramite mandato fiduciario.
 
 ###### Art.18
 
 (Forma dell’atto costitutivo)
 
-1.
-
-L’atto costitutivo di una società deve avere la forma di atto pubblico.
+1\. L’atto costitutivo di una società deve avere la forma di atto pubblico.
 
 ###### Art.19
 
 (Contenuto dell’atto costitutivo)
 
-1.
-
-L’atto costitutivo deve indicare:
+1\. L’atto costitutivo deve indicare:
 
 1) il tipo sociale;
 
@@ -641,91 +489,57 @@ di iscrizione nel registro delle società per le persone giuridiche che hanno pa
 
 16) [abrogato].
 
-2.
+2\. Nelle società per azioni [e nelle società anonime], l’atto costitutivo deve contenere anche il numero e valore nominale delle azioni, [il loro essere rispettivamente nominative o al portatore,] le loro caratteristiche e le modalità di emissione e circolazione.
 
-Nelle società per azioni [e nelle società anonime], l’atto costitutivo deve contenere anche il numero e valore nominale delle azioni, [il loro essere rispettivamente nominative o al portatore,] le loro caratteristiche e le modalità di emissione e circolazione.
+3\. Nelle società in nome collettivo, l’atto costitutivo deve anche indicare le norme secondo le quali gli utili devono essere ripartiti e la quota di ciascun socio negli utili e nelle perdite.
 
-3.
-
-Nelle società in nome collettivo, l’atto costitutivo deve anche indicare le norme secondo le quali gli utili devono essere ripartiti e la quota di ciascun socio negli utili e nelle perdite.
-
-4.
-
-Lo statuto contiene le norme relative al funzionamento degli organi sociali e della società. Anche se oggetto di atto separato, lo statuto è parte integrante dell’atto costitutivo.
+4\. Lo statuto contiene le norme relative al funzionamento degli organi sociali e della società. Anche se oggetto di atto separato, lo statuto è parte integrante dell’atto costitutivo.
 
 ###### Art.20
 
 (Iscrizione nel Registro)
 
-1.
+1\. L’iscrizione della società nel Registro è eseguita su istanza del notaio rogante dall’Ufficio Attività Economiche nei modi di cui all’articolo 6, comma 2, e ordinariamente entro tre giorni lavorativi successivi alla istanza, alla quale potrà essere allegata copia autentica dell’atto costitutivo ancora non registrato.
 
-L’iscrizione della società nel Registro è eseguita su istanza del notaio rogante dall’Ufficio Attività Economiche nei modi di cui all’articolo 6, comma 2, e ordinariamente entro tre giorni lavorativi successivi alla istanza, alla quale potrà essere allegata copia autentica dell’atto costitutivo ancora non registrato.
-
-2.
-
-Se il notaio non provvede al deposito nel termine di legge, ciascun socio o amministratore può incaricare, a spese della società, altro notaio.
+2\. Se il notaio non provvede al deposito nel termine di legge, ciascun socio o amministratore può incaricare, a spese della società, altro notaio.
 
 ###### Art. 21
 
 (Effetti dell’iscrizione ed acquisto della personalità giuridica)
 
-1.
+1\. Con l’iscrizione nel Registro, la società acquista personalità giuridica, che perdura fino alla cancellazione della società.
 
-Con l’iscrizione nel Registro, la società acquista personalità giuridica, che perdura fino alla cancellazione della società.
+2\. Per le operazioni compiute in nome della società prima dell’iscrizione, sono illimitatamente, solidalmente e personalmente responsabili verso i terzi coloro che hanno agito. Sono altresì solidalmente, illimitatamente e personalmente responsabili il socio unico fondatore e quelli tra i soci che nell’atto costitutivo o con atto separato hanno deciso, autorizzato o consentito il compimento dell’operazione. I patti contrari non sono opponibili ai terzi.
 
-2.
+3\. L’emissione di azioni o la cessione di partecipazioni prima dell’iscrizione della società sono nulle.
 
-Per le operazioni compiute in nome della società prima dell’iscrizione, sono illimitatamente, solidalmente e personalmente responsabili verso i terzi coloro che hanno agito. Sono altresì solidalmente, illimitatamente e personalmente responsabili il socio unico fondatore e quelli tra i soci che nell’atto costitutivo o con atto separato hanno deciso, autorizzato o consentito il compimento dell’operazione. I patti contrari non sono opponibili ai terzi.
+4\. Con l’acquisto della personalità giuridica, il patrimonio della società è distinto dal patrimonio dei soci.
 
-3.
+5\. I creditori sociali non possono agire sul patrimonio dei soci illimitatamente e solidalmente responsabili senza aver prima escusso il patrimonio sociale.
 
-L’emissione di azioni o la cessione di partecipazioni prima dell’iscrizione della società sono nulle.
+6\. Nella società in nome collettivo, i creditori particolari dei soci illimitatamente responsabili non hanno azione sul patrimonio sociale, ma se i beni del socio debitore sono insufficienti a soddisfare i debiti contratti a titolo personale, il creditore può chiedere la liquidazione della quota del debitore e la quota deve essere liquidata entro tre mesi dalla domanda, salvo che sia deliberato lo scioglimento della società.
 
-4.
-
-Con l’acquisto della personalità giuridica, il patrimonio della società è distinto dal patrimonio dei soci.
-
-5.
-
-I creditori sociali non possono agire sul patrimonio dei soci illimitatamente e solidalmente responsabili senza aver prima escusso il patrimonio sociale.
-
-6.
-
-Nella società in nome collettivo, i creditori particolari dei soci illimitatamente responsabili non hanno azione sul patrimonio sociale, ma se i beni del socio debitore sono insufficienti a soddisfare i debiti contratti a titolo personale, il creditore può chiedere la liquidazione della quota del debitore e la quota deve essere liquidata entro tre mesi dalla domanda, salvo che sia deliberato lo scioglimento della società.
-
-7.
-
-Fatto salvo quanto disposto dall’articolo 148 della Legge 17 novembre 2005, n. 165, l’acquisto della personalità giuridica non consente di acquistare beni immobili nel territorio della Repubblica, di accettare donazioni o eredità o di conseguire legati senza l’autorizzazione del Consiglio dei XII.
+7\. Fatto salvo quanto disposto dall’articolo 148 della Legge 17 novembre 2005, n. 165, l’acquisto della personalità giuridica non consente di acquistare beni immobili nel territorio della Repubblica, di accettare donazioni o eredità o di conseguire legati senza l’autorizzazione del Consiglio dei XII.
 
 ###### Art.22
 
 (Modifiche dello statuto)
 
-1.
-
-Le deliberazioni che modificano lo statuto devono risultare da atto pubblico.
+1\. Le deliberazioni che modificano lo statuto devono risultare da atto pubblico.
 
 L’iscrizione nel Registro è eseguita dall’Ufficio Attività Economiche su istanza del notaio rogante, nei modi e termini di cui all’articolo 6, comma 2. Alla istanza dovrà essere allegata copia autentica dell’atto, anche qualora non registrato.
 
-2.
+2\. Se il notaio ritiene non adempiute le condizioni stabilite dalla legge, ne dà comunicazione tempestivamente e, comunque, non oltre il detto termine agli amministratori. Gli amministratori nei trenta giorni successivi e, in mancanza, ciascun socio a spese della società, possono ricorrere al Commissario della Legge. In questo caso, il Commissario della Legge, verificato l’adempimento delle condizioni richieste dalla Legge, provvede alla omologazione delle deliberazioni e ne ordina l’iscrizione nel Registro. Il decreto del Commissario della Legge è soggetto a reclamo davanti al Giudice d’Appello nei trenta giorni successivi alla notificazione.
 
-Se il notaio ritiene non adempiute le condizioni stabilite dalla legge, ne dà comunicazione tempestivamente e, comunque, non oltre il detto termine agli amministratori. Gli amministratori nei trenta giorni successivi e, in mancanza, ciascun socio a spese della società, possono ricorrere al Commissario della Legge. In questo caso, il Commissario della Legge, verificato l’adempimento delle condizioni richieste dalla Legge, provvede alla omologazione delle deliberazioni e ne ordina l’iscrizione nel Registro. Il decreto del Commissario della Legge è soggetto a reclamo davanti al Giudice d’Appello nei trenta giorni successivi alla notificazione.
+3\. Al momento della costituzione della società, i soci possono prevedere che una o più clausole dello statuto siano modificabili solo all’unanimità.
 
-3.
-
-Al momento della costituzione della società, i soci possono prevedere che una o più clausole dello statuto siano modificabili solo all’unanimità.
-
-4.
-
-Le modifiche del contratto sociale nelle società di persone possono avere luogo solo con il consenso di tutti i soci, se non è convenuto diversamente.
+4\. Le modifiche del contratto sociale nelle società di persone possono avere luogo solo con il consenso di tutti i soci, se non è convenuto diversamente.
 
 ###### Art.22 bis
 
 (Nullità della società)
 
-1.
-
-Avvenuta l’iscrizione nel Registro, la nullità della società può essere dichiarata, su istanza di chiunque vi abbia interesse, esclusivamente nelle seguenti ipotesi:
+1\. Avvenuta l’iscrizione nel Registro, la nullità della società può essere dichiarata, su istanza di chiunque vi abbia interesse, esclusivamente nelle seguenti ipotesi:
 
 a) mancata stipulazione dell’atto costitutivo nella forma dell’atto pubblico;
 
@@ -735,17 +549,11 @@ c) mancanza di nulla osta del Congresso di Stato, nei casi in cui sia richiesto 
 
 d) mancanza nell’atto costitutivo di ogni indicazione riguardante la denominazione della società, i conferimenti, l’ammontare del capitale sociale, l’oggetto sociale.
 
-2.
+2\. La dichiarazione della nullità non pregiudica l’efficacia degli atti compiuti in nome della società dopo l’iscrizione nel Registro, ed i soci non sono liberati dall’obbligo dei conferimenti fino a quando non siano soddisfatti i creditori sociali.
 
-La dichiarazione della nullità non pregiudica l’efficacia degli atti compiuti in nome della società dopo l’iscrizione nel Registro, ed i soci non sono liberati dall’obbligo dei conferimenti fino a quando non siano soddisfatti i creditori sociali.
+3\. La nullità non può essere dichiarata quando la causa di essa è stata eliminata e di tale eliminazione è stata data pubblicità con l’iscrizione nel Registro.
 
-3.
-
-La nullità non può essere dichiarata quando la causa di essa è stata eliminata e di tale eliminazione è stata data pubblicità con l’iscrizione nel Registro.
-
-4.
-
-La sentenza che dichiara la nullità contiene l'ordine di scioglimento e di messa in liquidazione della società e deve essere iscritta nel Registro.
+4\. La sentenza che dichiara la nullità contiene l'ordine di scioglimento e di messa in liquidazione della società e deve essere iscritta nel Registro.
 
 ##### CAPO III
 
@@ -755,9 +563,7 @@ DELLE PARTECIPAZIONI E DELLE OBBLIGAZIONI NELLE SOCIETÀ DI CAPITALI
 
 (Nozione)
 
-1.
-
-Nelle società a responsabilità limitata, la quota attribuita a ciascun socio rappresenta la quantità di partecipazione al capitale sociale ed incorpora il complesso dei diritti spettanti al socio.
+1\. Nelle società a responsabilità limitata, la quota attribuita a ciascun socio rappresenta la quantità di partecipazione al capitale sociale ed incorpora il complesso dei diritti spettanti al socio.
 
 2\. [Nelle società anonime e] nelle società per azioni, la partecipazione è rappresentata da azioni, che devono essere di uguale valore e conferiscono ai loro possessori uguali diritti per categorie omogenee di azioni.
 
@@ -765,83 +571,51 @@ Nelle società a responsabilità limitata, la quota attribuita a ciascun socio r
 
 (Disposizioni comuni)
 
-1.
+1\. Lo statuto può prevedere diverse categorie di partecipazioni. Qualora vengano create diverse categorie di azioni o quote, la società può liberamente determinarne il contenuto nel rispetto dei limiti di legge, ma tutte le azioni o quote appartenenti alla medesima categoria debbono conferire uguali diritti.
 
-Lo statuto può prevedere diverse categorie di partecipazioni. Qualora vengano create diverse categorie di azioni o quote, la società può liberamente determinarne il contenuto nel rispetto dei limiti di legge, ma tutte le azioni o quote appartenenti alla medesima categoria debbono conferire uguali diritti.
+2\. La partecipazione nelle società di capitali è liberamente trasferibile, salvo contraria disposizione dello statuto. Lo statuto può anche limitarne la trasferibilità, e in tal caso, se in concreto le disposizioni statutarie impediscono il trasferimento, il socio può esercitare il diritto di recesso nelle modalità di cui all’articolo 37.
 
-2.
+3\. Nel caso di cessione della quota o dell’azione, l’alienante è obbligato solidalmente con l’acquirente, per il periodo di tre anni dall’iscrizione del trasferimento nel libro dei soci, per i versamenti ancora dovuti.
 
-La partecipazione nelle società di capitali è liberamente trasferibile, salvo contraria disposizione dello statuto. Lo statuto può anche limitarne la trasferibilità, e in tal caso, se in concreto le disposizioni statutarie impediscono il trasferimento, il socio può esercitare il diritto di recesso nelle modalità di cui all’articolo 37.
+4\. Qualora una partecipazione sia oggetto di comproprietà, i diritti dei proprietari sono esercitati da un rappresentante comune. Se il rappresentante comune non è stato nominato, le dichiarazioni e le comunicazioni fatte dalla società ad uno dei comproprietari sono efficaci nei confronti di tutti. I comproprietari di una partecipazione rispondono solidalmente delle obbligazioni da essa derivanti.
 
-3.
-
-Nel caso di cessione della quota o dell’azione, l’alienante è obbligato solidalmente con l’acquirente, per il periodo di tre anni dall’iscrizione del trasferimento nel libro dei soci, per i versamenti ancora dovuti.
-
-4.
-
-Qualora una partecipazione sia oggetto di comproprietà, i diritti dei proprietari sono esercitati da un rappresentante comune. Se il rappresentante comune non è stato nominato, le dichiarazioni e le comunicazioni fatte dalla società ad uno dei comproprietari sono efficaci nei confronti di tutti. I comproprietari di una partecipazione rispondono solidalmente delle obbligazioni da essa derivanti.
-
-5.
-
-La quota e le azioni possono formare oggetto di pegno e usufrutto. In questi casi, il diritto di voto spetta, salvo convenzione contraria, al creditore pignoratizio e all’usufruttuario, mentre il diritto d’opzione spetta al socio, che deve effettuare il versamento delle somme necessarie. Se sono richiesti versamenti sulla partecipazione, nel caso di pegno, il socio deve provvedere al versamento delle somme necessarie, e in difetto, si applica la disciplina della morosità; nel caso di usufrutto, l’usufruttuario deve provvedere al versamento, salvo il suo diritto alla restituzione al termine dell’usufrutto. Su richiesta del creditore pignoratizio o dell’usufruttuario ovvero del socio, gli amministratori procedono senza indugio all’annotazione nel libro dei soci dell’esistenza del pegno o dell’usufrutto. Sulle azioni nominative emesse il pegno si costituisce mediante la consegna dei relativi certificati azionari al creditore ed in forza di atto pubblico o di scrittura privata munita di sottoscrizione autenticata nelle firme, debitamente annotata sul titolo e nel Registro.
+5\. La quota e le azioni possono formare oggetto di pegno e usufrutto. In questi casi, il diritto di voto spetta, salvo convenzione contraria, al creditore pignoratizio e all’usufruttuario, mentre il diritto d’opzione spetta al socio, che deve effettuare il versamento delle somme necessarie. Se sono richiesti versamenti sulla partecipazione, nel caso di pegno, il socio deve provvedere al versamento delle somme necessarie, e in difetto, si applica la disciplina della morosità; nel caso di usufrutto, l’usufruttuario deve provvedere al versamento, salvo il suo diritto alla restituzione al termine dell’usufrutto. Su richiesta del creditore pignoratizio o dell’usufruttuario ovvero del socio, gli amministratori procedono senza indugio all’annotazione nel libro dei soci dell’esistenza del pegno o dell’usufrutto. Sulle azioni nominative emesse il pegno si costituisce mediante la consegna dei relativi certificati azionari al creditore ed in forza di atto pubblico o di scrittura privata munita di sottoscrizione autenticata nelle firme, debitamente annotata sul titolo e nel Registro.
 
 Sulle azioni non ancora emesse e sulle quote, il pegno si costituisce mediante annotazione dello stesso nel libro soci e nel Registro in forza di atto pubblico o di scrittura privata munita di sottoscrizione autenticata delle firme. L’usufrutto sulle azioni e sulle quote si costituisce con le modalità rispettivamente previste ai fini dell’opponibilità dei vincoli stessi nei confronti della società.
 
-6.
+6\. La quota e le azioni possono formare oggetto di sequestro e di espropriazione; il provvedimento del Giudice è iscritto nel Registro. Il pignoramento della quota si esegue mediante notificazione al debitore e al legale rappresentante, mentre per il pignoramento delle azioni emesse deve anche avvenire lo spossessamento. Gli amministratori procedono senza indugio all’annotazione nel libro dei soci. Il provvedimento del Giudice che dispone la vendita della partecipazione deve essere notificato alla società.
 
-La quota e le azioni possono formare oggetto di sequestro e di espropriazione; il provvedimento del Giudice è iscritto nel Registro. Il pignoramento della quota si esegue mediante notificazione al debitore e al legale rappresentante, mentre per il pignoramento delle azioni emesse deve anche avvenire lo spossessamento. Gli amministratori procedono senza indugio all’annotazione nel libro dei soci. Il provvedimento del Giudice che dispone la vendita della partecipazione deve essere notificato alla società.
+7\. Nel caso di sequestro o di pignoramento della quota o delle azioni, il diritto di voto e gli altri diritti amministrativi sono esercitati dal soggetto indicato con apposito provvedimento dal Giudice.
 
-7.
-
-Nel caso di sequestro o di pignoramento della quota o delle azioni, il diritto di voto e gli altri diritti amministrativi sono esercitati dal soggetto indicato con apposito provvedimento dal Giudice.
-
-8.
-
-Salvo che dal titolo o dal provvedimento del giudice risulti diversamente, i diritti amministrativi diversi da quelli previsti dal presente articolo spettano, nel caso di pegno o di usufrutto, al creditore pignoratizio o all’usufruttuario; nel caso di sequestro o pignoramento sono esercitati dal custode.
+8\. Salvo che dal titolo o dal provvedimento del giudice risulti diversamente, i diritti amministrativi diversi da quelli previsti dal presente articolo spettano, nel caso di pegno o di usufrutto, al creditore pignoratizio o all’usufruttuario; nel caso di sequestro o pignoramento sono esercitati dal custode.
 
 ###### Art.25
 
 (Quote)
 
-1.
-
-Il valore nominale della quota è determinato in euro ed in percentuale rispetto al capitale sociale. Se lo statuto non prevede diversamente, la quota è determinata in misura proporzionale al conferimento del socio.
+1\. Il valore nominale della quota è determinato in euro ed in percentuale rispetto al capitale sociale. Se lo statuto non prevede diversamente, la quota è determinata in misura proporzionale al conferimento del socio.
 
 ###### Art.26
 
 (Trasferimento della quota)
 
-1.
+1\. L’atto di trasmissione tra vivi, a titolo gratuito o oneroso, della quota deve essere stipulato nella forma di atto pubblico o scrittura privata autenticata. È nulla la cessione effettuata a favore di Soggetti Inidonei. 2 L’iscrizione nel Registro delle mutate generalità dei soci è eseguita dall’Ufficio Attività Economiche su istanza del notaio rogante o autenticante le firme, nei modi e termini di cui all’articolo 6, comma 2.
 
-L’atto di trasmissione tra vivi, a titolo gratuito o oneroso, della quota deve essere stipulato nella forma di atto pubblico o scrittura privata autenticata. È nulla la cessione effettuata a favore di Soggetti Inidonei. 2 L’iscrizione nel Registro delle mutate generalità dei soci è eseguita dall’Ufficio Attività Economiche su istanza del notaio rogante o autenticante le firme, nei modi e termini di cui all’articolo 6, comma 2.
+3\. Il trasferimento delle quote ha effetto nei confronti della società dal momento dell’iscrizione nel libro dei soci, secondo quanto previsto nel successivo comma.
 
-3.
-
-Il trasferimento delle quote ha effetto nei confronti della società dal momento dell’iscrizione nel libro dei soci, secondo quanto previsto nel successivo comma.
-
-4.
-
-L’iscrizione del trasferimento nel libro dei soci ha luogo, su richiesta dell’avente diritto, previa esibizione dell’atto di trasferimento.
+4\. L’iscrizione del trasferimento nel libro dei soci ha luogo, su richiesta dell’avente diritto, previa esibizione dell’atto di trasferimento.
 
 ###### Art.27
 
 (Azioni)
 
-1.
+1\. L’emissione dei certificati azionari non è obbligatoria salvo espressa richiesta del socio al quale è sempre riconosciuto il diritto di disporre della materialità del titolo, incorporante tutte o parte delle proprie azioni.
 
-L’emissione dei certificati azionari non è obbligatoria salvo espressa richiesta del socio al quale è sempre riconosciuto il diritto di disporre della materialità del titolo, incorporante tutte o parte delle proprie azioni.
+2\. Le azioni, se emesse, possono essere rappresentate da certificati azionari multipli.
 
-2.
+3\. L’azione è indivisibile.
 
-Le azioni, se emesse, possono essere rappresentate da certificati azionari multipli.
-
-3.
-
-L’azione è indivisibile.
-
-4.
-
-Le azioni devono indicare:
+4\. Le azioni devono indicare:
 
 1) la denominazione, la sede e la durata della società;
 
@@ -849,45 +623,27 @@ Le azioni devono indicare:
 
 3) il loro valore nominale e l’ammontare del capitale sociale.
 
-4.
+4\. Le azioni devono essere sottoscritte dal legale rappresentante della società e dai sindaci. È valida la sottoscrizione mediante riproduzione meccanica purché l’originale sia depositato presso l’Ufficio Attività Economiche.
 
-Le azioni devono essere sottoscritte dal legale rappresentante della società e dai sindaci. È valida la sottoscrizione mediante riproduzione meccanica purché l’originale sia depositato presso l’Ufficio Attività Economiche.
+5\. Per tutte le azioni emesse dalla società, il valore nominale di ciascuna azione deve corrispondere ad una frazione aritmetica del capitale sociale.
 
-5.
+6\. Le azioni non possono essere emesse per un importo inferiore al loro valore nominale.
 
-Per tutte le azioni emesse dalla società, il valore nominale di ciascuna azione deve corrispondere ad una frazione aritmetica del capitale sociale.
-
-6.
-
-Le azioni non possono essere emesse per un importo inferiore al loro valore nominale.
-
-7.
-
-Per l’ammortamento delle azioni nominative perdute o sottratte valgono le norme per l’ammortamento cambiario.
+7\. Per l’ammortamento delle azioni nominative perdute o sottratte valgono le norme per l’ammortamento cambiario.
 
 ###### Art.28
 
 (Trasferimento delle azioni nominative)
 
-1.
+1\. Il trasferimento delle azioni nominative deve avvenire mediante atto pubblico o scrittura privata autenticata; se le azioni sono state emesse, deve essere effettuata anche la girata sul titolo, autenticata da notaio, fermo restando che il trasferimento ha effetto nei confronti della società con l’iscrizione nel libro soci. È nulla la cessione effettuata a favore di Soggetti Inidonei.
 
-Il trasferimento delle azioni nominative deve avvenire mediante atto pubblico o scrittura privata autenticata; se le azioni sono state emesse, deve essere effettuata anche la girata sul titolo, autenticata da notaio, fermo restando che il trasferimento ha effetto nei confronti della società con l’iscrizione nel libro soci. È nulla la cessione effettuata a favore di Soggetti Inidonei.
+2\. Il giratario che si dimostra titolare in base ad una serie continua di girate ha diritto di ottenere l’annotazione del trasferimento nel libro soci.
 
-2.
+3\. L’iscrizione nel Registro delle mutate generalità dei soci è eseguita dall’Ufficio Attività Economiche su istanza del notaio rogante o autenticante le firme, nei modi e termini di cui all’articolo 6, comma 2.
 
-Il giratario che si dimostra titolare in base ad una serie continua di girate ha diritto di ottenere l’annotazione del trasferimento nel libro soci.
+4\. L’iscrizione nel libro dei soci ha luogo, su richiesta dell’avente diritto, previa esibizione dell’atto di trasferimento.
 
-3.
-
-L’iscrizione nel Registro delle mutate generalità dei soci è eseguita dall’Ufficio Attività Economiche su istanza del notaio rogante o autenticante le firme, nei modi e termini di cui all’articolo 6, comma 2.
-
-4.
-
-L’iscrizione nel libro dei soci ha luogo, su richiesta dell’avente diritto, previa esibizione dell’atto di trasferimento.
-
-5.
-
-L’usufrutto delle azioni nominative è opponibile ai terzi solamente se annotato sulle azioni stesse e nel libro soci.
+5\. L’usufrutto delle azioni nominative è opponibile ai terzi solamente se annotato sulle azioni stesse e nel libro soci.
 
 ###### Art.29
 
@@ -901,41 +657,23 @@ L’usufrutto delle azioni nominative è opponibile ai terzi solamente se annota
 
 (Quote o azioni proprie)
 
-1.
+1\. Le società a responsabilità limitata non possono in alcun caso sottoscrivere o acquistare quote di partecipazione proprie.
 
-Le società a responsabilità limitata non possono in alcun caso sottoscrivere o acquistare quote di partecipazione proprie.
+2\. Le [società anonime e] società per azioni non possono sottoscrivere azioni proprie
 
-2.
+3\. E’ consentito l’acquisto di azioni proprie purché interamente liberate, solamente nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato.
 
-Le [società anonime e] società per azioni non possono sottoscrivere azioni proprie
+4\. L'acquisto deve essere autorizzato con deliberazione dell’assemblea, la quale ne fissa le modalità, indicando in particolare il numero massimo di azioni da acquistare, la durata massima di validità dell'autorizzazione, il corrispettivo minimo ed il corrispettivo massimo.
 
-3.
+5\. In nessun caso il valore nominale delle azioni acquistate a norma dei commi precedenti può eccedere la quinta parte del capitale sociale.
 
-E’ consentito l’acquisto di azioni proprie purché interamente liberate, solamente nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato.
+6\. Gli amministratori non possono disporre delle azioni acquistate se non previa autorizzazione dell’assemblea, la quale deve stabilire le relative modalità.
 
-4.
+7\. Finché le azioni restano in proprietà della società, il diritto agli utili e il diritto di opzione sono attribuiti proporzionalmente alle altre azioni. Il diritto di voto è sospeso, ma le azioni proprie sono tuttavia computate nel capitale, ai fini del calcolo dei quorum costitutivi e deliberativi dell’assemblea.
 
-L'acquisto deve essere autorizzato con deliberazione dell’assemblea, la quale ne fissa le modalità, indicando in particolare il numero massimo di azioni da acquistare, la durata massima di validità dell'autorizzazione, il corrispettivo minimo ed il corrispettivo massimo.
+8\. Una riserva indisponibile, pari all'importo delle azioni proprie iscritto all'attivo del bilancio, deve essere costituita e mantenuta finché le azioni non siano trasferite o annullate.
 
-5.
-
-In nessun caso il valore nominale delle azioni acquistate a norma dei commi precedenti può eccedere la quinta parte del capitale sociale.
-
-6.
-
-Gli amministratori non possono disporre delle azioni acquistate se non previa autorizzazione dell’assemblea, la quale deve stabilire le relative modalità.
-
-7.
-
-Finché le azioni restano in proprietà della società, il diritto agli utili e il diritto di opzione sono attribuiti proporzionalmente alle altre azioni. Il diritto di voto è sospeso, ma le azioni proprie sono tuttavia computate nel capitale, ai fini del calcolo dei quorum costitutivi e deliberativi dell’assemblea.
-
-8.
-
-Una riserva indisponibile, pari all'importo delle azioni proprie iscritto all'attivo del bilancio, deve essere costituita e mantenuta finché le azioni non siano trasferite o annullate.
-
-9.
-
-In nessun caso le società possono accordare prestiti o fornire garanzie per l'acquisto o la sottoscrizione delle proprie partecipazioni. Non possono neppure, per tramite di società fiduciaria o per interposta persona, essere accettate partecipazioni proprie in garanzia.
+9\. In nessun caso le società possono accordare prestiti o fornire garanzie per l'acquisto o la sottoscrizione delle proprie partecipazioni. Non possono neppure, per tramite di società fiduciaria o per interposta persona, essere accettate partecipazioni proprie in garanzia.
 
 10\. Sono nulli gli atti compiuti in violazione dei commi 1, 2, 3, 4, 6, e 8. Qualora siano acquistate azioni proprie eccedendo il limite di cui al comma 5, la nullità è limitata all’acquisto delle azioni in eccesso.
 
@@ -943,47 +681,29 @@ In nessun caso le società possono accordare prestiti o fornire garanzie per l'a
 
 (Obbligazioni)
 
-1.
+1\. L’assemblea delle società per azioni può deliberare di raccogliere nuovi capitali con l'emissione di obbligazioni nominative.
 
-L’assemblea delle società per azioni può deliberare di raccogliere nuovi capitali con l'emissione di obbligazioni nominative.
+2\. Le obbligazioni costituiscono titoli di credito che incorporano il diritto alla restituzione del capitale ed al pagamento degli interessi, senza attribuire alcuno dei diritti riservati ai soci. Possono essere emesse obbligazioni subordinate che, in determinate circostanze, vengano rimborsate solo dopo la soddisfazione dei diritti di altri creditori della società; obbligazioni irredimibili senza scadenza che attribuiscono al sottoscrittore solo il pagamento degli interessi e non anche la restituzione del capitale; obbligazioni cum warrant che attribuiscono al sottoscrittore, in aggiunta ai diritti di restituzione del capitale e di pagamento degli interessi anche il diritto di acquistare o sottoscrivere altri titoli a condizioni prefissate e di cedere il diritto medesimo a terzi.
 
-2.
+3\. La deliberazione dell'assemblea concernente l'emissione di obbligazioni non può essere eseguita sino a quando non viene concessa l'autorizzazione della Banca Centrale della Repubblica di San Marino.
 
-Le obbligazioni costituiscono titoli di credito che incorporano il diritto alla restituzione del capitale ed al pagamento degli interessi, senza attribuire alcuno dei diritti riservati ai soci. Possono essere emesse obbligazioni subordinate che, in determinate circostanze, vengano rimborsate solo dopo la soddisfazione dei diritti di altri creditori della società; obbligazioni irredimibili senza scadenza che attribuiscono al sottoscrittore solo il pagamento degli interessi e non anche la restituzione del capitale; obbligazioni cum warrant che attribuiscono al sottoscrittore, in aggiunta ai diritti di restituzione del capitale e di pagamento degli interessi anche il diritto di acquistare o sottoscrivere altri titoli a condizioni prefissate e di cedere il diritto medesimo a terzi.
+4\. Il valore complessivo di tutte le obbligazioni emesse non può eccedere il doppio del capitale sociale e delle riserve disponibili secondo l'ultimo bilancio approvato.
 
-3.
-
-La deliberazione dell'assemblea concernente l'emissione di obbligazioni non può essere eseguita sino a quando non viene concessa l'autorizzazione della Banca Centrale della Repubblica di San Marino.
-
-4.
-
-Il valore complessivo di tutte le obbligazioni emesse non può eccedere il doppio del capitale sociale e delle riserve disponibili secondo l'ultimo bilancio approvato.
-
-5.
-
-L'assemblea può deliberare l'emissione di obbligazioni convertibili in azioni, determinando il rapporto di cambio, il periodo e le modalità della conversione.
+5\. L'assemblea può deliberare l'emissione di obbligazioni convertibili in azioni, determinando il rapporto di cambio, il periodo e le modalità della conversione.
 
 Contestualmente la società deve deliberare l'aumento del capitale sociale per un ammontare corrispondente alle azioni da attribuire in conversione.
 
-6.
+6\. Nel primo mese di ciascun semestre gli amministratori provvedono all’emissione delle azioni spettanti agli obbligazionisti che hanno chiesto la conversione nel semestre precedente. Entro il mese successivo gli amministratori devono depositare per l’iscrizione nel Registro una dichiarazione resa dal legale rappresentante con le forme e sotto le comminatorie previste rispettivamente dagli articoli 13 e 24 della Legge 5 ottobre 2011 n. 159 ovvero avanti un Notaio, ove venga attestato l’aumento del capitale sociale in misura corrispondente al valore nominale delle azioni emesse.
 
-Nel primo mese di ciascun semestre gli amministratori provvedono all’emissione delle azioni spettanti agli obbligazionisti che hanno chiesto la conversione nel semestre precedente. Entro il mese successivo gli amministratori devono depositare per l’iscrizione nel Registro una dichiarazione resa dal legale rappresentante con le forme e sotto le comminatorie previste rispettivamente dagli articoli 13 e 24 della Legge 5 ottobre 2011 n. 159 ovvero avanti un Notaio, ove venga attestato l’aumento del capitale sociale in misura corrispondente al valore nominale delle azioni emesse.
+7\. Fino a quando non siano scaduti i termini fissati per la conversione, la società non può deliberare né la riduzione volontaria del capitale sociale, né la modificazione delle disposizioni dello statuto concernenti la ripartizione degli utili, salvo che ai possessori di obbligazioni convertibili sia stata data la facoltà, mediante lettera raccomandata inviata almeno novanta giorni prima della convocazione dell'assemblea, di esercitare il diritto di conversione nel termine di trenta giorni dal ricevimento della lettera raccomandata stessa.
 
-7.
-
-Fino a quando non siano scaduti i termini fissati per la conversione, la società non può deliberare né la riduzione volontaria del capitale sociale, né la modificazione delle disposizioni dello statuto concernenti la ripartizione degli utili, salvo che ai possessori di obbligazioni convertibili sia stata data la facoltà, mediante lettera raccomandata inviata almeno novanta giorni prima della convocazione dell'assemblea, di esercitare il diritto di conversione nel termine di trenta giorni dal ricevimento della lettera raccomandata stessa.
-
-8.
-
-Nei casi di aumento del capitale mediante imputazione di riserve e di riduzione del capitale per perdite, il rapporto di cambio è modificato in proporzione alla misura dell'aumento o della riduzione.
+8\. Nei casi di aumento del capitale mediante imputazione di riserve e di riduzione del capitale per perdite, il rapporto di cambio è modificato in proporzione alla misura dell'aumento o della riduzione.
 
 ###### Art.32
 
 (Contenuto delle obbligazioni)
 
-1.
-
-Le obbligazioni devono essere sottoscritte dal legale rappresentante della società e dai sindaci e devono indicare:
+1\. Le obbligazioni devono essere sottoscritte dal legale rappresentante della società e dai sindaci e devono indicare:
 
 1) la denominazione, l'oggetto e la sede della società e il numero di iscrizione nel Registro;
 
@@ -997,9 +717,7 @@ Le obbligazioni devono essere sottoscritte dal legale rappresentante della socie
 
 6) la descrizione del tipo di obbligazione, con l’indicazione delle loro principali caratteristiche.
 
-2.
-
-Le obbligazioni convertibili in azioni devono indicare, in aggiunta a quanto stabilito nel precedente comma, il rapporto di cambio e le modalità della conversione.
+2\. Le obbligazioni convertibili in azioni devono indicare, in aggiunta a quanto stabilito nel precedente comma, il rapporto di cambio e le modalità della conversione.
 
 ##### CAPO IV
 
@@ -1009,9 +727,7 @@ DEI DIRITTI E DEI DOVERI DEI SOCI
 
 (Diritto agli utili ed alla quota di liquidazione)
 
-1.
-
-Ogni partecipazione attribuisce il diritto ad una parte proporzionale degli utili, realmente conseguiti, e di cui sia stata approvata dall’assemblea la distribuzione, e del patrimonio netto risultante dalla liquidazione; nella stessa misura si presume la partecipazione alle perdite.
+1\. Ogni partecipazione attribuisce il diritto ad una parte proporzionale degli utili, realmente conseguiti, e di cui sia stata approvata dall’assemblea la distribuzione, e del patrimonio netto risultante dalla liquidazione; nella stessa misura si presume la partecipazione alle perdite.
 
 E’ nullo il patto con il quale il socio fosse totalmente escluso dagli utili o dalle perdite.
 
@@ -1019,129 +735,81 @@ E’ nullo il patto con il quale il socio fosse totalmente escluso dagli utili o
 
 (Diritto di voto)
 
-1.
+1\. Ordinariamente ogni azione attribuisce al portatore legittimo il diritto di voto. La quota attribuisce al titolare almeno un voto nell’assemblea; se la quota è multipla di un Euro, il socio ha diritto ad un voto per ogni Euro.
 
-Ordinariamente ogni azione attribuisce al portatore legittimo il diritto di voto. La quota attribuisce al titolare almeno un voto nell’assemblea; se la quota è multipla di un Euro, il socio ha diritto ad un voto per ogni Euro.
-
-2.
-
-Per particolari categorie di azioni o di quote il diritto di voto può essere escluso al momento dell’emissione.
+2\. Per particolari categorie di azioni o di quote il diritto di voto può essere escluso al momento dell’emissione.
 
 ###### Art.35
 
 (Diritto di informazione)
 
-1.
+1\. Tutti i soci hanno diritto di ricevere informazioni sull'andamento gestionale ed economico-finanziario della società e, nelle società prive di collegio sindacale o sindaco unico, ciascun socio non amministratore ha il diritto di consultare liberamente i documenti relativi anche con l'assistenza di propri esperti.
 
-Tutti i soci hanno diritto di ricevere informazioni sull'andamento gestionale ed economico-finanziario della società e, nelle società prive di collegio sindacale o sindaco unico, ciascun socio non amministratore ha il diritto di consultare liberamente i documenti relativi anche con l'assistenza di propri esperti.
+2\. In ogni caso, i soci hanno sempre diritto di prendere visione del libro soci e del libro delle adunanze e delle deliberazioni dell’assemblea ed ottenerne copia.
 
-2.
-
-In ogni caso, i soci hanno sempre diritto di prendere visione del libro soci e del libro delle adunanze e delle deliberazioni dell’assemblea ed ottenerne copia.
-
-3.
-
-Qualora l’amministratore non consenta al socio di esercitare il diritto, questi ha facoltà di ricorrere al Commissario della Legge, il quale adotta i provvedimenti di cui all’articolo 66, nel rispetto del principio del contraddittorio.
+3\. Qualora l’amministratore non consenta al socio di esercitare il diritto, questi ha facoltà di ricorrere al Commissario della Legge, il quale adotta i provvedimenti di cui all’articolo 66, nel rispetto del principio del contraddittorio.
 
 ###### Art.36
 
 (Diritto di amministrare)
 
-1.
+1\. L'amministrazione della società di persone spetta a ciascun socio disgiuntamente dagli altri, salva diversa previsione dello statuto che se non è portata a conoscenza dei terzi non è loro opponibile.
 
-L'amministrazione della società di persone spetta a ciascun socio disgiuntamente dagli altri, salva diversa previsione dello statuto che se non è portata a conoscenza dei terzi non è loro opponibile.
-
-2.
-
-Nelle società di capitali possono essere nominati amministratori anche non soci.
+2\. Nelle società di capitali possono essere nominati amministratori anche non soci.
 
 ###### Art.37
 
 (Diritto di recesso del socio)
 
-1.
+1\. Salva diversa disposizione dello statuto, nelle società di persone ciascun socio, in qualunque momento, può recedere dalla società quando questa non sia contratta a tempo determinato oppure quando abbia una giusta causa per recedere.
 
-Salva diversa disposizione dello statuto, nelle società di persone ciascun socio, in qualunque momento, può recedere dalla società quando questa non sia contratta a tempo determinato oppure quando abbia una giusta causa per recedere.
+2\. Nelle società di capitali e nelle società di persone, il diritto di recesso sussiste quando: − la società deliberi la trasformazione della propria tipologia ovvero una sostanziale modifica dell'oggetto sociale; − sia previsto dallo statuto; − sia previsto dalla legge o da leggi speciali.
 
-2.
-
-Nelle società di capitali e nelle società di persone, il diritto di recesso sussiste quando: − la società deliberi la trasformazione della propria tipologia ovvero una sostanziale modifica dell'oggetto sociale; − sia previsto dallo statuto; − sia previsto dalla legge o da leggi speciali.
-
-1.
-
-Il recesso è comunicato agli amministratori ovvero, nelle società di persone, agli altri soci con lettera raccomandata con avviso di ricevimento, e, nei casi di cui al primo comma, limitatamente alle società di persone, con un preavviso di almeno tre mesi. La partecipazione deve essere liquidata, salvo diversa disposizione dello statuto, nei successivi trenta giorni.
+1\. Il recesso è comunicato agli amministratori ovvero, nelle società di persone, agli altri soci con lettera raccomandata con avviso di ricevimento, e, nei casi di cui al primo comma, limitatamente alle società di persone, con un preavviso di almeno tre mesi. La partecipazione deve essere liquidata, salvo diversa disposizione dello statuto, nei successivi trenta giorni.
 
 ###### Art.38
 
 (Liquidazione in caso di recesso)
 
-1.
+1\. I soci recedenti hanno il diritto di ricevere una somma di denaro pari al valore della partecipazione posseduta.
 
-I soci recedenti hanno il diritto di ricevere una somma di denaro pari al valore della partecipazione posseduta.
-
-2.
-
-Salva diversa disposizione dello statuto, tale valore è determinato tenendo conto del valore di mercato al momento della dichiarazione di recesso. In caso di disaccordo, tale valore è determinato con riferimento al patrimonio netto medio risultante dai bilanci degli ultimi tre anni o, se la società è stata costituita da meno di tre esercizi, dai bilanci approvati dalla sua costituzione.
+2\. Salva diversa disposizione dello statuto, tale valore è determinato tenendo conto del valore di mercato al momento della dichiarazione di recesso. In caso di disaccordo, tale valore è determinato con riferimento al patrimonio netto medio risultante dai bilanci degli ultimi tre anni o, se la società è stata costituita da meno di tre esercizi, dai bilanci approvati dalla sua costituzione.
 
 ###### Art.39
 
 (Morte ed esclusione del socio nelle società di persone)
 
-1.
+1\. Salvo contrarie disposizioni dello statuto, in caso di morte di uno dei soci nelle società di persone, i soci superstiti devono liquidare la quota agli eredi, a meno che preferiscano sciogliere la società ovvero continuarla con gli eredi e questi vi acconsentano.
 
-Salvo contrarie disposizioni dello statuto, in caso di morte di uno dei soci nelle società di persone, i soci superstiti devono liquidare la quota agli eredi, a meno che preferiscano sciogliere la società ovvero continuarla con gli eredi e questi vi acconsentano.
+2\. L’esclusione di un socio può avere luogo per gravi inadempimenti alle obbligazioni che derivano dalla legge e dal contratto sociale, nonché per interdizione, inabilitazione del socio; il socio che ha conferito nella società la propria opera o il godimento di una cosa può altresì essere escluso per la sopravvenuta inidoneità a svolgere l’opera o per il perimento della cosa dovuto a causa non imputabile agli amministratori; infine, può essere escluso il socio che si è obbligato con il conferimento a trasferire la proprietà di una cosa, se questa è perita prima che la proprietà sia acquistata dalla società.
 
-2.
+3\. L’esclusione è deliberata dalla maggioranza dei soci, non computandosi nel numero di questi il socio da escludere ed ha effetto decorsi trenta giorni dalla comunicazione al socio escluso. Entro questo termine il socio escluso può presentare opposizione con ricorso al Commissario della Legge, il quale può sospendere l’esecuzione. Se la società si compone di due soci, l’esclusione di uno di essi è pronunciata dal Commissario della Legge, su domanda dell’altro.
 
-L’esclusione di un socio può avere luogo per gravi inadempimenti alle obbligazioni che derivano dalla legge e dal contratto sociale, nonché per interdizione, inabilitazione del socio; il socio che ha conferito nella società la propria opera o il godimento di una cosa può altresì essere escluso per la sopravvenuta inidoneità a svolgere l’opera o per il perimento della cosa dovuto a causa non imputabile agli amministratori; infine, può essere escluso il socio che si è obbligato con il conferimento a trasferire la proprietà di una cosa, se questa è perita prima che la proprietà sia acquistata dalla società.
+4\. E’ escluso di diritto il socio nei confronti del quale sia stata aperta una procedura concorsuale ovvero nei cui confronti un suo creditore particolare abbia ottenuto la liquidazione della quota.
 
-3.
-
-L’esclusione è deliberata dalla maggioranza dei soci, non computandosi nel numero di questi il socio da escludere ed ha effetto decorsi trenta giorni dalla comunicazione al socio escluso. Entro questo termine il socio escluso può presentare opposizione con ricorso al Commissario della Legge, il quale può sospendere l’esecuzione. Se la società si compone di due soci, l’esclusione di uno di essi è pronunciata dal Commissario della Legge, su domanda dell’altro.
-
-4.
-
-E’ escluso di diritto il socio nei confronti del quale sia stata aperta una procedura concorsuale ovvero nei cui confronti un suo creditore particolare abbia ottenuto la liquidazione della quota.
-
-5.
-
-Si osservano per la liquidazione della quota agli eredi del socio defunto e al socio escluso le disposizioni dell’articolo 38.
+5\. Si osservano per la liquidazione della quota agli eredi del socio defunto e al socio escluso le disposizioni dell’articolo 38.
 
 ###### Art.40
 
 (Diritto di opzione)
 
-1.
+1\. L’assemblea dei soci, per deliberare l’aumento di capitale sociale mediante l’emissione di nuove partecipazioni, deve offrire in opzione ai soci ed in proporzione delle partecipazioni di ciascuno di essi, le partecipazioni di nuova emissione o sottoscrizione. La stessa assemblea stabilisce termini e modalità di esercizio del diritto di opzione, fermo restando che i termini per l'esercizio di tale diritto debbono decorrere dal giorno di deposito del verbale di assemblea presso la [Cancelleria] e che non possono essere inferiori a dieci giorni.
 
-L’assemblea dei soci, per deliberare l’aumento di capitale sociale mediante l’emissione di nuove partecipazioni, deve offrire in opzione ai soci ed in proporzione delle partecipazioni di ciascuno di essi, le partecipazioni di nuova emissione o sottoscrizione. La stessa assemblea stabilisce termini e modalità di esercizio del diritto di opzione, fermo restando che i termini per l'esercizio di tale diritto debbono decorrere dal giorno di deposito del verbale di assemblea presso la [Cancelleria] e che non possono essere inferiori a dieci giorni.
+2\. Coloro che esercitano il diritto di opzione, purché ne facciano contestuale richiesta, hanno diritto di prelazione nell'acquisto delle partecipazioni che rimarranno inoptate.
 
-2.
+3\. Il diritto di opzione non spetta per le partecipazioni di nuova emissione che, secondo la deliberazione di aumento del capitale, devono essere liberate mediante conferimenti in natura.
 
-Coloro che esercitano il diritto di opzione, purché ne facciano contestuale richiesta, hanno diritto di prelazione nell'acquisto delle partecipazioni che rimarranno inoptate.
+4\. Quando il diritto di opzione è escluso, il prezzo di emissione delle partecipazioni deve essere determinato in base al valore del patrimonio netto.
 
-3.
-
-Il diritto di opzione non spetta per le partecipazioni di nuova emissione che, secondo la deliberazione di aumento del capitale, devono essere liberate mediante conferimenti in natura.
-
-4.
-
-Quando il diritto di opzione è escluso, il prezzo di emissione delle partecipazioni deve essere determinato in base al valore del patrimonio netto.
-
-5.
-
-Le somme percepite dalla società per l’emissione di partecipazioni ad un prezzo superiore al loro valore nominale, ivi comprese quelle derivate dalla conversione di obbligazioni, devono essere accantonate in apposita riserva.
+5\. Le somme percepite dalla società per l’emissione di partecipazioni ad un prezzo superiore al loro valore nominale, ivi comprese quelle derivate dalla conversione di obbligazioni, devono essere accantonate in apposita riserva.
 
 ###### Art.41
 
 (Divieto di concorrenza nelle società di persone)
 
-1.
+1\. Il socio della società in nome collettivo non può, senza il consenso degli altri soci, esercitare per conto proprio o altrui un’attività concorrente con quella della società né partecipare come socio illimitatamente responsabile in altra società concorrente.
 
-Il socio della società in nome collettivo non può, senza il consenso degli altri soci, esercitare per conto proprio o altrui un’attività concorrente con quella della società né partecipare come socio illimitatamente responsabile in altra società concorrente.
-
-2.
-
-Il consenso si presume se l’esercizio dell’attività o la partecipazione in altra società preesisteva al contratto sociale e gli altri soci ne erano a conoscenza.
+2\. Il consenso si presume se l’esercizio dell’attività o la partecipazione in altra società preesisteva al contratto sociale e gli altri soci ne erano a conoscenza.
 
 #### TITOLO II
 
@@ -1155,21 +823,15 @@ DELL’ASSEMBLEA
 
 (Assemblea)
 
-1.
+1\. L'assemblea dei soci è l'organo deliberativo nel quale si forma la volontà della società.
 
-L'assemblea dei soci è l'organo deliberativo nel quale si forma la volontà della società.
-
-2.
-
-Le deliberazioni adottate dall'assemblea in conformità della legge e delle norme statutarie vincolano tutti i soci ancorché non intervenuti o dissenzienti.
+2\. Le deliberazioni adottate dall'assemblea in conformità della legge e delle norme statutarie vincolano tutti i soci ancorché non intervenuti o dissenzienti.
 
 ###### Art.43
 
 (Competenze dell'assemblea)
 
-1.
-
-L'assemblea si riunisce almeno una volta all'anno entro cinque mesi dalla chiusura dell'esercizio sociale ed ha competenze in materia di:
+1\. L'assemblea si riunisce almeno una volta all'anno entro cinque mesi dalla chiusura dell'esercizio sociale ed ha competenze in materia di:
 
 1) approvazione del bilancio;
 
@@ -1191,19 +853,13 @@ L'assemblea si riunisce almeno una volta all'anno entro cinque mesi dalla chiusu
 
 (Funzionamento dell'assemblea)
 
-1.
+1\. L’assemblea è convocata dagli amministratori della società mediante l’invio di lettera raccomandata, ordinaria o elettronica, ai soci presso il domicilio eletto almeno otto giorni prima dell’adunanza.
 
-L’assemblea è convocata dagli amministratori della società mediante l’invio di lettera raccomandata, ordinaria o elettronica, ai soci presso il domicilio eletto almeno otto giorni prima dell’adunanza.
-
-2.
-
-Lo statuto stabilisce le norme che regolano le formalità e il funzionamento dell'assemblea ivi comprese le modalità di votazione nonché, anche in deroga al
+2\. Lo statuto stabilisce le norme che regolano le formalità e il funzionamento dell'assemblea ivi comprese le modalità di votazione nonché, anche in deroga al
 
 comma 1, le procedure di sua convocazione per le quali può prevedere che le stesse avvengano a mezzo posta elettronica con ricevuta di ritorno o anche mediante avviso affisso ad valvas presso l’Ufficio Attività Economiche almeno otto giorni prima dell’adunanza ad istanza degli amministratori mediante deposito dell’originale dell’avviso di convocazione.
 
-3.
-
-Lo statuto deve in ogni caso prevedere che:
+3\. Lo statuto deve in ogni caso prevedere che:
 
 1) l'assemblea deve tenersi nel territorio della Repubblica;
 
@@ -1265,9 +921,7 @@ Lo statuto deve in ogni caso prevedere che:
 
 (Riunioni assembleari in teleconferenza)
 
-1.
-
-L’assemblea può essere altresì tenuta con l’intervento dei soci e delle cariche sociali da remoto, collegati in teleconferenza audio e video, e con l’obbligo della sola presenza in territorio del notaio in veste di Segretario Verbalizzante, qualora tale modalità non sia espressamente vietata dallo statuto sociale e in ogni caso nei limiti e secondo le seguenti prescrizioni:
+1\. L’assemblea può essere altresì tenuta con l’intervento dei soci e delle cariche sociali da remoto, collegati in teleconferenza audio e video, e con l’obbligo della sola presenza in territorio del notaio in veste di Segretario Verbalizzante, qualora tale modalità non sia espressamente vietata dallo statuto sociale e in ogni caso nei limiti e secondo le seguenti prescrizioni:
 
 1) l’avviso di convocazione, oltre a quanto previsto dalla legge e dallo statuto, deve contenere l’indicazione delle modalità tecniche di partecipazione da remoto, con precisazione della piattaforma utilizzata e degli indirizzi e/o i codici per il collegamento;
 
@@ -1303,45 +957,25 @@ L’assemblea può essere altresì tenuta con l’intervento dei soci e delle ca
 
 (Opposizioni alle deliberazioni dell’assemblea)
 
-1.
+1\. Contro le illegittime deliberazioni assembleari, il socio assente o dissenziente, gli amministratori ed i sindaci possono ricorrere al Commissario della Legge per chiedere l'annullamento ed eventualmente la sospensione in via d'urgenza delle deliberazioni impugnate. Il ricorso deve essere proposto presso il Tribunale, con copia depositata anche presso l’Ufficio Attività Economiche, entro il termine di venti giorni dall’iscrizione nel Registro dei dati portati dal verbale dell’assemblea; in mancanza di iscrizione il ricorso deve essere proposto entro venti giorni dal momento in cui il ricorrente è venuto a conoscenza della deliberazione, purché non oltre il termine di due anni dalla deliberazione medesima.
 
-Contro le illegittime deliberazioni assembleari, il socio assente o dissenziente, gli amministratori ed i sindaci possono ricorrere al Commissario della Legge per chiedere l'annullamento ed eventualmente la sospensione in via d'urgenza delle deliberazioni impugnate. Il ricorso deve essere proposto presso il Tribunale, con copia depositata anche presso l’Ufficio Attività Economiche, entro il termine di venti giorni dall’iscrizione nel Registro dei dati portati dal verbale dell’assemblea; in mancanza di iscrizione il ricorso deve essere proposto entro venti giorni dal momento in cui il ricorrente è venuto a conoscenza della deliberazione, purché non oltre il termine di due anni dalla deliberazione medesima.
+1\. Il Commissario della Legge, se la opposizione appare prima facie seriamente fondata, può disporre con decreto la sospensione provvisoria della deliberazione, imponendo eventualmente al socio o ai soci opponenti il deposito di una somma per le spese e, se del caso, una cauzione.
 
-1.
+2\. Il decreto è notificato d'ufficio ed a spese degli opponenti, agli amministratori ed ai sindaci, e ne viene presa nota nel Registro.
 
-Il Commissario della Legge, se la opposizione appare prima facie seriamente fondata, può disporre con decreto la sospensione provvisoria della deliberazione, imponendo eventualmente al socio o ai soci opponenti il deposito di una somma per le spese e, se del caso, una cauzione.
+3\. Entro trenta giorni dalla notifica e sempreché la società non abbia iniziato un procedimento per la conferma della deliberazione opposta, gli opponenti devono introdurre un procedimento in contraddittorio per l'annullamento della deliberazione; diversamente l'opposizione si intende decaduta definitivamente.
 
-2.
+4\. Tutti i motivi di impugnazione della stessa delibera sono decisi con un’unica sentenza.
 
-Il decreto è notificato d'ufficio ed a spese degli opponenti, agli amministratori ed ai sindaci, e ne viene presa nota nel Registro.
+5\. L’annullamento non può essere pronunciato se la delibera impugnata venga sostituita con altra delibera conforme a legge, fermo restando che le spese relative al giudizio di impugnazione sono a carico della società.
 
-3.
-
-Entro trenta giorni dalla notifica e sempreché la società non abbia iniziato un procedimento per la conferma della deliberazione opposta, gli opponenti devono introdurre un procedimento in contraddittorio per l'annullamento della deliberazione; diversamente l'opposizione si intende decaduta definitivamente.
-
-4.
-
-Tutti i motivi di impugnazione della stessa delibera sono decisi con un’unica sentenza.
-
-5.
-
-L’annullamento non può essere pronunciato se la delibera impugnata venga sostituita con altra delibera conforme a legge, fermo restando che le spese relative al giudizio di impugnazione sono a carico della società.
-
-6.
-
-L'eventuale annullamento delle deliberazioni non pregiudica il diritto dei terzi in buona fede.
+6\. L'eventuale annullamento delle deliberazioni non pregiudica il diritto dei terzi in buona fede.
 
 ###### Art.46
 
 (La nullità delle deliberazioni assembleari)
 
-1.
-
-2.
-
-3.
-
-Le deliberazioni assembleari il cui oggetto sia impossibile o illecito sono nulle.
+3\. Le deliberazioni assembleari il cui oggetto sia impossibile o illecito sono nulle.
 
 La nullità può essere fatta valere da chiunque vi abbia interesse Si osservano le disposizioni del processo di cognizione ordinario.
 
@@ -1353,25 +987,19 @@ DEGLI AMMINISTRATORI
 
 (Competenze degli amministratori)
 
-1.
-
-Gli amministratori hanno il potere di compiere tutti gli atti necessari o utili al perseguimento dell’oggetto sociale, ad eccezione di quelli per i quali la legge o lo statuto richiedono la deliberazione dell’assemblea.
+1\. Gli amministratori hanno il potere di compiere tutti gli atti necessari o utili al perseguimento dell’oggetto sociale, ad eccezione di quelli per i quali la legge o lo statuto richiedono la deliberazione dell’assemblea.
 
 ###### Art.48
 
 (Cause di ineleggibilità e decadenza)
 
-1.
-
-Non possono essere eletti alla carica di amministratore e, se eletti, decadono dall’ufficio coloro che:
+1\. Non possono essere eletti alla carica di amministratore e, se eletti, decadono dall’ufficio coloro che:
 
 1) siano Soggetti Inidonei; oppure
 
 2) abbiano riportato condanna per i fatti previsti dall’articolo 56 comma 9.
 
-2.
-
-Lo statuto può prevedere inoltre cause di incompatibilità, limiti e criteri per il cumulo degli incarichi. 2 bis. Chi diviene soggetto inidoneo deve comunicare entro cinque giorni lavorativi dalla ricezione della notifica dell'atto che ne ha determinato la qualità di soggetto inidoneo, la sua nuova condizione ai soci, al Consiglio di amministrazione della società in cui svolge il ruolo di amministratore e all’Ufficio Attività Economiche. La mancata comunicazione rappresenta colpa grave nel rapporto con la società. 2 ter. La comunicazione ai soggetti di cui al comma precedente può essere fatta anche da altri soggetti che abbiano avuto conoscenza del nuovo status di soggetto inidoneo dell'amministratore. 2 quater.
+2\. Lo statuto può prevedere inoltre cause di incompatibilità, limiti e criteri per il cumulo degli incarichi. 2 bis. Chi diviene soggetto inidoneo deve comunicare entro cinque giorni lavorativi dalla ricezione della notifica dell'atto che ne ha determinato la qualità di soggetto inidoneo, la sua nuova condizione ai soci, al Consiglio di amministrazione della società in cui svolge il ruolo di amministratore e all’Ufficio Attività Economiche. La mancata comunicazione rappresenta colpa grave nel rapporto con la società. 2 ter. La comunicazione ai soggetti di cui al comma precedente può essere fatta anche da altri soggetti che abbiano avuto conoscenza del nuovo status di soggetto inidoneo dell'amministratore. 2 quater.
 
 I soci entro 30 giorni lavorativi dalla ricezione della comunicazione di cui al comma 4 devono procedere alla sostituzione dell'amministratore divenuto soggetto inidoneo. 2 quinquies.Se i soci non ottemperano a quanto disposto al comma precedente, il Commissario della Legge convoca l'assemblea societaria perché nomini il nuovo amministratore. Nel caso l'assemblea societaria non riesca a deliberare, il Commissario della Legge nomina un Commissario giudiziario previa revoca dell'amministratore diventato soggetto inidoneo. L'amministratore giudiziario svolge l’attività prevista ai commi 4 e 5 dell'articolo 66.
 
@@ -1379,29 +1007,19 @@ I soci entro 30 giorni lavorativi dalla ricezione della comunicazione di cui al 
 
 (Nomina degli amministratori e modalità d’amministrazione)
 
-1.
+1\. Nelle società di persone, ciascun socio ha i poteri di amministrazione, che sono esercitati disgiuntamente, salvo il patto contrario che attribuisca tali poteri ad uno o più soci, che per essere opposto ai terzi deve essere reso pubblico mediante annotazione nel Registro.
 
-Nelle società di persone, ciascun socio ha i poteri di amministrazione, che sono esercitati disgiuntamente, salvo il patto contrario che attribuisca tali poteri ad uno o più soci, che per essere opposto ai terzi deve essere reso pubblico mediante annotazione nel Registro.
+2\. Nelle società di capitali gli amministratori sono nominati dall'assemblea e, per il primo periodo di carica, sono nominati nell’atto costitutivo.
 
-2.
+3\. Qualora l'amministrazione delle società di capitali sia attribuita a più persone, queste costituiscono il consiglio di amministrazione, il cui funzionamento deve essere regolato da apposite norme statutarie, secondo quanto previsto dal successivo articolo
 
-Nelle società di capitali gli amministratori sono nominati dall'assemblea e, per il primo periodo di carica, sono nominati nell’atto costitutivo.
-
-3.
-
-Qualora l'amministrazione delle società di capitali sia attribuita a più persone, queste costituiscono il consiglio di amministrazione, il cui funzionamento deve essere regolato da apposite norme statutarie, secondo quanto previsto dal successivo articolo 50.
-
-4.
-
-Il consiglio di amministrazione, se lo statuto o l’assemblea lo consentono, può delegare parte delle proprie attribuzioni ad un comitato esecutivo composto di alcuni dei suoi membri ovvero ad uno o più amministratori delegati. In ogni caso la delega non può estendersi alle attribuzioni relative alla redazione del bilancio e agli adempimenti in caso di riduzione del capitale sociale per perdite.
+4\. Il consiglio di amministrazione, se lo statuto o l’assemblea lo consentono, può delegare parte delle proprie attribuzioni ad un comitato esecutivo composto di alcuni dei suoi membri ovvero ad uno o più amministratori delegati. In ogni caso la delega non può estendersi alle attribuzioni relative alla redazione del bilancio e agli adempimenti in caso di riduzione del capitale sociale per perdite.
 
 ###### Art.50
 
 (Funzionamento del consiglio di amministrazione)
 
-1.
-
-Lo statuto deve contenere le norme che regolano le formalità e le procedure di convocazione e di funzionamento del consiglio di amministrazione. In ogni caso, deve prevedere:
+1\. Lo statuto deve contenere le norme che regolano le formalità e le procedure di convocazione e di funzionamento del consiglio di amministrazione. In ogni caso, deve prevedere:
 
 1) che il consiglio è validamente costituito con la maggioranza assoluta dei suoi componenti e che le deliberazioni vengono assunte con il voto favorevole della
 
@@ -1413,9 +1031,7 @@ maggioranza dei consiglieri presenti, fermo restando che lo statuto può prevede
 
 4) che le deliberazioni riguardanti persone devono essere adottate a scrutinio segreto qualora ciò sia richiesto, nel rispetto delle procedure da stabilirsi nello statuto.
 
-2.
-
-Le riunioni del Consiglio di Amministrazione possono tenersi anche da remoto, in teleconferenza audio e video, qualora tale modalità non sia espressamente vietata dallo statuto sociale ed anche in caso il Presidente del Consiglio di Amministrazione non sia presente in territorio della Repubblica di San Marino e in ogni caso nei limiti e secondo le rispettive seguenti prescrizioni:
+2\. Le riunioni del Consiglio di Amministrazione possono tenersi anche da remoto, in teleconferenza audio e video, qualora tale modalità non sia espressamente vietata dallo statuto sociale ed anche in caso il Presidente del Consiglio di Amministrazione non sia presente in territorio della Repubblica di San Marino e in ogni caso nei limiti e secondo le rispettive seguenti prescrizioni:
 
 1) in caso di presenza in territorio del Presidente:
 
@@ -1437,109 +1053,67 @@ b) agli adempimenti di cui alle precedenti lettere b) e c) del superiore punto 1
 
 (Durata dell'incarico di amministratore)
 
-1.
+1\. Nelle società di capitali, e salvo lo statuto sociale disponga diversamente prevedendo nomina a tempo determinato non superiore a tre anni, l’incarico di amministratore è conferito a tempo indeterminato; trascorso il primo triennio gli amministratori possono essere sostituiti, anche senza giusta causa, di anno in anno nell’ambito dell’annuale assemblea di approvazione del bilancio.
 
-Nelle società di capitali, e salvo lo statuto sociale disponga diversamente prevedendo nomina a tempo determinato non superiore a tre anni, l’incarico di amministratore è conferito a tempo indeterminato; trascorso il primo triennio gli amministratori possono essere sostituiti, anche senza giusta causa, di anno in anno nell’ambito dell’annuale assemblea di approvazione del bilancio.
+2\. Gli amministratori possono, in ogni momento, essere revocati dall’assemblea salvo il diritto dell'amministratore al risarcimento dei danni se la revoca avviene senza giusta causa.
 
-2.
+3\. Gli amministratori possono rinunciare al loro ufficio dandone comunicazione scritta agli altri amministratori, o, in difetto, all’organo sindacale, se nominato, o ai soci.
 
-Gli amministratori possono, in ogni momento, essere revocati dall’assemblea salvo il diritto dell'amministratore al risarcimento dei danni se la revoca avviene senza giusta causa.
+4\. Qualora l'amministratore dimissionario sia membro del consiglio di amministrazione la sua rinuncia può avere effetto immediato se la maggioranza del consiglio rimane in carica.
 
-3.
+5\. Se nel corso dell'esercizio viene a mancare la maggioranza degli amministratori, quelli rimasti in carica devono immediatamente convocare l'assemblea perché provveda alla sostituzione dei mancanti.
 
-Gli amministratori possono rinunciare al loro ufficio dandone comunicazione scritta agli altri amministratori, o, in difetto, all’organo sindacale, se nominato, o ai soci.
+6\. Se vengono a mancare l'amministratore unico o tutti gli amministratori, l'assemblea per la nomina dell'amministratore o dell'intero consiglio deve essere convocata d'urgenza dal collegio sindacale o dal sindaco unico, ove sia stato nominato, oppure può essere convocata da ciascun socio.
 
-4.
+7\. La nomina di nuovi amministratori è comunque limitata alla data di scadenza del consiglio da reintegrare.
 
-Qualora l'amministratore dimissionario sia membro del consiglio di amministrazione la sua rinuncia può avere effetto immediato se la maggioranza del consiglio rimane in carica.
-
-5.
-
-Se nel corso dell'esercizio viene a mancare la maggioranza degli amministratori, quelli rimasti in carica devono immediatamente convocare l'assemblea perché provveda alla sostituzione dei mancanti.
-
-6.
-
-Se vengono a mancare l'amministratore unico o tutti gli amministratori, l'assemblea per la nomina dell'amministratore o dell'intero consiglio deve essere convocata d'urgenza dal collegio sindacale o dal sindaco unico, ove sia stato nominato, oppure può essere convocata da ciascun socio.
-
-7.
-
-La nomina di nuovi amministratori è comunque limitata alla data di scadenza del consiglio da reintegrare.
-
-8.
-
-La cessazione degli amministratori per scadenza del termine dell'incarico ha effetto dal momento in cui l'organo di amministrazione è stato ricostituito.
+8\. La cessazione degli amministratori per scadenza del termine dell'incarico ha effetto dal momento in cui l'organo di amministrazione è stato ricostituito.
 
 ###### Art.52
 
 (Potere di rappresentanza)
 
-1.
+1\. Il potere di rappresentanza, attraverso il quale la società acquista diritti, assume obbligazioni e sta in giudizio, compete agli amministratori nei limiti fissati dallo statuto.
 
-Il potere di rappresentanza, attraverso il quale la società acquista diritti, assume obbligazioni e sta in giudizio, compete agli amministratori nei limiti fissati dallo statuto.
+2\. Nelle società amministrate da un consiglio di amministrazione il potere di rappresentanza compete, salva diversa disposizione dello statuto, al presidente.
 
-2.
-
-Nelle società amministrate da un consiglio di amministrazione il potere di rappresentanza compete, salva diversa disposizione dello statuto, al presidente.
-
-3.
-
-Il potere di rappresentanza spetta altresì agli amministratori delegati o al Presidente del Comitato esecutivo eventualmente nominati, nei limiti della delega agli stessi conferita.
+3\. Il potere di rappresentanza spetta altresì agli amministratori delegati o al Presidente del Comitato esecutivo eventualmente nominati, nei limiti della delega agli stessi conferita.
 
 ###### Art.53
 
 (Estensione dei poteri di rappresentanza)
 
-1.
+1\. Gli amministratori che hanno la rappresentanza delle società possono compiere tutti gli atti che rientrano nell'oggetto sociale salvo le limitazioni che risultino dalla legge o dallo statuto.
 
-Gli amministratori che hanno la rappresentanza delle società possono compiere tutti gli atti che rientrano nell'oggetto sociale salvo le limitazioni che risultino dalla legge o dallo statuto.
-
-2.
-
-L'inosservanza dei limiti derivanti dall'oggetto sociale o dallo statuto non può essere opposta ai terzi in buona fede.
+2\. L'inosservanza dei limiti derivanti dall'oggetto sociale o dallo statuto non può essere opposta ai terzi in buona fede.
 
 ###### Art.54
 
 (Divieto di concorrenza e conflitto d’interessi)
 
-1.
+1\. Gli amministratori non possono assumere la qualità di soci illimitatamente responsabili in società concorrenti né esercitare un'attività concorrente per conto proprio o di terzi, salvo autorizzazione dell'assemblea.
 
-Gli amministratori non possono assumere la qualità di soci illimitatamente responsabili in società concorrenti né esercitare un'attività concorrente per conto proprio o di terzi, salvo autorizzazione dell'assemblea.
+2\. L'amministratore deve dare notizia agli altri amministratori ed ai sindaci di ogni interesse che, per conto proprio o di terzi, abbia in una determinata operazione della società, precisandone la natura, i termini, l'origine e la portata; se si tratta di amministratore delegato, deve altresì astenersi dal compiere l'operazione investendo della stessa il consiglio di amministrazione; se si tratta di amministratore unico, deve darne notizia alla prima assemblea utile.
 
-2.
+3\. Nei casi previsti dal precedente comma la deliberazione del consiglio di amministrazione deve adeguatamente motivare le ragioni e la convenienza per la società dell'operazione.
 
-L'amministratore deve dare notizia agli altri amministratori ed ai sindaci di ogni interesse che, per conto proprio o di terzi, abbia in una determinata operazione della società, precisandone la natura, i termini, l'origine e la portata; se si tratta di amministratore delegato, deve altresì astenersi dal compiere l'operazione investendo della stessa il consiglio di amministrazione; se si tratta di amministratore unico, deve darne notizia alla prima assemblea utile.
+4\. Le deliberazioni assunte con il voto determinante dell’amministratore in conflitto di interessi che possano recare danno alla società, possono essere impugnate dagli amministratori assenti o dissenzienti e dai sindaci entro dieci giorni dalla data della delibera. In ogni caso, sono salvi i diritti acquisiti in buona fede dai terzi in base ad atti compiuti in esecuzione della deliberazione.
 
-3.
-
-Nei casi previsti dal precedente comma la deliberazione del consiglio di amministrazione deve adeguatamente motivare le ragioni e la convenienza per la società dell'operazione.
-
-4.
-
-Le deliberazioni assunte con il voto determinante dell’amministratore in conflitto di interessi che possano recare danno alla società, possono essere impugnate dagli amministratori assenti o dissenzienti e dai sindaci entro dieci giorni dalla data della delibera. In ogni caso, sono salvi i diritti acquisiti in buona fede dai terzi in base ad atti compiuti in esecuzione della deliberazione.
-
-5.
-
-I contratti conclusi dagli amministratori che hanno la rappresentanza della società in conflitto di interessi, per conto proprio o di terzi, con la medesima possono essere annullati su domanda della società, se il conflitto era conosciuto o riconoscibile dal terzo.
+5\. I contratti conclusi dagli amministratori che hanno la rappresentanza della società in conflitto di interessi, per conto proprio o di terzi, con la medesima possono essere annullati su domanda della società, se il conflitto era conosciuto o riconoscibile dal terzo.
 
 ###### Art.55
 
 (Impugnazione delle delibere del consiglio di amministrazione)
 
-1.
-
-L’amministratore assente o dissenziente, il collegio sindacale o il sindaco unico, possono impugnare le deliberazioni del consiglio di amministrazione che non sono prese in conformità della legge; si applica in quanto compatibile l’articolo 45.
+1\. L’amministratore assente o dissenziente, il collegio sindacale o il sindaco unico, possono impugnare le deliberazioni del consiglio di amministrazione che non sono prese in conformità della legge; si applica in quanto compatibile l’articolo 45.
 
 ###### Art.56
 
 (Responsabilità degli amministratori)
 
-1.
+1\. Gli amministratori devono adempiere agli obblighi ad essi imposti dalla legge, dall’atto costitutivo e dallo statuto e sono responsabili in solido della gestione sociale giusta le regole del mandato, salvo il disposto dell'articolo seguente e senza pregiudizio delle sanzioni penali.
 
-Gli amministratori devono adempiere agli obblighi ad essi imposti dalla legge, dall’atto costitutivo e dallo statuto e sono responsabili in solido della gestione sociale giusta le regole del mandato, salvo il disposto dell'articolo seguente e senza pregiudizio delle sanzioni penali.
-
-2.
-
-In particolare rispondono:
+2\. In particolare rispondono:
 
 1) della regolare tenuta dei libri sociali e contabili;
 
@@ -1553,49 +1127,29 @@ In particolare rispondono:
 
 6) dei danni che siano derivati alla società dalla utilizzazione a vantaggio proprio o di terzi di dati, notizie o opportunità di affari appresi nell'esercizio del loro incarico.
 
-3.
+3\. Uguale responsabilità incombe ai dirigenti della società nell'ambito delle loro attribuzioni.
 
-Uguale responsabilità incombe ai dirigenti della società nell'ambito delle loro attribuzioni.
+4\. Gli amministratori rispondono verso i creditori sociali per l’inosservanza degli obblighi inerenti alla conservazione dell’integrità del patrimonio sociale. L’azione di responsabilità dei creditori può essere esercitata quando il patrimonio sociale risulta insufficiente al soddisfacimento dei loro crediti.
 
-4.
+5\. Gli amministratori sono pure responsabili personalmente verso i soci e verso i terzi che siano stati danneggiati da atti colposi o dolosi da loro compiuti.
 
-Gli amministratori rispondono verso i creditori sociali per l’inosservanza degli obblighi inerenti alla conservazione dell’integrità del patrimonio sociale. L’azione di responsabilità dei creditori può essere esercitata quando il patrimonio sociale risulta insufficiente al soddisfacimento dei loro crediti.
+6\. L'azione sociale di responsabilità contro gli amministratori è promossa con deliberazione dell'assemblea, e tale deliberazione può essere assunta in occasione della discussione del bilancio, anche se non è indicata nell’elenco delle materie da trattare.
 
-5.
+7\. La deliberazione dell’azione di responsabilità importa la revoca dall’ufficio degli amministratori contro cui è proposta, purché sia presa con il voto favorevole di almeno un quinto del capitale sociale, e in questo caso l’assemblea provvede alla loro sostituzione.
 
-Gli amministratori sono pure responsabili personalmente verso i soci e verso i terzi che siano stati danneggiati da atti colposi o dolosi da loro compiuti.
+8\. La società può rinunziare all’esercizio dell’azione di responsabilità e può transigere, purché la rinunzia e la transazione siano approvate con espressa deliberazione dell’assemblea, e purché non vi sia il voto contrario di tanti soci che rappresentino almeno un quinto del capitale sociale. La rinunzia non è opponibile ai creditori sociali, mentre la transazione può essere impugnata da questi solo se ricorrono gli estremi dell’actio pauliana.
 
-6.
-
-L'azione sociale di responsabilità contro gli amministratori è promossa con deliberazione dell'assemblea, e tale deliberazione può essere assunta in occasione della discussione del bilancio, anche se non è indicata nell’elenco delle materie da trattare.
-
-7.
-
-La deliberazione dell’azione di responsabilità importa la revoca dall’ufficio degli amministratori contro cui è proposta, purché sia presa con il voto favorevole di almeno un quinto del capitale sociale, e in questo caso l’assemblea provvede alla loro sostituzione.
-
-8.
-
-La società può rinunziare all’esercizio dell’azione di responsabilità e può transigere, purché la rinunzia e la transazione siano approvate con espressa deliberazione dell’assemblea, e purché non vi sia il voto contrario di tanti soci che rappresentino almeno un quinto del capitale sociale. La rinunzia non è opponibile ai creditori sociali, mentre la transazione può essere impugnata da questi solo se ricorrono gli estremi dell’actio pauliana.
-
-9.
-
-Gli amministratori, i sindaci, i revisori, i liquidatori ed i dirigenti sottoposti a procedimento penale per fatti inerenti la carica o per altri fatti di grave rilevanza penale possono essere sospesi dalle loro funzioni con provvedimento dello stesso organo o ufficio competente all'assegnazione dell'incarico. La condanna per i fatti di cui al presente comma comporta la decadenza definitiva dalla carica e l'incapacità ad assumere le funzioni di amministratore, liquidatore, sindaco, revisore o dirigente di società per il tempo che sarà fissato dalla sentenza.
+9\. Gli amministratori, i sindaci, i revisori, i liquidatori ed i dirigenti sottoposti a procedimento penale per fatti inerenti la carica o per altri fatti di grave rilevanza penale possono essere sospesi dalle loro funzioni con provvedimento dello stesso organo o ufficio competente all'assegnazione dell'incarico. La condanna per i fatti di cui al presente comma comporta la decadenza definitiva dalla carica e l'incapacità ad assumere le funzioni di amministratore, liquidatore, sindaco, revisore o dirigente di società per il tempo che sarà fissato dalla sentenza.
 
 ###### Art.57
 
 (Limiti della responsabilità degli amministratori)
 
-1.
+1\. La responsabilità degli amministratori riguarda le azioni od omissioni da loro compiute, dal giorno in cui hanno assunto l’incarico a quello in cui sono sostituiti da altri amministratori o dai liquidatori.
 
-La responsabilità degli amministratori riguarda le azioni od omissioni da loro compiute, dal giorno in cui hanno assunto l’incarico a quello in cui sono sostituiti da altri amministratori o dai liquidatori.
+2\. Non è responsabile delle deliberazioni collegiali l'amministratore che, essendo immune da colpa, non abbia partecipato alla deliberazione o abbia fatto annotare a verbale senza ritardo il suo motivato dissenso in ordine alle decisioni risultanti dal verbale.
 
-2.
-
-Non è responsabile delle deliberazioni collegiali l'amministratore che, essendo immune da colpa, non abbia partecipato alla deliberazione o abbia fatto annotare a verbale senza ritardo il suo motivato dissenso in ordine alle decisioni risultanti dal verbale.
-
-3.
-
-Gli amministratori non sono responsabili verso la società dei danni derivanti dal mancato adempimento dei doveri imposti per delega scritta agli amministratori delegati ed al comitato esecutivo.
+3\. Gli amministratori non sono responsabili verso la società dei danni derivanti dal mancato adempimento dei doveri imposti per delega scritta agli amministratori delegati ed al comitato esecutivo.
 
 ##### CAPO III
 
@@ -1605,67 +1159,43 @@ DEI SINDACI
 
 (Nomina, cessazione e decadenza)
 
-1.
-
-La nomina del sindaco unico è obbligatoria: − [nelle società anonime;] − nelle società per azioni; − nelle società di cui all’articolo 2, comma 5; − nelle società a responsabilità limitata quando:
+1\. La nomina del sindaco unico è obbligatoria: − [nelle società anonime;] − nelle società per azioni; − nelle società di cui all’articolo 2, comma 5; − nelle società a responsabilità limitata quando:
 
 a) il capitale sociale è pari o superiore a €77.000,00 (settantasettemila euro), oppure
 
 b) per due esercizi consecutivi, i ricavi delle vendite e delle prestazioni hanno superato il valore di €2.000.000 (duemilioni di euro).
 
-2.
+2\. Nelle società menzionate nel comma 1, la nomina del collegio sindacale è obbligatoria qualora i ricavi delle vendite e delle prestazioni delle società di cui al comma 1, per due esercizi consecutivi abbiano superato il valore di €7.300.000,00 (settemilionitrecentomila euro).
 
-Nelle società menzionate nel comma 1, la nomina del collegio sindacale è obbligatoria qualora i ricavi delle vendite e delle prestazioni delle società di cui al comma 1, per due esercizi consecutivi abbiano superato il valore di €7.300.000,00 (settemilionitrecentomila euro).
-
-3.
-
-Qualora per due esercizi consecutivi l’ammontare dei ricavi delle vendite e delle prestazioni sia inferiore alle soglie indicate nei commi che precedono, la nomina dell’organo di controllo, se precedentemente divenuta obbligatoria, cessa di esserlo.
+3\. Qualora per due esercizi consecutivi l’ammontare dei ricavi delle vendite e delle prestazioni sia inferiore alle soglie indicate nei commi che precedono, la nomina dell’organo di controllo, se precedentemente divenuta obbligatoria, cessa di esserlo.
 
 In tal caso i sindaci decadono ex lege con l’approvazione del bilancio relativo all’esercizio nel quale è venuto meno il presupposto della obbligatorietà; l’assemblea è tenuta a prendere atto della decadenza.
 
-4.
+4\. I sindaci sono nominati per la prima volta nell’atto costitutivo e successivamente dall’assemblea, fatto salvo quanto previsto in materia da leggi speciali.
 
-I sindaci sono nominati per la prima volta nell’atto costitutivo e successivamente dall’assemblea, fatto salvo quanto previsto in materia da leggi speciali.
+5\. I sindaci restano in carica per tre esercizi e scadono alla data dell’assemblea convocata per l’approvazione del bilancio relativo al terzo esercizio della carica.
 
-5.
+6\. La cessazione dei sindaci per scadenza del termine, rinuncia all’incarico, decadenza, ha effetto dal momento in cui essi sono stati sostituiti dall’assemblea.
 
-I sindaci restano in carica per tre esercizi e scadono alla data dell’assemblea convocata per l’approvazione del bilancio relativo al terzo esercizio della carica.
+7\. L’incarico di sindaco è rinnovabile per non più di due mandati triennali, è liberamente rinunciabile ed è revocabile solo per giusta causa.
 
-6.
+8\. La deliberazione di revoca deve essere approvata con decreto del Commissario della Legge sentito l’interessato.
 
-La cessazione dei sindaci per scadenza del termine, rinuncia all’incarico, decadenza, ha effetto dal momento in cui essi sono stati sostituiti dall’assemblea.
-
-7.
-
-L’incarico di sindaco è rinnovabile per non più di due mandati triennali, è liberamente rinunciabile ed è revocabile solo per giusta causa.
-
-8.
-
-La deliberazione di revoca deve essere approvata con decreto del Commissario della Legge sentito l’interessato.
-
-9.
-
-Decade dall’ufficio il sindaco che, senza giustificato motivo, non partecipa durante un esercizio sociale ad una assemblea oppure a due riunioni del collegio sindacale o del consiglio di amministrazione o del comitato esecutivo.
+9\. Decade dall’ufficio il sindaco che, senza giustificato motivo, non partecipa durante un esercizio sociale ad una assemblea oppure a due riunioni del collegio sindacale o del consiglio di amministrazione o del comitato esecutivo.
 
 ###### Art.59
 
 (Sostituzione)
 
-1.
+1\. In caso di morte, di rinuncia o di decadenza di uno o più sindaci l’assemblea dei soci deve provvedere alla sostituzione, non oltre trenta giorni da quando la Società ne è venuta a conoscenza. Trascorso il predetto termine la sostituzione verrà disposta dal Commissario della Legge su richiesta di uno o più sindaci o da ciascun socio.
 
-In caso di morte, di rinuncia o di decadenza di uno o più sindaci l’assemblea dei soci deve provvedere alla sostituzione, non oltre trenta giorni da quando la Società ne è venuta a conoscenza. Trascorso il predetto termine la sostituzione verrà disposta dal Commissario della Legge su richiesta di uno o più sindaci o da ciascun socio.
-
-2.
-
-I nuovi nominati scadono insieme con quelli in carica.
+2\. I nuovi nominati scadono insieme con quelli in carica.
 
 ###### Art.60
 
 (Cause di ineleggibilità e decadenza)
 
-1.
-
-Non possono essere eletti alla carica di sindaci e, se eletti, decadono dall’ufficio coloro che:
+1\. Non possono essere eletti alla carica di sindaci e, se eletti, decadono dall’ufficio coloro che:
 
 \- siano Soggetti Inidonei;
 
@@ -1681,67 +1211,43 @@ Non possono essere eletti alla carica di sindaci e, se eletti, decadono dall’u
 
 \- siano amministratori in società partecipanti o partecipate.
 
-2.
-
-Lo statuto può prevedere cause di incompatibilità, limiti e criteri per il cumulo degli incarichi.
+2\. Lo statuto può prevedere cause di incompatibilità, limiti e criteri per il cumulo degli incarichi.
 
 ###### Art.61
 
 (Composizione del collegio sindacale e requisiti del sindaco unico)
 
-1.
+1\. Il collegio sindacale, quando la sua costituzione è obbligatoria, si compone di tre o cinque membri.
 
-Il collegio sindacale, quando la sua costituzione è obbligatoria, si compone di tre o cinque membri.
+2\. Almeno due membri devono risultare iscritti nel Registro dei Revisori Contabili.
 
-2.
-
-Almeno due membri devono risultare iscritti nel Registro dei Revisori Contabili.
-
-3.
-
-I restanti membri, se non iscritti a tale registro, devono risultare iscritti all’Ordine dei Dottori Commercialisti, al Collegio dei Ragionieri Commercialisti o all’Ordine degli Avvocati e Notai. Si considera equivalente l’iscrizione ad ordini e collegi stranieri ovvero l’abilitazione all’esercizio di tali libere professioni ottenuta
+3\. I restanti membri, se non iscritti a tale registro, devono risultare iscritti all’Ordine dei Dottori Commercialisti, al Collegio dei Ragionieri Commercialisti o all’Ordine degli Avvocati e Notai. Si considera equivalente l’iscrizione ad ordini e collegi stranieri ovvero l’abilitazione all’esercizio di tali libere professioni ottenuta
 
 all’estero: a tal fine, i certificati e le attestazioni straniere saranno considerate equivalenti a quelle sammarinesi qualora da esse emerga la sussistenza dei requisiti stabiliti.
 
-4.
+4\. La maggioranza dei membri del collegio sindacale deve avere la residenza nella Repubblica.
 
-La maggioranza dei membri del collegio sindacale deve avere la residenza nella Repubblica.
+5\. Il presidente del collegio sindacale è nominato dall’assemblea.
 
-5.
-
-Il presidente del collegio sindacale è nominato dall’assemblea.
-
-6.
-
-Il sindaco unico, quando la sua nomina è obbligatoria, deve avere la residenza nella Repubblica e risultare iscritto nel Registro dei Revisori Contabili.
+6\. Il sindaco unico, quando la sua nomina è obbligatoria, deve avere la residenza nella Repubblica e risultare iscritto nel Registro dei Revisori Contabili.
 
 ###### Art.62
 
 (Riunioni del collegio sindacale)
 
-1.
+1\. Il collegio sindacale deve riunirsi almeno ogni trimestre.
 
-Il collegio sindacale deve riunirsi almeno ogni trimestre.
+2\. Delle riunioni del collegio sindacale deve redigersi verbale che viene trascritto nel libro previsto dall’articolo 72, comma 4, punto 6), e deve essere sottoscritto da tutti gli intervenuti.
 
-2.
+3\. Il collegio è regolarmente costituito con la maggioranza dei membri e delibera a maggioranza dei presenti.
 
-Delle riunioni del collegio sindacale deve redigersi verbale che viene trascritto nel libro previsto dall’articolo 72, comma 4, punto 6), e deve essere sottoscritto da tutti gli intervenuti.
-
-3.
-
-Il collegio è regolarmente costituito con la maggioranza dei membri e delibera a maggioranza dei presenti.
-
-4.
-
-Il sindaco ha il diritto di far annotare a verbale il proprio dissenso.
+4\. Il sindaco ha il diritto di far annotare a verbale il proprio dissenso.
 
 ###### Art.63
 
 (Doveri e poteri del collegio sindacale o del sindaco unico)
 
-1.
-
-Il sindaco unico, o il collegio sindacale, deve
+1\. Il sindaco unico, o il collegio sindacale, deve
 
 1) vigilare sull’osservanza della legge, dello statuto e dei principi di corretta amministrazione da parte degli organi sociali;
 
@@ -1759,9 +1265,7 @@ Il sindaco unico, o il collegio sindacale, deve
 
 8) adempiere agli altri obblighi e doveri previsti dalla legge.
 
-2.
-
-Il sindaco può in qualsiasi momento:
+2\. Il sindaco può in qualsiasi momento:
 
 1) procedere ad atti di ispezione e di controllo;
 
@@ -1769,65 +1273,43 @@ Il sindaco può in qualsiasi momento:
 
 3) scambiare informazioni con i corrispondenti organi delle società controllate e collegate in merito ai sistemi di amministrazione e controllo ed all’andamento in generale dell’attività sociale.
 
-3.
-
-In presenza di collegio sindacale, i poteri di cui al comma 2 sono esercitabili dal singolo sindaco senza necessità di alcuna delega da parte del collegio sindacale
+3\. In presenza di collegio sindacale, i poteri di cui al comma 2 sono esercitabili dal singolo sindaco senza necessità di alcuna delega da parte del collegio sindacale
 
 stesso. Le decisioni inerenti alle iniziative da intraprendere a seguito dell’esercizio di questi poteri spettano al collegio sindacale.
 
-4.
-
-Gli accertamenti, indagini, atti di controllo ed ispezione, decisioni o deliberazioni del sindaco unico, dei membri del collegio sindacale o del collegio sindacale stesso, devono risultare dal libro previsto dall’articolo 72, comma 4, punto 6).
+4\. Gli accertamenti, indagini, atti di controllo ed ispezione, decisioni o deliberazioni del sindaco unico, dei membri del collegio sindacale o del collegio sindacale stesso, devono risultare dal libro previsto dall’articolo 72, comma 4, punto 6).
 
 ###### Art.64
 
 (Responsabilità)
 
-1.
+1\. I sindaci devono adempiere i loro doveri con la professionalità e la diligenza richiesta dalla natura dell’incarico, sono responsabili della verità delle loro attestazioni e devono conservare il segreto sui fatti e documenti di cui hanno conoscenza in ragione del loro ufficio.
 
-I sindaci devono adempiere i loro doveri con la professionalità e la diligenza richiesta dalla natura dell’incarico, sono responsabili della verità delle loro attestazioni e devono conservare il segreto sui fatti e documenti di cui hanno conoscenza in ragione del loro ufficio.
+2\. I sindaci rispondono verso la società, i soci ed i terzi, solidalmente con gli amministratori, per fatti od omissioni di questi ultimi quando il danno non si sarebbe prodotto se essi avessero vigilato in conformità degli obblighi inerenti alla loro carica, dovendo in ogni caso essere specificamente provata la loro condotta concorrente e omissiva non essendo di alcun rilievo la prova data unicamente dell’illecito degli amministratori.”.
 
-2.
-
-I sindaci rispondono verso la società, i soci ed i terzi, solidalmente con gli amministratori, per fatti od omissioni di questi ultimi quando il danno non si sarebbe prodotto se essi avessero vigilato in conformità degli obblighi inerenti alla loro carica, dovendo in ogni caso essere specificamente provata la loro condotta concorrente e omissiva non essendo di alcun rilievo la prova data unicamente dell’illecito degli amministratori.”.
-
-3.
-
-L’azione sociale di responsabilità è promossa con delibera assembleare. Si applicano, in quanto compatibili, le disposizioni di cui all’articolo 56.
+3\. L’azione sociale di responsabilità è promossa con delibera assembleare. Si applicano, in quanto compatibili, le disposizioni di cui all’articolo 56.
 
 ###### Art.65
 
 (Segnalazione ai sindaci)
 
-1.
-
-Ogni socio può segnalare i fatti che ritiene censurabili al collegio sindacale o al sindaco unico, il quale, se la denuncia è fatta da tanti soci che rappresentano un quinto del capitale sociale, deve indagare senza ritardo sui fatti segnalati e presentare le sue conclusioni ed eventuali proposte all'assemblea, convocando immediatamente la medesima se la denuncia appare fondata, e, qualora ve ne siano i requisiti, proporre la denuncia al Tribunale ai sensi dell’articolo 66.
+1\. Ogni socio può segnalare i fatti che ritiene censurabili al collegio sindacale o al sindaco unico, il quale, se la denuncia è fatta da tanti soci che rappresentano un quinto del capitale sociale, deve indagare senza ritardo sui fatti segnalati e presentare le sue conclusioni ed eventuali proposte all'assemblea, convocando immediatamente la medesima se la denuncia appare fondata, e, qualora ve ne siano i requisiti, proporre la denuncia al Tribunale ai sensi dell’articolo 66.
 
 ###### Art.66
 
 (Denuncia al Tribunale)
 
-1.
+1\. Se vi è fondato sospetto che gli amministratori abbiano compiuto gravi irregolarità nella gestione che possono arrecare danno alla società, il sindaco unico o il collegio sindacale ovvero tanti soci che rappresentino un quinto del capitale sociale possono denunciare tali gravi irregolarità al Commissario della Legge.
 
-Se vi è fondato sospetto che gli amministratori abbiano compiuto gravi irregolarità nella gestione che possono arrecare danno alla società, il sindaco unico o il collegio sindacale ovvero tanti soci che rappresentino un quinto del capitale sociale possono denunciare tali gravi irregolarità al Commissario della Legge.
+2\. Il Commissario della Legge, sentiti gli amministratori, il sindaco unico o i membri del collegio sindacale, ovvero i soci denunzianti, assunta ogni opportuna informazione ed espletate le indagini sommarie del caso, può ordinare una inchiesta a spese della società, avvalendosi anche di periti nominati d’ufficio; può altresì imporre ai soci denunzianti il deposito di una cauzione per le spese e l’eventuale risarcimento dei danni.
 
-2.
-
-Il Commissario della Legge, sentiti gli amministratori, il sindaco unico o i membri del collegio sindacale, ovvero i soci denunzianti, assunta ogni opportuna informazione ed espletate le indagini sommarie del caso, può ordinare una inchiesta a spese della società, avvalendosi anche di periti nominati d’ufficio; può altresì imporre ai soci denunzianti il deposito di una cauzione per le spese e l’eventuale risarcimento dei danni.
-
-3.
-
-Se le irregolarità denunciate sussistono, il Commissario della Legge, a seconda delle circostanze emergenti, potrà disporre i provvedimenti d’urgenza che appaiono più idonei a limitare gli effetti di tali irregolarità, ed emanare ogni disposizione occorrente eliminare l’irregolarità e, qualora necessario, per assicurare la continuità della gestione sociale. A tal fine, potrà convocare l’assemblea per le deliberazioni
+3\. Se le irregolarità denunciate sussistono, il Commissario della Legge, a seconda delle circostanze emergenti, potrà disporre i provvedimenti d’urgenza che appaiono più idonei a limitare gli effetti di tali irregolarità, ed emanare ogni disposizione occorrente eliminare l’irregolarità e, qualora necessario, per assicurare la continuità della gestione sociale. A tal fine, potrà convocare l’assemblea per le deliberazioni
 
 conseguenti, e nominare un amministratore giudiziario, previa revoca degli amministratori in carica.
 
-4.
+4\. L'amministratore giudiziario è incaricato dell’ordinaria amministrazione; eventuali atti eccedenti l’ordinaria amministrazione necessari per prevenire irreparabili pregiudizi alla società, devono essere autorizzati dal Commissario della Legge; può proporre l'azione sociale di responsabilità contro gli amministratori ed i sindaci, e, qualora la società versi in situazione di insolvenza, presentare istanze per l’apertura di procedure concorsuali anche in assenza di deliberazione assembleare.
 
-L'amministratore giudiziario è incaricato dell’ordinaria amministrazione; eventuali atti eccedenti l’ordinaria amministrazione necessari per prevenire irreparabili pregiudizi alla società, devono essere autorizzati dal Commissario della Legge; può proporre l'azione sociale di responsabilità contro gli amministratori ed i sindaci, e, qualora la società versi in situazione di insolvenza, presentare istanze per l’apertura di procedure concorsuali anche in assenza di deliberazione assembleare.
-
-5.
-
-Prima della scadenza del suo incarico l'amministratore giudiziario convoca e presiede l'assemblea per la nomina dei nuovi amministratori e sindaci o per proporre, se sussistente una causa di scioglimento, la liquidazione della società.
+5\. Prima della scadenza del suo incarico l'amministratore giudiziario convoca e presiede l'assemblea per la nomina dei nuovi amministratori e sindaci o per proporre, se sussistente una causa di scioglimento, la liquidazione della società.
 
 L’amministratore giudiziario deposita in Tribunale, assieme all’avviso di convocazione, il rendiconto della gestione.
 
@@ -1839,21 +1321,15 @@ DEI REVISORI
 
 (Il controllo contabile)
 
-1.
+1\. L’assemblea nelle società che hanno l’obbligo dell’organo sindacale può nominare un soggetto esterno iscritto nel Registro dei Revisori Contabili istituito presso la Segreteria di Stato per l’Industria, il quale esercita il controllo contabile sulla società. In tal caso, all’organo sindacale non spetta il controllo contabile.
 
-L’assemblea nelle società che hanno l’obbligo dell’organo sindacale può nominare un soggetto esterno iscritto nel Registro dei Revisori Contabili istituito presso la Segreteria di Stato per l’Industria, il quale esercita il controllo contabile sulla società. In tal caso, all’organo sindacale non spetta il controllo contabile.
-
-2.
-
-Nelle società per le quali è obbligatoria, ai sensi di legge speciale, la nomina di una società di revisione, questa deve essere iscritta nel registro di cui al precedente comma.
+2\. Nelle società per le quali è obbligatoria, ai sensi di legge speciale, la nomina di una società di revisione, questa deve essere iscritta nel registro di cui al precedente comma.
 
 ###### Art.68
 
 (Funzioni di controllo contabile)
 
-1.
-
-Il revisore o la società di revisione incaricata del controllo contabile:
+1\. Il revisore o la società di revisione incaricata del controllo contabile:
 
 1) verifica, nel corso dell’esercizio e con periodicità almeno trimestrale, la regolare tenuta della contabilità sociale e la corretta rilevazione nelle scritture contabili dei fatti di gestione;
 
@@ -1863,65 +1339,43 @@ Il revisore o la società di revisione incaricata del controllo contabile:
 
 4) scambia con il collegio sindacale o il sindaco unico informazioni rilevanti per l’espletamento dei rispettivi compiti.
 
-2.
+2\. Il revisore o la società di revisione incaricata del controllo contabile, può chiedere agli amministratori documenti o notizie utili al controllo e può procedere ad ispezioni; documenta l’attività svolta nell’apposito libro previsto dall’articolo 72, comma 4, punto 7), tenuto presso la sede della società o in luogo diverso se stabilito dallo statuto.
 
-Il revisore o la società di revisione incaricata del controllo contabile, può chiedere agli amministratori documenti o notizie utili al controllo e può procedere ad ispezioni; documenta l’attività svolta nell’apposito libro previsto dall’articolo 72, comma 4, punto 7), tenuto presso la sede della società o in luogo diverso se stabilito dallo statuto.
-
-3.
-
-Quando il controllo contabile è svolto dal sindaco unico o dal collegio sindacale, l’attività di controllo svolta è documentata nel libro previsto dall’articolo 72, comma 4, punto 6), e il giudizio sul bilancio di esercizio è espresso nella relazione di cui all’articolo 83, comma 2.
+3\. Quando il controllo contabile è svolto dal sindaco unico o dal collegio sindacale, l’attività di controllo svolta è documentata nel libro previsto dall’articolo 72, comma 4, punto 6), e il giudizio sul bilancio di esercizio è espresso nella relazione di cui all’articolo 83, comma 2.
 
 ###### Art.69
 
 (Conferimento e revoca dell’incarico)
 
-1.
+1\. L’incarico del controllo contabile è conferito dall’assemblea.
 
-L’incarico del controllo contabile è conferito dall’assemblea.
+2\. L’incarico ha la durata di tre esercizi, con scadenza alla data dell’assemblea convocata per l’approvazione del bilancio relativo al terzo esercizio dell’incarico.
 
-2.
+3\. L’incarico può essere rinnovato fino ad un massimo di due volte e può essere nuovamente conferito allo stesso revisore o società di revisione solo dopo che per almeno tre esercizi l’incarico sia stato conferito ad un altro revisore o società di revisione.
 
-L’incarico ha la durata di tre esercizi, con scadenza alla data dell’assemblea convocata per l’approvazione del bilancio relativo al terzo esercizio dell’incarico.
+4\. L’incarico può essere revocato solo per giusta causa, sentito il parere del sindaco unico o del collegio sindacale.
 
-3.
-
-L’incarico può essere rinnovato fino ad un massimo di due volte e può essere nuovamente conferito allo stesso revisore o società di revisione solo dopo che per almeno tre esercizi l’incarico sia stato conferito ad un altro revisore o società di revisione.
-
-4.
-
-L’incarico può essere revocato solo per giusta causa, sentito il parere del sindaco unico o del collegio sindacale.
-
-5.
-
-La deliberazione di revoca deve essere approvata con decreto del Commissario della Legge, sentito l’interessato.
+5\. La deliberazione di revoca deve essere approvata con decreto del Commissario della Legge, sentito l’interessato.
 
 ###### Art.70
 
 (Cause di ineleggibilità e decadenza)
 
-1.
-
-Non possono essere incaricati del controllo contabile e, se incaricati, decadono:
+1\. Non possono essere incaricati del controllo contabile e, se incaricati, decadono:
 
 1) i sindaci della società o delle società da questa partecipate o di quelle che partecipano la società stessa, oppure
 
 2) coloro che si trovano nelle condizioni di ineleggibilità previste dall’articolo 60.
 
-2.
-
-Nel caso di società di revisione, le disposizioni del presente articolo si applicano con riferimento agli amministratori ed ai soggetti incaricati della revisione.
+2\. Nel caso di società di revisione, le disposizioni del presente articolo si applicano con riferimento agli amministratori ed ai soggetti incaricati della revisione.
 
 ###### Art.71
 
 (Responsabilità)
 
-1.
+1\. I soggetti incaricati del controllo contabile sono sottoposti alle disposizioni dell’articolo 64 e sono responsabili nei confronti della società, dei soci e dei terzi per i danni derivanti dall’inadempimento ai loro doveri.
 
-I soggetti incaricati del controllo contabile sono sottoposti alle disposizioni dell’articolo 64 e sono responsabili nei confronti della società, dei soci e dei terzi per i danni derivanti dall’inadempimento ai loro doveri.
-
-2.
-
-Nel caso delle società di revisione, i soggetti che hanno effettuato il controllo contabile sono responsabili in solido con la società medesima.
+2\. Nel caso delle società di revisione, i soggetti che hanno effettuato il controllo contabile sono responsabili in solido con la società medesima.
 
 #### TITOLO III
 
@@ -1931,25 +1385,17 @@ DELLA DOCUMENTAZIONE SOCIETARIA E DEL BILANCIO
 
 (Libri sociali e scritture contabili obbligatori)
 
-1.
+1\. Le società devono tenere, anche con strumenti informatici, il libro giornale, il libro degli inventari e il libro dei beni ammortizzabili.
 
-Le società devono tenere, anche con strumenti informatici, il libro giornale, il libro degli inventari e il libro dei beni ammortizzabili.
+2\. Devono altresì conservare ordinatamente, per ciascun affare, gli originali della corrispondenza e delle fatture ricevute nonché copia della corrispondenza e delle fatture spedite.
 
-2.
-
-Devono altresì conservare ordinatamente, per ciascun affare, gli originali della corrispondenza e delle fatture ricevute nonché copia della corrispondenza e delle fatture spedite.
-
-3.
-
-I libri ed i documenti indicati nei commi precedenti debbono essere ordinariamente conservati nella sede della società e comunque nella Repubblica di San Marino per cinque anni e debbono essere tenuti in conformità alla Rubrica LXXI del
+3\. I libri ed i documenti indicati nei commi precedenti debbono essere ordinariamente conservati nella sede della società e comunque nella Repubblica di San Marino per cinque anni e debbono essere tenuti in conformità alla Rubrica LXXI del
 
 ### Libro II degli Statuti.
 
 3 bis. Le società hanno l’obbligo di esibire i libri indicati nei commi precedenti alle autorità competenti che ne facciano richiesta, entro 48 ore dalla richiesta.
 
-4.
-
-Le società debbono inoltre tenere:
+4\. Le società debbono inoltre tenere:
 
 1) il libro dei soci, nel quale debbono essere indicati il numero delle quote o azioni, i dati anagrafici dei titolari delle quote e delle azioni nominative, i trasferimenti ed i vincoli ad esse relativi;
 
@@ -1965,17 +1411,11 @@ Le società debbono inoltre tenere:
 
 7) il libro del controllo contabile dei revisori, solo se il controllo contabile non competa all’organo sindacale.
 
-5.
+5\. I libri indicati nel precedente comma debbono essere ordinariamente conservati nella sede della società e comunque nella Repubblica di San Marino e debbono essere tenuti in conformità alla Rubrica LXXI del Libro II degli Statuti. 5 bis. Le società hanno l’obbligo di esibire i libri di cui sopra alle autorità competenti che ne facciano richiesta, entro 48 ore dalla richiesta.
 
-I libri indicati nel precedente comma debbono essere ordinariamente conservati nella sede della società e comunque nella Repubblica di San Marino e debbono essere tenuti in conformità alla Rubrica LXXI del Libro II degli Statuti. 5 bis. Le società hanno l’obbligo di esibire i libri di cui sopra alle autorità competenti che ne facciano richiesta, entro 48 ore dalla richiesta.
+6\. Prima del loro uso tutti i libri debbono essere vidimati dall'Ufficio del Registro e Conservatoria con l’indicazione, al principio o alla fine del volume, del numero dei fogli di cui risultano composti.
 
-6.
-
-Prima del loro uso tutti i libri debbono essere vidimati dall'Ufficio del Registro e Conservatoria con l’indicazione, al principio o alla fine del volume, del numero dei fogli di cui risultano composti.
-
-7.
-
-Alla società è comminata una sanzione pecuniaria amministrativa da euro
+7\. Alla società è comminata una sanzione pecuniaria amministrativa da euro
 
 2.000,00 (duemila/00) a euro 25.000,00 (venticinquemila/00) nell’ipotesi di una o più violazione degli obblighi di cui ai commi 1, 2 e 3bis, nel qual caso la sanzione è definita e applicata dall’Ufficio Tributario e nell’ipotesi di una o più violazione degli obblighi di cui ai commi 4, 5bis e 6, nel qual caso la sanzione è definita e applicata dall’Ufficio Attività di Controllo. In caso di recidiva alle violazioni amministrative di cui al presente articolo, la sanzione pecuniaria amministrativa è aumentata fino a tre volte tanto nel minimo quanto nel massimo, tenuto conto della gravità dell’infrazione.
 
@@ -1985,25 +1425,17 @@ Alla società è comminata una sanzione pecuniaria amministrativa da euro
 
 (Il bilancio)
 
-1.
-
-Il bilancio è il documento attraverso il quale gli amministratori, per ogni esercizio sociale, rappresentano il quadro della situazione patrimoniale e finanziaria della società e del risultato economico dell'esercizio. 1 bis. Il bilancio è redatto su formato elettronico XBRL secondo la tassonomia prevista che è aggiornata con regolamento.
+1\. Il bilancio è il documento attraverso il quale gli amministratori, per ogni esercizio sociale, rappresentano il quadro della situazione patrimoniale e finanziaria della società e del risultato economico dell'esercizio. 1 bis. Il bilancio è redatto su formato elettronico XBRL secondo la tassonomia prevista che è aggiornata con regolamento.
 
 ###### Art.74
 
 (Redazione del bilancio)
 
-1.
+1\. Il bilancio deve essere redatto con chiarezza dagli amministratori e deve rappresentare in modo veritiero e corretto la situazione patrimoniale e finanziaria della società e il risultato economico dell'esercizio.
 
-Il bilancio deve essere redatto con chiarezza dagli amministratori e deve rappresentare in modo veritiero e corretto la situazione patrimoniale e finanziaria della società e il risultato economico dell'esercizio.
+2\. L'esercizio sociale è di dodici mesi.
 
-2.
-
-L'esercizio sociale è di dodici mesi.
-
-3.
-
-Il bilancio è costituito dai seguenti documenti:
+3\. Il bilancio è costituito dai seguenti documenti:
 
 1) lo stato patrimoniale che indichi le attività, le passività e il patrimonio netto della società;
 
@@ -2011,29 +1443,19 @@ Il bilancio è costituito dai seguenti documenti:
 
 3) la nota integrativa che fornisca tutte le informazioni necessarie a una migliore comprensione delle voci inserite nei precedenti documenti e che contenga notizie sulla gestione.
 
-4.
+4\. I documenti di cui al precedente comma formano un tutto inscindibile.
 
-I documenti di cui al precedente comma formano un tutto inscindibile.
+5\. Se le informazioni richieste da specifiche disposizioni di legge non sono sufficienti a dare una rappresentazione veritiera e corretta, si devono fornire le informazioni complementari necessarie allo scopo.
 
-5.
+6\. Se in casi eccezionali, l'applicazione di una disposizione degli articoli seguenti è incompatibile con la rappresentazione veritiera e corretta, la disposizione non deve essere applicata. La nota integrativa deve motivare la deroga e deve indicarne l’influenza sulla situazione patrimoniale, finanziaria e del risultato economico.
 
-Se le informazioni richieste da specifiche disposizioni di legge non sono sufficienti a dare una rappresentazione veritiera e corretta, si devono fornire le informazioni complementari necessarie allo scopo.
-
-6.
-
-Se in casi eccezionali, l'applicazione di una disposizione degli articoli seguenti è incompatibile con la rappresentazione veritiera e corretta, la disposizione non deve essere applicata. La nota integrativa deve motivare la deroga e deve indicarne l’influenza sulla situazione patrimoniale, finanziaria e del risultato economico.
-
-7.
-
-Il bilancio deve essere redatto in unità di euro, senza cifre decimali, ad eccezione della nota integrativa che può essere redatta in migliaia di euro.
+7\. Il bilancio deve essere redatto in unità di euro, senza cifre decimali, ad eccezione della nota integrativa che può essere redatta in migliaia di euro.
 
 ###### Art.75
 
 (Principi di redazione del bilancio)
 
-1.
-
-Nella redazione del bilancio devono essere osservati i seguenti principi:
+1\. Nella redazione del bilancio devono essere osservati i seguenti principi:
 
 1) la valutazione delle voci deve essere fatta secondo prudenza e nella prospettiva della continuazione dell'attività, nonché tenendo conto della funzione economica dell’elemento dell’attivo o del passivo considerato;
 
@@ -2047,47 +1469,31 @@ Nella redazione del bilancio devono essere osservati i seguenti principi:
 
 6) gli elementi delle singole voci devono essere valutati separatamente.
 
-2.
+2\. Gli amministratori possono derogare ai principi enunciati nel comma precedente in casi eccezionali.
 
-Gli amministratori possono derogare ai principi enunciati nel comma precedente in casi eccezionali.
-
-3.
-
-La nota integrativa deve motivare la deroga e indicarne l'influenza sulla rappresentazione della situazione patrimoniale, finanziaria e sul risultato economico.
+3\. La nota integrativa deve motivare la deroga e indicarne l'influenza sulla rappresentazione della situazione patrimoniale, finanziaria e sul risultato economico.
 
 ###### Art.76
 
 (Struttura dello stato patrimoniale e del conto economico)
 
-1.
+1\. Salve le disposizioni di leggi speciali per le società che esercitano particolari attività, nello stato patrimoniale e nel conto economico devono essere iscritte separatamente e nell’ordine indicato, tutte le voci previste negli articoli 77 e 79.
 
-Salve le disposizioni di leggi speciali per le società che esercitano particolari attività, nello stato patrimoniale e nel conto economico devono essere iscritte separatamente e nell’ordine indicato, tutte le voci previste negli articoli 77 e 79.
-
-2.
-
-Le voci precedute da numeri arabi possono essere ulteriormente suddivise, senza eliminazione della voce complessiva e dell'importo corrispondente, qualora ciò
+2\. Le voci precedute da numeri arabi possono essere ulteriormente suddivise, senza eliminazione della voce complessiva e dell'importo corrispondente, qualora ciò
 
 sia utile o necessario, anche in relazione alla natura dell'attività esercitata, a favorire la chiarezza del bilancio.
 
-3.
+3\. Devono essere aggiunte altre voci qualora il loro contenuto non sia compreso in alcuna di quelle previste dagli articoli 77 e 79.
 
-Devono essere aggiunte altre voci qualora il loro contenuto non sia compreso in alcuna di quelle previste dagli articoli 77 e 79.
+4\. Per ogni voce dello stato patrimoniale e del conto economico deve essere indicato l’importo della voce corrispondente dell’esercizio precedente. Se le voci non sono comparabili, quelle relative all’esercizio precedente devono essere adattate; la non comparabilità e l’adattamento o l’impossibilità di questo devono essere segnalati e commentati nella nota integrativa.
 
-4.
-
-Per ogni voce dello stato patrimoniale e del conto economico deve essere indicato l’importo della voce corrispondente dell’esercizio precedente. Se le voci non sono comparabili, quelle relative all’esercizio precedente devono essere adattate; la non comparabilità e l’adattamento o l’impossibilità di questo devono essere segnalati e commentati nella nota integrativa.
-
-5.
-
-Sono vietati i compensi di partite.
+5\. Sono vietati i compensi di partite.
 
 ###### Art.77
 
 (Contenuto dello stato patrimoniale)
 
-1.
-
-Lo stato patrimoniale deve essere redatto in conformità al seguente schema:
+1\. Lo stato patrimoniale deve essere redatto in conformità al seguente schema:
 
 ATTIVO A) Crediti verso soci per versamenti ancora dovuti.
 
@@ -2279,41 +1685,27 @@ E) Ratei e risconti.
 
 Totale Passivo
 
-2.
-
-In calce allo stato patrimoniale devono risultare le garanzie prestate direttamente o indirettamente, distinguendosi tra fideiussioni, avalli, altre garanzie personali e garanzie reali, ed indicando separatamente, per ciascun tipo, le garanzie prestate nell’interesse di società controllate e collegate, nonché di controllanti e di società sottoposte al controllo di queste ultime; devono inoltre risultare gli altri conti d’ordine.
+2\. In calce allo stato patrimoniale devono risultare le garanzie prestate direttamente o indirettamente, distinguendosi tra fideiussioni, avalli, altre garanzie personali e garanzie reali, ed indicando separatamente, per ciascun tipo, le garanzie prestate nell’interesse di società controllate e collegate, nonché di controllanti e di società sottoposte al controllo di queste ultime; devono inoltre risultare gli altri conti d’ordine.
 
 ###### Art.78
 
 (Disposizioni relative a singole voci dello stato patrimoniale)
 
-1.
+1\. Gli elementi patrimoniali destinati ad essere utilizzati durevolmente devono essere iscritti tra le immobilizzazioni.
 
-Gli elementi patrimoniali destinati ad essere utilizzati durevolmente devono essere iscritti tra le immobilizzazioni.
+2\. Le partecipazioni in altre società controllate o collegate in misura non inferiore a quelle stabilite dall’articolo 1 punti 7) e 8), si presumono immobilizzate.
 
-2.
+3\. Gli accantonamenti per rischi e oneri sono destinati a coprire perdite o debiti di natura determinata, di esistenza certa o probabile, dei quali tuttavia alla chiusura dell'esercizio sono indeterminati o l'ammontare o la data di sopravvenienza.
 
-Le partecipazioni in altre società controllate o collegate in misura non inferiore a quelle stabilite dall’articolo 1 punti 7) e 8), si presumono immobilizzate.
+4\. Nella voce ratei attivi devono essere iscritti i crediti corrispondenti a proventi di competenza dell'esercizio esigibili in esercizi successivi; nella voce ratei passivi devono essere iscritti i debiti corrispondenti a costi di competenza dell'esercizio che saranno sostenuti negli esercizi successivi. Nella voce risconti attivi devono essere iscritti i costi, da intendersi sospesi, che sono stati sostenuti entro la chiusura dell'esercizio ma che competono ad esercizi successivi; nella voce risconti passivi devono essere iscritti i proventi, da intendersi sospesi, che sono stati percepiti entro la chiusura dell'esercizio ma che competono ad esercizi successivi.
 
-3.
-
-Gli accantonamenti per rischi e oneri sono destinati a coprire perdite o debiti di natura determinata, di esistenza certa o probabile, dei quali tuttavia alla chiusura dell'esercizio sono indeterminati o l'ammontare o la data di sopravvenienza.
-
-4.
-
-Nella voce ratei attivi devono essere iscritti i crediti corrispondenti a proventi di competenza dell'esercizio esigibili in esercizi successivi; nella voce ratei passivi devono essere iscritti i debiti corrispondenti a costi di competenza dell'esercizio che saranno sostenuti negli esercizi successivi. Nella voce risconti attivi devono essere iscritti i costi, da intendersi sospesi, che sono stati sostenuti entro la chiusura dell'esercizio ma che competono ad esercizi successivi; nella voce risconti passivi devono essere iscritti i proventi, da intendersi sospesi, che sono stati percepiti entro la chiusura dell'esercizio ma che competono ad esercizi successivi.
-
-5.
-
-Possono riferirsi a tali voci solo quote di costi e di proventi comuni a più esercizi, l'entità dei quali varia in ragione del tempo.
+5\. Possono riferirsi a tali voci solo quote di costi e di proventi comuni a più esercizi, l'entità dei quali varia in ragione del tempo.
 
 ###### Art.79
 
 (Contenuto del conto economico)
 
-1.
-
-Il conto economico deve essere redatto in conformità al seguente schema:
+1\. Il conto economico deve essere redatto in conformità al seguente schema:
 
 A) Valore della produzione:
 
@@ -2419,17 +1811,13 @@ Risultato prima delle imposte (A – B +- C +- D +- E);
 
 (Iscrizione dei ricavi, proventi, costi e oneri).
 
-1.
-
-I ricavi e i proventi, i costi e gli oneri devono essere indicati al netto dei resi, degli sconti, abbuoni e premi, nonché delle imposte direttamente connesse con la vendita dei prodotti e le prestazioni di servizi.
+1\. I ricavi e i proventi, i costi e gli oneri devono essere indicati al netto dei resi, degli sconti, abbuoni e premi, nonché delle imposte direttamente connesse con la vendita dei prodotti e le prestazioni di servizi.
 
 ###### Art.81
 
 (Criteri di valutazione del bilancio)
 
-1.
-
-Nelle valutazioni devono essere osservati i seguenti criteri:
+1\. Nelle valutazioni devono essere osservati i seguenti criteri:
 
 1) le immobilizzazioni sono iscritte al costo di acquisto o di produzione. Nel costo di acquisto si computano anche i costi accessori. Il costo di produzione comprende tutti i costi direttamente imputabili al prodotto;
 
@@ -2449,17 +1837,13 @@ valore così ottenuto differisce in maniera apprezzabile dai costi correnti alla
 
 8) i lavori in corso su ordinazione possono essere iscritti sulla base dei corrispettivi contrattuali maturati con ragionevole certezza.
 
-2.
-
-E’ consentito effettuare rettifiche di valore ed accantonamenti in applicazione di norme tributarie.
+2\. E’ consentito effettuare rettifiche di valore ed accantonamenti in applicazione di norme tributarie.
 
 ###### Art.82
 
 (Contenuto della nota integrativa)
 
-1.
-
-La nota integrativa deve indicare oltre a quanto stabilito da altre disposizioni:
+1\. La nota integrativa deve indicare oltre a quanto stabilito da altre disposizioni:
 
 1) la situazione della società e l’andamento della gestione nel suo complesso;
 
@@ -2507,47 +1891,31 @@ La nota integrativa deve indicare oltre a quanto stabilito da altre disposizioni
 
 (Relazione dei sindaci e deposito del bilancio)
 
-1.
+1\. Il bilancio deve essere trasmesso dagli amministratori al sindaco unico o al collegio sindacale, con la nota integrativa, almeno trenta giorni prima di quello fissato per l'assemblea che deve discuterlo.
 
-Il bilancio deve essere trasmesso dagli amministratori al sindaco unico o al collegio sindacale, con la nota integrativa, almeno trenta giorni prima di quello fissato per l'assemblea che deve discuterlo.
-
-2.
-
-Il sindaco unico o il collegio sindacale deve riferire all'assemblea sui risultati dell'esercizio sociale e sulla attività svolta nell’adempimento dei propri doveri, e fare le osservazioni e le proposte in ordine al bilancio ed alla sua approvazione, con particolare riferimento all’esercizio della deroga di cui all’articolo 75, comma 2.
+2\. Il sindaco unico o il collegio sindacale deve riferire all'assemblea sui risultati dell'esercizio sociale e sulla attività svolta nell’adempimento dei propri doveri, e fare le osservazioni e le proposte in ordine al bilancio ed alla sua approvazione, con particolare riferimento all’esercizio della deroga di cui all’articolo 75, comma 2.
 
 Analoga relazione è predisposta dal revisore o dalla società di revisione, se nominati.
 
-3.
-
-Il bilancio con la nota integrativa e la relazione predisposta dal revisore o dalla società di revisione se nominati, deve rimanere depositato, presso la sede della società, oppure deve essere trasmesso o consegnato ai soci, almeno venti giorni liberi prima dell’assemblea convocata per l’approvazione. I soci possono prenderne visione e hanno diritto di averne copia dagli amministratori.
+3\. Il bilancio con la nota integrativa e la relazione predisposta dal revisore o dalla società di revisione se nominati, deve rimanere depositato, presso la sede della società, oppure deve essere trasmesso o consegnato ai soci, almeno venti giorni liberi prima dell’assemblea convocata per l’approvazione. I soci possono prenderne visione e hanno diritto di averne copia dagli amministratori.
 
 ###### Art.84
 
 (Pubblicazione del bilancio)
 
-1.
+1\. Entro trenta giorni dall'approvazione, che di norma deve avvenire entro cinque mesi dalla chiusura dell'esercizio sociale, una copia autenticata del verbale di approvazione, al quale sono allegati tutti i documenti di cui all'articolo 83, deve essere trasmessa all'Ufficio Attività Economiche in formato elettronico sul portale PA nell'apposita sezione dedicata accompagnata dall'apposita istanza di iscrizione nel Registro delle Società.
 
-Entro trenta giorni dall'approvazione, che di norma deve avvenire entro cinque mesi dalla chiusura dell'esercizio sociale, una copia autenticata del verbale di approvazione, al quale sono allegati tutti i documenti di cui all'articolo 83, deve essere trasmessa all'Ufficio Attività Economiche in formato elettronico sul portale PA nell'apposita sezione dedicata accompagnata dall'apposita istanza di iscrizione nel Registro delle Società.
+2\. I documenti trasmessi, ad esclusione del bilancio su formato elettronico XBRL, sono inviati in formato PDF o PDF/A.
 
-2.
+3\. I soggetti che svolgono attività riservate ai sensi della Legge 17 novembre 2005 n. 165 e successive modifiche tramettono all’Ufficio Attività Economiche tutti i documenti di bilancio in formato PDF o PDF/A.
 
-I documenti trasmessi, ad esclusione del bilancio su formato elettronico XBRL, sono inviati in formato PDF o PDF/A.
-
-3.
-
-I soggetti che svolgono attività riservate ai sensi della Legge 17 novembre 2005 n. 165 e successive modifiche tramettono all’Ufficio Attività Economiche tutti i documenti di bilancio in formato PDF o PDF/A.
-
-4.
-
-Il sistema elettronico rilascia ricevuta attestante la data di deposito. Tale ricevuta non attesta che il contenuto dell’inoltro sia stato eseguito a norma di legge e pertanto che la documentazione trasmessa sia conforme e completa.
+4\. Il sistema elettronico rilascia ricevuta attestante la data di deposito. Tale ricevuta non attesta che il contenuto dell’inoltro sia stato eseguito a norma di legge e pertanto che la documentazione trasmessa sia conforme e completa.
 
 ###### Art.85
 
 (Bilancio in forma abbreviata)
 
-1.
-
-Le società possono redigere il bilancio in forma abbreviata quando, nel primo esercizio o, successivamente, per due esercizi consecutivi non abbiano superato due dei seguenti limiti:
+1\. Le società possono redigere il bilancio in forma abbreviata quando, nel primo esercizio o, successivamente, per due esercizi consecutivi non abbiano superato due dei seguenti limiti:
 
 1) totale dell’attivo dello stato patrimoniale: €3.650.000,00 (tremilioniseicentocinquantamila euro);
 
@@ -2555,21 +1923,13 @@ Le società possono redigere il bilancio in forma abbreviata quando, nel primo e
 
 3) dipendenti occupati in media durante l’esercizio: 50 (cinquanta) unità.
 
-2.
+2\. Nel bilancio in forma abbreviata lo stato patrimoniale comprende solo le voci contrassegnate nell’articolo 77 con lettere maiuscole e con numeri romani; nella voce C II dell’attivo e D del passivo devono essere separatamente indicati i crediti ed i debiti esigibili oltre l’esercizio successivo.
 
-Nel bilancio in forma abbreviata lo stato patrimoniale comprende solo le voci contrassegnate nell’articolo 77 con lettere maiuscole e con numeri romani; nella voce C II dell’attivo e D del passivo devono essere separatamente indicati i crediti ed i debiti esigibili oltre l’esercizio successivo.
+3\. Il conto economico del bilancio in forma abbreviata comprende solo le voci contrassegnate nell’articolo 79 con lettere maiuscole e con numeri arabi.
 
-3.
+4\. Nella nota integrativa sono omesse le indicazioni richieste dai numeri 6), 8), 9), 15), 16), 17) 18) e 20) dell’articolo 82.
 
-Il conto economico del bilancio in forma abbreviata comprende solo le voci contrassegnate nell’articolo 79 con lettere maiuscole e con numeri arabi.
-
-4.
-
-Nella nota integrativa sono omesse le indicazioni richieste dai numeri 6), 8), 9), 15), 16), 17) 18) e 20) dell’articolo 82.
-
-5.
-
-Le società che a norma del presente articolo redigono il bilancio in forma abbreviata devono redigerlo in forma ordinaria quando per il secondo esercizio consecutivo abbiano superato due dei limiti indicati nel primo comma.
+5\. Le società che a norma del presente articolo redigono il bilancio in forma abbreviata devono redigerlo in forma ordinaria quando per il secondo esercizio consecutivo abbiano superato due dei limiti indicati nel primo comma.
 
 #### TITOLO IV
 
@@ -2583,37 +1943,25 @@ DELLA TRASFORMAZIONE
 
 (Trasformazione)
 
-1.
+1\. La deliberazione di trasformazione di una società deve risultare da atto pubblico e contenere le indicazioni prescritte dalla legge per l'atto costitutivo e lo statuto del tipo di società adottato, e deve essere iscritta nel Registro con le forme prescritte per l’atto costitutivo.
 
-La deliberazione di trasformazione di una società deve risultare da atto pubblico e contenere le indicazioni prescritte dalla legge per l'atto costitutivo e lo statuto del tipo di società adottato, e deve essere iscritta nel Registro con le forme prescritte per l’atto costitutivo.
+2\. La società conserva i diritti e gli obblighi anteriori alla trasformazione.
 
-2.
-
-La società conserva i diritti e gli obblighi anteriori alla trasformazione.
-
-3.
-
-La trasformazione di una società di persone in una società di capitali, nonché la trasformazione di una società di capitali in un’altra con un capitale inferiore, non può avvenire senza il consenso dei creditori o senza un’opportuna perizia da acquisirsi a cura degli amministratori e dalla quale risulti la mancanza di motivi di ostacolo alla trasformazione.
+3\. La trasformazione di una società di persone in una società di capitali, nonché la trasformazione di una società di capitali in un’altra con un capitale inferiore, non può avvenire senza il consenso dei creditori o senza un’opportuna perizia da acquisirsi a cura degli amministratori e dalla quale risulti la mancanza di motivi di ostacolo alla trasformazione.
 
 ###### Art.87
 
 (Responsabilità dei soci)
 
-1.
+1\. La trasformazione di una società con soci a responsabilità illimitata non libera costoro dalla responsabilità per le obbligazioni sociali anteriori alla iscrizione della deliberazione di trasformazione nel Registro, se non risulta che i creditori sociali hanno dato il loro consenso alla trasformazione.
 
-La trasformazione di una società con soci a responsabilità illimitata non libera costoro dalla responsabilità per le obbligazioni sociali anteriori alla iscrizione della deliberazione di trasformazione nel Registro, se non risulta che i creditori sociali hanno dato il loro consenso alla trasformazione.
-
-2.
-
-Il consenso si presume se i creditori, ai quali la deliberazione di trasformazione sia stata comunicata per raccomandata, non hanno negato espressamente la loro adesione nel termine di trenta giorni dalla comunicazione.
+2\. Il consenso si presume se i creditori, ai quali la deliberazione di trasformazione sia stata comunicata per raccomandata, non hanno negato espressamente la loro adesione nel termine di trenta giorni dalla comunicazione.
 
 ###### Art.88
 
 (Assegnazione di azioni e quote)
 
-1.
-
-Nella trasformazione ciascun socio ha diritto all'assegnazione di un numero di azioni o quote proporzionale al valore della sua partecipazione secondo l'ultimo bilancio approvato.
+1\. Nella trasformazione ciascun socio ha diritto all'assegnazione di un numero di azioni o quote proporzionale al valore della sua partecipazione secondo l'ultimo bilancio approvato.
 
 ##### CAPO II
 
@@ -2623,25 +1971,17 @@ DELLA FUSIONE
 
 (Forme di fusione)
 
-1.
+1\. La fusione mediante incorporazione è l’operazione mediante la quale una o più società, tramite estinzione senza liquidazione, trasferiscono ad un’altra l’intero patrimonio attivo e passivo nonché tutte le obbligazioni attive e passive mediante attribuzione ai soci della società incorporata di quote o azioni della società incorporante e, eventualmente, di un conguaglio in denaro non superiore al dieci per cento del valore nominale delle azioni o quote attribuite o, in mancanza di valore nominale, della loro parità contabile.
 
-La fusione mediante incorporazione è l’operazione mediante la quale una o più società, tramite estinzione senza liquidazione, trasferiscono ad un’altra l’intero patrimonio attivo e passivo nonché tutte le obbligazioni attive e passive mediante attribuzione ai soci della società incorporata di quote o azioni della società incorporante e, eventualmente, di un conguaglio in denaro non superiore al dieci per cento del valore nominale delle azioni o quote attribuite o, in mancanza di valore nominale, della loro parità contabile.
+2\. La fusione mediante costituzione di una nuova società è l’operazione con la quale più società, tramite la loro estinzione senza liquidazione, trasferiscono ad una società di nuova costituzione l’intero patrimonio attivo e passivo mediante l’attribuzione ai soci di quote o azioni della nuova società e, eventualmente, di un conguaglio in denaro non superiore al dieci per cento del valore nominale delle azioni o quote attribuite o, in mancanza di valore nominale, della loro parità contabile.
 
-2.
-
-La fusione mediante costituzione di una nuova società è l’operazione con la quale più società, tramite la loro estinzione senza liquidazione, trasferiscono ad una società di nuova costituzione l’intero patrimonio attivo e passivo mediante l’attribuzione ai soci di quote o azioni della nuova società e, eventualmente, di un conguaglio in denaro non superiore al dieci per cento del valore nominale delle azioni o quote attribuite o, in mancanza di valore nominale, della loro parità contabile.
-
-3.
-
-La partecipazione alla fusione non è consentita alle società sottoposte a procedure concorsuali né a quelle in liquidazione.
+3\. La partecipazione alla fusione non è consentita alle società sottoposte a procedure concorsuali né a quelle in liquidazione.
 
 ###### Art.90
 
 (Progetto di fusione)
 
-1.
-
-Gli amministratori delle società partecipanti alla fusione redigono un progetto di fusione, dal quale devono in ogni caso risultare:
+1\. Gli amministratori delle società partecipanti alla fusione redigono un progetto di fusione, dal quale devono in ogni caso risultare:
 
 1) il tipo, la denominazione o ragione sociale, la sede delle società partecipanti alla fusione;
 
@@ -2657,79 +1997,53 @@ Gli amministratori delle società partecipanti alla fusione redigono un progetto
 
 7) il trattamento eventualmente riservato a particolari categorie di partecipazioni.
 
-2.
+2\. Il conguaglio in denaro indicato nel numero 3) del comma precedente non può essere superiore al 10% del valore nominale delle azioni o delle quote assegnate.
 
-Il conguaglio in denaro indicato nel numero 3) del comma precedente non può essere superiore al 10% del valore nominale delle azioni o delle quote assegnate.
+3\. Gli amministratori depositano il progetto di fusione presso la sede sociale e presso l’Ufficio Attività Economiche per l’iscrizione nel Registro, nei modi e termini di cui all’articolo 6, comma 2, così che ogni interessato può prenderne visione.
 
-3.
-
-Gli amministratori depositano il progetto di fusione presso la sede sociale e presso l’Ufficio Attività Economiche per l’iscrizione nel Registro, nei modi e termini di cui all’articolo 6, comma 2, così che ogni interessato può prenderne visione.
-
-4.
-
-Tra l’iscrizione del progetto e la data fissata per la decisione in ordine alla fusione devono intercorrere almeno trenta giorni, salvo che i soci rinuncino al termine con consenso unanime.
+4\. Tra l’iscrizione del progetto e la data fissata per la decisione in ordine alla fusione devono intercorrere almeno trenta giorni, salvo che i soci rinuncino al termine con consenso unanime.
 
 ###### Art.91
 
 (Situazione patrimoniale)
 
-1.
+1\. Gli amministratori delle società partecipanti alla fusione devono redigere la situazione patrimoniale delle società stesse, riferita ad una data non anteriore di oltre centoventi giorni al giorno in cui il progetto di fusione è depositato nella sede della società.
 
-Gli amministratori delle società partecipanti alla fusione devono redigere la situazione patrimoniale delle società stesse, riferita ad una data non anteriore di oltre centoventi giorni al giorno in cui il progetto di fusione è depositato nella sede della società.
+2\. La situazione patrimoniale è redatta con l'osservanza delle norme sul bilancio di esercizio.
 
-2.
-
-La situazione patrimoniale è redatta con l'osservanza delle norme sul bilancio di esercizio.
-
-3.
-
-La situazione patrimoniale può essere sostituita dal bilancio dell'ultimo esercizio, se questo è stato chiuso non oltre sei mesi prima del giorno del deposito indicato nel primo comma.
+3\. La situazione patrimoniale può essere sostituita dal bilancio dell'ultimo esercizio, se questo è stato chiuso non oltre sei mesi prima del giorno del deposito indicato nel primo comma.
 
 ###### Art.92
 
 (Relazione degli amministratori)
 
-1.
+1\. Gli amministratori delle società partecipanti alla fusione devono redigere una relazione la quale illustri e giustifichi, sotto il profilo giuridico ed economico, il progetto di fusione e in particolare il rapporto di cambio delle azioni o delle quote.
 
-Gli amministratori delle società partecipanti alla fusione devono redigere una relazione la quale illustri e giustifichi, sotto il profilo giuridico ed economico, il progetto di fusione e in particolare il rapporto di cambio delle azioni o delle quote.
+2\. La relazione deve indicare i criteri di determinazione del rapporto di cambio.
 
-2.
-
-La relazione deve indicare i criteri di determinazione del rapporto di cambio.
-
-3.
-
-Nella relazione devono essere segnalate le eventuali difficoltà di valutazione.
+3\. Nella relazione devono essere segnalate le eventuali difficoltà di valutazione.
 
 ###### Art.93
 
 (Relazione degli esperti)
 
-1.
-
-Uno o più esperti per ciascuna società devono redigere una relazione sulla congruità del rapporto di cambio delle azioni o delle quote, che indichi:
+1\. Uno o più esperti per ciascuna società devono redigere una relazione sulla congruità del rapporto di cambio delle azioni o delle quote, che indichi:
 
 1) il metodo o i metodi seguiti per la determinazione del rapporto di cambio proposto e i valori risultanti dall'applicazione di ciascuno di essi;
 
 2) le eventuali difficoltà di valutazione.
 
-2.
-
-La relazione deve contenere, inoltre, un parere sull'adeguatezza del metodo o dei metodi seguiti per la determinazione del rapporto di cambio e sull'importanza relativa attribuita a ciascuno di essi nella determinazione del valore adottato.
+2\. La relazione deve contenere, inoltre, un parere sull'adeguatezza del metodo o dei metodi seguiti per la determinazione del rapporto di cambio e sull'importanza relativa attribuita a ciascuno di essi nella determinazione del valore adottato.
 
 L'esperto o gli esperti devono essere iscritti da almeno cinque anni all’albo dei dottori commercialisti o dei ragionieri commercialisti. Ciascun esperto ha diritto di ottenere dalle società partecipanti alla fusione tutte le informazioni e i documenti utili e di procedere ad ogni necessaria verifica.
 
-3.
-
-L'esperto risponde dei danni causati alle società partecipanti alla fusione, ai loro soci e ai terzi.
+3\. L'esperto risponde dei danni causati alle società partecipanti alla fusione, ai loro soci e ai terzi.
 
 ###### Art.94
 
 (Deposito di atti)
 
-1.
-
-Devono restare depositati in copia nella sede delle società partecipanti alla fusione, durante i trenta giorni che precedono l'assemblea e finché la fusione sia deliberata:
+1\. Devono restare depositati in copia nella sede delle società partecipanti alla fusione, durante i trenta giorni che precedono l'assemblea e finché la fusione sia deliberata:
 
 1) il progetto di fusione con le relazioni degli amministratori indicate nell’articolo 92 e le relazioni degli esperti indicate nell’articolo 93;
 
@@ -2737,65 +2051,43 @@ Devono restare depositati in copia nella sede delle società partecipanti alla f
 
 3) le situazioni patrimoniali delle società partecipanti alla fusione redatte a norma dell’articolo 91.
 
-2.
-
-I soci hanno diritto di prendere visione di questi documenti e di ottenerne copia.
+2\. I soci hanno diritto di prendere visione di questi documenti e di ottenerne copia.
 
 ###### Art.95
 
 (Deliberazione di fusione)
 
-1.
+1\. La fusione deve essere deliberata da ciascuna delle società che vi partecipano mediante l'approvazione del relativo progetto.
 
-La fusione deve essere deliberata da ciascuna delle società che vi partecipano mediante l'approvazione del relativo progetto.
-
-2.
-
-L’iscrizione nel Registro della deliberazione di fusione è eseguita dall’Ufficio Attività Economiche su istanza degli amministratori, nei modi e termini di cui all’articolo 6, comma 2.
+2\. L’iscrizione nel Registro della deliberazione di fusione è eseguita dall’Ufficio Attività Economiche su istanza degli amministratori, nei modi e termini di cui all’articolo 6, comma 2.
 
 ###### Art.96
 
 (Opposizione dei creditori)
 
-1.
+1\. La fusione può essere attuata solo dopo sessanta giorni dalla iscrizione delle deliberazioni delle società che vi partecipano, salvo che consti il consenso dei rispettivi creditori anteriore agli adempimenti previsti dall'articolo 90, commi 3 e 4, o il pagamento dei creditori che non hanno dato il consenso o il deposito delle somme corrispondenti presso un istituto di credito sammarinese.
 
-La fusione può essere attuata solo dopo sessanta giorni dalla iscrizione delle deliberazioni delle società che vi partecipano, salvo che consti il consenso dei rispettivi creditori anteriore agli adempimenti previsti dall'articolo 90, commi 3 e 4, o il pagamento dei creditori che non hanno dato il consenso o il deposito delle somme corrispondenti presso un istituto di credito sammarinese.
+2\. Durante il termine suddetto i creditori indicati nel primo comma possono fare opposizione.
 
-2.
-
-Durante il termine suddetto i creditori indicati nel primo comma possono fare opposizione.
-
-3.
-
-Il Commissario della Legge, nonostante l'opposizione, può disporre che la fusione abbia luogo previa prestazione da parte della società di idonea garanzia.
+3\. Il Commissario della Legge, nonostante l'opposizione, può disporre che la fusione abbia luogo previa prestazione da parte della società di idonea garanzia.
 
 ###### Art.97
 
 (Obbligazioni)
 
-1.
+1\. I possessori di obbligazioni possono fare opposizione a norma dell’articolo 96.
 
-I possessori di obbligazioni possono fare opposizione a norma dell’articolo 96.
+2\. Ai possessori di obbligazioni convertibili deve essere data facoltà, mediante lettera raccomandata, almeno novanta giorni prima della pubblicazione del progetto di fusione, di esercitare il diritto di conversione nel termine di trenta giorni dal ricevimento dell'avviso.
 
-2.
-
-Ai possessori di obbligazioni convertibili deve essere data facoltà, mediante lettera raccomandata, almeno novanta giorni prima della pubblicazione del progetto di fusione, di esercitare il diritto di conversione nel termine di trenta giorni dal ricevimento dell'avviso.
-
-3.
-
-Ai possessori di obbligazioni convertibili che non abbiano esercitato la facoltà di conversione devono essere assicurati diritti equivalenti a quelli loro spettanti prima della fusione.
+3\. Ai possessori di obbligazioni convertibili che non abbiano esercitato la facoltà di conversione devono essere assicurati diritti equivalenti a quelli loro spettanti prima della fusione.
 
 ###### Art.98
 
 (Atto di fusione)
 
-1.
+1\. La fusione deve risultare per atto pubblico.
 
-La fusione deve risultare per atto pubblico.
-
-2.
-
-L’iscrizione nel Registro dell’atto di fusione è eseguita dall’Ufficio Attività Economiche su istanza del notaio rogante, nei modi e termini di cui all’articolo 6, comma 2. L’iscrizione dell’atto di fusione relativo alla società risultante dalla fusione
+2\. L’iscrizione nel Registro dell’atto di fusione è eseguita dall’Ufficio Attività Economiche su istanza del notaio rogante, nei modi e termini di cui all’articolo 6, comma 2. L’iscrizione dell’atto di fusione relativo alla società risultante dalla fusione
 
 stessa o di quella incorporante non può precedere quelle relative alle altre società partecipanti alla fusione.
 
@@ -2803,41 +2095,27 @@ stessa o di quella incorporante non può precedere quelle relative alle altre so
 
 (Effetti della fusione)
 
-1.
+1\. La società che risulta dalla fusione o quella incorporante, assumono i diritti e gli obblighi delle società estinte.
 
-La società che risulta dalla fusione o quella incorporante, assumono i diritti e gli obblighi delle società estinte.
+2\. La fusione ha effetto quando è stata eseguita l'ultima delle iscrizioni prescritte dall’articolo 98.
 
-2.
+3\. Nella fusione mediante incorporazione può tuttavia essere stabilita una data successiva.
 
-La fusione ha effetto quando è stata eseguita l'ultima delle iscrizioni prescritte dall’articolo 98.
-
-3.
-
-Nella fusione mediante incorporazione può tuttavia essere stabilita una data successiva.
-
-4.
-
-Per gli effetti ai quali si riferisce l’articolo 90, comma 1 punti 5) e 6), possono essere stabilite date anche anteriori.
+4\. Per gli effetti ai quali si riferisce l’articolo 90, comma 1 punti 5) e 6), possono essere stabilite date anche anteriori.
 
 ###### Art.100
 
 (Divieto di assegnazione di azioni o quote)
 
-1.
+1\. La società che risulta dalla fusione non può assegnare partecipazioni in sostituzione di quelle delle società partecipanti alla fusione possedute, anche per il tramite di società fiduciarie o di interposta persona, dalle società medesime.
 
-La società che risulta dalla fusione non può assegnare partecipazioni in sostituzione di quelle delle società partecipanti alla fusione possedute, anche per il tramite di società fiduciarie o di interposta persona, dalle società medesime.
-
-2.
-
-La società incorporante non può assegnare partecipazioni in sostituzione di quelle delle società incorporate possedute, anche per il tramite di società fiduciaria o di interposta persona, dalle incorporate medesime o dalla società incorporante.
+2\. La società incorporante non può assegnare partecipazioni in sostituzione di quelle delle società incorporate possedute, anche per il tramite di società fiduciaria o di interposta persona, dalle incorporate medesime o dalla società incorporante.
 
 ###### Art.101
 
 (Incorporazione di società interamente possedute)
 
-1.
-
-Alla fusione per incorporazione di una società in un'altra che possiede tutte le azioni o le quote della prima non si applicano le disposizioni dell’articolo 90, comma 1, punti 3), 4), 5), e degli articoli 92 e 93.
+1\. Alla fusione per incorporazione di una società in un'altra che possiede tutte le azioni o le quote della prima non si applicano le disposizioni dell’articolo 90, comma 1, punti 3), 4), 5), e degli articoli 92 e 93.
 
 ##### CAPO III
 
@@ -2847,83 +2125,51 @@ DELLA SCISSIONE
 
 (Forme di scissione)
 
-1.
+1\. Con la scissione una società assegna l’intero suo patrimonio a più società, preesistenti o di nuova costituzione, o parte del suo patrimonio, in tal caso anche ad una sola società, e le relative partecipazioni ai suoi soci.
 
-Con la scissione una società assegna l’intero suo patrimonio a più società, preesistenti o di nuova costituzione, o parte del suo patrimonio, in tal caso anche ad una sola società, e le relative partecipazioni ai suoi soci.
+2\. È consentito un conguaglio in denaro, purché non superiore al dieci per cento del valore nominale delle partecipazioni attribuite. E’ consentito inoltre che, per consenso unanime, ad alcuni soci non vengano distribuite partecipazioni di una delle società beneficiarie della scissione, ma partecipazioni della società scissa.
 
-2.
-
-È consentito un conguaglio in denaro, purché non superiore al dieci per cento del valore nominale delle partecipazioni attribuite. E’ consentito inoltre che, per consenso unanime, ad alcuni soci non vengano distribuite partecipazioni di una delle società beneficiarie della scissione, ma partecipazioni della società scissa.
-
-3.
-
-La partecipazione alla scissione non è consentita alle società sottoposte a procedure concorsuali né a quelle in liquidazione.
+3\. La partecipazione alla scissione non è consentita alle società sottoposte a procedure concorsuali né a quelle in liquidazione.
 
 ###### Art.103
 
 (Progetto di scissione)
 
-1.
+1\. Gli amministratori delle società partecipanti alla scissione redigono un progetto dal quale devono risultare i dati indicati dall’articolo 90, comma 1, ed inoltre l’esatta descrizione degli elementi patrimoniali da assegnare a ciascuna delle società beneficiarie e dell’eventuale conguaglio in denaro.
 
-Gli amministratori delle società partecipanti alla scissione redigono un progetto dal quale devono risultare i dati indicati dall’articolo 90, comma 1, ed inoltre l’esatta descrizione degli elementi patrimoniali da assegnare a ciascuna delle società beneficiarie e dell’eventuale conguaglio in denaro.
+2\. Se la destinazione di un elemento dell’attivo non è desumibile dal progetto, esso, nell’ipotesi di assegnazione dell’intero patrimonio della società scissa, è ripartito tra le società beneficiarie in proporzione della quota del patrimonio netto assegnato a ciascuna di esse, così come valutato ai fini della determinazione del rapporto di cambio; se l’assegnazione del patrimonio della società è solo parziale, tale elemento rimane in capo alla società trasferente.
 
-2.
+3\. Degli elementi del passivo, la cui destinazione non è desumibile dal progetto, rispondono in solido, nel primo caso, le società beneficiarie, nel secondo la società scissa e le società beneficiarie. La responsabilità solidale è limitata al valore effettivo del patrimonio netto attribuito a ciascuna società beneficiaria.
 
-Se la destinazione di un elemento dell’attivo non è desumibile dal progetto, esso, nell’ipotesi di assegnazione dell’intero patrimonio della società scissa, è ripartito tra le società beneficiarie in proporzione della quota del patrimonio netto assegnato a ciascuna di esse, così come valutato ai fini della determinazione del rapporto di cambio; se l’assegnazione del patrimonio della società è solo parziale, tale elemento rimane in capo alla società trasferente.
+4\. Dal progetto di scissione devono risultare i criteri di distribuzione delle partecipazioni delle società beneficiarie. Qualora il progetto preveda una attribuzione delle partecipazioni ai soci non proporzionale alla loro partecipazione originaria, il progetto medesimo deve prevedere il diritto dei soci che non approvino la scissione di far acquistare le proprie partecipazioni per un corrispettivo determinato alla stregua dei criteri previsti per il recesso, indicando coloro a cui carico è posto l’obbligo di acquisto.
 
-3.
-
-Degli elementi del passivo, la cui destinazione non è desumibile dal progetto, rispondono in solido, nel primo caso, le società beneficiarie, nel secondo la società scissa e le società beneficiarie. La responsabilità solidale è limitata al valore effettivo del patrimonio netto attribuito a ciascuna società beneficiaria.
-
-4.
-
-Dal progetto di scissione devono risultare i criteri di distribuzione delle partecipazioni delle società beneficiarie. Qualora il progetto preveda una attribuzione delle partecipazioni ai soci non proporzionale alla loro partecipazione originaria, il progetto medesimo deve prevedere il diritto dei soci che non approvino la scissione di far acquistare le proprie partecipazioni per un corrispettivo determinato alla stregua dei criteri previsti per il recesso, indicando coloro a cui carico è posto l’obbligo di acquisto.
-
-5.
-
-Gli amministratori depositano il progetto di scissione presso la sede sociale e presso l’Ufficio Attività Economiche nei modi di cui all’articolo 6, comma 2 e con i termini previsti dall’articolo 90, comma 4.
+5\. Gli amministratori depositano il progetto di scissione presso la sede sociale e presso l’Ufficio Attività Economiche nei modi di cui all’articolo 6, comma 2 e con i termini previsti dall’articolo 90, comma 4.
 
 ###### Art.104
 
 (Norme applicabili)
 
-1.
+1\. Gli amministratori delle società partecipanti alla scissione redigono la situazione patrimoniale e la relazione illustrativa in conformità agli articoli 91 e 92.
 
-Gli amministratori delle società partecipanti alla scissione redigono la situazione patrimoniale e la relazione illustrativa in conformità agli articoli 91 e 92.
+2\. La relazione degli amministratori deve inoltre illustrare i criteri di distribuzione delle partecipazioni e deve indicare il valore effettivo del patrimonio netto assegnato alle società beneficiarie e di quello che eventualmente rimanga nella società scissa.
 
-2.
+3\. Si applica alla scissione l’articolo 93; la relazione ivi prevista non è richiesta quando la scissione avviene mediante la costituzione di una o più nuove società e non siano previsti criteri di attribuzione delle azioni o quote diversi da quello proporzionale.
 
-La relazione degli amministratori deve inoltre illustrare i criteri di distribuzione delle partecipazioni e deve indicare il valore effettivo del patrimonio netto assegnato alle società beneficiarie e di quello che eventualmente rimanga nella società scissa.
+4\. Con il consenso unanime dei soci delle società partecipanti alla scissione, gli amministratori possono essere esonerati dalla redazione dei documenti previsti nei precedenti commi.
 
-3.
-
-Si applica alla scissione l’articolo 93; la relazione ivi prevista non è richiesta quando la scissione avviene mediante la costituzione di una o più nuove società e non siano previsti criteri di attribuzione delle azioni o quote diversi da quello proporzionale.
-
-4.
-
-Con il consenso unanime dei soci delle società partecipanti alla scissione, gli amministratori possono essere esonerati dalla redazione dei documenti previsti nei precedenti commi.
-
-5.
-
-Sono altresì applicabili alla scissione gli articoli 94, 95, 96, 97, 98, 99, 100. Tutti i riferimenti alla fusione contenuti in detti articoli s’intendono riferiti anche alla scissione.
+5\. Sono altresì applicabili alla scissione gli articoli 94, 95, 96, 97, 98, 99, 100. Tutti i riferimenti alla fusione contenuti in detti articoli s’intendono riferiti anche alla scissione.
 
 ###### Art.105
 
 (Effetti della scissione)
 
-1.
-
-La scissione ha effetto dall’ultima delle iscrizioni dell’atto di scissione nel Registro; può essere tuttavia stabilita una data successiva, tranne che nel caso di
+1\. La scissione ha effetto dall’ultima delle iscrizioni dell’atto di scissione nel Registro; può essere tuttavia stabilita una data successiva, tranne che nel caso di
 
 scissioni mediante costituzione di società nuove. Per gli effetti a cui si riferisce l’articolo 90, comma 1, punti 5) e 6), possono essere stabilite date anche anteriori.
 
-2.
+2\. Qualunque società beneficiaria può effettuare gli adempimenti pubblicitari relativi alla società scissa.
 
-Qualunque società beneficiaria può effettuare gli adempimenti pubblicitari relativi alla società scissa.
-
-3.
-
-Ciascuna società è solidamente responsabile, nei limiti del valore effettivo del patrimonio netto ad essa assegnato o rimasto, dei debiti della società scissa non soddisfatti dalla società cui fanno carico.
+3\. Ciascuna società è solidamente responsabile, nei limiti del valore effettivo del patrimonio netto ad essa assegnato o rimasto, dei debiti della società scissa non soddisfatti dalla società cui fanno carico.
 
 #### TITOLO V
 
@@ -2933,9 +2179,7 @@ DELLO SCIOGLIMENTO E DELLA LIQUIDAZIONE DELLE SOCIETÀ
 
 (Cause di scioglimento)
 
-1.
-
-La società si scioglie e si deve procedere alla liquidazione:
+1\. La società si scioglie e si deve procedere alla liquidazione:
 
 1) per il decorso del termine;
 
@@ -2949,9 +2193,7 @@ La società si scioglie e si deve procedere alla liquidazione:
 
 6) per revoca della licenza di esercizio.
 
-2.
-
-La società inoltre si scioglie per le altre cause previste dalla legge e dallo statuto. 2 bis. Se entro due anni dalla data di iscrizione nel registro delle società questa non ha ottenuto il rilascio della licenza, la società deve essere posta in liquidazione volontaria.
+2\. La società inoltre si scioglie per le altre cause previste dalla legge e dallo statuto. 2 bis. Se entro due anni dalla data di iscrizione nel registro delle società questa non ha ottenuto il rilascio della licenza, la società deve essere posta in liquidazione volontaria.
 
 Nel caso la società non ottemperi a tale obbligo nei termini previsti il Commissario della Legge deve intimare alla società di deliberare entro 30 giorni la messa in liquidazione volontaria, in difetto di ciò viene posta in liquidazione d’ufficio.
 
@@ -2959,25 +2201,17 @@ Nel caso la società non ottemperi a tale obbligo nei termini previsti il Commis
 
 (Nuove operazioni)
 
-1.
-
-Quando si verifica un fatto che determina lo scioglimento della società, gli amministratori non possono compiere nuove operazioni. In caso contrario, gli amministratori che hanno agito rispondono solidalmente ed illimitatamente per i danni subiti dalla società, dai soci, dai creditori sociali e dai terzi.
+1\. Quando si verifica un fatto che determina lo scioglimento della società, gli amministratori non possono compiere nuove operazioni. In caso contrario, gli amministratori che hanno agito rispondono solidalmente ed illimitatamente per i danni subiti dalla società, dai soci, dai creditori sociali e dai terzi.
 
 ###### Art.108
 
 (La liquidazione)
 
-1.
+1\. Al verificarsi di una causa di scioglimento della società gli amministratori devono convocare l’assemblea per la nomina dei liquidatori.
 
-Al verificarsi di una causa di scioglimento della società gli amministratori devono convocare l’assemblea per la nomina dei liquidatori.
+2\. Se lo statuto non prevede il modo di liquidare il patrimonio sociale, se i soci non sono d’accordo nel determinarlo o se gli amministratori non provvedono alla convocazione dell’assemblea entro trenta giorni dal verificarsi della causa determinante lo scioglimento, alla liquidazione provvedono i liquidatori nominati dal Commissario della Legge d’ufficio o su istanza di chiunque ne abbia interesse.
 
-2.
-
-Se lo statuto non prevede il modo di liquidare il patrimonio sociale, se i soci non sono d’accordo nel determinarlo o se gli amministratori non provvedono alla convocazione dell’assemblea entro trenta giorni dal verificarsi della causa determinante lo scioglimento, alla liquidazione provvedono i liquidatori nominati dal Commissario della Legge d’ufficio o su istanza di chiunque ne abbia interesse.
-
-3.
-
-Per gravi motivi, il Commissario della Legge, d’ufficio o su istanza di chi abbia interesse, può revocare l’incarico ai liquidatori anche se nominati dalla società, e procedere alla nomina dei sostituti.
+3\. Per gravi motivi, il Commissario della Legge, d’ufficio o su istanza di chi abbia interesse, può revocare l’incarico ai liquidatori anche se nominati dalla società, e procedere alla nomina dei sostituti.
 
 ###### Art.109
 
@@ -2985,81 +2219,49 @@ Per gravi motivi, il Commissario della Legge, d’ufficio o su istanza di chi ab
 
 I liquidatori possono compiere atti di alienazione e di conversione del patrimonio sociale, possono accettare pagamenti e riscuotere crediti, stare in giudizio per la società, transigere e compromettere, salvo il dovere di acquisire l’autorizzazione del Commissario della Legge nel caso di operazioni concernenti beni immobili.
 
-2.
+2\. I liquidatori non possono compiere operazioni, né iniziare giudizi in nome della società al di fuori di quanto strettamente necessario per portare a termine la liquidazione. Per la gestione di eventuali attività d’impresa ovvero di rami, di singoli beni o di diritti della stessa, che risulti funzionale a conservarne il valore in vista di un miglior realizzo liquidatorio, è necessaria, in ogni caso, la preventiva autorizzazione del Commissario della Legge.
 
-I liquidatori non possono compiere operazioni, né iniziare giudizi in nome della società al di fuori di quanto strettamente necessario per portare a termine la liquidazione. Per la gestione di eventuali attività d’impresa ovvero di rami, di singoli beni o di diritti della stessa, che risulti funzionale a conservarne il valore in vista di un miglior realizzo liquidatorio, è necessaria, in ogni caso, la preventiva autorizzazione del Commissario della Legge.
+3\. I liquidatori debbono adempiere i loro doveri con la professionalità e diligenza richieste dalla natura dell'incarico e la responsabilità per i danni derivanti dall'inosservanza di tali doveri è disciplinata dall’articolo 56.
 
-3.
+1\. Art.110 (Revoca dello stato di liquidazione)
 
-I liquidatori debbono adempiere i loro doveri con la professionalità e diligenza richieste dalla natura dell'incarico e la responsabilità per i danni derivanti dall'inosservanza di tali doveri è disciplinata dall’articolo 56.
-
-1.
-
-###### Art.110
-
-(Revoca dello stato di liquidazione)
-
-1.
-
-La società può revocare la liquidazione prima che sia iniziata la distribuzione dell’attivo, con deliberazione dell’assemblea.
+1\. La società può revocare la liquidazione prima che sia iniziata la distribuzione dell’attivo, con deliberazione dell’assemblea.
 
 ###### Art. 111
 
 (Procedimento)
 
-1.
+1\. Entro sei mesi dalla data di accettazione della nomina, i liquidatori devono presentare una relazione contenente la situazione patrimoniale iniziale della liquidazione.
 
-Entro sei mesi dalla data di accettazione della nomina, i liquidatori devono presentare una relazione contenente la situazione patrimoniale iniziale della liquidazione.
+2\. Le procedure di liquidazione e di concorso sono dichiarate chiuse con decreto del Commissario della Legge, senza ulteriori formalità, quando, sulla base della relazione del liquidatore o del procuratore del concorso, l’attivo sia inferiore a euro 5.000,00.
 
-2.
+3\. I liquidatori devono presentare annualmente una relazione che evidenzi i fatti salienti della procedura. Tuttavia, il periodo compreso tra la data di accettazione della nomina da parte del liquidatore e la predisposizione del bilancio finale di liquidazione costituisce un unico periodo d’imposta; i liquidatori presentano, pertanto, la dichiarazione dei redditi relativa a detto periodo nel rispetto della normativa fiscale in vigore.
 
-Le procedure di liquidazione e di concorso sono dichiarate chiuse con decreto del Commissario della Legge, senza ulteriori formalità, quando, sulla base della relazione del liquidatore o del procuratore del concorso, l’attivo sia inferiore a euro 5.000,00.
+4\. Al termine delle operazioni di liquidazione dell’attivo, i liquidatori presentano la relazione finale contenente il bilancio finale di liquidazione e il piano di riparto ai soci di eventuali residui. La relazione finale deve essere depositata presso la Cancelleria del Tribunale, dove rimane a disposizione degli interessati per trenta giorni correnti e di tale deposito deve essere data notizia mediante affissione ad valvas Palatii e nelle tabelle del Palazzo Pubblico.
 
-3.
-
-I liquidatori devono presentare annualmente una relazione che evidenzi i fatti salienti della procedura. Tuttavia, il periodo compreso tra la data di accettazione della nomina da parte del liquidatore e la predisposizione del bilancio finale di liquidazione costituisce un unico periodo d’imposta; i liquidatori presentano, pertanto, la dichiarazione dei redditi relativa a detto periodo nel rispetto della normativa fiscale in vigore.
-
-4.
-
-Al termine delle operazioni di liquidazione dell’attivo, i liquidatori presentano la relazione finale contenente il bilancio finale di liquidazione e il piano di riparto ai soci di eventuali residui. La relazione finale deve essere depositata presso la Cancelleria del Tribunale, dove rimane a disposizione degli interessati per trenta giorni correnti e di tale deposito deve essere data notizia mediante affissione ad valvas Palatii e nelle tabelle del Palazzo Pubblico.
-
-5.
-
-Qualora entro trenta giorni correnti dalla scadenza del termine di cui al comma che precede, vengano presentate opposizioni al progetto di ripartizione mediante citazione del liquidatore, il Commissario della Legge, con rito sommario, decide in
+5\. Qualora entro trenta giorni correnti dalla scadenza del termine di cui al comma che precede, vengano presentate opposizioni al progetto di ripartizione mediante citazione del liquidatore, il Commissario della Legge, con rito sommario, decide in
 
 merito con sentenza. Le opposizioni devono essere riunite e decise in unico giudizio, nel quale tutti i soci ed i creditori interessati possono intervenire. La sentenza fa stato anche riguardo ai non intervenuti.
 
-6.
+6\. Se non sono presentate opposizioni o se queste sono respinte, il progetto è approvato con decreto ed il provvedimento del Commissario della Legge rende immediatamente esecutivo il progetto.
 
-Se non sono presentate opposizioni o se queste sono respinte, il progetto è approvato con decreto ed il provvedimento del Commissario della Legge rende immediatamente esecutivo il progetto.
+7\. Dopo l’approvazione della relazione finale da parte dell’assemblea verranno versati gli eventuali residui ai soci.
 
-7.
+8\. Eseguiti tutti gli incombenti, i liquidatori devono chiedere la cancellazione della società dal Registro; con la cancellazione la società è estinta.
 
-Dopo l’approvazione della relazione finale da parte dell’assemblea verranno versati gli eventuali residui ai soci.
-
-8.
-
-Eseguiti tutti gli incombenti, i liquidatori devono chiedere la cancellazione della società dal Registro; con la cancellazione la società è estinta.
-
-9.
-
-Ferma restando l'estinzione della società, dopo la cancellazione i creditori sociali non soddisfatti possono far valere i loro crediti nei confronti dei soci, fino alla concorrenza delle somme da questi riscosse in base al bilancio finale di liquidazione, e nei confronti dei liquidatori, se il mancato pagamento è dipeso da colpa di questi.
+9\. Ferma restando l'estinzione della società, dopo la cancellazione i creditori sociali non soddisfatti possono far valere i loro crediti nei confronti dei soci, fino alla concorrenza delle somme da questi riscosse in base al bilancio finale di liquidazione, e nei confronti dei liquidatori, se il mancato pagamento è dipeso da colpa di questi.
 
 ###### Art.112
 
 (Deposito delle somme non riscosse)
 
-1.
-
-Le somme spettanti ai soci ed ai creditori, non ritirate dagli aventi diritto, devono essere depositate presso un istituto di credito sammarinese con l'indicazione del cognome e del nome del socio, del creditore, [ovvero dei numeri delle azioni, se queste sono al portatore]. Le somme non ritirate nei successivi tre anni vengono devolute allo Stato.
+1\. Le somme spettanti ai soci ed ai creditori, non ritirate dagli aventi diritto, devono essere depositate presso un istituto di credito sammarinese con l'indicazione del cognome e del nome del socio, del creditore, [ovvero dei numeri delle azioni, se queste sono al portatore]. Le somme non ritirate nei successivi tre anni vengono devolute allo Stato.
 
 ###### Art.113
 
 (Deposito dei libri sociali)
 
-1.
-
-I libri della società devono essere depositati e conservati per cinque anni nei luoghi e con le garanzie stabilite dalla legge; chiunque può esaminarli, anticipando le spese.
+1\. I libri della società devono essere depositati e conservati per cinque anni nei luoghi e con le garanzie stabilite dalla legge; chiunque può esaminarli, anticipando le spese.
 
 #### TITOLO VI
 
@@ -3069,65 +2271,39 @@ DELLO STATO DI CRISI
 
 (Stato di crisi temporanea)
 
-1.
-
-La società che si trova in temporanea difficoltà ad adempiere le proprie obbligazioni, se vi siano comprovate possibilità di risanare l'impresa, può chiedere al Commissario della Legge per un periodo non superiore ai due anni congiuntamente:
+1\. La società che si trova in temporanea difficoltà ad adempiere le proprie obbligazioni, se vi siano comprovate possibilità di risanare l'impresa, può chiedere al Commissario della Legge per un periodo non superiore ai due anni congiuntamente:
 
 1) il controllo della gestione della sua impresa e dell'amministrazione dei suoi beni a tutela degli interessi dei creditori, e
 
 2) il provvedimento di cui all’articolo 20 della Legge 15 novembre 1917 n. 17.
 
-2.
+2\. Il Commissario della Legge, qualora valuti positivamente l’istanza e conceda i provvedimenti richiesti, può anche fissare tutti gli oneri, termini e condizioni che ritenga opportuni per la realizzazione del piano per risanare l’impresa, della salvaguardia dei diritti dei creditori sociali, del patrimonio economico-sociale costituito dall’impresa nel suo complesso.
 
-Il Commissario della Legge, qualora valuti positivamente l’istanza e conceda i provvedimenti richiesti, può anche fissare tutti gli oneri, termini e condizioni che ritenga opportuni per la realizzazione del piano per risanare l’impresa, della salvaguardia dei diritti dei creditori sociali, del patrimonio economico-sociale costituito dall’impresa nel suo complesso.
+3\. Il controllore della moratoria è nominato dal Commissario della Legge, e risponde del suo operato ai creditori; il compenso è dovuto dalla società e deve essere pagato in prededuzione.
 
-3.
+4\. Le spese effettuate dagli amministratori della società, durante il periodo della moratoria, non possono essere considerate come spese giudiziali o concorsuali, ai sensi ed effetti dell’articolo 17 n. 1 della Legge Ipotecaria.
 
-Il controllore della moratoria è nominato dal Commissario della Legge, e risponde del suo operato ai creditori; il compenso è dovuto dalla società e deve essere pagato in prededuzione.
-
-4.
-
-Le spese effettuate dagli amministratori della società, durante il periodo della moratoria, non possono essere considerate come spese giudiziali o concorsuali, ai sensi ed effetti dell’articolo 17 n. 1 della Legge Ipotecaria.
-
-5.
-
-In caso di apertura delle procedure concorsuali i debiti contratti dalla società nel periodo di moratoria hanno lo stesso trattamento di quelli sorti anteriormente alla moratoria stessa.
+5\. In caso di apertura delle procedure concorsuali i debiti contratti dalla società nel periodo di moratoria hanno lo stesso trattamento di quelli sorti anteriormente alla moratoria stessa.
 
 ###### Art.115
 
 (Stato di insolvenza)
 
-1.
+1\. La liquidazione coattiva viene disposta dal Commissario della Legge, a richiesta di un amministratore, di un sindaco, o di un creditore sociale, o anche d’ufficio, quando la società versi manifestamente in stato di insolvenza, e non sussistano i presupposti per l’apertura delle procedure concorsuali.
 
-La liquidazione coattiva viene disposta dal Commissario della Legge, a richiesta di un amministratore, di un sindaco, o di un creditore sociale, o anche d’ufficio, quando la società versi manifestamente in stato di insolvenza, e non sussistano i presupposti per l’apertura delle procedure concorsuali.
+2\. Se la liquidazione coattiva sia dichiarata a richiesta di un creditore, pur essendo momentaneamente insolvente, la società può chiedere la moratoria di cui all’articolo precedente.
 
-2.
+3\. Il provvedimento di liquidazione coattiva contiene la nomina del liquidatore giudiziale, è annotato sul Registro ed è pubblicato ad valvas Palatii e nelle Tabelle del Palazzo Pubblico.
 
-Se la liquidazione coattiva sia dichiarata a richiesta di un creditore, pur essendo momentaneamente insolvente, la società può chiedere la moratoria di cui all’articolo precedente.
+4\. Dalla data della pubblicazione tutte le procedure giudiziali pendenti contro la società sono sospese e nessun’altra può esserne iniziata; inoltre, i debiti si considerano scaduti a tale data e non producono interessi durante la procedura.
 
-3.
+5\. Il Commissario della Legge con il provvedimento che dispone la liquidazione coatta assegna un termine perentorio ai creditori sociali per presentare presso la [Cancelleria] le domande documentate di collocazione dei loro crediti.
 
-Il provvedimento di liquidazione coattiva contiene la nomina del liquidatore giudiziale, è annotato sul Registro ed è pubblicato ad valvas Palatii e nelle Tabelle del Palazzo Pubblico.
+6\. Il liquidatore, in base ai libri ed alle scritture contabili ed alle domande dei creditori, formula uno stato di ripartizione tenendo conto dei crediti privilegiati e lo deposita nella [Cancelleria], dove rimane a disposizione degli interessati per sessanta giorni dalla data di notizia del deposito da affiggersi nell’albo del Palazzo Pubblico ed in quello del Tribunale.
 
-4.
+7\. Sorgendo opposizioni al progetto di ripartizione, purché proposte mediante citazione del liquidatore entro trenta giorni dalla scadenza del termine di cui al comma che precede, il Commissario della Legge, con rito sommario decide in merito con un’unica sentenza definitiva. Se non sorgono contestazioni il progetto è approvato con ordinanza, che è immediatamente esecutiva.
 
-Dalla data della pubblicazione tutte le procedure giudiziali pendenti contro la società sono sospese e nessun’altra può esserne iniziata; inoltre, i debiti si considerano scaduti a tale data e non producono interessi durante la procedura.
-
-5.
-
-Il Commissario della Legge con il provvedimento che dispone la liquidazione coatta assegna un termine perentorio ai creditori sociali per presentare presso la [Cancelleria] le domande documentate di collocazione dei loro crediti.
-
-6.
-
-Il liquidatore, in base ai libri ed alle scritture contabili ed alle domande dei creditori, formula uno stato di ripartizione tenendo conto dei crediti privilegiati e lo deposita nella [Cancelleria], dove rimane a disposizione degli interessati per sessanta giorni dalla data di notizia del deposito da affiggersi nell’albo del Palazzo Pubblico ed in quello del Tribunale.
-
-7.
-
-Sorgendo opposizioni al progetto di ripartizione, purché proposte mediante citazione del liquidatore entro trenta giorni dalla scadenza del termine di cui al comma che precede, il Commissario della Legge, con rito sommario decide in merito con un’unica sentenza definitiva. Se non sorgono contestazioni il progetto è approvato con ordinanza, che è immediatamente esecutiva.
-
-8.
-
-Si applicano, in quanto compatibili e per gli aspetti non espressamente disciplinati, le disposizioni sulla liquidazione volontaria.
+8\. Si applicano, in quanto compatibili e per gli aspetti non espressamente disciplinati, le disposizioni sulla liquidazione volontaria.
 
 #### TITOLO VII
 
@@ -3137,87 +2313,53 @@ DISPOSIZIONI VARIE
 
 (Controversie)
 
-1.
-
-Le società costituite ai sensi della presente legge sono soggette alla esclusiva ed inderogabile competenza dell'Autorità giudiziaria sammarinese per le controversie fra i
+1\. Le società costituite ai sensi della presente legge sono soggette alla esclusiva ed inderogabile competenza dell'Autorità giudiziaria sammarinese per le controversie fra i
 
 soci e la società, per quelle relative ai rapporti derivanti dal contratto sociale in cui la società sia convenuta e per quelle di responsabilità contro gli amministratori, i sindaci, i revisori, le società di revisione ed i dirigenti della società nonché tra loro e la società.
 
-2.
+2\. Nello statuto, quanto ai rapporti interni, ovvero nei singoli contratti, quanto ai rapporti con i terzi, possono essere liberamente previste clausole compromissorie su eventuali controversie. L’arbitrato deve comunque avere sede nel territorio della Repubblica.
 
-Nello statuto, quanto ai rapporti interni, ovvero nei singoli contratti, quanto ai rapporti con i terzi, possono essere liberamente previste clausole compromissorie su eventuali controversie. L’arbitrato deve comunque avere sede nel territorio della Repubblica.
-
-3.
-
-Non è ammessa la clausola compromissoria nei contratti di lavoro.
+3\. Non è ammessa la clausola compromissoria nei contratti di lavoro.
 
 ###### Art.117
 
 (Termini di prescrizione)
 
-1.
+1\. Tutte le azioni relative alla gestione sociale nonché le azioni di responsabilità contro gli amministratori, i sindaci, i revisori, le società di revisione, i dirigenti e i liquidatori, e tutte le azioni dirette a far dichiarare la nullità della società ovvero di deliberazioni assembleari si prescrivono entro due anni a far data dal compimento dell’atto che dà luogo alla controversia.
 
-Tutte le azioni relative alla gestione sociale nonché le azioni di responsabilità contro gli amministratori, i sindaci, i revisori, le società di revisione, i dirigenti e i liquidatori, e tutte le azioni dirette a far dichiarare la nullità della società ovvero di deliberazioni assembleari si prescrivono entro due anni a far data dal compimento dell’atto che dà luogo alla controversia.
+2\. Se l'azione si fonda sopra un atto che avrebbe dovuto essere iscritto nel Registro o depositato presso la [Cancelleria] e ciò non ha avuto luogo, il termine decorre dal giorno in cui l'attore ne abbia avuto conoscenza.
 
-2.
+3\. La prescrizione delle azioni di cui al presente articolo si interrompe attraverso la diffida stragiudiziale da farsi per iscritto.
 
-Se l'azione si fonda sopra un atto che avrebbe dovuto essere iscritto nel Registro o depositato presso la [Cancelleria] e ciò non ha avuto luogo, il termine decorre dal giorno in cui l'attore ne abbia avuto conoscenza.
+4\. Il decorso della prescrizione rimane sospeso fino a quando sono in carica gli amministratori, i sindaci, i revisori, le società di revisione, i dirigenti e i liquidatori verso i quali l’azione è promossa.
 
-3.
-
-La prescrizione delle azioni di cui al presente articolo si interrompe attraverso la diffida stragiudiziale da farsi per iscritto.
-
-4.
-
-Il decorso della prescrizione rimane sospeso fino a quando sono in carica gli amministratori, i sindaci, i revisori, le società di revisione, i dirigenti e i liquidatori verso i quali l’azione è promossa.
-
-5.
-
-Nel caso in cui la società sia sottoposta a procedure concorsuali, la prescrizione delle azioni di cui al comma che precede decorre a far data dal giorno di apertura del concorso.
+5\. Nel caso in cui la società sia sottoposta a procedure concorsuali, la prescrizione delle azioni di cui al comma che precede decorre a far data dal giorno di apertura del concorso.
 
 ###### Art.118
 
 (Ricorsi)
 
-1.
+1\. Contro tutti i provvedimenti di giurisdizione volontaria adottati dal Commissario della Legge in applicazione della presente legge è ammesso ricorso al Giudice delle Appellazioni civili.
 
-Contro tutti i provvedimenti di giurisdizione volontaria adottati dal Commissario della Legge in applicazione della presente legge è ammesso ricorso al Giudice delle Appellazioni civili.
+2\. Il ricorso sospende l'efficacia del provvedimento impugnato salva diversa decisione del Giudice d'appello.
 
-2.
+3\. L'atto contenente il gravame va depositato a mezzo di difensore in Tribunale, insieme ai motivi e con i documenti che comprovano l'interesse del ricorrente ed il fondamento della doglianza, entro trenta giorni dalla notifica del provvedimento.
 
-Il ricorso sospende l'efficacia del provvedimento impugnato salva diversa decisione del Giudice d'appello.
+4\. Il ricorso di cui al presente articolo è soggetto alla tassa per i ricorsi di volontaria giurisdizione.
 
-3.
+5\. Non sono ammessi ulteriori o diversi mezzi di impugnativa per i provvedimenti di cui al presente articolo.
 
-L'atto contenente il gravame va depositato a mezzo di difensore in Tribunale, insieme ai motivi e con i documenti che comprovano l'interesse del ricorrente ed il fondamento della doglianza, entro trenta giorni dalla notifica del provvedimento.
-
-4.
-
-Il ricorso di cui al presente articolo è soggetto alla tassa per i ricorsi di volontaria giurisdizione.
-
-5.
-
-Non sono ammessi ulteriori o diversi mezzi di impugnativa per i provvedimenti di cui al presente articolo.
-
-6.
-
-Ogni altra controversia avente natura contenziosa è disciplinata dalle norme ordinarie in materia di contenzioso civile.
+6\. Ogni altra controversia avente natura contenziosa è disciplinata dalle norme ordinarie in materia di contenzioso civile.
 
 ###### Art.118-bis
 
 (Requisito esattoriale)
 
-1.
+1\. Ai sensi e per gli effetti dell’articolo 1, comma 1, punto 8), lettera e) e lettera iii) della presente legge e dell’articolo 6, comma 1, lettera c), della Legge 31 marzo 2014 n.40 e successive modifiche, il Dipartimento Esattoria di Banca Centrale attesta il possesso o l’assenza del requisito esattoriale.
 
-Ai sensi e per gli effetti dell’articolo 1, comma 1, punto 8), lettera e) e lettera iii) della presente legge e dell’articolo 6, comma 1, lettera c), della Legge 31 marzo 2014 n.40 e successive modifiche, il Dipartimento Esattoria di Banca Centrale attesta il possesso o l’assenza del requisito esattoriale.
+2\. Il requisito esattoriale si ritiene soddisfatto in caso di mancanza di azioni esecutive ad opera del Dipartimento Esattoria intese quale assenza in capo al soggetto giuridico, e ai di lui coobbligati, di cartelle esattoriali scadute e già esecutive.
 
-2.
-
-Il requisito esattoriale si ritiene soddisfatto in caso di mancanza di azioni esecutive ad opera del Dipartimento Esattoria intese quale assenza in capo al soggetto giuridico, e ai di lui coobbligati, di cartelle esattoriali scadute e già esecutive.
-
-3.
-
-Il requisito esattoriale si ritiene comunque soddisfatto anche nei seguenti casi:
+3\. Il requisito esattoriale si ritiene comunque soddisfatto anche nei seguenti casi:
 
 1) contenzioso pendente sul credito;
 
@@ -3233,79 +2375,51 @@ NORME TRANSITORIE E FINALI
 
 (Norme abrogate)
 
-1.
+1\. Sono abrogati: − la Legge 13 giugno 1990 n.68 con le sue successive modifiche ed integrazioni, ad esclusione del suo articolo 4 (Associazioni non commerciali e fondazioni: nozione e norme fondamentali); − gli articoli 7, 8, 8 bis, 9, 9 bis, 10, 10 bis, 10 ter, 11, 11 bis, 12, 12 bis, 13, 14, 16, 19, 20, 21, della Legge 28 aprile 1999 n.53 con le successive modifiche ed integrazioni; − il Decreto 1 febbraio 2002 n.9 nelle parti incompatibili; − l’articolo 1, comma 2, n. 3 e l’articolo 3, ultimo comma del Decreto 31 gennaio 1924 n.3; − gli articoli 62 e 63 della Legge 18 dicembre 2003 n.165.
 
-Sono abrogati: − la Legge 13 giugno 1990 n.68 con le sue successive modifiche ed integrazioni, ad esclusione del suo articolo 4 (Associazioni non commerciali e fondazioni: nozione e norme fondamentali); − gli articoli 7, 8, 8 bis, 9, 9 bis, 10, 10 bis, 10 ter, 11, 11 bis, 12, 12 bis, 13, 14, 16, 19, 20, 21, della Legge 28 aprile 1999 n.53 con le successive modifiche ed integrazioni; − il Decreto 1 febbraio 2002 n.9 nelle parti incompatibili; − l’articolo 1, comma 2, n. 3 e l’articolo 3, ultimo comma del Decreto 31 gennaio 1924 n.3; − gli articoli 62 e 63 della Legge 18 dicembre 2003 n.165.
-
-2.
-
-Ogni disposizione di legge non espressamente richiamata nella legge e in contrasto con una disposizione di quest’ultima è da intendersi abrogata.
+2\. Ogni disposizione di legge non espressamente richiamata nella legge e in contrasto con una disposizione di quest’ultima è da intendersi abrogata.
 
 ###### Art.120
 
 (Norme transitorie)
 
-1.
+1\. Le società iscritte nel Registro alla data di entrata in vigore della Legge devono uniformare lo statuto alle nuove disposizioni in essa contenute entro il 31 maggio 2008, depositando in [Cancelleria] copia autentica dello statuto nella sua redazione aggiornata ed approvata dall’assemblea.”.
 
-Le società iscritte nel Registro alla data di entrata in vigore della Legge devono uniformare lo statuto alle nuove disposizioni in essa contenute entro il 31 maggio 2008, depositando in [Cancelleria] copia autentica dello statuto nella sua redazione aggiornata ed approvata dall’assemblea.”.
+2\. Dopo tale data le società che non hanno provveduto ad adeguare lo statuto alla legge si sciolgono e devono essere sottoposte, anche d’ufficio, alle procedure di liquidazione. In caso di inerzia, il Commissario della Legge, a tal fine, assegna un termine non superiore a sessanta giorni per depositare la documentazione attestante l’adeguamento dello statuto alla legge, ovvero per procedere alla convocazione di apposita assemblea per l’adozione delle deliberazioni all’uopo necessarie.
 
-2.
-
-Dopo tale data le società che non hanno provveduto ad adeguare lo statuto alla legge si sciolgono e devono essere sottoposte, anche d’ufficio, alle procedure di liquidazione. In caso di inerzia, il Commissario della Legge, a tal fine, assegna un termine non superiore a sessanta giorni per depositare la documentazione attestante l’adeguamento dello statuto alla legge, ovvero per procedere alla convocazione di apposita assemblea per l’adozione delle deliberazioni all’uopo necessarie.
-
-3.
-
-Nelle società per le quali, ai sensi della legge, la nomina del sindaco non è più obbligatoria alla data di entrata in vigore della Legge, i sindaci decadono a far data dal 31 dicembre 2005, fermo restando la facoltà per l’assemblea di prorogare gli incarichi nel rispetto dei requisiti minimi di legge. L’assemblea è tenuta a prendere atto della
+3\. Nelle società per le quali, ai sensi della legge, la nomina del sindaco non è più obbligatoria alla data di entrata in vigore della Legge, i sindaci decadono a far data dal 31 dicembre 2005, fermo restando la facoltà per l’assemblea di prorogare gli incarichi nel rispetto dei requisiti minimi di legge. L’assemblea è tenuta a prendere atto della
 
 decadenza. Sono in ogni caso fatti salvi gli effetti dell’attività compiuta dal sindaco prima dell’entrata in vigore della Legge. In caso di decadenza dalla carica ai sensi del presente comma, il sindaco è esentato dal compimento di tutti i successivi adempimenti, ivi compresi quelli di cui all’articolo 83 della Legge.”.
 
-4.
-
-Nella redazione del bilancio relativo all’anno 2006 vi è facoltà di non indicare l’importo della voce corrispondente dell’esercizio precedente.
+4\. Nella redazione del bilancio relativo all’anno 2006 vi è facoltà di non indicare l’importo della voce corrispondente dell’esercizio precedente.
 
 ###### Art. 120 bis
 
 (Norme di coordinamento)
 
-1.
+1\. Le società costituite ai sensi dell’articolo 12, comma 5 della Legge 13 giugno 1990 n. 68, sono soggette alla Legge, fermo restando quanto stabilito all’articolo 2, comma 2, della Legge stessa. Tuttavia, il socio titolare della licenza che ha costituito la società ovvero il socio al quale è stata trasferita la quota di maggioranza prima dell’entrata in vigore della Legge, in caso di scioglimento, conserva il diritto di riacquisire la titolarità della licenza, sempre che ne abbia i requisiti.
 
-Le società costituite ai sensi dell’articolo 12, comma 5 della Legge 13 giugno 1990 n. 68, sono soggette alla Legge, fermo restando quanto stabilito all’articolo 2, comma 2, della Legge stessa. Tuttavia, il socio titolare della licenza che ha costituito la società ovvero il socio al quale è stata trasferita la quota di maggioranza prima dell’entrata in vigore della Legge, in caso di scioglimento, conserva il diritto di riacquisire la titolarità della licenza, sempre che ne abbia i requisiti.
+2\. Le società costituite anteriormente all’entrata in vigore della Legge sono assoggettate all’obbligo di cui all’articolo 10, comma 5, computando il termine triennale per il versamento di tutti i conferimenti a decorrere dalla entrata in vigore della Legge stessa. L’attestazione dell’avvenuto versamento dei conferimenti deve essere depositata a cura degli amministratori presso la [Cancelleria del Tribunale] entro 60 giorni dall’avvenuto versamento.
 
-2.
+3\. Le società costituite con il nulla osta del Congresso di Stato anteriormente all’entrata in vigore della Legge possono modificare l’oggetto sociale solo previo nulla osta del Congresso di Stato, salvo che non intendano assoggettarsi alla disciplina dell’articolo 9 della Legge ovvero che la modifica non consista in una mera eliminazione di attività o settori merceologici dall’oggetto sociale.
 
-Le società costituite anteriormente all’entrata in vigore della Legge sono assoggettate all’obbligo di cui all’articolo 10, comma 5, computando il termine triennale per il versamento di tutti i conferimenti a decorrere dalla entrata in vigore della Legge stessa. L’attestazione dell’avvenuto versamento dei conferimenti deve essere depositata a cura degli amministratori presso la [Cancelleria del Tribunale] entro 60 giorni dall’avvenuto versamento.
+4\. Nelle società di capitali con socio unico iscritte nel Registro prima dell’entrata in vigore della Legge, il socio unico acquisisce il beneficio della responsabilità limitata a partire dal momento in cui avrà adempiuto agli obblighi previsti dall’articolo 12 della Legge, ferma restando la responsabilità illimitata per le obbligazioni sorte anteriormente.
 
-3.
-
-Le società costituite con il nulla osta del Congresso di Stato anteriormente all’entrata in vigore della Legge possono modificare l’oggetto sociale solo previo nulla osta del Congresso di Stato, salvo che non intendano assoggettarsi alla disciplina dell’articolo 9 della Legge ovvero che la modifica non consista in una mera eliminazione di attività o settori merceologici dall’oggetto sociale.
-
-4.
-
-Nelle società di capitali con socio unico iscritte nel Registro prima dell’entrata in vigore della Legge, il socio unico acquisisce il beneficio della responsabilità limitata a partire dal momento in cui avrà adempiuto agli obblighi previsti dall’articolo 12 della Legge, ferma restando la responsabilità illimitata per le obbligazioni sorte anteriormente.
-
-5.
-
-Per le società iscritte nel Registro prima dell’entrata in vigore della Legge, l’indicazione della data di iscrizione nel Registro, laddove prevista dalla legge, è sostituita dall’indicazione della data di riconoscimento giuridico.
+5\. Per le società iscritte nel Registro prima dell’entrata in vigore della Legge, l’indicazione della data di iscrizione nel Registro, laddove prevista dalla legge, è sostituita dall’indicazione della data di riconoscimento giuridico.
 
 ###### Art.121
 
 (Revisioni)
 
-1.
+1\. Entro e non oltre ventiquattro mesi dalla data di pubblicazione della Legge, le disposizioni della stessa potranno essere modificate con decreto delegato.
 
-Entro e non oltre ventiquattro mesi dalla data di pubblicazione della Legge, le disposizioni della stessa potranno essere modificate con decreto delegato.
-
-2.
-
-Ferme restando le disposizioni particolari di cui alla Legge 22 novembre 2005, n. 168, in materia di requisiti soggettivi ed oggettivi richiesti a coloro che intendono costituire una società avente ad oggetto l’esercizio del commercio, con decreto delegato da emanarsi entro tre anni dall’entrata in vigore della Legge, verranno armonizzate le procedure previste nella legge 22 novembre 2005 n. 168, per la costituzione delle società alle nuove disposizioni di cui alla presente Legge.
+2\. Ferme restando le disposizioni particolari di cui alla Legge 22 novembre 2005, n. 168, in materia di requisiti soggettivi ed oggettivi richiesti a coloro che intendono costituire una società avente ad oggetto l’esercizio del commercio, con decreto delegato da emanarsi entro tre anni dall’entrata in vigore della Legge, verranno armonizzate le procedure previste nella legge 22 novembre 2005 n. 168, per la costituzione delle società alle nuove disposizioni di cui alla presente Legge.
 
 ###### Art.122
 
 (Entrata in vigore)
 
-1.
-
-La presente legge entra in vigore il centottantesimo giorno successivo a quello della sua legale pubblicazione.
+1\. La presente legge entra in vigore il centottantesimo giorno successivo a quello della sua legale pubblicazione.
 
 ALTRE NORME IN MATERIA SOCIETARIA
 
@@ -3315,33 +2429,23 @@ DECRETO DELEGATO 17 maggio 2021 n.90 - Modifica alla Legge 23 febbraio 2006 n. 4
 
 (Sanzioni)
 
-1.
-
-Le sanzioni di cui all’articolo 5 della Legge 7 giugno 2010 n.98 e successive modifiche si applicano anche al mancato rispetto degli obblighi di deposito previsto dalla Legge 23 febbraio 2006 n.47 e successive modifiche.
+1\. Le sanzioni di cui all’articolo 5 della Legge 7 giugno 2010 n.98 e successive modifiche si applicano anche al mancato rispetto degli obblighi di deposito previsto dalla Legge 23 febbraio 2006 n.47 e successive modifiche.
 
 ###### Art. 18
 
 (Norme sulle società immobiliari e sugli autonoleggi)
 
-1.
-
-Il termine per il versamento del capitale sociale di cui all’articolo 1, comma 1, lettera c) del Decreto Delegato 25 giugno 2007 n.77 e all’articolo 5, comma 2, lettera b) del Decreto Delegato 1 giugno 2011 n.94 è fissato in centoventi giorni.
+1\. Il termine per il versamento del capitale sociale di cui all’articolo 1, comma 1, lettera c) del Decreto Delegato 25 giugno 2007 n.77 e all’articolo 5, comma 2, lettera b) del Decreto Delegato 1 giugno 2011 n.94 è fissato in centoventi giorni.
 
 ###### Art. 19
 
 (Unificazione del Registro delle Società e del Registro delle Imprese ad Alto Contenuto Tecnologico)
 
-1.
+1\. Il Registro delle Imprese ad Alto Contenuto Tecnologico, previsto dall’articolo 7 del Decreto Delegato 13 giugno 2019 n.101, e il Registro delle Società, previsto dall’articolo 6 della Legge 23 febbraio 2006 n.47 e successive modifiche, sono unificati.
 
-Il Registro delle Imprese ad Alto Contenuto Tecnologico, previsto dall’articolo 7 del Decreto Delegato 13 giugno 2019 n.101, e il Registro delle Società, previsto dall’articolo 6 della Legge 23 febbraio 2006 n.47 e successive modifiche, sono unificati.
+2\. Per le “Imprese ad Alto Contenuto Tecnologico” dovrà essere dato atto nel Registro delle Società che le stesse sono ad uopo qualificate ai fini di poter accedere ai benefici.
 
-2.
-
-Per le “Imprese ad Alto Contenuto Tecnologico” dovrà essere dato atto nel Registro delle Società che le stesse sono ad uopo qualificate ai fini di poter accedere ai benefici.
-
-3.
-
-Nel Registro delle Società viene riportata per ogni Impresa al Alto Contenuto Tecnologico la seguente dicitura, in base al periodo agevolato in cui la medesima si trova:
+3\. Nel Registro delle Società viene riportata per ogni Impresa al Alto Contenuto Tecnologico la seguente dicitura, in base al periodo agevolato in cui la medesima si trova:
 
 a) SUT I;
 
@@ -3351,17 +2455,13 @@ c) SAT.
 
 Il cambio di livello deve essere autorizzato dalla San Marino Innovation S.r.l. e depositato agli atti della Società.
 
-4.
-
-Le imprese già iscritte nel Registro delle Imprese ad Alto Contenuto Tecnologico, previsto dall’articolo 7 del Decreto Delegato 13 giugno 2019 n.101, verranno, automaticamente e ad opera dell’Ufficio Attività Economiche, radiate da tale registro con la dicitura “radiazione per trasferimento ad altro Registro” e iscritte contemporaneamente nel Registro delle Società con una nuova numerazione.
+4\. Le imprese già iscritte nel Registro delle Imprese ad Alto Contenuto Tecnologico, previsto dall’articolo 7 del Decreto Delegato 13 giugno 2019 n.101, verranno, automaticamente e ad opera dell’Ufficio Attività Economiche, radiate da tale registro con la dicitura “radiazione per trasferimento ad altro Registro” e iscritte contemporaneamente nel Registro delle Società con una nuova numerazione.
 
 ###### Art. 20
 
 (Abrogazioni)
 
-1.
-
-E’ abrogato il Titolo I del Decreto Delegato 2 agosto 2019 n. 118 ad eccezione dell’articolo 1, comma 1 così come modificato dall’articolo 1, comma 1 del presente decreto delegato.
+1\. E’ abrogato il Titolo I del Decreto Delegato 2 agosto 2019 n. 118 ad eccezione dell’articolo 1, comma 1 così come modificato dall’articolo 1, comma 1 del presente decreto delegato.
 
 LEGGE 24 maggio 2022 n.80 - Norme per facilitare e semplificare l’avvio di attività economiche
 
@@ -3375,9 +2475,7 @@ LEGGE 24 maggio 2022 n.80 - Norme per facilitare e semplificare l’avvio di att
 
 3\. –OMISSISArt. 28 (Entrata in vigore)
 
-1.
-
-La presente legge entra in vigore il novantesimo giorno successivo a quello della sua legale pubblicazione.
+1\. La presente legge entra in vigore il novantesimo giorno successivo a quello della sua legale pubblicazione.
 
 DECRETO DELEGATO 8 febbraio 2023 n.17 - Disposizioni sulle modalità di accesso, di tenuta e consultazione del Registro delle Società di cui alla Legge 23 febbraio 2006 n.47 – Legge sulle Società e successive modifiche
 
@@ -3385,13 +2483,9 @@ DECRETO DELEGATO 8 febbraio 2023 n.17 - Disposizioni sulle modalità di accesso,
 
 (Modalità di tenuta del Registro delle Società e dei suoi contenuti)
 
-1.
+1\. Il Pubblico Registro delle Società, tenuto con strumenti informatici, contiene i dati previsti dalla Legge 23 febbraio 2006 n.47 e successive modifiche.
 
-Il Pubblico Registro delle Società, tenuto con strumenti informatici, contiene i dati previsti dalla Legge 23 febbraio 2006 n.47 e successive modifiche.
-
-2.
-
-L’Ufficio Attività Economiche ai fini dell’iscrizione nel Registro delle Società sulla base dell’istanza, della documentazione e certificazione allegata alla stessa ai sensi dell’articolo 6, comma 2 della Legge 23 febbraio 2006 n.47 e successive modifiche, verifica unicamente:
+2\. L’Ufficio Attività Economiche ai fini dell’iscrizione nel Registro delle Società sulla base dell’istanza, della documentazione e certificazione allegata alla stessa ai sensi dell’articolo 6, comma 2 della Legge 23 febbraio 2006 n.47 e successive modifiche, verifica unicamente:
 
 1) l’effettiva registrazione dell’atto salvo le deroghe di legge;
 
@@ -3407,67 +2501,45 @@ L’Ufficio Attività Economiche ai fini dell’iscrizione nel Registro delle So
 
 7) nelle trasformazioni/fusioni/scissioni, il rispetto delle formalità e delle tempistiche previste nelle varie fasi della procedura.
 
-3.
+3\. Per uniformità dei dati la denominazione della società viene iscritta unicamente in caratteri maiuscoli unitamente al tipo di società in forma abbreviata. Eventuali denominazioni formate anche in caratteri minuscoli possono essere indicate nella denominazione commerciale di cui all’articolo 21 della Legge n.40/2014.
 
-Per uniformità dei dati la denominazione della società viene iscritta unicamente in caratteri maiuscoli unitamente al tipo di società in forma abbreviata. Eventuali denominazioni formate anche in caratteri minuscoli possono essere indicate nella denominazione commerciale di cui all’articolo 21 della Legge n.40/2014.
-
-4.
-
-La certificazione del soggetto idoneo non deve essere depositata nel caso di intestazione di quote a seguito di successione e di reintestazione di quote precedentemente intestate fiduciariamente di cui all’articolo 3 della Legge 7 giugno 2010 n.98.
+4\. La certificazione del soggetto idoneo non deve essere depositata nel caso di intestazione di quote a seguito di successione e di reintestazione di quote precedentemente intestate fiduciariamente di cui all’articolo 3 della Legge 7 giugno 2010 n.98.
 
 ###### Art. 2
 
 (Consultazione dei dati contenuti nel Registro delle Società)
 
-1.
-
-In applicazione a quanto previsto dall’articolo 6, comma 3 della Legge 23 febbraio 2006 n.47 e successive modifiche la consultazione del Registro informatico è pubblica e chiunque può prendere libera visione dei dati presenti alla data di accesso
+1\. In applicazione a quanto previsto dall’articolo 6, comma 3 della Legge 23 febbraio 2006 n.47 e successive modifiche la consultazione del Registro informatico è pubblica e chiunque può prendere libera visione dei dati presenti alla data di accesso
 
 tramite ricerca effettuata esclusivamente per nome, numero di iscrizione della società, anche avvalendosi del portale della Pubblica Amministrazione.
 
-2.
+2\. All’Autorità Giudiziaria, all’Autorità di Vigilanza della Banca Centrale, all’Agenzia di Informazione Finanziaria, alle Forze dell’Ordine che svolgono funzioni di polizia giudiziaria, ai liberi professionisti iscritti nella Repubblica di San Marino all’Albo degli Avvocati e Notai e all’Albo dei Dottori Commercialisti ed Esperti Contabili, agli Uffici Pubblici con funzioni ispettive, di controllo o di scambio di informazioni, nonché ai soggetti vigilati ai sensi della Legge 17 novembre 2005 n. 165 e successive modifiche, è consentita la visualizzazione o l’accesso anche dei dati storici resi pubblici a norma di legge.
 
-All’Autorità Giudiziaria, all’Autorità di Vigilanza della Banca Centrale, all’Agenzia di Informazione Finanziaria, alle Forze dell’Ordine che svolgono funzioni di polizia giudiziaria, ai liberi professionisti iscritti nella Repubblica di San Marino all’Albo degli Avvocati e Notai e all’Albo dei Dottori Commercialisti ed Esperti Contabili, agli Uffici Pubblici con funzioni ispettive, di controllo o di scambio di informazioni, nonché ai soggetti vigilati ai sensi della Legge 17 novembre 2005 n. 165 e successive modifiche, è consentita la visualizzazione o l’accesso anche dei dati storici resi pubblici a norma di legge.
+3\. La funzione di consultazione e ricerca illimitate dei dati contenuti nel Registro delle Società è autorizzata ai seguenti soggetti: Autorità Giudiziaria, Autorità di Vigilanza della Banca Centrale, Agenzia di Informazione Finanziaria, Forze dell’Ordine che svolgono funzioni di polizia giudiziaria, Interpol, Ufficio Centrale di Collegamento e Uffici Pubblici con funzioni ispettive e di controllo. La suddetta funzione è subordinata alla comunicazione da parte dei superiori organi e uffici dei soggetti legittimati o autorizzati a tale accesso.
 
-3.
+4\. All’Autorità Giudiziaria, all’Autorità di Vigilanza della Banca Centrale, all’Agenzia di Informazione Finanziaria e alle Forze dell’Ordine che svolgono funzioni di polizia giudiziaria è consentito l’accesso agli atti depositati ai fini dell’iscrizione. A parziale integrazione e modifica dell’articolo 26, comma 2 della Legge 24 maggio 2022 n.80 tale accesso è consentito ai liberi professionisti iscritti nella Repubblica di San Marino all’Albo degli Avvocati e Notai e altresì ai liberi professionisti iscritti all’Albo dei Dottori Commercialisti ed Esperti Contabili.
 
-La funzione di consultazione e ricerca illimitate dei dati contenuti nel Registro delle Società è autorizzata ai seguenti soggetti: Autorità Giudiziaria, Autorità di Vigilanza della Banca Centrale, Agenzia di Informazione Finanziaria, Forze dell’Ordine che svolgono funzioni di polizia giudiziaria, Interpol, Ufficio Centrale di Collegamento e Uffici Pubblici con funzioni ispettive e di controllo. La suddetta funzione è subordinata alla comunicazione da parte dei superiori organi e uffici dei soggetti legittimati o autorizzati a tale accesso.
+5\. L’Ufficio Attività Economiche mette a disposizione del Servizio Esattoria della Banca Centrale della Repubblica di San Marino i dati del Registro delle Società utili al rilascio della visura della situazione economico-patrimoniale del debitore prevista all’articolo 17-bis della Legge 17 giugno 1994 n.55 e per l’espletamento delle funzioni attribuitele dalla legge.
 
-4.
-
-All’Autorità Giudiziaria, all’Autorità di Vigilanza della Banca Centrale, all’Agenzia di Informazione Finanziaria e alle Forze dell’Ordine che svolgono funzioni di polizia giudiziaria è consentito l’accesso agli atti depositati ai fini dell’iscrizione. A parziale integrazione e modifica dell’articolo 26, comma 2 della Legge 24 maggio 2022 n.80 tale accesso è consentito ai liberi professionisti iscritti nella Repubblica di San Marino all’Albo degli Avvocati e Notai e altresì ai liberi professionisti iscritti all’Albo dei Dottori Commercialisti ed Esperti Contabili.
-
-5.
-
-L’Ufficio Attività Economiche mette a disposizione del Servizio Esattoria della Banca Centrale della Repubblica di San Marino i dati del Registro delle Società utili al rilascio della visura della situazione economico-patrimoniale del debitore prevista all’articolo 17-bis della Legge 17 giugno 1994 n.55 e per l’espletamento delle funzioni attribuitele dalla legge.
-
-6.
-
-L’Ufficio Attività Economiche è autorizzato a rilasciare, agli eredi o a loro delegato, previa richiesta e previa presentazione di atto notorio o altro documento attestante la qualità di eredi, i dati riferiti alle proprietà, alla data del decesso, di quote o azioni sociali del soggetto deceduto, ai fini dell’espletamento delle pratiche successorie.
+6\. L’Ufficio Attività Economiche è autorizzato a rilasciare, agli eredi o a loro delegato, previa richiesta e previa presentazione di atto notorio o altro documento attestante la qualità di eredi, i dati riferiti alle proprietà, alla data del decesso, di quote o azioni sociali del soggetto deceduto, ai fini dell’espletamento delle pratiche successorie.
 
 ###### Art. 3
 
 (Chiavi di accesso)
 
-1.
-
-Le chiavi di accesso al Registro informatico sono determinate sulla base delle disposizioni di cui all’articolo precedente fornite dall’Ufficio Attività Economiche.
+1\. Le chiavi di accesso al Registro informatico sono determinate sulla base delle disposizioni di cui all’articolo precedente fornite dall’Ufficio Attività Economiche.
 
 ###### Art. 4
 
 (Vigenza)
 
-1.
-
-Il rilascio di apposita certificazione attestante lo stato di vigenza attuale e storico dei dati delle società iscritte nel Registro è effettuato dall’Ufficio Attività Economiche previa domanda del richiedente.
+1\. Il rilascio di apposita certificazione attestante lo stato di vigenza attuale e storico dei dati delle società iscritte nel Registro è effettuato dall’Ufficio Attività Economiche previa domanda del richiedente.
 
 ###### Art. 5
 
 (Abrogazioni)
 
-1.
-
-È abrogato il Decreto Delegato 15 novembre 2022 n.152. Sono fatti salvi gli effetti ed atti conformemente compiuti durante la vigenza dello stesso.
+1\. È abrogato il Decreto Delegato 15 novembre 2022 n.152. Sono fatti salvi gli effetti ed atti conformemente compiuti durante la vigenza dello stesso.
 
 DECRETO DELEGATO 25 giugno 2007 N.77 - Disposizioni sulle Società Immobiliari
 
@@ -3497,9 +2569,7 @@ LEGGE 7 giugno 2010 N.98 - Disposizioni per la conoscibilità degli assetti prop
 
 (Disposizioni sulle partecipazioni societarie attraverso mandati fiduciari)
 
-1.
-
-Le società fiduciarie estere, nel rispetto di condizioni, principi e divieti di cui alla presente legge e della Legge 23 febbraio 2006 n.47 (Legge sulle Società) e successive modifiche, possono eseguire mandati aventi ad oggetto l’amministrazione di partecipazioni in società sammarinesi ad esse fiduciariamente intestate, a condizione che:
+1\. Le società fiduciarie estere, nel rispetto di condizioni, principi e divieti di cui alla presente legge e della Legge 23 febbraio 2006 n.47 (Legge sulle Società) e successive modifiche, possono eseguire mandati aventi ad oggetto l’amministrazione di partecipazioni in società sammarinesi ad esse fiduciariamente intestate, a condizione che:
 
 a) i rapporti contrattuali e precontrattuali con la clientela, non si svolgano in territorio sammarinese;
 
@@ -3507,57 +2577,41 @@ b) rispettino i medesimi obblighi imposti dall’articolo 17 della Legge 23 febb
 
 c) dichiarino, in sede di atto costitutivo o acquisitivo della partecipazione societaria sammarinese, gli estremi della propria autorizzazione amministrativa estera a svolgere attività fiduciaria in forma professionale.
 
-2.
-
-Le società fiduciarie, sammarinesi o estere, nei casi in cui il mandato abbia ad oggetto partecipazioni in società sammarinesi, sono tenute a far pervenire al Dipartimento Vigilanza della Banca Centrale della Repubblica di San Marino, entro il termine di 30 giorni dall’entrata in vigore della presente legge e, ove posteriore, dalla propria iscrizione nel Libro Soci della società fiduciariamente partecipata, una comunicazione scritta contenente le generalità dei fiducianti, la misura della partecipazione a ciascuno ascrivibile nonché, ove diversi da persone fisiche, le generalità dei loro titolari effettivi, così come dovrà formare oggetto di comunicazione ogni eventuale successiva variazione alla compagine dei propri fiducianti e/o dei loro titolari effettivi.
+2\. Le società fiduciarie, sammarinesi o estere, nei casi in cui il mandato abbia ad oggetto partecipazioni in società sammarinesi, sono tenute a far pervenire al Dipartimento Vigilanza della Banca Centrale della Repubblica di San Marino, entro il termine di 30 giorni dall’entrata in vigore della presente legge e, ove posteriore, dalla propria iscrizione nel Libro Soci della società fiduciariamente partecipata, una comunicazione scritta contenente le generalità dei fiducianti, la misura della partecipazione a ciascuno ascrivibile nonché, ove diversi da persone fisiche, le generalità dei loro titolari effettivi, così come dovrà formare oggetto di comunicazione ogni eventuale successiva variazione alla compagine dei propri fiducianti e/o dei loro titolari effettivi.
 
 ###### Art. 3
 
 (Obblighi e diritti di recesso unilaterale delle Società Fiduciarie)
 
-1.
-
-Nei casi in cui le società fiduciarie di cui all’articolo che precede:
+1\. Nei casi in cui le società fiduciarie di cui all’articolo che precede:
 
 a) rilevino la sopravvenuta perdita dei requisiti di idoneità in capo ai fiducianti ovvero ai titolari effettivi;
 
 b) si trovino nell’impossibilità, per inadempimento dei fiducianti, ovvero dei titolari effettivi, di rilevare il mantenimento dei predetti requisiti nei termini stabiliti dalla Banca Centrale della Repubblica di San Marino; devono recedere unilateralmente dal contratto.
 
-2.
+2\. Possono recedere unilateralmente dai contratti le società fiduciarie di cui all’articolo che precede allorché rilevino gravi inadempienze contrattuali dei fiducianti.
 
-Possono recedere unilateralmente dai contratti le società fiduciarie di cui all’articolo che precede allorché rilevino gravi inadempienze contrattuali dei fiducianti.
+3\. L’avvenuto recesso esercitato ai sensi dei precedenti commi 1 e 2 deve essere comunicato al fiduciante, al legale rappresentante della società per gli adempimenti relativi al libro soci, e alla Cancelleria Commerciale del Tribunale Unico.
 
-3.
-
-L’avvenuto recesso esercitato ai sensi dei precedenti commi 1 e 2 deve essere comunicato al fiduciante, al legale rappresentante della società per gli adempimenti relativi al libro soci, e alla Cancelleria Commerciale del Tribunale Unico.
-
-4.
-
-Con l’adempimento della comunicazione alla Cancelleria Commerciale del Tribunale Unico, l’esercizio dei diritti sociali compete ai fiducianti.
+4\. Con l’adempimento della comunicazione alla Cancelleria Commerciale del Tribunale Unico, l’esercizio dei diritti sociali compete ai fiducianti.
 
 ###### Art. 4
 
 (Altri obblighi di comunicazione)
 
-1.
-
-Entro il 31 luglio 2010 tutte le società di capitali diverse da quelle con azioni anonime al portatore aventi sede legale nella Repubblica di San Marino devono far pervenire, anche per il tramite di un Notaio iscritto all’albo sammarinese, alla Cancelleria Commerciale del Tribunale Unico un estratto autentico del proprio Libro Soci, da cui si evinca la propria compagine proprietaria.
+1\. Entro il 31 luglio 2010 tutte le società di capitali diverse da quelle con azioni anonime al portatore aventi sede legale nella Repubblica di San Marino devono far pervenire, anche per il tramite di un Notaio iscritto all’albo sammarinese, alla Cancelleria Commerciale del Tribunale Unico un estratto autentico del proprio Libro Soci, da cui si evinca la propria compagine proprietaria.
 
 ###### Art.5
 
 (Sanzioni)
 
-1.
-
-Il mancato rispetto degli obblighi di comunicazione e deposito dalla presente legge e dalla Legge 23 febbraio 2006 n.47 (Legge sulle Società) e successive modifiche comporta l’applicazione della sanzione amministrativa di € 500,00 per ogni singola violazione da parte dell’Ufficio Attività di Controllo anche su segnalazione degli uffici/organi di controllo competenti destinatari delle comunicazioni o riceventi il deposito.
+1\. Il mancato rispetto degli obblighi di comunicazione e deposito dalla presente legge e dalla Legge 23 febbraio 2006 n.47 (Legge sulle Società) e successive modifiche comporta l’applicazione della sanzione amministrativa di € 500,00 per ogni singola violazione da parte dell’Ufficio Attività di Controllo anche su segnalazione degli uffici/organi di controllo competenti destinatari delle comunicazioni o riceventi il deposito.
 
 ###### Art. 6
 
 (Norma transitoria)
 
-1.
-
-Entro il 31 luglio 2010 le fiduciarie estere titolari di mandati di partecipazione in società sammarinesi alla data di entrata in vigore della presente legge devono adempiere alle disposizioni di cui all’articolo 2 comma 1 punto c) rendendo la dichiarazione direttamente alla Cancelleria Commerciale del Tribunale Unico.
+1\. Entro il 31 luglio 2010 le fiduciarie estere titolari di mandati di partecipazione in società sammarinesi alla data di entrata in vigore della presente legge devono adempiere alle disposizioni di cui all’articolo 2 comma 1 punto c) rendendo la dichiarazione direttamente alla Cancelleria Commerciale del Tribunale Unico.
 
 ###### Art. 7
 
@@ -3567,13 +2621,9 @@ La presente legge si applica a tutte le società di diritto sammarinese, incluse
 
 Dovranno essere disciplinati con uno o più decreti delegati: − divieti di detenzione e trasferimento di partecipazioni societarie; − procedure di re-intestazione di partecipazioni a seguito delle azioni di recesso di cui al precedente articolo 3; − criteri e deroghe nell’applicazione delle disposizioni della presente legge riguardanti le procedure di liquidazione; − disposizioni in deroga a quanto previsto dall’articolo 1, comma 5, volte a rendere nominative le azioni al portatore a tutela dei soci che si sono uniformati alle disposizioni della presente legge.
 
-3.
+3\. Con circolare della Segreteria di Stato per l’Industria, Commercio ed Artigianato potranno essere disciplinate le modalità operative di attuazione della presente legge.
 
-Con circolare della Segreteria di Stato per l’Industria, Commercio ed Artigianato potranno essere disciplinate le modalità operative di attuazione della presente legge.
-
-4.
-
-L’Ufficio di Controllo sulle attività economiche e l’Ufficio Centrale di Collegamento hanno accesso alle informazioni raccolte e detenute dalla Banca Centrale ai sensi della presente legge con facoltà di poterne disporre ai fini delle attività di controllo sulle società ad essi spettanti ed al fine dello scambio di informazioni previsto dalla legge e dagli accordi internazionali in vigore. L’accesso e l’utilizzo delle predette informazioni non costituisce violazione degli obblighi di
+4\. L’Ufficio di Controllo sulle attività economiche e l’Ufficio Centrale di Collegamento hanno accesso alle informazioni raccolte e detenute dalla Banca Centrale ai sensi della presente legge con facoltà di poterne disporre ai fini delle attività di controllo sulle società ad essi spettanti ed al fine dello scambio di informazioni previsto dalla legge e dagli accordi internazionali in vigore. L’accesso e l’utilizzo delle predette informazioni non costituisce violazione degli obblighi di
 
 riservatezza di cui all’articolo 36 della Legge 17 novembre 2005 n.165 e successive modifiche.
 
@@ -3659,9 +2709,7 @@ L’aliquota dell’imposta sostitutiva di cui al comma 4 dell’articolo 26 del
 
 Ai fini dell’applicazione dell’imposta sostitutiva di cui al comma precedente, nell’ipotesi di trasferimento della sede statutaria all’estero che comporti la perdita della residenza sammarinese ai fini dell’imposta sui redditi, la base imponibile di cui al comma 3 del medesimo articolo è costituita dalla differenza tra il valore normale di mercato complessivo degli elementi del patrimonio della società che non siano confluiti nella stabile organizzazione di cui alla lettera a) del precedente articolo 2 o nella società di cui alla lettera b) del medesimo, al netto della quota esclusa ai sensi del comma 5 dell’articolo 26 del Decreto - Legge 26 ottobre 2010 n. 172, e l’ammontare complessivo dell’ultimo valore fiscalmente riconosciuto degli elementi stessi ai fini dell’imposta sui redditi, anche questo determinato al netto della quota esclusa ai sensi del comma 5 dell’articolo 26 del Decreto - Legge 26 ottobre 2010 n.
 
-172.
-
-Ai fini della determinazione del valore normale di mercato di cui al presente articolo, per le aziende, per i complessi aziendali relativi a singoli rami di impresa e per le partecipazioni societarie deve essere computato anche il valore dell’eventuale avviamento, fermo restando quanto previsto dal comma 5 dell’articolo 26 del Decreto - Legge 26 ottobre 2010 n. 172 nelle ipotesi ivi previste.
+172\. Ai fini della determinazione del valore normale di mercato di cui al presente articolo, per le aziende, per i complessi aziendali relativi a singoli rami di impresa e per le partecipazioni societarie deve essere computato anche il valore dell’eventuale avviamento, fermo restando quanto previsto dal comma 5 dell’articolo 26 del Decreto - Legge 26 ottobre 2010 n. 172 nelle ipotesi ivi previste.
 
 Nel caso di partecipazioni societarie, ai fini del presente articolo il valore di mercato è determinato moltiplicando la percentuale di capitale rappresentato dalla partecipazione per il valore normale di mercato dell’intera società comprensivo del valore dell’eventuale avviamento.
 
@@ -3699,15 +2747,11 @@ DECRETO - LEGGE 30 ottobre 2015 n.159 - Misure urgenti per la soluzione dello st
 
 ###### Art. 1
 
-1.
-
-Qualora l’impresa sia stata ammessa alla procedura prevista dall’articolo 114 della Legge 23 febbraio 2006 n. 47 (Legge sulle Società) e successive modifiche e, in seguito alla chiusura del periodo di moratoria, incorra in una procedura concorsuale, si applicano le disposizioni previste dal presente decreto – legge.
+1\. Qualora l’impresa sia stata ammessa alla procedura prevista dall’articolo 114 della Legge 23 febbraio 2006 n. 47 (Legge sulle Società) e successive modifiche e, in seguito alla chiusura del periodo di moratoria, incorra in una procedura concorsuale, si applicano le disposizioni previste dal presente decreto – legge.
 
 ###### Art. 2
 
-1.
-
-In caso di procedura concorsuale, i debiti sottoelencati, contratti dagli amministratori della società durante il periodo della procedura prevista dall’articolo 114 della Legge n.47/2006 (Legge sulle Società) e successive modifiche, devono essere pagati in prededuzione e nell’ordine che segue:
+1\. In caso di procedura concorsuale, i debiti sottoelencati, contratti dagli amministratori della società durante il periodo della procedura prevista dall’articolo 114 della Legge n.47/2006 (Legge sulle Società) e successive modifiche, devono essere pagati in prededuzione e nell’ordine che segue:
 
 a) debito connesso alle spese sostenute per il concorso dei creditori;
 
@@ -3721,23 +2765,15 @@ e) debito verso l’Istituto Sicurezza Sociale per contributi ed ogni altro oner
 
 f) debito verso le banche per i finanziamenti concessi nel periodo di moratoria.
 
-2.
+2\. I debiti contratti verso le persone di servizio per i loro salari e stipendi antecedentemente all’avvio della procedura concorsuale, fatta esclusione per gli amministratori e i dirigenti, devono essere pagati prioritariamente rispetto ai debiti indicati alle lettere a), b), c), d), e) e f) di cui al precedente comma. 2 bis. Al fine di garantire piena tutela verso le persone di servizio, i finanziamenti concessi per il pagamento dei debiti di cui al precedente comma godono dello stesso grado di priorità.
 
-I debiti contratti verso le persone di servizio per i loro salari e stipendi antecedentemente all’avvio della procedura concorsuale, fatta esclusione per gli amministratori e i dirigenti, devono essere pagati prioritariamente rispetto ai debiti indicati alle lettere a), b), c), d), e) e f) di cui al precedente comma. 2 bis. Al fine di garantire piena tutela verso le persone di servizio, i finanziamenti concessi per il pagamento dei debiti di cui al precedente comma godono dello stesso grado di priorità.
+3\. I debiti contratti dall’impresa verso le banche durante la fase preliminare, che decorre dal deposito della domanda in tribunale di richiesta di avvio della procedura prevista dall’articolo 114 della Legge n.47/2006 (Legge sulle Società) e successive modifiche, hanno lo stesso trattamento di cui alla lettera e) del comma 1 qualora la procedura stessa sia valutata positivamente dal Commissario della Legge.
 
-3.
-
-I debiti contratti dall’impresa verso le banche durante la fase preliminare, che decorre dal deposito della domanda in tribunale di richiesta di avvio della procedura prevista dall’articolo 114 della Legge n.47/2006 (Legge sulle Società) e successive modifiche, hanno lo stesso trattamento di cui alla lettera e) del comma 1 qualora la procedura stessa sia valutata positivamente dal Commissario della Legge.
-
-4.
-
-Per ogni altro debito contratto dall’impresa nel periodo di moratoria si applica quanto previsto al comma 5 dell’articolo 114 della Legge n.47/2006 (Legge sulle Società) e successive modifiche.
+4\. Per ogni altro debito contratto dall’impresa nel periodo di moratoria si applica quanto previsto al comma 5 dell’articolo 114 della Legge n.47/2006 (Legge sulle Società) e successive modifiche.
 
 Art 4
 
-1.
-
-Ai fini della procedibilità e punibilità dei reati di cui agli articoli da 211 a 218 del Codice Penale, la concessione del rimedio, di cui all’articolo 20 della Legge 15 novembre 1917 n. 17 così come disciplinato dall’articolo 114 della Legge n. 47/2006 (Legge sulle Società), è a tutti gli effetti equiparata all’apertura della procedura concorsuale dei creditori.
+1\. Ai fini della procedibilità e punibilità dei reati di cui agli articoli da 211 a 218 del Codice Penale, la concessione del rimedio, di cui all’articolo 20 della Legge 15 novembre 1917 n. 17 così come disciplinato dall’articolo 114 della Legge n. 47/2006 (Legge sulle Società), è a tutti gli effetti equiparata all’apertura della procedura concorsuale dei creditori.
 
 DECRETO – LEGGE 15 febbraio 2024 n.22 MISURE URGENTI PER LA SOLUZIONE DELLO STATO DI CRISI TEMPORANEA DELLE IMPRESE
 
@@ -3841,9 +2877,7 @@ IMPRESE AD ALTO CONTENUTO TECNOLOGICO
 
 (Oggetto e finalità)
 
-1.
-
-Il presente decreto delegato, al fine di determinare condizioni favorevoli alla nascita e sviluppo di imprese ad alto contenuto tecnologico, con l’obiettivo di creare le migliori condizioni di operatività e di gestione dell'impresa stessa, a seconda delle caratteristiche e delle peculiarità del singolo settore di investimento, introduce le misure attuative della disposizione contenuta nell’articolo 21 della Legge 23 giugno 2013 n.71 e successive modifiche, tese a:
+1\. Il presente decreto delegato, al fine di determinare condizioni favorevoli alla nascita e sviluppo di imprese ad alto contenuto tecnologico, con l’obiettivo di creare le migliori condizioni di operatività e di gestione dell'impresa stessa, a seconda delle caratteristiche e delle peculiarità del singolo settore di investimento, introduce le misure attuative della disposizione contenuta nell’articolo 21 della Legge 23 giugno 2013 n.71 e successive modifiche, tese a:
 
 a) definire i requisiti in base ai quali un’impresa possa essere classificata quale Impresa ad alto contenuto tecnologico;
 
@@ -3863,9 +2897,7 @@ g) introdurre particolari tipologie di licenza, anche in deroga alla legge 31 ma
 
 (Definizioni)
 
-1.
-
-Ai fini del presente decreto delegato deve intendersi:
+1\. Ai fini del presente decreto delegato deve intendersi:
 
 a) per San Marino Innovation S.p.A. l’Istituto per l’Innovazione della Repubblica di San Marino S.p.A. di cui al Decreto Delegato 7 marzo 2018 n.23;
 
@@ -3875,9 +2907,7 @@ b) per gruppo di imprese quanto previsto ai sensi dell’articolo 2, lettera m) 
 
 (Requisiti per la classificazione delle Imprese ad alto contenuto tecnologico)
 
-1.
-
-La società che intenda ottenere lo status di “Impresa ad alto contenuto tecnologico” e ottenere l’iscrizione nell’apposito Registro di cui all’articolo 7 deve essere in possesso dei seguenti requisiti:
+1\. La società che intenda ottenere lo status di “Impresa ad alto contenuto tecnologico” e ottenere l’iscrizione nell’apposito Registro di cui all’articolo 7 deve essere in possesso dei seguenti requisiti:
 
 a) aver ottenuto la certificazione del carattere altamente innovativo dell’impresa da parte di San Marino Innovation S.p.A., di cui all’articolo 4 del presente decreto delegato;
 
@@ -3887,37 +2917,25 @@ c) essere titolari di una licenza industriale o di servizi quale attività preva
 
 d)[abrogato].
 
-2.
-
-Lo stato di cessazione della licenza determina la perdita dello status di Impresa ad alto contenuto tecnologico. 2 bis. Il legale rappresentante dell’Impresa ad alto contenuto tecnologico deve depositare presso San Marino Innovation S.p.A. copia del bilancio d’esercizio, pubblicato ai sensi dell’articolo 84 della Legge 23 febbraio 2006 n.47 e successive modifiche, entro sessanta giorni dall’approvazione dello stesso. La mancata approvazione del bilancio entro l’esercizio successivo a quello di riferimento determina la perdita dello status di “Impresa ad alto contenuto tecnologico.
+2\. Lo stato di cessazione della licenza determina la perdita dello status di Impresa ad alto contenuto tecnologico. 2 bis. Il legale rappresentante dell’Impresa ad alto contenuto tecnologico deve depositare presso San Marino Innovation S.p.A. copia del bilancio d’esercizio, pubblicato ai sensi dell’articolo 84 della Legge 23 febbraio 2006 n.47 e successive modifiche, entro sessanta giorni dall’approvazione dello stesso. La mancata approvazione del bilancio entro l’esercizio successivo a quello di riferimento determina la perdita dello status di “Impresa ad alto contenuto tecnologico.
 
 ###### Art. 4
 
 (Certificazione del carattere altamente innovativo dell’impresa)
 
-1.
+1\. La certificazione del carattere altamente innovativo dell’impresa di cui all’articolo 3, comma 1, lettera a) viene rilasciata da San Marino Innovation S.p.A., a seguito di apposita istanza da parte dei soci promotori o, in caso di società già costituita, da parte del legale rappresentante, i quali dimostrino di avere un’idea innovativa di prodotto, servizio, processo, tecnologia, organizzazione o modello di business.
 
-La certificazione del carattere altamente innovativo dell’impresa di cui all’articolo 3, comma 1, lettera a) viene rilasciata da San Marino Innovation S.p.A., a seguito di apposita istanza da parte dei soci promotori o, in caso di società già costituita, da parte del legale rappresentante, i quali dimostrino di avere un’idea innovativa di prodotto, servizio, processo, tecnologia, organizzazione o modello di business.
+2\. San Marino Innovation S.p.A. con apposito regolamento da adottarsi entro 6 mesi dalla ratifica del presente decreto delegato, individua i criteri e le modalità per la presentazione dell’istanza di cui al comma 1. Al regolamento viene data massima pubblicità tramite la pubblicazione sul sito della società e con ogni altra forma ritenuta opportuna.
 
-2.
-
-San Marino Innovation S.p.A. con apposito regolamento da adottarsi entro 6 mesi dalla ratifica del presente decreto delegato, individua i criteri e le modalità per la presentazione dell’istanza di cui al comma 1. Al regolamento viene data massima pubblicità tramite la pubblicazione sul sito della società e con ogni altra forma ritenuta opportuna.
-
-3.
-
-La certificazione del carattere altamente innovativo d’impresa determina l’accesso ai benefici previsti nel presente decreto delegato.
+3\. La certificazione del carattere altamente innovativo d’impresa determina l’accesso ai benefici previsti nel presente decreto delegato.
 
 ###### Art. 5
 
 (Poteri di supervisione, regolamentari e sanzionatori di San Marino Innovation S.p.A.)
 
-1.
+1\. San Marino Innovation S.p.A. esercita poteri di supervisione, regolamentari e sanzionatori nei confronti delle imprese ad alto contenuto tecnologico.
 
-San Marino Innovation S.p.A. esercita poteri di supervisione, regolamentari e sanzionatori nei confronti delle imprese ad alto contenuto tecnologico.
-
-2.
-
-San Marino Innovation S.p.A. ha il dovere di, a titolo esemplificativo e non esaustivo:
+2\. San Marino Innovation S.p.A. ha il dovere di, a titolo esemplificativo e non esaustivo:
 
 a) regolamentare, monitorare e supervisionare le attività ad alto contenuto tecnologico tramite l’emanazione di propri regolamenti e direttive, destinati ai soggetti interessati e per le finalità di cui al presente decreto delegato;
 
@@ -3933,73 +2951,45 @@ e) autorizzare le società che intendono svolgere l’attività, anche in modo n
 
 f) monitorare il funzionamento e l'applicazione delle leggi che direttamente o indirettamente influenzano l’attività delle imprese ad alto contenuto tecnologico nonché intraprendere o commissionare studi, ricerche o indagini di settore che siano necessari a tale riguardo nonchè fornire informazioni e rilasciare linee guida connesse al settore delle tecnologie innovative, anche sulla base delle rilevazioni effettuate.
 
-3.
+3\. A fronte dell’attività di supporto alle Imprese ad alto contenuto tecnologico da parte di San Marino Innovation S.p.A., quest’ultimo stabilisce, con direttiva da aggiornarsi periodicamente, le tariffe di accesso e permanenza nel regime, nonché dettaglia i criteri di applicazione delle tariffe.
 
-A fronte dell’attività di supporto alle Imprese ad alto contenuto tecnologico da parte di San Marino Innovation S.p.A., quest’ultimo stabilisce, con direttiva da aggiornarsi periodicamente, le tariffe di accesso e permanenza nel regime, nonché dettaglia i criteri di applicazione delle tariffe.
-
-4.
-
-In caso di mancata corresponsione delle tariffe di cui al presente decreto delegato, l’impresa inadempiente decade dal diritto alla permanenza nel regime agevolato con conseguente cancellazione d’ufficio dal Registro di cui all’articolo 7.
+4\. In caso di mancata corresponsione delle tariffe di cui al presente decreto delegato, l’impresa inadempiente decade dal diritto alla permanenza nel regime agevolato con conseguente cancellazione d’ufficio dal Registro di cui all’articolo 7.
 
 ###### Art. 6
 
 (Controlli relativi al mantenimento dei requisiti di Impresa ad alto contenuto tecnologico)
 
-1.
+1\. I controlli relativi al mantenimento dei requisiti per l’iscrizione nel Registro di cui all’articolo 7 sono effettuati da San Marino Innovation S.p.A.
 
-I controlli relativi al mantenimento dei requisiti per l’iscrizione nel Registro di cui all’articolo 7 sono effettuati da San Marino Innovation S.p.A.
+2\. Al verificarsi della mancanza anche di uno dei requisiti di cui all’articolo 3, San Marino Innovation S.p.A. assegna alla società un termine perentorio per il ripristino dei requisiti pari a 30 giorni correnti, decorsi infruttuosamente i quali si verifica la perdita dello status di Impresa ad Alto Contenuto Tecnologico. L’Ufficio Attività Economiche procede alla comunicazione della perdita dello status di Impresa ad Alto Contenuto Tecnologico.
 
-2.
+3\. Entro 30 giorni correnti dalla comunicazione della perdita dello status di Impresa ad Alto Contenuto Tecnologico, la società deve deliberare la messa in liquidazione volontaria, salvo non decida di richiedere l’iscrizione al Registro delle Società, previo assolvimento degli obblighi previsti dalla normativa vigente.
 
-Al verificarsi della mancanza anche di uno dei requisiti di cui all’articolo 3, San Marino Innovation S.p.A. assegna alla società un termine perentorio per il ripristino dei requisiti pari a 30 giorni correnti, decorsi infruttuosamente i quali si verifica la perdita dello status di Impresa ad Alto Contenuto Tecnologico. L’Ufficio Attività Economiche procede alla comunicazione della perdita dello status di Impresa ad Alto Contenuto Tecnologico.
-
-3.
-
-Entro 30 giorni correnti dalla comunicazione della perdita dello status di Impresa ad Alto Contenuto Tecnologico, la società deve deliberare la messa in liquidazione volontaria, salvo non decida di richiedere l’iscrizione al Registro delle Società, previo assolvimento degli obblighi previsti dalla normativa vigente.
-
-4.
-
-Decorso infruttuosamente il termine di 30 giorni di cui al comma 3, l’Ufficio Attività Economiche segnala la società al Commissario della Legge per l’attivazione delle procedure di liquidazione d’ufficio.
+4\. Decorso infruttuosamente il termine di 30 giorni di cui al comma 3, l’Ufficio Attività Economiche segnala la società al Commissario della Legge per l’attivazione delle procedure di liquidazione d’ufficio.
 
 ###### Art. 6-bis
 
 (Partecipazione di Società Fiduciarie)
 
-1.
+1\. Il legale rappresentante dell’Impresa ad Alto Contenuto Tecnologico che ha nella propria compagine societaria partecipazioni detenute tramite mandato fiduciario deve depositare presso San Marino Innovation S.p.A. l’attestazione, rilasciata dalla fiduciaria sammarinese o estera, dell’effettivo beneficiario del mandato fiduciario, entro trenta giorni correnti dalla stipula dello stesso. Il legale rappresentante della società è altresì obbligato a depositare l’attestazione, rilasciata dalla fiduciaria sammarinese o estera, dell’effettivo beneficiario del mandato fiduciario, entro trenta giorni correnti dall’eventuale successiva variazione del mandato fiduciario.
 
-Il legale rappresentante dell’Impresa ad Alto Contenuto Tecnologico che ha nella propria compagine societaria partecipazioni detenute tramite mandato fiduciario deve depositare presso San Marino Innovation S.p.A. l’attestazione, rilasciata dalla fiduciaria sammarinese o estera, dell’effettivo beneficiario del mandato fiduciario, entro trenta giorni correnti dalla stipula dello stesso. Il legale rappresentante della società è altresì obbligato a depositare l’attestazione, rilasciata dalla fiduciaria sammarinese o estera, dell’effettivo beneficiario del mandato fiduciario, entro trenta giorni correnti dall’eventuale successiva variazione del mandato fiduciario.
+2\. Il legale rappresentante della società che sottopone istanza per il rilascio della Certificazione del carattere altamente innovativo dell’impresa di cui all’articolo 4, che ha nella propria compagine societaria partecipazioni detenute tramite mandato fiduciario, deve depositare presso San Marino Innovation S.p.A. l’attestazione, rilasciata dalla fiduciaria sammarinese o estera, dell’effettivo beneficiario del mandato fiduciario, entro dieci giorni correnti dalla presentazione dell’istanza.
 
-2.
+3\. Al fine di effettuare le verifiche relative agli obblighi previsti ai commi 1 e 2, è consentito a San Marino Innovation S.p.A., su istanza scritta e motivata, l’accesso ai dati contenuti nell’Archivio delle Partecipazioni Fiduciarie della Banca Centrale della Repubblica di San Marino.
 
-Il legale rappresentante della società che sottopone istanza per il rilascio della Certificazione del carattere altamente innovativo dell’impresa di cui all’articolo 4, che ha nella propria compagine societaria partecipazioni detenute tramite mandato fiduciario, deve depositare presso San Marino Innovation S.p.A. l’attestazione, rilasciata dalla fiduciaria sammarinese o estera, dell’effettivo beneficiario del mandato fiduciario, entro dieci giorni correnti dalla presentazione dell’istanza.
+4\. Qualora San Marino Innovation S.p.A. rilevi la violazione di uno degli obblighi previsti al presente articolo, nei confronti della società inadempiente si applica quanto disposto all’articolo 6.
 
-3.
-
-Al fine di effettuare le verifiche relative agli obblighi previsti ai commi 1 e 2, è consentito a San Marino Innovation S.p.A., su istanza scritta e motivata, l’accesso ai dati contenuti nell’Archivio delle Partecipazioni Fiduciarie della Banca Centrale della Repubblica di San Marino.
-
-4.
-
-Qualora San Marino Innovation S.p.A. rilevi la violazione di uno degli obblighi previsti al presente articolo, nei confronti della società inadempiente si applica quanto disposto all’articolo 6.
-
-5.
-
-È fatto obbligo a San Marino Innovation S.p.A. di non pubblicare o divulgare la documentazione di cui ai superiori commi, salvo i casi previsti dalla legge.
+5\. È fatto obbligo a San Marino Innovation S.p.A. di non pubblicare o divulgare la documentazione di cui ai superiori commi, salvo i casi previsti dalla legge.
 
 ###### Art. 7
 
 (Procedure per l’iscrizione al Registro delle Imprese ad Alto Contenuto Tecnologico)
 
-1.
+1\. Viene istituito presso l’Ufficio Attività Economiche il Registro delle Imprese ad alto contenuto tecnologico. L’iscrizione a tale Registro consente di accedere ai benefici previsti per le Imprese ad alto contenuto tecnologico e garantisce la massima pubblicità e trasparenza delle imprese ammesse al regime speciale della presente normativa.
 
-Viene istituito presso l’Ufficio Attività Economiche il Registro delle Imprese ad alto contenuto tecnologico. L’iscrizione a tale Registro consente di accedere ai benefici previsti per le Imprese ad alto contenuto tecnologico e garantisce la massima pubblicità e trasparenza delle imprese ammesse al regime speciale della presente normativa.
+2\. L’impresa in possesso dei requisiti di cui all’articolo 3, deve richiedere l’iscrizione al Registro delle Imprese ad alto contenuto tecnologico entro 90 giorni correnti dal rilascio della certificazione di cui all’articolo 4, da parte di San Marino Innovation S.p.A., pena la decadenza dallo status di Impresa ad Alto Contenuto Tecnologico.
 
-2.
-
-L’impresa in possesso dei requisiti di cui all’articolo 3, deve richiedere l’iscrizione al Registro delle Imprese ad alto contenuto tecnologico entro 90 giorni correnti dal rilascio della certificazione di cui all’articolo 4, da parte di San Marino Innovation S.p.A., pena la decadenza dallo status di Impresa ad Alto Contenuto Tecnologico.
-
-3.
-
-Nel Registro delle Imprese ad alto contenuto tecnologico sono iscritti i medesimi dati riportati nel Registro delle Società, previsti dalle disposizioni vigenti in materia.
+3\. Nel Registro delle Imprese ad alto contenuto tecnologico sono iscritti i medesimi dati riportati nel Registro delle Società, previsti dalle disposizioni vigenti in materia.
 
 4\. [Nel Registro di cui al presente articolo viene riportata per ogni Impresa al Alto Contenuto Tecnologico la seguente dicitura, in base al periodo agevolato in cui la medesima si trova:
 
@@ -4009,51 +2999,31 @@ b) SUT II;
 
 c) SAT.
 
-5.
-
-Il Registro delle Imprese ad alto contenuto tecnologico deve essere messo a disposizione di San Marino Innovation S.p.A. per le finalità di cui al presente decreto delegato].
+5\. Il Registro delle Imprese ad alto contenuto tecnologico deve essere messo a disposizione di San Marino Innovation S.p.A. per le finalità di cui al presente decreto delegato].
 
 ###### Art. 8
 
 (Incubatori, Acceleratori e Parchi Scientifici Certificati)
 
-1.
+1\. La società che intenda offrire, anche in modo non esclusivo e a titolo meramente esemplificativo e non esaustivo, spazi di co-working e servizi in genere per sostenere la nascita e lo sviluppo di Imprese ad Alto Contenuto Tecnologico, attraverso la creazione di un incubatore, acceleratore, oppure di parco scientifico e tecnologico, al fine di svolgere tale attività economica deve ottenere la certificazione rilasciata da San Marino Innovation S.p.A.. Al rilascio della superiore certificazione seguirà la conseguente iscrizione nell’apposito Registro creato e tenuto da San Marino Innovation S.p.A..
 
-La società che intenda offrire, anche in modo non esclusivo e a titolo meramente esemplificativo e non esaustivo, spazi di co-working e servizi in genere per sostenere la nascita e lo sviluppo di Imprese ad Alto Contenuto Tecnologico, attraverso la creazione di un incubatore, acceleratore, oppure di parco scientifico e tecnologico, al fine di svolgere tale attività economica deve ottenere la certificazione rilasciata da San Marino Innovation S.p.A.. Al rilascio della superiore certificazione seguirà la conseguente iscrizione nell’apposito Registro creato e tenuto da San Marino Innovation S.p.A..
-
-2.
-
-La società di cui al comma 1 deve essere in possesso dei seguenti requisiti:
+2\. La società di cui al comma 1 deve essere in possesso dei seguenti requisiti:
 
 a. essere una società di diritto sammarinese; b. essere titolari di una licenza industriale o di servizi quale attività prevalente ai sensi della Legge 31 marzo 2014 n. 40. La licenza non deve essere in stato di sospensione o cessazione; c. la società deve dimostrare di possedere dei requisiti specifici relativi ai locali, al personale, alle attrezzature, inoltre deve dimostrare comprovata esperienza nelle attività di sostegno all’avvio e allo sviluppo di imprese innovative.
 
-3.
+3\. In deroga alla Legge 31 marzo 2014 n.40 e successive modifiche, le Imprese ad Alto Contenuto Tecnologico che stipulano contratto di co-working, di incubazione, oppure altro contratto assimilabile a questi, regolarmente registrato presso l’Ufficio del Registro e Conservatoria della Repubblica di San Marino, con società in possesso della certificazione di cui al comma 1, possono stabilire la propria sede operativa presso i locali destinati all’uso di cui al presente articolo.
 
-In deroga alla Legge 31 marzo 2014 n.40 e successive modifiche, le Imprese ad Alto Contenuto Tecnologico che stipulano contratto di co-working, di incubazione, oppure altro contratto assimilabile a questi, regolarmente registrato presso l’Ufficio del Registro e Conservatoria della Repubblica di San Marino, con società in possesso della certificazione di cui al comma 1, possono stabilire la propria sede operativa presso i locali destinati all’uso di cui al presente articolo.
+4\. In deroga alla Legge 31 marzo 2014 n. 40 e successive modifiche, le società in possesso della certificazione di cui al comma 1, possono ospitare presso i locali destinati all’uso di cui al presente articolo anche le sedi operative di operatori economici che svolgono attività economiche, organizzate in forma societaria o meno, al fine di fornire servizi collaterali e accessori alle Imprese ad Alto Contenuto Tecnologico che stipulano contratto di co-working, di incubazione, oppure altro contratto assimilabile a questi. Anche gli operatori economici di cui al presente comma devono sottoscrivere apposito contratto con le società in possesso della certificazione di cui al comma 1.
 
-4.
+5\. All’interno dei locali destinati all’uso di cui al presente articolo, il numero di operatori economici che svolgono attività economiche collaterali e accessorie non può superare il 50% delle Imprese ad Alto Contenuto Tecnologico che stabiliscono la propria sede operativa all’interno della stessa struttura.
 
-In deroga alla Legge 31 marzo 2014 n. 40 e successive modifiche, le società in possesso della certificazione di cui al comma 1, possono ospitare presso i locali destinati all’uso di cui al presente articolo anche le sedi operative di operatori economici che svolgono attività economiche, organizzate in forma societaria o meno, al fine di fornire servizi collaterali e accessori alle Imprese ad Alto Contenuto Tecnologico che stipulano contratto di co-working, di incubazione, oppure altro contratto assimilabile a questi. Anche gli operatori economici di cui al presente comma devono sottoscrivere apposito contratto con le società in possesso della certificazione di cui al comma 1.
+6\. Gli operatori economici che intendano svolgere attività economiche collaterali e accessorie alle Imprese ad Alto Contenuto Tecnologico, con le modalità previste al comma 4 e al comma 5 del presente articolo, devono essere a ciò esplicitamente autorizzati, previa apposita istanza, da San Marino Innovation S.p.A., che ne valuta il grado di connessione con le attività svolte dalle Imprese ad Alto Contenuto Tecnologico.
 
-5.
+7\. San Marino Innovation S.p.A. valuta le istanze presentate dagli operatori economici richiedenti in base a criteri idonei a garantire che i servizi proposti siano pertinenti e funzionali alle Imprese ad Alto Contenuto Tecnologico stabilite presso i locali delle società in possesso della certificazione di cui al comma 1.
 
-All’interno dei locali destinati all’uso di cui al presente articolo, il numero di operatori economici che svolgono attività economiche collaterali e accessorie non può superare il 50% delle Imprese ad Alto Contenuto Tecnologico che stabiliscono la propria sede operativa all’interno della stessa struttura.
+8\. Con proprio regolamento da adottarsi entro 6 mesi dalla ratifica del presente decreto delegato San Marino Innovation S.p.A. disciplina le modalità, i limiti e le condizioni per l’erogazione dei servizi di cui al presente articolo, inclusi i requisiti dei contratti di cui ai commi precedenti.
 
-6.
-
-Gli operatori economici che intendano svolgere attività economiche collaterali e accessorie alle Imprese ad Alto Contenuto Tecnologico, con le modalità previste al comma 4 e al comma 5 del presente articolo, devono essere a ciò esplicitamente autorizzati, previa apposita istanza, da San Marino Innovation S.p.A., che ne valuta il grado di connessione con le attività svolte dalle Imprese ad Alto Contenuto Tecnologico.
-
-7.
-
-San Marino Innovation S.p.A. valuta le istanze presentate dagli operatori economici richiedenti in base a criteri idonei a garantire che i servizi proposti siano pertinenti e funzionali alle Imprese ad Alto Contenuto Tecnologico stabilite presso i locali delle società in possesso della certificazione di cui al comma 1.
-
-8.
-
-Con proprio regolamento da adottarsi entro 6 mesi dalla ratifica del presente decreto delegato San Marino Innovation S.p.A. disciplina le modalità, i limiti e le condizioni per l’erogazione dei servizi di cui al presente articolo, inclusi i requisiti dei contratti di cui ai commi precedenti.
-
-9.
-
-San Marino Innovation S.p.A. redige apposito regolamento da adottarsi entro 6 mesi dalla ratifica del presente decreto delegato per disciplinare la presentazione delle domande volte al rilascio della certificazione di cui al comma 1, nel quale saranno anche definiti i requisiti di cui alla lettera c), comma 2 e di cui al comma 7 del presente articolo. Al regolamento viene data massima pubblicità tramite la pubblicazione sul sito della società e con ogni altra forma ritenuta opportuna.
+9\. San Marino Innovation S.p.A. redige apposito regolamento da adottarsi entro 6 mesi dalla ratifica del presente decreto delegato per disciplinare la presentazione delle domande volte al rilascio della certificazione di cui al comma 1, nel quale saranno anche definiti i requisiti di cui alla lettera c), comma 2 e di cui al comma 7 del presente articolo. Al regolamento viene data massima pubblicità tramite la pubblicazione sul sito della società e con ogni altra forma ritenuta opportuna.
 
 #### TITOLO II
 
@@ -4063,33 +3033,23 @@ AGEVOLAZIONI PER LE IMPRESE AD ALTO CONTENUTO TECNOLOGICO
 
 (Classificazione di imprese ad alto contenuto tecnologico)
 
-1.
+1\. Le imprese ad alto contenuto tecnologico di cui al Titolo I del presente decreto delegato sono classificate come segue: a. Start Up Tecnologica di Primo Livello (SUT I); b. Start Up Tecnologica di Secondo Livello (SUT II); c. Società Altamente Tecnologica (SAT).
 
-Le imprese ad alto contenuto tecnologico di cui al Titolo I del presente decreto delegato sono classificate come segue: a. Start Up Tecnologica di Primo Livello (SUT I); b. Start Up Tecnologica di Secondo Livello (SUT II); c. Società Altamente Tecnologica (SAT).
-
-2.
-
-Le imprese in possesso dei requisiti di cui all’articolo 3 e classificate in uno dei punti di cui al comma 1 hanno accesso a un regime societario semplificato, in deroga alla Legge 23 febbraio 2006 n. 47 e successive modifiche.
+2\. Le imprese in possesso dei requisiti di cui all’articolo 3 e classificate in uno dei punti di cui al comma 1 hanno accesso a un regime societario semplificato, in deroga alla Legge 23 febbraio 2006 n. 47 e successive modifiche.
 
 ###### Art. 10
 
 (Start Up Tecnologica di Primo Livello - SUT I)
 
-1.
+1\. La Start Up Tecnologica di Primo Livello (SUT I) deve essere in possesso dei requisiti di cui all’articolo 3.
 
-La Start Up Tecnologica di Primo Livello (SUT I) deve essere in possesso dei requisiti di cui all’articolo 3.
-
-2.
-
-Lo status di Start Up tecnologica di Primo Livello ha durata totale di tre anni dall’iscrizione al Registro di cui all’articolo 7.
+2\. Lo status di Start Up tecnologica di Primo Livello ha durata totale di tre anni dall’iscrizione al Registro di cui all’articolo 7.
 
 ###### Art. 11
 
 (Start Up Tecnologica di Secondo Livello - SUT II)
 
-1.
-
-Sono Start Up Tecnologiche di Secondo Livello (SUT II) le società aventi uno dei seguenti requisiti:
+1\. Sono Start Up Tecnologiche di Secondo Livello (SUT II) le società aventi uno dei seguenti requisiti:
 
 a) La Start Up Tecnologica di Primo Livello (SUT I) che abbiano esaurito il termine di cui all’articolo 10 comma 2;
 
@@ -4097,69 +3057,43 @@ b) le Imprese start up che alla data di entrata in vigore del presente decreto d
 
 c) società in possesso dei requisiti di cui all’articolo 3 del presente decreto delegato e il cui capitale sociale sia a qualsiasi titolo detenuto in misura non inferiore al 50% da società, sia estere sia di diritto sammarinese, aventi le seguenti caratteristiche: c1) il cui numero di occupati sia pari o superiore a 25 persone e inferiore a 50 persone; dove per occupati si intendono i dipendenti a tempo determinato e indeterminato legati all’impresa da forme contrattuali che prevedono il vincolo di dipendenza; c2) il cui fatturato o il totale dell’attivo patrimoniale superi 5 milioni di euro e sia inferiore a 10 milioni di euro.
 
-2.
+2\. Nel caso di cui al comma 1 lettera c), qualora la società, che detiene o deterrà le partecipazioni della Start Up Tecnologica di Secondo Livello (SUT II), faccia parte di un gruppo di imprese, nella valutazione dei parametri di cui al presente articolo si considerano i dati afferenti non soltanto a questa, bensì il complesso dei dati riferiti al gruppo di imprese di cui la stessa fa parte.
 
-Nel caso di cui al comma 1 lettera c), qualora la società, che detiene o deterrà le partecipazioni della Start Up Tecnologica di Secondo Livello (SUT II), faccia parte di un gruppo di imprese, nella valutazione dei parametri di cui al presente articolo si considerano i dati afferenti non soltanto a questa, bensì il complesso dei dati riferiti al gruppo di imprese di cui la stessa fa parte.
+3\. Nel caso di cui al comma 1, lettera a) il passaggio al regime di Start Up Tecnologica di Secondo Livello (SUT II) viene eseguito d’ufficio, a seguito di apposita comunicazione da parte di San Marino Innovation S.p.A. all’Ufficio Attività Economiche, che procederà all’aggiornamento del Registro nonché al rilascio di apposita certificazione alla società interessata.
 
-3.
+4\. Nei casi di cui al comma 1, lettere b) e c) l’attribuzione dello status di Start Up Tecnologica di Secondo Livello (SUT II) viene effettuata da San Marino Innovation S.p.A., contestualmente al rilascio della certificazione di cui all’articolo 4.
 
-Nel caso di cui al comma 1, lettera a) il passaggio al regime di Start Up Tecnologica di Secondo Livello (SUT II) viene eseguito d’ufficio, a seguito di apposita comunicazione da parte di San Marino Innovation S.p.A. all’Ufficio Attività Economiche, che procederà all’aggiornamento del Registro nonché al rilascio di apposita certificazione alla società interessata.
-
-4.
-
-Nei casi di cui al comma 1, lettere b) e c) l’attribuzione dello status di Start Up Tecnologica di Secondo Livello (SUT II) viene effettuata da San Marino Innovation S.p.A., contestualmente al rilascio della certificazione di cui all’articolo 4.
-
-5.
-
-Lo status di Start Up Tecnologica di Secondo Livello ha durata totale di quattro anni.
+5\. Lo status di Start Up Tecnologica di Secondo Livello ha durata totale di quattro anni.
 
 ###### Art. 12
 
 (Regime applicabile a Start Up di Primo Livello - SUT I e a Start Up di Secondo Livello - SUT II)
 
-1.
+1\. Alle Start Up Tecnologiche di Primo Livello ed alle Start Up Tecnologiche di Secondo Livello viene applicato il seguente regime, in deroga alla Legge 23 febbraio 2006 n. 47 e successive modifiche: a. L’ammontare del capitale sociale in caso di società a responsabilità limitata: a1) Per le Start Up di Primo Livello (SUT I) non deve essere inferiore a euro 1,00 per quota; a2) Per le Start Up di Secondo Livello (SUT II) non deve essere inferiore a euro 10.000,00. b. I conferimenti del capitale sociale devono essere effettuati in denaro, fino alla concorrenza dell’ammontare minimo previsto dal presente decreto delegato e devono essere versati presso un Istituto di credito della Repubblica di San Marino secondo le modalità che seguono: b1) la metà del capitale sociale deve essere versato entro 60 giorni dall’acquisizione dello status, rispettivamente, di Start Up Tecnologica di Primo Livello (SUT I) e di Start Up Tecnologica di Secondo Livello (SUT II); b2) la restante metà del capitale sociale deve essere versato entro 3 anni dall’acquisizione del medesimo status. c. Le partecipazioni societarie possono essere differenziate per categorie previamente individuate nell’atto costitutivo e nello statuto. Qualora vengano create diverse categorie di partecipazioni, la società può liberamente determinarne il contenuto, ma tutte le partecipazioni appartenenti alla medesima categoria devono conferire uguali diritti. d. La società ha facoltà di sottoscrivere partecipazioni proprie, in misura non superiore al 30% del capitale sociale, da destinarsi a terzi, esclusivamente secondo le modalità e per le finalità di cui al Titolo VI del presente decreto delegato.
 
-Alle Start Up Tecnologiche di Primo Livello ed alle Start Up Tecnologiche di Secondo Livello viene applicato il seguente regime, in deroga alla Legge 23 febbraio 2006 n. 47 e successive modifiche: a. L’ammontare del capitale sociale in caso di società a responsabilità limitata: a1) Per le Start Up di Primo Livello (SUT I) non deve essere inferiore a euro 1,00 per quota; a2) Per le Start Up di Secondo Livello (SUT II) non deve essere inferiore a euro 10.000,00. b. I conferimenti del capitale sociale devono essere effettuati in denaro, fino alla concorrenza dell’ammontare minimo previsto dal presente decreto delegato e devono essere versati presso un Istituto di credito della Repubblica di San Marino secondo le modalità che seguono: b1) la metà del capitale sociale deve essere versato entro 60 giorni dall’acquisizione dello status, rispettivamente, di Start Up Tecnologica di Primo Livello (SUT I) e di Start Up Tecnologica di Secondo Livello (SUT II); b2) la restante metà del capitale sociale deve essere versato entro 3 anni dall’acquisizione del medesimo status. c. Le partecipazioni societarie possono essere differenziate per categorie previamente individuate nell’atto costitutivo e nello statuto. Qualora vengano create diverse categorie di partecipazioni, la società può liberamente determinarne il contenuto, ma tutte le partecipazioni appartenenti alla medesima categoria devono conferire uguali diritti. d. La società ha facoltà di sottoscrivere partecipazioni proprie, in misura non superiore al 30% del capitale sociale, da destinarsi a terzi, esclusivamente secondo le modalità e per le finalità di cui al Titolo VI del presente decreto delegato.
+2\. L’attribuzione dello Status di Start Up Tecnologica di Primo e di Secondo Livello determina: a. l’esonero dal pagamento della tassa di licenza d’esercizio; b. il pagamento dell’imposta di Registro su tutti gli atti societari e sugli atti di cessione di partecipazioni societarie nella misura fissa pari a Euro 70,00=.
 
-2.
-
-L’attribuzione dello Status di Start Up Tecnologica di Primo e di Secondo Livello determina: a. l’esonero dal pagamento della tassa di licenza d’esercizio; b. il pagamento dell’imposta di Registro su tutti gli atti societari e sugli atti di cessione di partecipazioni societarie nella misura fissa pari a Euro 70,00=.
-
-3.
-
-Per tutti gli aspetti non espressamente disciplinati nel presente decreto delegato, si applica, in quanto compatibile, la disciplina vigente in materia di Società di capitali.
+3\. Per tutti gli aspetti non espressamente disciplinati nel presente decreto delegato, si applica, in quanto compatibile, la disciplina vigente in materia di Società di capitali.
 
 ###### Art. 13
 
 (Società Altamente Tecnologica - SAT)
 
-1.
-
-È Società Altamente Tecnologiche (SAT) la società avente uno dei seguenti requisiti:
+1\. È Società Altamente Tecnologiche (SAT) la società avente uno dei seguenti requisiti:
 
 a) società di diritto sammarinese costituite in forma di società di capitali che hanno esaurito il periodo di permanenza nel regime di SUT II come previsto dall’articolo 11;
 
 b) società in possesso dei requisiti di cui all’articolo 3 del presente decreto delegato, il cui capitale sociale sia a qualsiasi titolo detenuto in misura non inferiore al 50% da società, sia estere sia di diritto sammarinese, aventi le seguenti caratteristiche: b1) il cui numero di occupati sia pari o superiore a 50 persone; dove per occupati si intendono i dipendenti a tempo determinato e indeterminato legati all’impresa da forme contrattuali che prevedono il vincolo di dipendenza; b2) il cui fatturato o il totale dell’attivo patrimoniale superi 10 milioni di euro.
 
-2.
+2\. Nel caso di cui al comma 1 lettera b), qualora la società, che detiene o deterrà le partecipazioni della Start Up Tecnologica di Secondo Livello (SUT II), faccia parte di un gruppo di imprese, nella valutazione dei parametri di cui al presente articolo si considerano i dati afferenti non soltanto a questa, bensì il complesso dei dati riferiti al gruppo di imprese di cui la stessa fa parte.
 
-Nel caso di cui al comma 1 lettera b), qualora la società, che detiene o deterrà le partecipazioni della Start Up Tecnologica di Secondo Livello (SUT II), faccia parte di un gruppo di imprese, nella valutazione dei parametri di cui al presente articolo si considerano i dati afferenti non soltanto a questa, bensì il complesso dei dati riferiti al gruppo di imprese di cui la stessa fa parte.
+3\. Nel caso di cui al comma 1, lettera a) il passaggio al regime di Società Altamente Tecnologica (SAT) viene eseguito d’ufficio, a seguito di apposita comunicazione da parte di San Marino Innovation S.p.A. all’Ufficio Attività Economiche, che procederà all’aggiornamento del Registro nonché al rilascio di apposita certificazione alla società interessata.
 
-3.
+4\. Nel caso di cui al comma 1, lettera b) l’attribuzione dello status di Società Altamente Tecnologica (SAT) viene effettuata da San Marino Innovation S.p.A., contestualmente al rilascio della certificazione di cui all’articolo 4.
 
-Nel caso di cui al comma 1, lettera a) il passaggio al regime di Società Altamente Tecnologica (SAT) viene eseguito d’ufficio, a seguito di apposita comunicazione da parte di San Marino Innovation S.p.A. all’Ufficio Attività Economiche, che procederà all’aggiornamento del Registro nonché al rilascio di apposita certificazione alla società interessata.
+5\. Alle Società Altamente Tecnologiche viene applicato il seguente regime, in deroga alla Legge 23 febbraio 2006 n.47 e successive modifiche: a. L’ammontare del capitale sociale non deve essere inferiore a Euro 20.000,00= in caso di società a responsabilità limitata; b. I conferimenti del capitale sociale devono essere effettuati in denaro fino alla concorrenza dell’ammontare minimo previsto dal presente decreto delegato e devono essere versati presso un Istituto di credito della Repubblica di San Marino secondo le modalità che seguono: b1) la metà del capitale sociale deve essere versato entro 60 giorni dall’acquisizione dello status di Società Altamente Tecnologica (SAT); b2) la restante metà del capitale sociale deve essere versato entro 3 anni dall’acquisizione del medesimo status. c. Le partecipazioni societarie possono essere differenziate per categorie previamente individuate nell’atto costitutivo e nello statuto. Qualora vengano create diverse categorie di partecipazioni, la società può liberamente determinarne il contenuto, ma tutte le partecipazioni appartenenti alla medesima categoria devono conferire uguali diritti; d. La società ha facoltà di sottoscrivere partecipazioni proprie, in misura non superiore al 30% del capitale sociale, da destinarsi a terzi, esclusivamente secondo le modalità e per le finalità di cui al Titolo VI del presente decreto delegato.
 
-4.
-
-Nel caso di cui al comma 1, lettera b) l’attribuzione dello status di Società Altamente Tecnologica (SAT) viene effettuata da San Marino Innovation S.p.A., contestualmente al rilascio della certificazione di cui all’articolo 4.
-
-5.
-
-Alle Società Altamente Tecnologiche viene applicato il seguente regime, in deroga alla Legge 23 febbraio 2006 n.47 e successive modifiche: a. L’ammontare del capitale sociale non deve essere inferiore a Euro 20.000,00= in caso di società a responsabilità limitata; b. I conferimenti del capitale sociale devono essere effettuati in denaro fino alla concorrenza dell’ammontare minimo previsto dal presente decreto delegato e devono essere versati presso un Istituto di credito della Repubblica di San Marino secondo le modalità che seguono: b1) la metà del capitale sociale deve essere versato entro 60 giorni dall’acquisizione dello status di Società Altamente Tecnologica (SAT); b2) la restante metà del capitale sociale deve essere versato entro 3 anni dall’acquisizione del medesimo status. c. Le partecipazioni societarie possono essere differenziate per categorie previamente individuate nell’atto costitutivo e nello statuto. Qualora vengano create diverse categorie di partecipazioni, la società può liberamente determinarne il contenuto, ma tutte le partecipazioni appartenenti alla medesima categoria devono conferire uguali diritti; d. La società ha facoltà di sottoscrivere partecipazioni proprie, in misura non superiore al 30% del capitale sociale, da destinarsi a terzi, esclusivamente secondo le modalità e per le finalità di cui al Titolo VI del presente decreto delegato.
-
-6.
-
-Per tutti gli aspetti non espressamente disciplinati nel presente decreto delegato, si applica, in quanto compatibile, la disciplina vigente in materia di società di capitali.
+6\. Per tutti gli aspetti non espressamente disciplinati nel presente decreto delegato, si applica, in quanto compatibile, la disciplina vigente in materia di società di capitali.
 
 #### TITOLO III
 
@@ -4169,9 +3103,7 @@ CONTRATTI DI LAVORO E PERMESSI DI SOGGIORNO
 
 (Contratto di lavoro per dipendenti di Imprese ad alto contenuto tecnologico)
 
-1.
-
-Al fine di sostenere l’avvio delle Imprese ad alto contenuto tecnologico con strumenti conformi alle esigenze di flessibilità dettate dalla particolare attività svolta in termini di progetti innovativi, è istituito il contratto di lavoro a tempo determinato per Imprese ad alto contenuto tecnologico avente le seguenti caratteristiche:
+1\. Al fine di sostenere l’avvio delle Imprese ad alto contenuto tecnologico con strumenti conformi alle esigenze di flessibilità dettate dalla particolare attività svolta in termini di progetti innovativi, è istituito il contratto di lavoro a tempo determinato per Imprese ad alto contenuto tecnologico avente le seguenti caratteristiche:
 
 a) ha la durata massima di trentasei mesi e può essere anche a part time;
 
@@ -4179,59 +3111,37 @@ b) può essere utilizzato solo da Start Up Tecnologiche di Primo Livello (SUT I)
 
 c) può essere utilizzato dall’impresa per un massimo di otto dipendenti avviati e non avviati dalle Liste di Avviamento al Lavoro. Il limite di otto dipendenti è riferito alla contemporanea presenza di personale con tale tipologia di contratto.
 
-2.
+2\. La comunicazione nominativa preventiva di assunzione con contratto di lavoro a tempo determinato per Imprese ad alto contenuto tecnologico, firmata dal datore di lavoro e dal lavoratore e corredata della documentazione necessaria ad attestare l’esistenza di tutti i requisiti richiesti, è inoltrata all’Ufficio Attività Economiche che deve rispondere entro due giorni lavorativi dal ricevimento della comunicazione esclusivamente in merito al possesso o meno dei requisiti.
 
-La comunicazione nominativa preventiva di assunzione con contratto di lavoro a tempo determinato per Imprese ad alto contenuto tecnologico, firmata dal datore di lavoro e dal lavoratore e corredata della documentazione necessaria ad attestare l’esistenza di tutti i requisiti richiesti, è inoltrata all’Ufficio Attività Economiche che deve rispondere entro due giorni lavorativi dal ricevimento della comunicazione esclusivamente in merito al possesso o meno dei requisiti.
+3\. Può essere effettuata l'assunzione anche di persone che non siano domiciliate o residenti in Italia purché, se provenienti da Paesi non inclusi nello spazio Schengen, siano muniti di visti di ingresso in tale spazio, qualora ciò sia previsto dall’Accordo Schengen; in tale caso le persone assunte devono richiedere e ottenere il permesso di soggiorno di cui all'articolo 16 entro trenta giorni lavorativi dall'avvenuta assunzione pena la nullità del contratto di assunzione e la perdita dei requisiti dell'Impresa ad alto contenuto tecnologico legati all'assunzione medesima.
 
-3.
+4\. Al termine del contratto di lavoro a tempo determinato per dipendenti di Imprese ad alto contenuto tecnologico, l'impresa ha diritto di proseguire, anche a part-time purché inferiore a 25 ore settimanali, il rapporto di lavoro con il dipendente che ha utilizzato tale forma di contratto per il periodo massimo previsto, con una delle comuni forme di assunzioni previste dalla normativa sammarinese.
 
-Può essere effettuata l'assunzione anche di persone che non siano domiciliate o residenti in Italia purché, se provenienti da Paesi non inclusi nello spazio Schengen, siano muniti di visti di ingresso in tale spazio, qualora ciò sia previsto dall’Accordo Schengen; in tale caso le persone assunte devono richiedere e ottenere il permesso di soggiorno di cui all'articolo 16 entro trenta giorni lavorativi dall'avvenuta assunzione pena la nullità del contratto di assunzione e la perdita dei requisiti dell'Impresa ad alto contenuto tecnologico legati all'assunzione medesima.
+5\. I dipendenti avviati dalle Liste di Avviamento al Lavoro possono altresì beneficiare degli incentivi di cui alla Legge 29 aprile 2014 n. 71 e successive modifiche e integrazioni.
 
-4.
-
-Al termine del contratto di lavoro a tempo determinato per dipendenti di Imprese ad alto contenuto tecnologico, l'impresa ha diritto di proseguire, anche a part-time purché inferiore a 25 ore settimanali, il rapporto di lavoro con il dipendente che ha utilizzato tale forma di contratto per il periodo massimo previsto, con una delle comuni forme di assunzioni previste dalla normativa sammarinese.
-
-5.
-
-I dipendenti avviati dalle Liste di Avviamento al Lavoro possono altresì beneficiare degli incentivi di cui alla Legge 29 aprile 2014 n. 71 e successive modifiche e integrazioni.
-
-6.
-
-Per quanto non regolamentato dal presente articolo si fa riferimento alla normativa generale in materia di lavoro.
+6\. Per quanto non regolamentato dal presente articolo si fa riferimento alla normativa generale in materia di lavoro.
 
 ###### Art. 15
 
 (Rapporti di Collaborazione Coordinata e Continuativa a Progetto)
 
-1.
+1\. Al fine di sostenere l’avvio delle Imprese ad alto contenuto tecnologico con strumenti conformi alle esigenze di flessibilità dettate dalla particolare attività svolta in termini di progetti innovativi, le Imprese ad alto contenuto tecnologico possono avvalersi di rapporti di collaborazione coordinata e continuativa a progetto, nel rispetto dei limiti che seguono.
 
-Al fine di sostenere l’avvio delle Imprese ad alto contenuto tecnologico con strumenti conformi alle esigenze di flessibilità dettate dalla particolare attività svolta in termini di progetti innovativi, le Imprese ad alto contenuto tecnologico possono avvalersi di rapporti di collaborazione coordinata e continuativa a progetto, nel rispetto dei limiti che seguono.
+2\. Le Start Up Tecnologiche di Primo Livello (SUT I) e le Start Up Tecnologiche di Secondo Livello (SUT II) possono stipulare fino a un numero massimo di 4 contratti di collaborazione coordinata e continuativa a progetto, indipendentemente dal numero dei lavoratori dipendenti impiegati nell’impresa, in deroga all’articolo 18, comma 1 della Legge 29 settembre 2005 n. 131 così come modificato dall’articolo 5 della Legge 5 ottobre 2011 n. 156.
 
-2.
+3\. Il rapporto di collaborazione coordinata e continuativa a progetto stipulato tra la Start Up Tecnologica committente e il collaboratore può essere rinnovato o prorogato purché la durata complessiva del rapporto non sia superiore a 18 mesi, anche non continuativi. Al termine dei 18 mesi, se la società intende procedere all’assunzione del collaboratore a progetto, è consentita esclusivamente l’assunzione a tempo indeterminato.
 
-Le Start Up Tecnologiche di Primo Livello (SUT I) e le Start Up Tecnologiche di Secondo Livello (SUT II) possono stipulare fino a un numero massimo di 4 contratti di collaborazione coordinata e continuativa a progetto, indipendentemente dal numero dei lavoratori dipendenti impiegati nell’impresa, in deroga all’articolo 18, comma 1 della Legge 29 settembre 2005 n. 131 così come modificato dall’articolo 5 della Legge 5 ottobre 2011 n. 156.
-
-3.
-
-Il rapporto di collaborazione coordinata e continuativa a progetto stipulato tra la Start Up Tecnologica committente e il collaboratore può essere rinnovato o prorogato purché la durata complessiva del rapporto non sia superiore a 18 mesi, anche non continuativi. Al termine dei 18 mesi, se la società intende procedere all’assunzione del collaboratore a progetto, è consentita esclusivamente l’assunzione a tempo indeterminato.
-
-4.
-
-Per tutti gli aspetti non espressamente derogati, si applica, in quanto compatibile, la disciplina ordinaria in materia di rapporti di collaborazione coordinata e continuativa a progetto, di cui alla Legge 29 settembre 2005 n. 131 e successive modifiche.
+4\. Per tutti gli aspetti non espressamente derogati, si applica, in quanto compatibile, la disciplina ordinaria in materia di rapporti di collaborazione coordinata e continuativa a progetto, di cui alla Legge 29 settembre 2005 n. 131 e successive modifiche.
 
 ###### Art. 16
 
 (Lavoro occasionale e accessorio)
 
-1.
-
-All’articolo 2, comma 1 della Legge 19 settembre 2014 n. 147 e successive modifiche è aggiunta la seguente lettera h):
+1\. All’articolo 2, comma 1 della Legge 19 settembre 2014 n. 147 e successive modifiche è aggiunta la seguente lettera h):
 
 “h) le attività svolte da imprese ad alto contenuto tecnologico di cui all’articolo 21 della Legge 27 giugno 2013 n.71.”.
 
-2.
-
-L’articolo 7, comma 3, della Legge 19 settembre 2014 n.147 successive modifiche è modificato come segue:
+2\. L’articolo 7, comma 3, della Legge 19 settembre 2014 n.147 successive modifiche è modificato come segue:
 
 “3. Per coloro che operano nelle attività di cui alle lettere d), e) e h) del comma 1 dell’articolo 2 si applica un unico limite pari a centoventi giornate annue.”.
 
@@ -4239,63 +3149,41 @@ L’articolo 7, comma 3, della Legge 19 settembre 2014 n.147 successive modifich
 
 (Permesso di soggiorno speciale per dipendenti di Imprese ad alto contenuto tecnologico)
 
-1.
+1\. Il permesso di soggiorno speciale per dipendenti di Imprese ad alto contenuto tecnologico è rilasciato allo straniero, assunto con la tipologia di contratto di cui all’articolo 14 che intenda soggiornare nella Repubblica di San Marino.
 
-Il permesso di soggiorno speciale per dipendenti di Imprese ad alto contenuto tecnologico è rilasciato allo straniero, assunto con la tipologia di contratto di cui all’articolo 14 che intenda soggiornare nella Repubblica di San Marino.
+2\. Il permesso di soggiorno di cui al comma 1 può essere ulteriormente prorogato, anche agli effetti del disposto di cui all’articolo 18, nel caso in cui il rapporto di lavoro prosegua ai sensi del comma 4 dell’articolo 14.
 
-2.
-
-Il permesso di soggiorno di cui al comma 1 può essere ulteriormente prorogato, anche agli effetti del disposto di cui all’articolo 18, nel caso in cui il rapporto di lavoro prosegua ai sensi del comma 4 dell’articolo 14.
-
-3.
-
-La durata del permesso di soggiorno è di un anno ed è rinnovabile annualmente.
+3\. La durata del permesso di soggiorno è di un anno ed è rinnovabile annualmente.
 
 La cessazione del contratto di cui all’articolo 14 determina la decadenza del permesso di soggiorno.
 
-4.
+4\. Lo straniero che intenda richiedere il permesso di soggiorno speciale per Imprese ad alto contenuto tecnologico è tenuto a produrre documentazione che attesti la disponibilità di mezzi sufficienti per la propria sussistenza e di alloggio adeguato per tutta la durata del soggiorno.
 
-Lo straniero che intenda richiedere il permesso di soggiorno speciale per Imprese ad alto contenuto tecnologico è tenuto a produrre documentazione che attesti la disponibilità di mezzi sufficienti per la propria sussistenza e di alloggio adeguato per tutta la durata del soggiorno.
+5\. I lavoratori provenienti da Paesi non inclusi nello spazio Schengen devono essere muniti di visti di ingresso in tale spazio, qualora ciò sia previsto dall’Accordo Schengen.
 
-5.
-
-I lavoratori provenienti da Paesi non inclusi nello spazio Schengen devono essere muniti di visti di ingresso in tale spazio, qualora ciò sia previsto dall’Accordo Schengen.
-
-6.
-
-Il richiedente il permesso di soggiorno speciale perché titolare di un contratto di lavoro a tempo determinato per Imprese ad alto contenuto tecnologico deve formulare apposita domanda scritta alla Gendarmeria – Ufficio Stranieri, esibendo passaporto o documento equipollente ritenuto valido dalla Gendarmeria ed allegando i seguenti documenti: − copia di documento di identità; − n.4 fototessera; − il contratto di lavoro di cui all’articolo 6; − certificato di residenza;
+6\. Il richiedente il permesso di soggiorno speciale perché titolare di un contratto di lavoro a tempo determinato per Imprese ad alto contenuto tecnologico deve formulare apposita domanda scritta alla Gendarmeria – Ufficio Stranieri, esibendo passaporto o documento equipollente ritenuto valido dalla Gendarmeria ed allegando i seguenti documenti: − copia di documento di identità; − n.4 fototessera; − il contratto di lavoro di cui all’articolo 6; − certificato di residenza;
 
 − certificato di stato di famiglia; − certificato penale rilasciato dal Tribunale di San Marino e dalle Autorità competenti del Paese di appartenenza; − certificato di carichi pendenti rilasciato dal Tribunale di San Marino e dalle Autorità competenti del Paese di appartenenza; − dichiarazione di disponibilità di alloggio adeguato ovvero copia di contratto di locazione debitamente registrato ovvero altro titolo idoneo, atto a dimostrare la idoneità dell’alloggio; − documentazione idonea a garantire la disponibilità di mezzi sufficienti per la propria sussistenza.
 
 Il permesso di soggiorno è rilasciato dalla Gendarmeria – Ufficio Stranieri.
 
-7.
+7\. I controlli della Gendarmeria relativi all’acquisizione di informazioni ulteriori rispetto a quelle che emergono dalla documentazione di cui al comma 6, vengono effettuati successivamente al rilascio del permesso di soggiorno.
 
-I controlli della Gendarmeria relativi all’acquisizione di informazioni ulteriori rispetto a quelle che emergono dalla documentazione di cui al comma 6, vengono effettuati successivamente al rilascio del permesso di soggiorno.
+8\. Per quanto non regolamentato dal presente decreto delegato si fa riferimento alla normativa generale in materia di permessi di soggiorno.
 
-8.
-
-Per quanto non regolamentato dal presente decreto delegato si fa riferimento alla normativa generale in materia di permessi di soggiorno.
-
-9.
-
-Il numero massimo di permessi di soggiorno per Imprese ad alto contenuto tecnologico è per il 2019 di 100. Per gli anni successivi il numero massimo viene disposto nell’ambito della definizione dei flussi di ingresso in territorio.
+9\. Il numero massimo di permessi di soggiorno per Imprese ad alto contenuto tecnologico è per il 2019 di 100. Per gli anni successivi il numero massimo viene disposto nell’ambito della definizione dei flussi di ingresso in territorio.
 
 ###### Art. 18
 
 (Residenza per amministratori e soci di Imprese ad alto contenuto tecnologico)
 
-1.
-
-Amministratori e soci che siano dipendenti delle Imprese ad alto contenuto tecnologico possono richiedere, per se stessi e per i propri familiari di cui all’articolo 18, la residenza alla Commissione Consiliare Permanente Affari Esteri, Emigrazione ed Immigrazione secondo le disposizioni di cui alla Legge 28 giugno 2010 n.118 e successive modifiche.
+1\. Amministratori e soci che siano dipendenti delle Imprese ad alto contenuto tecnologico possono richiedere, per se stessi e per i propri familiari di cui all’articolo 18, la residenza alla Commissione Consiliare Permanente Affari Esteri, Emigrazione ed Immigrazione secondo le disposizioni di cui alla Legge 28 giugno 2010 n.118 e successive modifiche.
 
 ###### Art. 19
 
 (Permesso di soggiorno speciale per familiari Imprese ad alto contenuto tecnologico)
 
-1.
-
-Lo straniero in possesso di permesso di soggiorno per dipendenti di Imprese ad alto contenuto tecnologico può richiedere il rilascio del permesso di soggiorno speciale per familiari Imprese ad alto contenuto tecnologico per i seguenti familiari:
+1\. Lo straniero in possesso di permesso di soggiorno per dipendenti di Imprese ad alto contenuto tecnologico può richiedere il rilascio del permesso di soggiorno speciale per familiari Imprese ad alto contenuto tecnologico per i seguenti familiari:
 
 a) coniuge non legalmente separato e per il quale non siano in corso le procedure di separazione, scioglimento o cessazione degli effetti civili o annullamento del matrimonio;
 
@@ -4303,33 +3191,21 @@ b) figlio di età non superiore a 25 anni legittimo, naturale riconosciuto o ado
 
 c) figlio legittimo, naturale riconosciuto o adottivo, che risulti a suo carico, qualora non sia in grado di provvedere al proprio sostentamento a causa di disabilità. Salvi casi di forza maggiore, da comprovarsi debitamente dal richiedente il permesso, il ricongiungimento familiare deve essere richiesto entro dodici mesi dalla data di immigrazione in Repubblica del richiedente il permesso ed è rilasciato dalla Gendarmeria – Ufficio Stranieri.
 
-2.
-
-Lo straniero che richiede il ricongiungimento familiare deve dimostrare la disponibilità:
+2\. Lo straniero che richiede il ricongiungimento familiare deve dimostrare la disponibilità:
 
 a) di un alloggio adeguato per sé e per i familiari per i quali si intende richiedere il ricongiungimento;
 
 b) di un reddito annuo adeguato al sostentamento proprio e dei familiari per i quali si intende richiedere il ricongiungimento. Il reddito non può essere inferiore a euro 18.000,00 per il titolare del permesso a cui vanno addizionati euro 6.000,00 per ogni familiare a carico del medesimo.
 
-3.
+3\. Fatta salva l'esistenza di convenzioni bilaterali che disciplinino diversamente la materia, i familiari in possesso di permesso di soggiorno speciale non hanno diritto all'erogazione di prestazioni sanitarie gratuite né di alcuna prestazione di tipo economico o assistenziale da parte dell’Istituto per la Sicurezza Sociale e dello Stato; lo straniero che intenda richiedere il permesso di soggiorno speciale per familiari Imprese ad alto contenuto tecnologico è quindi tenuto a stipulare idonea polizza assicurativa valida sul territorio della Repubblica a copertura del rischio di malattie, infortunio e maternità avente copertura annua minima di euro 30.000,00 o a produrre documentazione che dimostri copertura sanitaria nel Paese di provenienza, e che sia riconosciuta valida dagli uffici preposti dall’ISS a copertura di ogni evento, per ogni familiare per cui richiede tale permesso.
 
-Fatta salva l'esistenza di convenzioni bilaterali che disciplinino diversamente la materia, i familiari in possesso di permesso di soggiorno speciale non hanno diritto all'erogazione di prestazioni sanitarie gratuite né di alcuna prestazione di tipo economico o assistenziale da parte dell’Istituto per la Sicurezza Sociale e dello Stato; lo straniero che intenda richiedere il permesso di soggiorno speciale per familiari Imprese ad alto contenuto tecnologico è quindi tenuto a stipulare idonea polizza assicurativa valida sul territorio della Repubblica a copertura del rischio di malattie, infortunio e maternità avente copertura annua minima di euro 30.000,00 o a produrre documentazione che dimostri copertura sanitaria nel Paese di provenienza, e che sia riconosciuta valida dagli uffici preposti dall’ISS a copertura di ogni evento, per ogni familiare per cui richiede tale permesso.
+4\. Il permesso di soggiorno speciale rilasciato allo straniero in base al comma 1 consente, nel caso di minori, l’iscrizione a corsi di studio o di formazione professionale.
 
-4.
+5\. Lo straniero in possesso di permesso di soggiorno per dipendenti di Imprese ad alto contenuto tecnologico può richiedere il permesso per convivenza di cui all’articolo 15, comma 1, punto a), della Legge 28 giugno 2010 n. 118.
 
-Il permesso di soggiorno speciale rilasciato allo straniero in base al comma 1 consente, nel caso di minori, l’iscrizione a corsi di studio o di formazione professionale.
+6\. La documentazione da presentare per il rilascio del permesso speciale è quella di cui ai punti a) e b) dell’articolo 14 del Decreto Delegato 26 novembre 2010 n.186.
 
-5.
-
-Lo straniero in possesso di permesso di soggiorno per dipendenti di Imprese ad alto contenuto tecnologico può richiedere il permesso per convivenza di cui all’articolo 15, comma 1, punto a), della Legge 28 giugno 2010 n. 118.
-
-6.
-
-La documentazione da presentare per il rilascio del permesso speciale è quella di cui ai punti a) e b) dell’articolo 14 del Decreto Delegato 26 novembre 2010 n.186.
-
-7.
-
-La perdita dei requisiti del soggetto di cui al comma 1 comporta l’immediata decadenza per sé e per i familiari del permesso di soggiorno.
+7\. La perdita dei requisiti del soggetto di cui al comma 1 comporta l’immediata decadenza per sé e per i familiari del permesso di soggiorno.
 
 #### TITOLO IV
 
@@ -4339,29 +3215,19 @@ INCENTIVI PER LE IMPRESE AD ALTO CONTENUTO TECNOLOGICO
 
 (Esenzioni dall’Imposta Generale sui Redditi)
 
-1.
+1\. I redditi delle Start Up Tecnologiche di Primo Livello (SUT I) sono esenti dall’Imposta Generale sui Redditi prevista dalla Legge 16 dicembre 2013 n.166 e successive modifiche.
 
-I redditi delle Start Up Tecnologiche di Primo Livello (SUT I) sono esenti dall’Imposta Generale sui Redditi prevista dalla Legge 16 dicembre 2013 n.166 e successive modifiche.
+2\. Le Start Up Tecnologiche di Secondo Livello sono tenute al pagamento dell’Imposta Generale sui Redditi prevista dalla Legge 16 dicembre 2013 n.166 e successive modifiche, la cui aliquota è fissata nella misura del 4%.
 
-2.
+3\. Le Società Altamente Tecnologiche (SAT) sono tenute al pagamento dell’Imposta Generale sui Redditi prevista dalla Legge 16 dicembre 2013 n.166 e successive modifiche, la cui aliquota è fissata nella misura del 8% per i primi 5 anni.
 
-Le Start Up Tecnologiche di Secondo Livello sono tenute al pagamento dell’Imposta Generale sui Redditi prevista dalla Legge 16 dicembre 2013 n.166 e successive modifiche, la cui aliquota è fissata nella misura del 4%.
-
-3.
-
-Le Società Altamente Tecnologiche (SAT) sono tenute al pagamento dell’Imposta Generale sui Redditi prevista dalla Legge 16 dicembre 2013 n.166 e successive modifiche, la cui aliquota è fissata nella misura del 8% per i primi 5 anni.
-
-4.
-
-Decorso il termine di cui al comma 3, le Società Altamente Tecnologiche sono tenute al pagamento dell’Imposta Generale sui Redditi prevista dalla Legge 16 dicembre 2013 n.166 e successive modifiche, la cui aliquota è fissata nella misura ordinaria prevista per legge.
+4\. Decorso il termine di cui al comma 3, le Società Altamente Tecnologiche sono tenute al pagamento dell’Imposta Generale sui Redditi prevista dalla Legge 16 dicembre 2013 n.166 e successive modifiche, la cui aliquota è fissata nella misura ordinaria prevista per legge.
 
 ###### Art. 21
 
 (Incentivi fiscali per investimenti effettuati da persone giuridiche nelle Imprese ad alto contenuto tecnologico)
 
-1.
-
-Fatte salve norme di rango superiore che prevedano limiti alla defiscalizzazione di redditi derivanti da beni immateriali, per i soggetti persone giuridiche residenti nel territorio della Repubblica di San Marino che effettuano conferimenti, in denaro o in natura, nelle Imprese ad alto contenuto tecnologico, è riconosciuta una deduzione dal reddito imponibile individuata nella misura che segue:
+1\. Fatte salve norme di rango superiore che prevedano limiti alla defiscalizzazione di redditi derivanti da beni immateriali, per i soggetti persone giuridiche residenti nel territorio della Repubblica di San Marino che effettuano conferimenti, in denaro o in natura, nelle Imprese ad alto contenuto tecnologico, è riconosciuta una deduzione dal reddito imponibile individuata nella misura che segue:
 
 a) nella misura del 60 per cento dei conferimenti rilevanti effettuati nei confronti di Start Up Tecnologiche di Primo Livello, per un importo non superiore a euro 2.000.000,00;
 
@@ -4369,45 +3235,29 @@ b) nella misura del 30 per cento dei conferimenti rilevanti effettuati nei confr
 
 c) nella misura del 15 per cento dei conferimenti rilevanti effettuati nei confronti di Società Altamente Tecnologiche, per un importo non superiore a euro 2.000.000,00.
 
-2.
+2\. Le agevolazioni previste dalla presente norma si applicano ai conferimenti in denaro iscritti alla voce del capitale sociale e della riserva da sovrapprezzo di azioni o quote delle Imprese ad alto contenuto tecnologico o delle società di capitali che investono prevalentemente in Imprese ad alto contenuto tecnologico, anche in seguito alla conversione di obbligazioni convertibili in azioni o quote di nuova emissione.
 
-Le agevolazioni previste dalla presente norma si applicano ai conferimenti in denaro iscritti alla voce del capitale sociale e della riserva da sovrapprezzo di azioni o quote delle Imprese ad alto contenuto tecnologico o delle società di capitali che investono prevalentemente in Imprese ad alto contenuto tecnologico, anche in seguito alla conversione di obbligazioni convertibili in azioni o quote di nuova emissione.
+3\. Si considerano conferimenti in denaro anche la compensazione dei crediti in sede di sottoscrizione di aumenti di capitale, eccezion fatta per i crediti risultanti da cessione di beni o prestazioni di servizi.
 
-3.
+4\. Al fine di individuare se l’investimento ricade in un periodo d’imposta agevolato, i conferimenti di cui al comma 1 rilevano nel periodo d’imposta in corso alla data del deposito per l’iscrizione nel Registro delle società dell’atto costitutivo o della deliberazione di aumento del capitale sociale. I conferimenti che derivano dalla conversione di obbligazioni rilevano, invece, nel periodo d’imposta in corso alla data in cui ha effetto la conversione.
 
-Si considerano conferimenti in denaro anche la compensazione dei crediti in sede di sottoscrizione di aumenti di capitale, eccezion fatta per i crediti risultanti da cessione di beni o prestazioni di servizi.
+5\. Le agevolazioni previste dalla presente norma spettano a condizione che i soggetti investitori ricevano e conservino copia del piano d’investimento della Imprese ad alto contenuto tecnologico, contenente informazioni dettagliate sull’oggetto della prevista attività, sui relativi prodotti, nonché sull’andamento attuale e previsto delle vendite.
 
-4.
-
-Al fine di individuare se l’investimento ricade in un periodo d’imposta agevolato, i conferimenti di cui al comma 1 rilevano nel periodo d’imposta in corso alla data del deposito per l’iscrizione nel Registro delle società dell’atto costitutivo o della deliberazione di aumento del capitale sociale. I conferimenti che derivano dalla conversione di obbligazioni rilevano, invece, nel periodo d’imposta in corso alla data in cui ha effetto la conversione.
-
-5.
-
-Le agevolazioni previste dalla presente norma spettano a condizione che i soggetti investitori ricevano e conservino copia del piano d’investimento della Imprese ad alto contenuto tecnologico, contenente informazioni dettagliate sull’oggetto della prevista attività, sui relativi prodotti, nonché sull’andamento attuale e previsto delle vendite.
-
-6.
-
-Il diritto ai benefici di cui alla presente disposizione decade se, entro due anni dalla data in cui rileva l’investimento, si verifica la cessione (anche parziale) a titolo oneroso delle partecipazioni ricevute in cambio degli investimenti agevolati, inclusi gli atti a titolo oneroso che importano costituzione o trasferimenti di diritti reali di godimento, i conferimenti effettuati in Start Up innovative.
+6\. Il diritto ai benefici di cui alla presente disposizione decade se, entro due anni dalla data in cui rileva l’investimento, si verifica la cessione (anche parziale) a titolo oneroso delle partecipazioni ricevute in cambio degli investimenti agevolati, inclusi gli atti a titolo oneroso che importano costituzione o trasferimenti di diritti reali di godimento, i conferimenti effettuati in Start Up innovative.
 
 ###### Art. 22
 
 (Deduzione fiscale per il capitale proprio per le persone giuridiche che investono nelle Imprese ad alto contenuto tecnologico)
 
-1.
+1\. I soggetti passivi d’imposta di cui al Titolo III della Legge 16 dicembre 2013 n.166 e che effettuano conferimenti, in denaro o in natura, nelle Imprese ad alto contenuto tecnologico nei periodi d’imposta indicati al comma 1 dell’articolo 20, possono portare in deduzione dal reddito imponibile, determinato secondo le regole previste dal medesimo Titolo, una quota del 20 per cento corrispondente all’incremento del capitale proprio, al netto del risultato di esercizio in corso, in ciascun periodo d’imposta.
 
-I soggetti passivi d’imposta di cui al Titolo III della Legge 16 dicembre 2013 n.166 e che effettuano conferimenti, in denaro o in natura, nelle Imprese ad alto contenuto tecnologico nei periodi d’imposta indicati al comma 1 dell’articolo 20, possono portare in deduzione dal reddito imponibile, determinato secondo le regole previste dal medesimo Titolo, una quota del 20 per cento corrispondente all’incremento del capitale proprio, al netto del risultato di esercizio in corso, in ciascun periodo d’imposta.
-
-2.
-
-Le disposizioni del comma 1 si intendono in deroga all’articolo 74 della Legge 16 dicembre 2013 n. 166.
+2\. Le disposizioni del comma 1 si intendono in deroga all’articolo 74 della Legge 16 dicembre 2013 n. 166.
 
 ###### Art. 23
 
 (Detrazioni fiscali per i privati investitori)
 
-1.
-
-Fatte salve norme di rango superiore che prevedano limiti alla defiscalizzazione dei redditi derivanti da beni immateriali, per i soggetti persone fisiche residenti nel territorio della Repubblica di San Marino che effettuano conferimenti, in denaro o in natura, nelle Imprese ad alto contenuto tecnologico di cui al presente decreto delegato, è riconosciuta una detrazione dall’Imposta Generale sui Redditi prevista dalla Legge 16 dicembre 2013 n.166 individuata nella misura che segue:
+1\. Fatte salve norme di rango superiore che prevedano limiti alla defiscalizzazione dei redditi derivanti da beni immateriali, per i soggetti persone fisiche residenti nel territorio della Repubblica di San Marino che effettuano conferimenti, in denaro o in natura, nelle Imprese ad alto contenuto tecnologico di cui al presente decreto delegato, è riconosciuta una detrazione dall’Imposta Generale sui Redditi prevista dalla Legge 16 dicembre 2013 n.166 individuata nella misura che segue:
 
 a) nella misura del 80 per cento dei conferimenti rilevanti effettuati nei confronti di SUT I, per un importo non superiore a euro 1.000.000,00;
 
@@ -4415,49 +3265,31 @@ b) nella misura del 60 per cento dei conferimenti rilevanti effettuati nei confr
 
 c) nella misura del 20 per cento dei conferimenti rilevanti effettuati nei confronti di SAT, per un importo non superiore a euro 1.000.000,00.
 
-2.
+2\. Per le società di persone l’importo per il quale spetta la detrazione prevista dal comma 1 è determinato in capo ai soci persone fisiche in proporzione alle rispettive quote di partecipazione agli utili, come risultanti da atto pubblico o scrittura privata autenticata. Il suddetto limite di euro 1.000.000,00 si applica con riferimento al conferimento effettuato dalla società di persone nelle Imprese ad alto contenuto tecnologico.
 
-Per le società di persone l’importo per il quale spetta la detrazione prevista dal comma 1 è determinato in capo ai soci persone fisiche in proporzione alle rispettive quote di partecipazione agli utili, come risultanti da atto pubblico o scrittura privata autenticata. Il suddetto limite di euro 1.000.000,00 si applica con riferimento al conferimento effettuato dalla società di persone nelle Imprese ad alto contenuto tecnologico.
+3\. L’importo eventualmente eccedente della detrazione riconosciuta può essere riportato come credito di imposta nei successivi tre periodi di imposta.
 
-3.
+4\. Le agevolazioni previste dalla presente norma si applicano ai conferimenti in denaro iscritti alla voce del capitale sociale e della riserva da sovrapprezzo di azioni o quote delle Imprese ad alto contenuto tecnologico o delle società di capitali che investono prevalentemente in Imprese ad alto contenuto tecnologico, anche in seguito alla conversione di obbligazioni convertibili in azioni o quote di nuova emissione. Si considerano conferimenti in denaro anche la compensazione dei crediti in sede di sottoscrizione di aumenti di capitale, eccetto i crediti risultanti da cessione di beni o prestazioni di servizi.
 
-L’importo eventualmente eccedente della detrazione riconosciuta può essere riportato come credito di imposta nei successivi tre periodi di imposta.
+5\. Al fine di individuare se l’investimento ricade in un periodo d’imposta agevolato, i conferimenti di cui al comma 1 rilevano nel periodo d’imposta in corso alla data del deposito per l’iscrizione nel Registro delle società dell’atto costitutivo o della deliberazione di aumento del capitale sociale. I conferimenti che derivano dalla conversione di obbligazioni rilevano, invece, nel periodo d’imposta in corso alla data in cui ha effetto la conversione.
 
-4.
+6\. Le agevolazioni previste dalla presente norma spettano a condizione che i soggetti investitori ricevano e conservino copia del piano di investimento della Start Up ad alta tecnologia, contenente informazioni dettagliate sull’oggetto della prevista attività, sui relativi prodotti, nonché sull’andamento attuale e previsto delle vendite.
 
-Le agevolazioni previste dalla presente norma si applicano ai conferimenti in denaro iscritti alla voce del capitale sociale e della riserva da sovrapprezzo di azioni o quote delle Imprese ad alto contenuto tecnologico o delle società di capitali che investono prevalentemente in Imprese ad alto contenuto tecnologico, anche in seguito alla conversione di obbligazioni convertibili in azioni o quote di nuova emissione. Si considerano conferimenti in denaro anche la compensazione dei crediti in sede di sottoscrizione di aumenti di capitale, eccetto i crediti risultanti da cessione di beni o prestazioni di servizi.
-
-5.
-
-Al fine di individuare se l’investimento ricade in un periodo d’imposta agevolato, i conferimenti di cui al comma 1 rilevano nel periodo d’imposta in corso alla data del deposito per l’iscrizione nel Registro delle società dell’atto costitutivo o della deliberazione di aumento del capitale sociale. I conferimenti che derivano dalla conversione di obbligazioni rilevano, invece, nel periodo d’imposta in corso alla data in cui ha effetto la conversione.
-
-6.
-
-Le agevolazioni previste dalla presente norma spettano a condizione che i soggetti investitori ricevano e conservino copia del piano di investimento della Start Up ad alta tecnologia, contenente informazioni dettagliate sull’oggetto della prevista attività, sui relativi prodotti, nonché sull’andamento attuale e previsto delle vendite.
-
-7.
-
-Il diritto ai benefici di cui alla presente disposizione decade se, entro due anni dalla data in cui rileva l’investimento, si verifica la cessione, anche parziale, a titolo oneroso delle partecipazioni ricevute in cambio degli investimenti agevolati, inclusi gli atti a titolo oneroso che importano costituzione o trasferimenti di diritti reali di godimento i conferimenti effettuati in Imprese ad alto contenuto tecnologico.
+7\. Il diritto ai benefici di cui alla presente disposizione decade se, entro due anni dalla data in cui rileva l’investimento, si verifica la cessione, anche parziale, a titolo oneroso delle partecipazioni ricevute in cambio degli investimenti agevolati, inclusi gli atti a titolo oneroso che importano costituzione o trasferimenti di diritti reali di godimento i conferimenti effettuati in Imprese ad alto contenuto tecnologico.
 
 ###### Art. 24
 
 (Esenzione delle plusvalenze derivanti dalla cessione di partecipazioni)
 
-1.
-
-Le plusvalenze derivanti dalla cessione di partecipazioni, qualificate e non qualificate, nelle Imprese ad alto contenuto tecnologico, non concorrono alla formazione del reddito della persona fisica nella misura che segue:
+1\. Le plusvalenze derivanti dalla cessione di partecipazioni, qualificate e non qualificate, nelle Imprese ad alto contenuto tecnologico, non concorrono alla formazione del reddito della persona fisica nella misura che segue:
 
 a) al 100% del loro valore qualora entro due anni dal loro conseguimento vengano reinvestite in società che svolgono la medesima attività;
 
 b) al 50% del loro valore in tutti gli altri casi diversi da quello previsto alla lettera a).
 
-2.
+2\. L’esenzione di cui al comma 1 si applica anche alle plusvalenze derivanti dalla cessione di strumenti finanziari partecipativi o di contratti di associazione in partecipazione equiparati relativi alle medesime società.
 
-L’esenzione di cui al comma 1 si applica anche alle plusvalenze derivanti dalla cessione di strumenti finanziari partecipativi o di contratti di associazione in partecipazione equiparati relativi alle medesime società.
-
-3.
-
-Il regime agevolativo di cui ai commi che precedono opera al verificarsi delle seguenti condizioni:
+3\. Il regime agevolativo di cui ai commi che precedono opera al verificarsi delle seguenti condizioni:
 
 a) la società cui le partecipazioni si riferiscono è una Impresa ad alto contenuto tecnologico;
 
@@ -4471,103 +3303,65 @@ PARTNER CERTIFICATI
 
 (Partner Certificati)
 
-1.
+1\. San Marino Innovation S.p.A., in attuazione del proprio oggetto sociale e delle proprie funzioni, può porre in essere le più̀ opportune valutazioni sui soggetti e operatori che intendono entrare in relazione o partnership con l’Istituto stesso, valutandone il rispetto di standard e modelli operativi prestabiliti.
 
-San Marino Innovation S.p.A., in attuazione del proprio oggetto sociale e delle proprie funzioni, può porre in essere le più̀ opportune valutazioni sui soggetti e operatori che intendono entrare in relazione o partnership con l’Istituto stesso, valutandone il rispetto di standard e modelli operativi prestabiliti.
+2\. San Marino Innovation S.p.A., al fine di conferire massima trasparenza ai rapporti con i soggetti o gli operatori con i quali entra in relazione, deve individuare e disciplinare con proprio Regolamento i requisiti specifici per l’ottenimento dello status di “Partner Certificato” nonché le differenti tipologie e i modelli operativi di partnership nelle quali inquadrare i rapporti di cui al presente articolo.
 
-2.
+3\. Con lo stesso Regolamento devono essere altresì dettagliate le modalità di presentazione dell’istanza per ottenere lo status di “Partner Certificato” e la documentazione da allegare a supporto dell’istanza stessa.
 
-San Marino Innovation S.p.A., al fine di conferire massima trasparenza ai rapporti con i soggetti o gli operatori con i quali entra in relazione, deve individuare e disciplinare con proprio Regolamento i requisiti specifici per l’ottenimento dello status di “Partner Certificato” nonché le differenti tipologie e i modelli operativi di partnership nelle quali inquadrare i rapporti di cui al presente articolo.
-
-3.
-
-Con lo stesso Regolamento devono essere altresì dettagliate le modalità di presentazione dell’istanza per ottenere lo status di “Partner Certificato” e la documentazione da allegare a supporto dell’istanza stessa.
-
-4.
-
-La Partnership deve comunque presupporre: a. l’individuazione di uno o più progetti innovativi ad alto contenuto tecnologico, di ricerca e/o di sviluppo e/o di implementazione di applicazioni digitali e tecnologiche in genere, da realizzarsi in collaborazione con San Marino Innovation S.p.A., nel perseguimento dei propri fini sociali, in particolare: i. crescita economica e creazione di eccellenze tecnologiche; ii. nuova cultura imprenditoriale e dell’innovazione; iii. incremento delle attività di ricerca; iv. sviluppo di una nuova economia che usi l’innovazione come motore per la crescita di competitività della Repubblica di San Marino; v. studio di strategie d’innovazione per la Pubblica Amministrazione; vi. sviluppo e realizzazione di progetti orientati all’attuazione dell’Agenda Digitale Sammarinese (ADS).
+4\. La Partnership deve comunque presupporre: a. l’individuazione di uno o più progetti innovativi ad alto contenuto tecnologico, di ricerca e/o di sviluppo e/o di implementazione di applicazioni digitali e tecnologiche in genere, da realizzarsi in collaborazione con San Marino Innovation S.p.A., nel perseguimento dei propri fini sociali, in particolare: i. crescita economica e creazione di eccellenze tecnologiche; ii. nuova cultura imprenditoriale e dell’innovazione; iii. incremento delle attività di ricerca; iv. sviluppo di una nuova economia che usi l’innovazione come motore per la crescita di competitività della Repubblica di San Marino; v. studio di strategie d’innovazione per la Pubblica Amministrazione; vi. sviluppo e realizzazione di progetti orientati all’attuazione dell’Agenda Digitale Sammarinese (ADS).
 
 b. l’apporto a favore di San Marino Innovation S.p.A. di risorse umane e/o intellettuali e/o economiche e/o tecnologiche e qualsiasi altra risorsa idonea a perseguire le finalità dei progetti di cui alla lettera a.
 
-5.
-
-A fronte del conferimento dello status di “Partner Certificato” San Marino Innovation S.p.A. stabilisce con Direttiva da aggiornarsi periodicamente, le tariffe applicabili alle singole tipologie di partnership nonchè dettaglia i criteri di applicazione delle tariffe.
+5\. A fronte del conferimento dello status di “Partner Certificato” San Marino Innovation S.p.A. stabilisce con Direttiva da aggiornarsi periodicamente, le tariffe applicabili alle singole tipologie di partnership nonchè dettaglia i criteri di applicazione delle tariffe.
 
 #### TITOLO VI
 
 CONSORZIO PER LA RICERCA E LO SVILUPPO Art 26 (Consorzio per la ricerca e lo sviluppo)
 
-1.
+1\. Due o più imprese o gli enti di ogni tipo, tanto di diritto sammarinese che estero, possono costituire un consorzio per la ricerca e lo sviluppo.
 
-Due o più imprese o gli enti di ogni tipo, tanto di diritto sammarinese che estero, possono costituire un consorzio per la ricerca e lo sviluppo.
+2\. Con il contratto di consorzio per la ricerca e lo sviluppo i consorziati istituiscono un’organizzazione comune per sviluppare un determinato progetto di ricerca o di sviluppo di un prodotto, un servizio, un processo o una tecnologia.
 
-2.
-
-Con il contratto di consorzio per la ricerca e lo sviluppo i consorziati istituiscono un’organizzazione comune per sviluppare un determinato progetto di ricerca o di sviluppo di un prodotto, un servizio, un processo o una tecnologia.
-
-3.
-
-Ai fini della validità del contratto, almeno una delle imprese consorziate deve essere un’impresa ad alto contenuto tecnologico o, in alternativa, deve essere in possesso dello status di “Partner Certificato”, ai sensi del presente decreto delegato.
+3\. Ai fini della validità del contratto, almeno una delle imprese consorziate deve essere un’impresa ad alto contenuto tecnologico o, in alternativa, deve essere in possesso dello status di “Partner Certificato”, ai sensi del presente decreto delegato.
 
 ###### Art. 27
 
 (Forma e contenuto del contratto)
 
-1.
+1\. Il contratto di consorzio per la ricerca e lo sviluppo è stipulato con atto pubblico o scrittura privata autenticata a pena di nullità.
 
-Il contratto di consorzio per la ricerca e lo sviluppo è stipulato con atto pubblico o scrittura privata autenticata a pena di nullità.
-
-2.
-
-Esso deve indicare: a. l’oggetto e la durata del consorzio; b. la descrizione del progetto di ricerca o di sviluppo; c. la sede dove verrà prevalentemente svolta l’attività; d. gli obblighi assunti e i contributi dovuti dai consorziati; e. le attribuzioni e i poteri degli organi consortili anche in ordine alla rappresentanza in giudizio; f. le condizioni di ammissione di nuovi consorziati; g. i casi di recesso e di esclusione; h. le sanzioni per l’inadempimento degli obblighi dei consorziati.
+2\. Esso deve indicare: a. l’oggetto e la durata del consorzio; b. la descrizione del progetto di ricerca o di sviluppo; c. la sede dove verrà prevalentemente svolta l’attività; d. gli obblighi assunti e i contributi dovuti dai consorziati; e. le attribuzioni e i poteri degli organi consortili anche in ordine alla rappresentanza in giudizio; f. le condizioni di ammissione di nuovi consorziati; g. i casi di recesso e di esclusione; h. le sanzioni per l’inadempimento degli obblighi dei consorziati.
 
 ###### Art. 28
 
 (Registrazione del contratto)
 
-1.
+1\. Il contratto di cui agli articoli che precedono deve essere registrato presso l’Ufficio del Registro e Conservatoria della Repubblica di San Marino entro 30 giorni dalla sua stipula.
 
-Il contratto di cui agli articoli che precedono deve essere registrato presso l’Ufficio del Registro e Conservatoria della Repubblica di San Marino entro 30 giorni dalla sua stipula.
+2\. L’imposta di registro prevista per il contratto di cui agli articoli che precedono è fissato in misura fissa pari a euro 70,00.
 
-2.
-
-L’imposta di registro prevista per il contratto di cui agli articoli che precedono è fissato in misura fissa pari a euro 70,00.
-
-3.
-
-La registrazione del contratto ha natura costitutiva. In mancanza verrà applicata la disciplina sulle associazioni non riconosciute.
+3\. La registrazione del contratto ha natura costitutiva. In mancanza verrà applicata la disciplina sulle associazioni non riconosciute.
 
 ###### Art. 29
 
 (Organi consortili)
 
-1.
+1\. Gli organi consortili hanno la rappresentanza sostanziale e processuale di tutte le imprese consorziate, per tutte le questioni derivanti dal contratto di consorzio per la ricerca e lo sviluppo.
 
-Gli organi consortili hanno la rappresentanza sostanziale e processuale di tutte le imprese consorziate, per tutte le questioni derivanti dal contratto di consorzio per la ricerca e lo sviluppo.
-
-2.
-
-Gli organi consortili rispondono ai consorziati in base alle norme sul mandato.
+2\. Gli organi consortili rispondono ai consorziati in base alle norme sul mandato.
 
 ###### Art. 30
 
 (Fondo consortile)
 
-1.
+1\. I contributi dei consorziati e i beni acquistati con questi contributi costituiscono il fondo consortile che deve essere impiegato esclusivamente per il perseguimento dell’oggetto del consorzio per la ricerca e lo sviluppo.
 
-I contributi dei consorziati e i beni acquistati con questi contributi costituiscono il fondo consortile che deve essere impiegato esclusivamente per il perseguimento dell’oggetto del consorzio per la ricerca e lo sviluppo.
+2\. Il fondo consortile deve essere costituito nella forma di trust, ai sensi della Legge 1 marzo 2010 n. 42 e successive modifiche e integrazioni, entro 120 giorni dalla registrazione del contratto di consorzio di cui agli articoli che precedono, a pena di nullità di quest’ultimo.
 
-2.
+3\. Per la durata del consorzio i consorziati non possono chiedere la divisione del fondo, e i creditori particolari dei consorziati non possono far valere i loro diritti sul fondo medesimo.
 
-Il fondo consortile deve essere costituito nella forma di trust, ai sensi della Legge 1 marzo 2010 n. 42 e successive modifiche e integrazioni, entro 120 giorni dalla registrazione del contratto di consorzio di cui agli articoli che precedono, a pena di nullità di quest’ultimo.
-
-3.
-
-Per la durata del consorzio i consorziati non possono chiedere la divisione del fondo, e i creditori particolari dei consorziati non possono far valere i loro diritti sul fondo medesimo.
-
-4.
-
-Delle obbligazioni assunte in nome del consorzio, dalle persone che ne hanno la rappresentanza, risponde solo ed esclusivamente il fondo consortile.
+4\. Delle obbligazioni assunte in nome del consorzio, dalle persone che ne hanno la rappresentanza, risponde solo ed esclusivamente il fondo consortile.
 
 ###### Art. 31
 
@@ -4579,13 +3373,9 @@ Delle obbligazioni assunte in nome del consorzio, dalle persone che ne hanno la 
 
 (Agevolazioni per i consorziati)
 
-1.
+1\. Fatte salve norme di rango superiore che prevedano limiti alla defiscalizzazione dei redditi derivanti da beni immateriali, i contributi in denaro effettuati dai consorziati nel fondo consortile sono deducibili dall’imposta sul reddito dell’impresa consorziata nella misura del 20%, per un importo non superiore a euro 50.000,00 annui.
 
-Fatte salve norme di rango superiore che prevedano limiti alla defiscalizzazione dei redditi derivanti da beni immateriali, i contributi in denaro effettuati dai consorziati nel fondo consortile sono deducibili dall’imposta sul reddito dell’impresa consorziata nella misura del 20%, per un importo non superiore a euro 50.000,00 annui.
-
-2.
-
-Il diritto ai benefici di cui al comma 1 decade in caso di scioglimento del consorzio entro l’anno fiscale successivo a quello in cui sono state godute le agevolazioni fiscali di cui al presente articolo.
+2\. Il diritto ai benefici di cui al comma 1 decade in caso di scioglimento del consorzio entro l’anno fiscale successivo a quello in cui sono state godute le agevolazioni fiscali di cui al presente articolo.
 
 #### TITOLO VII
 
@@ -4595,49 +3385,31 @@ WORK FOR EQUITY
 
 (Assegnazione di partecipazioni a titolo retributivo)
 
-1.
+1\. Le Imprese di cui al presente decreto delegato possono assegnare partecipazioni societarie oppure diritti per l'acquisto o la sottoscrizione di partecipazioni societarie ad amministratori, dipendenti, lavoratori a contratto, collaboratori, consulenti a fronte dell’apporto di prestazioni di opere e di servizi.
 
-Le Imprese di cui al presente decreto delegato possono assegnare partecipazioni societarie oppure diritti per l'acquisto o la sottoscrizione di partecipazioni societarie ad amministratori, dipendenti, lavoratori a contratto, collaboratori, consulenti a fronte dell’apporto di prestazioni di opere e di servizi.
+2\. Le partecipazioni societarie destinate alle finalità di cui al comma 1 devono essere partecipazioni di proprietà della società stessa, ai sensi dell’articolo 12, comma 1, lettera d) e dell’articolo 13, comma 5, lettera d).
 
-2.
-
-Le partecipazioni societarie destinate alle finalità di cui al comma 1 devono essere partecipazioni di proprietà della società stessa, ai sensi dell’articolo 12, comma 1, lettera d) e dell’articolo 13, comma 5, lettera d).
-
-3.
-
-La società che intenda avvalersi della facoltà di cui al comma 1 deve stipulare con il beneficiario apposito contratto, ai sensi dell’articolo 34 del presente decreto delegato.
+3\. La società che intenda avvalersi della facoltà di cui al comma 1 deve stipulare con il beneficiario apposito contratto, ai sensi dell’articolo 34 del presente decreto delegato.
 
 ###### Art. 34
 
 (Contratto “work for equity”)
 
-1.
+1\. La società che intenda avvalersi della facoltà di cui all’articolo 33 deve stipulare apposito contratto con il beneficiario nelle forme e nei modi di cui al presente articolo.
 
-La società che intenda avvalersi della facoltà di cui all’articolo 33 deve stipulare apposito contratto con il beneficiario nelle forme e nei modi di cui al presente articolo.
+2\. Il contratto di cui al presente articolo deve essere redatto in forma di atto pubblico o scrittura privata autenticata e registrato ai sensi delle vigenti normative, a pena di nullità.
 
-2.
-
-Il contratto di cui al presente articolo deve essere redatto in forma di atto pubblico o scrittura privata autenticata e registrato ai sensi delle vigenti normative, a pena di nullità.
-
-3.
-
-Esso deve indicare a pena di nullità: a. dati anagrafici del Beneficiario; b. dati della società Emittente; c. delibera dell’Assemblea dei soci in forza della quale viene stipulato il contratto “work for equity”; d. descrizione dettagliata del tipo di opera o di servizio da rendere; e. valorizzazione degli apporti; f. diritti e i doveri attribuiti dalle partecipazioni; g. maturazione e modalità di attribuzione delle partecipazioni o dei diritti per l'acquisto o la sottoscrizione di partecipazioni; h. performance e/o obiettivi a cui è condizionata l’attribuzione delle partecipazioni o dei diritti per l'acquisto o la sottoscrizione di partecipazioni e criteri oggettivi di valutazione; i. conseguenze in caso di mancata prestazione dell’opera o del servizio; l. la qualificazione come “premio integrativo alla retribuzione base”, nel caso in cui il beneficiario sia dipendente della società.
+3\. Esso deve indicare a pena di nullità: a. dati anagrafici del Beneficiario; b. dati della società Emittente; c. delibera dell’Assemblea dei soci in forza della quale viene stipulato il contratto “work for equity”; d. descrizione dettagliata del tipo di opera o di servizio da rendere; e. valorizzazione degli apporti; f. diritti e i doveri attribuiti dalle partecipazioni; g. maturazione e modalità di attribuzione delle partecipazioni o dei diritti per l'acquisto o la sottoscrizione di partecipazioni; h. performance e/o obiettivi a cui è condizionata l’attribuzione delle partecipazioni o dei diritti per l'acquisto o la sottoscrizione di partecipazioni e criteri oggettivi di valutazione; i. conseguenze in caso di mancata prestazione dell’opera o del servizio; l. la qualificazione come “premio integrativo alla retribuzione base”, nel caso in cui il beneficiario sia dipendente della società.
 
 ###### Art. 35
 
 (Trattamento fiscale)
 
-1.
+1\. Le partecipazioni attribuite a fronte dell'apporto di opere e servizi resi in favore di Imprese di cui al presente decreto delegato, ovvero di crediti maturati a seguito della prestazione di opere e servizi, ivi inclusi quelli professionali, resi nei confronti degli stessi, non concorrono alla formazione del reddito complessivo del soggetto che effettua l'apporto al momento della loro attribuzione.
 
-Le partecipazioni attribuite a fronte dell'apporto di opere e servizi resi in favore di Imprese di cui al presente decreto delegato, ovvero di crediti maturati a seguito della prestazione di opere e servizi, ivi inclusi quelli professionali, resi nei confronti degli stessi, non concorrono alla formazione del reddito complessivo del soggetto che effettua l'apporto al momento della loro attribuzione.
+2\. Il reddito di lavoro derivante dall'assegnazione, da parte delle Imprese di cui al presente decreto delegato ai propri amministratori, dipendenti o lavoratori a contratto di partecipazioni o di ogni altro diritto per l'acquisto o la sottoscrizione di partecipazioni, non concorre alla formazione del reddito imponibile dei suddetti soggetti, sia ai fini fiscali, sia ai fini contributivi.
 
-2.
-
-Il reddito di lavoro derivante dall'assegnazione, da parte delle Imprese di cui al presente decreto delegato ai propri amministratori, dipendenti o lavoratori a contratto di partecipazioni o di ogni altro diritto per l'acquisto o la sottoscrizione di partecipazioni, non concorre alla formazione del reddito imponibile dei suddetti soggetti, sia ai fini fiscali, sia ai fini contributivi.
-
-3.
-
-Il beneficio di cui al presente articolo è riconosciuto a condizione che le partecipazioni o i diritti oggetto di assegnazione non siano riacquistati dalla società emittente o da altro soggetto che controlla o che è controllato dalla società emittente.
+3\. Il beneficio di cui al presente articolo è riconosciuto a condizione che le partecipazioni o i diritti oggetto di assegnazione non siano riacquistati dalla società emittente o da altro soggetto che controlla o che è controllato dalla società emittente.
 
 #### TITOLO VIII
 
@@ -4647,59 +3419,39 @@ NORME TRASITORIE
 
 (Disposizioni transitorie)
 
-1.
+1\. Le Imprese Start p che alla data di entrata in vigore del presente decreto delegato risultano già iscritte da più di 12 mesi al Registro delle Imprese Start Up ad alta tecnologia previsto all’articolo 4 del Decreto Delegato 24 luglio 2014 n. 116, hanno la facoltà di optare di essere iscritte nel Registro delle Imprese ad alto contenuto tecnologico e di conseguenza di essere sottoposte alla disciplina di cui al presente decreto delegato, divenendo Start Up Tecnologica di Secondo Livello (SUT II), e pertanto abbandonando la precedente prevista dal Decreto Delegato 24 luglio 2014 n.116 successive modifiche.
 
-Le Imprese Start p che alla data di entrata in vigore del presente decreto delegato risultano già iscritte da più di 12 mesi al Registro delle Imprese Start Up ad alta tecnologia previsto all’articolo 4 del Decreto Delegato 24 luglio 2014 n. 116, hanno la facoltà di optare di essere iscritte nel Registro delle Imprese ad alto contenuto tecnologico e di conseguenza di essere sottoposte alla disciplina di cui al presente decreto delegato, divenendo Start Up Tecnologica di Secondo Livello (SUT II), e pertanto abbandonando la precedente prevista dal Decreto Delegato 24 luglio 2014 n.116 successive modifiche.
+2\. Le Imprese Start Up che alla data di entrata in vigore del presente decreto delegato risultano già iscritte al Registro delle Imprese Start Up ad alta tecnologia previsto all’articolo 4 del Decreto Delegato 24 luglio 2014 n. 116 devono comunicare l’opzione per il nuovo regime entro il 31 luglio 2019 all’Ufficio Attività Economiche e a San Marino Innovation S.p.A. tramite raccomandata con ricevuta di ritorno, pena la decadenza del diritto di esercitare la medesima.
 
-2.
-
-Le Imprese Start Up che alla data di entrata in vigore del presente decreto delegato risultano già iscritte al Registro delle Imprese Start Up ad alta tecnologia previsto all’articolo 4 del Decreto Delegato 24 luglio 2014 n. 116 devono comunicare l’opzione per il nuovo regime entro il 31 luglio 2019 all’Ufficio Attività Economiche e a San Marino Innovation S.p.A. tramite raccomandata con ricevuta di ritorno, pena la decadenza del diritto di esercitare la medesima.
-
-3.
-
-La disciplina di cui al Decreto Delegato 24 luglio 2014 n.116 e successive modifiche, nonché tutte le norme che richiamano ovvero sono connesse a questo, continuano ad avere applicazione per le Imprese start up che alla data di entrata in vigore del presente decreto delegato risultano già iscritte nel Registro delle Imprese Start Up ad alta tecnologia e che non esercitino l’opzione di cui ai superiori commi nei termini e modi da questi previsti, sino all’esaurimento del periodo di permanenza di ciascuna società nel regime disciplinato all’articolo 3 del Decreto Delegato 24 luglio 2014 n.116.
+3\. La disciplina di cui al Decreto Delegato 24 luglio 2014 n.116 e successive modifiche, nonché tutte le norme che richiamano ovvero sono connesse a questo, continuano ad avere applicazione per le Imprese start up che alla data di entrata in vigore del presente decreto delegato risultano già iscritte nel Registro delle Imprese Start Up ad alta tecnologia e che non esercitino l’opzione di cui ai superiori commi nei termini e modi da questi previsti, sino all’esaurimento del periodo di permanenza di ciascuna società nel regime disciplinato all’articolo 3 del Decreto Delegato 24 luglio 2014 n.116.
 
 ###### Art. 36-bis
 
 (Norme di allineamento agli standard internazionali e di raccordo)
 
-1.
+1\. Le agevolazioni previste dagli articoli 20, 21, 22 e 23 del presente decreto non si applicano alle attività economiche consistenti nel mero sfruttamento di diritti derivanti da beni immateriali.
 
-Le agevolazioni previste dagli articoli 20, 21, 22 e 23 del presente decreto non si applicano alle attività economiche consistenti nel mero sfruttamento di diritti derivanti da beni immateriali.
+2\. L’accesso agli incentivi fiscali previsti dal presente decreto è consentito soltanto alle imprese che esercitino l'attività economica attraverso l'effettivo utilizzo di persone, attrezzature, locali ed in generale attivi patrimoniali.
 
-2.
-
-L’accesso agli incentivi fiscali previsti dal presente decreto è consentito soltanto alle imprese che esercitino l'attività economica attraverso l'effettivo utilizzo di persone, attrezzature, locali ed in generale attivi patrimoniali.
-
-3.
-
-Sono fatti salvi gli effetti prodotti dal Decreto Delegato 3 maggio 2019 n. 73.
+3\. Sono fatti salvi gli effetti prodotti dal Decreto Delegato 3 maggio 2019 n. 73.
 
 ###### Art.37
 
 (Norme finali)
 
-1.
-
-La lettera e) del comma 5 dell’articolo 17 del Decreto Delegato 2 marzo 2015 n.26 è sostituita dalla seguente:
+1\. La lettera e) del comma 5 dell’articolo 17 del Decreto Delegato 2 marzo 2015 n.26 è sostituita dalla seguente:
 
 “e) quando l’altra parte contraente è un Ente Pubblico o un ente a partecipazione pubblica totalitaria o maggioritaria, anche facente parte di un Consorzio per la ricerca e lo sviluppo”.
 
-2.
-
-All’articolo 2 del Decreto Delegato 10 dicembre 2010 n. 192 è aggiunta la seguente lettera: “h bis) i provvedimenti dell’Istituto per l’Innovazione della Repubblica di San Marino S.p.A., delegati da apposite norme di legge.”.
+2\. All’articolo 2 del Decreto Delegato 10 dicembre 2010 n. 192 è aggiunta la seguente lettera: “h bis) i provvedimenti dell’Istituto per l’Innovazione della Repubblica di San Marino S.p.A., delegati da apposite norme di legge.”.
 
 ###### Art.38
 
 (Abrogazioni)
 
-1.
+1\. Fatto salvo quanto previsto dall’articolo 36, è abrogato il Decreto Delegato 24 luglio 2014 n.116 e successive modifiche.
 
-Fatto salvo quanto previsto dall’articolo 36, è abrogato il Decreto Delegato 24 luglio 2014 n.116 e successive modifiche.
-
-2.
-
-E’ abrogato il Decreto Delegato 4 febbraio 2019 n.25; sono fatti salvi gli effetti e atti compiuti conformemente allo stesso.
+2\. E’ abrogato il Decreto Delegato 4 febbraio 2019 n.25; sono fatti salvi gli effetti e atti compiuti conformemente allo stesso.
 
 LEGGE 10 agosto 2012 N.122 - Testo Unico in materia di Armi ed Esplosivi
 
@@ -4725,9 +3477,7 @@ DECRETO DELEGATO 30 gennaio 2020 n.11 - Autorizzazione alla realizzazione e al f
 
 (Requisiti generici)
 
-1.
-
-Le strutture sanitarie, socio-sanitarie e socio-educative devono essere in possesso dei requisiti previsti dalla vigente normativa in materia di:
+1\. Le strutture sanitarie, socio-sanitarie e socio-educative devono essere in possesso dei requisiti previsti dalla vigente normativa in materia di:
 
 a) urbanistica ed edilizia;
 
@@ -4745,9 +3495,7 @@ f) igiene degli alimenti e delle bevande.
 
 (Verifiche preliminari)
 
-1.
-
-L’Authority per l’autorizzazione, l’accreditamento e la qualità dei servizi sanitari, sociosanitari e socio-educativi, di cui all’articolo 5 della Legge 25 maggio 2004 n.69 così come modificato dall’articolo 5 della Legge 28 dicembre 2007 n.136, di seguito denominata Authority, può provvedere a controllare i requisiti generici, indicati all’articolo 1 del presente decreto delegato, anche, nei soli casi in cui il personale dell’Authority non permetta di svolgere tali controlli autonomamente, attraverso apposito gruppo tecnico, avvalendosi di specifiche competenze professionali ed amministrative presenti nella Pubblica Amministrazione allargata. Qualora tali competenze non siano reperibili all’interno della Pubblica Amministrazione allargata, l’Authority può ricorrere a figure esterne.
+1\. L’Authority per l’autorizzazione, l’accreditamento e la qualità dei servizi sanitari, sociosanitari e socio-educativi, di cui all’articolo 5 della Legge 25 maggio 2004 n.69 così come modificato dall’articolo 5 della Legge 28 dicembre 2007 n.136, di seguito denominata Authority, può provvedere a controllare i requisiti generici, indicati all’articolo 1 del presente decreto delegato, anche, nei soli casi in cui il personale dell’Authority non permetta di svolgere tali controlli autonomamente, attraverso apposito gruppo tecnico, avvalendosi di specifiche competenze professionali ed amministrative presenti nella Pubblica Amministrazione allargata. Qualora tali competenze non siano reperibili all’interno della Pubblica Amministrazione allargata, l’Authority può ricorrere a figure esterne.
 
 ###### Art. 6
 
@@ -4769,17 +3517,13 @@ LEGGE 23 DICEMBRE 2020 n.222 - La Società di professionisti in forma di societ�
 
 (Finalità)
 
-1.
-
-La presente legge, in aggiunta all’esistente “società tra professionisti” di cui all’articolo 3 della Legge 23 febbraio 2006 n.47 (legge sulle società), ha la finalità di consentire alle società di capitali lo svolgimento delle attività libero professionali, introducendo e disciplinando nell’ordinamento la figura della “società di professionisti”.
+1\. La presente legge, in aggiunta all’esistente “società tra professionisti” di cui all’articolo 3 della Legge 23 febbraio 2006 n.47 (legge sulle società), ha la finalità di consentire alle società di capitali lo svolgimento delle attività libero professionali, introducendo e disciplinando nell’ordinamento la figura della “società di professionisti”.
 
 ###### Art.2
 
 (Definizioni)
 
-1.
-
-Ai fini della presente legge i seguenti termini e espressioni assumono i seguenti significati:
+1\. Ai fini della presente legge i seguenti termini e espressioni assumono i seguenti significati:
 
 b) per “legge quadro sulle libere professioni”, la Legge 20 febbraio 1991 n.28 e successive modifiche;
 
@@ -4799,17 +3543,13 @@ h) per “società di professionisti multidisciplinare”, la società di profes
 
 (Società di professionisti)
 
-1.
-
-È consentita la costituzione di società di professionisti sia monodisciplinari che multidisciplinari per l’esercizio di una o più attività protette.
+1\. È consentita la costituzione di società di professionisti sia monodisciplinari che multidisciplinari per l’esercizio di una o più attività protette.
 
 ###### Art.4
 
 (Atto costitutivo e Statuto)
 
-1.
-
-L’atto costitutivo delle società di professionisti, oltre a quanto previsto dall’articolo 19 della legge sulle società, deve obbligatoriamente prevedere le seguenti condizioni:
+1\. L’atto costitutivo delle società di professionisti, oltre a quanto previsto dall’articolo 19 della legge sulle società, deve obbligatoriamente prevedere le seguenti condizioni:
 
 \- l’indicazione di società di professionisti monodisciplinare oppure di società di professionisti multidisciplinare;
 
@@ -4827,187 +3567,115 @@ L’atto costitutivo delle società di professionisti, oltre a quanto previsto d
 
 \- la disciplina dell’esclusione dei soci liberi professionisti nei casi previsti dall’articolo 10, commi 7, 8 e 9.
 
-2.
-
-L’assenza o il venir meno di una delle superiori condizioni costituisce causa di scioglimento e di messa in liquidazione della società, salvo dette condizioni non vengano ristabilite nel termine perentorio di giorni trenta.
+2\. L’assenza o il venir meno di una delle superiori condizioni costituisce causa di scioglimento e di messa in liquidazione della società, salvo dette condizioni non vengano ristabilite nel termine perentorio di giorni trenta.
 
 ###### Art.5
 
 (Soci)
 
-1.
+1\. Sono ammessi quali soci di società di professionisti anche persone fisiche diverse dai liberi professionisti; tali soci non possono complessivamente detenere una quota del capitale sociale superiore ad un terzo.
 
-Sono ammessi quali soci di società di professionisti anche persone fisiche diverse dai liberi professionisti; tali soci non possono complessivamente detenere una quota del capitale sociale superiore ad un terzo.
+2\. Per i soli soci liberi professionisti l’iscrizione all’albo professionale di appartenenza costituisce elemento sufficiente ad escludere la qualifica di Soggetto Inidoneo così come definito dall’articolo 1, comma 1, numero 9) della Legge sulle società.
 
-2.
+3\. I soci liberi professionisti non possono essere in numero superiore ad un quindicesimo degli iscritti nell’Albo dell’attività protetta di appartenenza.
 
-Per i soli soci liberi professionisti l’iscrizione all’albo professionale di appartenenza costituisce elemento sufficiente ad escludere la qualifica di Soggetto Inidoneo così come definito dall’articolo 1, comma 1, numero 9) della Legge sulle società.
+4\. I soci liberi professionisti forniscono le loro prestazioni per la società di professionisti di cui sono soci e possono, nello stesso tempo, esercitare le attività protette in forma individuale quali lavoratori autonomi.
 
-3.
+5\. I soci liberi professionisti non possono, nello stesso tempo, essere soci né componenti dell’organo amministrativo di altre società di professionisti.
 
-I soci liberi professionisti non possono essere in numero superiore ad un quindicesimo degli iscritti nell’Albo dell’attività protetta di appartenenza.
+6\. I soci di una società di professionisti possono essere assunti quali dipendenti della stessa.
 
-4.
-
-I soci liberi professionisti forniscono le loro prestazioni per la società di professionisti di cui sono soci e possono, nello stesso tempo, esercitare le attività protette in forma individuale quali lavoratori autonomi.
-
-5.
-
-I soci liberi professionisti non possono, nello stesso tempo, essere soci né componenti dell’organo amministrativo di altre società di professionisti.
-
-6.
-
-I soci di una società di professionisti possono essere assunti quali dipendenti della stessa.
-
-7.
-
-È consentito, nel rispetto delle disposizioni della presente legge, il regime del socio unico previsto e disciplinato dall’articolo 12 della Legge sulle società e a cui si rinvia.
+7\. È consentito, nel rispetto delle disposizioni della presente legge, il regime del socio unico previsto e disciplinato dall’articolo 12 della Legge sulle società e a cui si rinvia.
 
 ###### Art.6
 
 (Organo amministrativo)
 
-1.
+1\. L’organo amministrativo, i cui membri debbono essere residenti in territorio sammarinese, se monocratico, è composto da un socio scelto tra i liberi professionisti, e, se collegiale, almeno i due terzi dei membri è scelta tra i soci liberi professionisti.
 
-L’organo amministrativo, i cui membri debbono essere residenti in territorio sammarinese, se monocratico, è composto da un socio scelto tra i liberi professionisti, e, se collegiale, almeno i due terzi dei membri è scelta tra i soci liberi professionisti.
-
-2.
-
-Il mandato di amministratore è incompatibile con la carica di amministratore e socio in altre società di professionisti.
+2\. Il mandato di amministratore è incompatibile con la carica di amministratore e socio in altre società di professionisti.
 
 ###### Art.7
 
 (Mandato)
 
-1.
+1\. L’incarico professionale è assunto dalla società di professionisti e deve essere eseguito in modo esclusivo dai soci liberi professionisti in possesso dei requisiti per l’esercizio dell’attività protetta richiesta nello svolgimento dei singoli incarichi professionali.
 
-L’incarico professionale è assunto dalla società di professionisti e deve essere eseguito in modo esclusivo dai soci liberi professionisti in possesso dei requisiti per l’esercizio dell’attività protetta richiesta nello svolgimento dei singoli incarichi professionali.
+2\. Il mandato già conferito a liberi professionisti che diventano soci, si intende trasferito alla società di professionisti partecipata dagli stessi, qualora entro trenta giorni dalla comunicazione il cliente non revochi il mandato.
 
-2.
+3\. La scelta dei singoli soci liberi professionisti da parte della società di professionisti è richiesta dal cliente; in difetto la scelta è operata autonomamente dalla società che tuttavia comunica al cliente il nominativo prescelto potendo lo stesso far valere il proprio dissenso.
 
-Il mandato già conferito a liberi professionisti che diventano soci, si intende trasferito alla società di professionisti partecipata dagli stessi, qualora entro trenta giorni dalla comunicazione il cliente non revochi il mandato.
+4\. L’obbligo al segreto professionale e alla riservatezza si estende a tutti i soci, i quali devono adoperarsi per farli osservare anche dai collaboratori, dagli ausiliari e dai dipendenti della società.
 
-3.
-
-La scelta dei singoli soci liberi professionisti da parte della società di professionisti è richiesta dal cliente; in difetto la scelta è operata autonomamente dalla società che tuttavia comunica al cliente il nominativo prescelto potendo lo stesso far valere il proprio dissenso.
-
-4.
-
-L’obbligo al segreto professionale e alla riservatezza si estende a tutti i soci, i quali devono adoperarsi per farli osservare anche dai collaboratori, dagli ausiliari e dai dipendenti della società.
-
-5.
-
-I clienti sono obbligatoriamente e prontamente informati su conflitti di interesse con la società e i suoi soci.
+5\. I clienti sono obbligatoriamente e prontamente informati su conflitti di interesse con la società e i suoi soci.
 
 ###### Art.8
 
 (Compensi per le prestazioni fornite)
 
-1.
+1\. Alle prestazioni fornite dalla società si applicano, per i compensi costituiti dagli onorari, indennità, diritti e spese, le tariffe previste per l’attività protetta richiesta ed eseguita.
 
-Alle prestazioni fornite dalla società si applicano, per i compensi costituiti dagli onorari, indennità, diritti e spese, le tariffe previste per l’attività protetta richiesta ed eseguita.
+2\. L’opinamento per la determinazione dei compensi dovuti alla società, è dato dal Consiglio dell’Ordine o del Collegio dell’attività protetta di appartenenza dei liberi professionisti che hanno eseguito la prestazione.
 
-2.
+3\. Se la prestazione è eseguita da più soci liberi professionisti di società di professionisti monodisciplinare, si applica il compenso stabilito per un solo professionista, salvo che la pluralità dei professionisti sia stata richiesta o concordata con il cliente.
 
-L’opinamento per la determinazione dei compensi dovuti alla società, è dato dal Consiglio dell’Ordine o del Collegio dell’attività protetta di appartenenza dei liberi professionisti che hanno eseguito la prestazione.
-
-3.
-
-Se la prestazione è eseguita da più soci liberi professionisti di società di professionisti monodisciplinare, si applica il compenso stabilito per un solo professionista, salvo che la pluralità dei professionisti sia stata richiesta o concordata con il cliente.
-
-4.
-
-Se la prestazione è eseguita da più soci liberi professionisti di società di professionisti multidisciplinare, appartenenti a diverse attività protette, la stessa è esplicitamente richiesta o concordata con il cliente; in tal caso le attività sono valutate separatamente e danno diritto a separati compensi, altrimenti sono dovuti per l’attività di uno solo tra i liberi professionisti e con l’applicazione di una sola tariffa.
+4\. Se la prestazione è eseguita da più soci liberi professionisti di società di professionisti multidisciplinare, appartenenti a diverse attività protette, la stessa è esplicitamente richiesta o concordata con il cliente; in tal caso le attività sono valutate separatamente e danno diritto a separati compensi, altrimenti sono dovuti per l’attività di uno solo tra i liberi professionisti e con l’applicazione di una sola tariffa.
 
 ###### Art.9
 
 (Responsabilità civile)
 
-1.
+1\. La responsabilità civile per i danni arrecati ai clienti dall’esercizio dell’attività protetta è a esclusivo carico della società di professionisti che ne è l’unico soggetto passivo, rimanendo salvi i rapporti interni per l’eventuale rivalsa da parte della società nei confronti dei soci liberi professionisti esecutori dell’attività.
 
-La responsabilità civile per i danni arrecati ai clienti dall’esercizio dell’attività protetta è a esclusivo carico della società di professionisti che ne è l’unico soggetto passivo, rimanendo salvi i rapporti interni per l’eventuale rivalsa da parte della società nei confronti dei soci liberi professionisti esecutori dell’attività.
-
-2.
-
-La società stipula adeguato contratto di assicurazione, con massimali almeno pari a quelli stabiliti dall’Ordine o dal Collegio dell’attività protetta di appartenenza e comunque mai inferiore ad euro 1.000.000,00, a copertura dei danni arrecati ai clienti e deve comunicarne gli estremi ai clienti stessi che ne facciano richiesta.
+2\. La società stipula adeguato contratto di assicurazione, con massimali almeno pari a quelli stabiliti dall’Ordine o dal Collegio dell’attività protetta di appartenenza e comunque mai inferiore ad euro 1.000.000,00, a copertura dei danni arrecati ai clienti e deve comunicarne gli estremi ai clienti stessi che ne facciano richiesta.
 
 ###### Art.10
 
 (Ordini e Collegi professionali dell’attività protetta)
 
-1.
+1\. Gli Ordini e i Collegi professionali dell’attività protetta esercitano nei confronti delle società di professionisti e dei liberi professionisti, soci delle stesse, i poteri e le funzioni previsti dalla legge quadro sulle libere professioni e dagli Statuti della singola attività protetta, non esclusi i poteri di vigilanza e disciplinari.
 
-Gli Ordini e i Collegi professionali dell’attività protetta esercitano nei confronti delle società di professionisti e dei liberi professionisti, soci delle stesse, i poteri e le funzioni previsti dalla legge quadro sulle libere professioni e dagli Statuti della singola attività protetta, non esclusi i poteri di vigilanza e disciplinari.
+2\. A tal fine la società di professionisti, dopo la sua iscrizione nel Registro delle Società previsto dalla legge sulle società, presenta domanda di iscrizione all’Ordine o al Collegio e all’Albo dell’attività protetta prevista dall’oggetto sociale. Nel caso di società di professionisti multidisciplinari la domanda va inoltrata all’Ordine o al Collegio e all’Albo dell’attività sociale prevalente come precisata nell’atto costitutivo. Il Consiglio provvederà alla relativa iscrizione nel termine di venti giorni. L’iscrizione è condizione necessaria all’avvio dell’attività sociale.
 
-2.
+3\. La società regola, per quanto compatibile, la propria attività alla disciplina vigente per l’esercizio dell’attività protetta.
 
-A tal fine la società di professionisti, dopo la sua iscrizione nel Registro delle Società previsto dalla legge sulle società, presenta domanda di iscrizione all’Ordine o al Collegio e all’Albo dell’attività protetta prevista dall’oggetto sociale. Nel caso di società di professionisti multidisciplinari la domanda va inoltrata all’Ordine o al Collegio e all’Albo dell’attività sociale prevalente come precisata nell’atto costitutivo. Il Consiglio provvederà alla relativa iscrizione nel termine di venti giorni. L’iscrizione è condizione necessaria all’avvio dell’attività sociale.
+4\. La società dovrà altresì tempestivamente comunicare ogni sospensione o cessazione della propria attività all’Ordine o al Collegio di appartenenza che procederà con la sospensione o cancellazione.
 
-3.
+5\. Al fine di cui al comma 1 i soci liberi professionisti delle società di professionisti iscritte all’Ordine o al Collegio e all’Albo dell’attività protetta, al fine dell’esercizio dell’attività protetta, rimangono iscritti all’Ordine o al Collegio e all’Albo della stessa.
 
-La società regola, per quanto compatibile, la propria attività alla disciplina vigente per l’esercizio dell’attività protetta.
+6\. I soci liberi professionisti della società di professionisti, dopo l’iscrizione della stessa nel Registro delle Società previsto dalla legge sulle società, comunicano all’Ordine o al Collegio di competenza che l’esercizio della propria attività verrà prestata nell’ambito del costituito rapporto sociale.
 
-4.
+7\. La cancellazione o la radiazione dall’Albo di appartenenza dei liberi professionisti, soci di società di professionisti, comporta l’automatica esclusione da socio libero professionista.
 
-La società dovrà altresì tempestivamente comunicare ogni sospensione o cessazione della propria attività all’Ordine o al Collegio di appartenenza che procederà con la sospensione o cancellazione.
+8\. La sospensione dall’esercizio dell’attività protetta dei liberi professionisti, soci di società di professionisti, o qualora gli stessi si siano resi colpevoli di gravi inadempienze o siano divenuti per qualsiasi ragione incapaci a svolgere la propria attività, può dar luogo all’esclusione dalla società la quale, in mancanza di diversa previsione nello statuto, è deliberata dall’assemblea dei soci non computandosi tra questi il socio da escludere potendo avere effetto decorsi trenta giorni dalla data della comunicazione al socio escluso.
 
-5.
-
-Al fine di cui al comma 1 i soci liberi professionisti delle società di professionisti iscritte all’Ordine o al Collegio e all’Albo dell’attività protetta, al fine dell’esercizio dell’attività protetta, rimangono iscritti all’Ordine o al Collegio e all’Albo della stessa.
-
-6.
-
-I soci liberi professionisti della società di professionisti, dopo l’iscrizione della stessa nel Registro delle Società previsto dalla legge sulle società, comunicano all’Ordine o al Collegio di competenza che l’esercizio della propria attività verrà prestata nell’ambito del costituito rapporto sociale.
-
-7.
-
-La cancellazione o la radiazione dall’Albo di appartenenza dei liberi professionisti, soci di società di professionisti, comporta l’automatica esclusione da socio libero professionista.
-
-8.
-
-La sospensione dall’esercizio dell’attività protetta dei liberi professionisti, soci di società di professionisti, o qualora gli stessi si siano resi colpevoli di gravi inadempienze o siano divenuti per qualsiasi ragione incapaci a svolgere la propria attività, può dar luogo all’esclusione dalla società la quale, in mancanza di diversa previsione nello statuto, è deliberata dall’assemblea dei soci non computandosi tra questi il socio da escludere potendo avere effetto decorsi trenta giorni dalla data della comunicazione al socio escluso.
-
-9.
-
-Alla esclusione del socio nonché alla liquidazione della relativa quota si applicano, per quanto compatibili, e se non diversamente stabilito dal contratto sociale, le norme previste dalla legge sulle società per il caso di recesso del socio.
+9\. Alla esclusione del socio nonché alla liquidazione della relativa quota si applicano, per quanto compatibili, e se non diversamente stabilito dal contratto sociale, le norme previste dalla legge sulle società per il caso di recesso del socio.
 
 ###### Art.11
 
 (Norme relative all’imposta generale sui redditi delle società di professionisti e dei soci liberi professionisti delle stesse)
 
-1.
-
-Ai fini dell’imposta generale sui redditi le società di professionisti producono reddito di impresa e sono assoggettati alle disposizioni di cui al Titolo III della Legge 16 dicembre 2013 n.166 e successive modifiche.
+1\. Ai fini dell’imposta generale sui redditi le società di professionisti producono reddito di impresa e sono assoggettati alle disposizioni di cui al Titolo III della Legge 16 dicembre 2013 n.166 e successive modifiche.
 
 2\. Le attività dei liberi professionisti quali soci delle società di professionisti producono reddito di lavoro autonomo e sono assoggettate alle disposizioni di cui all’articolo 27 della Legge 16 dicembre 2013 n.166 e successive modifiche e alle normative assistenziali e previdenziali vigenti, ad esclusione del percepimento dei dividendi. Non è consentita l’attività libero professionale per il socio che rinunci al Codice Operatore Economico e non operi quale lavoratore autonomo ai sensi del presente comma, o quale lavoratore subordinato ai sensi del comma 3.
 
-3.
-
-I soci liberi professionisti delle società di professionisti, se assunti quali subordinati delle stesse, producono redditi di lavoro dipendente ai sensi dell’articolo 24 della Legge 16 dicembre 2013 n.166 e successive modifiche e sono assoggettati alle normative assistenziali e previdenziali vigenti.
+3\. I soci liberi professionisti delle società di professionisti, se assunti quali subordinati delle stesse, producono redditi di lavoro dipendente ai sensi dell’articolo 24 della Legge 16 dicembre 2013 n.166 e successive modifiche e sono assoggettati alle normative assistenziali e previdenziali vigenti.
 
 ###### Art.12
 
 (Disposizioni di raccordo, finali e transitorie)
 
-1.
+1\. Per quanto non diversamente disposto dalla presente legge sono applicate alle società di professionisti le norme di cui alla legge sulle società, alla legge quadro sulle libere professioni e agli Statuti delle attività protette.
 
-Per quanto non diversamente disposto dalla presente legge sono applicate alle società di professionisti le norme di cui alla legge sulle società, alla legge quadro sulle libere professioni e agli Statuti delle attività protette.
+2\. Le norme della presente legge, eventualmente antinomiche e/o derogatorie degli Statuti delle attività protette, sono in via del tutto eccezionale immediatamente applicabili e obbligano gli Ordini o Collegi professionali ad adeguarsi entro dodici mesi dalla sua entrata in vigore.
 
-2.
-
-Le norme della presente legge, eventualmente antinomiche e/o derogatorie degli Statuti delle attività protette, sono in via del tutto eccezionale immediatamente applicabili e obbligano gli Ordini o Collegi professionali ad adeguarsi entro dodici mesi dalla sua entrata in vigore.
-
-3.
-
-Sono abrogate tutte le norme e le disposizioni in contrasto con la presente legge.
+3\. Sono abrogate tutte le norme e le disposizioni in contrasto con la presente legge.
 
 ###### Art.13
 
 (Entrata in vigore)
 
-1.
-
-La presente legge entra in vigore il quinto giorno successivo a quello della sua legale pubblicazione.
+1\. La presente legge entra in vigore il quinto giorno successivo a quello della sua legale pubblicazione.
 
 DECRETO DELEGATO 6 novembre 2020 n.195 - Norme per le società spin-off e start up universitarie
 
@@ -5015,17 +3683,13 @@ DECRETO DELEGATO 6 novembre 2020 n.195 - Norme per le società spin-off e start 
 
 (Oggetto e finalità)
 
-1.
-
-L’Università degli Studi della Repubblica di San Marino (UNIRSM o genericamente Università) intende rafforzare la competitività tecnologica di San Marino e promuovere l’imprenditoria giovanile attraverso la costituzione di nuove società finalizzate allo sfruttamento economico dei risultati derivanti dalla ricerca e dalla sperimentazione in ambito universitario. Il presente decreto delegato ne disciplina i requisiti, le procedure e l'iter costitutivo, le incompatibilità e i conflitti di interesse.
+1\. L’Università degli Studi della Repubblica di San Marino (UNIRSM o genericamente Università) intende rafforzare la competitività tecnologica di San Marino e promuovere l’imprenditoria giovanile attraverso la costituzione di nuove società finalizzate allo sfruttamento economico dei risultati derivanti dalla ricerca e dalla sperimentazione in ambito universitario. Il presente decreto delegato ne disciplina i requisiti, le procedure e l'iter costitutivo, le incompatibilità e i conflitti di interesse.
 
 ###### Art. 2
 
 (Definizioni)
 
-1.
-
-Ai fini del presente decreto delegato si intende per:
+1\. Ai fini del presente decreto delegato si intende per:
 
 i) Personale universitario: i professori e i ricercatori con contratto pluriennale o annuale, i professori in servizio su profilo di ruolo (PDR) di Esperto in Attività Professionale (ESPATPROF) e dei titolari di contratti di cui ai commi 2 e 3 dell’articolo 20 della Legge 25 aprile 2014 n.67 dell’Università degli Studi, il personale tecnico-amministrativo di UNIRSM;
 
@@ -5039,9 +3703,7 @@ l) Studenti e laureati: gli iscritti ad un corso di laurea triennale e magistral
 
 (Requisiti per la qualifica di Spin-off universitaria)
 
-1.
-
-I requisiti necessari per definire una società come Spin-off universitaria sono:
+1\. I requisiti necessari per definire una società come Spin-off universitaria sono:
 
 a) essere una società di capitali avente come scopo l’impiego, in chiave imprenditoriale, dei risultati della ricerca e della sperimentazione in ambito universitario al fine di sviluppare prodotti o servizi di carattere innovativo. Tale impiego dovrà essere regolato attraverso la sottoscrizione di un accordo formale che definisca le condizioni di sfruttamento di beni materiali e/o immateriali di UNIRSM; alternativamente dovrà essere riconoscibile un ritorno in termini di opportunità per UNIRSM che si riserva il diritto di partecipare al capitale sociale della società Spin-off;
 
@@ -5069,9 +3731,7 @@ p) in caso di partecipazione dell’Università, devono essere rispettati i requ
 
 (Requisiti per la qualifica di Start-up universitaria)
 
-1.
-
-I requisiti necessari per considerare una società come Start-up universitaria sono:
+1\. I requisiti necessari per considerare una società come Start-up universitaria sono:
 
 a) la società deve basare il proprio business su prodotti e/o servizi innovativi sviluppati in collaborazione con l’Università o nell’ambito di iniziative promosse da UNIRSM;
 
@@ -5085,49 +3745,29 @@ d) il piano di business deve essere chiaramente identificato dal punto di vista 
 
 (Capitale sociale delle società Spin-off e Start-up universitarie)
 
-1.
+1\. Nel caso in cui le società Spin-off e Start-up universitarie siano costituite nella forma della società a responsabilità limitata, a parziale deroga di quanto previsto dall’articolo 13 della Legge 23 febbraio 2006 n. 47 e sue successive modifiche, il capitale sociale non dovrà essere inferiore ad euro 5.000,00.
 
-Nel caso in cui le società Spin-off e Start-up universitarie siano costituite nella forma della società a responsabilità limitata, a parziale deroga di quanto previsto dall’articolo 13 della Legge 23 febbraio 2006 n. 47 e sue successive modifiche, il capitale sociale non dovrà essere inferiore ad euro 5.000,00.
+2\. Il capitale sociale di società Spin-off potrà rimanere inferiore ai limiti di cui all’articolo 13 della Legge n. 47 /2006 e sue successive modifiche solo fino a quando vi sarà la partecipazione dell’Università o di Personale universitario, Assegnisti o Dottorandi di ricerca. Qualora cessi la partecipazione universitaria o di Personale universitario, Assegnisti o Dottorandi di ricerca, la società avrà tempo 6 mesi per adeguarsi alle disposizioni delle leggi vigenti sulle società in tema di capitale sociale.
 
-2.
+3\. Il capitale sociale della società Start-up potrà rimanere inferiore ai limiti di cui all’articolo 13 della Legge n. 47/2006 e sue successive modifiche solo per i primi 5 anni di esercizio.
 
-Il capitale sociale di società Spin-off potrà rimanere inferiore ai limiti di cui all’articolo 13 della Legge n. 47 /2006 e sue successive modifiche solo fino a quando vi sarà la partecipazione dell’Università o di Personale universitario, Assegnisti o Dottorandi di ricerca. Qualora cessi la partecipazione universitaria o di Personale universitario, Assegnisti o Dottorandi di ricerca, la società avrà tempo 6 mesi per adeguarsi alle disposizioni delle leggi vigenti sulle società in tema di capitale sociale.
+4\. Nel caso in cui le società Spin-off e Start-up universitarie siano costituite nella forma della società per azioni, dovrà essere rispettato quanto previsto dall’articolo 13 della Legge n. 47/2006 e sue successive modifiche.
 
-3.
+5\. Le società Spin-off e Start-up universitarie sono esonerate dal pagamento della tassa di licenza d’esercizio per i primi 5 anni di esercizio.
 
-Il capitale sociale della società Start-up potrà rimanere inferiore ai limiti di cui all’articolo 13 della Legge n. 47/2006 e sue successive modifiche solo per i primi 5 anni di esercizio.
+6\. L’atto costitutivo di società Spin-off e Start-up universitarie sono soggetti alla formalità di registrazione mediante pagamento dell’imposta fissa di euro 70,00.
 
-4.
+7\. Tutti gli atti societari, di qualsiasi natura e tipo di cui sia parte la società Spinoff e Start-up universitarie sono soggetti alla formalità di registrazione mediante pagamento dell’imposta fissa di euro 70,00.
 
-Nel caso in cui le società Spin-off e Start-up universitarie siano costituite nella forma della società per azioni, dovrà essere rispettato quanto previsto dall’articolo 13 della Legge n. 47/2006 e sue successive modifiche.
-
-5.
-
-Le società Spin-off e Start-up universitarie sono esonerate dal pagamento della tassa di licenza d’esercizio per i primi 5 anni di esercizio.
-
-6.
-
-L’atto costitutivo di società Spin-off e Start-up universitarie sono soggetti alla formalità di registrazione mediante pagamento dell’imposta fissa di euro 70,00.
-
-7.
-
-Tutti gli atti societari, di qualsiasi natura e tipo di cui sia parte la società Spinoff e Start-up universitarie sono soggetti alla formalità di registrazione mediante pagamento dell’imposta fissa di euro 70,00.
-
-8.
-
-Tutti gli atti di cessione quote o azioni di società Spin-off e Start-up universitarie sono soggetti alla formalità di registrazione mediante pagamento dell’imposta fissa di euro 70,00.
+8\. Tutti gli atti di cessione quote o azioni di società Spin-off e Start-up universitarie sono soggetti alla formalità di registrazione mediante pagamento dell’imposta fissa di euro 70,00.
 
 ###### Art. 6
 
 (Procedura di costituzione delle società Spin-off o Start-up universitarie)
 
-1.
+1\. La domanda di costituzione della società è approvata dal Consiglio dell’Università previo parere favorevole del Senato Accademico.
 
-La domanda di costituzione della società è approvata dal Consiglio dell’Università previo parere favorevole del Senato Accademico.
-
-2.
-
-La proposta deve essere corredata da un business plan contenente:
+2\. La proposta deve essere corredata da un business plan contenente:
 
 b) gli obiettivi;
 
@@ -5145,17 +3785,13 @@ h) le modalità di eventuale partecipazione al capitale e la definizione della q
 
 i) gli aspetti relativi alla regolamentazione della proprietà intellettuale, resi compatibili con la disciplina in materia prevista dall'ateneo.
 
-3.
-
-Non possono partecipare alle deliberazioni relative alla costituzione delle imprese Spin-off o Start-up i proponenti dell’iniziativa. Eventuali ulteriori casi di esclusione del proprio personale dalle deliberazioni in materia di Spin-off o Start-up rientrano nell'autonoma disciplina di UNIRSM.
+3\. Non possono partecipare alle deliberazioni relative alla costituzione delle imprese Spin-off o Start-up i proponenti dell’iniziativa. Eventuali ulteriori casi di esclusione del proprio personale dalle deliberazioni in materia di Spin-off o Start-up rientrano nell'autonoma disciplina di UNIRSM.
 
 ###### Art. 7
 
 (Disciplina delle incompatibilità)
 
-1.
-
-I membri del Consiglio dell’Università, i membri del Senato Accademico, i Direttori dei Dipartimenti dell’Università non possono assumere cariche direttive e amministrative nelle società aventi caratteristiche di Spin-off o Start-up universitarie.
+1\. I membri del Consiglio dell’Università, i membri del Senato Accademico, i Direttori dei Dipartimenti dell’Università non possono assumere cariche direttive e amministrative nelle società aventi caratteristiche di Spin-off o Start-up universitarie.
 
 È fatta salva l’ipotesi in cui il Direttore del Dipartimento sia designato a far parte del consiglio di amministrazione di Spin-off o Start-up, del quale non sia socio o proponente, dal Consiglio dell’Università.
 
@@ -5163,105 +3799,67 @@ UNIRSM, nell'ambito della propria autonomia regolamentare, definisce i casi nei 
 
 esercizio dell'attività di impresa possa compromettere l'autonomia nello svolgimento della funzione, ovvero possa determinare conflitti di interesse o situazioni di oggettiva difficoltà per lo svolgimento delle normali funzioni didattiche, di ricerca e istituzionali.
 
-2.
+2\. Lo svolgimento dell’attività a favore delle società aventi caratteristiche di Spinoff o Start-up non deve porsi in contrasto con il regolare e diligente svolgimento delle funzioni legate al rapporto di lavoro con l’UNIRSM. Qualora la partecipazione alle attività dell'impresa, in corso di svolgimento, divenga incompatibile con i compiti didattici e di ricerca, il professore e/o ricercatore, socio o non socio, deve immediatamente comunicarlo a UNIRSM e contestualmente cessare lo svolgimento dell'attività prestata presso la società.
 
-Lo svolgimento dell’attività a favore delle società aventi caratteristiche di Spinoff o Start-up non deve porsi in contrasto con il regolare e diligente svolgimento delle funzioni legate al rapporto di lavoro con l’UNIRSM. Qualora la partecipazione alle attività dell'impresa, in corso di svolgimento, divenga incompatibile con i compiti didattici e di ricerca, il professore e/o ricercatore, socio o non socio, deve immediatamente comunicarlo a UNIRSM e contestualmente cessare lo svolgimento dell'attività prestata presso la società.
+3\. L’ateneo effettua, con modalità definite con autonoma disciplina, la puntuale vigilanza sul rispetto dei principi stabiliti ai commi precedenti.
 
-3.
+4\. In parziale deroga a quanto previsto dalla Legge 8 settembre 1967 n. 38, dalla Legge 22 dicembre 1972 n. 41, dalla Legge 31 luglio 2009 n. 108, dalla Legge 5 dicembre 2011 n. 188, dalla Legge 5 settembre 2014 n. 141, e di ogni altra eventuale norma in tema di incompatibilità del Personale universitario, Assegnisti e Dottorandi di ricerca, gli stessi potranno assumere quote di partecipazione, cariche societarie, incarichi dirigenziali ovvero rapporti di lavoro subordinato delle società Spin-off ove ciò sia espressamente autorizzato dal Consiglio dell’Università.
 
-L’ateneo effettua, con modalità definite con autonoma disciplina, la puntuale vigilanza sul rispetto dei principi stabiliti ai commi precedenti.
-
-4.
-
-In parziale deroga a quanto previsto dalla Legge 8 settembre 1967 n. 38, dalla Legge 22 dicembre 1972 n. 41, dalla Legge 31 luglio 2009 n. 108, dalla Legge 5 dicembre 2011 n. 188, dalla Legge 5 settembre 2014 n. 141, e di ogni altra eventuale norma in tema di incompatibilità del Personale universitario, Assegnisti e Dottorandi di ricerca, gli stessi potranno assumere quote di partecipazione, cariche societarie, incarichi dirigenziali ovvero rapporti di lavoro subordinato delle società Spin-off ove ciò sia espressamente autorizzato dal Consiglio dell’Università.
-
-5.
-
-I dividendi, i compensi, le remunerazioni e i benefici a qualunque titolo ottenuti dalla società e/o dalla attività di ricerca e sperimentazione precedente alla costituzione della società e finalizzata all’innovazione oggetto della stessa società, e corrisposti al Personale universitario, degli Assegnisti, dei Dottorandi saranno di pertinenza dei singoli ed assoggettati alle ordinarie discipline tributarie e fiscali.
+5\. I dividendi, i compensi, le remunerazioni e i benefici a qualunque titolo ottenuti dalla società e/o dalla attività di ricerca e sperimentazione precedente alla costituzione della società e finalizzata all’innovazione oggetto della stessa società, e corrisposti al Personale universitario, degli Assegnisti, dei Dottorandi saranno di pertinenza dei singoli ed assoggettati alle ordinarie discipline tributarie e fiscali.
 
 ###### Art. 8
 
 (Disciplina dei conflitti d'interesse)
 
-1.
-
-È fatto espresso divieto al Personale universitario di cui all’articolo 2 del presente decreto delegato che partecipa alle società aventi caratteristiche di Spin-off o Start-up universitario di svolgere attività in concorrenza con quella dell’ateneo di appartenenza. Il suddetto personale è tenuto a comunicare tempestivamente a UNIRSM eventuali situazioni di conflitto d’interesse, effettive o potenziali, che possano successivamente determinarsi nello svolgimento dell'attività a favore della società interessata.
+1\. È fatto espresso divieto al Personale universitario di cui all’articolo 2 del presente decreto delegato che partecipa alle società aventi caratteristiche di Spin-off o Start-up universitario di svolgere attività in concorrenza con quella dell’ateneo di appartenenza. Il suddetto personale è tenuto a comunicare tempestivamente a UNIRSM eventuali situazioni di conflitto d’interesse, effettive o potenziali, che possano successivamente determinarsi nello svolgimento dell'attività a favore della società interessata.
 
 ###### Art. 9
 
 (Contratti di lavoro e permessi di soggiorno)
 
-1.
+1\. Le società Spin-off e Start-up universitarie potranno accedere alle agevolazioni previste dal Decreto Delegato 13 giugno 2019 n. 101; in particolare saranno applicabili gli articoli 14, 15, 16, 17, 18 e 19 e, a tale fine, per la concessone dei benefici previsti, si considerano le società Spin-off e Start-up universitarie come Startup tecnologiche di primo livello.
 
-Le società Spin-off e Start-up universitarie potranno accedere alle agevolazioni previste dal Decreto Delegato 13 giugno 2019 n. 101; in particolare saranno applicabili gli articoli 14, 15, 16, 17, 18 e 19 e, a tale fine, per la concessone dei benefici previsti, si considerano le società Spin-off e Start-up universitarie come Startup tecnologiche di primo livello.
+2\. I benefici di cui al comma 1 potranno essere mantenuti dalla società Spin-off solo fino a quando vi sarà la partecipazione dell’Università o di Personale universitario, Assegnisti o Dottorandi di ricerca.
 
-2.
-
-I benefici di cui al comma 1 potranno essere mantenuti dalla società Spin-off solo fino a quando vi sarà la partecipazione dell’Università o di Personale universitario, Assegnisti o Dottorandi di ricerca.
-
-3.
-
-I benefici di cui al comma 1 potranno essere mantenuti dalla società Start-up solo per i primi 5 anni di esercizio.
+3\. I benefici di cui al comma 1 potranno essere mantenuti dalla società Start-up solo per i primi 5 anni di esercizio.
 
 ###### Art. 10
 
 (Agevolazioni finanziarie e procedure semplificate)
 
-1.
+1\. Le società Spin-off e Start-up universitarie potranno accedere alle agevolazioni previste dal Decreto Delegato n. 101/2019; in particolare saranno applicabili gli articoli 20, 21, 22, 23 e 24 e, a tal fine, per la concessone dei benefici previsti si considerano le società Spin-off e Start-up universitarie come Start-up tecnologiche di primo livello.
 
-Le società Spin-off e Start-up universitarie potranno accedere alle agevolazioni previste dal Decreto Delegato n. 101/2019; in particolare saranno applicabili gli articoli 20, 21, 22, 23 e 24 e, a tal fine, per la concessone dei benefici previsti si considerano le società Spin-off e Start-up universitarie come Start-up tecnologiche di primo livello.
+2\. I benefici di cui al comma 1 potranno essere mantenuti dalla società Spin-off solo fino a quando vi sarà la partecipazione dell’Università o di Personale universitario, Assegnisti o Dottorandi di ricerca.
 
-2.
+3\. I benefici di cui al comma 1 potranno essere mantenuti dalla società Start-up solo per i primi 5 anni di esercizio.
 
-I benefici di cui al comma 1 potranno essere mantenuti dalla società Spin-off solo fino a quando vi sarà la partecipazione dell’Università o di Personale universitario, Assegnisti o Dottorandi di ricerca.
+4\. Le società Spin-off e Start-up universitarie avranno diritto di poter accedere al Credito Agevolato a supporto delle imprese così come regolato dal Decreto Delegato 25 giugno 2018 n. 72.
 
-3.
-
-I benefici di cui al comma 1 potranno essere mantenuti dalla società Start-up solo per i primi 5 anni di esercizio.
-
-4.
-
-Le società Spin-off e Start-up universitarie avranno diritto di poter accedere al Credito Agevolato a supporto delle imprese così come regolato dal Decreto Delegato 25 giugno 2018 n. 72.
-
-5.
-
-A parziale deroga di quanto previsto dall’articolo 3 del Decreto Delegato n. 72/2018 per le società Spin-off e Start-up universitarie, il credito agevolato è compatibile anche con la concessione di altri benefici di natura fiscale, in particolar modo è compatibile con i benefici previsti dal presente articolo e dall’articolo 9.
+5\. A parziale deroga di quanto previsto dall’articolo 3 del Decreto Delegato n. 72/2018 per le società Spin-off e Start-up universitarie, il credito agevolato è compatibile anche con la concessione di altri benefici di natura fiscale, in particolar modo è compatibile con i benefici previsti dal presente articolo e dall’articolo 9.
 
 ###### Art. 11
 
 (Norme in tema di brevetti universitari)
 
-1.
+1\. Ai fini di quanto previsto dal Testo Unico in tema di Proprietà Industriale, Legge 25 maggio 2005 n. 79, articolo 7, la società Spin-off universitaria è considerata come “Organizzazione Pubblica di Ricerca” (OPR), con la conseguente applicazione della relativa normativa, fino a quando vi sia una effettiva partecipazione dell’Università o di Personale universitario, Assegnisti o Dottorandi di ricerca.
 
-Ai fini di quanto previsto dal Testo Unico in tema di Proprietà Industriale, Legge 25 maggio 2005 n. 79, articolo 7, la società Spin-off universitaria è considerata come “Organizzazione Pubblica di Ricerca” (OPR), con la conseguente applicazione della relativa normativa, fino a quando vi sia una effettiva partecipazione dell’Università o di Personale universitario, Assegnisti o Dottorandi di ricerca.
+2\. Cessato il rapporto di partecipazione dell’Università o di Personale universitario, Assegnisti o Dottorandi di ricerca, le società Spin-off universitarie saranno regolamentate in regime ordinario di cui all’articolo 7 della Legge n. 79/2005.
 
-2.
+3\. Ai fini di quanto previsto dal Testo Unico in tema di Proprietà Industriale, Legge n. 79/2005, articolo 7, la società Start-up universitaria è considerata come “Organizzazione Pubblica di Ricerca” (OPR), con la conseguente applicazione della relativa normativa, per anni 5 che si computano dalla costituzione; dopo tale termine tornerà ad applicarsi il regime ordinario di cui all’articolo 7 della Legge n. 79/2005.
 
-Cessato il rapporto di partecipazione dell’Università o di Personale universitario, Assegnisti o Dottorandi di ricerca, le società Spin-off universitarie saranno regolamentate in regime ordinario di cui all’articolo 7 della Legge n. 79/2005.
-
-3.
-
-Ai fini di quanto previsto dal Testo Unico in tema di Proprietà Industriale, Legge n. 79/2005, articolo 7, la società Start-up universitaria è considerata come “Organizzazione Pubblica di Ricerca” (OPR), con la conseguente applicazione della relativa normativa, per anni 5 che si computano dalla costituzione; dopo tale termine tornerà ad applicarsi il regime ordinario di cui all’articolo 7 della Legge n. 79/2005.
-
-4.
-
-In caso UNIRSM conceda in uso alle società Spin-off e Start-up propri brevetti, gli stessi saranno ceduti in uso con la sottoscrizione di apposito contratto che dovrà essere registrato e trascritto presso l’Ufficio Marchi e Brevetti di San Marino in esenzione d’imposta.
+4\. In caso UNIRSM conceda in uso alle società Spin-off e Start-up propri brevetti, gli stessi saranno ceduti in uso con la sottoscrizione di apposito contratto che dovrà essere registrato e trascritto presso l’Ufficio Marchi e Brevetti di San Marino in esenzione d’imposta.
 
 ###### Art.12
 
 (Collaborazioni e sinergie)
 
-1.
-
-L’Università potrà stringere accordi di collaborazione, in merito all’attività di spin-off e start-up universitarie, con San Marino Innovation, Agenzia per lo Sviluppo, Ufficio Marchi e Brevetti, Ufficio Attività Economiche di San Marino, Enti, Università, Centri di ricerca, Istituti finanziari e Imprese anche esteri.
+1\. L’Università potrà stringere accordi di collaborazione, in merito all’attività di spin-off e start-up universitarie, con San Marino Innovation, Agenzia per lo Sviluppo, Ufficio Marchi e Brevetti, Ufficio Attività Economiche di San Marino, Enti, Università, Centri di ricerca, Istituti finanziari e Imprese anche esteri.
 
 ###### Art. 13
 
 (Regolamento interno e riferimento in Commissione Consiliare Permanente)
 
-1.
-
-UNIRSM emette regolamenti interni per la disciplina delle società Spin-off e Start-up universitarie entro sei mesi dall’entrata in vigore del presente decreto delegato. 1 bis.
+1\. UNIRSM emette regolamenti interni per la disciplina delle società Spin-off e Start-up universitarie entro sei mesi dall’entrata in vigore del presente decreto delegato. 1 bis.
 
 Ogni regolamento emesso ai sensi del presente articolo deve essere oggetto di presa d’atto da parte della Commissione Consiliare Permanente Affari Costituzionali ed Istituzionali; Pubblica Amministrazione; Affari Interni, Protezione Civile, Rapporti con le Giunte di Castello; Giustizia; Istruzione, Cultura, Beni Culturali, Università e Ricerca Scientifica che dovrà essere destinataria anche di un riferimento annuale da parte di UNIRSM delle attività svolte ai sensi del presente decreto.
 
@@ -6185,25 +4783,17 @@ NUCLEO ANTIFRODE
 
 (Nucleo antifrode)
 
-1.
+1\. Nell’ambito del corpo della Polizia Civile viene costituito il “Nucleo antifrode” che ha il compito di prevenire e contrastare le frodi fiscali, le truffe, le distorsioni e le anomalie in materia di interscambio.
 
-Nell’ambito del corpo della Polizia Civile viene costituito il “Nucleo antifrode” che ha il compito di prevenire e contrastare le frodi fiscali, le truffe, le distorsioni e le anomalie in materia di interscambio.
+2\. Compete al Direttore del Dipartimento di Polizia, al Coordinatore Dipartimento Attività Produttive e al Dirigente dell’Ufficio di Controllo e Vigilanza sulle attività economiche, di individuare, su indicazione del Comandante della Polizia Civile, i dipendenti a cui affidare il compito di cui al precedente comma e tra quei dipendenti designare il responsabile del Nucleo, tenendo conto della necessità di garantire un numero di unità congruo alle esigenze operative dell’Ufficio di Controllo e Vigilanza sulle attività economiche, numero che comunque non potrà essere inferiore alle 8 unità. Suddette unità saranno individuate tra sovraintendenti ed agenti, sulla base delle esperienze maturate nello specifico settore, dei titoli di studio specifici ed attinenti alla materia quali ragioneria, economia ed informatica, e per attitudine. Il personale individuato rimarrà assegnato al Nucleo antifrode per un periodo non inferiore ai 5 anni.
 
-2.
-
-Compete al Direttore del Dipartimento di Polizia, al Coordinatore Dipartimento Attività Produttive e al Dirigente dell’Ufficio di Controllo e Vigilanza sulle attività economiche, di individuare, su indicazione del Comandante della Polizia Civile, i dipendenti a cui affidare il compito di cui al precedente comma e tra quei dipendenti designare il responsabile del Nucleo, tenendo conto della necessità di garantire un numero di unità congruo alle esigenze operative dell’Ufficio di Controllo e Vigilanza sulle attività economiche, numero che comunque non potrà essere inferiore alle 8 unità. Suddette unità saranno individuate tra sovraintendenti ed agenti, sulla base delle esperienze maturate nello specifico settore, dei titoli di studio specifici ed attinenti alla materia quali ragioneria, economia ed informatica, e per attitudine. Il personale individuato rimarrà assegnato al Nucleo antifrode per un periodo non inferiore ai 5 anni.
-
-3.
-
-Il Nucleo Antifrode comunica l’esito degli accertamenti direttamente agli uffici di competenza.
+3\. Il Nucleo Antifrode comunica l’esito degli accertamenti direttamente agli uffici di competenza.
 
 ###### Art. 31
 
 (Poteri amministrativi del nucleo antifrode)
 
-1.
-
-Per l'adempimento dei suoi compiti amministrativi, il nucleo antifrode, d’iniziativa o su richiesta diretta degli uffici pubblici preposti, può:
+1\. Per l'adempimento dei suoi compiti amministrativi, il nucleo antifrode, d’iniziativa o su richiesta diretta degli uffici pubblici preposti, può:
 
 a) procedere all'esecuzione di accessi, ispezioni e verifiche;
 
@@ -6215,49 +4805,29 @@ d) richiedere agli Operatori Economici dati e notizie di carattere specifico ril
 
 e) richiedere copie o estratti degli atti e dei documenti depositati presso i notai o pubblici uffici. Le copie e gli estratti, con l'attestazione di conformità all'originale, devono essere rilasciati in carta semplice e comunque gratuitamente.
 
-2.
-
-Le convocazioni e le richieste di cui al presente articolo devono essere notificati a cura del Nucleo Antifrode.
+2\. Le convocazioni e le richieste di cui al presente articolo devono essere notificati a cura del Nucleo Antifrode.
 
 ###### Art. 32
 
 (Accessi, ispezioni, verifiche)
 
-1.
+1\. I componenti del Nucleo Antifrode posso eseguire accessi nei locali destinati all'esercizio di attività d’impresa e relative pertinenze per procedere ad ispezioni documentali, verifiche, ricerche, e ad ogni altra rilevazione ritenuta utile per prevenire, accertare o reprimere illeciti amministrativi.
 
-I componenti del Nucleo Antifrode posso eseguire accessi nei locali destinati all'esercizio di attività d’impresa e relative pertinenze per procedere ad ispezioni documentali, verifiche, ricerche, e ad ogni altra rilevazione ritenuta utile per prevenire, accertare o reprimere illeciti amministrativi.
+2\. Per accedere in locali per i fini sopra esposti, che siano adibiti anche ad abitazione o siano destinati all’esercizio di professioni, o comunque in luoghi diversi da quelli indicati nel comma precedente, è necessaria l'autorizzazione del Commissario della Legge.
 
-2.
+3\. Quando l’Operatore Economico, o un suo rappresentante, dichiara che le scritture contabili o alcune di esse si trovano presso altri luoghi gli accessi, le ispezioni e le verifiche sono estese anche a tali luoghi, previa autorizzazione del Commissario della Legge.
 
-Per accedere in locali per i fini sopra esposti, che siano adibiti anche ad abitazione o siano destinati all’esercizio di professioni, o comunque in luoghi diversi da quelli indicati nel comma precedente, è necessaria l'autorizzazione del Commissario della Legge.
+4\. È in ogni caso necessaria l'autorizzazione del Commissario della Legge, per procedere durante l'accesso, a perquisizioni personali e all'apertura coattiva di plichi sigillati, casseforti. Il giudice concede l’autorizzazione, qualora sussistano gravi indizi di frodi fiscali, truffe, distorsioni o anomalie in materia di interscambio.
 
-3.
+5\. Le ispezioni, le verifiche, le ricerche si estendono a tutti i libri, registri, scritture e documenti, anche informatici, compresi quelli la cui tenuta e conservazione non è obbligatoria, che si trovano nei locali in cui l'accesso viene eseguito, o che sono comunque accessibili tramite apparecchiature informatiche installate in detti locali.
 
-Quando l’Operatore Economico, o un suo rappresentante, dichiara che le scritture contabili o alcune di esse si trovano presso altri luoghi gli accessi, le ispezioni e le verifiche sono estese anche a tali luoghi, previa autorizzazione del Commissario della Legge.
+6\. Di ogni accesso deve essere redatto processo verbale da cui risultino le ispezioni e le rilevazioni eseguite, le richieste fatte all’Operatore Economico o a chi lo rappresenta, le risposte ricevute e i documenti acquisiti. Il verbale deve essere sottoscritto dall’Operatore Economico o da chi lo rappresenta ovvero indicare il motivo della mancata sottoscrizione. L’Operatore Economico ha diritto di averne copia.
 
-4.
+7\. Il personale del Nucleo Antifrode può eseguire copie o estratti dei documenti e delle scritture ed apporre sugli originali, nelle parti che interessano, la propria firma o sigla insieme con la data e il timbro d'ufficio. I documenti e le scritture possono essere acquisiti in originale soltanto se non è possibile riprodurli immediatamente o farne constare il contenuto nel verbale, nonché in caso di mancata sottoscrizione o di contestazione del contenuto del verbale, ovvero qualora sia necessario accertarne o garantirne l’autenticità.
 
-È in ogni caso necessaria l'autorizzazione del Commissario della Legge, per procedere durante l'accesso, a perquisizioni personali e all'apertura coattiva di plichi sigillati, casseforti. Il giudice concede l’autorizzazione, qualora sussistano gravi indizi di frodi fiscali, truffe, distorsioni o anomalie in materia di interscambio.
+8\. Le disposizioni dei commi precedenti si applicano anche per l'esecuzione di verifiche e di ricerche relative a merci o altri beni viaggianti su veicoli.
 
-5.
-
-Le ispezioni, le verifiche, le ricerche si estendono a tutti i libri, registri, scritture e documenti, anche informatici, compresi quelli la cui tenuta e conservazione non è obbligatoria, che si trovano nei locali in cui l'accesso viene eseguito, o che sono comunque accessibili tramite apparecchiature informatiche installate in detti locali.
-
-6.
-
-Di ogni accesso deve essere redatto processo verbale da cui risultino le ispezioni e le rilevazioni eseguite, le richieste fatte all’Operatore Economico o a chi lo rappresenta, le risposte ricevute e i documenti acquisiti. Il verbale deve essere sottoscritto dall’Operatore Economico o da chi lo rappresenta ovvero indicare il motivo della mancata sottoscrizione. L’Operatore Economico ha diritto di averne copia.
-
-7.
-
-Il personale del Nucleo Antifrode può eseguire copie o estratti dei documenti e delle scritture ed apporre sugli originali, nelle parti che interessano, la propria firma o sigla insieme con la data e il timbro d'ufficio. I documenti e le scritture possono essere acquisiti in originale soltanto se non è possibile riprodurli immediatamente o farne constare il contenuto nel verbale, nonché in caso di mancata sottoscrizione o di contestazione del contenuto del verbale, ovvero qualora sia necessario accertarne o garantirne l’autenticità.
-
-8.
-
-Le disposizioni dei commi precedenti si applicano anche per l'esecuzione di verifiche e di ricerche relative a merci o altri beni viaggianti su veicoli.
-
-9.
-
-In caso di rifiuto di esibizione, consegna o trasmissione di quanto richiesto, il Nucleo Antifrode può ricercare e acquisire coattivamente i documenti, anche senza il consenso dell’interessato. Il relativo verbale deve essere trasmesso entro 48 ore al Commissario della Legge, il quale, entro 72 ore dal ricevimento dell’atto, convalida la misura, qualora il rifiuto non sia giustificato. Se la misura non è convalidata, la documentazione è restituita all’Operatore Economico.
+9\. In caso di rifiuto di esibizione, consegna o trasmissione di quanto richiesto, il Nucleo Antifrode può ricercare e acquisire coattivamente i documenti, anche senza il consenso dell’interessato. Il relativo verbale deve essere trasmesso entro 48 ore al Commissario della Legge, il quale, entro 72 ore dal ricevimento dell’atto, convalida la misura, qualora il rifiuto non sia giustificato. Se la misura non è convalidata, la documentazione è restituita all’Operatore Economico.
 
 DECRETO DELEGATO 1 GIUGNO 2011 N.94 - Disposizioni sul noleggio di veicoli
 
@@ -6379,9 +4949,7 @@ fermo restando il limite numerico di cui al comma 1 relativo ai veicoli con cili
 
 ###### Art. 9 bis
 
-1.
-
-Per le attività di noleggio di veicoli di propria produzione non si applicano i disposti di cui ai precedenti articoli 7 e 9.
+1\. Per le attività di noleggio di veicoli di propria produzione non si applicano i disposti di cui ai precedenti articoli 7 e 9.
 
 #### TITOLO III
 
@@ -6553,9 +5121,9 @@ Gli amministratori degli Istituti di vigilanza privata sono tenuti a richiedere 
 
 Gli Istituti di vigilanza privata che intendono svolgere l’attività di cui alla lettera a) del 1° comma dell’articolo 1 del presente decreto-legge, devono avere alle proprie dipendenze non meno di numero 10 Guardie Giurate da assumersi entro 12 mesi dalla data di rilascio della licenza, pena la sospensione immediata della stessa, ed essere muniti di Centrale Operativa con sede nel territorio di San Marino, attiva su 24 ore.
 
-Nell’ipotesi di limitazione dell’attività alla sola sorveglianza attraverso sistemi elettronici di sicurezza, il numero minimo dei dipendenti di cui sopra è non inferiore a 5.
+Nell’ipotesi di limitazione dell’attività alla sola sorveglianza attraverso sistemi elettronici di sicurezza, il numero minimo dei dipendenti di cui sopra è non inferiore a
 
-Il Comando della Gendarmeria ha facoltà di autorizzare, su specifica richiesta degli interessati, l’utilizzo di una Centrale Operativa ad uso plurimo, “Centrale Unificata” con sede nel territorio di San Marino.
+5\. Il Comando della Gendarmeria ha facoltà di autorizzare, su specifica richiesta degli interessati, l’utilizzo di una Centrale Operativa ad uso plurimo, “Centrale Unificata” con sede nel territorio di San Marino.
 
 I suddetti requisiti vengono verificati dall’Ufficio Industria, Artigianato e Commercio ove non diversamente previsto.
 
@@ -7041,9 +5609,7 @@ DECRETO DELEGATO 6 LUGLIO 2017 n.76 - Disposizioni in merito alla vendita e all�
 
 (Divieti)
 
-1.
-
-E’ vietato:
+1\. E’ vietato:
 
 \- vendere le sigarette elettroniche e i relativi dispositivi di ricarica ai minori di 18 anni;
 
@@ -7059,51 +5625,33 @@ E’ vietato:
 
 (Sanzioni)
 
-1.
+1\. L’esercizio del commercio all’ingrosso e al dettaglio delle sigarette elettroniche e dei relativi dispositivi di ricarica senza l’espressa indicazione di cui all’articolo 1, comma 1 è sanzionato ai sensi dell’articolo 28 della Legge 31 marzo 2014 n. 40.
 
-L’esercizio del commercio all’ingrosso e al dettaglio delle sigarette elettroniche e dei relativi dispositivi di ricarica senza l’espressa indicazione di cui all’articolo 1, comma 1 è sanzionato ai sensi dell’articolo 28 della Legge 31 marzo 2014 n. 40.
+2\. La violazione delle prescrizioni di cui all’articolo 2, qualora non siano applicabili sanzioni penali, comporta l’applicazione della sanzione pecuniaria amministrativa nella misura unica di euro 2.500,00 (duemilacinquecento/00). Nel caso di recidiva la sanzione è raddoppiata ed inoltre applicata la sospensione immediata della licenza per mesi uno.
 
-2.
-
-La violazione delle prescrizioni di cui all’articolo 2, qualora non siano applicabili sanzioni penali, comporta l’applicazione della sanzione pecuniaria amministrativa nella misura unica di euro 2.500,00 (duemilacinquecento/00). Nel caso di recidiva la sanzione è raddoppiata ed inoltre applicata la sospensione immediata della licenza per mesi uno.
-
-3.
-
-La violazione delle prescrizioni di cui all’articolo 3, qualora non siano applicabili sanzioni penali, comporta l’applicazione della sanzione pecuniaria amministrativa nella misura unica di euro 2.500,00 (duemilacinquecento/00). Nel caso di recidiva la sanzione è raddoppiata ed inoltre applicata la sospensione immediata della licenza per mesi uno.
+3\. La violazione delle prescrizioni di cui all’articolo 3, qualora non siano applicabili sanzioni penali, comporta l’applicazione della sanzione pecuniaria amministrativa nella misura unica di euro 2.500,00 (duemilacinquecento/00). Nel caso di recidiva la sanzione è raddoppiata ed inoltre applicata la sospensione immediata della licenza per mesi uno.
 
 Nel caso in cui tale violazione sia commessa dallo stesso operatore economico tre volte nell’arco di un anno, oltre all’applicazione della sanzione pecuniaria nella misura del doppio di quella prevista, è revocata la facoltà di vendere sigarette elettroniche e dei relativi dispositivi di ricarica e contestualmente sospesa la licenza fino a che l’impresa non abbia aggiornato l’oggetto sociale e l’oggetto della licenza eliminando la voce di vendita di sigarette elettroniche e dei relativi dispositivi di ricarica.
 
-4.
-
-I trasgressori delle disposizioni di cui all’articolo 4 sono puniti con la sanzione pecuniaria amministrativa di euro 500,00 (cinquecento/00).
+4\. I trasgressori delle disposizioni di cui all’articolo 4 sono puniti con la sanzione pecuniaria amministrativa di euro 500,00 (cinquecento/00).
 
 Nel caso in cui tale violazione sia commessa dallo stesso operatore economico tre volte nell’arco di un anno, oltre all’applicazione della sanzione pecuniaria nella misura del doppio di quella prevista, è revocata la facoltà di vendere sigarette elettroniche e dei relativi dispositivi di ricarica e contestualmente sospesa la licenza fino a che l’impresa non abbia aggiornato l’oggetto sociale e l’oggetto della licenza eliminando la voce di vendita di sigarette elettroniche e dei relativi dispositivi di ricarica. A tal fine gli organi
 
 di polizia di cui al comma 10 comunicano all’Ufficio Industria, Artigianato e Commercio le sanzioni pecuniarie emesse in adempimento al presente comma.
 
-5.
-
-I trasgressori delle disposizioni di cui all’articolo 5 sono puniti con la sanzione pecuniaria amministrativa di euro 100,00 (cento/00).
+5\. I trasgressori delle disposizioni di cui all’articolo 5 sono puniti con la sanzione pecuniaria amministrativa di euro 100,00 (cento/00).
 
 La sanzione è aumentata della metà se la trasgressione avviene in presenza di donne in evidente stato di gravidanza o bambini al di sotto dei dodici anni Il conduttore del locale pubblico è tenuto ad intimare al trasgressore di adempiere immediatamente alle disposizioni di legge.
 
 In caso il trasgressore non ottemperi ovvero in caso di recidiva, il conduttore del locale pubblico è tenuto ad avvisare gli organi di polizia.
 
-6.
+6\. Il conduttore del locale pubblico che non provveda ad intimare al trasgressore di adempiere immediatamente alle disposizioni del presente decreto delegato, è punito con la sanzione pecuniaria amministrativa di euro 50,00 (cinquanta/00).
 
-Il conduttore del locale pubblico che non provveda ad intimare al trasgressore di adempiere immediatamente alle disposizioni del presente decreto delegato, è punito con la sanzione pecuniaria amministrativa di euro 50,00 (cinquanta/00).
+7\. Il conduttore di locale pubblico che appronti una sala riservata e vi consenta di fumare senza adempiere a tutti obblighi di cui all’articolo 7 del presente decreto delegato e relativi allegati, è punito con una sanzione pecuniaria amministrativa di euro 500,00 (cinquecento/00).
 
-7.
+8\. Il conduttore di locale pubblico che disponga di una idonea sala riservata a fumatori e, in presenza di fumatori, non metta in funzione l’impianto di climatizzazione è punito con una sanzione pecuniaria amministrativa di euro 50,00 (cinquanta/00).
 
-Il conduttore di locale pubblico che appronti una sala riservata e vi consenta di fumare senza adempiere a tutti obblighi di cui all’articolo 7 del presente decreto delegato e relativi allegati, è punito con una sanzione pecuniaria amministrativa di euro 500,00 (cinquecento/00).
-
-8.
-
-Il conduttore di locale pubblico che disponga di una idonea sala riservata a fumatori e, in presenza di fumatori, non metta in funzione l’impianto di climatizzazione è punito con una sanzione pecuniaria amministrativa di euro 50,00 (cinquanta/00).
-
-9.
-
-Le sanzioni di cui ai commi 2 e 3 sono elevate dall’Ufficio Industria, Artigianato e Commercio autonomamente o dietro segnalazione.
+9\. Le sanzioni di cui ai commi 2 e 3 sono elevate dall’Ufficio Industria, Artigianato e Commercio autonomamente o dietro segnalazione.
 
 10\. Sono autorizzati a contestare le infrazioni di cui ai commi 4, 5, 6, 7, e 8, gli organi di polizia autonomamente o dietro segnalazione e a procedere con le relative sanzioni pecuniaria amministrative.
 
@@ -7113,75 +5661,43 @@ LEGGE 21 DICEMBRE 2017 n.147 - Bilanci di previsione dello Stato e degli Enti Pu
 
 (Semplificazione manifestazioni con attività commerciali saltuarie ed occasionali)
 
-1.
+1\. Al fine di semplificare le procedure per la partecipazione ad una manifestazione nella Repubblica di San Marino patrocinata da una Segreteria di Stato, a ogni attività commerciale saltuaria esercitata nell’ambito dei suddetti eventi si applicano le seguenti disposizioni.
 
-Al fine di semplificare le procedure per la partecipazione ad una manifestazione nella Repubblica di San Marino patrocinata da una Segreteria di Stato, a ogni attività commerciale saltuaria esercitata nell’ambito dei suddetti eventi si applicano le seguenti disposizioni.
+2\. Ogni attività commerciale saltuaria deve pagare una somma forfettaria di euro 40,00 (quaranta/00) per ogni giorno di manifestazione. Tale somma non è dovuta per le imprese sammarinesi in possesso di licenza commerciale al dettaglio attiva che svolgano attività commerciale saltuaria nell’ambito di quanto già ricompreso nella licenza.
 
-2.
+3\. La somma di cui al comma 2 comprende l’autorizzazione per l’esercizio saltuario di attività commerciale; la tassa di occupazione del suolo pubblico, l’imposta sulle importazioni di cui alla Legge n.40/1972 nonché una quota in sostituzione dell’obbligo di certificazione dei ricavi tramite Smac Card.
 
-Ogni attività commerciale saltuaria deve pagare una somma forfettaria di euro 40,00 (quaranta/00) per ogni giorno di manifestazione. Tale somma non è dovuta per le imprese sammarinesi in possesso di licenza commerciale al dettaglio attiva che svolgano attività commerciale saltuaria nell’ambito di quanto già ricompreso nella licenza.
+4\. Tale somma deve essere pagata all’Ufficio Attività Economiche pena la mancata partecipazione alla manifestazione.
 
-3.
+5\. Qualora la manifestazione, sia organizzata da una persona fisica o giuridica e preveda la partecipazione di attività commerciali saltuarie, l’organizzatore, in qualità di responsabile della manifestazione, dopo aver ricevuto l’autorizzazione da parte della Gendarmeria ai sensi del Regolamento 10 agosto 2017 n.8, deve comunicare all’Ufficio Attività Economiche le date e la durata della manifestazione e l’elenco delle attività commerciali saltuarie che partecipano, su apposito modulo fornito dallo stesso Ufficio.
 
-La somma di cui al comma 2 comprende l’autorizzazione per l’esercizio saltuario di attività commerciale; la tassa di occupazione del suolo pubblico, l’imposta sulle importazioni di cui alla Legge n.40/1972 nonché una quota in sostituzione dell’obbligo di certificazione dei ricavi tramite Smac Card.
+6\. Nel caso di manifestazione gratuita la richiesta di autorizzazione di cui al Regolamento 10 agosto 2017 n.8 alla Gendarmeria deve essere presentata venti giorni prima dall’inizio della manifestazione.
 
-4.
+7\. L’Ufficio Attività Economiche, nei successivi tre giorni lavorativi dal ricevimento della richiesta, comunica al responsabile della manifestazione l’ammontare della somma forfettaria complessiva da pagare e le modalità di pagamento. Il responsabile è obbligato a pagare la somma forfettaria complessiva nei sette giorni successivi al ricevimento della comunicazione, pena l’annullamento della manifestazione stessa.
 
-Tale somma deve essere pagata all’Ufficio Attività Economiche pena la mancata partecipazione alla manifestazione.
+8\. Il responsabile della manifestazione funge da referente per le singole attività commerciali saltuarie partecipanti nei rapporti con la Pubblica Amministrazione.
 
-5.
-
-Qualora la manifestazione, sia organizzata da una persona fisica o giuridica e preveda la partecipazione di attività commerciali saltuarie, l’organizzatore, in qualità di responsabile della manifestazione, dopo aver ricevuto l’autorizzazione da parte della Gendarmeria ai sensi del Regolamento 10 agosto 2017 n.8, deve comunicare all’Ufficio Attività Economiche le date e la durata della manifestazione e l’elenco delle attività commerciali saltuarie che partecipano, su apposito modulo fornito dallo stesso Ufficio.
-
-6.
-
-Nel caso di manifestazione gratuita la richiesta di autorizzazione di cui al Regolamento 10 agosto 2017 n.8 alla Gendarmeria deve essere presentata venti giorni prima dall’inizio della manifestazione.
-
-7.
-
-L’Ufficio Attività Economiche, nei successivi tre giorni lavorativi dal ricevimento della richiesta, comunica al responsabile della manifestazione l’ammontare della somma forfettaria complessiva da pagare e le modalità di pagamento. Il responsabile è obbligato a pagare la somma forfettaria complessiva nei sette giorni successivi al ricevimento della comunicazione, pena l’annullamento della manifestazione stessa.
-
-8.
-
-Il responsabile della manifestazione funge da referente per le singole attività commerciali saltuarie partecipanti nei rapporti con la Pubblica Amministrazione.
-
-9.
-
-Sul portale della Pubblica Amministrazione vengono pubblicate ed aggiornate periodicamente tutte le informazioni necessarie e utili per l’organizzazione di una manifestazione nella Repubblica di San Marino.
+9\. Sul portale della Pubblica Amministrazione vengono pubblicate ed aggiornate periodicamente tutte le informazioni necessarie e utili per l’organizzazione di una manifestazione nella Repubblica di San Marino.
 
 ###### Art.81
 
 (Semplificazione procedurale per l’ottenimento al permesso ad esercitare agli operatori di mercati ambulanti)
 
-1.
+1\. Le tasse di rilascio e le tasse di rinnovo permessi per ambulanti, previste all’allegato B della Legge n.40/2014, nonché la tassa di occupazione al suolo pubblico come da disposizioni di riferimento in vigore, sono corrisposte in un’unica soluzione da pagare all’Ufficio Attività Economiche.
 
-Le tasse di rilascio e le tasse di rinnovo permessi per ambulanti, previste all’allegato B della Legge n.40/2014, nonché la tassa di occupazione al suolo pubblico come da disposizioni di riferimento in vigore, sono corrisposte in un’unica soluzione da pagare all’Ufficio Attività Economiche.
-
-2.
-
-L’operatore di mercati ambulanti di diritto non sammarinese deve allegare all’istanza di permesso per ambulanti o di rinnovo annuale del medesimo la Visura
+2\. L’operatore di mercati ambulanti di diritto non sammarinese deve allegare all’istanza di permesso per ambulanti o di rinnovo annuale del medesimo la Visura
 
 Camerale con data non anteriore a mesi sei dal momento della presentazione della istanza medesima.
 
-3.
+3\. È data facoltà all’operatore di mercati ambulanti sammarinese e non, di esercitare un periodo di prova della durata massima di tre mesi, un’unica volta.
 
-È data facoltà all’operatore di mercati ambulanti sammarinese e non, di esercitare un periodo di prova della durata massima di tre mesi, un’unica volta.
+4\. È ammesso alla prova l’operatore di mercati ambulanti che non abbia mai esercitato in territorio, o che non lo abbia fatto da almeno tre anni. L’istante deve fare richiesta, per il periodo di prova, all’Ufficio Attività Economiche.
 
-4.
+5\. Il periodo di prova di cui al comma 3 non può essere frazionato. La disponibilità delle aree pubbliche su cui esercitare deve essere concordata preventivamente con i Capitani di Castello o con i Responsabili di Mercato.
 
-È ammesso alla prova l’operatore di mercati ambulanti che non abbia mai esercitato in territorio, o che non lo abbia fatto da almeno tre anni. L’istante deve fare richiesta, per il periodo di prova, all’Ufficio Attività Economiche.
+6\. Il periodo di prova ha carattere di gratuità, con l’obiettivo di consentire all’operatore di verificare l’opportunità di stabilire un rapporto continuativo con i mercati territoriali sammarinesi.
 
-5.
-
-Il periodo di prova di cui al comma 3 non può essere frazionato. La disponibilità delle aree pubbliche su cui esercitare deve essere concordata preventivamente con i Capitani di Castello o con i Responsabili di Mercato.
-
-6.
-
-Il periodo di prova ha carattere di gratuità, con l’obiettivo di consentire all’operatore di verificare l’opportunità di stabilire un rapporto continuativo con i mercati territoriali sammarinesi.
-
-7.
-
-L’Ufficio Attività Economiche è deputato al controllo di tutte le procedure prescritte dal presente articolo.
+7\. L’Ufficio Attività Economiche è deputato al controllo di tutte le procedure prescritte dal presente articolo.
 
 DECRETO DELEGATO 20 SETTEMBRE 2006 N.99 - Regolamentazione ai fini della vendita dei generi di monopolio, ed in particolare dei tabacchi, e per il rilascio di licenza per l’esercizio del commercio al dettaglio dei generi di privativa
 
@@ -7295,65 +5811,41 @@ LEGGE 30 maggio 2022 n.82 - Disciplina del negozio a tempo
 
 (Oggetto e finalità)
 
-1.
+1\. La presente legge disciplina il negozio a tempo per il commercio al dettaglio e l’erogazione di servizi promozionali connessi che possano aumentare il prestigio e l’attrattività dei Centri Storici e dei centri commerciali della Repubblica di San Marino, anche al fine di incentivare il commercio e il turismo.
 
-La presente legge disciplina il negozio a tempo per il commercio al dettaglio e l’erogazione di servizi promozionali connessi che possano aumentare il prestigio e l’attrattività dei Centri Storici e dei centri commerciali della Repubblica di San Marino, anche al fine di incentivare il commercio e il turismo.
+2\. La durata del negozio a tempo presso i centri storici non può superare i sessanta giorni nell’anno, anche non continuativi.
 
-2.
-
-La durata del negozio a tempo presso i centri storici non può superare i sessanta giorni nell’anno, anche non continuativi.
-
-3.
-
-La durata del negozio a tempo presso i centri commerciali non può superare i centoventi giorni nell’anno, anche non continuativi.
+3\. La durata del negozio a tempo presso i centri commerciali non può superare i centoventi giorni nell’anno, anche non continuativi.
 
 ###### Art.2
 
 (Autorizzazione ad operare mediante negozio a tempo)
 
-1.
+1\. Possono richiedere l’autorizzazione ad operare mediante un negozio a tempo gli operatori economici sammarinesi ed esteri, appositamente autorizzati nelle modalità indicate dalla presente legge, anche se esercenti attività diversa dal commercio al dettaglio.
 
-Possono richiedere l’autorizzazione ad operare mediante un negozio a tempo gli operatori economici sammarinesi ed esteri, appositamente autorizzati nelle modalità indicate dalla presente legge, anche se esercenti attività diversa dal commercio al dettaglio.
+2\. L’autorizzazione viene rilasciata dall’Agenzia per lo Sviluppo Economico–Camera di Commercio, brevemente “ASE–CC”, previa presentazione di apposita istanza.
 
-2.
+3\. L’operatore economico ha facoltà di richiedere che l’autorizzazione diventi operativa in una data successiva, comunque non superiore a sessanta giorni.
 
-L’autorizzazione viene rilasciata dall’Agenzia per lo Sviluppo Economico–Camera di Commercio, brevemente “ASE–CC”, previa presentazione di apposita istanza.
-
-3.
-
-L’operatore economico ha facoltà di richiedere che l’autorizzazione diventi operativa in una data successiva, comunque non superiore a sessanta giorni.
-
-4.
-
-Qualora l’esercizio del negozio a tempo venga esercitato in più periodi, deve sempre essere trasmessa istanza per una nuova autorizzazione, salvo il caso in cui tali periodi siano già stati esplicitati nell’ambito della prima richiesta.
+4\. Qualora l’esercizio del negozio a tempo venga esercitato in più periodi, deve sempre essere trasmessa istanza per una nuova autorizzazione, salvo il caso in cui tali periodi siano già stati esplicitati nell’ambito della prima richiesta.
 
 ###### Art. 3
 
 (Sede)
 
-1.
+1\. Il negozio a tempo nei Centri Storici può essere aperto in un locale con destinazione d’uso commerciale, in stand, ovvero in apposite strutture amovibili concesse in uso dall’Ecc.ma Camera.
 
-Il negozio a tempo nei Centri Storici può essere aperto in un locale con destinazione d’uso commerciale, in stand, ovvero in apposite strutture amovibili concesse in uso dall’Ecc.ma Camera.
+2\. Con delibera del Congresso di Stato sono dettagliatamente individuati gli spazi e i locali pubblici con destinazione d’uso commerciale localizzati nei Centri Storici che possono essere destinati al negozio a tempo.
 
-2.
-
-Con delibera del Congresso di Stato sono dettagliatamente individuati gli spazi e i locali pubblici con destinazione d’uso commerciale localizzati nei Centri Storici che possono essere destinati al negozio a tempo.
-
-3.
-
-Il negozio a tempo nei centri commerciali può essere aperto in un locale con destinazione d’uso commerciale ovvero in stand.
+3\. Il negozio a tempo nei centri commerciali può essere aperto in un locale con destinazione d’uso commerciale ovvero in stand.
 
 ###### Art. 4
 
 (Locazione transitoria)
 
-1.
+1\. Le sedi del negozio a tempo, siano esse pubbliche o private, sono oggetto, in deroga alle disposizioni generali in materia di locazioni ai sensi dell’articolo 1 della Legge 20 febbraio 1991 n.26, di locazione di natura meramente transitoria, secondo i format e gli standard individuati da ASE–CC con l’ausilio dell’Avvocatura dello Stato. Il contratto di locazione transitoria deve essere redatto in forma scritta e registrato presso l’Ufficio del Registro e Conservatoria.
 
-Le sedi del negozio a tempo, siano esse pubbliche o private, sono oggetto, in deroga alle disposizioni generali in materia di locazioni ai sensi dell’articolo 1 della Legge 20 febbraio 1991 n.26, di locazione di natura meramente transitoria, secondo i format e gli standard individuati da ASE–CC con l’ausilio dell’Avvocatura dello Stato. Il contratto di locazione transitoria deve essere redatto in forma scritta e registrato presso l’Ufficio del Registro e Conservatoria.
-
-2.
-
-Ferma restando la durata del negozio a tempo di cui all’articolo 1, commi 2 e 3, la durata del contratto di locazione transitoria non può essere superiore a novanta
+2\. Ferma restando la durata del negozio a tempo di cui all’articolo 1, commi 2 e 3, la durata del contratto di locazione transitoria non può essere superiore a novanta
 
 giorni per i negozi a tempo nei centri storici ed a centocinquanta giorni per i negozi a tempo nei centri commerciali, ed è vietata la sublocazione.
 
@@ -7361,61 +5853,37 @@ giorni per i negozi a tempo nei centri storici ed a centocinquanta giorni per i 
 
 (Negozi a tempo presso i Centri Storici)
 
-1.
+1\. Per l’avvio di negozi a tempo presso i Centri Storici della Repubblica di San Marino, l’operatore economico trasmette istanza ad ASE–CC nella quale deve illustrare l’attività che intende svolgere, indicando la tipologia merceologica, il relativo codice ATECO, la durata e la sede individuata per l’esercizio del negozio a tempo.
 
-Per l’avvio di negozi a tempo presso i Centri Storici della Repubblica di San Marino, l’operatore economico trasmette istanza ad ASE–CC nella quale deve illustrare l’attività che intende svolgere, indicando la tipologia merceologica, il relativo codice ATECO, la durata e la sede individuata per l’esercizio del negozio a tempo.
+2\. ASE–CC, dopo aver verificato che l’istanza sia conforme a quanto disposto dalla presente legge, svolge una sommaria analisi sul prestigio e/o l’attrattività dell’attività che il richiedente intende svolgere nel negozio a tempo ed ulteriori valutazioni di opportunità.
 
-2.
+3\. ASE–CC, qualora abbia valutato positivamente l’istanza, rilascia, entro quarantotto ore dalla richiesta, l’autorizzazione ad operare mediante negozio a tempo previo parere favorevole dell’Ufficio del Turismo.
 
-ASE–CC, dopo aver verificato che l’istanza sia conforme a quanto disposto dalla presente legge, svolge una sommaria analisi sul prestigio e/o l’attrattività dell’attività che il richiedente intende svolgere nel negozio a tempo ed ulteriori valutazioni di opportunità.
+4\. A seguito di autorizzazione, per il perfezionamento della pratica, il richiedente deve indicare gli estremi di registrazione del contratto di locazione di natura transitoria relativo alla sede.
 
-3.
+5\. Qualora si tratti di un locale con destinazione d’uso commerciale, l’istante è esentato dall’obbligo di allegare alla pratica la planimetria del locale e il certificato di abitabilità.
 
-ASE–CC, qualora abbia valutato positivamente l’istanza, rilascia, entro quarantotto ore dalla richiesta, l’autorizzazione ad operare mediante negozio a tempo previo parere favorevole dell’Ufficio del Turismo.
+6\. L’operatore economico è esentato dall’obbligo di presentazione della pratica di codice ambientale relativa alla gestione dei rifiuti, ma è tenuto al rispetto delle condizioni di cui al contratto di locazione transitoria.
 
-4.
-
-A seguito di autorizzazione, per il perfezionamento della pratica, il richiedente deve indicare gli estremi di registrazione del contratto di locazione di natura transitoria relativo alla sede.
-
-5.
-
-Qualora si tratti di un locale con destinazione d’uso commerciale, l’istante è esentato dall’obbligo di allegare alla pratica la planimetria del locale e il certificato di abitabilità.
-
-6.
-
-L’operatore economico è esentato dall’obbligo di presentazione della pratica di codice ambientale relativa alla gestione dei rifiuti, ma è tenuto al rispetto delle condizioni di cui al contratto di locazione transitoria.
-
-7.
-
-In deroga alle disposizioni vigenti, al fine del rilascio dell’autorizzazione ad operare di cui all’articolo 2 non è necessario il parere del Comitato d’Esame di cui all’articolo 21 della Legge 26 luglio 2010 n.130.
+7\. In deroga alle disposizioni vigenti, al fine del rilascio dell’autorizzazione ad operare di cui all’articolo 2 non è necessario il parere del Comitato d’Esame di cui all’articolo 21 della Legge 26 luglio 2010 n.130.
 
 ###### Art. 6
 
 (Negozio a tempo presso centri commerciali)
 
-1.
+1\. Per l’avvio di negozi a tempo presso i centri commerciali, l’autorizzazione è rilasciata nel momento stesso in cui ASE-CC riceve la relativa istanza se questa è conforme a quanto disposto dalla presente legge, senza le ulteriori valutazioni di cui al comma 2 del precedente articolo.
 
-Per l’avvio di negozi a tempo presso i centri commerciali, l’autorizzazione è rilasciata nel momento stesso in cui ASE-CC riceve la relativa istanza se questa è conforme a quanto disposto dalla presente legge, senza le ulteriori valutazioni di cui al comma 2 del precedente articolo.
+2\. L’istanza di cui all’articolo 2, comma 2, deve contenere il codice ATECO, gli estremi di registrazione del contratto di locazione di natura transitoria relativo alla sede e la durata del negozio a tempo.
 
-2.
+3\. Qualora si tratti di un locale con destinazione d’uso commerciale, l’istante è esentato dall’obbligo di allegare alla pratica la planimetria del locale e il certificato di abitabilità.
 
-L’istanza di cui all’articolo 2, comma 2, deve contenere il codice ATECO, gli estremi di registrazione del contratto di locazione di natura transitoria relativo alla sede e la durata del negozio a tempo.
-
-3.
-
-Qualora si tratti di un locale con destinazione d’uso commerciale, l’istante è esentato dall’obbligo di allegare alla pratica la planimetria del locale e il certificato di abitabilità.
-
-4.
-
-L’operatore economico è esentato dall’obbligo di presentazione della pratica di codice ambientale relativa alla gestione dei rifiuti ma è tenuto al rispetto delle condizioni di cui al contratto di locazione transitoria.
+4\. L’operatore economico è esentato dall’obbligo di presentazione della pratica di codice ambientale relativa alla gestione dei rifiuti ma è tenuto al rispetto delle condizioni di cui al contratto di locazione transitoria.
 
 ###### Art. 7
 
 (Operatori economici esteri)
 
-1.
-
-Al fine di ottenere l’autorizzazione ad operare mediante negozio a tempo di cui all’articolo 2, gli operatori economici esteri, in aggiunta alla documentazione di cui ai precedenti articoli, devono produrre:
+1\. Al fine di ottenere l’autorizzazione ad operare mediante negozio a tempo di cui all’articolo 2, gli operatori economici esteri, in aggiunta alla documentazione di cui ai precedenti articoli, devono produrre:
 
 a) il certificato di vigenza o documento equipollente in corso di validità;
 
@@ -7423,61 +5891,43 @@ b) i certificati di distacco, rilasciati dagli enti previdenziali di appartenenz
 
 c) dichiarazione sostitutiva del legale rappresentante dell’impresa, o suo delegato, che i lavoratori distaccati risultano dipendenti in forza all’impresa e non stanno usufruendo di cassa integrazione guadagni o di qualsiasi altro tipo di congedo o permesso, che i lavoratori distaccati sono in possesso degli eventuali requisiti professionali richiesti per particolari categorie merceologiche di cui all’Allegato A della Legge 26 luglio 2010 n.130 e all’Allegato A della Legge 31 marzo 2014 n.40 e successive modifiche, che verranno rispettate le misure in materia di sicurezza sui luoghi di lavoro previste nella Repubblica di San Marino.
 
-2.
+2\. Il distacco dei dipendenti dell’operatore economico estero presso il negozio a tempo può avvenire in deroga alla disciplina di cui all’articolo 19 della Legge 29 settembre 2005 n.131 e successive modifiche ed all’articolo 7 del Decreto Legge 5 ottobre 2011 n.156 e successive modifiche.
 
-Il distacco dei dipendenti dell’operatore economico estero presso il negozio a tempo può avvenire in deroga alla disciplina di cui all’articolo 19 della Legge 29 settembre 2005 n.131 e successive modifiche ed all’articolo 7 del Decreto Legge 5 ottobre 2011 n.156 e successive modifiche.
-
-3.
-
-Le imprese non devono avere sede nei Paesi ad Alto Rischio, ad esclusione delle giurisdizioni sottoposte ad un accurato monitoraggio da parte degli organismi internazionali.
+3\. Le imprese non devono avere sede nei Paesi ad Alto Rischio, ad esclusione delle giurisdizioni sottoposte ad un accurato monitoraggio da parte degli organismi internazionali.
 
 ###### Art. 8
 
 (Smac Card)
 
-1.
-
-L’operatore economico che svolge attività nel negozio a tempo ha l’obbligo di certificazione dei ricavi tramite Smac Card.
+1\. L’operatore economico che svolge attività nel negozio a tempo ha l’obbligo di certificazione dei ricavi tramite Smac Card.
 
 ###### Art. 9
 
 (Disposizioni fiscali)
 
-1.
+1\. Gli operatori economici esteri, per l’avvio del negozio a tempo, devono allegare al momento della presentazione dell’istanza di cui all’articolo 2, comma 2, la quietanza di pagamento relativa all’apposita tassa pari ad euro 400,00 per i primi quindici giorni ed euro 200,00 per ogni successivo periodo di durata compresa fra uno e quindici giorni, fino ad un massimo di centoventi giorni.
 
-Gli operatori economici esteri, per l’avvio del negozio a tempo, devono allegare al momento della presentazione dell’istanza di cui all’articolo 2, comma 2, la quietanza di pagamento relativa all’apposita tassa pari ad euro 400,00 per i primi quindici giorni ed euro 200,00 per ogni successivo periodo di durata compresa fra uno e quindici giorni, fino ad un massimo di centoventi giorni.
+2\. Gli operatori economici esteri che esercitano l’attività attraverso il negozio a tempo sono soggetti all’applicazione di un’imposta sostitutiva nella misura del 12% calcolata sul valore delle vendite effettuate attraverso il negozio a tempo. Tale imposta è sostitutiva dell’imposta sulle importazioni di cui alla Legge 22 dicembre 1972 n.40.
 
-2.
-
-Gli operatori economici esteri che esercitano l’attività attraverso il negozio a tempo sono soggetti all’applicazione di un’imposta sostitutiva nella misura del 12% calcolata sul valore delle vendite effettuate attraverso il negozio a tempo. Tale imposta è sostitutiva dell’imposta sulle importazioni di cui alla Legge 22 dicembre 1972 n.40.
-
-3.
-
-Entro 30 giorni dalla chiusura del negozio a tempo gli operatori esteri devono depositare presso l’Ufficio Tributario la ricevuta di pagamento dell’imposta di cui al comma 2 nonché la documentazione attestante la merce importata in territorio e venduta attraverso il negozio a tempo.
+3\. Entro 30 giorni dalla chiusura del negozio a tempo gli operatori esteri devono depositare presso l’Ufficio Tributario la ricevuta di pagamento dell’imposta di cui al comma 2 nonché la documentazione attestante la merce importata in territorio e venduta attraverso il negozio a tempo.
 
 ###### Art. 10
 
 (Rinvio)
 
-1.
-
-Gli operatori economici sono tenuti al rispetto delle vigenti disposizioni previste per particolari settori merceologici.
+1\. Gli operatori economici sono tenuti al rispetto delle vigenti disposizioni previste per particolari settori merceologici.
 
 ###### Art. 11
 
 (Disposizioni transitorie)
 
-1.
-
-Le funzioni attribuite all’Agenzia per lo Sviluppo Economico–Camera di Commercio vengono svolte dall’Ufficio Attività Economiche fino al termine della completa ristrutturazione della stessa e comunque non oltre sei mesi dall’entrata in vigore della presente legge.
+1\. Le funzioni attribuite all’Agenzia per lo Sviluppo Economico–Camera di Commercio vengono svolte dall’Ufficio Attività Economiche fino al termine della completa ristrutturazione della stessa e comunque non oltre sei mesi dall’entrata in vigore della presente legge.
 
 ###### Art.12
 
 (Entrata in vigore)
 
-1.
-
-La presente legge entra in vigore il novantesimo giorno successivo a quello della sua legale pubblicazione.
+1\. La presente legge entra in vigore il novantesimo giorno successivo a quello della sua legale pubblicazione.
 
 LEGGE 23 giugno 2021 n.113 DISCIPLINA DELLA COLTIVAZIONE, TRASFORMAZIONE, COMMERCIO E UTILIZZO DI PRODOTTI A BASE DI CANNABIS DESTINATI ESCLUSIVAMENTE AD USO MEDICINALE O TERAPEUTICO
 
@@ -7697,9 +6147,9 @@ autorizzati alla coltivazione, trasformazione o commercializzazione di cannabis 
 
 (Transito)
 
-1\. L’autorizzazione al transito di semi, piante, infiorescenze, semilavorati o medicinali a base di cannabis è concessa dall’ASCC, previa presentazione di apposita domanda da parte dell’ente o impresa che ha prodotto la merce, ovvero dello stesso vettore, secondo le modalità indicate dal regolamento dell’ASCC di cui all’articolo 13, comma 1.
+1\. L’autorizzazione al transito di semi, piante, infiorescenze, semilavorati o medicinali a base di cannabis è concessa dall’ASCC, previa presentazione di apposita domanda da parte dell’ente o impresa che ha prodotto la merce, ovvero dello stesso vettore, secondo le modalità indicate dal regolamento dell’ASCC di cui all’articolo 13, comma
 
-2\. La domanda deve essere in ogni caso corredata dal permesso di importazione rilasciato dalle competenti autorità del Paese di destinazione e dal permesso di esportazione rilasciato dalle competenti autorità del Paese di provenienza.
+1\. 2. La domanda deve essere in ogni caso corredata dal permesso di importazione rilasciato dalle competenti autorità del Paese di destinazione e dal permesso di esportazione rilasciato dalle competenti autorità del Paese di provenienza.
 
 3\. Il provvedimento di autorizzazione dell’ASCC è trasmesso tempestivamente alla centrale operativa dei Corpi di Polizia.
 
